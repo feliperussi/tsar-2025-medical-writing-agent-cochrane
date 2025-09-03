@@ -1,0 +1,75 @@
+from typing import Dict, Any
+from api.core.base_tool import BaseTool
+from api.schemas.base import ToolInfo, ToolResponse
+
+
+class ExampleTool(BaseTool):
+    """Example tool template for creating new tools"""
+    
+    def __init__(self):
+        # Initialize any required services or resources here
+        pass
+    
+    @property
+    def info(self) -> ToolInfo:
+        return ToolInfo(
+            name="example",
+            description="Description of what this tool does",
+            parameters={
+                "type": "object",
+                "properties": {
+                    "input_text": {
+                        "type": "string",
+                        "description": "The input text to process"
+                    },
+                    "option": {
+                        "type": "string",
+                        "description": "An optional parameter",
+                        "default": "default_value"
+                    }
+                },
+                "required": ["input_text"]
+            },
+            version="1.0.0"
+        )
+    
+    async def execute(self, parameters: Dict[str, Any]) -> ToolResponse:
+        # Validate parameters
+        if not self.validate_parameters(parameters):
+            return ToolResponse(
+                tool_name=self.info.name,
+                status="error",
+                error="Missing required parameters"
+            )
+        
+        try:
+            # Extract parameters
+            input_text = parameters.get("input_text")
+            option = parameters.get("option", "default_value")
+            
+            # Process the input (implement your logic here)
+            result = {
+                "processed_text": input_text.upper(),  # Example processing
+                "option_used": option,
+                "length": len(input_text)
+            }
+            
+            return ToolResponse(
+                tool_name=self.info.name,
+                status="success",
+                result=result
+            )
+        except Exception as e:
+            return ToolResponse(
+                tool_name=self.info.name,
+                status="error",
+                error=str(e)
+            )
+
+
+# To use this tool:
+# 1. Copy this file and rename it (remove .example extension)
+# 2. Implement your tool logic in the execute method
+# 3. Register it in main.py's register_tools() function:
+#    from api.tools.your_tool import YourTool
+#    tool_registry.register(YourTool())

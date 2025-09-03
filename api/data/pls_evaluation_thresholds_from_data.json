@@ -1,0 +1,128 @@
+{
+  "flesch_reading_ease": {
+    "direction": "higher_better",
+    "excellent": 48.16615123580937,
+    "good": 40.47912671727774,
+    "acceptable": 32.679851007213436,
+    "poor": 25.274616760750355
+  },
+  "flesch_kincaid_grade": {
+    "direction": "lower_better",
+    "excellent": 11.770806813558812,
+    "good": 13.157523824244475,
+    "acceptable": 14.590266264163017,
+    "poor": 16.052736229513258
+  },
+  "gunning_fog_index": {
+    "direction": "lower_better",
+    "excellent": 16.150326143932904,
+    "good": 17.788624437738168,
+    "acceptable": 19.39258164243609,
+    "poor": 21.049709677419358
+  },
+  "smog_index": {
+    "direction": "lower_better",
+    "excellent": 10.681145747868609,
+    "good": 12.1104335791443,
+    "acceptable": 13.583005244258365,
+    "poor": 14.874342087037917
+  },
+  "dale_chall_readability": {
+    "direction": "lower_better",
+    "excellent": 7.189581118259798,
+    "good": 7.653854863641607,
+    "acceptable": 8.157275186267166,
+    "poor": 8.633255949258393
+  },
+  "coleman_liau_index": {
+    "direction": "lower_better",
+    "excellent": 11.359018815950874,
+    "good": 12.6602450075516,
+    "acceptable": 13.956640826873382,
+    "poor": 15.160917785181654
+  },
+  "automated_readability_index": {
+    "direction": "lower_better",
+    "excellent": 12.022611039855796,
+    "good": 13.603624526916342,
+    "acceptable": 15.294200737917278,
+    "poor": 16.945723583797296
+  },
+  "lix": {
+    "direction": "lower_better",
+    "excellent": 50.25375076625558,
+    "good": 54.31574021675178,
+    "acceptable": 58.401073039429654,
+    "poor": 62.37913915134275
+  },
+  "rix": {
+    "direction": "lower_better",
+    "excellent": 6.04,
+    "good": 7.041666666666667,
+    "acceptable": 8.142857142857142,
+    "poor": 9.357142857142858
+  },
+  "words_per_sentence": {
+    "direction": "lower_better",
+    "excellent": 19.805555555555557,
+    "good": 22.127717391304348,
+    "acceptable": 24.761428571428574,
+    "poor": 27.6
+  },
+  "passive_voice": {
+    "direction": "lower_better",
+    "excellent": 9.0,
+    "good": 13.0,
+    "acceptable": 18.0,
+    "poor": 23.0
+  },
+  "active_voice": {
+    "direction": "higher_better",
+    "excellent": 41.0,
+    "good": 29.0,
+    "acceptable": 20.0,
+    "poor": 14.0
+  },
+  "nominalization": {
+    "direction": "lower_better",
+    "excellent": 8.0,
+    "good": 13.0,
+    "acceptable": 20.0,
+    "poor": 27.0
+  },
+  "complex_words_dc": {
+    "direction": "lower_better",
+    "excellent": 115.0,
+    "good": 160.0,
+    "acceptable": 213.0,
+    "poor": 277.0
+  },
+  "long_words": {
+    "direction": "lower_better",
+    "excellent": 88.0,
+    "good": 122.0,
+    "acceptable": 164.0,
+    "poor": 208.0
+  },
+  "complex_words": {
+    "direction": "lower_better",
+    "excellent": 60.0,
+    "good": 84.0,
+    "acceptable": 115.0,
+    "poor": 145.0
+  },
+  "pronouns": {
+    "direction": "higher_better",
+    "excellent": 21.0,
+    "good": 13.0,
+    "acceptable": 8.0,
+    "poor": 5.0
+  },
+  "nouns": {
+    "direction": "lower_better",
+    "excellent": 83.0,
+    "good": 116.0,
+    "acceptable": 157.0,
+    "poor": 202.0
+  }
+}
