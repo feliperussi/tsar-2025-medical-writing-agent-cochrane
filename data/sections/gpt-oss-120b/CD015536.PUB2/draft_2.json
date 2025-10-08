@@ -1,0 +1,162 @@
+{
+  "id": "CD015536.PUB2",
+  "draft": "Is the antiviral drug entecavir (a medicine that blocks hepatitis B virus) better than no treatment or a dummy pill (placebo) for children and adults with chronic hepatitis B?\n\nKey messages:\n– Because the evidence is weak, we cannot say whether entecavir (an antiviral medicine that blocks hepatitis B virus) improves survival or reduces serious side‑effects for people with chronic hepatitis B.\n– The trials did not report any data on health‑related quality of life (how treatment affects daily wellbeing) and no deaths occurred, so the true impact of the drug remains uncertain.\n– We need larger, well‑designed studies that follow participants longer and record survival, quality of life, and serious side‑effects.\n\nWhat is chronic hepatitis B and why is it a public health problem?\nChronic hepatitis B is a long‑lasting infection of the liver caused by hepatitis B virus (HBV). It can lead to serious liver damage, liver cancer, and early death. About 300 million people worldwide live with HBV, making it a major global health concern. The infection often has no obvious symptoms, but it still harms the liver and can be spread through blood or from mother to child at birth.\n\nWhat treatments are available for chronic hepatitis B and what is entecavir?\nDoctors use medicines that stop the virus from multiplying to control chronic hepatitis B. One common type is a nucleos(t)ide analogue – a drug that looks like a building block of the virus’s genetic material and blocks its replication. Entecavir is such a nucleos(t)ide analogue and is recommended in many guidelines as a first‑line (initial) treatment for both children and adults. It is taken as a pill and aims to keep the virus at low levels, reducing liver damage.\n\nWhat did the review aim to find out?\nWe wanted to determine whether entecavir is truly beneficial and safe compared with no treatment or a dummy pill (placebo). We looked at people of any age – children and adults – who have chronic hepatitis B, whether they are positive or negative for hepatitis B e‑antigen (HBeAg, a protein that indicates active virus replication). We focused on three important outcomes: overall death rates, serious side‑effects, and health‑related quality of life.\n\nHow did we find and evaluate the evidence?\nWe searched multiple databases for randomised trials that compared entecavir with no treatment or placebo in children or adults with chronic hepatitis B. We combined the results using meta‑analysis where possible and used the GRADE approach to rate our confidence in the evidence.\n\nWhat did we find?\nWe examined 22 randomised clinical trials published between 2005 and 2022. Together, the trials enrolled 2,940 participants with chronic hepatitis B. All trials used a parallel‑group design and tested oral entecavir against either no treatment (12 trials) or placebo (10 trials). Fourteen trials gave the same additional co‑interventions to both groups. Study lengths ranged from 5 weeks to 228 weeks, with an average follow‑up of about 58 weeks for those providing quantitative data. Most participants were adults; one trial included only children, one covered ages 14–55, and one did not report age. We did not collect details about the countries, settings, or funding sources of the individual studies. No trial reported health‑related quality‑of‑life outcomes, and none recorded any deaths.\n\nWe therefore cannot say whether entecavir changes the risk of death, serious adverse events, or health‑related quality of life for people with chronic hepatitis B.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants may have known which treatment they received, which can bias results. Not all trials provided data on the outcomes we were interested in, and the evidence is based on few events, leading to imprecision.\n\nHow up to date is this review?\nThe evidence we summarised is current up to July 2024.\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 648,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.903225806451612,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 60,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 41,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 179,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 55.71544802867385,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.681085225009959,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.180270310633212,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.19858024691358,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.509438470728792,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.37236160892075,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.741935483870968,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.6647012345679,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 272,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 272.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 132,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 132.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 648,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 648 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 2,
+        "P75_count": 7,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft meets all critical checks (complete sections, question‑style headings, factual accuracy, <850 words). Metric analysis shows strong overall conformity, with readability scores well within typical PLS ranges. The only notable deviations are higher-than‑median noun count, complex‑word, and long‑word frequencies, reflecting the noun‑heavy style of the draft, but these do not impede essential understanding."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD011538.PUB2",
+  "draft": "analysisWe need to assemble plain language summary with formatting rules: Title as Heading (maybe just plain line?), main sections as **Bold Headings**, key messages as list with dashes, introduction sections with subheadings. No markdown? It says no markdown. But formatting rules mention headings and bold headings, which are markdown syntax. However they say output must be only final plain language summary in a single block of text with no markdown. So we must present without markdown syntax. Probably plain text with headings indicated by uppercase or something? But they said Title as Heading, main sections as **Bold Headings**. That is markdown. Conflict. Since final instruction says no markdown, we must strip markdown. Probably just plain text with headings capitalized and maybe colon. Let's interpret: Title line, then sections labeled in bold but we can't use markdown, maybe just uppercase. However they explicitly said no markdown. So we should output plain text, but we can simulate bold by using uppercase. Let's produce:\n\nTitle line.\n\nKey messages:\n- ...\n\nThen sections: Introduction/Aims, Methods, Results, Limitations, Currency.\n\nWithin Introduction/Aims we have two subheadings with their content.\n\nWe'll follow order: Title, Key messages, Introduction/Aims, Methods, Results, Limitations, Currency.\n\nLet's assemble.\n\nTitle: Do school support programs help children and teens with long-term illnesses (chronic health conditions) stay engaged in school and improve their grades?\n\nKey messages list.\n\nThen Introduction/Aims heading.\n\nSubheading 1: Why is school engagement a concern for children and adolescents with chronic health conditions?\nContent.\n\nSubheading 2: What did the review authors want to find out?\nContent.\n\nMethods heading and content.\n\nResults heading and content.\n\nLimitations heading and content.\n\nCurrency heading and content.\n\nMake sure no markdown symbols like ** or #. Use plain text.\n\nLet's produce.Do school support programs help children and teens with long-term illnesses (chronic health conditions) stay engaged in school and improve their grades?\n\nKey messages\n- We are uncertain whether school support programmes help children and teens with chronic health conditions stay engaged in school (continue attending and participating) or improve their grades (academic achievement); the few studies available gave mixed results and did not provide clear evidence of benefit, and no harmful effects were reported.\n- Some evidence suggests that these programmes may have a small positive effect on mental health, such as increasing self‑esteem (how positively a person feels about themselves), but the confidence in this finding is limited.\n- More well‑designed, larger studies are needed to determine whether school support programmes truly improve school engagement, academic performance, and mental health for children with chronic illnesses, and to explore any possible unintended effects.\n\nIntroduction/Aims\nWhy is school engagement a concern for children and adolescents with chronic health conditions?\nMany children and teens live with long‑lasting illnesses such as asthma, diabetes, cancer, or attention‑deficit/hyperactivity disorder (ADHD). These conditions are called chronic health conditions because they last for months or years, do not go away on their own, and are rarely cured completely. Up to 44 % of young people may have such a condition, and about 5 % have a severe form that makes everyday activities – including going to school – difficult. Regular school attendance is crucial for learning academic subjects, building social skills, and maintaining overall wellbeing. When illness forces a child to miss school, they can become disengaged – meaning they participate less in lessons, fall behind academically, and may feel isolated. Disengagement is linked to poorer grades, lower self‑esteem, and limited future career options. To help keep these children connected to learning, schools and health services sometimes provide education support services (for example, tutoring, individualized learning plans, or assistance with school re‑entry after a hospital stay). However, we do not yet know how well these supports actually improve school attendance, engagement, or academic results.\n\nWhat did the review authors want to find out?\nThe reviewers set two main goals: (1) to describe the different types of education support interventions that have been offered to children and adolescents with chronic health conditions, and (2) to examine whether these interventions help improve school engagement (how much a child participates in school life) and academic achievement (how well a child performs in school, such as grades or test scores). In other words, they wanted to see what the support looks\n\nMethods\nWe searched for studies of educational support for children and adolescents with chronic health conditions that reported school engagement or academic achievement. We summarised the findings using a vote‑counting approach and assessed our confidence in the evidence.\n\nResults\nWe identified four randomised controlled trials that together enrolled 359 children and young people aged 4 to 18 years with chronic health conditions (three studies in children with cancer and one in children with attention‑deficit/hyperactivity disorder). The trials compared educational support programmes aimed at improving school engagement and academic outcomes with usual care or no additional support. Details about the exact nature, duration, or follow‑up of the interventions, as well as the countries where the studies were conducted and their funding sources, were not provided. No study reported quality‑of‑life outcomes or adverse effects, and only two measured mental‑health outcomes (self‑esteem). The evidence was uncertain: it is unclear whether educational support improves school engagement or academic achievement, and the effect on transition back to school is also uncertain. There is a suggestion that self‑esteem might increase slightly, but the confidence in the evidence is low.\n\nLimitations\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting and not all of the studies provided data about everything we were interested in, the studies were done in different types of people or used different ways of delivering the support, and the studies were very small and there were not enough studies to be certain about the results.\n\nCurrency\nThe evidence is up to date to February 2021 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1033,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 58,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.810344827586206,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 44,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 44.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 314,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 314.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 53.62681268151019,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.204049971625999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.084446373134831,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.012042594385282,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.32646126114097,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.885853056047,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.068965517241379,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.78404875209022,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.875338892412458,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 392,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 392.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 186,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 352,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 352.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 1033,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 1033 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 3,
+        "P75_count": 3,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails several critical checks: (1) The main section headings (Introduction/Aims, Methods, Results, Limitations, Currency) are not phrased as questions, which the style guide requires. (2) The total word count is 1,033 words, exceeding the 850‑word limit for a Plain Language Summary. (3) The text contains excessive passive constructions (21 instances) and a very high level of nominalisation (44 instances) and complex vocabulary (e.g., 186 complex words, SMOG index 16.8), making it harder for a lay audience to understand. Key clarity issues include long, jargon‑heavy sentences and missing paragraph breaks. Suggested priority improvements: \n- Re‑write main headings as questions (e.g., \"What did we aim to find out?\", \"How did we carry out the review?\", \"What did we find?\", \"What are the limitations of the evidence?\", \"How up‑to‑date is this review?\").\n- Cut the summary to ≤850 words by removing redundant phrasing, merging overlapping sentences, and simplifying language.\n- Reduce passive voice and nominalisations: change \"The evidence was uncertain\" to \"We are uncertain about the evidence\"; replace noun‑heavy phrases like \"the overall certainty of evidence\" with verbs such as \"we judged the evidence as very low confidence\".\n- Replace technical terms with plain language definitions (e.g., explain \"vote‑counting\" as \"we counted how many studies showed a positive or negative effect\").\n- Shorten long sentences (over 30 words) and break them into two shorter sentences, ensuring each paragraph focuses on a single idea.\nThese changes will bring the draft into compliance with the Master Style Guide and improve readability for patients.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is over the 850‑word limit (1033 words). Readability metrics are relatively good (Flesch Reading Ease 53.6, FKGL 10.2) but several structural and lexical metrics deviate markedly: passive_voice (21, beyond P90), nominalization (44, beyond P90), nouns (314, beyond P90), SMOG index (16.8, beyond P90), complex_words_dc (392, beyond P90), complex_words (186, beyond P90), and long_words (352, beyond P90). These indicate excessive noun‑heavy and complex language, which aligns with the identified clarity and style issues."
+    }
+  ]
+}

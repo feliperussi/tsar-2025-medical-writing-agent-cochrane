@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013619.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What does letting family members watch a resuscitation (family presence during resuscitation, FPDR) do for them?\n\nKey Messages\n– FPDR may help relatives feel less scared and hurt after a resuscitation, but we are very uncertain about how much help it gives.\n– FPDR probably does not change how long the resuscitation takes or how stressed the doctors and nurses feel.\n– More well‑designed studies are needed to know for sure whether FPDR is helpful or not.\n\nIntroduction\nWhat is family presence during resuscitation?  FPDR is when a relative or close friend is allowed to stay in the room while a patient is being revived.  The idea is that the family can see what is happening and may feel more involved in the care.\n\nWhy do people want to be there?  Many patients and relatives want to be part of the decision‑making process, even when a life‑saving emergency is happening.  Being present can give relatives a sense of control and may help them understand the situation.\n\nWhat did we want to find out?  We wanted to know whether offering relatives the chance to stay during resuscitation changes how they feel afterwards.  We also wanted to see if it changes how the patient is treated, how long the resuscitation lasts, and how stressed the medical staff feel.\n\nWhat did we do?  We looked for all studies that compared letting relatives stay during resuscitation with not letting them stay.  We then combined what those studies reported and judged how confident we could be in the results.\n\nWhat did we find?\nStudy characteristics\nWe found two studies that met our criteria.  Together they included 595 adults, most of whom were women and aged between 19 and 78 years.  One study was done in France with emergency medical teams, and the other was a small pilot study in the United Kingdom’s emergency department.\n\nMain results\nPTSD symptoms\nIn the larger study, relatives who were allowed to stay during resuscitation had fewer signs of PTSD than those who were not allowed to stay.  Because the evidence is very uncertain, we say: FPDR may reduce PTSD symptoms.\n\nAnxiety, depression and complicated grief\nThe same study also found that relatives who stayed during resuscitation reported less anxiety, less depression and less complicated grief after one year.  Again, the evidence is very uncertain, so we say: FPDR may reduce these feelings.\n\nResuscitation duration and staff stress\nThe French study measured how long the resuscitation lasted and how stressed the doctors and nurses felt.  It found no difference between the two groups.  Because the evidence is very uncertain, we say: FPDR may make little to no difference to how long the resuscitation takes or how stressed the staff feel.\n\nLimitations of the evidence\nWe have little confidence in the evidence because the studies were small and had many problems that could affect the results.  The studies were not perfect, and the number of people involved was limited, so we are not sure how reliable the findings are.\n\nHow up to date is this evidence?\nThe evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 550,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.741935483870968,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 108,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.61857184750735,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.51444574780059,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.070767741935484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.286036363636363,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.696774193548388,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.74193548387097,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.903225806451613,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.444745454545455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 159,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 121,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 550,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 550 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:20.017344"
+}

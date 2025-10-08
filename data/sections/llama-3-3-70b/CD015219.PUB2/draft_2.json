@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "Is favipiravir (an antiviral drug) effective for treating COVID-19?\n\nKey messages:\n- Favipiravir, an antiviral drug (a type of medicine that fights viruses), may not have a clear benefit for treating COVID-19, and its effects on reducing mortality (death rate) or the need for mechanical ventilation (a life-support treatment that helps people breathe) are uncertain, largely due to a lack of robust evidence.\n- The use of favipiravir may lead to an increase in adverse events (unwanted or harmful effects), but it is unclear if it causes serious adverse events, highlighting the need for caution and further investigation into its safety profile.\n- Future research should focus on addressing the significant gaps in knowledge about favipiravir's effectiveness and safety for COVID-19 treatment, including the need for high-quality studies that can provide more definitive answers about its benefits and risks, especially in different patient groups and over longer treatment periods.\n\nWhat is COVID-19 and why is it a problem?\nCOVID-19 is a disease caused by a coronavirus called SARS-CoV-2. It has spread rapidly around the world, causing a pandemic that has challenged healthcare systems and societies globally. COVID-19 can cause a range of symptoms, from mild to severe, and can lead to serious health problems, including pneumonia, acute respiratory distress syndrome, and even death. Common treatments for COVID-19 include supportive care, such as rest, hydration, and oxygen therapy, as well as antiviral medications and other experimental treatments.\n\nWhat did the review authors want to find out about favipiravir?\nThe review authors wanted to assess the effects of favipiravir, an antiviral medication, in people with COVID-19. They aimed to compare favipiravir to no treatment, supportive treatment, or other experimental antiviral treatments, and to evaluate its impact on outcomes such as all-cause mortality, progression to invasive mechanical ventilation, need for hospital admission, time to clinical improvement, and incidence of adverse events.\n\nWhat did we find?\nWe found 25 studies that involved 5750 adults with COVID-19. Most participants were hospitalized with mild to moderate disease (89%) and were under 60 years of age. The studies were conducted in 13 countries including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA. The types of interventions and comparisons included favipiravir compared to placebo or standard of care, lopinavir/ritonavir, and umifenovir. Most trials initiated favipiravir at 1600 mg or 1800 mg twice daily for the first day, followed by 600 mg to 800 mg twice a day, with a duration of treatment varying from five to 14 days. Favipiravir may make little to no difference in reducing all-cause mortality, the progression to invasive mechanical ventilation, the need for admission to hospital, or the time to clinical improvement. However, it may lead to an overall increased incidence of adverse events. The evidence is uncertain, and it is unclear if favipiravir has an effect on these outcomes.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to July 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 545,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 23,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.695652173913043,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 39,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 153,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 39.81767451136818,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.59222177901875,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.45793617869964,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.714275229357796,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.43238930993219,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.98923015556443,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.6521739130434785,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.578221779018748,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 221,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 221.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 122,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 122.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 545,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 545 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The response indicates that the agent halted because it reached the maximum number of iterations, which suggests a failure to complete the task as intended.",
+      "pls_evaluation_summary": "The agent did not successfully finish its operation and stopped prematurely due to iteration limits, leading to a NOT_APPROVED grade."
+    }
+  ]
+}

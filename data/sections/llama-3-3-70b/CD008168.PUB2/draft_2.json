@@ -1,0 +1,162 @@
+{
+  "id": "CD008168.PUB2",
+  "draft": "Is intermittent phototherapy (stopping and starting light treatment) as effective as continuous phototherapy (constant light treatment) for treating jaundice in newborn babies?\n\nKey messages:\n- Intermittent phototherapy may be as effective as continuous phototherapy for treating jaundice in newborn babies, with little to no difference in the rate of decline of bilirubin (a yellow pigment that can build up in the blood), but the evidence is not strong enough to be certain.\n- It is unclear whether intermittent or continuous phototherapy reduces the risk of bilirubin-induced brain dysfunction (a condition that can cause brain damage), as there is not enough good-quality evidence to answer this question.\n- More research is needed to fully understand the benefits and risks of intermittent and continuous phototherapy, particularly in preterm infants, and to determine whether one method is better than the other in the long term.\n\nWhat is neonatal jaundice and why is it a problem?\nNeonatal jaundice is a common health condition in newborn babies, where a yellow pigment called bilirubin builds up in the blood. High levels of bilirubin can cause brain damage, so it's essential to treat jaundice promptly. Phototherapy, which involves exposing the baby to special lights, is a widely accepted and effective treatment for neonatal jaundice.\n\nWhat did the review authors want to find out?\nThe review authors wanted to compare the safety and effectiveness of two different types of phototherapy: intermittent phototherapy, where the lights are turned on and off at regular intervals, and continuous phototherapy, where the lights are left on all the time. They aimed to determine whether intermittent phototherapy is as effective as continuous phototherapy in reducing bilirubin levels and preventing brain damage in jaundiced newborn babies.\n\nWhat did we find?\nWe found 12 studies that involved 1600 infants with neonatal jaundice. The studies compared intermittent phototherapy with continuous phototherapy in jaundiced infants, both term and preterm, up to the age of 30 days. Intermittent phototherapy may make little to no difference to the rate of decline of bilirubin in jaundiced newborn infants. It is unclear if intermittent phototherapy has an effect on bilirubin-induced brain dysfunction. Intermittent phototherapy may make little to no difference to treatment failure or infant mortality.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were done in different types of people or used different ways of delivering the intervention, and because the studies were very small, and because it is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in.\n\nIs the evidence up to date?\nThe evidence is up to date to January 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 466,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.19047619047619,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 36,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 121,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 38.712525035765395,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.372440220723487,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.72060290210505,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.896995708154503,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.116533823829965,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.6668710402616,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.428571428571429,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.098136889433886,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 177,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 96,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 156,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 466,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 466 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 2,
+        "P75_count": 12,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 66.66666666666666,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft shows high conformity to typical PLS patterns, with 83.3% of features in the best quartile. The main deviation is in nominalization, suggesting the use of more direct verbs could improve clarity."
+    }
+  ]
+}

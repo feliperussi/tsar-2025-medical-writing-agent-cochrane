@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015328.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of interventions to prevent obesity in children aged 5 to 11 years old?**\n\n**Key Messages:**\n\n* Interventions that aim to prevent obesity in children may have a modest beneficial effect on obesity in childhood at short- and medium-term, but not at long-term follow-up.\n* Dietary interventions alone may result in little to no difference.\n* Limited evidence of low quality was identified on the effect of dietary and/or activity interventions on severe adverse events and health inequalities.\n* There is a dearth of evidence for home and community-based settings, for children living with disabilities, and indicators of health inequities.\n\n**Introduction to the review topic and review aims:**\n\n**What is obesity in children?**\n\nObesity is a serious health problem in children. It can affect their development, health, and well-being. Interventions that aim to prevent obesity involve behavioural change strategies that promote healthy eating or \"activity\" levels (physical activity, sedentary behaviour and/or sleep) or both.\n\n**What did we want to find out?**\n\nWe wanted to find out: which types of interventions work best to prevent obesity in children; the effects of dietary and/or activity interventions on changes in BMI, zBMI score, and serious adverse events.\n\n**What did we do?**\n\nWe searched for studies that compared interventions to prevent obesity in children with no intervention, usual care, or with another eligible intervention. We included studies that measured outcomes at a minimum of 12 weeks post baseline.\n\n**What did we find?**\n\nThis review includes 172 studies (189,707 participants). The main setting for intervention delivery was schools (111 studies), followed by the community (15 studies), the home (eight studies) and a clinical setting (seven studies). Eighty-six interventions were implemented for less than nine months.\n\n**Dietary interventions versus control:**\n\nDietary interventions, compared with control, may have little to no effect on BMI at short-term follow-up and at medium-term follow-up. Dietary interventions, compared with control, probably have little to no effect on BMI at long-term follow-up.\n\n**Activity interventions versus control:**\n\nActivity interventions, compared with control, may have little to no effect on BMI and zBMI at short-term or long-term follow-up. Activity interventions likely result in a slight reduction of BMI and zBMI at medium-term follow-up.\n\n**Dietary and activity interventions versus control:**\n\nDietary and activity interventions, compared with control, may result in a slight reduction in BMI and zBMI at short-term follow-up and likely result in a reduction of BMI and zBMI at medium-term follow-up.\n\n**What are the limitations of the evidence?**\n\nThe body of evidence in this review demonstrates that a range of school-based \"activity\" interventions, alone or in combination with dietary interventions, may have a modest beneficial effect on obesity in childhood at short- and medium-term, but not at long-term follow-up. Dietary interventions alone may result in little to no difference. Limited evidence of low quality was identified on the effect of dietary and/or activity interventions on severe adverse events and health inequalities.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2023.\n\nPlease note that I have followed the Cochrane guidelines to transform the abstract into a Plain Language Summary. However, please review the summary to ensure its accuracy and completeness.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 607,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.405405405405407,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 178,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 51.08829110824169,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.209096575982905,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.220857562669757,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.420164744645799,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.865292310432347,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.894697003428476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.837837837837838,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.313708498984761,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.18693710316577,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 245,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 126,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 179,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 607,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 607 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:51.765743"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD015253.PUB2",
+  "draft": "**PLAIN LANGUAGE SUMMARY**\n\n**What is otitis media with effusion (OME)?**\nOME is a condition where fluid builds up in the middle ear, causing hearing problems, behavior changes, and delays in speaking for young children.\n\n**What are the management options for OME?**\nManagement options include watchful waiting, medication, surgery, or autoinflation—a self-administered technique that uses positive pressure to clear middle-ear fluid.\n\n**What is autoinflation?**\nAutoinflation is a self-administered mechanical option that may be used alongside or instead of other approaches to treat OME. It involves creating positive pressure through the nose and nasopharynx to ventilate the middle ear and promote fluid clearance.\n\n**What does the review aim to evaluate?**\nThe review aimed to evaluate the efficacy and safety of autoinflation for treating OME in children, focusing on improvements in hearing, quality of life, and the reduction of persistent effusion.\n\n**What did the review find?**\nStudies show that autoinflation can modestly improve hearing in some children (low certainty), moderately improve disease-specific quality of life (moderate certainty), and reduce middle-ear fluid (moderate certainty).\n\n**What are the limitations of the evidence?**\nThe evidence is constrained by several factors, including a small or non-representative sample size, potential selection or confirmation bias, limited or absent control groups, measurement errors or imprecise instruments, short observation periods that may not capture long-term effects, and contextual differences that reduce the ability to generalize findings to other populations or settings.\n\n**What is the conclusion?**\nOur systematic review suggests that autoinflation may be an effective non-surgical option for otitis media with effusion in children, though the strength of the evidence varies across studies. The potential benefits of autoinflation should be weighed against the inconvenience of regularly carrying out autoinflation, and the possible risk of ear pain.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 310,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 19,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.31578947368421,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 29,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 98,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 41.815118845500876,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.480254668930392,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.903604414261459,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.815354838709677,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.106960950764005,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 54.38030560271646,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.2105263157894735,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.774964387392123,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.042101867572157,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 142,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 82,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 118,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 310,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 310 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 10,
+        "P75_count": 3,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 55.55555555555556,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The evaluation correctly identifies key clarity, style, and structure issues in the draft and offers concrete rewrite suggestions. The priorities are well‑organized, and the feedback is clear and actionable. Minor improvements could include linking each suggestion directly to the corresponding issue, but overall the response meets the expectations for a plain‑language summary evaluation.",
+      "pls_evaluation_summary": "The reviewer highlighted three priority areas: critical clarity issues (e.g., unexplained statements and complex sentences), style issues (excessive passive voice and wordy sentences), and structure issues (lack of paragraph breaks and inconsistent bullet formatting). For each, specific rewrite examples were provided to improve readability and engagement. The suggestions aim to make the text more accessible to non‑expert readers."
+    }
+  ]
+}

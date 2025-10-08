@@ -1,0 +1,162 @@
+{
+  "id": "CD006586.PUB5",
+  "draft": "Drospirenone oral contraceptives probably provide a small-to-moderate benefit for premenstrual symptoms and related functional impairment, but the supporting evidence is low quality and uncertain.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 26,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 1,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 2,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 2.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 7,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": -8.278076923076895,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from -8.3 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 20.873076923076926,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.9 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 22.184999999999995,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.2 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 21.281538461538457,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.3 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 28.861538461538466,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.9 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 83.69230769230768,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 83.7 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 15,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 6.60555127546399,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 10.399215384615385,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 15,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 12,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 15,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 26,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 26 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 0,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 3,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 0,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 16.666666666666664,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several clarity and structure issues that need to be addressed. See above for specific recommendations.",
+      "pls_evaluation_summary": "The draft text has several issues with readability and structure, including 27 passive constructions, 15 long sentences, and a lack of paragraph breaks. The PLS_EVALUATION_RESULTS show that the draft text deviates from typical PLS patterns in several areas, including readability and structure."
+    }
+  ]
+}

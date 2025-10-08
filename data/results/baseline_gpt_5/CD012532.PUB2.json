@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012532.PUB2",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nAre anti-PD‑1 medicines (nivolumab, pembrolizumab) better than standard treatments for adults with glioblastoma (a fast‑growing brain tumor)?\n\nKey Messages\n- For most situations tested, anti‑PD‑1 medicines (nivolumab or pembrolizumab), used alone or with other treatments, probably make little to no difference to how long people live or how long it takes for the tumor to grow again, compared with standard care. We are unsure about serious unwanted effects in many comparisons. When nivolumab was added to chemotherapy (temozolomide) and radiotherapy in one group, serious unwanted effects probably increased. We did not find studies testing anti‑PD‑L1 medicines.\n- A very small study suggests that giving pembrolizumab before and after surgery might help people live longer and delay tumor growth, but we are very uncertain because this was based on few people.\n- We did not find enough good‑quality evidence to give firm answers. Future studies should be larger, use strong methods, include anti‑PD‑L1 medicines, and report outcomes important to people, such as quality of life and unwanted effects.\n\nWhat is glioblastoma and why is treatment hard?\nGlioblastoma is the most common and most aggressive type of adult diffuse glioma (a brain tumor). It grows and spreads quickly. The brain’s immune environment in glioblastoma can be “immunosuppressive,” meaning it can stop the immune system from attacking the tumor. This can make immunotherapy less effective.\n\nWhat are anti‑PD‑1 and anti‑PD‑L1 medicines?\nAnti‑PD‑1 and anti‑PD‑L1 medicines are immune checkpoint inhibitors. They help the immune system find and attack cancer cells by blocking a “stop signal” (called PD‑1 or PD‑L1) that tumors use to hide. Nivolumab and pembrolizumab are anti‑PD‑1 antibodies (a type of medicine made in the lab to attach to a target). Anti‑PD‑L1 antibodies target PD‑L1 on cancer cells. Bevacizumab is a medicine that blocks new blood vessel growth in tumors. Temozolomide is a chemotherapy pill. Radiotherapy (radiation therapy) uses high‑energy beams to kill cancer cells.\n\nWhat did we want to find out?\nWe wanted to know if anti‑PD‑1 or anti‑PD‑L1 medicines help adults with diffuse glioma live longer, delay tumor growth, shrink tumors, or improve quality of life. We also wanted to know about unwanted effects, including serious ones that may need hospital care.\n\nWhat did we do?\nWe looked for studies comparing anti‑PD‑1 or anti‑PD‑L1 medicines with placebo or standard treatments. We summarized the results and judged how much confidence to place in them based on study methods and size.\n\nWhat did we find?\nWe found 7 studies including 1953 adults, mostly with glioblastoma. Four studies involved people whose tumor had come back (recurrent). Three studies involved people with newly diagnosed disease. Some studies focused on groups defined by a lab test (“methylated” or “unmethylated” tumors) or by age. We did not find studies that tested anti‑PD‑L1 medicines in this group. Many studies were small, used different treatment plans, and had methods that could affect the results. Because of this, we could not combine results across studies.\n\nMain results across the studies:\n- Recurrent glioblastoma:\n– Nivolumab compared with bevacizumab: Nivolumab probably makes little to no difference to how long people live or how long until the tumor grows again. Tumor shrinkage probably does not improve. Milder side effects may be similar. We are unsure about serious unwanted effects.\n– Nivolumab plus bevacizumab (higher dose) compared with nivolumab plus bevacizumab (lower dose): It is unclear if using a higher dose changes survival or the time until the tumor grows again. Milder side effects may be similar.\n– Pembrolizumab plus bevacizumab compared with pembrolizumab alone: It is unclear if adding bevacizumab changes survival, the time until tumor growth, tumor shrinkage, or serious unwanted effects. Milder side effects may be similar.\n– Pembrolizumab before and after surgery compared with after surgery only: It is unclear if adding pembrolizumab before surgery helps survival or delays tumor growth; one very small study suggests it may help, but we are very uncertain. Serious unwanted effects are unclear.\n\n- Newly diagnosed glioblastoma:\n– Unmethylated tumors (defined by a lab test): Nivolumab plus radiotherapy compared with temozolomide plus radiotherapy probably makes little to no difference to survival or time until the tumor grows again. Milder side effects probably are similar. We are unsure about serious unwanted effects and quality of life changes.\n– Methylated tumors: Nivolumab plus temozolomide plus radiotherapy compared with placebo plus temozolomide plus radiotherapy probably makes little to no difference to survival or time until tumor growth. Serious unwanted effects probably increase with nivolumab added. Milder side effects did not change.\n– Older adults: Nivolumab plus temozolomide compared with temozolomide alone probably makes little to no difference to survival or time until tumor growth. Serious unwanted effects and quality of life are unclear.\n\nHow is glioblastoma treated?\n– Surgery to remove as much tumor as possible\n– Radiotherapy (radiation therapy)\n– Chemotherapy such as temozolomide\n– Bevacizumab (blocks blood vessel growth in tumors)\n– Immunotherapy, such as anti‑PD‑1 medicines (nivolumab, pembrolizumab)\nPeople may receive combinations of these treatments.\n\nWhat are the limitations of the evidence?\nWe have little confidence in many results because the studies were small, used different treatment plans, and often did not report everything we needed. In some studies, people and clinicians may have known which treatment they received, which can affect results. There were not enough studies testing anti‑PD‑L1 medicines. We could not combine results across studies to give clearer answers.\n\nHow up to date is this evidence?\nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 932,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 55,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.945454545454545,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 26,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 97,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 269,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 269.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.85167264923919,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.073662895044869,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.592727272727274,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.85321888412017,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.98848224736637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.23730003901677,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.963636363636364,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.228756555322953,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.854507420991027,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 414,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 414.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 168,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 273,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 273.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 932,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 932 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:39.190205"
+}

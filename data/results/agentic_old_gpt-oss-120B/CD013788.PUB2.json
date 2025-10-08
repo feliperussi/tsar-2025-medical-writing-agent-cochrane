@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013788.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is removing the urinary catheter early (within 5 days) better than removing it later (after 5 days) for people who have had a kidney transplant (kidney transplantation)?\n\nKey messages\n- Current evidence does not show a clear difference between early removal (taking the catheter out within a few days after surgery) and later removal (keeping it in for a longer period) after kidney transplantation; we have no reliable information on whether this changes the chance of bacteria in the urine without symptoms (asymptomatic bacteriuria), urinary‑tract infection (UTI) (a condition in which bacteria invade and grow in the urinary tract, causing pain, fever, or other signs), or serious urinary problems, and no harmful effects were reported.\n- These conclusions come from only two small studies, one reported only as an abstract, and both had methodological weaknesses and short follow‑up.\n- Well‑designed, larger randomised trials (studies that randomly assign patients to early or late removal) with longer follow‑up are needed to determine whether early or late catheter removal is safer or more beneficial after a kidney transplant.\n\nWhat is kidney transplantation and why is it needed?\nKidney transplantation is the surgical transfer of a healthy kidney from a donor to a recipient. It is the best long‑term treatment for end‑stage kidney disease, a condition where the kidneys can no longer clean the blood. Without a working kidney, people need dialysis, which is time‑consuming and can affect quality of life. A transplant can restore normal kidney function and improve overall health.\n\nWhy is a urinary catheter used after kidney transplantation, and what problems can it cause?\nAfter the transplant surgery, doctors insert a urinary catheter (a flexible tube used to drain urine from the bladder) into the bladder. The catheter helps urine drain while the new kidney and the connection between the bladder and the ureter (the tube that carries urine from the kidney) heal. While the catheter protects the surgical connection, it also creates a pathway for bacteria to enter the bladder. This can lead to a urinary‑tract infection (UTI) or to asymptomatic bacteriuria (bacteria in the urine without any symptoms). The longer the catheter stays in place, the higher the chance of infection and other complications such as an anastomotic breakdown (a failure where the surgical connection between bladder and ureter leaks or separates).\n\nWhat did the review aim to find out?\nWe compared two strategies for removing the catheter after a kidney transplant: removing it early (before five days, or 120 hours) versus removing it later (five days or more after surgery). We wanted to see whether timing affected:\n- the number of people who develop a symptomatic urinary‑tract infection (UTI) – an infection that causes pain, fever, or other symptoms;\n- the number of people who have asymptomatic bacteriuria – bacteria in the urine without any symptoms;\n- the number of major urological problems (serious urinary complications that need extra treatment) such as an anastomotic breakdown.\n\nHow did we find the evidence?\nWe searched databases (CENTRAL, MEDLINE, EMBASE) and trial registries for studies that compared early (under 5 days) versus late (5 days or more) urinary catheter removal after kidney transplantation. We combined the findings and rated our confidence in the evidence using the GRADE approach (a systematic system used to rate how confident we are in the evidence).\n\nWhat did we find?\nWe identified two small studies that together included 197 kidney‑transplant recipients. Both studies compared early removal with late removal and followed patients for up to one month. The studies gave little detail about participants or settings. The evidence is very uncertain, but or does not show a clear difference in the chance of asymptomatic bacteriuria between early and late removal. We could not draw firm conclusions about symptomatic UTIs or major urological problems.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants may have known which timing they received, which can influence outcomes. Not all studies reported every outcome we were interested in. The studies involved different populations, used varied delivery methods for the intervention, and were generally small.\n\nHow current is the evidence?\nThe evidence is up to date to April 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 711,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.21875,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 197,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 43.758918117088626,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.675593793952185,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.63979694092827,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.531758087201126,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.27005977496484,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.035908931082986,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.661903789690601,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.942162517580873,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 308,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 308.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 149,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 212,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 212.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 711,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 711 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 8,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:02.384886"
+}

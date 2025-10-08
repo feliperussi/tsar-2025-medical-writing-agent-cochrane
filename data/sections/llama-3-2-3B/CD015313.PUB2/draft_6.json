@@ -1,0 +1,162 @@
+{
+  "id": "CD015313.PUB2",
+  "draft": "I can help you with the editing process.\n\nHere's a revised version of the Plain Language Summary:\n\n**Mucolytics for children with chronic suppurative lung disease**\n\n**Key messages:**\n\n- The main question the review aimed to answer was whether mucolytics reduce exacerbations and improve lung function in children with chronic suppurative lung disease.\n- The review found that one study showed a clinically important difference between the groups for the primary outcome: rate of respiratory exacerbations.\n- However, the study had a high risk of bias due to unblinding, missing data, deviation from the intended intervention, and reporting bias.\n- The quality of evidence was very low due to these limitations.\n- The review concludes that further multi-centre, well-designed RCTs of longer duration are required to answer this important clinical question.\n- No studies were found on mucolytic use during an exacerbation or in settings other than hospital outpatients.\n- Two ongoing studies are planned to investigate the use of hypertonic saline and an oral mucolytic agent erdosteine.\n- Future research should focus on investigating various mucolytics, including oral mucolytics, in different settings, and on longer-term effects of nebulised hypertonic saline during a stable state.\n\n**What is chronic suppurative lung disease (CSLD)?**\n\nChronic suppurative lung disease (CSLD) is an umbrella term for endobronchial suppurative lung disease, including bronchiectasis and protracted bacterial bronchitis (PBB). It is characterised by a chronic wet or productive cough, persistent mucus production, and recurrent respiratory infections. If untreated, CSLD can cause significant morbidity and increase the risk of mortality.\n\n**What did we want to find out about mucolytics for children with CSLD?**\n\nThe review aimed to determine the effects of mucolytic agents on reducing the frequency of exacerbations, improving quality of life, and other clinical outcomes in children with CSLD (including PBB and bronchiectasis). It also aimed to evaluate the risk of adverse events associated with mucolytic use.\n\n**How did we search for studies?**\n\nWe performed a systematic search of MEDLINE, Embase, Cochrane Central, and trial registries for randomized controlled trials that compared any mucolytic agent with placebo or no intervention in children (≤18 years) diagnosed with chronic suppurative lung disease. No language restrictions were applied.\n\n**What were the results?**\n\nOnly one eligible study was identified. It enrolled 52 children with non-cystic fibrosis bronchiectasis, randomising them to receive oral N-acetylcysteine (600 mg twice daily) or matching placebo for 12 weeks. The study reported a clinically important difference between the groups for the primary outcome: rate of respiratory exacerbations. However, the study had a high risk of bias due to unblinding, missing data, deviation from the intended intervention, and reporting bias.\n\n**What are the limitations of the evidence?**\n\nThe evidence is constrained by several factors: a small or non-representative sample size limits generalizability; potential selection or sampling bias may skew results; lack of a proper control or comparison group hampers causal inference; measurement tools may be unreliable or not validated, introducing error; confounding variables may not be accounted for, obscuring true relationships; the study's context (e.g., geographic, cultural, temporal) may not apply elsewhere; and the data may be cross-sectional, preventing assessment of changes over time.\n\n**Is the evidence current?**\n\nThe evidence presented is current up to the most recent data available as of September 2024.\n\nPlease let me know if this revised version meets your requirements.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 578,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.0625,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 48,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 17,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 37.743777032871975,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.482056660899655,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.332824394463664,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.436332179930794,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.813235294117646,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 54.74070069204152,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.625,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.165525060596439,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.998668166089966,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 260,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 153,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 153.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 212,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 212.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 578,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 578 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The required draft text was not supplied, so critical checks (completeness, title format, factual accuracy) cannot be performed. Without the actual content, the submission cannot be verified as complete, accurate, or within the word limit, resulting in a failure of the mandatory criteria.",
+      "pls_evaluation_summary": "The PLS evaluation shows moderate overall conformity, but several metrics deviate strongly from typical patterns: passive_voice, nominalization, nouns, smog_index, complex_words, and long_words are all beyond the P90 range, indicating excessive passive constructions, noun‑heavy phrasing, and high lexical complexity."
+    }
+  ]
+}

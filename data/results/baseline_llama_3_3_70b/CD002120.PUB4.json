@@ -1,0 +1,155 @@
+{
+  "file_id": "CD002120.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of using combined oral contraceptive pills for treating primary dysmenorrhoea?\n\n### Key Messages\n* Combined oral contraceptive pills can reduce menstrual cramp pain more effectively than a placebo, but they may also increase the risk of side effects such as irregular bleeding, headaches, and nausea.\n* We are uncertain about the long-term effects of using combined oral contraceptive pills for treating primary dysmenorrhoea.\n* More research is needed to determine if one type of combined oral contraceptive pill is more effective than another and if they are better than other treatments like non-steroidal anti-inflammatory drugs (NSAIDs).\n\n### Introduction to the review topic and review aims\nWhat is primary dysmenorrhoea? \nPrimary dysmenorrhoea, also known as painful menstrual cramps, is a common problem for many women. It can cause significant pain and discomfort during menstruation. \n\nWhat can people do to manage primary dysmenorrhoea? \nThere are several ways to manage primary dysmenorrhoea, including using pain relievers, applying heat, and practicing relaxation techniques. Combined oral contraceptive pills are also often used to treat primary dysmenorrhoea.\n\nWhat did we want to find out? \nWe wanted to find out if combined oral contraceptive pills are effective in reducing menstrual cramp pain and what their potential side effects are. We also wanted to compare the effectiveness of different types of combined oral contraceptive pills and other treatments like non-steroidal anti-inflammatory drugs (NSAIDs).\n\n### What did we do?\nWe searched for studies that compared combined oral contraceptive pills with a placebo or other treatments. We found 21 studies with 3723 women who had primary dysmenorrhoea.\n\n### What did we find?\nThe studies showed that combined oral contraceptive pills can reduce menstrual cramp pain more effectively than a placebo. However, they may also increase the risk of side effects such as irregular bleeding, headaches, and nausea. We are uncertain about the long-term effects of using combined oral contraceptive pills for treating primary dysmenorrhoea.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were not all well-designed and some of them were small. This means that the results may not be entirely reliable. More research is needed to confirm the findings and to determine the long-term effects of using combined oral contraceptive pills for treating primary dysmenorrhoea.\n\n### How up to date is this evidence?\nThe evidence is up to date to March 2023.\n\nNote: The provided response is a rewritten version of the original text, following the specified guidelines and structure. It is written in simple language, avoiding medical jargon and technical terms, and is intended to be accessible to readers without medical knowledge.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 481,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.041666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.53470417532921,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.189659563409567,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.514138946638944,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.340706860706863,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.16635481635482,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.18719681219682,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.041666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.4939003465003475,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 198,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 98,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 481,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 481 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:26.148636"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD008469.PUB3",
+  "draft": "Is home-based education effective for children with asthma (a common lung condition that can cause wheezing, coughing, and shortness of breath)?\nWe want to find out if educating children with asthma at home works better than usual care or education given in another place, like a clinic. We also want to know which parts of the education program are most helpful.\n\nWhat is asthma and why is it a problem?\nAsthma is a long-term condition that affects the airways in the lungs, making it hard to breathe. Asthma symptoms can be triggered by 'triggers' like allergens (substances that cause allergic reactions), exercise, and respiratory infections. We educate people about asthma to manage the condition, which includes understanding how the disease works and learning skills to manage it themselves, like avoiding triggers. Asthma affects 262.4 million people worldwide.\n\nHow did we conduct this review?\nWe searched for studies that tested home-based asthma education for children and their families. We only included 'randomized controlled trials', where researchers put people into treatment groups by chance. We compared the results of the studies, assessed their quality, and rated our confidence in the overall evidence.\n\nWhat did we find?\nThis review includes 26 studies with 5122 participants. The people in the studies differed in age and in the severity of their asthma (from mild to severe). Home-based education may improve quality of life compared to control, but we have very low confidence in this finding. We are not sure if home-based education helps with other things, like reducing emergency visits or hospital stays, because the evidence is very uncertain. However, more-intensive education at home may reduce hospital stays compared to less-intensive education - we have low confidence in this finding.\n\nWhat are the limitations of this review?\nThe evidence is limited because the people and the education programs in the studies were very different from each other. In some studies, families and researchers knew which treatment group they were in, which could have influenced the results. Also, some studies did not report all of the results they collected.\n\nHow up to date is this review?\nThis review updates our previous review. The evidence is up to date to October 2022.\n\nWhat are the key messages of this review?\n- Home-based education for children with asthma may make little to no difference to the number of emergency visits for sudden asthma flare-ups compared to usual care. We have very low confidence in this evidence.\n- Home-based education may improve quality of life for children with asthma, but we have very low confidence in this finding.\n- More-intensive education at home may reduce hospital stays compared to less-intensive education - we have low confidence in this finding.\n- Future researchers should study what the best educational programs are and where they should take place. This will help guide healthcare providers and families on the best ways to manage asthma in children.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 507,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 39,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 149,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 56.69096745562132,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.550506903353057,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.71532544378698,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.78153846153846,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.018382642998029,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.31617357001973,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.633333333333334,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.38083151964686,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.475301143984221,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 181,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 92,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 139,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 507,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 507 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 9,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 50,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-structured and generally easy to read, but it is NOT_APPROVED because it fails a critical style guide rule and has a key area for improvement in clarity.\n\n**Critical Issue to Fix:**\n\n*   **One subheading is not a question.** The style guide requires all subheadings to be questions to help guide the reader.\n    *   **Current Text:** 'We want to find out if educating children with asthma at home works better than usual care or education given in another place, like a clinic.'\n    *   **Suggested Fix:** Change this section to have a question as a subheading, like this:\n        **What did we want to find out?**\n        We wanted to find out if educating children with asthma at home works better than usual care or education given in another place, like a clinic. We also wanted to know which parts of an education program are most helpful.\n\n**Top 2 Improvements for Clarity:**\n\n1.  **Replace noun-heavy phrases with direct verbs.** The draft often uses noun forms of verbs (e.g., 'understanding' instead of 'understand'), which can make sentences less direct and harder to process. This is supported by the linguistic analysis, which found a very high number of 'nominalizations'.\n    *   **Example:** 'We educate people about asthma to manage the condition, which includes understanding how the disease works and learning skills to manage it themselves, like avoiding triggers.'\n    *   **Suggested Rewrite:** 'We teach people how to manage their asthma. This includes helping them understand how the disease works and learn skills to avoid things that trigger their symptoms.'\n\n2.  **Make the final key message more specific.** The final point is a bit generic and misses the specific recommendation from the review about *what* to study.\n    *   **Example:** 'Future researchers should study what the best educational programs are and where they should take place.'\n    *   **Suggested Rewrite:** 'Future research should focus on finding out which specific parts of an education program are most important and where the education should be delivered.'",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 94.4% of metrics falling in the best quartile for readability and sentence structure. However, it deviates significantly on one key metric: 'nominalization' (use of noun-form verbs) is beyond the 90th percentile, indicating the text could be more direct and use more active verbs."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016043",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of approaches for delivery of refractive and optical care services in community and primary care settings?**\n\nWe found that approaches for delivery of refractive and optical care services in community and primary care settings include school-based, pharmacy, and outreach models for community care, and vision centre, health centre, and door-to-door delivery for primary care. There are gaps in the evaluation of these approaches, and few studies have evaluated their effectiveness.\n\n**What did we want to find out?**\n\nWe wanted to find out: which approaches for delivery of refractive and optical care services are effective in community and primary care settings; the methods employed for their evaluation.\n\n**What did we find?**\n\nWe identified 175 studies from searches of databases and grey literature, 146 records from company reports, and 81 records from website searches of relevant organizations that matched our inclusion criteria. Delivery approaches for refractive and optical services in community care included school-based, pharmacy, and outreach models, whereas primary care approaches comprised vision centre, health centre, and a combination of vision or health centre and door-to-door delivery. In community care, school-based and outreach approaches were predominant, while in primary care, a vision-centre approach was mainly used. In the WHO African region, the school-based and outreach approaches were mainly reported while, in the Americas, the outreach approach was mostly used. Very few approaches for service delivery were reported in the WHO Eastern Mediterranean region.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. There are prominent gaps in the evaluation of the approaches, and few studies have attempted to evaluate their effectiveness. We found that there are few approaches for service delivery reported in the WHO Eastern Mediterranean region. There are few studies that have evaluated the effectiveness of approaches for delivery of refractive and optical care services.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to November 2022. This review updates our previous review. The study outcomes will help guide WHO member states in strengthening refractive and optical services at community and primary care levels.\n\nPlease note that I have followed the guidelines to transform the abstract into a Plain Language Summary, but I may have made some minor changes to the original text to make it more accessible to a non-medical audience.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 457,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.925925925925927,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 137,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.81667315017424,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.073693168003896,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.995216792284623,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.365864332603934,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.3983791231056,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.842774941243206,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.7407407407407405,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.196987632709297,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 184,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 110,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 457,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 457 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 7,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:53.020655"
+}

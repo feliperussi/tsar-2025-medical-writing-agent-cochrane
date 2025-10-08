@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014818.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Which nerve block (regional pain relief) technique provides the most pain relief after breast cancer surgery?\n\nKey messages:\n- All four nerve‑block techniques – paravertebral block (PVB, an injection near the spinal nerves), erector spinae plane block (ESPB, an injection into a muscle layer beside the spine), pectoral nerve block (PEC, an injection near the chest‑muscle nerves), and serratus anterior plane block (SAPB, an injection near the side‑chest muscle) – give similar pain relief after breast cancer surgery; any small advantage of PEC over PVB is not large enough for patients to notice.\n- The evidence for pain relief in the first 24 hours after surgery is fairly reliable, but data for later days are uncertain because the studies were small and varied.\n- No major complications were reported. We have a moderate level of confidence in these findings, meaning the evidence is useful but still has some uncertainty.\n\nWhy is pain after breast cancer surgery a concern?\nWomen who have surgery to remove breast cancer often feel pain afterwards. This pain can make it hard to move, disturb sleep, and slow recovery, lowering quality of life. Doctors usually give opioids or anti‑inflammatory drugs, but these can cause nausea, constipation, or dependence. To reduce the need for these medicines, we sometimes use regional analgesia – a technique that numbs a specific area by injecting a local anaesthetic near the nerves that supply the breast. The common regional techniques are:\n- Paravertebral block (PVB) – an injection near the spinal nerves.\n- Erector spinae plane block (ESPB) – an injection into a muscle layer beside the spine.\n- Pectoral nerve block (PEC) – an injection near the nerves that run through the chest muscles.\n- Serratus anterior plane block (SAPB) – an injection near the nerves on the side of the chest.\nThese methods can lessen pain and carry only small risks such as bleeding or nerve injury.\n\nWhat did the researchers want to find out?\nWe wanted to compare the four regional analgesia techniques used after breast cancer surgery. Specifically we asked:\n- How well does each technique reduce postoperative pain, measured on a simple 0‑to‑10 scale?\n- Does any technique cause more complications or side‑effects?\n- How do the techniques affect other recovery outcomes such as the need for extra pain medicines, nausea, and overall quality of recovery?\n\nHow did we find the evidence?\nWe looked for studies in the major databases CENTRAL, MEDLINE, Embase, CINAHL, Scopus and Web of Science. We searched from the earliest records up to 6 June 2023 and did not limit the search by language or date. Two reviewers checked each study for risk of bias. We combined the results using a special statistical method called a network meta‑analysis, which lets us compare several treatments even when they have not been tested head‑to‑head. We assessed the quality of the evidence with a tool named CINeMA (Confidence In Network Meta‑Analysis), which tells us how much confidence we can have in the results. We considered a one‑point difference on the 0‑to‑10 pain scale as the minimal clinically important difference (MCID) – the smallest change that matters to patients.\n\nWhat did we find?\nWe examined 39 randomised trials that included 2,348 women, most of whom had a modified radical mastectomy (a type of breast‑removing surgery). The trials were conducted in seven countries – Egypt, India, Turkey, China, Japan, the United States and Thailand – and all surgeries used general anaesthesia in hospitals.\nTwo hours after surgery, pain at rest was similar across all four blocks; none proved clearly better than the others. PEC reduced pain by about 0.5 points compared with PVB, which is less than the MCID. During movement at two hours, PEC may reduce pain a little more than PVB, while ESPB and SAPB showed similar effects.\nAt 24 hours, PEC again showed a small advantage over PVB, but the difference remained below the MCID. The other blocks remained comparable. Only a few studies reported pain at 48 hours, and the evidence for this time point is very uncertain.\nThree studies (170 participants) recorded complications and reported no major events such as block failure, toxicity, nerve damage, or pneumothorax.\nOverall, the four techniques provide comparable pain relief and have similar safety profiles.\n\nWhat are the limitations of the evidence?\nWe have a moderate level of confidence in these findings because most studies were small and varied in the types of patients and how the blocks were performed. This variability reduces the precision of our estimates and makes the evidence for later time points less certain.\n\nHow current is the evidence?\nThe evidence includes all studies published up to June 2023, so it reflects the most recent research available.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 797,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.435897435897434,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 237,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.37964063957793,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.472346298619826,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.683243573657627,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.085821831869513,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.802966251648812,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.6517067207155,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.948717948717949,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.996782369784127,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 302,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 302.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 152,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 152.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 797,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 797 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:58.850432"
+}

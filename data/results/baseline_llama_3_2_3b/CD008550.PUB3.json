@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008550.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of pharmacological treatment for gastro-oesophageal reflux in children?**\n\nGastro-oesophageal reflux (GOR) is a common problem in babies and young children. It happens when stomach acid flows back up into the oesophagus. Most babies outgrow GOR as they get older, but some children and babies with other health problems can have symptoms for a long time.\n\n**What did we want to find out?**\n\nWe wanted to see if any medicines can help reduce symptoms of GOR in babies and children.\n\n**What did we do?**\n\nWe looked for studies that compared different medicines to see if they worked better than others. We also looked at how well the medicines worked in different age groups.\n\n**What did we find?**\n\nFor babies under 12 months, we found that omeprazole may not make a big difference in reducing symptoms. One study found that omeprazole might make symptoms worse in some babies. Another study found that esomeprazole might not be any better than a placebo.\n\nFor older children, we found that proton pump inhibitors (PPIs) like rabeprazole and pantoprazole might not make a big difference in reducing symptoms. We also found that these medicines might not be effective in babies under 5 years old.\n\n**What are the limitations of the evidence?**\n\nWe have very low certainty about the results because the studies were small and had many limitations. We also don't have enough data to say for sure whether these medicines work for all children or in all situations.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date as of September 2022.\n\n**What should happen next?**\n\nMore research is needed to find out if these medicines work for all children and in all situations. We also need to know more about how to treat babies and children with GOR who don't respond to these medicines.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 348,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.88888888888889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 70.49932950191574,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 6.628045977011496,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 5.627461685823754,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.636896551724135,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 9.408429118773947,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 33.003831417624525,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 2.5925925925925926,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.403124237432849,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 4.949777394636016,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 95,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 37,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 70,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 348,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 348 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 15,
+      "P50_count": 0,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 83.33333333333334,
+      "P50_percentage": 0.0,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.833675"
+}

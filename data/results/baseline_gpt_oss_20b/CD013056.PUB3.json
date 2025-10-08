@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013056.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Topical antibiotics for ear discharge in children\n\nKey messages:\n- Topical antibiotics are more likely to stop ear discharge than boric acid.\n- Topical antibiotics may reduce ear pain compared with boric acid.\n- Evidence about other treatments and safety outcomes is limited, so families should discuss options with clinicians.\n\nWhat is the problem?\nEar discharge, also called otorrhoea, is a common sign of middle‑ear infection in children. It can cause discomfort, affect hearing and lead to missed school days. Parents often wonder which medicines work best to clear the discharge quickly and safely.\n\nWhy does it matter?\nChoosing the right treatment can help children feel better faster and may prevent complications. However, many different ear drops are used, and the evidence for each option is not always clear. Clear information helps families and clinicians make informed choices.\n\nWhat does this mean for families?\nIf a child’s doctor recommends a quinolone‑based ear drop, the evidence suggests it is more likely to stop the discharge than a boric‑acid drop. The same type of drop may also ease ear pain more than boric acid. For other ear‑drop options, the current research does not give a reliable answer, so discussing preferences and any concerns with the doctor is important.\n\nWhat did we do?\nWe looked for studies that randomly assigned children with ear discharge to receive either a topical antibiotic or another type of ear drop, or to receive a topical antibiotic versus a systemic antibiotic. We searched multiple databases up to 15 June 2022 and included studies that reported how well the treatments cleared the discharge, reduced pain, or caused side effects.\n\nWhat did we find?\nStudy characteristics: The review included fifteen studies involving a total of 2 371 children. Most studies compared quinolone ear drops with boric‑acid drops. Few studies examined other comparisons, and none reported health‑related quality of life or serious complications.\n\nMain results:\n- We are moderately confident that topical antibiotics are more likely to stop ear discharge than boric acid.\n- We are moderately confident that topical antibiotics may reduce ear pain compared with boric acid.\n- We have little confidence that acetic acid is better than quinolones for clearing discharge.\n- We have little confidence that quinolones are better than systemic antibiotics for clearing discharge.\n- We are not confident about any differences in side effects because the studies did not report serious harms.\nThese statements reflect the overall direction of the evidence without using statistical numbers.\n\nWhat are the limitations?\nThe evidence base is limited in several ways. Many of the studies are older, and only a few have been published since 2015. The quality of the studies varies, and some did not describe how participants were selected or how outcomes were measured. Information on specific groups, such as children with chronic ear disease or those with immune problems, is sparse. Finally, the lack of data on quality of life and serious adverse events means we cannot fully assess the safety of the treatments.\n\nHow up to date is this evidence?\nThe literature search was completed on 15 June 2022, so the review includes all relevant studies published up to that date. Any research published after that time is not reflected in this summary.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 564,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.114285714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 160,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.829000000000036,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.336060790273557,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.924483282674775,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.199290780141844,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.176210739614994,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.724214792299904,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.771428571428571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.295630140987,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.59453452887538,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 207,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 564,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 564 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:18.386595"
+}

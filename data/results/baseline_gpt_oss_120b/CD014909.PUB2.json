@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014909.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs using both a bowel cleanse (mechanical bowel preparation) and oral antibiotics before planned large‑bowel surgery better at preventing complications than a cleanse alone?  \n\nKey Messages  \n- Combining a bowel cleanse with oral antibiotics probably lowers the chance of wound infections and of leaks where the bowel is re‑joined, compared with a cleanse alone; the studies did not report any side‑effects from the preparation.  \n- Compared with taking oral antibiotics alone, or with doing no preparation at all, the evidence is too uncertain to tell whether the combined approach is better or worse.  \n- More well‑designed studies are needed, especially ones that look at side‑effects and compare the combined method with oral antibiotics alone or with no preparation.  \n\nWhat is the problem that this review looks at?  \nPeople who have planned surgery on the large intestine (elective colorectal surgery) often face serious problems after the operation. The most serious are infections at the surgical site and leaks where the surgeon reconnects the evidence says the bowel is full of bacteria, which raises the risk of these problems. Doctors sometimes clean out the bowel before surgery by flushing it (mechanical bowel preparation) and/or giving oral antibiotics (medicines taken by mouth that kill bacteria). It is not clear whether using both methods together helps more than using just one.  \n\nWhat did the reviewers want to find out?  \nThe review team wanted to know whether a combined bowel cleanse and oral antibiotics (MBP + oAB) reduces post‑surgical complications compared with a cleanse alone, oral antibiotics alone, or no preparation at all.  \n\nWhat did we do?  \nWe looked for studies that compared the combined preparation with other approaches, combined the results, and judged how much confidence we could have in the findings.  \n\nWhat did we find?  \n\nWe identified 21 studies that together included 5,264 adults who had planned large‑bowel surgery. Most studies involved both colon and rectal operations for cancer or non‑cancer reasons. The studies were carried out in many countries and used different types and doses of oral antibiotics and different ways of giving the bowel cleanse. Only four studies reported any side‑effects of the preparation, and none recorded problems such as dehydration or electrolyte imbalance.  \n\nWhen the combined preparation was compared with a bowel cleanse alone, the evidence (moderate confidence) suggests it probably reduces surgical‑site infections and probably reduces the risk of anastomotic leaks. For other outcomes such as death after surgery, bowel blockage (post‑operative ileus), and length of hospital stay, the combined preparation probably makes little or no difference.  \n\nWhen the combined preparation was compared with oral antibiotics alone, the evidence was low or very low confidence, so we cannot tell whether it reduces or increases infections, leaks, death, ileus, or hospital stay.  \n\nWhen the combined preparation was compared with doing no preparation, the evidence was also low confidence, leaving the effect on infections, leaks, death, ileus, and hospital stay uncertain.  \n\nWhat are the limitations of the evidence?  \nWe have little confidence in many of the results because the studies often did not clearly explain how participants were randomly assigned to groups, and many lacked a pre‑planned analysis. In addition, few studies reported side‑effects, and some comparisons were based on only a small number of participants.  \n\nHow up to date is this evidence?  \nThe evidence is up to date to December 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 576,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.333333333333332,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.23791666666668,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.109861111111112,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.968958333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.191666666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.325,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.36805555555556,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.407407407407407,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.135528725660043,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.911431944444445,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 250,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 250.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 141,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 141.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 576,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 576 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:07.357676"
+}

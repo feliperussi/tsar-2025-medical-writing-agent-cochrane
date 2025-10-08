@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013056.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Is using antibiotics better than antiseptic ear drops for treating chronic ear discharge (chronic suppurative otitis media)?\n\n**Key messages**\n- Antibiotic ear drops that contain quinolones probably clear ear discharge more often than antiseptic ear drops that contain boric acid, and they may also reduce ear pain a little. Serious side‑effects were not reported, but the evidence on harms is limited.  \n- For other antiseptics such as acetic acid, the evidence is uncertain; they might help a little or might make no difference, and we do not know whether they cause more or less ear irritation.  \n- More high‑quality studies are needed, especially ones that look at quality of life, long‑term hearing, and any serious complications.\n\n**What is chronic suppurative otitis media?**  \nChronic suppurative otitis media (CSOM) is a long‑lasting infection of the middle ear that causes a hole in the eardrum and continuous ear discharge. People with CSOM often also have hearing loss, which can affect daily life and learning.\n\n**Why compare antibiotics and antiseptics?**  \nBoth antibiotics and antiseptics are medicines that kill or stop the growth of the germs that cause the infection. Antibiotics can be given as ear drops (topical) or taken by mouth or injection (systemic). Antiseptics are always applied directly into the ear as drops, powders, or washes. Knowing which type works better and is safer helps doctors choose the right treatment.\n\n**What did we want to find out?**  \nWe set out to see whether antibiotics or antiseptic ear drops are more effective at stopping ear discharge and whether either option causes more pain, irritation, hearing loss, or serious side‑effects.\n\n**What did we do?**  \nWe searched many medical databases for studies that compared antibiotics with antiseptic ear drops in people with chronic ear discharge. We combined the results of the studies we found and judged how confident we could be in the evidence.\n\n**What did we find?**  \nWe identified 15 studies that together included 2 371 people with CSOM. The studies were carried out in several countries and lasted from a few weeks to several months. Most studies compared a single antibiotic ear drop (often a quinolone or an aminoglycoside) with a single antiseptic ear drop such as acetic acid, boric acid, povidone‑iodine, or aluminium acetate. Some studies also gave both groups a routine ear‑cleaning procedure.\n\n- **Quinolone antibiotics vs. boric‑acid antiseptic:** The evidence (moderate confidence) suggests that quinolone ear drops probably clear ear discharge more often within the first two weeks. They may also cause a little less ear pain or irritation.  \n- **Acetic‑acid antiseptic vs. antibiotic drops:** The evidence (low confidence) is uncertain; acetic acid might help a little more, might make no difference, or could even be less effective. We also do not know whether it changes ear pain or irritation.  \n- **Quinolone antibiotics vs. povidone‑iodine antiseptic:** The evidence (very low confidence) does not allow us to tell if there is any difference in clearing ear discharge or in hearing outcomes.  \n- **Other antiseptics (aluminium acetate, etc.):** Very few data were available, so we cannot draw conclusions.  \n\nNone of the studies reported information on overall quality of life or on serious complications, and reports of hearing changes were limited.\n\n**What are the limitations of the evidence?**  \nWe have little confidence in much of the evidence because many of the studies were small, some did not clearly hide the treatment from participants, and important outcomes such as quality of life and serious side‑effects were not measured. This makes it hard to be sure about the true benefits and harms of the treatments.\n\n**How up to date is this evidence?**  \nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 630,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 27,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.755714285714305,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.372063492063496,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.750952380952381,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.293333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.19047619047619,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.66666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.7592380952380955,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 240,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 129,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 129.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 630,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 630 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 3,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:02.378022"
+}

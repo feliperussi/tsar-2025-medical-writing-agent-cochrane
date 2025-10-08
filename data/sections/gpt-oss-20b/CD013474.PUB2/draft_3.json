@@ -1,0 +1,162 @@
+{
+  "id": "CD013474.PUB2",
+  "draft": "Is continued (maintenance) treatment better than just watching (observation) for people with chronic lymphocytic leukaemia (CLL)?\n\nWhat are the key messages?\n- Maintenance therapy – a lower‑intensity treatment given after remission – does not seem to lengthen overall survival (how long a person lives) but does keep the disease from worsening for a longer time (progression‑free survival). This benefit comes with a higher chance of serious side‑effects (grade 3‑4 adverse events), and the evidence is of moderate certainty.\n- Both anti‑CD20 monoclonal‑antibody maintenance (lab‑made proteins that target the CD20 marker on cancer cells, such as rituximab or ofatumumab) and lenalidomide maintenance (a drug that modifies the immune system) increase progression‑free survival, yet each raises the risk of side‑effects. Evidence on newer targeted drugs is very limited, and data on health‑related quality of life (day‑to‑day wellbeing) are scarce.\n- Larger, high‑quality trials are needed for newer agents. They should compare maintenance with observation, follow patients for longer, monitor harms carefully, and assess quality of life so that patients and clinicians can make clearer decisions.\n\nWhat is chronic lymphocytic leukaemia and why is it a problem?\nChronic lymphocytic leukaemia (CLL) is the most common blood cancer in adults. It occurs when a type of white blood cell called a lymphocyte multiplies uncontrollably and builds up in the blood, bone‑marrow and sometimes the spleen. Current treatments cannot cure CLL, and each new line of therapy tends to work for a shorter time before the disease returns. After an initial treatment many people enter remission – a short period when the disease is not actively growing. Remission often ends within a few years, and the cancer can come back, requiring further treatment. Doctors sometimes use maintenance therapy – a lower‑intensity treatment given after remission – to try to keep the disease under control for longer. Options include anti‑CD20 monoclonal antibodies, anti‑CD52 antibodies, immunomodulatory drugs such as lenalidomide, and newer targeted drugs that block signals the cancer cells need to survive.\n\nWhat did the researchers want to find out about maintenance therapy for CLL?\nWe wanted to know whether maintenance treatments – specifically anti‑CD20 monoclonal antibodies, immunomodulatory drugs, anti‑CD52 antibodies, Bruton tyrosine kinase (BTK) inhibitors, and B‑cell lymphoma‑2 (BCL‑2) inhibitors – improve important outcomes for people with CLL. We looked at overall survival, progression‑free survival, health‑related quality of life, and the frequency of side‑effects or harms.\n\nWhat did we do?\nWe searched major databases (CENTRAL, MEDLINE, Embase) and trial registers for randomised controlled trials that compared a maintenance therapy with observation or another maintenance option. We extracted data on survival, disease progression, side‑effects and quality of life, and we rated the certainty of the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified eleven randomised trials involving 2,393 participants with CLL. Most participants were men (≈60%) and their ages ranged from 54 to 72 years. The trials tested three types of maintenance:\n- Anti‑CD20 monoclonal antibodies (rituximab or ofatumumab) versus observation (7 trials, 1,679 participants)\n- Lenalidomide versus placebo or observation (3 trials, 693 participants)\n- Alemtuzumab (an anti‑CD52 antibody) versus observation (1 small trial, 21 participants)\n\nNo trials evaluated newer targeted agents such as BTK or BCL‑2 inhibitors.\n\nOur analysis shows that anti‑CD20 antibodies and lenalidomide probably make little or no difference to overall survival. Both treatments probably increase progression‑free survival substantially, meaning the disease stays stable for a longer time. However, they also probably raise the risk of serious side‑effects and overall adverse events, and lenalidomide may slightly increase treatment‑related mortality. Evidence on alemtuzumab’s effect on disease progression remains very uncertain, and we found almost no data on quality of life.\n\nHow certain are we about these findings?\nWe have moderate confidence in the results. Some trials were small, participants often knew which treatment they received, and the study populations varied, which reduces certainty. Because of these limitations, the true effect could differ from our estimates.\n\nIs the evidence up to date?\nWe last searched the literature in January 2022, so the summary reflects studies published up to that date. Newer trials may have been reported since then.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 691,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.323529411764707,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 68,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 218,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 46.02282604069126,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.888998467693881,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.015932578530688,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.81169319826338,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.854447944155957,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.29313867370392,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.294117647058823,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.36931687685298,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.708814063165065,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 337,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 337.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 168,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 214,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 214.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 691,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 691 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 7,
+        "P75_count": 3,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft contains several clarity problems that would likely confuse patients:\n1. Unexplained jargon – “grade 3‑4 adverse events”. Readers won’t know what the grading means. Rewrite: “serious side‑effects (these are called grade 3‑4 adverse events, which are the most severe types of side‑effects)”.\n2. Technical term – “progression‑free survival” is not defined. Patients need a plain description. Rewrite: “progression‑free survival – the length of time the disease does not get worse”.\n3. Technical term – “treatment‑related mortality” is not explained. Rewrite: “treatment‑related mortality – deaths that happen because of the treatment itself”.\n4. Long, dense bullet‑point sentence in the key messages. The first bullet packs several ideas into one long sentence, making it hard to follow. Rewrite: Split into two bullets:\n   - “Maintenance therapy – a lower‑intensity treatment given after remission – does not seem to lengthen overall survival (how long a person lives).”\n   - “It does keep the disease from worsening for a longer time (progression‑free survival), but it also raises the chance of serious side‑effects (grade 3‑4 adverse events). The evidence for this is of moderate certainty.”\n5. Heavy noun‑heavy style (high nominalisation and noun count). Many sentences use noun phrases instead of verbs, which reduces readability. Example: “The trials tested three types of maintenance:” could be “We tested three types of maintenance.”\n\nThese issues are supported by the metric analysis, which shows the draft is far above typical PLS patterns for nominalisation (31 instances, beyond the 90th percentile), noun count (218, beyond the 90th percentile), and readability indices (SMOG 15.4, Dale‑Chall 8.7 – both beyond the 90th percentile). These metrics confirm the text is more complex and noun‑heavy than usual, reinforcing the need for the suggested simplifications.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets word‑count limits but deviates markedly from typical PLS patterns: nominalisations (31, BEYOND_P90), noun count (218, BEYOND_P90), SMOG index (15.4, BEYOND_P90), Dale‑Chall readability (8.7, BEYOND_P90), and high counts of complex and long words. Readability scores are higher than the median, indicating the text is more difficult than most PLSs."
+    }
+  ]
+}

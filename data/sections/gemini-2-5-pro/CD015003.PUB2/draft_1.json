@@ -1,0 +1,162 @@
+{
+  "id": "CD015003.PUB2",
+  "draft": "Can the anti-inflammatory drug colchicine help prevent heart attacks and strokes in people who have not had them before?\n\nKey messages\n- Due to a lack of good-quality evidence, it is uncertain whether taking colchicine (a medicine that reduces inflammation) helps to prevent heart attacks and strokes in people who have not had them before. The evidence suggests it may increase the risk of diarrhoea.\n- The studies included in this review were not reliable enough to provide a clear answer, and many focused on people with other health conditions. Larger, well-designed studies are needed to understand the true benefits and harms of colchicine for preventing heart problems in the general population.\n\nWhat is cardiovascular disease and how might colchicine help?\nCardiovascular diseases, which affect the heart and blood vessels, are a leading cause of death and illness around the world. One common type is caused by atherosclerosis, a condition where fatty deposits build up in the walls of arteries. This process is often worsened by long-term inflammation. Colchicine is an inexpensive drug that has been used for centuries to reduce inflammation. Because of this property, researchers believe it might help prevent cardiovascular diseases before they start, which is known as 'primary prevention'.\n\nWhat did we want to find out?\nWe wanted to find out what the benefits and harms of using colchicine are for the primary prevention of cardiovascular events in the general population (people without existing cardiovascular disease). We were interested in whether colchicine could prevent deaths, heart attacks, and strokes, and if it was associated with any unwanted effects.\n\nMethods\nWe searched for studies that compared colchicine against a placebo (a dummy pill), other drugs, or usual care for preventing heart problems in people without existing heart disease. We then collected and combined the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nThe review included 15 randomised controlled trials with a total of 1721 participants. The participants were adults without pre-existing cardiovascular disease; however, many of the included trials focused on individuals with liver disease. The studies compared oral colchicine against a placebo, immunomodulating drugs, or usual care/no treatment. For people without known cardiovascular disease, the effects of taking colchicine to prevent heart problems are very uncertain because the available research is not strong enough to draw clear conclusions. When compared to a placebo or usual care, colchicine may have little to no effect on the risk of death, heart attack, or stroke. It may, however, increase the chance of having diarrhoea. The review authors are very uncertain about all these results.\n\nLimitations of the evidence\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting. Furthermore, the evidence focused on specific groups of people, such as those with liver disease, whereas the question we wanted to answer was broader, and there were not enough studies to be certain about the results.\n\nEvidence currency statement\nThe evidence is up to date to May 2023 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 532,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.46153846153846,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 46,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 141,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 48.353004626952014,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.598270676691733,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.41274291497976,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.230751879699252,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.304916136495084,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.04048582995951,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.461538461538462,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.980662984384037,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 201,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 168,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 532,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 532 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 6,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is factually accurate and well on its way, but it does not pass our critical checks because several subheadings do not follow the required question format. I have also identified a few opportunities to simplify language and sentence structure to make the summary clearer for readers.\n\n**Critical Issue: Subheadings Must Be Questions**\n\nSome subheadings are statements, not questions, which goes against the Cochrane style guide. Phrasing them as questions helps guide the reader.\n\n- **Originals:** \"Methods\", \"Limitations of the evidence\", \"Evidence currency statement\"\n- **Suggested Rewrites:**\n  - \"How did we conduct this review?\"\n  - \"How reliable is this evidence?\"\n  - \"How up-to-date is this evidence?\"\n\n**Top 3 Improvements Needed**\n\n1.  **Simplify complex phrasing and long words.** Some sentences use longer words when simpler ones would be easier for readers to understand.\n\n    -   **Quote:** \"The participants were adults without pre-existing cardiovascular disease; however, many of the included trials focused on individuals with liver disease.\"\n    -   **Why it's a problem:** Words like 'pre-existing' and 'individuals' can be replaced with more common language. Breaking the sentence in two would also improve readability.\n    -   **Suggested Rewrite:** \"The participants were adults who did not already have cardiovascular disease. However, many trials focused on people with liver disease.\"\n\n2.  **Replace noun phrases with direct verbs (reduce nominalization).** Some sentences are built around nouns when using a verb would be more direct and active.\n\n    -   **Quote:** \"Evidence currency statement: The evidence is up to date to May 2023 of search.\"\n    -   **Why it's a problem:** This phrasing is clunky and uses the noun 'search' instead of the verb. It feels more like a technical note than a plain language sentence.\n    -   **Suggested Rewrite:** \"How up-to-date is this evidence? We searched for evidence up to May 2023.\"\n\n3.  **Use active voice to improve clarity.** Some sentences use passive voice, which can make it unclear who is performing the action.\n\n    -   **Quote:** \"...and if it was associated with any unwanted effects.\"\n    -   **Why it's a problem:** The passive phrasing is less direct than an active alternative.\n    -   **Suggested Rewrite:** \"...and whether it caused any unwanted effects.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows good overall conformity with typical PLS patterns, with 55.6% of features falling in the best quartile. However, the analysis also flags two metrics that deviate from typical patterns, supporting the need for revision. The 'nominalization' score is high (P90), indicating an overuse of noun forms instead of verbs. The 'long_words' metric is also high (P90), suggesting that some vocabulary could be simplified. Addressing these areas will improve clarity and readability."
+    }
+  ]
+}

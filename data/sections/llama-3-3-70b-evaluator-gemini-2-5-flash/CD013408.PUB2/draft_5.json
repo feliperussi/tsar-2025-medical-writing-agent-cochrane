@@ -1,0 +1,162 @@
+{
+  "id": "CD013408.PUB2",
+  "draft": "Do organised care services reduce deaths and hospital stays for people with atrial fibrillation compared to usual care?\n\nKey messages\n- We found that organised care services for people with atrial fibrillation probably reduce deaths from any cause compared to usual care.\n- These services probably make little to no difference to the number of people hospitalized for any reason, but they do reduce hospital stays for heart-related problems.\n- The evidence was not strong enough to be certain about other benefits or harms, so more research is needed.\n\nWhat is atrial fibrillation and why is it a problem?\nAtrial fibrillation (AF) is a common heart rhythm condition in adults where the heart beats irregularly (an irregular heartbeat). It requires careful management. If not managed properly, AF can lead to serious complications like stroke, heart failure, and other heart-related problems. Common treatments include medications to control heart rate and rhythm, and procedures to restore a normal heart rhythm.\n\nWhat did we want to find out?\nWe wanted to assess the effects of different clinical service organisations for adults with atrial fibrillation compared to usual care. We aimed to find out if organised clinical services, like collaborative and virtual care models, can improve outcomes for people with AF, including reducing deaths and hospital stays.\n\nHow did we conduct this review?\nWe searched for studies comparing organised clinical service models for adults with atrial fibrillation to usual care, summarized their results, and evaluated our confidence in the evidence.\n\nWhat did we find?\nWe found 8 studies involving 8205 people with atrial fibrillation. The average age of participants was between 60 and 73 years. The studies were conducted in China, the Netherlands, and Australia. They compared organised care services, such as nurse-led multidisciplinary approaches or management using digital health technologies, to usual care.\n\nWhat were the main results?\nOrganised care services probably greatly reduce deaths from all causes. They probably make little to no difference to hospital stays for any reason, but they do reduce hospital stays for heart-related problems. We are not very certain about the effects on other outcomes, such as stroke or bleeding events, because the evidence is not strong enough.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were small and participants may have known which treatment they received, which could introduce bias.\n\nHow up-to-date is this evidence?\nWe searched for studies up to October 2022 and for ongoing trials up to April 2023.\n\nFuture studies should investigate the long-term effects of organised care services. They should also compare different types of organised care and measure the impact on people's quality of life. This will provide more reliable evidence to help people and their doctors make better decisions about care.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 481,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.586206896551722,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 19,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 46,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 135,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 51.75550935550936,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.160949171983656,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.324974550146962,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.705363825363818,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.199971324109255,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.69223600258083,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.827586206896552,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.994235113628218,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 188,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 103,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 140,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 481,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 481 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that passes all critical checks for accuracy, completeness, and formatting. The readability scores are excellent. However, it is not approved because it needs minor revisions to address a pattern of passive voice and use of noun-heavy phrases (nominalizations), which make some sentences less direct than they could be. Addressing the 3 improvements below will make the summary clearer and more aligned with Cochrane style guidelines.\n\n**Top 3 Improvements Needed:**\n\n**1. Rephrase sentences to use more direct, active verbs.**\nThe draft often uses noun forms of verbs (e.g., 'management') and passive voice, which can make the text feel less direct. The goal is to clearly state who is doing what.\n\n- **Problematic sentence:** \"They compared organised care services, such as nurse-led multidisciplinary approaches or management using digital health technologies, to usual care.\"\n- **Why it's an issue:** \"management using\" is a noun-heavy phrase. It's clearer to use a direct verb.\n- **Suggested rewrite:** \"They compared organised care services—such as care led by a nurse-led team or provided through digital health apps—to usual care.\"\n\n**2. Clarify the limitations of the evidence.**\nThe current text slightly understates a key limitation mentioned in the source material.\n\n- **Problematic sentence:** \"The evidence is limited because the studies were small and participants may have known which treatment they received, which could introduce bias.\"\n- **Why it's an issue:** The source material specifies the studies were \"*very* small,\" which is an important detail for the reader's confidence. The phrase \"which treatment they received\" is also passive.\n- **Suggested rewrite:** \"Our confidence in the evidence is limited because the studies were very small. Also, people in the studies knew which treatment they were getting, which could have biased the results.\"\n\n**3. Simplify the final paragraph about future research.**\nThe final sentences are a bit wordy and use a common nominalization.\n\n- **Problematic sentence:** \"This will provide more reliable evidence to help people and their doctors make better decisions about care.\"\n- **Why it's an issue:** \"make better decisions\" is a nominalization. Using a direct verb like \"decide\" is better, as per the style guide.\n- **Suggested rewrite:** \"This will provide more reliable evidence to help people and their doctors decide on the best care.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns, with 83% of features falling within the best quartile for readability and clarity. However, the analysis identified two style metrics that deviate significantly from the typical range. The counts for 'passive_voice' (19 instances) and 'nominalization' (21 instances) are in the P90 range, indicating they are much higher than is typical for a PLS. This supports the editorial feedback to convert passive sentences to active ones and replace noun phrases with direct verbs to improve clarity."
+    }
+  ]
+}

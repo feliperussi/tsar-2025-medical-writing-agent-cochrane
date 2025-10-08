@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Audit and feedback (A&F) is a widely used strategy to improve professional practice. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. Healthcare professionals may use medicines to help them stop smoking, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one. We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support (including the best people to give it); and what aspects of behavioural support help someone to stop smoking. We also wanted to know if behavioural support can cause any unwanted effects.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 189,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 10,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 40,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 12,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 46,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 46.6515,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.447666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.66968253968254,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.158306878306878,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.120846560846559,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.116931216931214,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 8.65685424949238,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.869133121693121,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 71,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 31,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 59,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 189,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 189 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 15,
+        "P50_count": 3,
+        "P75_count": 0,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 83.33333333333334,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 0,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The submitted content does not conform to the required input format for the \"Evaluate Plain Language Summary\" tool. It lacks the necessary fields such as \"draft_text\", \"original_abstract\", \"source_of_truth\", and \"master_style_guide\" that are required to perform an evaluation. Consequently, the tool cannot generate a meaningful assessment of a plain language summary.",
+      "pls_evaluation_summary": "Input validation failed: missing required JSON properties for PLS evaluation; therefore the submission cannot be graded as a valid plain language summary."
+    }
+  ]
+}

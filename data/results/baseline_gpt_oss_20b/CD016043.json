@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016043",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What are the different ways to deliver eye‑care services in community and primary care settings, and how well do we know if they work?\n\nKey messages\n– We found many ways to deliver eye‑care, such as school‑based, pharmacy, outreach, vision centre, health centre, and door‑to‑door delivery. But we do not know if these ways improve vision because very few studies looked at outcomes.\n– Most approaches were used in schools and outreach in Africa and the Americas; very few reports came from the Eastern Mediterranean region.\n– More research is needed to test whether these delivery models actually help people get the glasses they need.\n\nIntroduction to the review topic and review aims\n\nWhat is refractive error and why is it a problem?\nRefractive error is when the eye does not focus light correctly, so people see blurry pictures. It is a leading cause of vision problems that can be fixed with glasses or contact lenses. If people do not get the right glasses, they may miss school, work, or everyday activities.\n\nWhat are the common ways to deliver eye‑care in community and primary care?\nEye‑care can be offered in many places. In community settings, services are often set up in schools, pharmacies, or through outreach teams that visit homes or villages. In primary care, eye‑care is usually provided at a vision centre, a health centre, or by combining a health centre visit with door‑to‑door delivery.\n\nWhat did we want to find out?\nWe wanted to map all the different ways eye‑care is delivered in community and primary care, and to see how these approaches have been studied or evaluated.\n\nWhat did we do?\nWe searched many databases and reports for studies and reports about how eye‑care is delivered in community and primary care, then we listed and described the approaches we found and noted how they were evaluated.\n\nWhat did we find?\nThe search returned 175 studies, 146 reports, and 81 website records that matched our criteria. The studies covered people of all ages, from preschool children to adults, and were carried out in many countries around the world. Most of the studies were short‑term and were funded by a mix of government, non‑profit, and private organisations.\n\nDelivery approaches\n– School‑based eye‑care (glasses are fitted in schools)\n– Pharmacy‑based eye‑care (glasses sold or fitted in pharmacies)\n– Outreach teams that visit homes or villages\n– Vision centres that provide eye‑tests and glasses\n– Health centres that include eye‑care as part of general health services\n– Door‑to‑door delivery combined with a vision or health centre visit\n\nWhich approaches were most common?\nIn community settings, school‑based and outreach approaches were the most common. In primary care, the vision‑centre approach was used most often. In the African region, school‑based and outreach approaches were reported most often. In the Americas, outreach teams were used most often. Very few reports came from the Eastern Mediterranean region.\n\nHow well do we know if these approaches work?\nWe do not know if the delivery approaches improve vision because very few studies looked at outcomes. The evidence is very limited, so we cannot say whether a particular approach is better than another.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because there are very few studies that evaluate the delivery approaches, and the studies are small and varied. The lack of outcome data means we cannot be sure that any of the approaches actually help people get the glasses they need.\n\nHow up to date is this evidence?\nThe evidence is up to date to November 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 619,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.757575757575758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 169,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.65454202770844,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.901221912175064,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.417123904636021,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.174798061389339,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.318862290106233,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.79796347970823,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.696969696969697,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.695383835120184,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 226,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 619,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 619 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:25.517059"
+}

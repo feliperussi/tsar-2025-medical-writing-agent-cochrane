@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Can community health workers help prevent mental health problems in low- and middle-income countries?\n\n**Key messages**\n\n– In low- and middle-income countries, support programs run by community or primary health workers may slightly reduce symptoms of anxiety, depression, and distress in both adults and children. These programs may also help improve people's ability to do daily tasks and their quality of life.\n\n– The programs appeared to be safe and may reduce the number of unwanted or harmful effects people experience compared to receiving usual care.\n\n– We have only low to moderate confidence in these findings. Future studies should be better designed to give us more certain results about the benefits and risks of using community health workers to provide mental health support.\n\n**What are mental health problems and why is prevention important?**\n\nMental health is an important part of everyone's overall well-being. Mental health problems, like anxiety and depression, are common across the world. In many low- and middle-income countries, there are not enough trained mental health specialists, like psychologists or psychiatrists, to help everyone who needs it. This means many people do not get the support they need.\n\nOne way to help more people is to train local community health workers or primary care staff to provide basic mental health support. This is sometimes called 'task-shifting'. These workers can teach people skills to manage stress, promote well-being, and spot early signs of mental health problems. This could help prevent more serious conditions from developing.\n\n**What did we want to find out?**\n\nWe wanted to find out if mental health support programs delivered by community or primary health workers are effective for:\n– promoting mental well-being for everyone (universal prevention);\n– preventing mental health problems in people at high risk (selective prevention);\n– helping people with early signs of a mental health problem (indicated prevention).\n\nWe looked at the effects on adults and children in low- and middle-income countries. We also wanted to know about any unwanted effects.\n\n**What did we do?**\n\nWe searched for studies that compared mental health support programs run by community or primary health workers against usual care or no support. We compared and summarized the results of these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 113 studies that included a total of 32,992 people. The studies took place in low- and middle-income countries around the world. Most studies included adults, but 30 studies focused on children. The support programs were delivered by community health workers, primary care workers, or both.\n\n**Main results for adults**\n\nCompared to usual care:\n– Programs for everyone **probably slightly reduce** symptoms of anxiety and **may slightly reduce** symptoms of distress.\n– Programs for people at high risk **probably slightly reduce** symptoms of depression.\n– Programs for people with early signs of a problem **probably slightly improve** their ability to do daily tasks and **may reduce** unwanted effects.\n\n**Main results for children**\n\nCompared to usual care:\n– Programs for everyone **may improve** quality of life, **may reduce** unwanted effects, and **may slightly reduce** symptoms of depression and anxiety.\n– Programs for children at high risk **probably slightly reduce** symptoms of depression and distress.\n– Programs for children with early signs of a problem **reduce** their difficulties with daily tasks slightly and **reduce** their symptoms of depression slightly.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence is only moderate to low. This is because there were some issues with how the studies were carried out. For example, in some studies, people knew which support program they were getting, which could have influenced the results. Also, the results from different studies were sometimes varied, which makes it harder to draw firm conclusions.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to November 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 686,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 219,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.95987366375124,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.25638483965015,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.01647716229349,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.202040816326527,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.830709426627795,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.925170068027214,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.833333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.692363654033041,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 299,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 299.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 108,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 203,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 686,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 686 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:23.454901"
+}

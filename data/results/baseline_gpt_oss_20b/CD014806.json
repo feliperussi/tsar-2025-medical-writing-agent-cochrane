@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014806",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "This summary talks about a medicine that is used to help people with high blood pressure. The medicine is taken by mouth, usually once a day. People who tried the medicine often said that it probably lowered the pressure in their arms, which is a good sign because lower pressure can mean less strain on the heart. Many people also felt that they had more energy and could do everyday activities more easily after they started the medicine. \n\nWhen people compared the medicine to a fake pill that looks the same but has no medicine in it, the group that got the real medicine often reported better results. It seems likely that the medicine helped lower the pressure more than the fake pill did. Some people also said that they felt fewer headaches and less dizziness, which can happen when blood pressure is too high. \n\nThe medicine also seemed to help with other health problems that can come with high blood pressure. A number of people mentioned that they had fewer visits to the doctor for heart‑related issues while they were taking the medicine. It may also lower the chance of having a heart attack, although we do not have enough information to be completely sure about that. \n\nLike many medicines, this one can cause side effects. Some people reported feeling a little bit tired or having an upset stomach. A few people said they felt a mild rash on their skin. Most of these side effects were not severe and went away on their own after a short time. It may cause more serious problems for a small number of people, but we do not have enough data to know exactly how often that happens. \n\nThe medicine was tested in several groups of people from different ages and backgrounds. Most of the groups were fairly large, and the results were similar across the groups, which gives us some confidence that the medicine works for many kinds of people. However, the studies did not follow people for a very long time, so we are not sure how the medicine works over many years. \n\nOverall, the medicine appears to be a useful option for people who need help lowering their blood pressure. It probably lowers the pressure and may help prevent some heart problems. Most people who took it felt better and did not have serious side effects. We still need more information about how safe it is to use for a long time and whether it can prevent heart attacks for sure. If you are thinking about using this medicine, it is a good idea to talk with a health professional about the possible benefits and any worries you might have.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 456,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.82608695652174,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 105,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 67.41810068649885,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.781209000762779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.295872425629291,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.689912280701755,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.316399694889398,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 36.492753623188406,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.3043478260869565,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.782329983125269,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 4.757737948131198,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 109,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 50,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 76,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 456,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 456 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 13,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 72.22222222222221,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.796350"
+}

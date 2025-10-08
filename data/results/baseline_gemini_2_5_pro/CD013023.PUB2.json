@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What are the best dressings to prevent problems with arterial catheters?\n\nKey messages\n\n– We do not know if any particular type of dressing or securement device is better than another for preventing problems with arterial catheters (small tubes placed in an artery). This is because there is not enough good-quality evidence.\n– Problems like the catheter falling out, getting blocked, or causing a bloodstream infection were not well reported or did not happen often in the studies. This makes it hard to compare the different dressings.\n– More and better research is needed to help doctors and nurses decide which dressings and devices are best for keeping arterial catheters working safely.\n\nWhat are arterial catheters?\n\nArterial catheters are thin, flexible tubes that are placed into an artery, which is a type of blood vessel. They are often used for people who are very ill in hospitals, for example, in an intensive care unit or during major surgery.\n\nThese catheters allow healthcare staff to continuously monitor a person's blood pressure and to take blood samples easily without needing to use a needle each time.\n\nWhy are dressings and securement devices important?\n\nTo keep the catheter in place and prevent infection, a dressing is placed over the area where it enters the skin. Sometimes, an extra device is used to secure the catheter more firmly.\n\nIf the catheter is not secure, it can move or fall out, which means a new one has to be put in. This can be uncomfortable for the person and takes up staff time. An unclean site can also lead to serious infections in the bloodstream.\n\nWhat did we want to find out?\n\nWe wanted to find out which types of dressings and securement devices are best for preventing arterial catheters from failing or causing other problems.\n\nWhat did we do?\n\nWe searched for studies that compared different types of dressings and securement devices for people with arterial catheters. The studies we looked for were randomized controlled trials, where people are put into different treatment groups by chance. We compared and summarized the results of these studies and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 5 studies that included a total of 1228 people with arterial catheters. The studies compared several types of dressings and devices, including:\n– standard clear dressings\n– standard clear dressings with a special skin glue\n– clear dressings with a reinforced border\n– dressings with a built-in securement device\n– separate devices to hold the catheter in place\n\nOverall, we found very little reliable evidence. For all the different dressings and devices we looked at, we are very uncertain about their effects. We do not know if one type is better than another at preventing the catheter from failing, falling out, getting blocked, or causing a bloodstream infection.\n\nWhat are the limitations of the evidence?\n\nWe are not confident in the evidence for several reasons.\n– There were weaknesses in how the studies were carried out.\n– The studies were very small.\n– The problems we were interested in, such as infections, happened so rarely that it was difficult to tell if there were any real differences between the dressings.\n\nBecause of these limitations, we cannot draw firm conclusions about which dressings or devices are best.\n\nHow up to date is this evidence?\n\nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 589,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.633333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.355383984153946,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.997390492359933,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.145427277872098,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.856162988115447,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.576593095642332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.64691567628749,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.899494936611665,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.817989903791737,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 218,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 589,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 589 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:19.145424"
+}

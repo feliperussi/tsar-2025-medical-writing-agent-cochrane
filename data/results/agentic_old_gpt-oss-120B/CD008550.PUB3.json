@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008550.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do medicines for gastro‑oesophageal reflux (the backward flow of stomach contents into the tube that connects the mouth to the stomach) help infants and children?\n\nKey messages  \n- Medicines that lower stomach acid – such as omeprazole, esomeprazole, ranitidine and similar drugs – have not shown a clear benefit for reducing reflux symptoms in infants; the research is limited and uncertain, and no serious side‑effects were reported.  \n- In children older than one year, acid‑reducing medicines called proton pump inhibitors (PPIs – drugs that block the stomach’s acid‑producing pump (a device that moves fluid)) may or may not improve reflux symptoms, but the few available studies do not give a reliable answer.  \n- Because the evidence is sparse and uncertain, we need more well‑designed trials with larger numbers of participants and longer follow‑up, especially for pre‑term babies and children with neurological conditions.\n\nWhat is gastro‑oesophageal reflux in babies and children?  \nGastro‑oesophageal reflux (often called GOR) happens when a baby’s stomach contents flow back up into the oesophagus (the tube that carries food from the mouth to the stomach). It is very common in the first few months of life – about half of infants under three months experience it‑self. For most babies the problem improves on its own as they grow. Some older children and children with other health problems can have symptoms that last longer and cause more trouble.\n\nWhy might medicines be used to treat reflux?  \nWe consider medicines when reflux causes frequent crying, poor feeding or other uncomfortable signs. The most common medicines are:  \n- **Proton pump inhibitors (PPIs)** – drugs such as omeprazole, esomeprazole, rabeprazole and pantoprazole that reduce the amount of acid the stomach makes.  \n- **H₂‑antagonists** – medicines like ranitidine that also lower stomach acid but work in a different way.  \n- **Alginates** – substances that form a gel‑like layer on top of the stomach contents, helping keep them from flowing back up.  \n\nThese medicines aim to lessen irritation caused by stomach acid and, hopefully, improve the child’s symptoms.\n\nWhat did we want to find out?  \nWe wanted to know whether any of these medicines actually help infants and children with reflux. Specifically, we compared each drug with a placebo (a harmless pill that looks like the real drug but contains no medicine) or with another drug. We looked at whether the medicines reduced symptoms, changed the acidity measured in the oesophagus, or improved any other health outcomes. In short, we assessed the benefits and harms of medicine‑based treatments for reflux in children up to 16 years old.\n\nHow did we look for evidence?  \nWe searched major databases for randomised controlled trials (studies where participants are randomly assigned to groups) that compared the medicines with placebo or other drugs. We extracted the results, combined the data where possible, and judged how confident we were in the evidence.\n\nWhat did we find?  \nWe identified 36 randomised controlled trials that together enrolled 2 251 infants and children with reflux. The participants fell into two age groups: infants up to 12 months and children aged 12 months to 16 years. The trials tested medicines that are currently available, mainly PPIs and one H₂‑antagonist (ranitidine). Comparisons were made between a drug and placebo, between two different drugs, and between different doses of the same drug. No studies of dietary changes, thickened feeds, alginates or other non‑medicine treatments met our criteria, and many trials did not provide enough data for detailed analysis.\n\nWhat are the main results?  \nThe evidence is very uncertain, but overall we see no clear benefit from these medicines for reflux symptoms in infants or children.  \n- In infants, omeprazole did not reduce reflux‑related symptoms compared with placebo, and we could not tell whether it works better or worse than ranitidine. Esomeprazole also showed no improvement over placebo.  \n- In older children, different doses of PPIs such as rabeprazole gave little or no improvement, and pantoprazole at low, medium or high doses may or may not help.  \n\nBecause the certainty of the evidence is low, we cannot be confident that these medicines provide any meaningful benefit for reflux symptoms.\n\nWhat are the limitations of the evidence?  \nThe studies involved different types of participants, used different ways of giving the medicines, and were generally small. These differences make it hard to combine the results and reduce our confidence in the findings.\n\nHow current is the evidence?  \nThis review updates our previous work and includes studies searched up to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 768,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.692307692307693,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 74,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 222,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 222.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.99027644230773,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.481406250000003,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.439083533653847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.190468749999997,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.116506410256413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.94751602564102,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.564102564102564,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.313708498984761,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.61758481570513,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 323,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 323.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 139,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 139.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 217,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 768,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 768 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:54.089607"
+}

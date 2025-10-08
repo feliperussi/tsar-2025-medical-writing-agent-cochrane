@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Does tailoring the dose of follicle-stimulating hormone (FSH, a hormone that helps eggs grow in the ovaries) based on a woman's ovarian reserve (the ability of her ovaries to produce eggs) improve the chances of having a baby with in vitro fertilization (IVF, a type of fertility treatment)?\n\nKey messages:\n- It is uncertain whether tailoring the dose of FSH improves the chance of having a baby. This approach may slightly reduce the risk of moderate or severe ovarian hyperstimulation syndrome (OHSS, a potentially serious condition caused by over-stimulation of the ovaries), but the evidence for reducing severe OHSS alone is uncertain.\n- The current evidence does not clearly justify adjusting the dose of FSH in women undergoing IVF, especially as increased dose is associated with greater total cost.\n- We need better research to understand if this approach actually helps or harms women undergoing IVF.\n\nWhat is in vitro fertilisation (IVF) and why is it important to get the dose of a fertility medicine just right?\nIn vitro fertilisation (IVF) is a type of fertility treatment where an egg is fertilised with sperm outside the body. Women undergoing IVF often receive daily doses of a medicine called FSH to stimulate their ovaries to produce multiple eggs. The goal is to retrieve 5 to 15 eggs, as this shows the ovaries have responded normally to the medicine. Getting the dose of FSH just right is crucial because too high or too low a dose can lead to problems.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out if tailoring the dose of FSH to individual women, based on markers of their ovarian reserve, improves the chances of pregnancy and reduces the risk of OHSS. They looked at studies that compare different doses of FSH in women with different predicted responses to stimulation, as well as studies that compare individualised dosing strategies with standard dosing approaches. A dosing strategy can be based on a set of rules (an algorithm) that considers the woman's ovarian reserve.\n\nHow did we conduct this review?\nWe searched for studies that compared tailored FSH doses against standard doses. We then summarized the results and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 26 studies that involved 8520 women undergoing IVF. For the studies that used a dosing plan based on ovarian reserve tests, our findings suggest that if the chance of having a baby with a standard dose is 25%, the chance with a tailored dose would be between 25% and 31%. Similarly, if the chance of moderate or severe OHSS with a standard dose is 5%, the chance with a tailored dose would be between 2% and 5%.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have been aware of their treatment, and not all studies reported data on all outcomes of interest.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 534,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.53846153846154,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.23677614520312,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.517752808988767,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.95484874675886,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.119700374531831,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.031864016133682,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.25381734370499,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.6923076923076925,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.433981132056603,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.257827542494958,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 211,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 534,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 534 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:23.217659"
+}

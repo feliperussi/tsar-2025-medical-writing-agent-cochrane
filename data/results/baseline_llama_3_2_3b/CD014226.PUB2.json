@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014226.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Here is the transformed Cochrane abstract into a Plain Language Summary:\n\n**What are the benefits and risks of fenestrated endovascular repair for abdominal aortic aneurysms?**\n\n**What are the benefits and risks of fenestrated endovascular repair for abdominal aortic aneurysms?**\n\nAbdominal aortic aneurysms (AAAs) are abnormal bulges in the aorta, the main blood vessel that carries blood from the heart to the rest of the body. These bulges can be difficult to treat, especially if they are close to or next to the kidneys. One treatment option is fenestrated endovascular repair (FEVAR), which involves using a special graft to repair the aneurysm while leaving the kidneys' blood vessels intact.\n\n**What did we want to find out?**\n\nWe wanted to find out if fenestrated endovascular repair is better than open surgical repair or conservative management for people with complex AAAs.\n\n**What did we find?**\n\nWe did not find any studies that compared fenestrated endovascular repair with open surgical repair or conservative management for people with complex AAAs.\n\n**What are the limitations of the evidence?**\n\nWe did not find any studies that compared fenestrated endovascular repair with open surgical repair or conservative management for people with complex AAAs. This is a difficult area to study because the number of people with complex AAAs is low, and the aneurysms are often different from one another.\n\n**How up to date is this evidence?**\n\nWe looked for studies up to March 2023, but we did not find any studies that met our criteria.\n\n**What should happen next?**\n\nMore research is needed to compare fenestrated endovascular repair with open surgical repair and conservative management for people with complex AAAs. Future studies could consider commissioning agreements to make it easier to conduct research in this area.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 302,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.727272727272727,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 24,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 68,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.11572546658641,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.26098735701385,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.515755568934377,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.859602649006622,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.378326309452138,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.88621312462372,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.590909090909091,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.348469228349535,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.223058157736305,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 52,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 79,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 302,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 302 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 16,
+      "P50_count": 0,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 88.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:48.492880"
+}

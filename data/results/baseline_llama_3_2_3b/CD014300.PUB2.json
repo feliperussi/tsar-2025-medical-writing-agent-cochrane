@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014300.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of psychosocial interventions for promoting mental health in people living in low- and middle-income countries affected by humanitarian crises?**\n\n**Key Messages:**\n\n* Psychosocial interventions may improve functioning in children and adolescents, but evidence is very uncertain as the data came from one RCT.\n* There is scant and inconclusive randomised evidence on the potential benefits of psychological and social interventions to promote mental health in people living in LMICs affected by humanitarian crises.\n* Confidence in the findings is hampered by the scarcity of studies included in the review, the small number of participants analysed, the risk of bias in the studies, and the substantial level of heterogeneity.\n\n**Introduction to the review topic and review aims:**\n\nBecause of wars, conflicts, persecutions, human rights violations, and humanitarian crises, about 84 million people are forcibly displaced around the world; the great majority of them live in low- and middle-income countries (LMICs). People living in humanitarian settings are affected by a constellation of stressors that threaten their mental health. Psychosocial interventions for people affected by humanitarian crises may be helpful to promote positive aspects of mental health, such as mental well-being, psychosocial functioning, coping, and quality of life. Previous reviews have focused on treatment and mixed promotion and prevention interventions. In this review, we focused on promotion of positive aspects of mental health.\n\n**What did we do?**\n\nWe searched CENTRAL, MEDLINE, Embase, and seven other databases to January 2023. We also searched the World Health Organization's (WHO) International Clinical Trials Registry Platform and ClinicalTrials.gov to identify unpublished or ongoing studies, and checked the reference lists of relevant studies and reviews.\n\n**What did we find?**\n\nWe found 13 RCTs with 7917 participants. Nine RCTs were conducted on children/adolescents, and four on adults. All included interventions were delivered to groups of participants, mainly by paraprofessionals. Paraprofessional is defined as an individual who is not a mental or behavioural health service professional, but works at the first stage of contact with people who are seeking mental health care.\n\n**What are the limitations of the evidence?**\n\nTo date, there is scant and inconclusive randomised evidence on the potential benefits of psychological and social interventions to promote mental health in people living in LMICs affected by humanitarian crises. Confidence in the findings is hampered by the scarcity of studies included in the review, the small number of participants analysed, the risk of bias in the studies, and the substantial level of heterogeneity.\n\n**What should happen next?**\n\nFuture research in this area should focus on options and effects that are important to decision-makers, such as psychosocial interventions that are delivered by paraprofessionals, and unwanted effects and costs.\n\nNote: I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please note that this is a machine-generated summary and may not be perfect. It's always best to have a human reviewer check the summary for accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 538,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.551724137931036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 41.13436802973979,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.130674272529166,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.350118574541725,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.195762081784384,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.52477887450327,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.89373157287527,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.0,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.0835484168696325,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 210,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 538,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 538 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 5,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:48.650377"
+}

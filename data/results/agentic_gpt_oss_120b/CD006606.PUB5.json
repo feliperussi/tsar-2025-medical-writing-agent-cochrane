@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006606.PUB5",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Is in vitro maturation (IVM) – maturing eggs in the lab – as effective as standard IVF for women with polycystic ovarian syndrome (PCOS) trying to get pregnant?\n\nWhat are the key messages?\n- The research does not give a clear answer about whether IVM (maturing eggs in the laboratory) provides the same chance of a live birth as standard IVF (fertilising eggs after hormonal stimulation) for women with PCOS: the evidence is very uncertain.\n- IVM probably raises the risk of miscarriage after a clinical pregnancy is confirmed and probably lowers the risk of moderate or severe ovarian hyperstimulation syndrome (OHSS), a serious reaction to fertility drugs.\n- The chances of pre‑term birth and of birth defects appear similar for IVM and IVF, but the data are limited.\n\nWhat is polycystic ovarian syndrome (PCOS) and why does it affect fertility?\nPCOS is a hormonal condition that affects about 8 % to 13 % of women of child‑bearing age. Women with PCOS often have irregular periods, higher levels of male‑type hormones, and ovaries that contain many small cysts. These changes can make it harder for an egg to mature and be released, reducing the chance of natural conception. Roughly half of the women who seek fertility help have PCOS.\n\nWhat are the usual assisted‑reproduction techniques and their problems for women with PCOS?\nWhen natural conception is unlikely, many couples use assisted reproductive technologies such as in‑vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI). In IVF/ICSI, doctors give high doses of medicines called a gonadotrophins to stimulate the ovaries, retrieve many eggs, fertilise them in the laboratory, and transfer the embryos back into the uterus. For women with PCOS, this strong stimulation often produces a large number of immature or uneven‑quality eggs and raises the risk of ovarian hyperstimulation syndrome (OHSS), where the ovaries swell and fluid leaks into the body.\nIn‑vitro maturation (IVM) offers an alternative. Doctors collect immature eggs (at the germinal‑vesicle stage) and let them mature in the laboratory before fertilisation. This approach may reduce the need for high‑dose stimulation and lower the risk of OHSS.\n\nWhat did the review aim to find out?\nWe wanted to compare the benefits and harms of IVM (followed by IVF or ICSI) with standard IVF/ICSI in women with PCOS. Specifically, we looked at live‑birth rates, miscarriage risk, OHSS risk, pre‑term birth, and congenital anomalies.\n\nHow did we find the evidence?\nWe searched several databases (Cochrane Gynaecology and Fertility Group Register, CENTRAL, MEDLINE, Embase, Open Grey) and relevant guidelines up to 27 February 2023. We selected randomised controlled trials that compared IVM before IVF/ICSI with conventional IVF/ICSI in sub‑fertile women with PCOS. Two reviewers independently screened studies, assessed risk of bias, and extracted data. We combined results in a meta‑analysis and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified four randomised trials involving 810 women with PCOS. The trials compared IVM of immature eggs followed by IVF/ICSI with conventional IVF/ICSI using a GnRH‑antagonist protocol.\nWe are very uncertain whether IVM changes the chance of a live birth or a clinical pregnancy (a pregnancy confirmed by an ultrasound showing a fetal heartbeat) compared with standard IVF. IVM probably increases miscarriage per clinical pregnancy and probably reduces the risk of moderate or severe OHSS. IVM probably makes little or no difference to pre‑term birth and may make little or no difference to congenital anomalies.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants probably knew which treatment they received, the trials were small, and the study groups and methods differed.\n\nHow current is the evidence?\nThis review updates the IVM evidence up to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 648,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.058823529411764,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.973627450980416,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.74479302832244,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.03580065359477,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.032469135802469,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.265504720406682,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.83660130718954,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.294117647058823,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.61895003862225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.232076906318084,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 258,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 258.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 140,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 180,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 648,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 648 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:47.310881"
+}

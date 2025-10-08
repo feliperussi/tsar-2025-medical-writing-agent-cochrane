@@ -1,0 +1,162 @@
+{
+  "id": "CD014909.PUB2",
+  "draft": "\"Does cleaning the bowel with laxatives (mechanical bowel preparation) and taking oral antibiotics before planned colon or rectal surgery reduce infections and leaks?\n\nKey messages\n- Giving both mechanical bowel cleaning (laxatives or enemas) and oral antibiotics before elective colon or rectal surgery probably lowers the risk of wound infection (surgical site infection) and of leaks where the bowel is re‑joined (anastomotic leak) compared with mechanical cleaning alone; the evidence is of moderate quality and side‑effects were rarely reported.\n- We could not tell whether oral antibiotics alone or no preparation at all changes infection or leak rates, because only a few low‑quality studies examined these comparisons.\n- Future trials should compare the combined approach with oral antibiotics alone or with no preparation, record any side‑effects such as dehydration or electrolyte problems, and explore which types of colorectal surgery benefit most.\n\nWhy is bowel preparation important before planned colorectal surgery?\nElective colorectal surgery – operations that are scheduled in advance to remove part of the colon or rectum – can save lives but also carries a risk of serious complications. The two most common problems are:\n- Surgical site infection (SSI) – an infection at the incision site that can cause pain, delay healing and sometimes need extra antibiotics or another operation.\n- Anastomotic leak – a leak where the surgeon has re‑joined two ends of the bowel; this can lead to infection inside the abdomen and can be life‑threatening.\n\nThese complications are more frequent in colorectal surgery because the large bowel normally contains many bacteria. To reduce bacterial load and clear stool before the cut, doctors use pre‑operative bowel preparation. This can be done in two ways:\n- Mechanical bowel preparation (MBP) – taking strong laxatives or using enemas to empty the bowel.\n- Oral antibiotic bowel preparation (oAB) – swallowing antibiotics that travel through the bowel to kill bacteria.\n\nSometimes both methods are used together (MBP + oAB). While MBP alone has not shown clear benefits, it has been uncertain whether adding oral antibiotics improves outcomes.\n\n\nWhat did the researchers aim to discover about combined bowel preparation?\nWe set out to find out whether giving patients both MBP and oAB before elective colorectal surgery reduces post‑operative problems more than other strategies. Specifically, we compared the combined method (MBP + oAB) with:\n- MBP alone,\n- oAB alone,\n- No bowel preparation (nBP).\n\nWe examined randomised controlled trials – the most reliable type of study – to see how each strategy affected rates of SSI, anastomotic leak, death, and other outcomes such as length of hospital stay.\n\nHow did we find and evaluate the studies?\nWe searched MEDLINE, Embase, CENTRAL, trial registries and reference lists up to 15 December 2021. We included randomised trials that compared MBP + oAB with any of the three alternatives in adults undergoing elective colorectal surgery. Two reviewers extracted data and assessed risk of bias. We pooled results using risk ratios (RR) or mean differences (MD) with 95 % confidence intervals and rated the certainty of the evidence with GRADE.\n\nWhat did we find?\nWe identified 21 trials involving 5 264 adults who had elective colorectal surgery. Most participants underwent colon or rectal resections for cancer or benign disease. The trials compared MBP + oAB with:\n- MBP alone (21 trials),\n- oAB alone (3 trials),\n- No preparation (1 trial).\n\nThe studies did not report detailed participant ages, genders, or locations, and only four trials recorded side‑effects of the bowel preparation.\n\nWhat are the main results?\nSurgical site infection\n- MBP + oAB probably reduces SSI compared with MBP alone (RR 0.56, moderate‑certainty evidence). This means the risk is about 44 % lower.\n- When MBP + oAB is compared with oAB alone or with no preparation, the effect on SSI is unclear because few low‑quality studies are available.\n\nAnastomotic leak\n- MBP + oAB probably reduces anastomotic leak compared with MBP alone (RR 0.60, moderate‑certainty evidence), a reduction of about 40 %.\n- Evidence for a difference versus oAB alone or no preparation is uncertain.\n\nOther outcomes\n- Mortality, postoperative ileus (temporary and length of hospital stay showed little or no difference between MBP + oAB and MBP alone.\n- Data on side‑effects such as dehydration or electrolyte imbalance were sparse, so we cannot comment on harms.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the findings, but several issues reduce certainty:\n- Participants and clinicians often knew which preparation was used, which could influence results.\n- Not all trials reported every outcome we were interested in.\n- The studies varied in patient groups, surgical types and the exact MBP or oAB regimens used.\n\nHow current is the evidence?\nWe searched the literature up to 15 December 2021, so the evidence reflects studies published before that date.\n\nWhat should future research address?\nNew trials should compare MBP + oAB directly with oAB alone and with no preparation, record any side‑effects such as dehydration or electrolyte problems, and examine different types of colorectal surgery to identify which patients benefit most.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 886,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 40,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 75,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 43,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 43.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 240,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.668099887133195,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.973782167042891,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.430079006772011,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.060316027088032,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.069932279909704,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.47957110609481,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.275,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 17,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.049091467268624,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 390,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 390.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 204,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 204.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 251,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 251.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 886,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 886 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks failed: • Word count is 886 words, exceeding the 850‑word limit. • The draft is missing required subheadings phrased as questions for the Limitations and Currency sections (e.g., “What are the limitations of the evidence?” and “How current is the evidence?”). • Because of these omissions the PLS is incomplete. In addition, several clarity problems would confuse readers: 1) Long, dense sentences (e.g., “We identified 21 trials involving 5 264 adults who had elective colorectal surgery…”) make the key message hard to follow. 2) Excessive passive constructions (“The studies did not report detailed participant ages…”) obscure who did what. 3) Heavy noun‑heavy, technical phrasing (“combined mechanical and oral antibiotic bowel preparation”) without simpler alternatives can overwhelm a lay audience. Suggested rewrites are provided below. Metrics support these observations: passive_voice = 22 (P90), nominalization = grade, nouns = 240 (BEYOND_P90), smog_index = 17 (BEYOND_P90), complex_words = 204 (BEYOND_P90), long_words = 251 (BEYOND_P90). Reducing these will improve readability.",
+      "pls_evaluation_summary": "The PLS exceeds the word limit (886 > 850). Readability scores are moderate (FRE 48.7, FKGL 11.97) but several linguistic features are far outside typical PLS ranges: passive voice (22, P90), nominalizations (43, beyond P90), noun count (240, beyond P90), SMOG (17, beyond P90), complex words (204, beyond P90) and long words (251, beyond P90). These indicate the draft is overly dense and noun‑heavy, which hampers plain‑language clarity."
+    }
+  ]
+}

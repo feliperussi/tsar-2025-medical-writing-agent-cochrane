@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016136",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is giving iron through an IV (intravenous – into a vein) safer and more effective than taking iron pills (oral – taken by mouth) for treating iron‑deficiency anaemia (low iron causing low haemoglobin) during pregnancy?\n\nKey messages  \n- Giving IV iron probably raises haemoglobin (Hb – the protein that carries oxygen) a little and reduces the number of pregnant women who stay anaemic, with no clear increase in serious harms; the evidence is fairly reliable but not definitive.  \n- IV iron makes little or no difference to postpartum haemorrhage (PPH – heavy bleeding after birth), the need for blood transfusion (putting donated blood into a vein), breastfeeding rates, and most reported side‑effects (adverse events – unwanted health problems).  \n- Future research should use larger, well‑designed randomised trials that report detailed safety data, long‑term outcomes after birth, and include diverse populations.\n\nWhy is iron‑deficiency anaemia in pregnancy a problem?  \nMany pregnant women develop iron‑deficiency anaemia (IDA – not enough iron to make normal haemoglobin). Low haemoglobin makes a mother feel tired, short‑of‑breath and weak. It also raises the risk of premature birth, low birth weight and postpartum haemorrhage. The baby needs iron to grow, so untreated IDA can affect infant health and development.\n\nHow is iron‑deficiency anaemia usually treated in pregnancy?  \nThe first‑line treatment is oral iron tablets such as ferrous sulfate (a common iron salt taken by mouth). Oral iron is cheap and easy to use, but it can cause stomach upset and may raise iron levels slowly, especially when anaemia is severe. An alternative is IV iron, given as a drip of iron sucrose, ferric carboxymaltose, ferric derisomaltose or ferumoxytol (different iron formulations delivered directly into a vein). IV iron raises iron stores faster and may be better tolerated, but it requires a clinic visit and has raised concerns about possible side‑effects.\n\nWhat did the researchers want to find out?  \nWe aimed to compare IV iron with oral iron in pregnant women who have confirmed iron‑deficiency anaemia (haemoglobin < 11 g/dL). Specifically we asked whether IV iron improves haemoglobin before and after birth, reduces the proportion of women who remain anaemic, and influences important safety outcomes such as postpartum bleeding, the need for blood transfusion, maternal well‑being, breastfeeding, and serious adverse events (serious AEs – unwanted problems that cause death, are life‑threatening, need hospitalisation, or cause lasting disability).\n\nHow did we find the studies?  \nWe searched MEDLINE, Embase, CENTRAL and the WHO ICTRP (World Health Organization’s International Clinical Trials Registry Platform) for randomised controlled trials that compared IV and oral iron in pregnant women with iron‑deficiency anaemia. Two reviewers screened records, extracted data and pooled results using meta‑analysis. We expressed effects as risk ratios (RR – chance of an event in one group compared with another) or mean differences (MD – average difference between groups) with 95 % confidence intervals (CI – range that likely contains the true effect). We judged the certainty of the evidence with the GRADE approach (a system that rates how confident we can be in the results).\n\nWhat did we find?  \nWe included 13 randomised controlled trials involving 3,939 pregnant women. Women were enrolled between 13 and 37 weeks of pregnancy and the baseline haemoglobin ranged from 5.0 to just under 11 g/dL. Most trials were done in low‑ and middle‑income settings (India or African countries). The most common comparison was iron sucrose versus ferrous sulfate.\n\nMain results  \n- IV iron probably increases haemoglobin slightly during pregnancy and probably reduces the proportion of women who are anaemic.  \n- Around the time of birth, IV iron probably raises haemoglobin a little and probably reduces anaemia slightly.  \n- After delivery, IV iron may increase haemoglobin slightly and may reduce anaemia slightly, but we are uncertain about its effect on severe anaemia.  \n- IV iron makes little or no difference to the risk of postpartum haemorrhage, the need for blood transfusion, and breastfeeding rates.  \n- We are uncertain whether IV iron affects maternal mortality (death) or maternal morbidity (health problems during or after pregnancy).  \n- IV iron probably makes little or no difference to severe infections, prolonged hospital stay, overall adverse events, admission to intensive care unit (ICU – specialised hospital care), and serious adverse events.\n\nWhat are the limitations of the evidence?  \nMany trials were small and participants often knew which treatment they received, which can bias results. Some studies did not report the outcomes we wanted. The study populations and iron formulations varied, reducing confidence in some findings.\n\nHow current is the evidence?  \nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 773,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.89189189189189,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 235,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 235.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.432317051851356,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.112559700709767,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.889607006748015,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.338835705045277,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.205398412642918,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.99926575993847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.081081081081081,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.449899597988733,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.103948057760219,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 346,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 346.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 171,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 225,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 773,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 773 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:09.770762"
+}

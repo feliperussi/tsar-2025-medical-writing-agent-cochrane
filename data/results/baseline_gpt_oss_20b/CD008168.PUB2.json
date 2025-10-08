@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Is intermittent phototherapy (light treatment for newborn jaundice) as effective as continuous phototherapy for newborn babies?\n\nKey messages:\n- Intermittent phototherapy and continuous phototherapy appear to lower bilirubin levels in newborns to a similar degree, and no clear difference in safety was found.\n- Giving light in short periods may reduce the total time babies spend under the lamp, which could help families spend more time feeding and bonding.\n- The evidence comes from a small number of studies, many of which included only healthy full‑term babies, so we cannot be sure the same results apply to very early or very low‑weight infants.\n\nIntroduction to the review topic and aims\n\nWhat is newborn jaundice and why is it a problem?\nNewborn jaundice happens when a substance called bilirubin builds up in the baby’s blood. Bilirubin is a normal by‑product of breaking down the red cells that babies have at birth, but high levels can make the skin look yellow and, in severe cases, can affect the brain.\n\nWhat is phototherapy and how is it usually given?\nPhototherapy uses special lights that change bilirubin into a form the baby can get rid of more easily. In most hospitals the baby lies under a lamp for many hours each day, often with the eyes protected by soft pads.\n\nWhat is intermittent phototherapy and why might it be useful?\nIntermittent phototherapy means turning the light on and off in a regular pattern, such as a few hours on followed by a break. The idea is that the baby’s body may still clear bilirubin during the off periods, while the baby gets more time away from the lamp. This could make it easier for parents to hold and feed the baby and might lower the risk of skin irritation.\n\nWhat did we want to find out?\nWe wanted to know whether intermittent phototherapy works as well as continuous phototherapy at lowering bilirubin, whether it changes the chance of any side effects, and whether it affects how long babies stay in the hospital.\n\nWhat did we do?\nWe searched for studies that compared intermittent and continuous phototherapy in babies up to one month old. We included studies that randomly assigned babies to one of the two light schedules, as well as studies that assigned babies in a way that was not fully random or that grouped babies by hospital. We collected the main results and looked at how confident we felt about the findings.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 426,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 18,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.666666666666668,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 100,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.523192488262936,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.533896713615025,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.454600938967133,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.229859154929574,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.537089201877933,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.793427230046944,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.416198487095663,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.437199999999999,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 142,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 54,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 90,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 426,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 426 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 3,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:14.172474"
+}

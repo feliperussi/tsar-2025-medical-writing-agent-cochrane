@@ -1,0 +1,159 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Intermittent phototherapy versus continuous phototherapy for neonatal jaundice\n\nBackground\nPhototherapy is a widely accepted, effective first‐line therapy for neonatal jaundice. It is traditionally used continuously but intermittent phototherapy has been proposed as an equally effective alternative with practical advantages of improved maternal feeding and bonding. The effectiveness of intermittent phototherapy compared with continuous phototherapy is unknown.\n\nObjectives\nTo assess the safety and effectiveness of intermittent phototherapy compared with continuous phototherapy.\n\nSearch methods\nSearches were conducted on 31 January 2022 in the following databases: CENTRAL via CRS Web, MEDLINE and Embase via Ovid. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐randomised trials.\n\nSelection criteria\nWe included RCTs, cluster‐RCTs and quasi‐RCTs comparing intermittent phototherapy with continuous phototherapy in jaundiced infants (both term and preterm) up to the age of 30 days. We compared intermittent phototherapy with continuous phototherapy by any method and at any dose and duration as defined by the authors.\n\nData collection and analysis\nThree review authors independently selected trials, assessed trial quality and extracted data from included studies. We performed fixed‐effect analyses and expressed treatment effects as mean difference (MD), risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CIs). Our primary outcomes of interest were rate of decline of serum bilirubin, and kernicterus. We used the GRADE approach to assess the certainty of evidence.\n\nMain results\nWe included 12 RCTs (1600 infants) in the review. There is one ongoing study and four awaiting classification. There was little or no difference between intermittent phototherapy and continuous phototherapy with respect to rate of decline of bilirubin in jaundiced newborn infants (MD ‐0.09 micromol/L/hr, 95% CI ‐0.21 to 0.03; I² = 61%; 10 studies; 1225 infants; low‐certainty evidence). One study involving 60 infants reported no incidence of bilirubin induced brain dysfunction (BIND). It is uncertain whether either intermittent or continuous phototherapy reduces BIND because the certainty of this evidence is very low. There was little or no difference in treatment failure (RD 0.03, 95% CI 0.08 to 0.15; RR 1.63, 95% CI 0.29 to 9.17; 1 study; 75 infants; very low‐certainty evidence) or infant mortality (RD ‐0.01, 95% CI ‐0.03 to 0.01; RR 0.69, 95% CI 0.37 to 1.31 I² = 0%; 10 studies, 1470 infants; low‐certainty evidence).\n\nAuthors' conclusions\nThe available evidence detected little or no difference between intermittent and continuous phototherapy with respect to rate of decline of bilirubin. Continuous phototherapy appears to be more effective in preterm infants, however, the risks of continuous phototherapy and the potential benefits of a slightly lower bilirubin level are unknown. Intermittent phototherapy is associated with a decrease in the total number of hours of phototherapy exposure. There are theoretical benefits to intermittent regimens but there are important safety outcomes that were inadequately addressed. Large, well designed, prospective trials are needed in both preterm and term infants before it can be concluded that intermittent and continuous phototherapy regimens are equally effective.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 531,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.08695652173913,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 22,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 36.18817980840092,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.947246376811595,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.51268730041759,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.129642184557436,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 20.910865471219196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.9 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 61.31671170064685,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.3 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.826086956521738,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.8 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 15.489995996796797,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.668408712028167,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 253,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 203,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 531,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 531 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 8,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 44.44444444444444,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:14.413548"
+}

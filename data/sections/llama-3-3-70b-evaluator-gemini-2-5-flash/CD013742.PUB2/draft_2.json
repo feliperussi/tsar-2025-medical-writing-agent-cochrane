@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests for diagnosing vitamin A deficiency in people who are at risk of having low levels of vitamin A?\n\n- Blood tests for vitamin A deficiency might not be very accurate. This means they might not always give the correct result. Most tests have 'low sensitivity,' meaning they often miss people who actually have the deficiency. They also have 'high specificity,' meaning they are good at correctly identifying people who do not have the deficiency.\n- The available evidence does not report any harmful effects of using these blood tests for diagnosis, but it is crucial to interpret the results with caution due to the limited quality of the evidence and the lack of studies specifically designed to evaluate the accuracy of these tests.\n- Future research should focus on conducting high-quality studies that directly compare the accuracy of different blood tests for vitamin A deficiency, including assessing their benefits and potential harms, to provide clearer guidance for healthcare providers and patients.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition that occurs when the body does not have enough vitamin A. Vitamin A is crucial for maintaining good health, and its deficiency can lead to poor growth, impaired immune responses, increased incidence of disease, ocular impairments, and even maternal and child mortality. It is essential to diagnose and manage vitamin A deficiency effectively to prevent these complications.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out how accurate certain blood tests are at diagnosing vitamin A deficiency in people who are at risk, especially when the deficiency is not yet causing obvious symptoms. They also explored the sources of heterogeneity that might affect the accuracy of these tests.\n\nHow did we search for studies?\nWe conducted a systematic search of electronic databases for studies evaluating vitamin A deficiency tests, using predefined keywords and inclusion criteria.\n\nHow did we combine the study data?\nWe extracted relevant data from the identified studies and combined them using meta-analysis to estimate how accurately the tests diagnose the condition.\n\nHow confident are we in the evidence?\nThe overall confidence in the evidence was appraised with the GRADE framework, considering risk of bias, consistency, directness, precision, and publication bias.\n\nWhat did we find?\nWe found 40 studies that involved a total of 385 to 1295 participants. The studies were conducted in various countries around the world, without any restriction on age, sex, pregnancy status, breastfeeding status, physiological condition, or living location. Most studies were cross-sectional or cohort-accuracy studies, and some were longitudinal or interventional studies. The studies evaluated the accuracy of different index tests, including serum or plasma retinol, retinol-binding protein, and relative dose response, against reference standards such as retinol isotope dilution and liver vitamin A. The review found that methods to determine vitamin A deficiency had generally low sensitivity and high specificity in individuals at risk for vitamin A deficiency.\n\nWhat are the limitations of the evidence?\nThe studies were not designed to accurately measure the intervention effect, they had very small sample sizes, and the evidence does not cover all relevant populations or outcomes, limiting confidence in the findings.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 576,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.571428571428573,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 63,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 38.19875000000002,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.041884920634924,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.71644345238095,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.549027777777777,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.714682539682542,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.120039682539684,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.107142857142857,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.083045973594572,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.654335912698414,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 242,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 151,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 151.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 199,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 576,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 576 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The evaluation is comprehensive and offers concrete, actionable suggestions for simplifying terminology, clarifying methods, and reducing nominalizations. It correctly identifies readability problems and provides clear rewrite examples. No changes to the grade are required.",
+      "pls_evaluation_summary": "The PLS evaluation shows moderate conformity with typical PLS patterns, with strengths in active voice and pronoun use but significant weaknesses in vocabulary complexity and sentence structure, as indicated by a high SMOG index and elevated nominalization counts."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of colchicine for preventing cardiovascular events in the general population?**\n\n**Background**\nAtherosclerotic cardiovascular diseases (ACVDs) are a major cause of mortality and morbidity worldwide. Colchicine, an inexpensive drug with anti-inflammatory properties, has been used to treat various conditions, but its role in preventing ACVDs in the general population is unknown.\n\n**What did we want to find out?**\nWe wanted to assess the clinical benefits and harms of using colchicine as primary prevention of cardiovascular outcomes in the general population.\n\n**What did we do?**\nWe searched for studies that compared colchicine with placebo, immunomodulating drugs, or usual care or no treatment. We found 15 randomized controlled trials (RCTs) involving 1721 participants, but the evidence was very uncertain due to biases and imprecision.\n\n**What did we find?**\nColchicine may reduce all-cause mortality compared to placebo, but the evidence is very uncertain. Colchicine may also reduce the incidence of non-fatal myocardial infarction, but the evidence is very uncertain. However, colchicine may increase the incidence of diarrhea and have little to no effect on neurological outcomes such as seizure or mental confusion. The effect of colchicine on cardiovascular mortality is also very uncertain.\n\n**What are the limitations of the evidence?**\nThe evidence is very uncertain due to biases and imprecision. Many of the included trials focused on liver disease, and the objectives of the review were not fully met. The existing evidence regarding colchicine's potential cardiovascular benefits or harms for primary prevention is inconclusive.\n\n**How up to date is this evidence?**\nThe search results were updated on 31 May 2023, and the review authors concluded that more robust clinical trials are needed to bridge the evidence gap.\n\nPlease note that this is a simplified version of the original abstract, and some details may have been lost in the translation process.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 345,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.777777777777779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 24,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 76,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.22555555555559,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.846666666666671,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.795584541062802,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.641391304347824,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.893719806763285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.82125603864734,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.222222222222222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.087082125603865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 141,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 93,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 345,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 345 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:50.514003"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009384.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "## What question does this review answer?\nDoes giving zinc to children aged 6 months to 12 years help them stay healthy and grow compared with not giving zinc?\n\n## Key messages\n- Giving zinc does **not** clearly lower the number of children who die from any cause.\n- Zinc may lower the chance of children getting diarrhoea and can help them grow a little taller and gain a little more weight.\n- Children who take zinc are more likely to experience vomiting.\n- More research is needed, especially in different countries and in children who are not already malnourished.\n\n## Why is this important?\n### What is zinc deficiency and why does it matter?\nZinc is a mineral that the body needs to grow, fight infections, and keep the skin and gut healthy. Many children in low‑income countries do not get enough zinc from their food, which can make them more vulnerable to infections and can slow their growth.\n\n### What did we want to find out?\nWe wanted to know whether giving zinc supplements to children would reduce deaths, prevent serious infections, improve growth, and what side‑effects might occur.\n\n## How did we look for the answer?\nWe searched several medical databases for studies that compared zinc supplements with no zinc in children aged 6 months to 12 years. Two reviewers checked each study for quality and extracted the results.\n\n## What did we find?\n### What kinds of studies were included?\nWe found 22 studies that together included more than 12,000 children. Most studies gave zinc tablets or syrup for a few weeks to a few months. The children came from many low‑ and middle‑income countries.\n\n### What were the main results?\n- **Overall deaths:** The evidence is strong that zinc does not make a clear difference in the number of children who die from any cause.\n- **Deaths from specific infections (like diarrhoea or pneumonia):** The evidence is less certain, and we cannot say for sure whether zinc changes these numbers.\n- **Diarrhoea:** The evidence suggests that zinc may reduce the number of children who get diarrhoea. We are fairly confident about this benefit.\n- **Growth:** Children who took zinc tended to be a little taller and weigh a little more than those who did not. This benefit is also fairly reliable.\n- **Vomiting:** Children who received zinc were more likely to vomit than those who did not. This side‑effect is clear and we are confident about it.\n\n## What does this mean for you?\nIf you are caring for a child who is at risk of zinc deficiency, giving zinc might help prevent diarrhoea and support a bit of extra growth, but it will not lower the overall risk of death. Be aware that zinc can cause vomiting, so watch for that and talk to a health professional if it happens often.\n\n## What should happen next?\nMore studies are needed in children who are not already malnourished and in different parts of the world. Researchers should also look at the best dose and length of treatment to get the most benefit while keeping side‑effects low.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 564,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.636363636363637,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.6 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 72,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 75.6640909090909,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.074493874919408,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.336745647969053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 6.700921985815601,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.509864603481626,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.07607994842037,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.7272727272727275,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.21110255092798,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.834985622179239,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 60,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 104,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 564,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 564 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:15.228744"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does checking doctors' performance and giving them feedback (audit and feedback) improve how they practice?\n\nKey messages\n- Audit and feedback (measuring doctors' performance and then sharing the results) leads to modest improvements in practice; about six out of every 100 clinicians follow the recommended care, and no harmful effects were reported.\n- The effect is larger when feedback is given to individual clinicians, includes a comparison with top‑performing peers, involves a local champion, uses interactive formats, and provides clear action plans; repeated feedback may reduce the benefit.\n- We need more high‑quality research to find the best ways to design audit and feedback, especially in low‑ and middle‑income settings and over longer periods.\n\nWhy is improving healthcare professionals’ everyday practice important?\nWe see patients every day when clinicians prescribe medicines or order tests. When these decisions do not follow the best evidence, patients can receive unnecessary or harmful care and health systems waste money. Improving routine practice makes care safer, more effective, and more efficient. One common strategy is audit and feedback, where a clinician’s own performance data (the audit) are collected and then shared back with them (the feedback) so they can see how their care compares with recommended standards or with high‑performing peers.\n\nWhat did the review aim to find out?\nWe wanted to know whether audit and feedback actually changes professional behaviour such as prescribing or test ordering. We also wanted to identify which features of audit‑and‑feedback programmes (for example individual versus group feedback, use of a local champion, interactive formats, or clear action plans) make them work better.\n\nWhat did we do?\nWe searched databases for randomised trials that evaluated audit and feedback interventions for healthcare professionals. We combined the results in meta‑analyses and judged how confident we were in the evidence.\n\nWhat did we find?\nWe included 292 randomised trials (including cluster, cross‑over and factorial designs) that tested audit‑and‑feedback (A&F) interventions. The trials contributed 678 intervention arms. Most studies were done in high‑income countries; only 26 (9 %) were in low‑ or middle‑income countries. Physicians were the main target (237 studies, 81 %). The A&F interventions varied: some gave individual‑level data, some gave team‑level data; some compared performance with top peers, some used local champions, and some used interactive (verbal and written) formats. Many trials also added additional support activities, such as extra training for clinicians (56 % of arms) or reminders (15 %).\n\nAudit and feedback probably increases the proportion of clinicians who follow best practice slightly – about six out of every 100 clinicians achieve the desired practice. The benefit is larger when feedback provides individual‑level data, compares performance with top‑performing peers, involves a local champion, uses interactive formats, and includes facilitation and clear action plans. Repeated delivery of feedback may slightly reduce the benefit.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence that the evidence is reliable, meaning the results are likely to be close to the true effect but could change with new research. Some studies may have been influenced because participants knew which group they were in. Not all studies reported every outcome we wanted, and the trials were conducted in different settings and used different delivery methods.\n\nWhat is the currency of the evidence?\nThis review updates our previous work and includes studies up to June 2020 of search.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 576,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.580645161290324,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.025645161290356,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.33978494623656,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.797041330645165,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.241319444444443,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.043369175627245,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.004256272401435,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.838709677419355,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.186096527777778,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 265,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 124,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 124.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 576,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 576 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:43.718729"
+}

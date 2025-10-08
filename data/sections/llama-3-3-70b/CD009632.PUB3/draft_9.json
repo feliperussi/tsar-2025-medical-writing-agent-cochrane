@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Is adding ultrasonography to mammography better than mammography alone for finding breast cancer in women at average risk of breast cancer?\n\nKey messages:\n- We found that adding ultrasonography to mammography may detect more breast cancer cases in women at average risk, especially in those with dense breasts. However, it also increases false-positive results and unnecessary biopsies.\n- The current evidence does not tell us whether adding ultrasonography to mammography reduces the risk of dying from breast cancer or other causes. We need more research in this area.\n- Future studies should investigate the effects of combined mammography and ultrasonography screening on breast cancer mortality and other important outcomes.\n\nWhat is breast cancer and why is early detection important?\nBreast cancer is a common health problem that affects many women. It occurs when abnormal cells in the breast grow and multiply uncontrollably. Early detection of breast cancer is crucial because it can improve treatment outcomes and save lives. Mammography, which is an X-ray of the breast, is a common screening method used to detect breast cancer at an early stage.\n\nWhat are the current screening methods for breast cancer and their limitations?\nCurrently, mammography is the primary screening method for breast cancer. However, it has some limitations, such as false-negative results, particularly in women with dense breasts. To improve detection rates, some researchers suggest adding ultrasonography, a safe and non-invasive imaging method, to the screening regimen.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effectiveness and safety of combining mammography with breast ultrasonography for breast cancer screening in women at average risk of breast cancer. We aimed to determine whether this combined approach can detect more breast cancers than mammography alone and whether it can reduce false-negative results and improve treatment outcomes.\n\nWhat did we find?\nWe found 8 studies that involved 209,207 women at average risk of breast cancer. The studies were conducted over a follow-up duration of 1 to 3 years. Most of the studies were cohort studies, with only 1 randomised controlled trial. The population characteristics included women between the ages of 40 and 75, with a proportion of women with dense breasts ranging from 48% to 100%. The studies evaluated the effectiveness of mammography in combination with breast ultrasonography versus mammography alone for breast cancer screening. The addition of ultrasonography to mammography for breast cancer screening probably detects more breast cancer cases than mammography alone. However, it may also lead to more false-positive results and unnecessary biopsies. For women with dense breasts, the combination of mammography and ultrasonography probably detects more cancer cases than mammography alone.\n\nWhat are the limitations of the evidence?\nThe studies had small sample sizes and participants were not randomly assigned to treatment groups, so observed differences could be due to pre-existing differences between people rather than the treatments.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to May 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 515,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.166666666666668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 45,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 173,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 45.837241100323666,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.130631067961168,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.24292556634304,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.549359223300968,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.47831715210356,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.29288025889967,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.848857801796104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.320767637540455,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 211,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 98,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 150,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 515,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 515 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The agent terminated prematurely because it reached the maximum iteration limit, preventing it from completing the required task.",
+      "pls_evaluation_summary": "The response failed to deliver the expected result due to a max iterations stop, indicating a processing error that needs to be addressed."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013421.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Do sealants help stop bleeding faster and reduce complications during vascular surgery? Sealants are special materials used to stop bleeding. We wanted to find out if sealants can reduce the time it takes to stop bleeding and the rate of bleeding failures during vascular surgery.\n\nKey Messages\n- Sealants may help stop bleeding faster and reduce how often the initial treatment to stop bleeding fails during vascular surgery, but the evidence is uncertain and more research is needed to confirm this.\n- The current evidence does not show a clear difference in blood loss during surgery, operating time, or bleeding after surgery between using sealants and standard care controls, although the quality of the evidence is limited.\n- Future studies should provide better evidence on how well sealants work and how safe they are. This research should also look at costs and side effects to help doctors and patients make better decisions.\n\nWhat is the problem of bleeding after vascular surgery?\nDuring vascular surgery, surgeons often need to connect arteries, veins, or synthetic grafts. These connections can bleed from the holes made during the procedure. This bleeding can be a significant problem and may lead to serious complications. Surgeons have several ways to stop bleeding, such as applying sealants directly to the blood vessel.\n\nWhat are sealants and how are they used in vascular surgery?\nSealants are special materials designed to help stop bleeding in vascular surgery. They are applied directly by the surgeon to seal bleeding areas when other methods are not effective. Despite the availability of several types of sealants, it is not clear how well they work in vascular surgery patients.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the benefits and harms of using sealants to stop bleeding during vascular surgery. They aimed to find out if sealants can reduce the time it takes to stop bleeding, the rate of bleeding failures, and other important outcomes, compared to standard treatments.\n\nWhat methods did the review authors use?\nWe searched for studies comparing sealant use with other methods for stopping bleeding in vascular surgery, summarized their results, and evaluated our confidence in the evidence.\n\nWhat did the review authors find?\nWe found 24 studies that involved 2376 participants who underwent vascular surgery. The studies compared sealant use with standard care controls, including other methods to stop bleeding. Sealants may reduce the time it takes to stop bleeding after vascular surgery and may reduce the rate of bleeding failures, but the evidence is not certain. Sealants may make little to no difference in the amount of blood lost during surgery, the time it takes to complete the operation, or the risk of bleeding after surgery.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in. The studies were done in different types of people and used different ways of delivering the intervention. The studies were very small. The studies that provide results for our review are likely to exaggerate the benefits of the intervention because they represent only a small set of the studies on the intervention.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 581,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.606060606060606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.12904814061443,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.083248317947113,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.387987273770406,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.250808950086054,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.651718562561937,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.48041516716215,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.787878787878788,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.797958971132712,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.607666802274033,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 211,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 581,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 581 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:25.050960"
+}

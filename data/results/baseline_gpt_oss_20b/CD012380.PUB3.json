@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012380.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "### Title\nIs hydroxyurea or ACE inhibitors helpful for kidney problems in people with sickle cell disease? (ACE inhibitors are medicines that lower blood pressure and can protect the kidneys.)\n\n### Key messages\n- We are unsure if hydroxyurea improves kidney function in young children with sickle cell disease, but it may help them concentrate urine and does not seem to increase serious problems.\n- We are unsure if ACE inhibitors help adults or children with early kidney changes, and we have no evidence about red blood cell transfusions or combined treatments.\n- More research is needed, especially in older children and adults, to see if these medicines can prevent or slow kidney damage.\n\n### Introduction to the review topic and aims\n#### What is sickle cell disease and why is kidney disease a problem?\nSickle cell disease is a condition where red blood cells become stiff and shaped like a sickle. These miss‑shaped cells can block tiny blood vessels, including those in the kidneys. Over time this can damage the kidneys and lead to a loss of their ability to filter waste from the blood. Kidney problems are a major cause of illness and early death in people with sickle cell disease.\n\n#### What did we want to find out?\nWe wanted to know whether medicines that are already used for other reasons – such as hydroxyurea (a drug that reduces sickle cell crises) and ACE inhibitors (blood‑pressure medicines) – can prevent or slow kidney damage in people with sickle cell disease. We also looked for evidence about red blood cell transfusions and about using more than one treatment together.\n\n### How is kidney disease treated in sickle cell disease? (optional)\nCurrent care focuses on controlling blood pressure, using medicines that protect the kidneys, and treating infections quickly. However, there is no clear agreement on which medicines work best for protecting the kidneys in sickle cell disease, which is why we examined the research.\n\n### What did we do?\nWe searched many medical databases for studies that compared any of the listed medicines or transfusions with a placebo or with each other in people with sickle cell disease, we combined the results, and we looked at how reliable the evidence was.\n\n### What did we find?\n#### Study characteristics\nWe found three small studies that together included 385 participants ranging from infants to 18 years old. One study looked at hydroxyurea in children under two years, another examined the ACE inhibitor captopril in adults with early kidney changes, and a third compared the ACE inhibitor lisinopril with vitamin C in children. The studies were carried out in different countries and were funded by a mix of government and charitable organisations. None of the studies reported deaths, and serious side‑effects were rare.\n\n#### Main results\n- **Hydroxyurea vs placebo** – We are unsure if hydroxyurea improves the kidney’s filtering ability in very young children, but the drug may help them concentrate urine better. It probably does not increase serious problems such as chest infections, painful crises, or hospital stays.\n- **Captopril vs placebo** – We are unsure if captopril reduces the amount of protein that leaks into the urine in adults with normal blood pressure and early kidney changes. We are also unsure whether it changes the kidney’s filtering ability over six months.\n- **Lisinopril vs vitamin C** – We are unsure if lisinopril reduces protein leakage in children with early kidney changes; the study did not provide clear evidence of a benefit.\n- **Red blood cell transfusions** – No studies meeting our criteria examined transfusions for kidney protection.\n- **Combined interventions** – No studies examined using more than one of the listed medicines together.\n\n#### Limitations of the evidence\nThe studies were small and had some design problems, such as not always hiding the treatment from participants or researchers. They also measured outcomes in different ways and over short periods, making it hard to see long‑term effects. Because only a few studies were found, we cannot be confident about the overall picture.\n\n#### How up‑to‑date is the evidence?\nThis review updates our previous review. The evidence is up to date to 2020, the year of the most recent study we found.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 753,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 30.12,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.1 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 232,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 232.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.452841434262965,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.425857104913682,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.602948207171316,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.400053120849929,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.63498539176627,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.149216467463475,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.84,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.26055226560425,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 275,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 275.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 124,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 124.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 753,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 753 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 11,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:17.167543"
+}

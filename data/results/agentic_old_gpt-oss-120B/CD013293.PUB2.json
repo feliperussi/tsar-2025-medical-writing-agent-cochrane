@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013293.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Which treatment—surgery, clot‑removing procedure (thrombectomy – surgery to remove a blood clot) or clot‑dissolving medicine (thrombolysis – medicine that breaks down a clot)—works best for a blocked dialysis access (arteriovenous fistula – a surgeon‑made connection between an artery and a vein, or graft – a small synthetic tube)?\n\nKey messages  \n- We could not find clear evidence that surgery, thrombectomy or thrombolysis is better at keeping a blocked access open or preventing failure; the studies showed no consistent advantage and reported few unwanted problems (adverse events – unwanted events that cause harm).  \n- Most trials were small and had design flaws (high risk of bias), so the evidence about short‑term openness (primary patency – how long the access stays open), technical success and side effects is very uncertain.  \n- We need larger, well‑designed studies that follow patients longer to determine which treatment, if any, offers the most benefit and the fewest harms.\n\nWhat is the problem with dialysis access for people on haemodialysis?  \nPeople who need regular haemodialysis (a treatment that cleans the blood when kidneys cannot) rely on a special blood‑flow route called an arteriovenous fistula (AVF) or an arteriovenous graft (AVG). An AVF is a direct surgeon‑made connection between an artery and a vein; an AVG uses a small synthetic tube to link them. Over time the connection can become blocked by a clot (thrombosis – formation). When this happens patients often need a temporary catheter (a short‑term tube) while we try to clear the clot.\n\nWhat treatments are used when a dialysis access becomes blocked?  \n- **Thrombectomy** – we insert a small catheter and physically remove the clot.  \n- **Thrombolysis** – we give clot‑dissolving medicines to break down the clot.  \n- **Surgical repair** – we open the area and fix the problem, often by creating a new connection (re‑anastomosis – a new surgical link at the blockage site).\n\nGuidelines differ. Some recommend surgery when the blockage is at the connection point (the anastomosis – a surgical link between two vessels), while others suggest starting with catheter‑based techniques. We do not know which method works best or is safest.\n\nWhat did we want to find out?  \nWe set out to compare thrombectomy, thrombolysis and surgery for people receiving haemodialysis with a blocked AVF or AVG. Our goal was to see which approach keeps the access open (primary patency) and which has the fewest complications and overall harms.\n\nHow did we find the evidence?  \nWe performed a planned, orderly (systematic) search of databases, trial registries and reference lists without language limits. We included any study that reported outcomes for thrombectomy, thrombolysis or surgical repair of thrombosed fistulas or grafts, whether the study was randomized or observational. Where possible we combined results using meta‑analysis and judged the certainty of the evidence with the GRADE framework (which assesses risk of bias, inconsistency, indirectness, imprecision and publication bias).\n\nWhat did we find?  \nPatients with a blocked AVF or AVG often become catheter‑dependent, raising the risk of infection, vein blockage and repeated hospital stays. Reported primary patency after thrombectomy or thrombolysis for grafts ranged widely from 30 % to 90 %. Guideline statements differ: the NKF‑KDOQI guideline recommends surgery when the clot is caused by an anastomotic stenosis (narrowing at the surgical link), while the European Best Practice Guidelines suggest endovascular (catheter‑based) techniques first for thrombosed fistulas but advise surgery for anastomotic lesions. The clinical implication is that the choice of treatment should consider where the narrowing is located, with surgery favored for anastomotic problems to improve long‑term patency and reduce catheter dependence.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the findings because many participants likely knew which treatment they received (lack of blinding), the studies were very small, and not all reported the outcomes we needed. These issues create uncertainty about the true benefits and harms of each approach.\n\nHow current is the evidence?  \nThe evidence is up to date to January 2024.\n\nWhat do we need next?  \nWe need larger, well‑designed trials that minimise bias, report all relevant outcomes and follow patients for longer periods. Such research will help us determine which treatment, if any, provides the best balance of benefit and safety for people with blocked dialysis accesses.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 733,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.81081081081081,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 82,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 215,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.267272593193496,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.890650049776927,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.810957929279894,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.589740791268756,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.873846834556247,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.41517643154751,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.864864864864865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.569805089976535,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.026722628221673,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 327,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 327.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 164,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 217,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 733,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 733 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:59.438723"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD013408.PUB2",
+  "draft": "# Do organised care services (where a team of healthcare professionals work together) reduce deaths and hospital stays for people with atrial fibrillation (a type of irregular heartbeat) compared to usual care?\n\n**Key Messages**\n- Organised care services (where a team of healthcare professionals work together) for people with atrial fibrillation (a type of irregular heartbeat) probably reduce deaths compared to usual care, but may make little to no difference to hospital stays, and no harmful effects were reported in the review.\n- The quality of evidence is not strong enough to confirm the benefits and harms of organised care services for people with atrial fibrillation, and more research is needed to understand how different models of care organisation, including the use of digital health technologies (mHealth), can affect outcomes.\n- Future studies should investigate the long-term effects of organised care services, compare different models of care organisation, and examine the impact on quality of life and other important outcomes for people with atrial fibrillation, to provide more reliable evidence for decision-making.\n\n**Introduction**\n### What is atrial fibrillation and why is it a problem?\nAtrial fibrillation (AF) is a common heart rhythm condition in adults, where the heart beats irregularly. It is considered a complex cardiovascular condition that requires careful management. As the prevalence of AF increases, there is a growing need to adapt and innovate in the delivery of care for people living with AF. The condition can lead to serious complications such as stroke, heart failure, and other heart-related problems if not managed properly. Common treatments for AF include medications to control heart rate and rhythm, as well as procedures to restore a normal heart rhythm.\n### What did the review authors want to find out?\nThe review authors wanted to assess the effects of different clinical service organisations for adults with atrial fibrillation, compared to usual care. They aimed to find out whether organised clinical services, such as collaborative, multidisciplinary, and virtual care models, can improve outcomes for people with AF, including reducing mortality, hospitalisation, and other complications. The authors also wanted to examine the effectiveness of different models of care organisation, including the use of digital health technologies, and to identify the best approaches to delivering evidence-based care for people with AF.\n\n**Methods**\n### Methods\nWe searched for studies comparing organized clinical service models for adults with atrial fibrillation to usual care, summarized their results, and evaluated our confidence in the evidence.\n\n**Results**\n### What did we find?\nWe found 8 studies that involved 8205 people with atrial fibrillation. The average age of participants ranged from 60 to 73 years. The studies were conducted in China, the Netherlands, and Australia. The included studies involved either a nurse-led multidisciplinary approach or management using mHealth compared to usual care. There is no information available on the duration of the studies or the funding sources. The population characteristics and study settings are varied, with different countries and healthcare systems represented. The types of interventions and comparisons also vary, with a focus on collaborative, multidisciplinary care and virtual care. No studies were found that reported on minor cerebrovascular events.\n### Main results: Reduction in mortality and hospitalization\nOrganised clinical services for adults with atrial fibrillation probably cause a large reduction in all-cause mortality. Organised clinical services probably make little to no difference to all-cause hospitalisation. Organised clinical services may not reduce cardiovascular mortality, but they probably reduce cardiovascular hospitalisation. Organised clinical services may make little to no difference to thromboembolic complications and major cerebrovascular events.\n\n**Limitations**\nThe evidence is limited because the studies were very small and participants may have known which treatment they received, introducing potential bias.\n\n**Currency**\nThe evidence is up to date to October 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 655,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.392857142857142,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 25,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 61,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 18,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 40,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 40.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 201,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 31.069570610687038,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 31.1 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.737183751363137,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 15.2330239912759,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.103145038167941,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 19.79989094874591,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 57.74400218102508,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 8.035714285714286,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.96148139681572,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.813781897491821,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 276,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 276.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 171,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 225,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 655,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 655 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 1,
+        "P75_count": 6,
+        "P90_count": 5,
+        "P10_count": 1,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text is NOT APPROVED due to several critical issues related to formatting, factual accuracy, and significant deviations from plain language style guidelines. Subheadings are not consistently phrased as questions, and the currency statement is incomplete. There is also an unsupported factual claim. The text exhibits a high use of passive voice and nominalization, making it less direct and harder to read for the target audience. Several sentences are also longer than ideal, contributing to lower readability scores.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate that the draft text deviates significantly from typical PLS patterns. While the word count is within limits, several readability indices (Flesch Reading Ease, Flesch-Kincaid Grade, Coleman-Liau Index, Gunning Fog Index, SMOG Index) suggest the text is more complex than typical PLS. This is supported by high counts of complex words (Dale-Chall unfamiliar words, 3+ syllable words, 7+ character words). Furthermore, the text shows significant deviations in structural and plain language elements: Passive Voice (25.00, BEYOND_P90) and Nominalization (40.00, BEYOND_P90) are much higher than typical, making the text less direct and more formal. The Noun count (201.00, P90) is also high, contributing to a dense writing style. These deviations suggest that the text could be significantly improved by using more active voice, reducing nominalization, simplifying vocabulary, and shortening sentences to enhance clarity and readability for the target audience."
+    }
+  ]
+}

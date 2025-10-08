@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003437.PUB5",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best treatments for depression after a stroke, and how well do they work?\n\nKey Messages\n- Medications, 'talking' therapies, and combination treatments can reduce how many people have depression after a stroke, but may have unwanted effects such as adverse events related to the central nervous system (the part of the body that includes the brain and spinal cord) and the gastrointestinal tract (the part of the body that includes the stomach and intestines).\n- Non-invasive brain stimulation had little to no effect on depression, and more research is needed to understand its potential benefits and harms.\n- Future research should focus on addressing the limitations of current studies, such as the lack of long-term follow-up and the need for more robust evidence, to provide clearer guidance on the best treatments for depression after a stroke.\n\nWhat is depression after stroke and why is it a problem?\nDepression is a common condition that can occur after someone has a stroke. It can impact a person's recovery and quality of life. Depression after stroke is often not detected or treated properly, which can make it harder for people to get better. Common treatments for depression include medications, psychological therapies (also known as 'talking' therapies), and non-invasive brain stimulation. However, it's not clear which of these treatments work best for people with depression after stroke.\n\nWhat did the review authors want to find out?\nThe authors of this review wanted to find out which treatments are most effective for depression after stroke. They looked at different types of treatments, including medications, psychological therapies, non-invasive brain stimulation, and combinations of these. They wanted to know which treatments reduce the symptoms of depression, improve quality of life, and have the fewest side effects. They also wanted to find out if some treatments work better than others for certain people.\n\nWhat methods did we use?\nWe searched for studies comparing treatments for depression after stroke, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 65 studies that included 5831 people with depression after a stroke. The studies compared different treatments, including medications, non-invasive brain stimulation, and psychological 'talking' therapies. Most studies compared these treatments to a placebo (a dummy treatment) or usual care.\n\nWe found that medications and psychological therapies may reduce depression. However, medications were linked to more unwanted effects in the nervous system and the stomach. Non-invasive brain stimulation had little to no effect on depression.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have been aware of which treatment they received (risk of bias due to lack of blinding), and the studies involved different types of participants and used varied ways of delivering the intervention.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 508,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.814814814814813,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.51040390784485,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.469825021872268,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.221442840478268,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.644803149606293,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.218839311752697,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.35812190142899,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.37037037037037,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.025419539224263,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 508,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 508 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:18.017165"
+}

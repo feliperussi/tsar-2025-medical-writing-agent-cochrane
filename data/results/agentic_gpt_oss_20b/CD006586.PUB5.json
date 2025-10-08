@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006586.PUB5",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do birth‑control pills that contain drospirenone (a synthetic hormone) reduce premenstrual syndrome symptoms and cause more side effects compared with placebo?\n\nKey messages  \n- Drospirenone‑containing combined oral contraceptives (COCs) may lower overall premenstrual syndrome (PMS) symptoms a little, but the evidence is limited and uncertain.  \n- These pills may improve daily functioning (work, social activities and relationships) modestly, yet the supporting data are also weak.  \n- Women are more likely to stop the pill because of side‑effects; about 6–16 of 100 stop the drospirenone pill versus about 3 of 100 stop a placebo.\n\nWhat is premenstrual syndrome and why does it matter?  \nMany women notice physical and emotional changes in the days before their period – this is called premenstrual syndrome (PMS). In severe cases the condition is called premenstrual dysphoric disorder (PMDD). Symptoms can include mood swings, irritability, pain, sleep problems and difficulty concentrating. They can interfere with work, school, relationships and everyday activities. Because PMS and PMDD affect a large number of women of reproductive age, finding safe and effective ways to relieve them is an important health priority.\n\nWhat did the researchers want to find out?  \nWe asked two questions: (1) Does a combined oral contraceptive that contains drospirenone and a low dose of estrogen reduce the severity of premenstrual symptoms in women with PMS or PMDD? (2) Is this drospirenone‑containing pill safe, meaning does it cause more side‑effects or lead to more women stopping the treatment compared with a placebo? We examined all relevant randomised trials to answer these questions.\n\nHow did we find the evidence?  \nWe searched multiple databases up to June 2022 for randomised controlled trials that compared drospirenone‑containing COCs with placebo. We extracted data on symptom improvement, functional impact, adverse events and withdrawals, combined the results, and assessed our confidence in the evidence.\n\nWhat did we find?  \nWe identified five trials that together enrolled 858 women, most of whom had PMDD. The trials compared a drospirenone‑containing COC (drospirenone + ethinylestradiol) with a placebo pill. No study compared this pill with other hormonal contraceptives.\n\n- Symptom relief: The drospirenone pill may reduce overall PMS symptoms slightly (standardised mean difference ≈ ‑0.4). The evidence is of low quality and uncertain.  \n- Daily functioning: The pill may improve work productivity, social activities and relationships modestly (mean differences around ‑0.3). Again, the evidence is limited.  \n- Withdrawal because of side‑effects: Women are more likely to stop the drospirenone pill. Assuming a 3 % withdrawal rate with placebo, the rate with the drospirenone pill could be 6–16 %.  \n- Overall side‑effects: About 40–54 % of women on the drospirenone pill report any side‑effect versus about 28 % on placebo. Common problems include breast pain, nausea, intermenstrual bleeding and menstrual irregularities. Serious adverse events such as blood clots were not reported.  \n- Perceived benefit: Slightly more women feel the treatment works (39–58 % with the pill versus 36 % with placebo), but the difference is modest and uncertain.\n\nWhat are the limitations of the evidence?  \nWe are not confident in these findings because many trials were small, some participants may have known which pill they received, and the studies varied in design and reporting. Important details such as participants’ ages, study settings and funding sources were often missing.\n\nHow current is the evidence?  \nThe latest searches were completed in June 2022, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 587,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.264705882352942,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 170,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.99786526706083,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.737783846076763,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.821586331295723,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.723543441226578,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.423769916825334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.90695460466981,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.117647058823529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.0,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.312206754183785,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 240,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 125,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 125.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 587,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 587 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:49.567407"
+}

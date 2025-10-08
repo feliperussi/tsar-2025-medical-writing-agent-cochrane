@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015705.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Do healthcare workers use their own phones to help patients, and what are the good and bad sides?\n\n**Key Messages**\n- Healthcare workers often use their personal phones and other devices to fill gaps in formal systems, which can make care more flexible and personal for patients. We are fairly confident that this helps patients feel cared for and improves communication.\n- Using personal phones can also create problems: it can cost workers money, blur work and home time, and risk patient privacy. We are fairly confident that these issues exist.\n- More research is needed to find ways to keep the benefits while reducing the risks, especially in low‑income settings.\n\n**What is the problem with using personal phones in healthcare?**\nHealthcare workers sometimes have to do more than their jobs allow because the formal tools and systems in their workplaces are missing or broken. When this happens, many workers turn to their own phones and other mobile devices to keep patients safe and to stay connected with colleagues.\n\n**Why do workers use their own phones?**\nUsing personal phones lets workers call patients, share information, and ask for help when the official system is slow or unavailable. It can make care feel more human and responsive, and it can help workers keep track of patients when the formal records are missing.\n\n**What did we want to find out?**\nWe wanted to learn what healthcare workers, managers and other professionals think about using their own phones and devices for work, how they actually use them, and what the benefits and problems are.\n\n**What did we do?**\nWe searched for studies that talked about healthcare workers using their own phones and other devices, we combined what they said, and we judged how confident we were in the findings.\n\n**What did we find?**\nWe included 30 studies published between 2013 and 2022 from high‑, middle‑ and low‑income countries. Most studies focused on phones rather than tablets. We are fairly confident that:\n- Using personal phones reduces the gap between what workers are expected to do and the resources they have, making care more flexible and responsive. This is a small, important benefit.\n- Using personal phones can increase costs for workers, blur work and home time, and risk patient privacy. These are small, important problems.\n\n**What are the limitations of the evidence?**\nWe are fairly confident in these findings, but there are limits. The studies were done in many different places and used different ways of asking people, so the results might not apply to every setting. Some studies were small, and some workers may have given answers that were influenced by what they thought the researchers wanted. Because of these factors, we cannot be completely sure that the benefits and harms are the same everywhere.\n\n**How up to date is this evidence?**\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 496,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 115,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 68.64137096774193,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.66008064516129,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.030887096774194,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.141935483870967,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.480645161290324,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.99193548387097,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.838709677419355,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.681145747868609,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.842188709677419,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 190,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 119,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 496,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 496 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 3,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:24.809207"
+}

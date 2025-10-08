@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013758.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Is higher-protein baby formula better than lower-protein formula for healthy babies?\n\n**Key messages**\n\n– We do not know if using higher-protein formula instead of standard-protein formula affects a baby's growth, or their risk of being overweight or obese later in childhood.\n– Higher-protein formula may make little to no difference to the risk of unwanted effects like diarrhea or vomiting compared to standard-protein formula.\n– The evidence we found is not strong enough to draw clear conclusions. More and better-quality studies are needed to understand the effects of different protein levels in baby formula.\n\n**What is baby formula and why is protein important?**\n\nMany babies are fed with formula instead of, or in addition to, breast milk. Baby formula is made to contain all the nutrients a baby needs to grow and stay healthy. One of the most important nutrients is protein.\n\nSome formulas are made with a higher amount of protein. The idea is that more protein might help babies gain weight faster in their first year. However, it is not clear if this is helpful or if it could cause any unwanted effects.\n\n**What did we want to find out?**\n\nWe wanted to find out about the benefits and harms of feeding healthy, full-term babies with formula that has a higher amount of protein compared to formula with a lower amount of protein.\n\nWe were interested in how different protein levels affected:\n– a baby's growth (for example, being underweight or too short for their age)\n– the risk of being overweight or obese later in childhood\n– any unwanted effects, such as diarrhea, vomiting, or milk allergies\n\n**What did we do?**\n\nWe searched for studies that compared baby formulas with different amounts of protein. The studies had to include healthy babies who were born on time. We compared and summarized the results of these studies and assessed how confident we could be in the evidence.\n\n**What did we find?**\n\nWe found 11 studies that included a total of 1885 healthy babies. All the studies took place in high-income countries. The longest time a study followed the babies was 11 years.\n\nThe studies made two main comparisons:\n– 7 studies compared high-protein formula with standard-protein formula.\n– 4 studies compared standard-protein formula with low-protein formula.\n\n**High-protein formula compared to standard-protein formula**\n\nWe do not know if high-protein formula has an effect on a baby's growth in the first year of life. We also do not know if it affects the risk of children being overweight or obese when they are older.\n\nHigh-protein formula may make little to no difference to the risk of unwanted effects like diarrhea, vomiting, or milk allergies in the first year of life. No studies reported on whether the amount of protein in formula affected how many babies died from any cause.\n\n**Standard-protein formula compared to low-protein formula**\n\nWe do not know if standard-protein formula has an effect on a baby's growth compared to low-protein formula.\n\nStandard-protein formula may make little to no difference to the risk of unwanted effects compared to low-protein formula. The studies in this group did not report on whether the formula affected the risk of being overweight or obese, or the number of deaths.\n\n**What are the limitations of the evidence?**\n\nWe are not confident in the evidence we found. Most of the studies were very small, and their results were not consistent with each other. This means we cannot be sure about the effects of different protein levels in formula. Our conclusions may change when results from more studies become available.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 660,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 41,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.097560975609756,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 185,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 66.41597560975612,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.994715447154469,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.3784623059866945,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.277757575757573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.469327420546932,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.127864005912784,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.512195121951219,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.444560236511457,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 236,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 116,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 116.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 185,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 660,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 660 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:21.995582"
+}

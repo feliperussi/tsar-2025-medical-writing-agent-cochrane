@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006586.PUB5",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "What are the benefits and harms of birth control pills containing drospirenone (a type of hormone) for premenstrual syndrome (PMS)?\n\n- For women with a severe form of premenstrual syndrome (called premenstrual dysphoric disorder, or PMDD), birth control pills containing the hormone drospirenone may improve symptoms and their impact on daily life. However, these pills may also cause more unwanted effects, such as breast pain and nausea, compared to a dummy pill (placebo).\n- The studies found that women taking a dummy pill (placebo) also reported a significant improvement in their symptoms, which makes it difficult to be certain about the true effect of the birth control pills.\n- It is not clear if these pills are helpful for women with less severe premenstrual symptoms, if they work for longer than 3 months, or how they compare with other types of birth control pills. More research is needed to answer these questions.\n\nWhat is premenstrual syndrome?\nMany women experience a range of physical and emotional symptoms in the days leading up to their monthly period. This is known as premenstrual syndrome (PMS). A less common but more severe form of this condition is called premenstrual dysphoric disorder (PMDD). Combined oral contraceptives (often called 'the pill') contain two types of hormones and are used for birth control. Researchers have studied whether these pills can also help relieve the symptoms of PMS. One specific type of pill, which contains the hormone drospirenone, has been approved to treat PMDD in women who also want to use it for contraception.\n\nWhat did we want to find out?\nWe wanted to find out how effective and safe combined oral contraceptives containing drospirenone are for treating the symptoms of PMS.\n\nWhat did we do?\nWe searched for studies that compared birth control pills containing drospirenone with a placebo (a dummy pill) for treating premenstrual syndrome. We combined the results of these studies and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 5 studies that included 858 women. Most women were diagnosed with premenstrual dysphoric disorder (PMDD), a severe form of premenstrual syndrome. The studies compared birth control pills containing drospirenone and ethinylestradiol with a placebo. We did not find any studies that compared this type of pill with other birth control pills.\n\nFor women with severe PMS, birth control pills containing drospirenone may improve symptoms and the problems they cause with work, social activities, and relationships when compared to a placebo.\n\nHowever, these pills may also increase the risk of side effects. If 28 out of 100 people experience side effects with a placebo, we estimate that between 40 and 54 out of 100 people would experience them with the birth control pill. These side effects probably include more breast pain, and may include more nausea, bleeding between periods, and menstrual problems. We do not know if the pills affect nervousness, headache, weakness, or pain.\n\nThe increased risk of side effects may also lead to more people stopping the treatment. If 3 out of 100 people stop taking a placebo due to side effects, we estimate that between 6 and 16 out of 100 people would stop taking the birth control pill for the same reason.\n\nWe are uncertain about the effect of these birth control pills on mood symptoms.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is low for a few reasons. First, people in the studies may have known which treatment they were getting. Second, the studies did not all provide the data we were looking for. Finally, the studies included different types of people, and there were not enough studies for us to be certain about the results.\n\nHow up to date is this evidence?\nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 646,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.45945945945946,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 63.785165676512435,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.699994142749564,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.537345828800937,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.266253869969038,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.556539201740442,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.23964521797339,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.675675675675675,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.38083151964686,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.634472161325413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 236,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 646,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 646 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 7,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:28.847078"
+}

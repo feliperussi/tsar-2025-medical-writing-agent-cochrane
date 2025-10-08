@@ -1,0 +1,162 @@
+{
+  "id": "CD014818.PUB2",
+  "draft": "Which nerve block (regional pain relief) technique gives the best pain relief after breast cancer surgery?\n\nKey messages\n- The four nerve‑block techniques we looked at – paravertebral block (injection near the spine), erector spinae plane block (injection beside a back muscle), pectoral nerve block (injection near chest muscles), and serratus anterior plane block (injection near a side‑chest muscle) – all provide similar pain relief after breast cancer surgery; no single method proved clearly better.\n- Serious complications such as block failure, local‑anaesthetic toxicity, nerve injury, or collapsed lung (pneumothorax) were not reported in the studies, suggesting that these blocks appear safe in the short term.\n- Larger, high‑quality trials that follow patients for longer periods and record opioid use and rare side‑effects are needed to confirm whether any technique offers a meaningful advantage.\n\nWhy is postoperative pain after breast cancer surgery a concern?\nWomen who have breast cancer surgery often experience strong pain after the operation. This pain can slow recovery, lower quality of life, and increase the need for opioid medicines, which have their own side‑effects. To reduce pain, clinicians can use regional analgesia – a set of techniques that place a local anaesthetic near specific nerves to block pain signals. The four common techniques we examined are:\n\n- Paravertebral block (PVB): injection next to the spinal nerves.\n- Erector spinae plane block (ESPB): injection into the muscle plane beside the spine.\n- Pectoral nerve block (PEC): injection targeting the nerves of the chest wall.\n- Serratus anterior plane block (SAPB): injection near the serratus muscle on the side of the chest.\n\nEach method aims to lower pain intensity and reduce opioid consumption, but they also carry potential harms such as nerve injury, bleeding, or local‑anaesthetic toxicity. Knowing which technique offers the best balance of benefit and risk can help improve recovery for breast‑cancer patients.\n\nWhat did the review aim to find out?\nWe set out to compare how well each regional‑analgesia technique relieves postoperative pain and how safe the techniques are. We focused on pain scores after surgery and on any reported complications.\n\nHow did we find the evidence?\nWe searched major medical databases for randomised controlled trials that compared two or more of the four techniques in women undergoing breast cancer surgery. We combined the results using a method that lets us compare several treatments at once (network meta-analysis) and we assessed our confidence in the findings with a tool called CINeMA (Confidence In Network Meta-Analysis). All included studies used a single, long-acting injection under ultrasound guidance.\n\nWhat did we find?\nWe identified 39 trials that enrolled a total of 2,348 women, most of whom had a modified radical mastectomy. The trials were conducted in Egypt, India, Turkey, China, Japan, the United States and Thailand, and all surgeries were performed under general anaesthesia in hospital settings.\n\nWhen we compared the techniques, we found that the three blocks (ESPB, PEC, SAPB) made little or no difference in pain at rest or during movement at 2, 24 and 48 hours after surgery compared with the paravertebral block. There was a small hint that the pectoral nerve block might reduce pain during movement two hours after surgery, but the evidence was uncertain. No serious complications such as block failure, toxicity, nerve damage or pneumothorax were reported for any technique, although the certainty about safety was low because few events occurred.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the results because many studies were small and used slightly different patient groups or injection methods. This variability reduces the precision of our estimates and makes it harder to detect rare adverse events.\n\nHow current is the evidence?\nThe search covered studies published up to June 2023, so the evidence reflects the literature available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 646,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.838709677419356,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 213,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 213.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.69980874862679,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.643598322181166,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.138348646759212,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.678947368421053,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.437651053630283,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.08329172076301,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.67741935483871,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.489125293076057,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.364265634674923,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 259,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 259.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 147,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 646,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 646 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 6,
+        "P75_count": 3,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft contains several clarity problems that could confuse patients:\n1. **Long, complex sentence** – \"When we compared the techniques, we found that the three blocks (ESPB, PEC, SAPB) made little or no difference in pain at rest or during movement at 2, 24 and 48 hours after surgery compared with the paravertebral block.\" This 39‑word sentence overloads the reader. *Rewrite*: \"We compared the four techniques. The three blocks (ESPB, PEC, SAPB) gave little or no difference in pain compared with the paravertebral block. This was true for pain at rest and during movement at 2, 24 and 48 hours after surgery.\"\n2. **Unexplained technical terms** – The draft mentions \"network meta‑analysis\" and \"CINeMA\" without definition. Patients may not understand these methods. *Rewrite*: \"We combined the results using a network meta‑analysis, a statistical method that lets us compare several treatments at once. We judged the certainty of the evidence with CINeMA (Confidence In Network Meta‑Analysis), a tool that rates how trustworthy the findings are.\"\n3. **Passive voice** – \"The trials were carried out in several countries...\" hides who did the work. *Rewrite*: \"Researchers carried out the trials in several countries (Egypt, India, Turkey, China, Japan, the United States, and Thailand).\"\n4. **Awkward nominalisation** – \"The evidence is up to date to June 2023 of search.\" The noun‑heavy phrasing is hard to read. *Rewrite*: \"We searched the literature up to June 2023, so the evidence reflects studies published until that date.\"\nThese changes address the most confusing elements and also reduce the high counts of nominalisations (25, beyond the typical P90 range) and nouns (213, beyond P90), which the metric analysis flagged as major deviations from typical PLS patterns.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets word‑count limits and has good active‑voice (62, P75) and pronoun use (34, P75). However, it deviates markedly in nominalisations (25, P90), noun count (213, beyond P90), SMOG index (14.5, P90), and complex‑word metrics (complex_words 147, long_words 176, complex_words_dc 259 – all P90). These indicate the text is noun‑heavy and uses many long/complex words, which aligns with the identified clarity issues."
+    }
+  ]
+}

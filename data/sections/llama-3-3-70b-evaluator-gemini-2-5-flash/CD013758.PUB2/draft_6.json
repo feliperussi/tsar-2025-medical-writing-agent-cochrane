@@ -1,0 +1,162 @@
+{
+  "id": "CD013758.PUB2",
+  "draft": "Is a high-protein baby formula better than a standard-protein baby formula for healthy infants?\n\nWe have three key messages:\n- We are unsure if feeding healthy infants high-protein formula compared to standard-protein formula affects undernutrition (when a person does not get enough nutrients), overweight, or obesity due to a lack of strong evidence.\n- Feeding healthy infants high-protein formula compared to standard-protein formula may have little to no effect on adverse events like diarrhea (frequent and loose bowel movements), vomiting, or milk hypersensitivity (an adverse reaction to milk) due to a lack of strong evidence.\n- Future research should focus on the long-term effects of high-protein versus standard-protein formula on infant health, including undernutrition, overweight, obesity, and adverse events, to provide clearer guidance for parents and healthcare providers.\n\nWhy is the amount of protein in baby formula important?\nMany infants are fed infant formulas to promote growth. Some formulas have a high protein content to accelerate weight gain during the first year of life. However, it is unclear if the benefits of these formulas outweigh the potential risks. We need to understand the effects of different protein levels in infant formula on the health of formula-fed term infants.\n\nWhat did we want to find out?\nWe wanted to find out if using a high-protein formula instead of a standard one affects a healthy infant's risk of:\n- undernutrition, overweight, or obesity\n- side effects like diarrhea or vomiting\n\nHow did we search for evidence?\nWe searched for studies comparing higher and lower protein intake in formula-fed term infants. We looked at studies from high-income countries that lasted up to 11 years.\n\nWhat did we find?\nOur main findings were:\n- High-protein vs. standard-protein formula: We are not sure if using this formula affects an infant's risk of undernutrition, overweight, or obesity due to a lack of strong evidence. For side effects, there may be little to no difference between the formulas.\n- Standard-protein vs. low-protein formula: We found this may have little to no effect on an infant's risk of undernutrition. There was also likely little to no difference in the risk of side effects.\n\nWhat are the limitations of the evidence?\nThe evidence is limited for several reasons:\n- The groups of infants in the studies were very different from each other.\n- The studies were small.\n- In many cases, researchers and parents likely knew which formula was being used, which could have biased the results.\nThe studies also did not report on all the health outcomes we were interested in.\n\nIs the evidence up to date?\nThe evidence is up to date to October 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 472,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.666666666666668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 36,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 22,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 57.64324858757064,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.105000000000004,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.067337570621469,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.740423728813557,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.731073446327684,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.175141242937855,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.366600265340756,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.997076836158192,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 180,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 81,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 472,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 472 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved due to a critical factual inaccuracy in the 'What did we find?' section that misrepresents one of the review's main conclusions. While the writing is generally clear and meets most statistical benchmarks for readability, this error must be corrected. I've also included two suggestions to improve the clarity and impact of the key messages.\n\nHere are the top 3 improvements needed:\n\n1.  **Correct the Factual Inaccuracy in the Results**\n    *   **Problematic sentence:** \"Standard-protein vs. low-protein formula: We found this may have little to no effect on an infant's risk of undernutrition.\"\n    *   **Why it's a problem:** This is a significant misrepresentation of the evidence. The original abstract's conclusion is \"We are unsure... if [it] has any effect on undernutrition.\" Stating there is \"little to no effect\" implies a finding of no difference, whereas \"we are unsure\" correctly communicates that the evidence is too weak to draw any conclusion. This changes the core meaning for the reader.\n    *   **Suggested rewrite:** \"Standard-protein vs. low-protein formula: We are not sure if using this formula affects an infant's risk of undernutrition because the evidence was not strong enough.\"\n\n2.  **Improve Clarity in the Key Messages**\n    *   **Problematic sentence:** \"Feeding healthy infants high-protein formula compared to standard-protein formula may have little to no effect on adverse events... due to a lack of strong evidence.\"\n    *   **Why it's a problem:** This phrasing is slightly confusing. It states a potential finding ('little to no effect') but then seems to attribute that finding to a lack of evidence. It's clearer for the reader if you state the finding and then separately state your confidence in it.\n    *   **Suggested rewrite:** \"High-protein formula may have little to no effect on side effects like diarrhea or vomiting compared to standard-protein formula. However, we are not confident in this finding because the evidence is not strong.\"\n\n3.  **Streamline Key Messages by Moving Definitions**\n    *   **Problematic phrases:** \"...undernutrition (when a person does not get enough nutrients)...\" and \"...diarrhea (frequent and loose bowel movements)...\" located within the Key Messages.\n    *   **Why it's a problem:** The Key Messages should be as clear and scannable as possible. Placing definitions in parentheses makes these crucial first sentences longer and more complex, reducing their immediate impact.\n    *   **Suggested rewrite:** Move these helpful definitions out of the Key Messages and into the main body of the text. For example, you could add them to the 'Why is the amount of protein in baby formula important?' section.",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to the statistical patterns of a typical Plain Language Summary. All 18 metrics fall within the best (P25/P75) or median (P50) quartiles of the reference corpus. Key readability scores like Flesch-Kincaid Grade (10.11) and words per sentence (19.67) are excellent. This indicates strong foundational writing. However, these automated metrics do not capture the critical factual inaccuracy and nuanced clarity issues identified in the editorial review, which are the primary reasons for the 'NOT_APPROVED' grade."
+    }
+  ]
+}

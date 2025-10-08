@@ -1,0 +1,158 @@
+{
+  "file_id": "CD012532.PUB2",
+  "folder": "reference",
+  "source_fields": [
+    "pls"
+  ],
+  "text": "What are the benefits and risks of different immunotherapy drugs for treating glioblastoma (a cancerous brain tumour)?\n\nKey messages\n• A form of immunotherapy known as immune checkpoint inhibitors (ICIs), which uses the body's immune system to fight disease, has shown encouraging results in the treatment of some cancers.\n• Seven studies looked at the ICI anti‐programmed cell death 1 (anti‐PD‐1) for the treatment of adults with glioblastoma. Six of them showed no benefit. One small trial showed an improvement in overall survival and progression‐free survival, but the evidence is very uncertain.\n• More high‐quality studies looking at different combinations of ICIs are needed.\nWhat is glioblastoma?\n\nGlioblastoma (GBM) is the most common cancerous brain tumour in adults. People diagnosed with GBM can have a variety of symptoms, including headache, changes in behaviour and personality, seizures or other symptoms similar to a stroke. This can occur over a longer or shorter period of time. Overall survival (the length of time from the date of diagnosis or the start of treatment to death) is around 16 months.\nTreatment is based on removing as much of the tumour as possible by surgery, followed by chemotherapy and radiotherapy; however, these are not very effective, thus there is a need for alternative treatments. New treatments using immunotherapy (immune checkpoint inhibitors (ICIs), or immune checkpoint blockers (ICBs)) have shown promising results for treating some cancers, with good response rates, leading to improved survival. ICIs stop unwanted inflammation and damage to normal tissues, acting as a 'brake' to halt the body's immune response. Recent studies of tumour tissue from people with GBM showed that they have receptors that interact with ICIs. We need to know if ICIs can treat GBM and improve patient survival.\nWhat did we want to find out?\n\nWe wanted to find out if two types of ICIs (anti‐programmed cell death 1 (anti‐PD‐1) and anti‐programmed cell death ligand 1 (anti‐PD‐L1)) are effective and safe in adults with GBM.\nWe need to distinguish people with GBM who will respond to a particular type of treatment from those that will not. The identification of markers that predict response to anti‐PD‐1/anti‐PD‐L1 will help to determine who will benefit the most from this treatment.\nWhat did we do?\n\nWe searched for studies that looked at the effects of ICIs (such as nivolumab and pembrolizumab) in adults with GBM. We compared and summarised the results of these studies and rated our confidence in the evidence based on factors such as study methods and sizes.\nWhat did we find?\n\nWe found seven studies dating from 2019 to 2023. The studies looked at anti‐PD‐1 treatment in a total of 1953 people with newly diagnosed (3 studies) and recurrent (4 studies) GBM. Each trial looked at a different comparison, preventing the combining of data. The studies looked at the following seven comparisons.\n• Nivolumab versus bevacizumab\n• Nivolumab plus high‐dose bevacizumab versus nivolumab plus low‐dose bevacizumab\n• Pembrolizumab plus bevacizumab versus pembrolizumab\n• Pembrolizumab used before and after surgery to remove the tumour versus pembrolizumab used only after surgery\n• Nivolumab plus radiotherapy versus temozolomide plus radiotherapy\n• Nivolumab plus temozolomide plus radiotherapy versus temozolomide plus radiotherapy\n• Nivolumab plus temozolomide versus temozolomide in older people\nResults from six trials showed no benefit for overall survival. One trial suggested that pembrolizumab used before and after surgery to remove the tumour may improve overall survival when compared with pembrolizumab used only after surgery, but the evidence is very uncertain.\nResults from six trials showed no benefit for progression‐free survival (the length of time a person is on treatment before the cancer starts to regrow). One trial suggested that pembrolizumab used before and after surgery to remove the tumour may improve progression‐free survival when compared with pembrolizumab used only after surgery, but the evidence is very uncertain.\nWhat are the limitations of the evidence?\n\nWe are only very low to moderately confident in the evidence because study methods were sometimes unclear and therefore could have been inadequate, and in six studies, the people evaluating the outcomes knew which treatments participants had received, which could have influenced the results. High‐quality studies are needed to increase our confidence in the findings.\nHow up‐to‐date is this evidence?\n\nThe evidence is current to 8 March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 740,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.555555555555557,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 205,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.753003003003016,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.705315315315321,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.322115615615616,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.817135135135132,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.735735735735737,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.85285285285285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.611111111111111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.61895003862225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.634285285285286,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 310,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 310.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 139,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 139.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 202,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 202.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 740,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 740 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:41.306945"
+}

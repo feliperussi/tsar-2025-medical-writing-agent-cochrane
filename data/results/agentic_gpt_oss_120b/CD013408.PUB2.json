@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does organised (coordinated) care for adults with atrial fibrillation (irregular heartbeat) reduce death compared with usual care?\n\nKey messages\n- Organised care that brings together several health professionals (multidisciplinary care) probably reduces the chance of dying from any cause; we estimate about three fewer deaths per 100 people over six years.\n- The same care probably lowers the number of heart‑related hospital admissions (cardiovascular hospitalisation) by about four fewer admissions per 100 people over six years, but it makes little or no difference to overall hospital admissions.\n- Current evidence does not show a clear effect on stroke or serious bleeding, and the studies were small and sometimes lacked blinding, so more well‑designed research is needed.\n\nWhy is atrial fibrillation a health problem that needs better care?\nAtrial fibrillation (AF) is a common heart rhythm disorder where the upper chambers of the heart beat irregularly and often very fast. This can make the heart work less efficiently and raises the risk of stroke, heart failure, and death. AF becomes more common as people age, and many adults with AF also have other health problems, making its management complex.\n\nWhat did the researchers want to find out about organised care for atrial fibrillation?\nWe wanted to compare organised clinical services – such as collaborative, multidisciplinary teams or virtual/e‑health programmes – with the usual care that patients typically receive. Our goal was to see whether these organised approaches could reduce death, hospital admissions, and other important outcomes for adults with any type of AF.\n\nWhat did we do?\nWe searched several databases for randomised controlled trials that compared organised, multidisciplinary or virtual clinical services for adults with AF to usual care. We combined the results and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified eight trials involving 8,205 adults with AF. Participants were on average 60–73 years old. Four trials tested a nurse‑led, multidisciplinary model and two trials tested a mobile‑health (mHealth) virtual model. All interventions were compared with usual care.\n\nWhat are the effects on overall death and hospitalisation?\nWe found that organised care probably reduces all‑cause mortality. For roughly every 100 people receiving organised care, about three fewer die over six years (moderate‑certainty evidence). Organised care probably makes little or no difference to all‑cause hospital admission. However, it probably reduces cardiovascular hospitalisation by about four fewer admissions per 100 people over six years (high‑certainty evidence). The evidence does not show a clear effect on stroke or major bleeding events.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence, but several limitations remain. Many studies did not blind participants or researchers, some did not report all outcomes we were interested in, the participants and interventions varied, and the trials were small or few in number.\n\nHow current is the evidence?\nThe evidence reflects searches up to April 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 497,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.137931034482758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.64563380281692,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.871257892180672,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.670011794907374,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.84917505030181,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.110705612988273,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.30090890168598,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.655172413793103,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.295630140987,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.426560493998475,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 207,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 497,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 497 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:54.501426"
+}

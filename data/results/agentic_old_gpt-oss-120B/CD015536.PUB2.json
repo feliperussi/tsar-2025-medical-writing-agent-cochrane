@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015536.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is entecavir (an antiviral medicine) effective and safe for children and adults with chronic hepatitis B (a long‑term liver infection) compared with no treatment or placebo (a harmless pill that looks like the real drug but contains no active ingredient)?\n\nKey messages\n- We could not decide whether entecavir works or is safe, because the trials did not give reliable data on death (mortality) or serious unwanted effects (serious adverse events).\n- No study reported health‑related quality of life (how someone feels and functions day‑to‑day), and many trials had design problems that lower confidence in the results.\n- Larger, better‑designed studies that follow people for longer are needed to see if entecavir truly improves survival, reduces serious side‑effects, or enhances quality of life.\n\nWhat is chronic hepatitis B and why is it a health problem?  \nChronic hepatitis B is a long‑lasting infection of the liver caused by the hepatitis B virus. It affects millions worldwide and can cause liver scarring (cirrhosis), liver cancer, and early death. Most people feel well at first, so the disease can damage the liver unnoticed for years. The virus can be passed from mother to child at birth or through blood, making it a major public‑health (everyone’s health) challenge.\n\nWhat treatments are used for chronic hepatitis B and what is entecavir?  \nDoctors often treat chronic hepatitis B with medicines that stop the virus from multiplying. One common type is a nucleos(t)ide analogue (a drug that looks like a building block of the virus’s  genetic material and tricks the virus into stopping its replication). Entecavir is a nucleos(t)ide analogue taken as a pill. Guidelines list it as a first‑choice treatment because it usually suppresses the virus well and is well tolerated. Those guidelines are based on individual studies, not on a systematic review that directly compares entecavir with doing nothing or a placebo.\n\nWhat did we aim to find out?  \nWe wanted to know whether entecavir improves important health outcomes compared with no treatment or placebo. Specifically we looked at:\n- Whether entecavir reduces the risk of death from any cause.\n- Whether it improves health‑related quality of life.\n- Whether it changes the chance of experiencing serious adverse events.\n\nHow did we find the evidence?  \nWe searched for randomised trials (studies where participants are randomly assigned to groups) that compared entecavir with no treatment or placebo in children or adults with chronic hepatitis B. Where data allowed, we combined results using meta‑analysis (a statistical method that pools data). We then rated our confidence in the evidence.\n\nWhat did we find?  \nWe identified 22 randomised trials that together enrolled 2,940 participants. All trials compared oral entecavir with either no treatment (12 trials) or placebo (10 trials). In 14 trials, any additional treatments were given equally to both groups. Follow‑up ranged from 5 weeks to 228 weeks (average about 58 weeks). Most participants were adults; one trial enrolled only children, one included people aged 14‑55 years, and one did not report age. The review received no dedicated funding.\n\nMain results  \n- Death: No deaths occurred in any trial, so we cannot estimate entecavir’s effect on mortality.  \n- Quality of life: No trial reported health‑related quality of life data.  \n- Serious adverse events: Entecavir might reduce serious unwanted effects, but the evidence is very uncertain. The best estimate suggests 22 fewer serious adverse events per 1,000 people treated, with a 95 % confidence interval ranging from 44 fewer to 21 more events.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the findings because participants may have known which treatment they received, many trials were small, and few events occurred. Some studies did not provide all the data we needed, and methodological concerns reduce trust in the results.\n\nHow current is the evidence?  \nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 660,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 182,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.5839393939394,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.921515151515152,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.352712121212122,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.571090909090913,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.212121212121213,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.121212121212125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.277777777777778,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.770329614269007,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.655969696969698,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 282,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 282.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 130,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 130.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 190,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 190.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 660,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 660 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:08.235085"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013474.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does maintenance therapy after initial treatment improve outcomes for people with chronic lymphocytic leukaemia?\n\nKey messages:\n- Continuing treatment with anti‑CD20 antibodies after the first round of therapy probably helps people stay free of disease longer.\n- Adding lenalidomide after the first round probably also helps people stay free of disease longer, but it may cause more side effects.\n- There is not enough reliable information to say whether these treatments improve overall survival or quality of life.\n\nIntroduction:\nWhat is chronic lymphocytic leukaemia (CLL) and why does it need treatment? CLL is a type of blood cancer that grows slowly. It can cause tiredness, infections and swollen lymph nodes. Treatment is given to keep the disease from getting worse.\n\nWhat does “maintenance therapy” mean? After the first round of treatment, some doctors give a lower‑dose treatment for a longer time. This is called maintenance therapy. It is meant to keep the cancer under control.\n\nWhat did we want to find out? We wanted to know whether maintenance therapy after the first round of treatment helps people live longer without the disease getting worse, lives longer overall, feels better, or has fewer serious side‑effects.\n\nWhat did we do?\nWe looked for studies that compared people who got a maintenance drug after their first treatment with people who just stopped treatment. We focused on two kinds of maintenance drugs: anti‑CD20 monoclonal antibodies (such as rituximab) and lenalidomide. We checked how many people stayed free of disease, how many were alive after a few years, how many had serious side‑effects, and how they reported their quality of life.\n\nWhat did we find?\nStudy characteristics: Six studies with a total of about 1,200 participants were included. The participants were adults with CLL who had already finished an initial treatment. Some studies gave anti‑CD20 antibodies as maintenance, others gave lenalidomide. Follow‑up time ranged from a few months to several years.\n\nMain results:\n- Anti‑CD20 maintenance probably causes a large improvement in the time people stay free of disease. It probably does not change overall survival much. It may increase serious side‑effects a little and may also increase the chance of any side‑effects. It probably does not change quality of life.\n- Lenalidomide maintenance probably causes a large improvement in the time people stay free of disease. It probably makes little or no difference to overall survival. It may increase serious side‑effects a little and may also increase treatment‑related deaths a little. It may also increase any side‑effects a little. There is not enough reliable information about quality of life.\n- For alemtuzumab maintenance, the evidence is very uncertain, but it may increase the time people stay free of disease. No reliable information was found for overall survival, quality of life, or side‑effects.\n\nWhat are the limitations of the evidence?\nThe studies were small and sometimes did not follow people for a long time. Some results were based on only a few participants, making it hard to be sure about the true effect. Different studies used slightly different doses and schedules, which makes it difficult to compare them directly. Because of these issues, we cannot be completely confident about many of the findings.\n\nHow up to date is this evidence?\nThe latest study we included was published in 2022, and the search for studies was completed in March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 570,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 40,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.25,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 142,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.69019736842105,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.915921052631582,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.807210526315792,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.72785964912281,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.208771929824563,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.565789473684205,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.441063157894738,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 207,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 107,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 570,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 570 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:19.733961"
+}

@@ -1,0 +1,158 @@
+{
+  "file_id": "CD013788.PUB2",
+  "folder": "reference",
+  "source_fields": [
+    "pls"
+  ],
+  "text": "Early versus late urethral catheter removal after kidney transplantation\n\nWhat is the issue?The ureter is a pipe that drains urine from the kidney into the bladder, where it is stored until patients go to the bathroom to pass urine. During a kidney transplant operation, the new kidney is placed inside the patient, and the new ureter is attached to the patient's bladder. During this procedure, a catheter is inserted through the urethra into the bladder and left in place following the operation. A catheter is a narrow flexible tube that allows urine to drain from the bladder. The catheter continuously drains urine and prevents the bladder from stretching. It is thought that by keeping the bladder empty, the connection between the new ureter and the bladder is able to heal better. However, catheters can introduce bacteria into the bladder and cause urine infections. The longer the catheter stays in the bladder, the greater the risk of getting an infection. Urine infections can be very troublesome for transplant patients, as they need to take medicines that suppress their immune system. These immunosuppressive medications mean patients find it very difficult to fight off infections. Currently, no one knows when the best time is for the removal of the catheter. We want to find this out so that we can minimise the risk of urine infections because of catheters whilst still giving the connection between the bladder and the new ureter the best possible chance of healing.\nWhat did we do?This study was designed to review all the previously published research in this area to determine the answer to this question. Two studies, including 197 people who have received a kidney transplant, were identified.\nWhat did we find?It is uncertain whether the number of patients with bacteria in their urine was different in patients whose catheter was removed less than five days after the operation compared with patients whose catheter was removed more than five days after their operation. The studies identified for this review were generally of poor quality.\nConclusionsWe need a well‐designed and high‐quality study to investigate the best time for catheter removal in patients following their kidney transplant operation.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 364,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.41176470588235,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 33,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 103,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 48.20810277957341,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.85454427925016,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.476514221073046,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.781428571428574,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.147123464770523,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.53264382676147,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.235294117647059,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.874825727213963,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 134,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 69,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 364,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 364 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 14,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 77.77777777777779,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:45.564929"
+}

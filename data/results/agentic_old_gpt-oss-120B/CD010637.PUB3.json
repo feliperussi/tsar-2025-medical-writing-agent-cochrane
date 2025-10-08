@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010637.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Does regular exercise help people with chronic vein problems that have not yet developed open sores?\n\nKey messages:\n- We found only five small randomised trials involving 146 participants with non‑ulcerated chronic venous insufficiency.  \n- Exercise probably makes little or no difference to disease signs, leg‑vein function, quality of life, walking ability, muscle strength, ankle movement, or ulcer prevention.  \n- The evidence is very uncertain because the studies were few, small, and at risk of bias.\n\nWhat is chronic venous insufficiency and why does it matter?  \nChronic venous insufficiency (CVI) is a condition in which the veins in the legs are weak or damaged, causing blood to pool and leading to swelling, pain, or skin changes. Blood can collect in the lower legs, causing discomfort and lowering how a person feels and functions day to day (quality of life). The condition can progress to painful leg ulcers (open sores).\n\nHow is chronic venous insufficiency usually managed?  \nUsual care aims to improve blood flow and relieve symptoms. Treatments include compression stockings, medicines, and sometimes surgery to repair or remove damaged veins. Regular, guided movements that work the leg muscles (physical exercise) are thought to help the veins pump blood more effectively, but the benefit for people without ulcers is unclear.\n\nWhat did we aim to find out?  \nWe wanted to know whether structured exercise programmes are safe and effective for people with non‑ulcerated CVI. Specifically, we looked at whether exercise can reduce the severity of signs and symptoms, improve how well the veins work (measured by ejection fraction – the percentage of blood the heart pumps out with each beat – and venous refilling time – how quickly a leg vein fills with blood again), prevent new leg ulcers, and improve quality of life, muscle strength, and overall mobility.\n\nHow did we gather the evidence?  \nWe searched major databases (MEDLINE, Embase, CINAHL, CENTRAL) for randomised controlled trials that compared an exercise programme with no structured exercise in people with non‑ulcerated CVI. We extracted the findings and rated our confidence in the evidence (GRADE) using standard criteria.\n\nWhat did we find?  \n- Five small randomised trials enrolled a total of 146 participants.  \n- Exercise programmes varied in type, intensity, frequency, and length (8 weeks to 6 months).  \n- The trials did not report participants’ ages, gender balance, country, or funding sources, and none reported ulcer outcomes.  \n\nThe evidence from these trials is very uncertain. Exercise probably makes little or no difference to disease severity, ejection fraction, venous refilling time, quality of life, walking capacity, muscle strength, or ankle joint mobility. Because the trials were few, small, and at risk of bias (flaws in study design, conduct, or analysis), we cannot be confident about any result.\n\nWhat are the limitations of the evidence?  \nWe are not confident because participants may have known which group they were in, the studies did not provide data for all outcomes we wanted, the study populations and interventions differed, and the sample sizes were too small to give reliable answers.\n\nHow current is this review?  \nThis review updates our previous work and includes evidence up to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 538,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.551724137931036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.657788104089235,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.244428919369316,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.686735674913471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.119182156133824,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.85563389309063,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.66324830149981,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.586206896551724,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.8172844763491875,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 235,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 235.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 538,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 538 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:55.700704"
+}

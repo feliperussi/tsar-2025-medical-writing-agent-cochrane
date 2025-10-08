@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "Do patient decision aids (tools that help people make informed health decisions) improve health choices compared to usual care?\n\nWe looked at 209 studies that involved over 107,000 participants. These studies compared patient decision aids to usual care for 71 different health decisions. The most common decisions were about treatments for heart disease, cancer screening, cancer treatments, mental health treatments, and joint replacement surgery.\n\nKey messages:\n- Patient decision aids probably help people make health choices that align with their values. They do this by improving knowledge, helping people understand the risks and benefits, and encouraging involvement in decision-making.\n- Decision aids seem to help people feel more informed and clearer about their personal values. They may also lead to a more active role in decision-making.\n- However, we need more research to understand how decision aids affect people's adherence to their chosen options and the impact on the healthcare system.\n\nWhat is the problem of making health decisions?\nWhen people face health treatment or screening decisions, they often need support to make informed choices. Health decisions can be complex and involve weighing the benefits and harms of different options. Patient decision aids are tools designed to help people make health decisions by providing evidence-based information and clarifying their personal values.\n\nWhat are patient decision aids?\nPatient decision aids are interventions that make the decision explicit, provide evidence-based information about the options and associated benefits/harms, and help clarify personal values for features of options. They can be used to support people making health decisions and are particularly useful for decisions that involve trade-offs between different benefits and harms.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of patient decision aids in adults considering treatment or screening decisions. They aimed to find out whether patient decision aids can increase the congruence between informed values and care choices, and whether they can improve participants' knowledge, accurate risk perceptions, and participation in decision-making.\n\nHow did the authors conduct the review?\nWe searched for studies comparing patient decision aids to usual care, summarized and combined their results, and rated our confidence in the evidence to assess the effects of patient decision aids on health decisions.\n\nWhat did we find?\nPatient decision aids probably help more adults make informed choices that are in line with their personal values. They likely lead to a better understanding of the options and their benefits and harms, and may increase the number of people who take an active role in decision-making. However, they may not affect how long consultations last or the level of regret people feel about their decisions.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding (participants may have known their treatment), incomplete reporting of outcomes across studies, and heterogeneity in study populations and intervention delivery methods.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 525,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 185,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.898607142857145,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.096976190476191,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.293457142857143,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.018133333333331,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.728571428571428,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.89285714285714,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.214285714285714,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.295630140987,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.606914285714286,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 222,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 222.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 174,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 525,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 525 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 4,
+        "P75_count": 7,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start and passes all critical checks for completeness and accuracy. However, it needs revisions to improve clarity for a lay audience. The main issues are the use of technical jargon copied directly from the abstract, overly complex sentences, and an inconsistent author voice (switching between 'we' and 'the authors'). These issues make the text harder to understand than it needs to be. The linguistic analysis supports this, showing that while sentence length is good, the vocabulary is more complex than is typical for a Plain Language Summary.\n\nHere are the top 3 improvements to focus on:\n\n1. **Simplify the definition of the main topic.** The current definition is too technical for a plain language summary.\n   - **Problematic text:** \"Patient decision aids are interventions that make the decision explicit, provide evidence-based information about the options and associated benefits/harms, and help clarify personal values for features of options.\"\n   - **Why it's a problem:** This is copied from the abstract and uses jargon like 'interventions', 'explicit', and 'features of options' that are unclear to a general reader.\n   - **Suggested rewrite:** \"Patient decision aids are tools like booklets, videos, or websites. They help you understand your health choices by:\n- Clearly explaining the decision you need to make\n- Giving reliable information about the good and bad points of each option\n- Helping you think about what is most important to you\"\n\n2. **Rewrite complex, noun-heavy sentences using simpler language.** Several sentences are long and rely on academic phrasing.\n   - **Problematic text:** \"They aimed to find out whether patient decision aids can increase the congruence between informed values and care choices, and whether they can improve participants' knowledge, accurate risk perceptions, and participation in decision-making.\"\n   - **Why it's a problem:** This sentence is long and uses difficult concepts like 'congruence between informed values' and 'accurate risk perceptions'.\n   - **Suggested rewrite:** \"We wanted to know if these aids help people make choices that match their personal values. We also looked at whether the aids improved people's knowledge, helped them understand risks correctly, and encouraged them to take part in the decision.\"\n\n3. **Use a consistent first-person ('we') voice.** The text switches between referring to the authors as 'we' and 'the authors', which can be confusing.\n   - **Problematic text:** \"What did the review authors want to find out?\" and \"How did the authors conduct the review?\" followed by \"What did we find?\"\n   - **Why it's a problem:** Inconsistent voice makes the summary feel less direct and personal. The style guide recommends using 'we' for the review authors.\n   - **Suggested rewrite:** Change all headings and text to use 'we'. For example: \"What did we want to find out?\" and \"How did we conduct the review?\"",
+      "pls_evaluation_summary": "The linguistic analysis shows a mixed profile. While many structural metrics like sentence length (18.75 words) and passive voice (8 instances) are excellent and fall within the best quartile for PLS texts, the vocabulary is too complex. Three key metrics deviate significantly from typical patterns: the number of nouns (185), Dale-Chall complex words (222), and long words (174) are all in the 90th percentile range. This indicates that while the sentences are well-structured, the word choice is often too technical and needs simplification to improve readability for a lay audience."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011538.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of education support services for children and adolescents with a chronic health condition?**\n\n**Key Messages:**\n\n* Education support services can improve school engagement and academic achievement for children and adolescents with chronic health conditions, but the evidence is uncertain and more research is needed.\n* There is some evidence that education support may slightly improve mental health, measured as self-esteem.\n* The current state of the evidence is limited, and more research is needed to inform effective practice and policy.\n\n**Introduction to the review topic and review aims:**\n\n* What is education support for children and adolescents with chronic health conditions?\n* Why is it important to improve school engagement and academic achievement for these children?\n* What do we want to find out about the effectiveness of education support services?\n\n**Background:**\n\n* Chronic health conditions in children and adolescents can have a big impact on education, well-being, and health.\n* These conditions are long-lasting and rarely cured completely.\n* School attendance is important for academic and social skill development, as well as well-being.\n* When children and adolescents are absent from school due to a chronic health condition, school engagement can be affected.\n\n**What did we do?**\n\n* We searched eight electronic databases to find studies on education support services for children and adolescents with chronic health conditions.\n* We found four studies that met our criteria for inclusion in the review.\n\n**What did we find?**\n\n* There was evidence that education support improved school engagement with three of four studies favouring the intervention.\n* However, the overall certainty of evidence for these three outcomes was judged to be 'very low'.\n* There was some evidence that education support may slightly improve mental health, measured as self-esteem.\n* No studies measured or reported quality of life or adverse effects.\n\n**What are the limitations of the evidence?**\n\n* The evidence is uncertain and more research is needed to inform effective practice and policy.\n* The current state of the evidence is limited, and more research is needed to strengthen the evidence that can inform effective practice and policy.\n\n**How up to date is this evidence?**\n\n* The evidence is up to date to January 2021.\n\nPlease note that this is a machine-generated summary, and it may not be perfect. It's always a good idea to have a medical communication specialist review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 450,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.37000000000003,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.402222222222225,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.88733333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.711999999999996,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.533333333333335,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.666666666666664,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.638933333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 450,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 450 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.524756"
+}

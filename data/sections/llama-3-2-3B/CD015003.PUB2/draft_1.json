@@ -1,0 +1,162 @@
+{
+  "id": "CD015003.PUB2",
+  "draft": "**Agent stopped due to max iterations.**\n\n- The review found that colchicine may reduce all-cause mortality compared to placebo in primary prevention, but the evidence is very uncertain (risk ratio 0.68, 95% confidence interval 0.51 to 0.91; 6 studies, 463 participants; very low-certainty evidence). However, the review could not find enough good-quality evidence to determine whether colchicine has any other benefits or harms for primary prevention.\n- The review found that colchicine may increase the incidence of diarrhoea compared to placebo, usual care, or no treatment, but the evidence is very uncertain (RR 3.99, 95% CI 1.44 to 11.06; 8 studies, 605 participants; very low-certainty evidence).\n- Due to the very low certainty of the evidence and the limitations of the included studies, it is unclear whether colchicine is effective for preventing cardiovascular events in the general population, and more robust clinical trials are needed to bridge this evidence gap effectively.\n\n**What is the health problem?**\nAtherosclerotic cardiovascular diseases (ACVDs), a condition characterised by lipid accumulation in arterial walls, which is often exacerbated by chronic inflammation disorders, is the major cause of mortality and morbidity worldwide. Colchicine, with its first medicinal use in ancient Egypt, is an inexpensive drug with anti‐inflammatory properties. However, its role in primary prevention of ACVDs in the general population remains unknown.\n\n**What did the researchers aim to discover?**\nTo assess the clinical benefits and harms of colchicine as primary prevention of cardiovascular outcomes in the general population.\n\n**Brief Summary**\nThe review authors succinctly described the core actions taken, directly linking them to the research aims and addressing the study design in a concise manner.\n\n**What did we find?**\nCurrent evidence on colchicine for primary prevention of cardiovascular events is very uncertain. It may lower all‑cause mortality compared with placebo, but the data are inconclusive. There is little to no clear effect on non‑fatal myocardial infarction or stroke, and the certainty is low. Colchicine appears to increase the risk of diarrhea, though this also rests on uncertain evidence. When compared with methotrexate, colchicine shows little to no difference in mortality, but the evidence is very uncertain. Overall, the existing studies are limited, and robust trials are needed to determine whether colchicine is beneficial or harmful for primary cardiovascular prevention.\n\n**We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.**\n\n**The evidence is up to date to May 31, 2023.**",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 430,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.916666666666668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 29,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 16,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 106,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.468653100775214,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.786802325581398,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.341217054263566,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.276093023255815,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.957364341085274,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.032945736434115,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.291666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.770329614269007,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.085968992248063,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 196,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 116,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 116.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 151,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 430,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 430 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 9,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 50,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The provided summary has several critical clarity issues, passive voice, overly long sentences, and structural problems that hinder comprehension. It needs clearer definitions, concise language, active voice, and better paragraphing.",
+      "pls_evaluation_summary": "Priority 1: Critical clarity issues include undefined \"good-quality evidence\" and a convoluted sentence about low certainty. Priority 2: Style issues involve passive voice and wordy phrasing; suggestions include using active voice and concise alternatives. Priority 3: Structure issues such as lack of paragraph breaks and inconsistent bullet usage. Overall, the summary requires revisions for clarity, concision, and structure."
+    }
+  ]
+}

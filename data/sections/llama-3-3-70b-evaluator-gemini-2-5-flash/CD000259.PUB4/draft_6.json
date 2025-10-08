@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Can giving healthcare professionals information about their performance improve the quality of care they provide?\n\nKey messages:\n- Giving healthcare professionals information about their performance, known as audit and feedback, can improve the quality of care they provide, although the size of the effect varies. No significant harmful effects were reported in the studies, but the quality of evidence is not strong enough to be certain about the benefits and potential harms.\n- Audit and feedback seems to be more effective when it is designed to help healthcare professionals prioritize and take action on important clinical issues. For example, it is more effective when the feedback is given to each professional individually, compares their performance to top performers, and is delivered in an interactive way.\n- Future research should focus on addressing the limitations of the current evidence, such as the lack of long-term follow-up and the need for more studies in diverse settings and populations. Additionally, research should investigate how to make audit and feedback more effective and sustainable in real-world healthcare settings, and how to balance the potential benefits with the potential costs and unintended consequences.\n\nWhat is audit and feedback, and why is it important for improving healthcare practice?\nAudit and feedback is a strategy used to improve professional practice in healthcare. It involves measuring clinical performance over a specified period and providing the resulting data to clinicians or clinical teams. The goal is to help healthcare professionals see where their work differs from best practice, so they can improve. Audit and feedback is widely used, but there is uncertainty about its effects on improving healthcare practice and the characteristics that lead to a greater impact.\n\nWhat did we want to find out about audit and feedback?\nWe aimed to assess the effects of audit and feedback on the practice of healthcare professionals and to examine factors that may explain variation in the effectiveness of audit and feedback. We wanted to find out how audit and feedback can be used to improve professional practice, what characteristics of audit and feedback lead to a greater impact, and what factors influence its effectiveness.\n\nHow did we search for studies?\nWe performed a systematic search for studies evaluating audit and feedback interventions.\n\nWhat did we find?\nWe found 292 studies. These studies included 678 different groups of healthcare professionals to compare different approaches. The studies were conducted in various countries, with 26 studies conducted in low- or middle-income countries. Most studies targeted physicians as the recipients of audit and feedback. The professional practices most commonly targeted in the studies were prescribing and test-ordering. Most studies combined audit and feedback with other approaches, such as extra education for clinicians and reminders.\n\nWhat are the limitations of the evidence?\nThe evidence has some weaknesses. For example, the studies included very different types of people and used different methods, which makes it hard to compare them.\n\nIs the evidence up to date?\nThe evidence is up to date to June 2020.\n\nWe found that audit and feedback improved healthcare professionals' practice. On average, for every 100 times a professional should have done something, like ordering the correct test, they did it 6 more times with audit and feedback than without. Audit and feedback is most effective when it targets important performance metrics, measures individual practice, involves a local champion, includes multiple interactive modalities, compares performance to top peers or a benchmark, facilitates engagement, and features an actionable plan with specific advice for improvement.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 600,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.35483870967742,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 67,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 170,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.651838709677406,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.979053763440863,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.85716935483871,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.393666666666665,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.94193548387097,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.021505376344095,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.903225806451613,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.180339887498949,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.486533333333334,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 248,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 248.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 138.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 214,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 214.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 600,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 600 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 6,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good start, but the summary needs revisions to improve clarity and structure for a lay audience. The key factual information is accurate and the sections are complete. However, the vocabulary is too complex and the main finding is difficult to locate. Here are the top 3 areas for improvement:\n\n1. **Simplify complex language and technical terms.** Many words are too academic for a plain language summary. This makes the text difficult to understand.\n   - **Problematic sentence:** \"...research should investigate how to make audit and feedback more effective and sustainable in real-world healthcare settings, and how to balance the potential benefits with the potential costs and unintended consequences.\"\n   - **Why it's a problem:** Phrases like \"sustainable,\" \"real-world healthcare settings,\" and \"unintended consequences\" are jargon that can confuse readers.\n   - **Suggested rewrite:** \"...research should look at how to make audit and feedback work better in hospitals and clinics for the long term, and how to balance the possible benefits with the costs and risks.\"\n\n2. **Move the main result to the top of the 'What did we find?' section.** The most important finding—the actual effect of audit and feedback—is currently buried at the very end of the summary, disconnected from the section where readers would expect to find it.\n   - **Problematic structure:** The \"What did we find?\" section describes the studies, but the main result appears two sections later.\n   - **Suggested change:** Move this paragraph: \"We found that audit and feedback improved healthcare professionals' practice. On average, for every 100 times a professional should have done something, like ordering the correct test, they did it 6 more times with audit and feedback than without...\" to the beginning of the \"What did we find?\" section.\n\n3. **Use more direct, active language.** Some sentences are wordy or use a passive voice, which can make them less clear.\n   - **Problematic sentence:** \"The professional practices most commonly targeted in the studies were prescribing and test-ordering.\"\n   - **Why it's a problem:** This is passive and a bit long. Using an active voice makes it clearer who is doing what.\n   - **Suggested rewrite:** \"The studies most often looked at how doctors prescribe medicines and order tests.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows good conformity in sentence structure, with an average sentence length of 19 words (P25). However, the draft deviates significantly from typical PLS patterns in vocabulary complexity. Five metrics fall into the P90 or BEYOND_P90 range, including 'long_words', 'complex_words', 'complex_words_dc', 'smog_index', and 'nouns'. This indicates the text uses a high number of long, multi-syllable, and uncommon words, which will make it difficult for a general audience to read and understand."
+    }
+  ]
+}

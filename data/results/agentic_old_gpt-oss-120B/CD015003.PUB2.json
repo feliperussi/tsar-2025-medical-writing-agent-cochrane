@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does taking colchicine (a cheap anti‑inflammatory medicine) prevent heart attacks, strokes and other cardiovascular events in people without existing heart disease?\n\nKey messages  \n- We found no clear answer about whether colchicine (an alkaloid that reduces inflammation) prevents heart attacks, strokes or other disease of the heart and blood vessels (cardiovascular disease) in people who have never had such problems. The evidence hints that overall death might be lower, but this is very uncertain. We saw no solid benefit for heart attack or stroke, and colchicine may increase diarrhoea (frequent, loose, watery bowel condition).  \n- We noted that the studies were small and many had design problems (high risk of bias). Some trials focused on liver disease rather than heart outcomes. Because of these issues, our confidence in any effect is low.  \n- We recommend that future research use large, well‑designed randomised controlled trials (RCTs) that test colchicine for primary prevention (actions taken to stop disease before it starts). Trials should compare colchicine with placebo (a pill that looks like the medicine but contains no active drug) or usual care (the care a doctor would normally give), follow participants for longer, and monitor both benefits and harms.  \n\nWhy is heart disease caused by clogged arteries a big problem?  \nWhen fatty deposits (lipid accumulation) build up inside the walls of our arteries, they can harden and narrow the vessels – a condition called atherosclerotic cardiovascular disease (ACVD, diseases where fatty plaques build up inside arteries, narrowing them and raising the risk of heart attacks or strokes). This makes it harder for blood to flow. It can lead to myocardial infarction (heart attack), stroke, and even death. Disease of the heart and blood vessels is the leading cause of illness and death worldwide, affecting millions and putting a huge strain on families.  \n\nWhat is colchicine and why might it help prevent heart problems?  \nColchicine is an old drug derived from the autumn crocus plant. It is cheap and works by calming inflammation (a body response that can cause swelling and redness). Because chronic inflammation may speed up plaque formation in arteries, scientists wonder whether colchicine could stop heart disease from developing in people who have never had a heart problem. This use is called primary prevention.  \n\nWhat did we want to find out?  \nWe aimed to discover whether giving colchicine to adults without any previous cardiovascular disease reduces the risk of dying, having a heart attack, or suffering a stroke, and whether the drug causes important side‑effects. In short, we wanted to know if colchicine is safe and effective as a first‑line strategy to prevent heart problems in the general population.  \n\nHow did we look for the evidence?  \nWe searched for randomised controlled trials that compared colchicine with placebo, methotrexate (an immune‑suppressing drug), or usual care in adults without existing heart disease. We combined the results and rated our confidence using risk‑of‑bias assessments and GRADE assessments (a system that rates how confident we are that the evidence reflects the true effect).  \n\nWhat did we call “what we found”?  \nWe identified 15 trials that together recruited 1,721 adults without known heart disease; 1,412 participants were included in the analyses. The trials tested oral colchicine taken for primary prevention and compared it with placebo, methotrexate in one trial, or usual care/no extra treatment. Follow‑up times ranged from a few weeks to about 14 years. Many trials were originally designed to study liver disease, not heart outcomes. None reported on several heart conditions such as pericardial effusion (extra fluid around the heart), peripheral artery disease (narrowing of arteries to the arms or legs), heart failure, unstable angina (chest pain at rest that signals an imminent heart attack), or atrial fibrillation (irregular heartbeat).  \n\nOur review found that the current evidence does not give a clear answer about whether colchicine helps or harms people when used to prevent cardiovascular events. We cannot say whether colchicine reduces death, non‑fatal heart attacks, or stroke, or whether it affects cardiovascular‑related death. Colchicine may increase diarrhoea, but the certainty of this finding is very low. Overall, the research is of very low certainty, meaning we cannot be confident about any benefit or any harm.  \n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because participants may have known which treatment they received, not all studies provided data on every outcome we wanted, the studies were very small, and the evidence does not cover all people, interventions, comparators or outcomes of interest. Many trials had high risk of bias, leading to imprecision (uncertainty because of small sample sizes).  \n\nHow current is the evidence?  \nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 796,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 40,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 233,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.08423869346737,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.938336683417084,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.673555276381911,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.617638190954771,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.799195979899498,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.66884422110553,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.725,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.789826122551595,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.771185728643216,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 342,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 342.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 156,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 156.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 229,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 229.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 796,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 796 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:05.707679"
+}

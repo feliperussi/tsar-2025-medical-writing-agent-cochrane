@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests for diagnosing vitamin A deficiency in people who are at risk of having low levels of vitamin A?\n\n- We found that blood tests for vitamin A deficiency might not be very accurate. This means they might not always give the correct result. Most tests have 'low sensitivity,' meaning they often miss people who actually have the deficiency. They also have 'high specificity,' meaning they are good at correctly identifying people who do not have the deficiency.\n- The studies we found did not report on any harms from these blood tests. However, the evidence was not high quality, so the results should be interpreted with caution.\n- Future research should focus on conducting high-quality studies that directly compare the accuracy of different blood tests for vitamin A deficiency, including assessing their benefits and potential harms, to provide clearer guidance for healthcare providers and patients.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition that occurs when the body does not have enough vitamin A (a vitamin important for good health). Without enough vitamin A, children may not grow properly, the body can't fight infections well, people get sick more often, and it can cause eye problems. In severe cases, it can be fatal for mothers and children.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out how accurate certain blood tests are at diagnosing vitamin A deficiency in people who are at risk, especially when the deficiency is not yet causing obvious symptoms. They also explored the sources of heterogeneity that might affect the accuracy of these tests.\n\nHow did we search for studies?\nWe conducted a systematic search of electronic databases for studies evaluating vitamin A deficiency tests, using predefined keywords and inclusion criteria.\n\nHow did we combine the study data?\nWhen studies were similar enough, we combined their results to get a more reliable overall picture of the tests' accuracy.\n\nHow confident are we in the evidence?\nThe overall confidence in the evidence was appraised with the GRADE framework, considering risk of bias, consistency, directness, precision, and publication bias.\n\nWhat did we find?\nWe found 40 studies that involved a total of 385 to 1295 participants. The studies were conducted in various countries around the world, without any restriction on age, sex, pregnancy status, breastfeeding status, physiological condition, or living location. Most studies were cross-sectional or cohort-accuracy studies, and some were longitudinal or interventional studies. The studies looked at several common blood tests (like serum retinol) and compared their results to more accurate 'gold standard' tests (like measuring vitamin A directly in the liver). This helps us see how well the common tests perform.\n\nWhat are the limitations of the evidence?\nThe studies were not designed to accurately measure the intervention effect, they had very small sample sizes, and the evidence does not cover all relevant populations or outcomes, limiting confidence in the findings.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 536,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.482758620689655,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 38,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 158,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.60000000000002,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.793275862068967,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.60567035512095,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.055074626865668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.751312403499742,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.52007205352548,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.551724137931035,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.488088481701515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.01474855892949,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 207,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 161,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 536,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 536 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft with excellent readability scores. However, it needs revisions to remove technical jargon that would be unfamiliar to a general audience. Focusing on simplifying the language in the methods and aims sections will make the summary much more accessible.\n\nHere are the top 3 improvements needed:\n\n1. **Explain or remove the term 'heterogeneity'.**\n   - **Problematic text:** \"They also explored the sources of heterogeneity that might affect the accuracy of these tests.\"\n   - **Why it's a problem:** 'Heterogeneity' is a statistical term that is not common knowledge. It creates a barrier to understanding what was being investigated.\n   - **Suggested rewrite:** \"We also looked at why the results might have been different across the studies.\"\n\n2. **Rewrite the 'How confident are we in the evidence?' section to be more descriptive and less technical.**\n   - **Problematic text:** \"The overall confidence in the evidence was appraised with the GRADE framework, considering risk of bias, consistency, directness, precision, and publication bias.\"\n   - **Why it's a problem:** This sentence lists several technical terms (GRADE, risk of bias, precision, etc.) without explaining them, which is not helpful for a lay reader. The goal is to explain *what* you did, not just name the methods.\n   - **Suggested rewrite:** \"We assessed how confident we could be in the results. We looked at how the studies were done, how similar their results were, and if the findings were precise.\"\n\n3. **Simplify the language used to describe the study limitations.**\n   - **Problematic text:** \"The studies were not designed to accurately measure the intervention effect...\"\n   - **Why it's a problem:** The term 'intervention effect' is jargon and unclear in this context. The key issue from the abstract is that these were not diagnostic test accuracy (DTA) studies.\n   - **Suggested rewrite:** \"A major limitation is that none of the studies we found were specifically designed to test the accuracy of these blood tests.\"\n\nAddressing these points will help ensure the entire summary is clear and easy for your target audience to understand.",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms with typical PLS patterns. An impressive 94.4% of metrics fall within the best quartile for readability, including excellent scores for sentence length (18.48 words) and low use of passive voice (5 instances). The only notable deviation is a high noun count (158), which falls in the P90 range. This supports the editorial feedback, as replacing jargon-heavy noun phrases with simpler, verb-based explanations will help improve clarity and bring this metric closer to the typical range."
+    }
+  ]
+}

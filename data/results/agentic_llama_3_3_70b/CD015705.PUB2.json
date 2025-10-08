@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015705.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "How do healthcare workers use their personal mobile phones and other devices to support their work, and what are the benefits and drawbacks of these informal solutions?\n\n- Healthcare workers use personal mobile phones and devices to support their work. This can make them more flexible and efficient, but it also raises concerns about patient confidentiality and distractions.\n- The use of personal devices can replicate existing social hierarchies and deepen inequities among healthcare workers, particularly in low-income settings where access to resources and training may be limited.\n- Future research should focus on understanding how to retain the benefits of informal solutions while reducing their negative effects.\n\nWhat is the problem of healthcare workers using personal mobile devices for work purposes?\nHealthcare workers often use their personal mobile phones or other mobile devices to support their work, especially when their workplace lacks functional formal communication and information systems. This can lead to new challenges, such as the potential for unregulated use, data privacy concerns, and unequal access to resources.\n\nWhat did the review authors want to find out?\nThe review authors aimed to explore the views, experiences, and practices of healthcare workers, managers, and other professionals regarding their informal use of mobile devices to support their work. They wanted to understand how healthcare workers use their personal mobile devices, the benefits and drawbacks of this practice, and how it affects their work and patient care.\n\nWhat did we find?\nWe found 30 studies that were published between 2013 and 2022. The studies were from high-, middle-, and low-income countries and covered a range of healthcare settings and healthcare worker cadres. Most described mobile phone use as opposed to other mobile devices, such as tablets. Healthcare workers use their personal mobile phones and other mobile devices in ways that are not regulated by their workplace to support their work, which can help them be more flexible, efficient, and responsive to patient needs, but also leads to challenges such as replicating existing social hierarchies, deepening inequities, and raising concerns about patient confidentiality and the potential for healthcare workers to be distracted at work.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding and by heterogeneity across studies, including different participant populations and varied methods of delivering the intervention.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 412,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 24.235294117647058,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 118,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 39.11433181039408,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.824386065105653,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.266530553969154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.663106796116498,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.431981724728725,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 58.94403198172473,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 58.9 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.411764705882353,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 12.1104335791443,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.48386670474015,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 190,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 412,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 412 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 1,
+      "P75_count": 11,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:16.189059"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015253.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can autoinflation help children with fluid in their middle ear? \n\n### Key Messages\n- Autoinflation may help improve quality of life and reduce the persistence of otitis media with effusion (OME) in children in the short term, but the evidence is not strong.\n- Autoinflation may cause ear pain in some children, but the evidence for this is also not certain.\n- We need more research to know for sure if autoinflation is effective and safe for children with OME, as the current evidence is of low or very low certainty.\n\n### Introduction to the review topic and review aims\nWhat is otitis media with effusion (OME)? \nOtitis media with effusion (OME) is a condition where fluid builds up in the middle ear. It is common in young children and can cause hearing loss, which may lead to behavioral problems and delays in language skills. \n\nWhat did we want to find out? \nWe wanted to find out if autoinflation, a technique where children use a nasal balloon or other handheld device to provide positive pressure in their nose and nasopharynx, can help clear the fluid from the middle ear and improve symptoms. \n\n### What did we do? \nWe searched for studies that compared autoinflation with no treatment or other treatments for OME in children. We looked at the results of these studies to see if autoinflation was effective and safe.\n\n### What did we find? \nWe found 11 studies with 1036 participants that compared autoinflation with no treatment. Most of the studies were done in Europe or North America and included children aged between 3 and 11 years. The studies found that autoinflation may help improve quality of life and reduce the persistence of OME in the short term, but the evidence is not strong. We also found that autoinflation may cause ear pain in some children, but the evidence for this is also not certain.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because the studies were small and of low quality. This means that we are not sure if the results are accurate and more research is needed to confirm the findings.\n\n### How up to date is this evidence? \nThe evidence is up to date to January 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 404,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.764705882352942,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 97,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 69.42520966802563,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.479720442632502,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.213367792661622,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.624257425742574,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.961327897495634,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.29935934769948,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.117647058823529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.928203230275509,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.243481887012231,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 104,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 45,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 87,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 404,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 404 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 12,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 66.66666666666666,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:37.133756"
+}

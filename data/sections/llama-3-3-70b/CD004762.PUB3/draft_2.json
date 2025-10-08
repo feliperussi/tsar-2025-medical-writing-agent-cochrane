@@ -1,0 +1,162 @@
+{
+  "id": "CD004762.PUB3",
+  "draft": "What are the effects of different medicines on muscle stiffness (myotonia) in people with myotonic disorders?\n\nKey messages:\n- Myotonic disorders, including myotonic dystrophy (a genetic disorder affecting muscle tone and causing muscle wasting) and non-dystrophic myotonia (a condition affecting muscle relaxation), can cause significant disability due to muscle stiffness (myotonia). This review aims to find out what effects different medicines have on this stiffness. We found that mexiletine, a medicine blocking sodium channels (which help control muscle contractions), likely reduces muscle stiffness in people with non-dystrophic myotonia. However, its effectiveness in people with myotonic dystrophy is less clear, with some improvement in hand grip relaxation time but no clear improvement in overall muscle stiffness. Mexiletine may cause unwanted effects like gastrointestinal symptoms, lethargy, and headache.\n- Lamotrigine, another tested medicine, may improve relaxation time and quality of life in people with myotonic disorders. But the evidence is not as strong as for mexiletine, and it also may cause side effects such as headache, fatigue, and rash. Other studied medications showed either little effect or the evidence was too uncertain to draw conclusions, highlighting the need for more research into effective myotonia treatments.\n- Future research should focus on finding better treatments for myotonic disorders, especially for those who do not respond to current therapies. It should also improve clinical trial design to overcome the challenges of studying rare diseases like myotonic dystrophy and non-dystrophic myotonia, which can affect the quality of evidence and the ability to find effective treatments.\n\nWhat is myotonia and why is it a problem?\nMyotonia is a condition characterized by abnormal delayed relaxation of skeletal muscles, leading to stiffness, cramps, locking, pain, and fatigue. It can cause significant disability and morbidity in people with myotonic disorders, such as non-dystrophic myotonia and myotonic dystrophy. Myotonic dystrophy is a more systemic neuromuscular disorder that can also cause progressive myopathy and systemic manifestations like arrhythmias and cataracts. Common myotonia treatments include sodium channel blockers, tricyclic antidepressive drugs, benzodiazepines, calcium antagonists, taurine, and prednisone.\n\nWhat did the review authors want to find out?\nThe review authors aimed to investigate the efficacy and tolerability of drug treatments for people with clinical myotonia due to myotonic disorders. They wanted to review evidence from randomized controlled trials (RCTs) to determine which drug treatments are effective in reducing myotonia and improving quality of life, as well as to assess the potential adverse events associated with these treatments.\n\nWhat did we find?\nThis review includes 17 double-blind or single-blind RCTs involving a total of 392 participants, 219 with myotonic dystrophy type 1 and 173 with non-dystrophic myotonia. The primary outcome was participant-reported improvement in clinical myotonia, and secondary outcomes included relaxation time, electromyographic relaxation time, adverse events, and quality of life. We found that mexiletine probably reduces myotonia in people with non-dystrophic myotonia and may improve quality of life. However, it is unclear if mexiletine has an effect on myotonia in people with myotonic dystrophy. Lamotrigine may improve relaxation time and quality of life in people with non-dystrophic myotonia, but the evidence is not certain. Other medications, such as phenytoin and imipramine, may have little to no effect on myotonia.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding because participants may have known their treatment, and incomplete reporting of all outcomes of interest.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 610,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.03448275862069,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 199,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 32.78893442622953,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.911481062747317,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.721995477671001,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.795409836065573,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 20.348219332956475,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.3 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 60.21481062747315,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.2 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.241379310344827,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 16.41640786499874,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.161752967778407,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 275,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 275.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 182,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 239,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 610,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 610 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 8,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 44.44444444444444,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several issues that need to be addressed to improve its clarity and readability. Firstly, the text contains some technical terms without clear definitions, such as \"myotonia\" and \"myotonic disorders\", which may confuse readers who are not familiar with these conditions. For example, the sentence \"Myotonia is a condition characterized by abnormal delayed relaxation of skeletal muscles, leading to stiffness, cramps, locking, pain, and fatigue.\" could be rephrased to \"Myotonia is a condition where muscles have trouble relaxing, causing stiffness, cramps, and pain.\" Secondly, some sentences are too long and convoluted, making them hard to follow. For instance, the sentence \"The review authors aimed to investigate the efficacy and tolerability of drug treatments for people with clinical myotonia due to myotonic disorders, and to review evidence from randomized controlled trials (RCTs) to determine which drug treatments are effective in reducing myotonia and improving quality of life, as well as to assess the potential adverse events associated with these treatments.\" could be broken up into simpler sentences. Lastly, the text could benefit from more active voice and concise language to improve its overall readability. According to the PLS evaluation results, the text has a high number of complex words, long words, and nominalizations, which contribute to its low readability score. To improve the text, the writer could simplify the language, break up long sentences, and use more active voice.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the text has a low readability score due to a high number of complex words, long words, and nominalizations. The text also has a high number of passive voice constructions, which can make it harder to follow. The results suggest that the writer could improve the text by simplifying the language, breaking up long sentences, and using more active voice."
+    }
+  ]
+}

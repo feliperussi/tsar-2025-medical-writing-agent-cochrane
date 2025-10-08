@@ -1,0 +1,162 @@
+{
+  "id": "CD014909.PUB2",
+  "draft": "Is combining mechanical bowel preparation (a procedure to empty the bowel) with oral antibiotics (medicines taken by mouth to kill bacteria) more effective than using either method alone in reducing complications after elective colorectal surgery (a planned surgery to remove part of the colon or rectum)?\n\nKey messages:\n- We found that combining mechanical bowel preparation with oral antibiotics is probably more effective than using either method alone in reducing complications, such as surgical site infections (infections that occur after surgery) and anastomotic leakages (leaks from the joined parts of the intestine), after elective colorectal surgery.\n- The review did not find enough good-quality evidence to determine whether using oral antibiotics alone is as effective as combining them with mechanical bowel preparation, or whether not using any bowel preparation at all increases the risk of complications.\n- Future research should focus on comparing the combination of mechanical and oral antibiotic bowel preparation with using oral antibiotics alone or no bowel preparation, and should include studies that report on side effects and long-term outcomes to help determine the most effective approach for preventing complications after elective colorectal surgery.\n\nWhat is elective colorectal surgery and what are its complications?\nElective colorectal surgery is a planned operation to remove part of the colon or rectum, often due to cancer or other diseases. This type of surgery can be risky, with serious complications including anastomotic leakages (when the joined parts of the colon or rectum do not heal properly) and surgical site infections (SSIs, when the wound becomes infected). These complications can lead to prolonged recovery, long-term health problems, and even death.\n\nWhy is preoperative bowel preparation used in elective colorectal surgery?\nWe use preoperative bowel preparation to clean the bowel before surgery, which can help reduce the risk of complications. This preparation can involve mechanical methods (such as enemas or laxatives) to remove feces from the bowel, and/or oral antibiotics to reduce bacterial colonization. The goal is to make the surgery safer and more successful.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effectiveness of combined mechanical and oral antibiotic bowel preparation in preventing complications in elective colorectal surgery. We aimed to compare this approach with other methods, such as mechanical bowel preparation alone, oral antibiotics alone, or no bowel preparation, to determine the best way to reduce the risk of surgical site infections, anastomotic leakages, and other complications.\n\nWhat did we find?\nWe found 21 studies that involved 5264 participants who underwent elective colorectal surgery. The studies compared combined mechanical and oral antibiotic bowel preparation with either mechanical bowel preparation alone, oral antibiotics alone, or no bowel preparation. Most included studies investigated both colon and rectal resections due to malignant and benign surgical indications. The included studies used different regimens in terms of agent(s), dosage, and timing for mechanical bowel preparation as well as oral antibiotics.\n\nMain results: Reducing surgical site infections and anastomotic leakage\nThe use of combined mechanical and oral antibiotic bowel preparation probably reduces the risk of surgical site infections and anastomotic leakage compared to mechanical bowel preparation alone. However, it is unclear if this approach has an effect on mortality, postoperative ileus, or length of hospital stay. The evidence suggests that for every 100 people undergoing elective colorectal surgery, the use of combined mechanical and oral antibiotic bowel preparation may prevent 4 to 6 cases of surgical site infections and 2 to 4 cases of anastomotic leakage.\n\nLimitations\nThe evidence is limited because participants may have been aware of their assigned treatment, the studies were very small, and the findings do not encompass all relevant populations, interventions, comparators, or outcomes of interest.\n\nCurrency\nThe evidence is up to date to December 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 638,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 25.52,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.5 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 19,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 16.903673354232012,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 16.9 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 17.241483385579944,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.2 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 16.895407523510976,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.9 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 14.956175548589346,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 22.496401253918496,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.5 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 60.78645768025078,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.8 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 9,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 16.92838827718412,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 9.235039648902822,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 322,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 322.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 196,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 225,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 638,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 638 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 1,
+        "P75_count": 2,
+        "P90_count": 7,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 38.88888888888889,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 11.11111111111111,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several issues that need to be addressed to improve its clarity and readability. Firstly, the text contains some unexplained jargon and technical terms without definitions, such as \"anastomotic leakages\" and \"surgical site infections\", which may confuse readers who are not familiar with medical terminology. Secondly, there are some sentences that are longer than 30 words and are hard to follow, such as the first sentence in the \"What did we find?\" section. Additionally, the text could benefit from more paragraph breaks to create a clearer structure and improve readability. Furthermore, some sentences are written in a passive voice, which can make it difficult to understand who is performing the action, such as the sentence \"The evidence is limited because participants may have been aware of their assigned treatment.\" To address these issues, I suggest rewriting the problematic sentences and phrases to make them clearer and more concise, and using active voice instead of passive voice where possible. For example, the sentence \"The evidence is ...\" could be rewritten as \"We found that the evidence is limited because participants may have known which treatment they were receiving.\" The PLS evaluation results show that the draft text has a high number of passive voice constructions, complex words, and long words, which contribute to its low readability score. Overall, while the draft text provides a good overview of the topic, it needs to be revised to improve its clarity, readability, and conformity to typical PLS patterns.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the draft text has a high number of passive voice constructions, complex words, and long words, which contribute to its low readability score. The text also has a high automated readability index, Coleman-Liau index, and Gunning-Fog index, indicating that it may be difficult for readers to understand. Additionally, the text has a low Flesch reading ease score, which suggests that it may be written at a level that is too complex for some readers. Overall, the draft text needs to be revised to improve its clarity, readability, and conformity to typical PLS patterns."
+    }
+  ]
+}

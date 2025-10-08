@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013331.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does a gentle electric pad (transcutaneous electrical nerve stimulation, TENS) reduce period pain in women?\n\nKey messages –\n- TENS (a gentle electric pad that sends mild currents to the skin) may lower period pain compared with a dummy treatment or no treatment, but the evidence is limited and uncertain; no studies reported side‑effects, so we do not know whether TENS causes unwanted effects.\n- It is unclear whether one type of TENS works better than another. High‑frequency TENS delivers rapid pulses, low‑frequency TENS delivers slower pulses. Comparisons with common pain‑relief methods such as medication or acupressure also remain uncertain.\n- Future research should include well‑designed trials that look at pain relief, need for extra pain medication, impact on daily activities, quality of life and any possible adverse effects.\n\nWhat is primary dysmenorrhoea and why is it a problem?\nPrimary dysmenorrhoea (period pain or menstrual cramps) is painful cramping that many women feel during their periods. It is called “primary” because the pain is not caused by any other pelvic disease – it comes from the normal hormonal changes that make the uterus contract. The pain can be severe enough to stop women from working, studying or enjoying daily life, and it can lower quality of life. Most women use medicines such as non‑steroidal anti‑inflammatory drugs (NSAIDs) or acetaminophen, but some cannot take these drugs because of side‑effects or personal preference. This has led researchers to look for non‑drug alternatives.\n\nWhat is transcutaneous electrical nerve stimulation (TENS) and how might it help?\nTENS is a small device that sends gentle electrical currents through electrodes placed on the skin over the painful area. The currents can be delivered at a high frequency (many rapid pulses) or a low frequency (fewer, slower pulses). TENS is thought to relieve pain by blocking pain signals from reaching the brain, by prompting the body to release its own natural pain‑killers (endogenous opioids), and by reducing muscle strain in the uterus. Because it does not involve medication, TENS could be an attractive option for women who want a drug‑free way to manage menstrual cramps.\n\nWhat did the review aim to find out?\nWe wanted to know whether high‑frequency or low‑frequency TENS is effective and safe for relieving pain from primary dysmenorrhoea. We compared TENS with placebo or no treatment and with other common treatments such as acetaminophen, NSAIDs, acupressure or interferential current therapy (another type of electrical therapy).\n\nHow did we find the evidence?\nWe searched several databases, trial registers and reference lists for randomised controlled trials that compared high‑ or low‑frequency TENS with placebo, no treatment or other therapies in women with primary dysmenorrhoea. We combined the results and rated our confidence in the evidence.\n\nWhat did we find?\nWe identified 20 trials that included 585 women aged 12 to 49 years. High‑frequency TENS may reduce menstrual pain a little compared with no treatment or placebo. Low‑frequency TENS may also reduce pain compared with no treatment or placebo. We could not tell whether high‑frequency TENS works better than low‑frequency TENS, or whether either type works better than other treatments such as acetaminophen, NSAIDs or acupressure. Reported side‑effects were rare and no serious adverse events were identified.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because participants often knew which treatment they received, and not all trials reported every outcome we were interested in.\n\nHow current is the evidence?\nWe updated our previous review and included all studies up to April 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 596,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 60,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.92055788590608,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.08650167785235,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.065335570469799,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.303959731543625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.436577181208055,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.47063758389262,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.255695973154363,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 239,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 119,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 119.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 596,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 596 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:54.199006"
+}

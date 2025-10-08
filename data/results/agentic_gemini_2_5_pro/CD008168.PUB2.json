@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "For newborn babies with jaundice, is light therapy (phototherapy) given with breaks as effective as light therapy given continuously?\n\nKEY MESSAGES\n- For newborn babies with jaundice, giving light therapy with breaks may be as effective as continuous therapy at lowering bilirubin levels. We found very little evidence about serious unwanted effects, such as brain damage.\n- For babies born early (preterm infants), continuous light therapy may be more effective at lowering bilirubin levels. However, giving light therapy with breaks reduces the total number of hours the baby receives treatment.\n- Larger, well-designed studies are needed for both term and preterm babies to be certain that giving light therapy with breaks is as safe and effective as giving it continuously.\n\nWhat is jaundice in newborn babies and how is it treated?\nJaundice is a common condition in newborn babies that causes their skin and the whites of their eyes to turn yellow. It is caused by a build-up of a substance in the blood called bilirubin. While usually harmless, very high levels of bilirubin can lead to serious complications, including a type of brain damage known as bilirubin-induced brain dysfunction. To treat jaundice, doctors most commonly use phototherapy, placing the baby under special lights. This light helps the baby's body break down the bilirubin. Traditionally, doctors give this light therapy continuously, without breaks. An alternative approach is intermittent phototherapy, where doctors give the treatment with breaks. This could offer practical advantages, such as allowing more time for feeding and for the mother and baby to bond.\n\nWhat did we want to find out?\nWe wanted to compare intermittent phototherapy with continuous phototherapy to see which is safer and more effective for treating jaundice in newborn babies.\n\nHow did we conduct this review?\nWe searched for studies that compared giving phototherapy with breaks (intermittent) to giving it without breaks (continuous) for babies with jaundice. We then combined and summarized the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nThe review included 12 randomised controlled trials that involved a total of 1600 newborn infants with jaundice. The studies included both term and preterm infants up to 30 days of age and compared intermittent phototherapy against continuous phototherapy. Compared to continuous phototherapy, intermittent phototherapy may make little to no difference in the rate at which bilirubin levels fall. It also may make little to no difference in the number of infant deaths. We do not know if intermittent phototherapy has an effect on bilirubin-induced brain dysfunction, because the evidence is very uncertain. Similarly, intermittent phototherapy may have little to no effect on treatment failure, but we are very uncertain about this result.\n\nWhat are the limitations of the evidence?\nWe have low confidence in the evidence for a few reasons. There were not enough studies to be certain about the results. The included studies were small and used different treatment methods, which makes the findings less certain. Also, the people in the studies may have been aware of which treatment was given, which could have biased the results.\n\nHow up to date is this evidence?\nThe evidence is up to date to January 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 546,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.058823529411764,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.46496444731744,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.209937513466926,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.183917259211377,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.799853479853478,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.822796811032106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.72915319974143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.764705882352941,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.464722775263952,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 546,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 546 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:30.200650"
+}

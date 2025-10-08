@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "Does the antiviral drug favipiravir (an oral medication) improve recovery or reduce serious illness in people with COVID‑19?\n\nWhat are the key messages?  \n– We do not know whether favipiravir (an oral antiviral medicine) improves recovery or reduces serious illness such as death or the need for a breathing machine (mechanical ventilation). The available studies give uncertain evidence, and the drug may cause more mild side‑effects, while serious side‑effects appear similar to other treatments.  \n– Most research involved adults with mild‑to‑moderate disease who were already in hospital, and favipiravir was usually given at a high dose for several days.  \n– Because the evidence is limited and uncertain, we need more well‑designed randomised trials (studies where participants are randomly assigned to treatments) that enrol larger numbers, include people with different disease severity, and report benefits and harms over longer periods.\n\nWhy is COVID‑19 a global health challenge and what treatments are being explored?  \nCOVID‑19 is caused by the coronavirus SARS‑CoV‑2. Since it first appeared, it has spread worldwide, leading to many hospitalisations, deaths and pressure on health services. Most people develop mild or moderate symptoms, but some become seriously ill and need extra oxygen or a ventilator. Doctors have tried several medicines, such as steroids, the antiviral remdesivir, and supportive care (oxygen, fluids, rest). Favipiravir is a pill originally developed for flu that might stop the coronavirus from multiplying, but it was unclear whether it really helps people with COVID‑19 and whether it is safe.\n\nWhat did the researchers aim to discover about favipiravir?  \nWe wanted to find out whether giving favipiravir to people with acute COVID‑19 changes important outcomes compared with no treatment, usual supportive care, or other experimental antivirals. Specifically, we looked at death, the need for a ventilator, hospital admission, the time it takes to recover, and whether the drug causes any side‑effects.\n\nHow did we find and assess the evidence?  \nWe searched the Cochrane COVID‑19 Study Register, MEDLINE, Embase, the WHO COVID‑19 Global literature database and three other sources up to 18 July 2023. We selected randomised controlled trials that compared favipiravir with no treatment, standard care or another antiviral. We combined the results and used the GRADE system (a method for judging how confident we can be in the results) to rate our confidence in each outcome.\n\nWhat did we find?  \nWe identified 25 trials that randomised 5 750 adults. Most participants were younger than 60 years and 89 % were hospitalised with mild‑to‑moderate COVID‑19. The trials were carried out in countries across the world, such as Bahrain, Brazil, China, India, Iran, and the United Kingdom, among others. In 22 trials favipiravir was compared with a placebo or standard care; two trials used lopinavir/ritonavir and one used umifenovir as the comparator. Most trials started favipiravir with a loading dose of 1 600 mg or 1 800 mg twice daily on day 1, followed by 600–800 mg twice daily for 5–14 days.\n\nWhat do the results say about mortality and other outcomes?  \nWe do not have evidence that favipiravir reduces death or the need for a breathing machine. Favipiravir probably makes little or no difference to whether people are admitted to hospital, need extra oxygen, or recover faster. The drug may cause more mild side‑effects, but serious side‑effects are about the same as with other treatments.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because many studies were small and participants may have known which treatment they received.\n\nHow up‑to‑date is this review?  \nThe evidence we summarised is current up to July 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 622,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.4375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 35,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 53.8133329983923,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.582264871382641,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.99866961414791,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.780000000000001,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.006511254019294,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.73331993569132,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.816653826391969,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.879003536977493,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 233,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 128,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 128.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 622,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 622 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft meets all critical checks (all required sections are present, subheadings are phrased as questions, numbers and findings match the source, and the word count is 622 < 850). A few clarity tweaks will make the summary easier for patients:\n1. **Jargon without definition** – terms like “randomised”, “placebo” and “standard care” appear without lay explanations. Rewrite e.g. “randomised (participants were randomly assigned to a treatment group)”, “placebo (a pill with no active drug)”, “standard care (the usual treatment doctors give)”.\n2. **Wordy phrasing** – the sentence “The available studies give uncertain evidence, and the drug may cause more mild side‑effects, while serious side‑effects appear similar to other treatments.” can be tightened to “The studies provide uncertain evidence; the drug may cause more mild side‑effects, but serious side‑effects are similar to other treatments.”\n3. **Long sentence in the key message** – the 28‑word count sentence about improving recovery can be split for readability: “We do not know whether favipiravir (an oral antiviral medicine) improves recovery. We also do not know if it reduces serious illness such as death or the need for a breathing machine (mechanical ventilation).”\n4. **Passive construction** – “The evidence we summarised is current up to July 2023.” can be made active: “We summarised evidence up to July 2023.”\nThese edits address the modest issues highlighted by the metrics (smog_index 13.8, complex_words 128, long_words 176) and will further improve readability without altering the factual content. Overall the PLS conforms well to typical patterns (77.8% of features in the best quartile) and is ready for publication.",
+      "pls_evaluation_summary": "The draft scores well on most metrics (e.g., words_per_sentence 19.44, Flesch Reading Ease 53.8, active_voice 56). Four metrics deviate: smog_index, complex_words_dc, complex_words, and long_words are higher than typical PLS values, indicating room to simplify vocabulary and reduce long words. All other checks pass, and the text is within the 850‑word limit."
+    }
+  ]
+}

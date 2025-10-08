@@ -1,0 +1,162 @@
+{
+  "id": "CD011344.PUB3",
+  "draft": "assistantfinalIs a programmed dose given at set times (automated mandatory bolus) better than a steady drip (continuous infusion) for epidural pain relief (pain relief through a tube placed in the back) during labour?\n\nWhat are the key messages?  \n- Using an automated mandatory bolus (AMB) – a programmed dose given at set times – reduces breakthrough pain (pain that needs extra medication or doctor help) and lowers the amount of local anaesthetic (the pain‑relieving drug) used.  \n- AMB may increase mothers’ satisfaction with their pain relief.  \n- AMB does not change the rates of Caesarean delivery (surgical birth), instrumental delivery (birth using forceps or vacuum), the overall length of labour analgesia, or newborn Apgar scores (a quick health check after birth). The evidence is of moderate certainty, meaning the findings are fairly reliable but could change with new research.\n\nWhat is epidural analgesia and how is it given during labour?  \nDuring labour many women feel strong pain in the abdomen, pelvis and perineum. An epidural relieves this pain by injecting medicines into the epidural space (a small area just outside the spinal cord). We usually combine a local anaesthetic (a drug that blocks pain signals) with an opioid (a pain‑relieving drug). Once the epidural catheter is in place, we can deliver the medication in two ways:  \n- **Basal infusion (BI):** a continuous, steady flow of medicine around the clock.  \n- **Automated mandatory bolus (AMB):** a set dose is automatically given at regular intervals (for example, every 30 minutes). Women can also give themselves extra doses when needed – this is called patient‑controlled epidural analgesia (PCEA).  \n\nWhat did the review aim to find out?  \nWe compared AMB with BI in women at term. Specifically we asked whether AMB:  \n- Reduces the number of women who experience breakthrough pain needing an anaesthetist’s help;  \n- Affects the rates of Caesarean delivery or instrumental delivery;  \n- Changes the total amount of local anaesthetic used, the length of labour, maternal satisfaction after birth, or newborn Apgar scores.  \n\nHow did we find the evidence?  \nWe searched major databases (CENTRAL, Cochrane Library, MEDLINE, Embase, Web of Science, WHO‑ICTRP, ClinicalTrials.gov) up to 31 December 2022. We also screened reference lists and contacted study authors for unpublished data. Two reviewers independently selected randomised trials, extracted data and assessed risk of bias. We combined results in meta‑analyses and rated confidence using the GRADE approach.  \n\nWhat did we find?  \nWe identified 18 randomised trials that enrolled 4 590 healthy women at term. Thirteen trials included only first‑time mothers (nulliparous) and five included both first‑time and experienced mothers. The trials started epidurals in different ways: seven used a combined spinal‑epidural (a small dose into the spinal fluid before the epidural), ten used a standard epidural, and one used a dural puncture epidural (the needle goes a little deeper). Different drug mixes were used, such as ropivacaine‑fentanyl, ropivacaine‑sufentanil, levobupivacaine‑fentanyl, levobupivacaine‑sufentanil and bupivacaine‑fentanyl.  \n\nOur analysis shows that AMB probably reduces breakthrough pain – about 30 fewer women per 1 000 compared with BI – and probably lowers local anaesthetic use by roughly 0.8 mg per hour. AMB probably makes little or no difference to Caesarean delivery, instrumental delivery, or the overall duration of labour analgesia. Narrative data suggest AMB may increase maternal satisfaction, and all studies reported no difference in newborn Apgar scores.  \n\nWhat are the limitations of the evidence?  \nWe are moderately confident in these results. Some trials were not blinded, so participants and clinicians knew which method was used. Not all trials reported every outcome we wanted. The studies varied in participant characteristics and delivery techniques, adding uncertainty.  \n\nHow up‑to‑date is this review?  \nWe searched the literature up to December 2022, so the evidence reflects studies published up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 639,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 36,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 24,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 57,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 183,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.34832746478875,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.925301251956181,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.845140845070421,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.4969014084507,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.550704225352113,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.60602503912364,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.944444444444445,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.445523142259598,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.145282629107982,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 294,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 294.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 135,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 135.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 639,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 639 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft passes the required structural checks, but several clarity problems would likely confuse a lay reader:\n1. **Over‑long bullet point** – \"AMB does not change the rates of Caesarean delivery (surgical birth), instrumental delivery (birth using forceps or vacuum), the overall length of labour analgesia, or newborn Apgar scores (a quick health check after birth). The evidence is of moderate certainty, meaning the findings are fairly reliable but could change with new research.\" This sentence packs four separate ideas and exceeds 30 words, making it hard to follow. *Rewrite*: \"AMB does not change the rates of Caesarean delivery (surgical birth) or instrumental delivery (birth using forceps or vacuum). It also does not affect how long labour analgesia lasts or the newborn’s Apgar scores. The evidence is of moderate certainty, meaning the findings are fairly reliable but could change with new research.\"\n2. **Unexplained technical term** – \"We combined results in meta‑analyses\" (Methods section). Readers may not know what a meta‑analysis is. *Rewrite*: \"We pooled the results from the individual studies together (a technique called a meta‑analysis) to see the overall effect.\"\n3. **Ambiguous certainty wording** – \"We are moderately confident in these results\" (Limitations). The phrase \"moderately confident\" is vague for patients. *Rewrite*: \"We have moderate certainty in these results, meaning we are reasonably sure of the findings but further research could change them.\"\n4. **Passive voice that hides the actor** – \"The evidence is of moderate certainty\" (Limitations). Passive phrasing can obscure who assessed the certainty. *Rewrite*: \"We judged the evidence to be of moderate certainty.\"\n5. **Jargon without lay definition** – The term \"nulliparous\" appears in the Results paragraph. Although the earlier sentence defines it, many readers may still be unfamiliar. *Rewrite*: \"Thirteen trials included only first‑time mothers (nulliparous) and five included both first‑time and experienced mothers. (Nulliparous means a woman who has not given birth before.)\"\nThese issues reduce readability despite the draft’s good metric scores. Addressing them will bring the summary in line with Cochrane plain‑language standards.\n\n**Metric support**: The evaluation shows 24 passive‑voice constructions (well above the typical range) and high counts of complex (135) and long (178) words, confirming the need to simplify language and use more active voice.",
+      "pls_evaluation_summary": "Word count 639 (within 850). Readability scores are good (Flesch‑Reading‑Ease 48.35, FK grade 10.9). However, the draft deviates on several metrics: passive_voice 24 (BEYOND_P90), nouns 183 (P90), smog_index 14.45 (P90), complex_words 135 (P90), complex_words_dc 294 (BEYOND_P90), long_words 178 (P90). These indicate excess passive constructions and high lexical complexity, supporting the suggested clarity improvements."
+    }
+  ]
+}

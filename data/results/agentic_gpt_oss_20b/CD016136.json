@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016136",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is giving iron through a vein (intravenous iron) safer and more effective than taking iron pills (oral iron) for treating iron‑deficiency anaemia during pregnancy?\n\nKey messages\n– Intravenous iron probably raises haemoglobin (the protein that carries oxygen) a little and reduces the chance of anaemia during pregnancy compared with oral iron.  \n– It does not appear to change the risk of heavy bleeding after birth, the need for a blood transfusion, or breastfeeding rates, and serious side‑effects were not clearly increased, although safety evidence is limited.  \n– Important outcomes such as how mothers feel about the treatment and detailed safety data were rarely reported; larger, well‑designed studies are needed.\n\nWhy is iron‑deficiency anaemia in pregnancy a concern?  \nDuring pregnancy many women develop iron‑deficiency anaemia (IDA), a condition where the blood lacks enough iron to make healthy red blood cells. We measure IDA by a low haemoglobin (Hb) level; the World Health Organization defines anaemia as Hb < 11 g/dL. Low iron can make a mother feel tired, weak, and short‑of‑breath, and it can increase the risk of complications around birth, such as heavy bleeding after delivery (post‑partum haemorrhage) and the need for a blood transfusion.\n\nWhat treatments are used for iron‑deficiency anaemia in pregnancy?  \nThe most common treatment is oral iron tablets (for example, ferrous sulfate). Some women do not absorb enough iron from pills or experience stomach upset. In recent years doctors have started giving iron directly into a vein – called intravenous (IV) iron – using medicines such as iron sucrose, ferric carboxymaltose, ferric derisomaltose, or ferumoxytol. IV iron raises iron levels more quickly, but it costs more and requires a clinic visit.\n\nWhat did the review aim to find out?  \nWe wanted to compare IV iron with oral iron to see which works better and is safer for pregnant women with IDA. We looked at effects on haemoglobin, the presence of anaemia before and after birth, the risk of heavy bleeding after delivery, the need for blood transfusion, and any side‑effects or serious health problems for the mother.\n\nHow did we find and evaluate the studies?  \nWe searched four major databases and two trial registries for randomised trials that compared IV and oral iron in pregnant women with Hb < 11 g/dL. Two reviewers independently screened studies, assessed risk of bias, extracted data, pooled the results using standard Cochrane methods, and rated our confidence with the GRADE approach.\n\nWhat did we find?  \nWe identified 13 trials that enrolled 3,939 pregnant women with haemoglobin < 11 g/dL. The women were 13–37 weeks pregnant, mostly in India or Africa. The studies compared intravenous iron (iron sucrose, ferric carboxymaltose, ferric derisomaltose, ferumoxytol) with oral iron tablets (ferrous sulfate, ferrous fumarate, ferrous gluconate).\n\n– IV iron probably increases haemoglobin by about 0.5 g/dL three to six weeks after treatment starts and probably reduces the proportion of women who are anaemic at that time.  \n– Around the time of birth, IV iron probably raises haemoglobin by about 0.5 g/dL and probably lowers the risk of anaemia.  \n– After delivery, IV iron might raise haemoglobin a little and may lower anaemia, but the evidence is uncertain.  \n– IV and oral iron showed little or no difference in post‑partum haemorrhage, the need for blood transfusion, breastfeeding rates, maternal mortality, severe infections, prolonged hospital stay, intensive‑care admission, or other adverse events.  \n– No trial reported on maternal satisfaction or well‑being.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in these findings. Many trials were small, and participants often knew which treatment they received, which could bias results. Not all studies reported every outcome we were interested in, and the trials used different iron formulations and settings. Safety data, especially for rare but serious harms, remain limited.\n\nWhat are the implications for future research?  \nWe need larger, well‑designed trials that follow women through pregnancy and after birth. Future studies should standardise outcome definitions, report maternal satisfaction and detailed safety information, and capture rare serious harms such as maternal death or intensive‑care admission.\n\nHow up to date is this review?  \nWe searched the literature up to 19 March 2024, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 733,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.558823529411764,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 220,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 50.14679138913414,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.620669689431029,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.331553647379828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.269686221009547,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.6453575154482,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.02539924564641,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.705882352941177,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.445523142259598,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.898007960837814,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 317,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 317.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 194,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 733,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 733 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:04.940872"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab is likely better than placebo at preventing Crohn's disease relapse, but we need more research to understand its impact on other important outcomes.\n- Infliximab may be as effective as a biosimilar in preventing clinical relapse, but may lead to more loss of clinical response, and there is not enough good-quality evidence to compare it to other treatments like adalimumab.\n- Future research should focus on comparing infliximab to other active treatments for maintaining remission in Crohn's disease.\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to an abnormal immune response, genetics, and environmental factors.\n\nWhat did the review authors want to find out about infliximab for Crohn's disease?\nThe review authors wanted to determine the efficacy and safety of infliximab, a monoclonal antibody that binds and neutralizes tumor necrosis factor-alpha (TNF-α), for maintaining remission in patients with Crohn's disease. They aimed to find out whether infliximab is effective in preventing clinical relapse, loss of clinical response, endoscopic relapse, and withdrawal due to adverse events, compared to placebo or other active comparators.\n\nWhat did we find?\nWe found 9 studies that involved 1257 people with Crohn's disease. The studies were conducted between 1999 and 2022, with 7 studies including biologically-naive patients and 2 including a mix of naive and non-naive patients. Infliximab is probably more effective in preventing clinical relapse than placebo. Infliximab in combination with purine analogues is probably more effective in preventing clinical and endoscopic relapse than purine analogues alone.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, many were unblinded, and not all studies reported all outcomes of interest. Additionally, the studies involved heterogeneous populations and varied delivery methods for the intervention, and the evidence does not encompass all relevant people, interventions, comparators, or outcomes.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 397,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 18,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.055555555555557,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 33,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 17,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 106,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 40.181104813881916,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.134084802686825,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.147777777777783,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.25793450881612,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.502322977889733,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.5 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 57.57192835152533,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.833333333333333,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.5770034144976215,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 163,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 106,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 141,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 397,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 397 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 9,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 50,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft text shows good conformity with typical PLS patterns, with most metrics within the expected ranges. The gunning_fog_index is slightly high, but overall, the text is clear and well-structured. Minor revisions to simplify some sentences and reduce passive voice could further enhance readability."
+    }
+  ]
+}

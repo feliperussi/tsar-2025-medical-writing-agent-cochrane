@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Does adding breast ultrasound (ultrasonography) to mammogram screening detect more breast cancers than mammogram alone in women with average risk?\n\nKey messages\n- Adding breast ultrasound (sound waves that create pictures of the breast) to mammogram screening (an X‑ray picture of the breast) finds about two extra cancers per 1,000 women screened. However, it also leads to more false‑positive results (tests that suggest cancer when none is present) and more biopsies (small tissue samples taken to check for cancer).\n- The extra cancers are most often found in women with dense breast tissue (breast tissue that looks white on a mammogram and can hide cancer). Evidence for women with less dense breasts is less clear.\n- More high‑quality, long‑term research is needed to see whether finding these extra cancers reduces death from breast cancer and to better balance the benefits and harms.\n\nWhy is breast cancer screening important and what are the current methods?\nWe screen for breast cancer because early‑stage tumours are easier to treat and give a better chance of cure. The most common test is mammography, an X‑ray image that can show lumps or other changes. Some women have dense breast tissue, which appears white on an X‑ray and can hide cancers, making mammograms less sensitive. To improve detection, doctors sometimes add breast ultrasonography, a painless scan that uses sound waves to create pictures of the breast. Ultrasound can find cancers that mammography might miss, but it also produces more false‑positive results and can lead to extra biopsies.\n\nWhat did the review aim to find out?\nWe wanted to compare two screening strategies for women at average risk of breast cancer: (1) mammography alone and (2) mammography combined with breast ultrasonography. We asked whether adding ultrasound increases the number of cancers detected, changes the type or stage of cancers found, reduces interval cancers (cancers that develop between scheduled screens), and how it affects harms such as false‑positive results and biopsies. We also looked for any evidence that the combined approach influences breast‑cancer‑related or overall death rates.\n\nHow did we find the evidence?\nWe searched several databases for studies that compared mammography alone with mammography plus ultrasound in women aged 40‑75 who were at average risk. We combined the results of the studies using a statistical method that accounts for differences between them (called a random‑effects meta‑analysis). We judged our confidence in the evidence with the GRADE approach.\n\nWhat did we find?\nWe identified eight studies – one randomised trial, two prospective cohort studies and five retrospective cohort studies – that together enrolled 209,207 women aged 40‑75. Follow‑up ranged from one to three years. No study reported breast‑cancer‑specific or overall death rates.\nAdding ultrasound to mammography detected about two extra cancers for every 1,000 women screened. It also lowered the proportion of cancers with positive lymph nodes (a sign that the cancer may have spread) from roughly one in three to one in six, and it halved interval cancers (from ten to five per 10,000 screened). False‑negative results (missed cancers) fell from about 23 % with mammography alone to about 9 % with ultrasound added. However, false‑positive results increased by about 37 per 1,000 women without cancer, and biopsies rose by roughly 27 per 1,000 screened.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence because the studies did not randomly assign women to the screening methods. This means differences between groups could be due to other factors. Some studies had small numbers or limited data, and none examined whether the extra cancers found lead to lower mortality.\n\nHow current is the evidence?\nOur search was last updated in May 2021, so the evidence reflects studies published up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 633,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.78125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 20,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 68,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 184,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 59.65655731635073,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.852649585308058,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.50015106635071,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.217946287519744,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.168424170616115,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.6374901263823,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.3125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.433981132056603,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.5416081358609794,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 263,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 263.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 99,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 170,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 633,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 633 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical style checks: (1) Subheadings are not all phrased as questions – e.g., \"Why is breast cancer screening important and what are the current methods?\" should end with a question mark and be written as a clear question. (2) The required \"How current is the evidence?\" subheading is missing before the paragraph about the May 2021 search date. These omissions breach the Master Style Guide and prevent approval. Additionally, the text contains several readability issues that could confuse readers: \n- **Passive voice overload** – the evaluation shows 20 passive constructions (well above the typical P90 range). Example: \"No study reported breast‑cancer‑specific or all‑cause mortality outcomes.\" Rewrite actively: \"The studies did not report breast‑cancer‑specific or all‑cause mortality outcomes.\"\n- **Long, dense sentences** – some sentences exceed 30 words and are noun‑heavy, making them hard to follow. Example: \"We identified eight studies – one randomised trial, two prospective cohort studies and five retrospective cohort studies – that together enrolled 209,207 women aged 40‑75.\" Rewrite as two shorter sentences: \"We identified eight studies. They included one randomised trial, two prospective cohort studies and five retrospective cohort studies, enrolling a total of 209,207 women aged 40‑75.\"\n- **High noun density** – 184 nouns (above the typical median) and 263 Dale‑Chall complex words make the text heavy. Replace noun‑heavy phrases with verbs where possible, e.g., change \"The extra cancers are most often found in women with dense breast tissue\" to \"We most often find the extra cancers in women with dense breast tissue.\"\nThese clarity and style issues, together with the missing/incorrect subheadings, mean the PLS does not meet the required standards.\n\n**Suggested top‑level revisions**:\n1. Change all section headings to questions and add the missing \"How current is the evidence?\" heading.\n2. Reduce passive voice to below the typical median (aim for <13 passive constructions).\n3. Shorten long sentences and split complex ideas into separate sentences.\n4. Replace noun‑heavy constructions with active verbs to lower noun count and complex‑word count.\n5. Ensure bullet points use dashes and maintain blank lines between headings and paragraphs.\nThese changes will bring the draft into compliance with the Master Style Guide and improve readability for patients.",
+      "pls_evaluation_summary": "The draft conforms well to most PLS patterns (66.7% in best quartile). Readability scores are strong (Flesch‑Reading‑Ease 59.66, FKGL 9.85). However, four metrics deviate: passive_voice (20, above P90), nouns (184, above P90), complex_words_dc (263, above P90) and long_words (170, above P90). These indicate excessive passive constructions, noun density, and complex/long words, supporting the suggested style improvements."
+    }
+  ]
+}

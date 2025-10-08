@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013474.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is continued treatment after initial therapy (maintenance therapy – treatment that is given to help keep cancer from coming back after it has disappeared following the initial therapy) beneficial for people with chronic lymphocytic leukaemia (CLL)?\n\nKey messages\n- Maintenance therapy can lengthen the time before the disease gets worse (progression‑free survival – the length of time during and after treatment that a patient lives without the cancer getting worse), but it does not appear to increase overall survival (overall survival – how long people live after treatment) and it raises the chance of serious side‑effects (grade 3/4 adverse events – severe or life‑threatening side‑effects) and of any side‑effects overall.  \n- The evidence comes mainly from studies of anti‑CD20 antibodies (anti‑CD20 – a treatment that uses antibodies designed to attach to the CD20 protein on certain white‑blood cells, helping the immune system destroy them) and the drug lenalidomide (lenalidomide – a medicine that modifies the immune system and has anti‑cancer effects). The quality of this evidence is moderate to low, and no trials of newer targeted pills were found, leaving uncertainty about the true balance of benefits and harms.  \n- Future research should test newer agents in well‑designed, longer‑term trials to see whether maintenance can improve overall survival, clarify long‑term safety, and identify which patients benefit most.\n\nWhat is chronic lymphocytic leukaemia and why does it need ongoing treatment?  \nCLL is the most common blood‑cancer in adults. It starts when B‑lymphocytes (a type of white‑blood cell) grow out of control. Treatment can make the disease undetectable for a while (remission), but CLL is still considered incurable. The cancer usually returns, and each new round of treatment tends to keep the disease under control for a shorter time than the previous one. Because the disease keeps coming back, doctors look for ways to keep patients in remission as long as possible.\n\nWhat is maintenance therapy and what kinds are used for CLL?  \nMaintenance therapy is a low‑intensity treatment given after a patient has achieved remission, with the goal of prolonging the time the disease stays under control. The main types used in CLL are:  \n- Anti‑CD20 monoclonal antibodies (e.g., rituximab, ofatumumab). These are laboratory‑made proteins that recognise CD20 on B‑cells and help the immune system destroy them.  \n- Immunomodulatory drugs such as lenalidomide, which modify the immune system to attack cancer cells.  \n- Anti‑CD52 monoclonal antibodies (e.g., alemtuzumab) that target CD52 on many immune cells.  \n- Targeted small‑molecule inhibitors (e.g., Bruton tyrosine‑kinase inhibitors, B‑cell lymphoma‑2 inhibitors). These are pills that block specific signals cancer cells need to survive, but no trials of these drugs as maintenance were found in the review.  \n\nPatients who have finished their initial therapy can either be watched closely (observation) or start one of these maintenance options. Many clinicians use maintenance drugs, but it remains unclear how much they help and what side‑effects they cause.\n\nWhat did the review aim to find out?  \nWe compared maintenance treatments with observation or placebo in people with CLL who were in remission. We wanted to know whether these drugs:  \n- Extend overall survival and progression‑free survival.  \n- Improve or worsen health‑related quality of life (how someone feels and functions day to day).  \n- Increase grade 3/4 adverse events and overall adverse events.  \n- Increase treatment‑related mortality (deaths caused by the treatment itself) or lead to treatment discontinuation (stopping the drug early because of side‑effects or other reasons).  \n\nWhat did we find?  \nWe identified eleven randomised controlled trials that enrolled 2,393 participants with CLL. Participants were aged 54–72 years, 60 % were male, and disease severity varied. The interventions evaluated were:  \n- Anti‑CD20 antibody maintenance (rituximab or ofatumumab) versus observation (seven trials, 1,679 participants).  \n- Lenalidomide maintenance versus placebo or observation (three trials, 693 participants).  \n- Alemtuzumab maintenance versus observation (one small trial, 21 participants).  \n\nNo randomised trials were found for newer small‑molecule maintenance agents such as Bruton tyrosine‑kinase inhibitors or B‑cell lymphoma‑2 inhibitors.\n\nMain results  \nAnti‑CD20 antibody maintenance probably makes little or no difference to overall survival and probably increases progression‑free survival. It may raise grade 3/4 adverse events slightly, may increase all adverse events slightly, and probably does not change health‑related quality of life‑threatening side‑effects or treatment discontinuation.  \n\nLenalidomide maintenance probably makes little or no difference to overall survival and probably causes a large increase in progression‑free survival. It may increase grade 3/4 adverse events, may raise treatment‑related mortality slightly, and probably increases all adverse events slightly; the effect on treatment discontinuation is uncertain.  \n\nAlemtuzumab maintenance shows very uncertain effects on progression‑free survival, with no clear evidence of benefit or harm.  \n\nHow confident are we in the evidence?  \nWe are moderately confident because some studies may have been unblinded, not all outcomes were reported, participants differed across trials, and many trials were small.  \n\nWhat should future research address?  \nWe need well‑designed, longer‑term trials of newer targeted agents to determine whether maintenance can improve overall survival, to clarify long‑term safety, and to identify which patients benefit most.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 858,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.428571428571427,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 27,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 86,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 47,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 47.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 245,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.4811188811189,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.874811854811856,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.175999000999,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.705034965034965,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.44881784881785,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.84815184815185,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.214285714285714,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.114877048604,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.411369030969032,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 402,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 402.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 199,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 261,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 261.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 858,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 858 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 4,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:01.093891"
+}

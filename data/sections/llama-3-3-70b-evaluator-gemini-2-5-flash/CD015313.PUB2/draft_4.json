@@ -1,0 +1,162 @@
+{
+  "id": "CD015313.PUB2",
+  "draft": "Can mucolytics reduce lung infections and improve breathing in children with chronic suppurative lung disease?\n\nWe looked at whether mucolytics (medicines that help break down mucus) can reduce lung infections and improve breathing in children with chronic suppurative lung disease (CSLD), a condition where the lungs are inflamed and produce excess mucus. \n\nWhat is chronic suppurative lung disease?\nChronic suppurative lung disease (CSLD) is a condition that affects the lungs and causes a long-term cough that brings up mucus. It includes several different conditions, such as bronchiectasis (a condition where the airways are damaged) and protracted bacterial bronchitis (PBB, a condition where the airways are infected). \n\nWhy is it important to find new treatments for chronic suppurative lung disease?\nCurrently, there are limited treatment options for CSLD. Researchers are looking for new ways to help manage the condition. One potential treatment is the use of mucolytic agents, which are medicines that help break down mucus in the lungs. \n\nWhat did the review authors want to find out?\nThe review authors wanted to find out if mucolytic agents are effective in reducing exacerbations (worsening of symptoms), improving quality of life, and improving lung function in children with CSLD. \n\nWhat did we find?\nWe found one study that involved 63 children with chronic suppurative lung disease. The study lasted for eight weeks and was conducted in a hospital outpatient setting. The intervention was 3% hypertonic saline (a type of salt solution) nebulised before chest physiotherapy, compared to a control arm of physiotherapy alone. \n\nWhat are the limitations of the evidence?\nThe evidence is limited by potential performance bias because participants may have known their treatment allocation, and by the small sample size of the trial, which reduces precision and generalizability. \n\nIs the evidence up to date?\nThe evidence is up to date to June 2022.\n\nKey messages:\n- Regular use of mucolytics in children with chronic suppurative lung disease may reduce the number of lung infections, but the current evidence is uncertain and based on a single small study with limitations.\n- The study found some improvement in lung function with the use of hypertonic saline, but no data were available on quality of life or the use of mucolytics during exacerbations.\n- Further research is needed, including larger, well-designed studies that investigate different types of mucolytics and their effects on various outcomes, such as quality of life and long-term lung function.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 418,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 20,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.9,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 35,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 134,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 45.56599760765553,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.095928229665073,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.682679425837314,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.324401913875594,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.068133971291868,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.435885167464114,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.8,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.327379053088816,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.722836172248803,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 177,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 91,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 136,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 418,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 418 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 11,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 61.111111111111114,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it isn't ready for publication. There are a few critical factual errors that must be corrected, and some opportunities to make the language clearer for readers.\n\n**Critical Issues to Fix:**\n\n1.  **Missing Methods Section:** The draft is missing a section explaining the methods used in the review. Please add a brief section, like the one in the source material: \"We searched for studies comparing mucolytics with a placebo or no intervention in children with chronic suppurative lung disease, summarized their results, and rated our confidence in the evidence.\"\n2.  **Incorrect Search Date:** The currency statement is inaccurate and incomplete.\n    *   **Your text:** \"The evidence is up to date to June 2022.\"\n    *   **The problem:** The original abstract states that some databases were searched as recently as September 2024. This is a significant error that misrepresents how current the review is.\n    *   **Suggested rewrite:** \"The evidence is up to date to September 2024.\"\n\n**Top 3 Improvements Needed:**\n\n1.  **Clarify the Number of Children in the Study:** The results section is misleading about how many children's data were actually used.\n    *   **Your text:** \"We found one study that involved 63 children with chronic suppurative lung disease.\"\n    *   **The problem:** While 63 children were in the study, the analysis and results were based on only 52. This is an important distinction for readers to understand the strength of the evidence.\n    *   **Suggested rewrite:** \"We found one study that included 63 children, but the results were based on data from only 52 of them.\"\n\n2.  **Be More Specific About the Evidence Limitations:** The description of the study's flaws is too vague and downplays the 'high risk of bias' mentioned in the abstract.\n    *   **Your text:** \"The evidence is limited by potential performance bias because participants may have known their treatment allocation, and by the small sample size of the trial...\"\n    *   **The problem:** This misses several key issues found by the review authors (missing data, reporting bias). It's important to be transparent about why the evidence is considered 'very low-certainty'.\n    *   **Suggested rewrite:** \"We judged the study to have a high risk of bias. This means there were flaws in how the study was done that could make the results unreliable. For example, people in the study likely knew which treatment they were getting, some data was missing, and there were issues with how the results were reported.\"\n\n3.  **Use More Direct Verbs Instead of Nouns:** The text often uses noun forms of verbs (nominalizations), which can make sentences feel dense and abstract. The linguistic analysis confirms this is an area for improvement.\n    *   **Your text:** \"The intervention was 3% hypertonic saline... compared to a control arm...\"\n    *   **The problem:** Phrases like 'intervention' and 'control arm' are technical. Using active verbs makes it clearer what was done.\n    *   **Suggested rewrite:** \"The study compared two groups. One group received 3% hypertonic saline... The other group (the control group) received only chest physiotherapy.\"\n\nBy addressing these points, you will significantly improve the summary's accuracy and clarity for your readers.",
+      "pls_evaluation_summary": "The linguistic analysis shows good overall conformity with typical PLS patterns. Most readability and sentence structure metrics fall within the median range (P50). However, the analysis identified a significant deviation in 'nominalization' (noun-form verbs), which is in the P90 range. This supports the editorial feedback to replace abstract nouns with more direct verbs to improve clarity and readability."
+    }
+  ]
+}

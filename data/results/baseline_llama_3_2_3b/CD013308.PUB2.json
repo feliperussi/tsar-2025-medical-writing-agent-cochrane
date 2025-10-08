@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013308.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of different doses, durations and modes of delivery of nicotine replacement therapy for smoking cessation?**\n\nNicotine replacement therapy (NRT) helps people stop smoking by reducing cravings and withdrawal symptoms. Although NRT is effective for long-term smoking abstinence, it's unclear if different forms, doses, durations, or timing of use impacts its effects.\n\n**What did we want to find out?**\n\nWe wanted to determine the effectiveness and safety of different forms, deliveries, doses, durations, and schedules of NRT for achieving long-term smoking cessation.\n\n**What did we do?**\n\nWe searched for studies that compared different forms, doses, durations, and schedules of NRT for achieving long-term smoking cessation. We included randomized trials in people motivated to quit, comparing one type of NRT use with another. We measured smoking abstinence after at least six months, using the most rigorous definition available. We extracted data on cardiac adverse events (AEs), serious adverse events (SAEs), and study withdrawals due to treatment.\n\n**What did we find?**\n\nWe identified 68 completed studies with 43,327 participants. There is high-certainty evidence that combination NRT results in higher long-term quit rates than single-form NRT. Moderate-certainty evidence indicates that 42/44 mg patches are as effective as 21/22 mg patches. Moderate-certainty evidence also suggests a benefit of 25 mg over 15 mg patches. Nine studies tested the effect of using NRT prior to quit day in comparison to using it from quit date onward. High-certainty evidence from eight studies suggests that using either a form of fast-acting NRT or a nicotine patch results in similar long-term quit rates. We found no clear evidence of an effect of duration of nicotine patch use or fast-acting NRT type. Cardiac AEs, SAEs, and withdrawals due to treatment were all measured variably and infrequently across studies, resulting in low- or very low-certainty evidence for all comparisons.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. There is moderate certainty in the evidence because of concerns about risk of bias and imprecision. We have little confidence in the evidence because of imprecision. There is low certainty in the evidence because of concerns about risk of bias. We have very low confidence in the evidence because of concerns about very low-certainty evidence. There is low certainty in the evidence because of concerns about risk of bias and imprecision. There is very low certainty in the evidence because of concerns about very low-certainty evidence.\n\n**What should happen next?**\n\nFurther research is needed to ensure the robustness of the finding that using NRT before quitting may improve quit rates versus using it from quit date only. New studies should ensure that AEs, SAEs, and withdrawals due to treatment are reported.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to April 2022.\n\n**Key Messages:**\n\n* There is high-certainty evidence that using combination NRT versus single-form NRT can result in an increase in the chances of successfully stopping smoking.\n* There is some indication that the lower-dose nicotine patches and gum may be less effective than higher-dose products.\n* Using a fast-acting form of NRT, such as gum or lozenge, resulted in similar quit rates to nicotine patches.\n* Further research is needed to ensure the robustness of the finding that using NRT before quitting may improve quit rates versus using it from quit date only.\n* Evidence for the comparative safety and tolerability of different types of NRT use is limited.\n* New studies should ensure that AEs, SAEs, and withdrawals due to treatment are reported.\n\n**How is nicotine replacement therapy (NRT) used?**\n\nNRT is used to help people stop smoking by reducing cravings and withdrawal symptoms. It comes in different forms, such as patches, gum, lozenges, and inhalers. The type and dose of NRT used can vary depending on the individual's needs and preferences.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 724,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 46,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.73913043478261,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 41,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 41.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 208,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 208.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.48132957002164,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.291354792217152,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.909648090319479,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.371160220994472,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.030458803747297,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.57338457842902,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.695652173913044,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.74734012447073,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.127194018736488,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 291,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 291.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 140,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 216,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 724,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 724 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.692790"
+}

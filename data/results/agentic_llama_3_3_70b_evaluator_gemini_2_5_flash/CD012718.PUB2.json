@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012718.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can applying silver diamine fluoride to teeth help prevent or stop tooth decay in children and adults?\n\n**Key Messages**\n- Silver diamine fluoride may help prevent new root caries and possibly arrest existing caries in both children and adults, but the evidence is not strong enough to be certain.\n- The comparison of silver diamine fluoride to other treatments like fluoride varnish shows uncertain benefits, and there is not enough good-quality evidence to determine if one treatment approach is better than another.\n- Future research should focus on well-conducted studies that measure the impact of silver diamine fluoride on tooth staining and compare different treatment approaches directly.\n\n**What is dental caries and why is it a problem?**\nDental caries, also known as tooth decay, is the most prevalent disease worldwide. If left untreated, it can cause pain and negatively impact psychosocial health, functioning, and nutrition. Common treatments for dental caries include fillings, crowns, and root canals. However, it is essential to identify cost-effective and easy-to-use agents that can prevent or arrest caries.\n\n**What did the review authors want to find out?**\nThe review authors aimed to assess the effects of silver diamine fluoride for preventing and managing dental caries in primary and permanent teeth, compared to other interventions, including placebo or no treatment. They wanted to determine whether silver diamine fluoride is effective in preventing new caries, arresting existing caries, and preventing the progression of caries, as well as its potential adverse effects and impact on aesthetics.\n\n**How did we find the evidence?**\nWe searched for studies comparing silver diamine fluoride to other interventions for preventing and managing dental caries, summarized their results, and rated our confidence in the evidence.\n\n**What did we find?**\nWe found 29 studies that involved 13,036 people with dental caries. The studies were conducted in various countries and included children and older adults. Most studies compared silver diamine fluoride with placebo or no treatment, while others compared different frequencies, concentrations, or durations of silver diamine fluoride, or silver diamine fluoride with other interventions such as fluoride varnish, sealants, and resin infiltration.\n\n**What are the main results?**\nSilver diamine fluoride may help prevent new caries in children's teeth, but the evidence is uncertain. It probably helps prevent new root caries. Compared to fluoride varnish, silver diamine fluoride may offer little to no benefit in preventing new caries in children's teeth. The evidence is uncertain for other caries outcomes and for preventing new caries in adults' teeth. Silver diamine fluoride may cause tooth staining, but the impact of this is not well reported.\n\n**What are the limitations of the evidence?**\nThe evidence is limited by possible lack of blinding, very small study sizes, and heterogeneity across studies in participant characteristics and intervention delivery methods.\n\n**Is the evidence up to date?**\nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 495,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.46875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 161,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 51.33058238636366,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.942610479797981,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.425284090909091,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.399191919191917,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.1875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.004103535353536,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.1875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.16515138991168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.912623737373738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 224,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 224.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 495,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 495 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:23.472435"
+}

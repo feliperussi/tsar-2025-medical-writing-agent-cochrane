@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015042.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed PLS:\n\n**Is psychosocial and medication interventions effective in reducing alcohol consumption during pregnancy?**\n\n**What is alcohol use during pregnancy and why is it a problem?**\n\nAlcohol use during pregnancy is common, with rates estimated to be 10% globally, and can have serious consequences for the baby. What are the options for treating alcohol use during pregnancy? There are two main types of interventions: psychosocial and medication.\n\n**What do the studies say about these interventions?**\n\nWe searched for studies that compared these interventions to no treatment or usual care. What did we find? We found that brief psychosocial interventions may increase the rate of continuous abstinence among pregnant women who report alcohol use during pregnancy. We did not find any study that evaluated the efficacy of medications for the treatment of AUD during pregnancy.\n\n**What should happen next?**\n\nFurther studies should be conducted to investigate the efficacy and safety of psychosocial interventions and other treatments for women with AUD.\n\n**Key Messages:**\n\n* Brief psychosocial interventions may increase the rate of continuous abstinence among pregnant women who report alcohol use during pregnancy.\n* We did not find any study that evaluated the efficacy of medications for the treatment of AUD during pregnancy.\n* Further studies should be conducted to investigate the efficacy and safety of psychosocial interventions and other treatments for women with AUD.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to January 8, 2024. This review updates our previous review. The evidence is based on studies that were conducted up to January 8, 2024.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain due to risk of bias and imprecision of the estimates. We downgraded the certainty of the evidence. The studies were small and had a high risk of bias. We did not find any study that assessed adverse events of treatments.\n\n**What did we do?**\n\nWe searched for studies that compared psychosocial interventions and medications to no treatment or usual care. We found eight studies that included 1369 pregnant women. We evaluated the efficacy of psychosocial interventions and found that they may increase the rate of continuous abstinence. We did not find any study that evaluated the efficacy of medications for the treatment of AUD during pregnancy.\n\n**What did we find?**\n\nWe found that brief psychosocial interventions may increase the rate of continuous abstinence among pregnant women who report alcohol use during pregnancy. We did not find any study that evaluated the efficacy of medications for the treatment of AUD during pregnancy. The evidence is very uncertain for the number of drinks per day and the number of women who completed treatment.\n\nPlease note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 518,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 41,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.634146341463415,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.0457043977776,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.859710895564557,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.764216027874561,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.417142857142853,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.393426876353708,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.78472549204256,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.682926829268293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.535653752852738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.204974121857049,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 183,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 108,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 518,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 518 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:50.833810"
+}

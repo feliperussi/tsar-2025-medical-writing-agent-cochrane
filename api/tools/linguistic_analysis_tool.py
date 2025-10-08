@@ -4,23 +4,10 @@ Provides comprehensive text analysis including readability scores,
 POS distributions, entity recognition, and stylistic metrics.
 """
 
-import sys
-import os
 from typing import Dict, Any, List, Optional
 from api.core.base_tool import BaseTool
 from api.schemas.base import ToolInfo, ToolResponse
-
-# Add utils directory to path to import the analyzer
-# Use absolute path to ensure it works from any working directory
-current_dir = os.path.dirname(os.path.abspath(__file__))
-utils_path = os.path.join(current_dir, '../../utils/linguistic_extractor')
-utils_path = os.path.abspath(utils_path)
-sys.path.insert(0, utils_path)
-
-try:
-    from text_analyzer import TextLinguisticAnalyzer
-except ImportError as e:
-    raise ImportError(f"Could not import TextLinguisticAnalyzer from {utils_path}: {e}")
+from api.utils.text_analyzer import TextLinguisticAnalyzer
 
 
 class LinguisticAnalysisTool(BaseTool):

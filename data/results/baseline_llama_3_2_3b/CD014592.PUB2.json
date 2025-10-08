@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014592.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**Is oestrogen therapy effective for treating pelvic organ prolapse in postmenopausal women?**\n\n**What are the benefits and harms of oestrogen therapy for treating pelvic organ prolapse in postmenopausal women?**\n\n* Oestrogen therapy may help reduce symptoms of pelvic organ prolapse in postmenopausal women, but the evidence is not strong enough to say for sure.\n* Topical oestrogen in combination with pessaries may reduce adverse vaginal events, but more research is needed.\n* There is a need for larger studies on the effectiveness and cost-effectiveness of oestrogen therapy for managing pelvic organ prolapse.\n\n**What did we want to find out?**\n\nWe wanted to find out whether oestrogen therapy is effective for treating pelvic organ prolapse in postmenopausal women.\n\n**What did we do?**\n\nWe searched for studies on oestrogen therapy and pelvic organ prolapse, and we found 14 studies involving 1002 women.\n\n**What did we find?**\n\nWe found that oestrogen therapy may help reduce symptoms of pelvic organ prolapse, but the evidence is not strong enough to say for sure. Topical oestrogen in combination with pessaries may reduce adverse vaginal events, but more research is needed. There is a need for larger studies on the effectiveness and cost-effectiveness of oestrogen therapy for managing pelvic organ prolapse.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to June 2022.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not strong enough to say for sure whether oestrogen therapy is effective for treating pelvic organ prolapse. The studies we found were at high risk of bias, and there were some concerns about selective reporting.\n\n**How accurate are rapid tests for strep throat in children?**\n\nWe did not find enough good-quality evidence to say for sure whether rapid tests are accurate for diagnosing strep throat in children. However, we found that some studies suggested that rapid tests may not be as accurate as other tests, and more research is needed to confirm this.\n\n**What should happen next?**\n\nThere is a need for larger studies on the effectiveness and cost-effectiveness of oestrogen therapy for managing pelvic organ prolapse.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 391,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.612903225806452,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.23546077056349,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.130566784918738,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.414584605230594,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.989974424552429,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.410890190578336,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.0016500288755,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.5806451612903225,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.426149773176359,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.1273647058823535,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 161,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 391,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 391 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:48.767590"
+}

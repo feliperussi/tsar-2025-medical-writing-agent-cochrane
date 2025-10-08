@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009530.PUB5",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of using bronchoscopy-guided antimicrobial therapy for cystic fibrosis?\n\n### Key Messages\n* The evidence is not strong enough to show whether bronchoscopy-guided antimicrobial therapy is better than standard treatment for people with cystic fibrosis. This is because there were only two studies, and they had some limitations.\n* Bronchoscopy-guided antimicrobial therapy may not improve lung function or reduce the risk of lung infections more than standard treatment. However, we are not certain about this because the evidence is not strong.\n* More research is needed to determine the benefits and risks of bronchoscopy-guided antimicrobial therapy for people with cystic fibrosis. This will help doctors and patients make informed decisions about the best treatment approach.\n\n### Introduction to the review topic and review aims\nWhat is cystic fibrosis? \nCystic fibrosis is a genetic disorder that causes severe damage to the lungs and other organs. It affects the cells that produce mucus, sweat, and digestive juices, causing these fluids to become thick and sticky. This can lead to respiratory problems, digestive issues, and other complications.\n\nWhat is bronchoscopy-guided antimicrobial therapy? \nBronchoscopy is a procedure that allows doctors to look inside the lungs and take samples of lung fluid. Antimicrobial therapy is treatment with medicines that kill bacteria or other microorganisms. By using bronchoscopy to guide antimicrobial therapy, doctors can target the specific bacteria or other microorganisms that are causing the infection.\n\nWhat did we want to find out? \nThe review authors wanted to find out if using bronchoscopy to guide antimicrobial therapy is better than standard treatment for people with cystic fibrosis. They searched for studies that compared the two approaches and found two studies that met their criteria.\n\n### What did we do? \nWe searched for studies that compared bronchoscopy-guided antimicrobial therapy with standard treatment for people with cystic fibrosis. We found two studies that met our criteria and evaluated the evidence to determine the benefits and risks of this approach.\n\n### What did we find? \nThe two studies showed that bronchoscopy-guided antimicrobial therapy may not be better than standard treatment for improving lung function or reducing the risk of lung infections. However, the evidence was not strong enough to make a definitive conclusion. The studies were small, and there were some limitations in the way they were conducted.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because the studies were small and had some limitations. The studies were not large enough to detect significant differences between the two treatment approaches, and there were some concerns about the way the studies were conducted. More research is needed to determine the benefits and risks of bronchoscopy-guided antimicrobial therapy for people with cystic fibrosis.\n\n### How up to date is this evidence? \nThis review updates our previous review. The evidence is up to date to November 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 513,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.321428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.19664473684213,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.669977025898081,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.216445279866335,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.904171539961013,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.580033416875523,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.756126427179055,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.392857142857143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.695331551099972,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 188,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 93,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 513,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 513 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:29.827728"
+}

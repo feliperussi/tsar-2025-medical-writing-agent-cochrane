@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed PLS:\n\n**Is intermittent phototherapy as effective as continuous phototherapy for treating neonatal jaundice?**\n\n**What are the benefits and risks of intermittent phototherapy for neonatal jaundice?**\n\n* Intermittent phototherapy is as safe and effective as continuous phototherapy for treating neonatal jaundice in term and preterm infants.\n* However, the risks of continuous phototherapy and the potential benefits of a slightly lower bilirubin level are unknown.\n* There are theoretical benefits to intermittent regimens, but important safety outcomes were inadequately addressed.\n* Large, well-designed prospective trials are needed to confirm the effectiveness of intermittent phototherapy.\n\n**What did we do?**\n\nWe searched for studies that compared intermittent phototherapy with continuous phototherapy in jaundiced infants (both term and preterm) up to the age of 30 days. We included 12 RCTs (1600 infants) in the review. There is one ongoing study and four awaiting classification.\n\n**What did we find?**\n\nWe found that there was little or no difference between intermittent phototherapy and continuous phototherapy with respect to the rate of decline of bilirubin in jaundiced newborn infants. One study found no cases of bilirubin-induced brain dysfunction. It is unclear if either treatment reduces the risk of this condition. There was also little or no difference in treatment failure or infant mortality.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date as of January 2022. There are ongoing studies and some studies are awaiting classification. However, the review authors could not include these studies in the analysis.\n\n**What are the limitations of the evidence?**\n\nThe evidence is of low certainty due to the risk of bias and imprecision. It is unclear if either treatment reduces the risk of bilirubin-induced brain dysfunction. The studies were small and had limited follow-up. There is a need for large, well-designed prospective trials to confirm the effectiveness of intermittent phototherapy.\n\n**What should happen next?**\n\nLarge, well-designed prospective trials are needed to confirm the effectiveness of intermittent phototherapy.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 361,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 11.28125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 93,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.338547870498616,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.598607167590028,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.68696849030471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.132631578947365,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.152389196675902,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.292330332409975,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.0625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.033012603878117,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 148,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 361,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 361 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.434347"
+}

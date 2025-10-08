@@ -1,0 +1,162 @@
+{
+  "id": "CD008472.PUB3",
+  "draft": "Remote ischaemic preconditioning (RIPC), a technique that briefly restricts blood flow to a limb to protect distant organs, has been studied to see if it helps people undergoing major vascular surgery. The evidence suggests that RIPC does not make a clear difference in reducing perioperative mortality, myocardial infarction, renal impairment, stroke, hospital stay, or operating time in people undergoing elective major vascular and endovascular surgery.\n\nThe review included 14 randomized controlled trials that compared RIPC with no RIPC in adults undergoing elective major vascular and endovascular surgery. The studies found no clear difference in perioperative mortality, myocardial infarction, renal impairment, stroke, hospital stay, and operating time, and may lead to little or no difference in limb loss.\n\nThe certainty of evidence for the main outcomes was moderate due to imprecision of results, moderate heterogeneity, or possible publication bias. The studies were at low to unclear risk of bias for most risk of bias domains.\n\nOverall, compared with no RIPC, RIPC probably leads to little or no difference in perioperative mortality, myocardial infarction, renal impairment, stroke, hospital stay, and operating time, and may lead to little or no difference in limb loss in people undergoing elective major vascular and endovascular surgery. Adequately powered and designed randomised studies are needed, focusing in particular on the clinical endpoints and patient-centred outcomes.\n\nThe evidence is current as of the latest available data up to October 2025.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 237,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 9,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 26.333333333333332,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.3 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 18,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 18.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 6,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 6.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 70,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 22.68641350210973,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 22.7 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 16.636962025316453,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.6 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 17.57210970464135,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.6 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 15.329113924050628,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 23.02278481012658,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 65.15189873417721,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 65.2 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 10.222222222222221,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 11.602325267042627,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.368327426160338,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 106,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 74,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 92,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 237,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 237 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 3,
+        "P75_count": 1,
+        "P90_count": 2,
+        "P10_count": 2,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 5.555555555555555,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 11.11111111111111,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft text has minor clarity issues that can be easily addressed. Consider breaking up long sentences and rewriting passive voice constructions. Add more paragraph breaks to separate sections.",
+      "pls_evaluation_summary": "The draft text has 27 passive constructions, 106 complex words, and 92 long words, which can make it harder to read. The PLS_EVALUATION_RESULTS show that the text deviates from typical PLS patterns in terms of sentence structure and vocabulary complexity."
+    }
+  ]
+}

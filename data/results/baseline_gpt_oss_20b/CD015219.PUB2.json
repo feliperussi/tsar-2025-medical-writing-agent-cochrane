@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015219.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Is favipiravir safe and helpful for people with COVID‑19? (favipiravir is a medicine that may stop the virus from copying itself)\n\nKey Messages\n- We do not know if favipiravir reduces death or the need for breathing machines in people with COVID‑19. The evidence is weak and we are not confident about it.\n- Favipiravir may cause more mild side effects, but it does not seem to increase serious side effects that could be dangerous.\n- More research is needed to see if favipiravir works and to find out which people might benefit.\n\nWhat is favipiravir and why is it being studied for COVID‑19?\nFavipiravir was first made to treat a different virus. Some scientists thought it might also stop the coronavirus that causes COVID‑19 from growing, so they started testing it in people who have the illness.\n\nWhy do we need to know if favipiravir works?\nIf the medicine helps people get better, doctors could use it to save lives and reduce the strain on hospitals. If it does not help, doctors can avoid giving it and focus on treatments that are proven to work.\n\nWhat did we want to find out?\nWe wanted to see whether favipiravir, compared with no medicine, usual care, or other medicines, changes how people with COVID‑19 recover, how many need extra breathing support, and whether it causes side effects.\n\nWhat did we do?\nWe searched for studies that compared favipiravir with no medicine, usual care, or other medicines in people with COVID‑19, combined the results, and checked how reliable the evidence was.\n\nWhat did we find?\nWe found 25 studies that included about 5,750 adults with COVID‑19. Most participants were under 60 years old, and the studies were done in many countries. Most people were in the hospital with mild to moderate illness, and the favipiravir dose was usually 1800 mg on the first day followed by 800 mg each day for several days.\n\nMain results\n- It is unclear if favipiravir reduces death in people with COVID‑19.\n- It is unclear if favipiravir reduces the need for breathing machines.\n- Favipiravir may make little to no difference in whether people end up in the hospital.\n- It is unclear if favipiravir speeds up recovery.\n- Favipiravir may make little to no difference in the need for extra oxygen.\n- Favipiravir may lead to an overall increase in mild side effects such as nausea or headache.\n- Favipiravir may result in little to no difference in serious side effects that could be dangerous.\n\nLimitations\nThe studies were often small and used different doses and treatment lengths, which makes it hard to compare them. Some studies looked at people already in the hospital while others looked at milder cases, so the results may not apply to everyone. The overall quality of the evidence was low, and the findings were not consistent across studies.\n\nHow up to date?\nThe evidence is up to date to July 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 510,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.586206896551722,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 107,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 66.89558823529414,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.297640297498312,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.625338742393506,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.812392156862742,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.975659229208924,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.7234617985125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.068965517241379,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.51639350912779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 150,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 118,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 510,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 510 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 5,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:23.554122"
+}

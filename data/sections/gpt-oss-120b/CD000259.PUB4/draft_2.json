@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Does checking doctors' performance and giving them feedback (audit and feedback) improve how they practice?\n\nKey messages\n- Audit and feedback (measuring doctors' performance and then sharing the results) leads to modest improvements in practice; about six more clinicians per hundred follow the recommended care, and no harmful effects were reported. \n- The effect is larger when feedback is given to individual clinicians, includes a comparison with top‑performing peers, involves a local champion, uses interactive formats, and provides clear action plans; repeated feedback may reduce the benefit. \n- We need more high‑quality research to find the best ways to design audit and feedback, especially in low‑ and middle‑income settings and over longer periods.\n\nWhy is improving healthcare professionals’ everyday practice important?\nWe see patients every day when clinicians prescribe medicines or order tests. When these decisions do not follow the best evidence, patients can receive unnecessary or harmful care and health systems waste money. Improving routine practice makes care safer, more effective, and more efficient.\n\nWhat did the review aim to find out?\nWe wanted to know whether audit and feedback actually changes professional behaviour such as prescribing or test ordering. We also wanted to identify which features of audit‑and‑feedback programmes (for example individual versus group feedback, use of a local champion, interactive formats, or clear action plans) make them work better.\n\nWhat did we do?\nWe searched databases for randomised trials that evaluated audit and feedback interventions for healthcare professionals. We combined the results in meta‑analyses and judged how confident we were in the evidence.\n\nWhat did we find?\nWe included 292 randomised trials (including cluster, cross‑over and factorial designs) that tested audit‑and‑feedback (A&F) interventions. The trials contributed 678 intervention arms. Most studies were done in high‑income countries; only 26 (9 %) were in low‑ or middle‑income countries. Physicians were the main target (237 studies, 81 %). The A&F interventions varied: some gave individual‑level data, some gave team‑level data; some compared performance with top peers, some used local champions, and some used interactive (verbal and written) formats. Many trials also added co‑interventions such as clinician education (56 % of arms) or reminders (15 %).\n\nMain results: Impact of audit and feedback on clinician practice\nAudit and feedback probably increases the proportion of clinicians who follow best practice by about six per hundred. The benefit is larger when feedback provides individual‑level data, compares performance with top‑performing peers, involves a local champion, uses interactive formats, and includes facilitation and clear action plans. Repeated delivery of feedback may slightly reduce the benefit.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence. Some studies may have been influenced because participants knew which group they were in. Not all studies reported every outcome we wanted, and the trials were conducted in different settings and used different delivery methods.\n\nWhat is the currency of the evidence?\nThis review updates our previous work and includes studies up to June 2020.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 511,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.033333333333335,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 151,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 54.45105903457275,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.896052837573386,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.102067840834962,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.194833659491191,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.580456621004567,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.51865622961513,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.533333333333333,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.848857801796104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.322700691454664,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 242,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 166,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 511,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 511 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft passes the required structural checks, but there are three significant clarity problems that could confuse readers:\n1. **Unexplained jargon – “co‑interventions”** (appears in the Results section). Readers may not know what this means. *Suggested rewrite*: “additional support activities, such as extra training for clinicians”.\n2. **Ambiguous numeric expression – “about six per hundred”** (Key messages and Results). This phrasing is less intuitive than “about six out of every 100 clinicians”. *Suggested rewrite*: “about six out of every 100 clinicians”.\n3. **Unclear confidence wording – “We are moderately confident in the evidence.”** (Limitations). The phrase does not explain what ‘moderately confident’ implies for the reliability of the findings. *Suggested rewrite*: “We have moderate confidence that the evidence is reliable, meaning the results are likely to be close to the true effect but could change with new research.”\nThese issues affect reader understanding and should be addressed before approval. The PLS evaluation shows high scores for readability (Flesch‑Reading‑Ease 54.45, Grade 9.9) but also elevated complexity metrics (Dale‑Chall 8.32, complex words DC 242, long words 166), confirming the need to simplify terminology and reduce long words.",
+      "pls_evaluation_summary": "The draft conforms well to typical PLS patterns overall (72% of features in best quartile). Most metrics are within the desirable range (e.g., words per sentence 17, FK grade 9.9). However, three metrics deviate: Dale‑Chall readability (8.32, above typical 7‑9), complex‑words‑DC (242, above typical 115‑277) and long‑words (166, above typical 88‑208), indicating the text uses more difficult words than usual. Addressing the identified jargon and simplifying phrasing will bring these metrics closer to the median and improve readability."
+    }
+  ]
+}

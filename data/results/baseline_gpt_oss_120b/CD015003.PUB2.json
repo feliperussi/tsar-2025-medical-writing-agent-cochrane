@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nDoes colchicine (an anti‑inflammatory medicine) prevent heart attacks, strokes, or death in people who have never had heart disease?\n\nKey Messages  \n- We do not have clear evidence that taking colchicine stops heart attacks, strokes, or death in people without existing heart disease, and we are not sure whether it causes more stomach problems such as diarrhoea.  \n- Most of the studies we looked at had serious problems, and many of them focused on people with liver disease rather than on healthy adults, so the results may not apply to the general population.  \n- More well‑designed, large studies are needed to find out if colchicine is safe and effective for preventing heart problems in people who have never had them.\n\nWhat is atherosclerotic cardiovascular disease?  \nAtherosclerotic cardiovascular disease (often called ACVD) is a condition where fatty deposits build up inside the walls of arteries. This can narrow the arteries and lead to heart attacks, strokes, or other serious problems. Inflammation in the body can make this buildup worse. ACVD is the leading cause of death worldwide.\n\nWhy might colchicine be considered?  \nColchicine is a cheap medicine that has been used for centuries to reduce inflammation. Because inflammation plays a role in artery damage, researchers have wondered whether colchicine could help keep heart attacks and strokes from happening in people who have never had a heart problem.\n\nWhat did we want to find out?  \nWe wanted to know whether giving colchicine to adults who have never had a heart attack, stroke, or other heart disease can lower the chance of dying, having a heart attack, or having a stroke, and whether the medicine causes any important side‑effects.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared colchicine with a placebo, other anti‑inflammatory medicines, or usual care in adults without existing heart disease. We combined the findings from those studies and judged how much confidence we could have in the overall evidence.\n\nWhat did we find?  \n\nStudy characteristics  \nWe found 15 studies that together included about 1,700 people. The studies lasted from a few weeks up to about 14 years. Most of the research was done in hospital or clinic settings in various countries. The medicine was given as a pill and was compared with a dummy pill (placebo), with other immune‑modulating drugs, or with no extra treatment. Many of the studies were funded by the researchers themselves, and only one study had a low risk of bias; the rest had serious problems that could affect the results. Several studies focused on people with liver disease, not on the general healthy population we were interested in.\n\nMain results  \nBecause the evidence is very uncertain, we cannot say for sure whether colchicine changes any of the important outcomes. It is unclear if colchicine reduces the chance of dying from any cause, if it lowers the risk of a non‑fatal heart attack, or if it prevents strokes. It is also unclear whether colchicine increases the chance of diarrhoea or other nervous‑system problems such as seizures or confusion. No studies reported on other heart‑related problems like heart failure or unstable chest pain.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small and may have allowed participants to know whether they were taking colchicine or not. In addition, most studies did not focus on the exact group of people we wanted to learn about; they looked at patients with liver disease instead of healthy adults. These issues make it hard to trust the results.\n\nHow up to date is this evidence?  \nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 634,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.647058823529413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 160,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.80886620894415,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.270681016886254,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.497125626275746,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.582712933753939,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.767971794395994,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.67229541658935,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.852941176470588,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.16515138991168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.055398849508258,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 206,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 634,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 634 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:07.700302"
+}

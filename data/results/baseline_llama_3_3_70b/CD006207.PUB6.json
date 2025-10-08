@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "## Plain Language Summary Title\nWhat are the benefits and risks of physical interventions to interrupt or reduce the spread of respiratory viruses?\n\n## Key Messages\n* Physical interventions like face masks, hand hygiene, and physical distancing may help prevent the spread of respiratory viruses, but the evidence is not always clear or consistent. For example, wearing masks in the community probably makes little or no difference to the outcome of influenza-like illness or COVID-19-like illness compared to not wearing masks. However, hand hygiene is likely to modestly reduce the burden of respiratory illness.\n* The effectiveness of these interventions can depend on various factors, such as the type of mask used, the setting in which it is used, and how well people adhere to the intervention. For instance, N95/P2 respirators compared with medical/surgical masks may be effective for influenza-like illness, but the evidence is limited by imprecision and heterogeneity.\n* There is a need for more research, especially large, well-designed studies that look at the effectiveness of these interventions in different settings and populations, as well as the impact of adherence on effectiveness. This is particularly important for those most at risk of acute respiratory infections, such as the elderly and young children.\n\n## Introduction to the review topic and review aims\n### What are respiratory viruses and why are they a problem?\nRespiratory viruses, such as influenza and coronavirus, can cause serious illnesses that spread quickly around the world. These viruses can lead to outbreaks and even pandemics, which can have significant impacts on public health and the economy. For example, the COVID-19 pandemic has affected millions of people worldwide, causing widespread illness, death, and disruption to society.\n\n### What did we want to find out?\nWe wanted to find out how well physical interventions, such as face masks, hand hygiene, and physical distancing, work to prevent the spread of respiratory viruses. We also wanted to know about any potential harms or drawbacks of these interventions. Our goal was to provide a comprehensive review of the evidence to help inform public health policy and practice.\n\n## What did we do?\nWe searched for studies that compared different physical interventions to prevent the spread of respiratory viruses. We looked at studies that compared face masks, hand hygiene, and physical distancing to no intervention or to each other. We also evaluated the quality of the evidence and the potential risks of bias in the studies.\n\n## What did we find?\nWe found 78 studies that compared physical interventions to prevent the spread of respiratory viruses. These studies included over 610,000 participants and were conducted in a variety of settings, including hospitals, schools, and communities. We found that wearing masks in the community probably makes little or no difference to the outcome of influenza-like illness or COVID-19-like illness compared to not wearing masks. However, hand hygiene is likely to modestly reduce the burden of respiratory illness. We also found that N95/P2 respirators compared with medical/surgical masks may be effective for influenza-like illness, but the evidence is limited by imprecision and heterogeneity.\n\n## What are the limitations of the evidence?\nThe evidence we found has some limitations. Many of the studies were conducted in settings with lower levels of respiratory virus circulation and transmission compared to the COVID-19 pandemic. Additionally, the studies were often small and had high risks of bias, which can affect the accuracy of the results. Furthermore, the adherence to the interventions was often low, which can impact the effectiveness of the interventions. We are moderately confident in the evidence for some outcomes, but our confidence is limited by the quality of the studies and the consistency of the results.\n\n## How up to date is this evidence?\nThis review updates our previous review and includes studies up to October 2022. The evidence is current up to this date, but new studies may have been published since then that could affect the results. We will continue to monitor the literature and update our review as needed to ensure that our findings remain relevant and accurate.\n\nIn conclusion, physical interventions like face masks, hand hygiene, and physical distancing may help prevent the spread of respiratory viruses, but the evidence is not always clear or consistent. There is a need for more research, especially large, well-designed studies that look at the effectiveness of these interventions in different settings and populations, as well as the impact of adherence on effectiveness. By continuing to monitor the literature and update our review, we can provide the best possible evidence to inform public health policy and practice.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 805,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.967741935483872,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 218,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 40.703828892005646,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.033071528751755,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.548032458425162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.76621118012422,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.430575035063114,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.4 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 57.27208976157083,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 8.129032258064516,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.45362404707371,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.0351677018633545,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 293,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 293.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 182,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 252,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 252.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 805,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 805 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:27.525757"
+}

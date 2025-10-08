@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Does checking the work of healthcare professionals and giving them feedback (audit and feedback) improve the care they provide?\n\nKey messages\n- Checking the work of healthcare professionals and giving them feedback (a process called audit and feedback) may lead to small to medium improvements in the care they provide. The review found no unwanted effects.\n- Feedback may work better when it:\n  - is given to one professional rather than a team;\n  - compares their work to top performers;\n  - is delivered in multiple ways (in writing and in person); and\n  - includes a specific plan for improvement.\n- We need more research to know for sure which parts of audit and feedback are most important to help healthcare professionals improve.\n\nWhat is this review about?\nHealthcare professionals aim to provide the best possible care. 'Audit and feedback' is a strategy used to help them do this. It involves 2 steps. First, we collect information (data) about a professional's work (the 'audit'). For example, how often they order a specific medical test. Second, we give this information back to them (the 'feedback'). The idea is that when professionals see how their work compares to recommended standards or their peers, they can find ways to improve.\n\nWhat did we want to find out?\nWe wanted to find out if audit and feedback improves the work of healthcare professionals. We also wanted to find out which parts of audit and feedback make it work better or worse.\n\nWhat did we do?\nWe searched for studies that tested how well audit and feedback improves the work of healthcare professionals. We combined the findings from the studies to find the overall result and to understand what makes this approach work better or worse.\n\nWhat did we find?\nWe found 292 studies with healthcare professionals. Most of them (81%) were doctors. The studies looked at the results of audit and feedback on professional work, mostly about prescribing medicines and ordering medical tests.\n\nAudit and feedback probably leads to a small improvement in professional work. This means that for every 100 times a professional could follow a recommended practice, using audit and feedback may lead to them doing it about 6 more times.\n\nThe result of audit and feedback can change. It may work better when it:\n- focuses on one person's performance, not a team's;\n- compares performance to top performers;\n- is delivered by a trusted local colleague;\n- is provided in more than one way (such as in writing and in person); and\n- includes help with a specific plan for improvement.\n\nHow reliable is the evidence?\nWe have medium confidence in the evidence. This is because it is possible that people in some studies knew which treatment they were getting. Also, the studies included different types of people and used different ways of delivering the audit and feedback.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to June 2020.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 518,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.1875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 127,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 67.42437861969114,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.876406853281853,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.90421332046332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.888185328185326,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.420945945945945,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.12572393822394,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.167842084942085,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 176,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 124,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 518,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 518 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:05.086813"
+}

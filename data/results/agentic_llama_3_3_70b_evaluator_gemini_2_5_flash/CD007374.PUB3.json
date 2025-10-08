@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Do education programs help people with chronic kidney disease (a condition where the kidneys do not work properly) and diabetes manage their condition better? \nEducation programs probably help people with chronic kidney disease and diabetes lower their blood sugar levels. \nEducation programs may also help people learn more about diabetes care and how to manage their own health, for example through diet, exercise, and checking their blood sugar. \nMore research is needed to understand the benefits and potential harms of education programs for people with chronic kidney disease and diabetes, particularly in the long term.\n\nWhat is chronic kidney disease and diabetes, and why is it a problem? \nChronic kidney disease (CKD) is a condition where the kidneys gradually lose their ability to function properly. \nDiabetes is a condition where the body is unable to regulate blood sugar levels. \nBoth conditions can lead to serious health problems if not managed properly. \nWe often see people with CKD and diabetes struggling to follow complex treatment plans, including strict diets, regular blood sugar monitoring, and medication regimens.\n\nWhat are education programs for people with CKD and diabetes, and how can they help? \nEducation programs teach people about their conditions and how to manage them. \nThe goal is to help people make lifestyle changes to improve their health. \nThese programs can be delivered by healthcare professionals, such as nurses, pharmacists, or educators, and can include verbal, written, or computer-based instruction.\n\nHow did we search for evidence? \nWe searched for studies that compared people who received an education program with those who received usual care. \nWe focused on studies where people were randomly assigned to a group, as this design provides the most reliable evidence.\n\nWhat did we find? \nWe found 8 studies that involved 840 people with chronic kidney disease and diabetes. \nThe studies were conducted in various countries and lasted for around 13.5 months to 18 months. \nEducation programs may help people learn more about diabetes care and how to manage their own health. \nEducation programs probably help people lower their blood sugar levels. \nHowever, we are uncertain if these programs affect other important outcomes, such as the risk of death, serious complications, or kidney failure.\n\nWhat are the limitations of the evidence? \nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date? \nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 432,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.615384615384617,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.56621794871796,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.218240740740743,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.72991452991453,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.947407407407407,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.775783475783477,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.70797720797721,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.774964387392123,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.964678632478634,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 432,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 432 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:19.747906"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006913.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of psychological interventions for treating inflammatory bowel disease (IBD)?**\n\n**Key Messages:**\n\n* Psychological interventions may help improve quality of life, depression, and anxiety in people with IBD, but the evidence is not very strong.\n* Interventions that use patient education may also have small positive effects on quality of life, depression, and anxiety.\n* Psychological interventions may have little to no effect on disease activity.\n\n**What did we want to find out?**\n\nWe wanted to find out if psychological interventions can help people with IBD feel better, have less depression and anxiety, and have less disease activity.\n\n**What did we do?**\n\nWe searched for studies that compared psychological interventions to no treatment, sham treatment, or other active treatments in people with IBD. We looked at 68 studies that involved 6111 adults and 294 children and adolescents.\n\n**What did we find?**\n\nIn adults, psychotherapy was slightly more effective than usual care in improving quality of life, depression, and anxiety. Interventions that used patient education may also have small positive effects on quality of life, depression, and anxiety. However, the evidence for disease activity was not strong.\n\nIn children and adolescents, multimodular psychotherapy increased quality of life, but the evidence for anxiety was inconclusive. There was no evidence for the effects of relaxation techniques on children and adolescents.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not very strong due to clinical heterogeneity and high heterogeneity of results. The risk of bias was moderate for most outcomes, and high for some. Publication bias could not be shown for any of the inspected analyses.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to May 2023.\n\n**What should happen next?**\n\nFurther research is needed to explore the effects of psychological interventions on disease activity and to develop more effective interventions for people with IBD.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 355,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.148148148148149,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 95,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.1718831507564,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.248763693270735,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.322581116327598,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.884957746478872,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.597287428273345,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.97913406364111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.185185185185185,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.055385138137417,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.701274908711529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 136,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 113,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 355,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 355 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 7,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:41.650960"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015422.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What can topical repellents do to stop malaria when other mosquito control methods are used?\n\nKey Messages\n- Topical repellents may slightly lower the chance of getting malaria and having malaria symptoms, but the evidence is weak and not clear when used together with other mosquito‑control tools.\n- The use of repellents is very safe; only a few people had mild skin irritation.\n- More research, especially in refugee camps and with individual‑level studies, is needed to know if repellents really help.\n\nWhat is malaria and why is it a problem?\nMalaria is a disease spread by mosquitoes that bite people and can make them very sick. It is common in many parts of the world and can be deadly if not treated.\n\nWhat are topical repellents and how might they help?\nTopical repellents are creams or sprays that you put on your skin. They keep mosquitoes away from the skin, so the mosquitoes are less likely to bite you.\n\nWhat did we want to find out?\nWe wanted to see if using topical repellents alone or together with other mosquito‑control methods, like bed nets or indoor spraying, can reduce how many people get malaria in areas where malaria is common.\n\nWhat did we do?\nWe looked for studies that compared people who used repellents with people who did not, and we combined the results to see the overall effect.\n\nWhat did we find?\nStudy characteristics\nWe found eight studies that met our criteria. Six of these studies were large enough to be combined in a main analysis. The studies were carried out in many countries and included people of all ages, including groups that are at higher risk such as refugees, forest workers, and soldiers.\n\nMain results\nWhen we looked at all the studies together, the evidence suggests that repellents may slightly reduce the number of people who get malaria and the number of people who develop malaria symptoms. The evidence is not strong, so we are not sure how big the benefit is.\n\nThe evidence also suggests that repellents may slightly lower the overall number of people who have malaria parasites in their blood. Again, the evidence is weak.\n\nSafety\nVery few people who used repellents had mild skin irritation. No serious problems were reported.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were not all designed the same way and some may have had problems that could affect the results. The studies were also very varied in how they were carried out, and many of them were small or had missing information. Because of these issues, we cannot be sure how well repellents work.\n\nHow up to date is this evidence?\nThe evidence is up to date to January 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 484,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.689655172413794,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 113,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 69.2875619834711,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.741279566828158,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.253463949843262,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.817355371900824,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.213052151610146,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 38.59048161869478,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.6551724137931036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.306623862918075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.6887779709318895,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 149,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 67,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 484,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 484 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 7,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:24.329458"
+}

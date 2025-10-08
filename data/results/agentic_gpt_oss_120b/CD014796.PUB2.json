@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014796.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "What do patients, doctors, and health planners think influences how comprehensive health screenings (general health checks) are planned, delivered, and used?\n\nKey messages:\n- Patients, doctors and health planners say that general health checks can motivate healthier habits and give reassurance, but fear of bad results, cost worries and a preference for symptom‑based care can stop people attending.\n- Providers stress that skilled, culturally‑aware staff are essential, yet time pressures, staff shortages, limited resources and unclear payment rules often make delivery difficult.\n- Wider cultural, social and political factors – such as community norms, religion, language and government support – also shape whether checks are funded and we found no evidence that the checks cause harm.\n\nWhat are general health checks and why are they offered?\nGeneral health checks are routine screening appointments for people who feel healthy and have no symptoms. During a check‑up a health professional may measure blood pressure, test blood sugar or look for early signs of heart disease or cancer. The aim is to spot problems early, give lifestyle advice and help keep people from getting sick or dying (we call this reducing \"morbidity\" – illness – and \"mortality\" – death). Many health systems include these checks in preventive care, either through national programmes or private providers.\n\nWhy is it important to understand how people feel about these checks?\nA 2019 Cochrane review of numbers (quantitative studies) found that general health checks have little or no effect on overall death rates or on preventing heart disease and cancer. Even though the hard data show limited benefit, the checks remain popular with patients, doctors, managers and health planners. To decide whether to keep, change or stop offering them, we need to know what the different groups think and experience – their values, worries and practical factors can help or block the checks. Stopping a valued service can upset the public unless we provide clear alternatives.\n\nWhat did we want to find out?\nWe set out to explore the views and experiences of four key groups – health‑care managers or health planners, health‑care providers (such as doctors and nurses), people who attend the checks, and people who choose not to attend. We asked: How do these stakeholders perceive general health checks? What factors influence the decision to fund (\"commission\"), deliver and use these checks?\n\nHow did we find the evidence?\nWe searched MEDLINE, CINAHL and citation lists for qualitative studies that asked people about their views on general health checks. We combined the findings using a \"framework synthesis\", which simply means we grouped similar ideas from many studies together. We then used the GRADE‑CERQual approach – a system that tells us how confident we are in each finding – to rate the strength of the evidence.\n\nWhat did we find?\nWe identified 146 primary qualitative studies and carefully selected 36 that gave the richest information for detailed analysis. Most studies were from high‑income European countries; about one‑third were from culturally diverse middle‑income settings in Asia, Latin America and Eastern Europe. The studies looked at three stakeholder groups: clients (people who attend or consider attending checks), health‑care providers and health planners.\n\nClients said the checks often motivate them to improve diet, exercise and other habits, and that professional confirmation gives them peace of mind. Some clients avoid checks because they fear bad news, worry about costs or prefer to seek care only when symptoms appear.\n\nProviders highlighted that skilled, culturally‑competent staff make a big difference to attendance. They also reported that when doctors have to focus on treating people who are already sick (curative care), when staff leave, when there is not enough space or equipment, and when it is unclear how the service will be paid for, it becomes harder to offer the checks.\n\nHealth planners noted that political climate, stakeholder support and broader social norms influence whether programmes are funded. Cultural background, religion, gender and language also affect how people perceive prevention and whether they attend.\n\nWe found no evidence that the checks harmed participants.\n\nWhat are the limitations of the evidence?\nWe have low confidence in the evidence because many studies involved small, diverse groups, participants often knew which tests they received, and there were few studies overall to confirm the findings.\n\nHow up‑to‑date is this review?\nOur search covered evidence up to August 2022. New studies, or studies published after that date, are not included.\n\nWhat does this mean for practice?\nEven though hard data show limited impact on mortality, stakeholders still value general health checks for the motivation and reassurance they provide. Any plan to reduce or stop these checks should offer acceptable alternatives and address the benefits that users and providers attach to them. Future research should use high‑quality qualitative and mixed‑methods designs to explore why health planners commission checks and how cultural and system factors shape uptake.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 818,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.974358974358974,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 121,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 251,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 251.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.81937527427752,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.823740831295844,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.58990564854868,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.167188264058677,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.23570935991474,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.06971349758636,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.102564102564102,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.489125293076057,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.410377104883707,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 330,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 330.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 140,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 238,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 238.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 818,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 818 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:58.305269"
+}

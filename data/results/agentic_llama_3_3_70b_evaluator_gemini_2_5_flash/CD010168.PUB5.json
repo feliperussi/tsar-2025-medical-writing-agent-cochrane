@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010168.PUB5",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can using a drain in the abdomen after surgery to remove a severe case of appendicitis help prevent infection and other complications? We revised the draft based on the evaluator feedback to improve clarity for a lay audience. \nKey messages \n- Using a drain after surgery for a severe case of appendicitis probably increases the risk of death within 30 days.\n- It is very uncertain if drains prevent other problems, like infections, or shorten hospital stays.\n- Based on current evidence, routine use of a drain is not supported after surgery for a severe case of appendicitis.\nWhat is a severe case of appendicitis and why is it a problem? \nA severe case of appendicitis is a serious health condition where the appendix becomes gangrenous (dies due to lack of blood supply) or perforated (tears), leading to a higher risk of postoperative complications compared to uncomplicated appendicitis. \nAppendectomy, the surgical removal of the appendix, is the primary treatment for acute appendicitis. \nHowever, people who undergo appendectomy for a severe case of appendicitis are more likely to suffer from postoperative complications, such as an abscess (a pocket of pus) inside the abdomen, an infection in the surgical cut, or other health issues.\nWhat did the review authors want to find out? \nWe wanted to find out if using a drain in the abdomen helps or harms people after surgery for a severe case of appendicitis. \nWe also wanted to know if using a drain could prevent pockets of pus (abscesses), wound infections, or other health problems for people having either keyhole or open surgery for a severe case of appendicitis.\nWhat did we find? \nWe found 8 studies that involved 739 people with a severe case of appendicitis. \nThe studies were conducted in North America, Asia, and Africa and published between 1973 and 2023. \nThe majority of participants had perforated appendicitis, which can cause a serious infection of the lining of the abdomen called peritonitis. \nAll participants received antibiotic regimens after open or laparoscopic appendectomy. \nThe studies compared the use of abdominal drainage versus no drainage, but no studies compared open drain versus closed drain or early versus late drain removal.\nWhat are the main results of the studies? \nUsing a drain after surgery for a severe case of appendicitis probably increases the risk of death within 30 days. \nThe evidence for this is of moderate certainty. \nIt is unclear if abdominal drainage has an effect on intraperitoneal abscess, wound infection, or morbidity. \nAbdominal drainage may increase hospital stay, but the evidence is very uncertain.\nWhat are the limitations of the evidence? \nThe evidence is limited because the studies were small and included different groups of people (both children and adults). \nAlso, the surgeries were performed in different ways (some were open surgery, others were keyhole surgery), which makes the results hard to combine.\nIs the evidence up to date? \nThis review updates our previous review. \nThe evidence is up to date to October 2023.\nWe need larger, better-designed studies to be more certain about the effects of drains on death, infection, and hospital stays. \nThis would provide clearer guidance for doctors and improve patient care.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 554,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.870967741935484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 159,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.66311575637596,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.91144637242343,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.771711307790845,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.341010830324908,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.090625363922209,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.57132875276581,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.129032258064516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.535653752852738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.843277256317689,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 209,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 110,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 159,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 554,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 554 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:21.836017"
+}

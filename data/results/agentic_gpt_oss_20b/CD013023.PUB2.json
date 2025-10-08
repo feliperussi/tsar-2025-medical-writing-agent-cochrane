@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do special dressings or tube‑holding devices (securement devices) lower the risk of failure or infection for artery catheters (thin tubes placed in an artery) in hospital patients?\n\nKey messages\n- We found no clear evidence that special dressings or securement devices (products that cover the insertion site or hold the tube) reduce the risk that a peripheral arterial catheter (a thin tube placed in an artery) fails or leads to a catheter‑related bloodstream infection (CRBSI) (infection that spreads through the blood).  \n- The few small trials that compared different products – such as polyurethane dressings with tissue adhesive, bordered polyurethane dressings, sutureless securement devices, and integrated securement dressings – showed little or no difference in outcomes, and the evidence remains very uncertain.  \n- Because the trials are few, small, and at risk of bias, we need larger, well‑designed studies to determine whether any dressing or securement device truly improves catheter safety or reduces infections.\n\nWhy are peripheral arterial catheters a concern?  \nIn operating rooms and intensive‑care units, clinicians insert a peripheral arterial catheter (AC) (a thin tube placed in an artery) to take frequent blood samples and continuously monitor blood pressure. These measurements help us manage very sick patients and those undergoing surgery. However, the catheter can become blocked, move out of place, or cause a catheter‑related bloodstream infection (CRBSI) (infection that spreads through the blood). When this happens, we must remove the catheter and insert a new one, which is uncomfortable and raises the risk of further complications.\n\nWhat are dressings and securement devices, and how might they help?  \nWe use special dressings (sticky coverings) and securement devices (things that hold the tube) to keep the catheter stable and clean. Examples include:  \n– Standard polyurethane (SPU) dressings, a clear film that sticks to the skin.  \n– Bordered polyurethane (BPU) dressings, which add an adhesive border for extra grip.  \n– Tissue adhesive (TA), a medical glue applied around the catheter.  \n– Sutureless securement devices (SSD), small clips that lock the catheter to the skin without stitches.  \n– Integrated securement dressings, which combine a dressing and a clip in one product.  \nThese products aim to prevent dislodgement, blockage, and infection.\n\nWhat did the review aim to find out?  \nWe wanted to know whether any of these dressings or securement devices work better than others at preventing catheter failure and related complications. Specifically, we compared rates of catheter failure, bloodstream infection, dislodgement, blockage, and adverse events.\n\nHow did we find the evidence?  \nWe searched several medical databases (Cochrane Wounds Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL Plus) and trial registries up to 16 May 2023. We selected randomised controlled trials that compared different dressing or securement methods for peripheral arterial catheters. Two reviewers independently screened studies, extracted data, and assessed risk of bias. We rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?  \nWe identified five randomised controlled trials that enrolled 1,228 participants with peripheral arterial catheters. The trials compared:  \n– SPU plus tissue adhesive versus SPU alone,  \n– BPU versus SPU,  \n– SPU plus SSD versus SPU,  \n– Integrated securement dressings versus SPU.  \nThe studies were small and varied in setting. None of the trials reported clear differences in catheter failure, CRBSI, dislodgement, blockage, or adverse events between the alternative products and standard SPU dressings. The evidence is very uncertain, and any benefit or harm is likely small or nonexistent.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because participants and clinicians often knew which product was used, the trials were small, some outcomes were not reported, and the studies differed in patient groups and methods. These factors increase the risk of bias and reduce certainty.\n\nHow current is the evidence?  \nWe searched up to 16 May 2023, so the evidence reflects studies published before that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 655,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.848484848484848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.12909322229933,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.895641915336576,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.597937080730972,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.79993893129771,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.405042794355772,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.96298866527874,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.96969696969697,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.328828005937952,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.650469581309277,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 318,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 318.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 230,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 230.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 655,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 655 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 6,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:55.422573"
+}

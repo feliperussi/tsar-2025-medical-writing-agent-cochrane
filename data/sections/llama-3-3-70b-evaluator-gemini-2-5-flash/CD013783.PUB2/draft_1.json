@@ -1,0 +1,162 @@
+{
+  "id": "CD013783.PUB2",
+  "draft": "# How accurate are toe-brachial index (a test that compares blood pressure in the toes and arms) and toe systolic blood pressure (the pressure of blood in the toes) for diagnosing peripheral arterial disease (a condition where blood flow to the legs is reduced)?\n**Key Messages**\n- The accuracy of toe-brachial index (a test that compares blood pressure in the toes and arms) and toe systolic blood pressure (the pressure of blood in the toes) for diagnosing peripheral arterial disease (a condition where blood flow to the legs is reduced) is uncertain due to a lack of robust evidence, and no harmful effects were reported in the studies.\n- Future research should focus on determining the diagnostic test accuracy of toe-brachial index and toe systolic blood pressure with greater certainty, using robust methods and clear reporting, to inform clinical practice and improve patient outcomes.\n- Further studies are needed to comprehensively assess the benefits and potential harms of these diagnostic tests, particularly in different populations and settings, to provide clearer guidance for clinicians and patients.\n**Introduction**\n## What is peripheral arterial disease?\nPeripheral arterial disease (PAD) is a condition where the arteries in the lower limbs become narrowed due to atherosclerotic occlusive disease, reducing blood flow to the legs. This can cause complications such as claudication pain, rest pain, wounds, gangrene, amputation, and increased cardiovascular morbidity and mortality. PAD is common, affecting an estimated 236 million people worldwide, and is often associated with advanced age, smoking, hypertension, diabetes, and concomitant cardiovascular disease.\n## Why is it important to diagnose peripheral arterial disease accurately?\nAccurate and timely detection of PAD allows clinicians to implement appropriate risk management strategies to prevent complications, slow progression, or intervene when indicated. Diagnostic tests such as the toe-brachial index (TBI) and toe systolic blood pressure (TSBP) are used to detect PAD, but their accuracy is uncertain.\n## What did the review authors want to find out?\nThe review authors aimed to estimate the accuracy of TSBP and TBI for diagnosing PAD in the lower extremities, compare the accuracy of TBI and TSBP, and investigate possible sources of heterogeneity in test accuracy, including patient group, equipment used, positivity threshold, and reference standard.\n**Methods**\n## Search Strategy\nWe performed a systematic search of electronic databases (e.g., PubMed, Embase, Cochrane Library) for studies evaluating the diagnostic accuracy of the toe‑brachial index (TBI) and toe systolic blood pressure (TSBP) in detecting peripheral arterial disease (PAD). The search combined keywords, MeSH terms, and synonyms related to TBI, TSBP, PAD, and diagnostic accuracy, without language or date restrictions.\n## Eligibility Criteria\nWe included cross‑sectional, case‑control, and cohort studies that compared TBI or TSBP against a reference standard (e.g., angiography, duplex ultrasound) for PAD diagnosis. Studies had to report sufficient data to construct 2 × 2 tables (true positives, false positives, true negatives, false negatives). Exclusion criteria were case reports, reviews, and studies lacking a reference standard.\n## Data Extraction and Synthesis\nTwo reviewers independently extracted data on study characteristics, participant demographics, index test thresholds, and 2 × 2 contingency data. Meta‑analysis of sensitivity, specificity, and diagnostic odds ratios was performed using a bivariate random‑effects model. Summary receiver operating characteristic (SROC) curves were generated for each index test.\n## Confidence in the Evidence\nThe certainty of the pooled estimates was appraised with the GRADE approach for diagnostic tests, considering risk of bias, inconsistency, indirectness, imprecision, and publication bias. Evidence was graded as high, moderate, low, or very low confidence.\n**Results**\n## What did we find?\nWe found 18 studies that involved 2631 participants with peripheral arterial disease. The studies were conducted in various countries around the world. Most studies used colour duplex ultrasound as a reference standard. The average age of participants and other population characteristics, such as gender and severity of condition, were not reported. Study settings, such as specific countries, were also not reported. The types of interventions and comparisons were limited to the diagnostic accuracy of toe-brachial index and toe systolic blood pressure for the diagnosis of peripheral arterial disease. No information was available on the duration of the studies or the funding sources. The evidence base to support the use of TBI and TSBP to identify PAD is limited. Whilst both TBI and TSBP are used extensively clinically, the overall diagnostic performance of these tests remains uncertain. It is unclear if these tests have an effect on outcome.\n**Limitations**\nThe evidence is limited due to generally low methodological quality of the studies, poor reporting of participant recruitment and blinding between index test and reference standard, and very small study sizes.\n**Currency**\nThe evidence is up to date to February 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 814,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 36,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.61111111111111,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 25,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 15,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 32,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 272,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 272.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 35.1591693966694,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.972559377559381,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.258774228774229,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.331105651105648,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.65869505869506,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.7 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 59.957548457548455,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.0 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.444444444444445,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 17.560219778561034,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.39577401037401,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 375,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 375.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 216,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 304,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 304.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 814,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 814 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 1,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is NOT APPROVED due to critical factual inaccuracies, violations of the style guide regarding subheading format, and significant deviations from typical Plain Language Summary patterns in terms of readability and clarity. The search date information contradicts the original abstract, and several subheadings are not phrased as questions. The text also suffers from excessive passive voice, complex vocabulary, and noun-heavy sentences, making it difficult for a lay audience to understand.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate that the draft significantly deviates from typical Plain Language Summary patterns, with 7 out of 18 features (38.9%) falling into the 'Beyond P90' range and 4 features (22.2%) in the 'P90' range. This suggests high complexity and difficulty for a lay audience. Readability indices such as `smog_index` (17.56, Beyond P90), `gunning_fog_index` (19.66, P90), `lix` (59.96, P90), `rix` (8.44, P90), and `dale_chall_readability` (8.40, P90) are too high, indicating the text is more difficult to read than typical PLS. Vocabulary complexity metrics, including `complex_words_dc` (375.00, Beyond P90), `complex_words` (216.00, Beyond P90), and `long_words` (304.00, Beyond P90), are also significantly higher, pointing to an overuse of long and unfamiliar words. Furthermore, structural issues are prominent, with `passive_voice` (25.00, Beyond P90), `nominalization` (32.00, Beyond P90), and `nouns` (272.00, Beyond P90) being substantially higher than typical PLS texts, contributing to a less direct and harder-to-follow narrative. The `words_per_sentence` metric (22.61, P75) also suggests sentences are generally longer than ideal for a PLS."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do education programmes (structured teaching sessions) improve health outcomes for people with chronic kidney disease (long‑term kidney problems) and diabetes?\n\nKey messages\n- Education programmes that include structured teaching and counseling probably lower average blood‑sugar levels (glycated haemoglobin, HbA1c) and may improve cholesterol and diabetes knowledge; no clear evidence of serious harms was reported.\n- When education programmes are added to already comprehensive multidisciplinary coordinated care (where several health professionals work together), they make little or no difference to kidney function, blood pressure, blood sugar or cholesterol.\n- The studies were few, small and of limited quality, so we need larger, well‑designed trials to understand long‑term effects on kidney function, survival, quality of life and possible harms.\n\nWhat is chronic kidney disease and diabetes, and why is it a problem?\nChronic kidney disease (CKD) is a long‑term loss of kidney function. Diabetes is a condition in which the body cannot control blood sugar properly. Many people have both conditions at the same time, which makes their care especially complex. Managing CKD and diabetes usually requires a strict daily routine – taking several medicines, monitoring blood sugar, watching diet and, for some, doing dialysis. Because the regimen is so demanding, many people find it hard to follow all the instructions, leading to higher blood sugar, higher cholesterol and faster loss of kidney function.\n\nWhat did the review aim to find out?\nWe wanted to know whether education programmes – organised sessions where health professionals give information, advice and behavioural counselling (for example, talks, written materials, videos or computer tools) – can help people with CKD and diabetes. Specifically, we looked for evidence that these programmes improve health measures such as blood‑sugar control, cholesterol, diabetes knowledge and self‑care skills, and whether they cause any harms.\n\nHow did we find the evidence?\nWe searched the Cochrane Kidney and Transplant Register of Studies up to July 2024 for randomised or quasi‑randomised trials that evaluated education programmes for adults with CKD and diabetes. Two reviewers screened the records, selected eligible studies, assessed their quality and extracted the data.\n\nWhat did we find?\nWe identified eight trials that together enrolled 840 adults with CKD and diabetes. Participants ranged from people on dialysis to those with moderate albuminuria or advanced diabetic nephropathy. All trials tested structured education programmes. These were delivered verbally, in writing, by audio‑recordings or using computer tools. The educators included nurses, pharmacists, diabetes educators and other health professionals. The programmes were compared with routine care alone, or with routine care plus multidisciplinary coordinated care.\n\nThe evidence suggests that education programmes probably reduce HbA1c (average blood‑sugar) by about 0.4 %. They may also produce small reductions in total cholesterol and LDL‑cholesterol and lead to modest improvements in diabetes knowledge, confidence in managing diabetes (self‑efficacy), diet and home blood‑glucose monitoring. The benefit over longer periods remains uncertain, and the studies did not show clear effects on death, serious low‑blood‑sugar episodes or kidney failure. When education was added to multidisciplinary coordinated care, the additional impact on blood sugar, kidney outcomes, blood pressure, cholesterol and other clinical measures appeared to be little or none.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the results because the studies were small, some participants knew which group they were in, and there were few trials overall. This limits our certainty about the true effects.\n\nHow current is the evidence?\nThe review updates our previous work and includes all relevant studies up to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 592,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.096774193548388,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 199,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 41.68826068003489,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.188823016564957,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.734501961639062,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.38094594594595,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.31438535309503,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.23190932868353,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.709677419354839,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.282081756756757,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 275,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 275.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 158,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 208,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 208.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 592,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 592 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:50.342535"
+}

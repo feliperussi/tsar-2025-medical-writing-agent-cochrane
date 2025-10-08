@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015422.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of using topical repellents to prevent malaria in people living in malaria-endemic regions?**\n\n**Key Messages:**\n\n* Topical repellents may slightly reduce malaria infection and clinical incidence when used alone or in combination with other background interventions. However, the evidence is low-certainty due to the risk of bias and limited data.\n* The use of topical repellents is considered safe, with very low rates of adverse events. However, the evidence for their effectiveness in preventing malaria is limited.\n* There is insufficient evidence to conclude that topical repellents can prevent malaria in settings where other vector control interventions are in place. More research is needed to understand the potential benefits and risks of topical repellents in different populations and contexts.\n\n**Introduction to the review topic and review aims:**\n\n* What is topical repellent use for?\n* Insecticide-based interventions, such as long-lasting insecticide-treated nets (LLINs) and indoor residual spraying (IRS), remain the backbone of malaria vector control. However, these interventions have limited capacity to prevent transmission that occurs outdoors or outside regular sleeping hours. Topical repellents may be a useful complementary tool for populations who may not benefit from programmatic malaria control measures, such as refugees, the military, or forest goers.\n* This review aims to assess the effectiveness of topical repellents alone or in combination with other background interventions for reducing the incidence of malaria in high- and non-high-risk populations living in endemic areas.\n\n**What did we do?**\n\nWe searched the following databases up to 11 January 2023 and included 13 articles relating to eight trials in the meta-analysis.\n\n**What did we find?**\n\n* Topical repellents are considered safe, with very low rates of adverse events.\n* Topical repellents may slightly reduce malaria infection and clinical incidence when used alone or in combination with other background interventions. However, the evidence is low-certainty due to the risk of bias and limited data.\n* Topical repellents may slightly reduce malaria prevalence, but the evidence is low-certainty due to the risk of bias and limited data.\n* We included six trials in the meta-analysis, with a total of 61,651 participants. The studies were conducted in different settings, including refugee camps and non-refugee areas.\n\n**What are the limitations of the evidence?**\n\nThe certainty of evidence for all outcomes is low, primarily due to the risk of bias. More research is needed to understand the potential benefits and risks of topical repellents in different populations and contexts.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to 11 January 2023.\n\nPlease note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 508,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 39,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 144,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.33644192913388,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.879596456692916,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.807165354330706,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.422913385826767,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.35,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.520669291338585,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.74734012447073,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.31476220472441,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 210,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 127,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 127.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 176,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 508,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 508 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 8,
+      "P75_count": 3,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:52.022175"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "Is giving loop diuretics (water pills) as a steady drip (continuous infusion) better than giving them as quick pushes (bolus injection) for people with sudden worsening of heart failure (acute heart failure)?\n\nKey messages\n- Giving loop diuretics as a continuous infusion may produce a little more weight loss, but the evidence is very uncertain and does not show a clear benefit for survival or kidney safety. \n- Most other outcomes – length of hospital stay, chance of readmission, and overall death rates – show little or no difference between a drip and a quick push, and the studies are too small to give a firm answer. \n- Larger, high‑quality trials are needed to determine whether one method is truly better for treating acute heart failure.\n\nWhat is acute heart failure and how is it usually treated?\nAcute heart failure (AHF) is a sudden worsening of the heart’s ability to pump blood. It often causes fluid to build up in the lungs and other parts of the body (congestion). About 95 % of people with AHF experience this fluid overload, which can make breathing hard and cause leg swelling. Doctors treat the excess fluid with loop diuretics – powerful water pills that help the kidneys flush out salt and water. These medicines can be given through a vein (intravenously) either as a quick, high‑dose “bolus” injection (a rapid push) or as a slower, steady “continuous infusion” (a drip that runs over several hours).\n\nWhat did the review aim to find out?\nWe wanted to know whether giving loop diuretics as a continuous infusion is more effective or safer than giving them as intermittent bolus injections for the first treatment of AHF in adults with severe symptoms (New York Heart Association class III or IV). We focused on weight loss (a sign of fluid removal), all‑cause mortality, length of hospital stay, readmission after discharge, and acute kidney injury (a sudden worsening of kidney function).\n\nWhat did we do?\nWe searched major medical databases and trial registers for randomised controlled trials that compared continuous infusion with bolus injection of intravenous loop diuretics in adults with AHF. Two reviewers screened each study, extracted data, and assessed the risk of bias. We then combined the results where possible and judged the certainty of the evidence.\n\nWhat did we find?\nWe identified seven trials that enrolled a total of 681 adults with AHF and fluid overload. The studies were conducted in 32 hospitals across North America, Europe, and Asia. All trials compared the same loop diuretic given either as a drip or as a quick push.\n\nWhat are the main results?\n- Weight loss: The drip may lead to about 0.9 kg more weight loss than the bolus, but the confidence in this finding is very low. When we excluded the highest‑risk studies, the difference disappeared. \n- All‑cause mortality: The evidence suggests little or no difference in death rates between the two methods. \n- Length of hospital stay: The drip may shorten stay by about one day, but the data are very uncertain and inconsistent. \n- Readmission: There is little or no difference in the chance of being readmitted after discharge. \n- Acute kidney injury: The risk appears similar for both delivery methods. \n- Daily fluid balance: The two approaches show unclear differences; one small study reported higher fluid balance in the first 24 hours with the drip, while others found no difference.\n\nWhat are the limitations of the evidence?\nWe are not confident in these results because many trials were small, some participants may have known which treatment they received, and the studies varied in patient characteristics and how the drugs were administered. These factors increase uncertainty and reduce the reliability of the findings.\n\nHow current is the evidence?\nThe literature search was completed in February 2024, so the evidence reflects all relevant trials up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 662,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.6875,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 198,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 198.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 58.809392938066466,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.195949773413897,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.649475075528699,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.904229607250752,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.042371601208458,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 43.95033987915408,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.8125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.917535045317221,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 247,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 662,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft conforms well to typical PLS patterns (72% of features in best quartile). Readability is strong (Flesch reading ease 58.8, grade ~10). Most metrics fall within expected ranges, but nominalizations (23, P90), noun count (198, P90) and Dale‑Chall complex words (247, P90) are higher than typical, suggesting the text is slightly noun‑heavy. These do not impede overall understanding and the draft meets all critical completeness, \"style, and length requirements."
+    }
+  ]
+}

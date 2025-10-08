@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015877",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Is personalized nutrition (precision nutrition) more effective than standard one‑size‑fits‑all diets for reducing obesity in children and teenagers?\n\nKey messages  \n- Only 2 small trials have compared precision nutrition with standard of care (the usual treatment given to patients for an illness).  \n- The trials show modest, inconsistent reductions in body‑mass‑index (BMI) scores; larger benefits appear when diet advice is combined with behavioural support and physical‑activity counselling.  \n- No serious adverse events (unwanted events that cause harm to the patient) were reported, but the evidence is low‑confidence because the studies are few and small.\n\nWhat is childhood obesity and why does it matter?  \nObesity means a greater than normal amount of body fat for a child’s height and age. Overweight children can develop high blood pressure, type 2 diabetes, joint pain, and lower confidence or mental well‑being (psychosocial effects). These problems often continue into adulthood, making it harder to stay healthy later in life. Because the number of children with obesity is rising worldwide, finding ways to help them achieve a healthier weight is a major public‑health priority.\n\nWhat are precision nutrition interventions?  \nTraditional diet advice often uses a one‑size‑fits‑all approach – the same recommendations for everyone. Precision nutrition (personalized nutrition that tailors diet advice to an individual’s genetics, gut microbiome, daily routine, sleep patterns, and other factors) tries to match recommendations to each person. It may consider genetics (the study of genes and heredity), the microbiome (the collection of microorganisms and viruses that live in the body), and lifestyle habits.\n\nWhat did we aim to find out?  \nWe wanted to see whether these personalised programmes help children and teenagers (up to 19 years old) lose weight or improve their body‑mass‑index (BMI) – a measure used to evaluate body weight relative to a person's height. We compared precision nutrition with the usual one‑size‑fits‑all diet advice or with no special diet. We also looked at effects on physical activity, quality of life (QOL – how someone feels and functions day to day), mental well‑​being, and any adverse events.\n\nHow did we find the evidence?  \nWe performed a systematic search of research databases for studies that compared precision‑nutrition interventions (intervention – a treatment, procedure, or other action taken to prevent or treat disease, or improve health) with standard of care in children and adolescents with overweight or obesity. We pooled the identified studies using meta‑analytic techniques to estimate overall effects. We assessed the certainty of the evidence by examining risk of bias, consistency, and precision.\n\nWhat did we find?  \n\nScope of evidence  \nWe identified only 2 studies that evaluated precision nutrition for obesity management in children and adolescents. Both trials were small, short‑term, and focused on a single factor such as genetics or the microbiome rather than a multi‑factorial approach.\n\nEffectiveness of precision nutrition  \nAcross the two studies, precision nutrition produced modest but inconsistent reductions in BMI z‑scores compared with standard diet advice. Larger benefits were seen when personalised dietary recommendations were combined with behavioural support and physical‑activity counselling.\n\nSafety and acceptability  \nNo serious adverse events were reported. Participants and caregivers generally liked the personalised plans, especially when the advice respected cultural food preferences and socioeconomic context.\n\nResearch gaps and recommendations  \nWe need larger, well‑designed randomised and randomised controlled trials that integrate multiple precision factors (genetics, microbiome, circadian timing, psychosocial characteristics) and assess long‑term outcomes. Future studies should report adherence, cost‑effectiveness, and equity impacts to inform global guidelines.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the results because participants likely knew which treatment they received (risk of bias) and because the studies were very small and few in number. This limits our certainty about the true effect of precision nutrition.\n\nHow current is the evidence?  \nThe evidence we reviewed is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 654,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.685714285714287,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 218,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 44.023128440366975,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.761037134119707,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.765334207077323,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.393516819571865,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.56602883355177,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.01904761904761,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.228571428571429,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.288205727444508,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.411368003494976,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 310,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 310.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 165,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 218,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 654,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 654 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 5,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:09.077475"
+}

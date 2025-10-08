@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015968",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can digital health interventions help children and adolescents with obesity? Digital health interventions are technology-driven or technology-assisted programs for managing obesity. We wanted to find out if these interventions, used alone or with conventional care, can help children and adolescents with obesity.\n\n## Key Messages\n- Digital health interventions combined with conventional care may lead to a small reduction in fat mass in children and adolescents, but we are not confident in the evidence because the studies were small and did not report all the necessary information.\n- The effect of digital health interventions alone on obesity outcomes is unclear due to limited and low-quality evidence.\n- Future studies should report more detailed information, assess important outcomes like adverse events, and control for diet and physical activity to better understand the effectiveness of digital health interventions for obesity in children and adolescents.\n\n## Introduction to the review topic and review aims\nWhat is childhood obesity? Childhood obesity is a major public health problem worldwide. It increases the risk of chronic diseases like diabetes and heart disease. In 2016, over 340 million children and adolescents aged 5 to 19 were living with overweight or obesity.\n\nWhat can be done to manage childhood obesity? Managing childhood obesity often involves a combination of diet, physical activity, and sometimes medical interventions. Digital health interventions, which use technology like mobile apps, wearable devices, and telehealth, are a newer approach to managing obesity.\n\nWhat did we want to find out? We wanted to assess the effects and safety of digital health interventions for managing obesity in children and adolescents. Specifically, we looked at whether these interventions, when used alone or combined with conventional care, can help reduce obesity in young people.\n\n## How is obesity in children and adolescents typically treated?\nObesity in children and adolescents is typically managed through a combination of dietary changes, increased physical activity, and behavioral therapy. In some cases, medical interventions may also be recommended.\n\n## What did we do?\nWe searched for studies that compared digital health interventions with conventional care, and those that compared digital health interventions alone with conventional care. We evaluated the evidence from these studies to understand the effectiveness of digital health interventions for managing obesity in children and adolescents.\n\n## What did we find?\nWe found 15 studies involving 911 participants. These studies were conducted in several countries, including the USA, Sweden, Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. Most of the participants were adolescents, but some studies also included younger children. The digital health interventions varied, with some focusing on diet, others on physical activity, and some on both. We grouped the studies into two comparisons: digital health technology plus conventional care versus conventional care alone, and digital technology alone versus conventional care alone.\n\nFor the first comparison, we found that digital interventions combined with conventional care may lead to a small reduction in fat mass in children and adolescents. However, the evidence is not strong because the studies were small and did not report all the necessary information. For the second comparison, the effect of digital interventions alone on obesity outcomes was unclear.\n\n## What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small, and many did not report all the necessary information. This makes it difficult to draw firm conclusions about the effectiveness of digital health interventions for managing obesity in children and adolescents.\n\n## How up to date is this evidence?\nThe evidence is up to date to April 2025.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 616,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 30.274805194805197,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 30.3 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.502012987012986,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.320438311688314,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.753181818181822,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.44935064935065,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.4 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 57.87662337662338,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.892857142857143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.152946437965905,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.884284415584415,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 226,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 164,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 221,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 221.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 616,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 616 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 3,
+      "P10_count": 1,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:38.680416"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013308.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best ways to use nicotine replacement therapy to help people quit smoking?\nWe looked at how different forms, doses, and schedules of nicotine replacement therapy (NRT - a type of treatment that helps people stop smoking by giving them nicotine without the tar and carbon monoxide found in cigarettes) can help people stop smoking. NRT helps reduce cravings and withdrawal symptoms, making it easier to quit.\n\n- Using a combination of NRT products, like gum and patches, probably increases the chances of quitting smoking compared to using just one type of NRT.\n- Fast-acting NRT products, such as gum or lozenges, likely work as well as nicotine patches to help people quit smoking.\n- Using NRT before quitting smoking may also improve the chances of quitting, but more research is needed to confirm this.\n\nWhat is nicotine replacement therapy and why is it important for smoking cessation?\nNicotine replacement therapy (NRT) is a treatment that helps people stop smoking by replacing the nicotine from cigarettes with a safer alternative. This can help reduce cravings and withdrawal symptoms, making it easier for people to quit smoking. NRT comes in various forms, such as patches, gum, lozenges, and nasal sprays, and can be used in different doses and durations. Smoking is a significant health problem that can lead to serious diseases like heart disease, lung cancer, and chronic obstructive pulmonary disease (COPD - a group of lung diseases that block airflow and make it difficult to breathe). Quitting smoking can greatly reduce the risk of developing these conditions, and NRT is one of the common treatments used to help people achieve this goal.\n\nWhat did we want to find out about nicotine replacement therapy?\nWe wanted to find out how well different ways of using NRT help people to stop smoking for good, and if they are safe. We aimed to find out whether using combination NRT is more effective than single-form NRT, and whether higher doses of NRT are more effective than lower doses. We also investigated the effects of using NRT before quitting compared to using it from quit day onward, and whether different types of NRT have varying effects on quit rates and safety outcomes.\n\nHow did we find the evidence?\nWe searched for studies that compared different ways of using NRT. We then summarized the results and rated our confidence in the evidence.\n\nWhat did we find?\nOur review of 68 studies found strong evidence that using two forms of NRT (like a patch and gum) is more effective than using just one. We also found that fast-acting NRTs like gum or lozenges work just as well as patches. Using NRT before quitting may also improve the chances of quitting, but more research is needed to confirm this. The studies involved 43,327 participants, mostly adults from the community or healthcare clinics.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because participants may have known which treatment they received, the studies were very small, and the findings do not cover all relevant populations or outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to April 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 543,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.6300839779006,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.89590128913444,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.436022099447513,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.309686924493551,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.728515653775322,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.60766114180478,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.84,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.888194417315589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.980387506445673,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 203,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 82,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 543,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 543 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 4,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:24.461292"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD002120.PUB4",
+  "draft": "# Are combined oral contraceptive pills effective for treating painful menstrual cramps (dysmenorrhoea)?\n**Key Messages**\n- Combined oral contraceptive pills (birth control pills that contain both estrogen and progesterone hormones) are effective for treating painful menstrual cramps (dysmenorrhoea), but they can cause unwanted effects such as irregular bleeding (changes in menstrual cycle), headaches, and nausea (feeling sick to the stomach).\n- The quality of the evidence for these findings is generally good, but there is not enough information to know if one type of combined oral contraceptive pill is better than another for treating dysmenorrhoea, or if they are better than other treatments like non-steroidal anti-inflammatory drugs (NSAIDs, a type of pain reliever).\n- Future research should investigate the long-term effects of using combined oral contraceptive pills for dysmenorrhoea, and compare them directly to other treatments, to help people make informed decisions about the best treatment for their painful menstrual cramps.\n**Introduction**\n### What is dysmenorrhoea and why is it a problem?\nDysmenorrhoea, also known as painful menstrual cramps, is a common health issue that affects many women. It is characterized by painful cramps in the lower abdomen, which can be severe enough to interfere with daily activities. Dysmenorrhoea is usually treated with pain relievers or hormonal therapies, such as combined oral contraceptive pills (OCPs). However, the effectiveness and potential side effects of these treatments can vary, making it essential to evaluate their benefits and harms.\n### What did the review authors want to find out?\nThe review authors aimed to assess the benefits and harms of combined oral contraceptive pills for the management of primary dysmenorrhoea. They wanted to determine whether OCPs are effective in reducing pain and improving symptoms, as well as their potential side effects, such as irregular bleeding, headaches, and nausea. The authors also compared the effectiveness of different types of OCPs and their regimens to find the best treatment options for women with dysmenorrhoea.\n**Methods**\n### Methods\nWe searched for studies comparing combined oral contraceptive pills with other treatments for primary dysmenorrhoea, summarized their results, and rated our confidence in the evidence.\n**Results**\n### Cause of Termination\nThe agent stopped because it reached the maximum number of iterations configured for the current task, preventing further processing to avoid infinite loops.\n### Recommended Next Steps\nReview the task logic to ensure it can converge within the iteration limit, increase the iteration limit if appropriate, or break the task into smaller sub‑tasks to stay within the allowed iterations.\n**Limitations**\nThe evidence is limited by small sample sizes, lack of blinding (participants may have known their treatment), incomplete reporting of outcomes, and heterogeneity across studies in participant characteristics and intervention delivery methods.\n**Currency**\nThe evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 488,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 18,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 27.11111111111111,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.1 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 41,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 141,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 36.98812386156649,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.835382513661205,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 16.41873178506375,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.4 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 13.435983606557375,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.9591985428051,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 61.127504553734056,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.1 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 9.222222222222221,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 13.295630140987,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.977805373406194,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 205,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 99,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 166,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 488,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 488 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 11,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 61.111111111111114,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is incomplete and contains critical errors in the 'Results' section, which displays internal system messages instead of the review's findings. Several subheadings do not follow the required question format. The text also suffers from long sentences and a higher-than-typical use of complex and long words, making it less readable for a lay audience.",
+      "pls_evaluation_summary": "The PLS evaluation shows that while the word count is within limits, several key readability metrics deviate significantly from typical PLS patterns. `words_per_sentence` (27.11), `flesch_kincaid_grade` (14.84), `automated_readability_index` (16.42), `lix` (61.13), `rix` (9.22), and `long_words` (166.00) are all in the P90 range, indicating the text is more complex and harder to read than 90% of the corpus. This suggests a need to shorten sentences and use simpler, more common vocabulary."
+    }
+  ]
+}

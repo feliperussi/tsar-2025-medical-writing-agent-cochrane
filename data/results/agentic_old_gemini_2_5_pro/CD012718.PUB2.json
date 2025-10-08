@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012718.PUB2",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Can silver diamine fluoride (a liquid applied to the teeth) help prevent or stop tooth decay in children and adults?\n\nKey messages\n- Silver diamine fluoride (SDF) probably helps prevent tooth decay on the roots of teeth in older adults when compared with no treatment. It may also help stop existing decay in children's baby teeth. We are uncertain if it prevents decay on the main biting surfaces of teeth. The evidence about unwanted effects (harmful effects of a treatment) is unclear.\n- We do not have enough good-quality evidence to know if SDF is better or worse than other common treatments. These include fluoride varnish (a sticky, paint-on gel) or sealants (a thin, plastic coating painted on teeth) for preventing or stopping tooth decay.\n- Future studies should provide more certain evidence. They should also investigate the unwanted effects of SDF, especially tooth staining, which was not well reported in the studies we found.\n\nWhat is tooth decay and how can it be treated?\nTooth decay is the most common disease in the world. If left untreated, it can cause pain and affect a person's ability to eat and their general well-being. Researchers are looking for simple and affordable ways to prevent tooth decay or stop it from getting worse. One potential treatment is silver diamine fluoride (SDF). SDF is a liquid that a dentist can paint onto the teeth to prevent or stop decay.\n\nWhat did we want to find out?\nWe wanted to find out how well silver diamine fluoride (SDF) works to prevent and treat tooth decay in both baby teeth and adult teeth. We compared SDF to other treatments, a placebo (a dummy treatment with no active ingredient), or no treatment.\n\nWhat did we do?\nWe searched for studies that compared SDF for preventing and stopping tooth decay against other treatments, a placebo, or no treatment. We compared and summarized the results of these studies. We also rated our confidence in the evidence.\n\nWhat did we find?\nWe found 29 studies with 13,036 people (12,020 children and 1,016 older adults). The studies compared SDF with a placebo, no treatment, or other dental treatments like fluoride varnish or sealants.\nCompared to a placebo or no treatment, SDF probably helps to prevent new tooth decay on the roots of teeth. For children's baby teeth, SDF may help to stop existing tooth decay from getting worse.\nWhen SDF is compared to fluoride varnish for preventing new tooth decay in baby teeth, it may make little to no difference.\nFor most other situations, the evidence is unclear. We do not know if SDF helps to prevent new decay on the chewing surfaces of teeth or stop decay in adult teeth. We also do not know if one way of applying SDF is better than another. We don't know how SDF compares to other treatments like dental sealants (a thin, plastic coating) or certain types of fillings. The evidence about unwanted effects, including tooth staining, is also very uncertain.\n\nLimitations of the evidence\nWe are not confident in the evidence for several reasons. It is possible that people in the studies knew which treatment they were getting. Not all studies provided data on all the outcomes we were interested in. Also, many studies were very small and used different ways of applying the treatment.\n\nEvidence currency\nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 588,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.891891891891891,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 68.4088113623828,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.66566096708954,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.502680639823495,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.537414965986397,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 10.642471042471042,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.742232027946315,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.108108108108108,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.874007874011811,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.669207225592941,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 219,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 588,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 588 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:12.706847"
+}

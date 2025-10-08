@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013788.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Kidney transplants often need a thin tube called a urinary catheter to help the new kidney work. The tube is usually left in place for a few days after the operation, but doctors sometimes wonder whether it is better to take it out early or keep it in a little longer. Several studies have looked at groups of patients who had the tube removed early, usually within a day or two, and groups who had it left in for a longer time, often three or more days. The goal of these studies was to see how the timing affected two main things: infections that can happen in the urinary system and the need to put a new tube back in if problems arise.\n\nWhen the tube is taken out early, many patients seem to have fewer infections. This makes sense because the longer a foreign object stays inside the body, the more chances bacteria have to grow. Patients who had the catheter removed early often felt more comfortable and were able to move around sooner, which can help overall recovery. However, taking the tube out too soon sometimes led to a problem where the bladder could not empty properly. In those cases, doctors had to put a new catheter back in, which meant another small procedure and a short stay in the hospital.\n\nOn the other hand, patients who kept the catheter in for a longer period usually did not need a second catheter. Their bladder had more time to adjust, and they were less likely to need another tube. The downside was that a few more of these patients developed urinary infections. Infections can cause fever, pain, and may require extra medicines, which can make the recovery slower.\n\nOverall, the evidence suggests a balance is needed. Removing the catheter early can lower the chance of infection but may increase the chance that another tube will be needed. Leaving it in longer can reduce the need for a second tube but may raise the risk of infection. Doctors often decide based on each patient’s situation, such as how well the new kidney is working, how the patient feels, and whether there are any signs of trouble with the bladder.\n\nFor patients and families, it helps to know that both approaches have pros and cons. If the catheter is removed early, watch for any trouble urinating and let the medical team know right away. If the catheter stays in longer, keep an eye out for any signs of infection, like fever or pain, and report them promptly. Good communication with the health care team and careful monitoring can help make the best choice for each individual case.\n\nIn short, early removal may protect against infection but can sometimes lead to the need for another tube, while later removal may avoid a second tube but carries a higher chance of infection. The best timing depends on the patient’s overall health, how the new kidney is working, and how the bladder is handling urine after surgery.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 510,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.17391304347826,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.75553708439901,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.572728047740835,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.621074168797954,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.036862745098038,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.57544757033248,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.7621483375959,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.565217391304348,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.0535515771526,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 160,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 60,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 105,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 510,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 510 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:20.622933"
+}

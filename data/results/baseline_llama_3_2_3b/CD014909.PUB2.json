@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014909.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**Is combined mechanical and oral antibiotic bowel preparation better than mechanical bowel preparation alone for preventing complications in elective colorectal surgery?**\n\n**What are the benefits and risks of combined mechanical and oral antibiotic bowel preparation for preventing complications in elective colorectal surgery?**\n\n* Combined mechanical and oral antibiotic bowel preparation is probably more effective than mechanical bowel preparation alone in preventing postoperative complications, particularly in terms of reducing the risk of surgical site infections and anastomotic leakage.\n* However, the evidence is uncertain about the effect of combined mechanical and oral antibiotic bowel preparation on the incidence of postoperative complications when compared to no bowel preparation.\n* Additional RCTs are needed to assess the impact of oral antibiotic bowel preparation alone or no bowel preparation compared with combined mechanical and oral antibiotic bowel preparation on postoperative complications.\n\n**What did we do?**\n\nWe searched for studies that compared combined mechanical and oral antibiotic bowel preparation with either mechanical bowel preparation alone, oral antibiotic bowel preparation alone, or no bowel preparation. We included 21 randomised controlled trials analysing 5264 participants who underwent elective colorectal surgery.\n\n**What did we find?**\n\nWe found that combined mechanical and oral antibiotic bowel preparation is probably more effective than mechanical bowel preparation alone in preventing postoperative complications, particularly in terms of reducing the risk of surgical site infections and anastomotic leakage.\n\n**What are the limitations of the evidence?**\n\nThe evidence is uncertain about the effect of combined mechanical and oral antibiotic bowel preparation on the incidence of postoperative complications when compared to no bowel preparation. The included studies had a moderate risk of bias, and the evidence for the effect of oral antibiotic bowel preparation alone or no bowel preparation compared with combined mechanical and oral antibiotic bowel preparation on postoperative complications is low to very low.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to December 2021.\n\n**Introduction to the review topic and review aims**\n\nWhat is elective colorectal surgery and why is it important?\n\nElective colorectal surgery is a type of surgery that is planned in advance and is not an emergency. It is used to treat conditions such as colon cancer, diverticulitis, and inflammatory bowel disease. The success of elective colorectal surgery is mainly influenced by the surgical procedure and postoperative complications.\n\nWhat do we want to find out?\n\nWe want to find out whether combined mechanical and oral antibiotic bowel preparation is effective in preventing postoperative complications in elective colorectal surgery.\n\n**Background**\n\nThe success of elective colorectal surgery is mainly influenced by the surgical procedure and postoperative complications. Preoperative bowel preparation is used to remove faeces from the bowel lumen and reduce bacterial colonisation. This bowel preparation can be performed mechanically and/or with oral antibiotics. While mechanical bowel preparation alone is not beneficial, the benefits and harms of combined mechanical and oral antibiotic bowel preparation is still unclear.\n\n**Key Messages**\n\n* Combined mechanical and oral antibiotic bowel preparation is probably more effective than mechanical bowel preparation alone in preventing postoperative complications, particularly in terms of reducing the risk of surgical site infections and anastomotic leakage.\n* The evidence is uncertain about the effect of combined mechanical and oral antibiotic bowel preparation on the incidence of postoperative complications when compared to no bowel preparation.\n* Additional RCTs are needed to assess the impact of oral antibiotic bowel preparation alone or no bowel preparation compared with combined mechanical and oral antibiotic bowel preparation on postoperative complications.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 618,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.65714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 29,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 46,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 46.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 159,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 10.814941747572846,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 10.8 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 16.137386037910314,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.1 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 14.385804438280168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 16.2146925566343,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 21.367064262598248,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.4 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 56.97753120665742,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.942857142857143,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 18.0,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.40954833102173,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 334,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 334.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 221,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 221.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 243,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 618,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 618 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 10,
+      "BELOW_P10_count": 1,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 55.55555555555556,
+      "BELOW_P10_percentage": 5.555555555555555,
+      "best_quartile_rate": 16.666666666666664,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:50.244787"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014084.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does endoscopic sinus surgery (keyhole surgery to open the sinuses) improve nose and lung problems compared with medicine alone in people with cystic fibrosis (a genetic lung disease) and nasal polyps?\n\nKey messages\n- We are not sure whether adding endoscopic sinus surgery to usual medical treatment improves nose symptoms or lung problems in people with cystic fibrosis and nasal polyps, because only one small study with limited data has been done and it did not show clear benefits.  \n- The same study also did not give reliable information on whether surgery reduces bacterial colonisation (bacteria growing in the sinuses), the need for antibiotics, the frequency of lung flare‑ups (pulmonary exacerbations), or improves lung function (how well the lungs work). It reported only a single bleeding episode during surgery that was quickly resolved and no other serious harms.  \n- Larger, well‑designed studies that follow participants for at least a year are needed, especially now that new cystic fibrosis medicines (CFTR modulators) may affect nasal polyps.\n\nWhat is cystic fibrosis and why does it cause problems in the nose and sinuses?\nCystic fibrosis (CF) is a hereditary disease in which the body makes very thick mucus. This thick mucus blocks tiny tubes in many organs, including the lungs and the sinuses (the air‑filled spaces behind the nose). When sinuses cannot drain, people with CF often develop chronic rhinosinusitis – long‑lasting inflammation of the sinus lining – and nasal polyps, which are soft, non‑cancerous growths that block the nose and make breathing difficult. These sinus problems cause a runny or blocked nose, facial pain, reduced sense of smell, and can worsen lung infections and overall quality of life.\n\nWhy might sinus surgery be considered for people with cystic fibrosis?\nDoctors sometimes use endoscopic sinus surgery (ESS). In this procedure a thin camera and small instruments are inserted through the nose to open blocked sinus passages and remove nasal polyps. The idea is that clearing the sinuses lets medicines such as nasal rinses or antibiotics reach the affected areas more easily. This could reduce sinus symptoms and possibly lower the number of lung flare‑ups (pulmonary exacerbations) that people with CF experience.\n\nWhat did the review‑ers aim to find out?\nWe compared two approaches: (1) sinus surgery – either alone or together with standard medical treatments – versus (2) medical treatment alone. We wanted to know whether adding surgery improves nasal symptoms, reduces bacterial colonisation, cuts down the need for antibiotics, lowers hospital admissions, and lessens lung‑related flare‑ups. We also examined any effect on overall lung function.\n\nHow did we look for evidence?\nWe performed a systematic search for studies that compared sinus surgery (with or without additional medical therapy) to medical treatment alone in people with cystic fibrosis, chronic sinusitis, and nasal polyps. We included studies that enrolled participants with these conditions and directly compared the two approaches. We pooled results using meta‑analytic techniques and assessed the certainty of the evidence with a structured grading approach that considers risk of bias, consistency, directness, precision, and publication bias.\n\nWhat did we find?\nWe identified only one small randomised (using chance to assign participants) trial that met our criteria. The trial enrolled 28 people with cystic fibrosis, aged 19 to 28 years, who had chronic sinus disease and nasal polyps. Participants were randomly assigned to receive nasal irrigation alone (medical treatment) or nasal irrigation together with endoscopic sinus surgery (polypectomy – surgery to remove a polyp – and extended sinusotomy). The abstract did not give details about the study setting, funding, follow‑up length, or other participant characteristics.\n\nWhat were the main results?\nSurgery to open the sinuses may have little to no effect on nasal symptoms, bacterial colonisation, the need for antibiotics, lung flare‑ups, or overall lung function in people with cystic fibrosis. However, we are very uncertain about these results because the evidence is of very low certainty.\n\nWhat are the limitations of the evidence?\nThe evidence comes from a single, very small study. This limits our confidence in the findings and prevents us from drawing firm conclusions.\n\nHow current is the evidence?\nThe evidence is up to date to September 2022 of search.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 703,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.676470588235293,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 216,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 41.19802673416456,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.649641452598107,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.451535436365155,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.160056899004267,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.82962095222157,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.259685381976404,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.323529411764706,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.489995996796797,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.572409271190695,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 336,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 336.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 168,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 215,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 703,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 703 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 7,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:02.585945"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do decision aids (tools that explain health options and help you choose) help adults make better treatment or screening choices?\n\nKey messages\n– Decision aids probably help more adults choose options that match what matters most to them. They also raise knowledge, improve understanding of risks, lower uncertainty, and encourage a more active role in decision‑making. We found no evidence that they increase harms, and the overall evidence is of moderate certainty.\n– Reviewing a decision aid before a visit does not lengthen the appointment, and using one during the visit adds only about one to two minutes.\n– Future research should look at long‑term effects on health outcomes, costs, and adherence, and should include more diverse populations.\n\nWhy do many adults need help when choosing health treatments or screening tests?\nEvery day adults must decide whether to start a new medicine, have a cancer‑screening test, begin mental‑health therapy, or undergo surgery such as joint replacement. Each option has benefits, possible harms (negative effects), and uncertainties. Most people receive only brief information from their doctor, which often does not explain trade‑offs or help them think about what matters most to them. If patients don’t fully understand their options or how the choices match what matters to them, they can feel uncertain, make a choice that doesn’t reflect their preferences, and later regret it. Patient decision aids are tools that lay out the decision, give evidence‑based facts about benefits and harms, and include exercises to help people clarify their own values.\n\nWhat did the researchers want to find out about these decision‑making tools?\nWe wanted to know whether patient decision aids improve the decision‑making process for adults facing treatment or screening choices. Specifically we asked whether the tools help people:\n1. gain more knowledge about their options,\n2. understand their personal risk more accurately (risk perception = how likely they think they are to develop a health problem),\n3. feel better informed and clear about what matters to them,\n4. take a more active role in discussions with their clinician,\n5. make choices that match their informed values.\n\nWe also looked at whether the aids affect decision regret, appointment length, and any potential harms.\n\nHow did we find the evidence?\nWe searched major databases and grey literature for randomized controlled trials that compared patient decision aids with usual care (general information, risk assessments, guideline summaries, unrelated placebo information, or no intervention). Two reviewers screened studies, extracted data, and judged risk of bias. We combined the results using common statistical techniques (calculating average differences and risk ratios) and rated how confident we are in the evidence with the GRADE system (a tool that tells us how certain we can be about the results).\n\nWhat did we find?\nWe included 209 trials involving 107,698 adults. The decision aids covered 71 different choices, including heart treatments, cancer screening or treatment, mental‑health therapy, and joint‑replacement surgery. Compared with usual care, decision aids probably help more people choose options that fit their values. They also produce large increases in knowledge about health options and in the accuracy of risk understanding. Decision aids reduce feelings of being uninformed, lower uncertainty about personal values, and decrease the number of people who let clinicians make the decision for them. They make little or no difference to decision regret. Reviewing a decision aid before a consultation does not change how long the visit lasts. Using a decision aid during the consultation adds about one to two minutes.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in these findings, meaning the evidence is fairly reliable but some uncertainty remains. Many studies did not blind participants, and not all studies reported every outcome we were interested in, which may affect certainty.\n\nHow current is the evidence?\nThis review updates our previous work and includes all relevant studies up to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 668,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.555555555555557,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 194,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.035242847638074,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.053253493013976,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.79845143047239,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.256586826347302,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.0270126413839,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.14836992681305,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.305555555555555,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.045361017187261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.657107052561544,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 285,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 285.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 127,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 127.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 668,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 668 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:47.310528"
+}

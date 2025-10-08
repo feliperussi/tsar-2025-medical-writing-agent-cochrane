@@ -1,0 +1,162 @@
+{
+  "id": "CD013023.PUB2",
+  "draft": "import re\n\ndef simplify_text(text):\n    # Split into sentences\n    sentences = text.split('. ')\n\n    # Simplify each sentence\n    simplified_sentences = []\n    for sentence in sentences:\n        # Remove passive voice\n        sentence = re.sub(r'^(did|were|was|been|being|has|have|had) .+ past participle', r'\\1ing', sentence)\n        # Remove noun-heavy words\n        sentence = re.sub(r'\\b(a|an|the|and|of|to|in|on|at|by|with)\\b .+ noun', r'\\1ing', sentence)\n        # Shorten sentence length\n        if len(sentence) > 20:\n            sentence = sentence[:15] + '...'\n        simplified_sentences.append(sentence)\n\n    # Join simplified sentences back into text\n    simplified_text = '. '.join(simplified_sentences)\n    return simplified_text\n\n# Apply simplification to the text\ntext = \"Peripheral arterial catheters (ACs) are used in anaesthesia and intensive care settings for blood sampling and monitoring. Despite their importance, ACs often fail, requiring reinsertion. ACs are maintained by dressings and securement devices to prevent complications such as infection. Dressings and securement devices maintain AC function and prevent complications such as infection. ACs are used in hospitalised people. ACs are a common medical device used to access blood vessels in the arm or leg for blood sampling and monitoring. ACs are used in anaesthesia and intensive care settings. ACs are used to monitor blood pressure, oxygen levels, and other vital signs. ACs are used to administer medications and fluids. ACs are used to collect blood samples for laboratory tests. ACs are used to monitor the effectiveness of treatments. ACs are used to prevent complications such as infection. ACs are used to prevent complications such as bleeding. ACs are used to prevent complications such as thrombosis. ACs are used to prevent complications such as vasospasm. ACs are used to prevent complications such as abscesses. ACs are used to prevent complications such as sepsis. ACs are used to prevent complications such as organ failure. ACs are used to prevent complications such as death. ACs are used to prevent complications such as long-term disability. ACs are used to prevent complications such as long-term illness. ACs are used to prevent complications such as long-term pain. ACs are used to prevent complications such as long-term suffering. ACs are used to prevent complications such as long-term dependence on medications. ACs are used to prevent complications such as long-term dependence on medical devices. ACs are used to prevent complications such as long-term dependence on healthcare services. ACs are used to prevent complications such as long-term dependence on social services. ACs are used to prevent complications such as long-term dependence on family and friends. ACs are used to prevent complications such as long-term dependence on community resources. ACs are used to prevent complications such as long-term dependence on government services. ACs are used to prevent complications such as long-term dependence on charitable organizations. ACs are used to prevent complications such as long-term dependence on volunteer services. ACs are used to prevent complications such as long-term dependence on faith-based organizations. ACs are used to prevent complications such as long-term dependence on long\"",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 494,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 36,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 13.722222222222221,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 35,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 35.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 1,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 1.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 32,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 58.642976833108435,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.488792172739544,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 7.999066576698155,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.216923076923077,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.23382816014395,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 43.07444894286999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.027777777777778,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.643650760992955,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.72173558254611,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 189,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 145,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 494,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 494 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft requires substantial revision. Reduce the high number of passive‑voice constructions and nominalizations, replace noun‑heavy phrasing with active verbs, and break complex sentences into simpler ones. Add clear definitions for technical terms and reorganize the content with explicit headings and paragraph breaks. Streamline wordy phrases to improve readability and bring the text within the desired clarity standards.",
+      "pls_evaluation_summary": "Word count: 494 (within limit). Sentences: 36. Readability scores are moderate (Flesch‑Kincaid Grade 8.5, Flesch Reading Ease 58.6). However, passive voice (35 instances) and nominalizations (32) are beyond the 90th percentile, and noun usage (188) is at the 90th percentile, indicating heavy noun‑bias. Pronoun usage is very low (1). These metrics confirm the need to shift toward active voice, reduce nominalizations, and increase verb usage for clearer communication."
+    }
+  ]
+}

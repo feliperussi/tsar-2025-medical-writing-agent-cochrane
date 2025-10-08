@@ -1,0 +1,162 @@
+{
+  "id": "CD012697.PUB2",
+  "draft": "Is magnetic seizure therapy (MST) as effective as electroconvulsive therapy (ECT) for people with schizophrenia?\n\nMST is a non-invasive brain stimulation technique that uses magnetic fields to induce seizures. ECT is a treatment that uses electricity to induce seizures.\n\nKey Messages\n- Magnetic seizure therapy may be as effective as electroconvulsive therapy for people with schizophrenia, but the evidence is very low-quality.\n- Magnetic seizure therapy may cause less delayed memory deficit and less cognitive deterioration compared to ECT.\n- Due to the lack of robust evidence, further research is needed to fully understand the effects of magnetic seizure therapy for people with schizophrenia.\n\nIntroduction\n### What is schizophrenia and why is it a problem?\nSchizophrenia is a common and disabling mental disorder. About 20% of people with schizophrenia do not respond to antipsychotics, which are the main treatment. It is a problem because it can cause significant distress and impairment in daily life, and there is a need for alternative treatment options.\n### What are the common treatments for schizophrenia?\nThe main treatment for schizophrenia is antipsychotics, but some people may not respond to these medications and need to seek other treatment options. One of the novel non-invasive brain stimulation techniques being investigated is Magnetic Seizure Therapy (MST).\n### What did the review authors want to find out?\nThe review authors wanted to evaluate the efficacy and tolerability of MST for people with schizophrenia, by comparing it to other interventions such as Electroconvulsive Therapy (ECT) and standard care.\n\nMethods\n### Methods\nWe searched for studies comparing magnetic seizure therapy to other treatments for people with schizophrenia, summarized their results, and evaluated our confidence in the evidence.\n\nResults\n### What did we find?\nWe found one study that involved 79 adults with acute schizophrenia. The study lasted for four weeks and compared magnetic seizure therapy (MST) plus standard care to electroconvulsive therapy (ECT) plus standard care. Magnetic seizure therapy and electroconvulsive therapy may not differ in improving global state, positive symptoms, or negative symptoms. There may also be no difference between the two groups in terms of people leaving the study early due to any reason, adverse effects, or inefficacy. Magnetic seizure therapy compared to ECT may cause less delayed memory deficit and less cognitive deterioration, and may also improve cognitive function.\n\nLimitations\nThe evidence is limited because we included only one study. This study had a high risk of bias due to issues like selective reporting, early termination, and baseline imbalance, and it was unclear if participants and personnel were blinded.\n\nCurrency\nThe evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 467,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.238095238095237,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 33,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 21,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 132,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.59909350463957,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.842171918017744,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.077677169368819,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.067494646680935,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.946629958193125,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.64280615886612,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.428571428571429,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.295630140987,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.053844641582543,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 176,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 94,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 156,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 467,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 467 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 6,
+        "P75_count": 9,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 50,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good start, but it needs a few revisions to meet our guidelines and ensure it's clear for all readers. The main issues are that some subheadings are not phrased as questions, key technical terms are left unexplained, and the results are presented in a single, dense paragraph.\n\nHere are the top 3 improvements needed:\n\n1.  **Rephrase all subheadings as questions.** Several subheadings don't follow the required question format, which helps guide the reader. This is a critical requirement of the style guide.\n    *   **Problem:** The subheadings 'Methods', 'Limitations', and 'Currency' are not questions.\n    *   **Suggestion:** Please change them to:\n        *   'How did we conduct this review?'\n        *   'What are the limitations of the evidence?'\n        *   'How up-to-date is this evidence?'\n\n2.  **Explain technical terms for schizophrenia.** The results section uses jargon that will be unfamiliar to most readers, making the findings difficult to understand.\n    *   **Problem:** \"Magnetic seizure therapy and electroconvulsive therapy may not differ in improving global state, positive symptoms, or negative symptoms.\"\n    *   **Suggestion:** Explain what these terms mean in simple language. For example: \"Magnetic seizure therapy and electroconvulsive therapy may not differ in improving people's overall well-being or specific symptoms of schizophrenia (such as hearing voices, which are known as 'positive symptoms', or showing a lack of motivation, known as 'negative symptoms').\"\n\n3.  **Break up the 'Results' paragraph for readability.** The findings are presented in one long paragraph, which can be overwhelming. Separating the key results makes them easier to digest.\n    *   **Problem:** The entire 'What did we find?' section is a single block of text covering study details, symptom improvement, dropout rates, and cognitive effects.\n    *   **Suggestion:** Split this into shorter paragraphs or use a bulleted list. For example:\n        \"We found one four-week study that involved 79 adults with acute schizophrenia. It compared magnetic seizure therapy (MST) plus standard care to electroconvulsive therapy (ECT) plus standard care.\n\n        Our main findings were:\n        - There may be no difference between MST and ECT for improving overall well-being or for reducing the main symptoms of schizophrenia.\n        - People receiving MST may be less likely to experience memory loss or a decline in thinking skills compared to those receiving ECT.\n        - There may be no difference between the groups in how many people left the study early for any reason.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns, with 61.1% of features falling within the best quartile for readability and style. However, the analysis flagged a high number of 'nominalizations' (21 instances, placing it in the P90 range). These are nouns created from verbs (e.g., 'deterioration' instead of 'deteriorating'), which can make sentences more abstract and less direct. This metric supports the editorial feedback to use more active verbs to improve clarity."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007491.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is hospital‑at‑home a safe and cheaper option for older adults?\n\nKey messages  \n- Hospital‑at‑home (receiving acute (sudden and severe but short‑lasting) hospital‑level care in your own home) is about as safe as a regular hospital stay for older adults. We found no clear difference in mortality (the number of deaths) or readmission (return to hospital after discharge), and it probably halves the chance of moving into residential care (living in a care home). No serious harms were reported and the evidence is fairly reliable.  \n- People who receive hospital‑at‑home often feel more satisfied with their care, spend fewer days in hospital, and the overall cost to the health service is likely lower. There is also some indication that total costs to society (including patients and families) are reduced for up to six months. The evidence for these benefits is reasonably reliable.  \n- More research is needed, especially larger studies with longer follow‑up, to confirm safety and cost outcomes, to understand effects on caregivers, and to identify which patients benefit most, using consistent ways of measuring costs.  \n\nWhat is admission‑avoidance hospital‑at‑home and why is it needed?  \nWhen a person becomes seriously ill, the usual response is to admit them to a hospital for acute (short‑term) care. For many older adults and for people with conditions such as chronic obstructive pulmonary disease (a type of lung disease that permanently damages the airways, making breathing difficult) or stroke (a sudden loss of blood flow to part of the brain that damages brain tissue), a hospital stay can be stressful, costly, and can reduce independence. Admission‑avoidance hospital‑at‑home aims to give the same level of medical treatment at home while avoiding an unnecessary hospital admission.\n\nWhat did we aim to find out?  \nWe wanted to know whether admission‑avoidance hospital‑at‑home works as well as, or better than, ordinary inpatient hospital care. Specifically we looked at:  \n- How the approach affects important health outcomes such as death, readmission, and the chance of moving into a care home;  \n- How patients feel about their health and the care they receive;  \n- Whether it shortens the stay in hospital;  \n- Whether it saves money for the health service and for society overall.\n\nHow did we find the evidence?  \nWe searched electronic databases for randomised controlled trials that compared admission‑avoidance hospital‑at‑home with standard inpatient care in adults. Two reviewers independently extracted data and pooled results using meta‑analysis. We assessed risk of bias and rated the certainty of the evidence with the GRADE system (a method for judging how confident we are in the evidence).\n\nWhat did we find?  \nWe identified 20 randomised controlled trials that together included 3,100 participants aged 18 years or older. The trials compared admission‑avoidance hospital‑at‑home – where doctors, nurses and other professionals deliver active treatment (a proven therapy given during a study) in the patient’s own home for a short period, with the option to transfer to hospital – with usual acute (sudden and severe) hospital inpatient care. Participants included people with chronic obstructive pulmonary disease, people recovering from stroke, older adults with acute medical problems, and other conditions.\n\nMain results  \n- For older adults, care at home probably makes little or no difference to the chance of dying within six months (mortality) and probably makes little or no difference to the same person being readmitted to hospital within three to twelve months.  \n- It probably cuts the chance of needing residential care by about half.  \n- Patients’ own ratings of their health status are probably unchanged.  \n- People may feel a little more satisfied with the care they receive at home.  \n- Hospital stays are probably shorter, and the overall cost to the health service is probably lower when care is provided at home.  \n\nWhat are the limitations?  \nWe are moderately confident in the evidence because participants knew which treatment they received, and because the studies involved different types of people and used different ways of delivering the intervention. These factors may reduce the certainty of the results.\n\nHow current is the evidence?  \nThis review updates our previous review. The evidence is current to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 697,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.5,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 187,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.81860473457675,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.706004304160693,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.869827833572451,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.283271162123384,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.636154949784792,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.755380200860834,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.382352941176471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.313708498984761,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.405293543758968,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 282,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 282.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 183,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 697,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 697 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 4,
+      "P75_count": 3,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:52.841182"
+}

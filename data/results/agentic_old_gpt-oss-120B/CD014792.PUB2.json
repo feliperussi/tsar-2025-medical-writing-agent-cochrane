@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014792.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is tube feeding better than IV nutrition or regular eating after Whipple surgery?\n\nKey messages\n- We found that tube feeding into the small intestine (enteral feeding) probably shortens hospital stay by about 1.6 days compared with total parenteral nutrition (TPN), a form of long‑term nutritional support given directly into a vein. The evidence does not show a clear difference in serious complications, and compared with normal oral eating, tube feeding does not appear to change length of stay or complication rates, but the evidence is very uncertain.  \n- The 17 trials we reviewed were small, used different feeding methods, and varied in quality, so our confidence in the findings is low to very low.  \n- We need larger, well‑designed studies to determine the safest and most effective way to provide nutrition after a Whipple procedure, including long‑term outcomes and cost.\n\nWhat is a Whipple procedure and why does nutrition matter after it?  \nSurgeons perform a Whipple procedure (pancreaticoduodenectomy, a surgery that removes the head of the pancreas, part of the small intestine, bile duct and stomach) mainly to treat pancreatic cancer. The operation changes the normal flow of food and digestive juices, so patients can quickly become malnourished (a condition caused by not getting enough calories or key nutrients). Malnutrition after surgery can delay healing, increase the risk of complications such as infection or bleeding, and make it harder to return to a normal diet. To keep patients nourished we can use oral feeding (eating or drinking by mouth), enteral feeding (delivering food directly into the intestine through a tube such as a jejunostomy – a surgical opening that allows a tube to enter the jejunum, the middle part of the small intestine – or a nasojejunal tube – a thin tube that runs from the nose to the jejunum), or parenteral nutrition (nutrition given directly into a vein, either partially or as total parenteral nutrition, TPN).\n\nWhat did we aim to find out?  \nWe wanted to compare postoperative nutrition strategies after a Whipple procedure. Specifically we examined how the route (oral, enteral, parenteral), timing and target of feeding affect the rate of complications such as postoperative pancreatic fistula (a leak of pancreatic fluid from the surgical site), delayed gastric emptying (slow emptying of the stomach into the intestine), bleeding‑related complications, and overall recovery including length of hospital stay and mortality (death rate).\n\nHow did we find the evidence?  \nWe searched MEDLINE, Embase, CENTRAL, CINAHL and LILACS for randomised controlled trials that compared different nutrition routes after a Whipple procedure. We pooled eligible studies and combined their results using meta‑analysis (a method that merges data from several studies to give an overall estimate). We graded the certainty of each outcome with the GRADE system (a framework that judges how confident we can be in research findings).\n\nWhat did we find?  \nWe identified 17 randomised controlled trials that enrolled 1,897 adults who had a Whipple procedure. All trials compared nutrition methods while patients were still in hospital. The head‑to‑head comparisons were:\n- Jejunostomy feeding versus TPN (four trials, 316‑346 participants)  \n- Nasojejunal feeding versus TPN (two trials, 242 participants)  \n- Jejunostomy feeding versus oral feeding (two trials, about 300 participants)\n\nEnteral feeding through a jejunostomy probably shortens hospital stay by about 1.6 days compared with TPN (moderate‑certainty evidence). For other outcomes, the evidence suggests little or no difference between jejunostomy feeding and TPN for postoperative pancreatic fistula, delayed gastric emptying, bleeding and death, but the certainty is low or very low, so we remain uncertain. Nasojejunal feeding appears to make little or no difference to length of stay, delayed gastric emptying or bleeding when compared with TPN, and it may increase the risk of pancreatic fistula slightly, although the evidence is uncertain. Compared with oral feeding, jejunostomy feeding shows little or no difference for length of stay, major or minor complications (graded by the Clavien‑Dindo classification, which rates how serious surgical complications are), pancreatic fistula and bleeding, but the certainty is very low. None of the feeding strategies showed a clear impact on mortality.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the findings because the studies enrolled different types of patients, used varied feeding methods, and were generally small. This heterogeneity reduces the reliability of the pooled results.\n\nHow current is the evidence?  \nWe searched the literature up to October 2022. The evidence therefore reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 756,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.2,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.2 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 38.01890476190479,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.216835978835977,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.813452380952377,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.542063492063491,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.75724867724868,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 59.459259259259255,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.5 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.633333333333333,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 15.884098726725126,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.35124275132275,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 340,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 340.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 164,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 259,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 259.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 756,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 756 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:03.980534"
+}

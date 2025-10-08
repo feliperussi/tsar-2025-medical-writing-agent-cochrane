@@ -1,0 +1,162 @@
+{
+  "id": "CD012718.PUB2",
+  "draft": "Does applying silver diamine fluoride (a liquid that can stop cavities) prevent or treat tooth decay in children and adults?\n\nKey messages\n– Silver diamine fluoride (SDF) may reduce new decay on the roots of teeth and may help stop cavities in baby teeth. However, the overall evidence is uncertain and we do not have clear data on side effects such as tooth staining.\n– When compared with fluoride varnish (a coating applied to teeth), SDF shows little or no extra benefit for preventing new cavities in baby teeth, and the evidence for other outcomes, including adult teeth, is very uncertain.\n– Most studies had methodological problems, so better‑designed research is needed to confirm how well SDF works, to assess staining, and to compare it directly with other common treatments.\n\nWhy is dental caries a major health problem?\nTooth decay, also called dental caries, is the most common disease worldwide. When decay is untreated it can cause pain, make eating difficult, and affect confidence and social life. Decay can affect baby (primary) teeth, adult (permanent) teeth, and the roots of teeth. Because it is so common, finding simple and affordable ways to stop new decay or to halt existing decay is a public‑health priority.\n\nWhat is silver diamine fluoride and how is it used?\nSilver diamine fluoride (SDF) is a liquid that we can paint on a tooth. It contains a small amount of silver, which kills bacteria, and fluoride, which strengthens the tooth surface. The treatment is quick, does not require drilling, and can be applied by a dentist or a trained health worker. A known side effect is that the treated part of the tooth can turn a dark colour, which may be a concern for appearance.\n\nWhat did the review aim to find out?\nWe wanted to know whether applying SDF prevents new cavities or stops existing ones from getting worse in both baby and adult teeth. We compared SDF with doing nothing, with a placebo, and with other common treatments such as fluoride varnish, sealants, resin infiltration, or atraumatic restorative treatment (a minimally invasive filling technique). We also looked at side effects, pain, and changes in how the teeth look after treatment.\n\nHow did we find the evidence?\nWe searched for studies published up to June 2023 that compared SDF with a placebo, no treatment, or other ways of preventing cavities. We combined the results and judged how confident we could be in the findings, following Cochrane guidelines.\n\nWhat did we find?\nWe identified 29 randomised controlled trials that together enrolled 13 036 participants (12 020 children and 1 016 older adults). The trials used two simple designs. In a parallel‑group study, each participant received only one treatment. In a split‑mouth study, each participant received two different treatments, one on each side of the mouth. Researchers tested different concentrations of SDF and different application schedules. Comparators included placebo or no treatment, fluoride varnish, sealants, resin infiltration, and atraumatic restorative treatment with glass‑ionomer cement.\nWe found that SDF probably reduces the development of new decay on the roots of teeth compared with doing nothing. Evidence for other outcomes—such as stopping cavities in baby teeth, side effects, or comparisons with fluoride varnish, sealants, resin infiltration or atraumatic restorative treatment—is very uncertain.\n\nWhy is the evidence uncertain?\nBecause the colour change caused by SDF makes it easy for participants to see which treatment they received, many studies were not blinded. This awareness can influence how participants report outcomes. In addition, most studies were small, which reduces the reliability of the results.\n\nHow current is the evidence?\nThe evidence reflects studies published up to June 2023, so it includes all research available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 638,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.333333333333332,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 71,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 183,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 55.93580459770118,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.260344827586206,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.620240334378266,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.612789968652038,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.316405433646814,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.330198537095086,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.606060606060606,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.641221734587252,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 270,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 270.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 105,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 185,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 638,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 638 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft meets the structural and factual requirements, but several clarity problems would likely confuse a lay reader. 1) Unexplained jargon (e.g., “randomised controlled trials”, “parallel‑group”, “split‑mouth”, “root caries”, “caries arrest”) is used without simple definitions. 2) Some sentences are long and noun‑heavy, making them hard to follow (e.g., “We identified 29 randomised controlled trials that together enrolled 13 036 participants (12 020 children and 1 016 older adults).”). 3) The text contains many nominalisations and noun‑dense constructions, which the metrics flag (nominalisation = 25 (P90), nouns = 183 (P90), complex_words_dc = 270 (P90), long_words = 185 (P90)). These reduce readability for patients. Suggested rewrites are provided below.\n\n**Top improvements**:\n1. **Jargon** – Original: “We identified 29 randomised controlled trials (RCTs) … The trials used two simple designs. In a parallel‑group study … In a split‑mouth study …”.\n   Why problematic: Readers may not know what RCTs, parallel‑group or split‑mouth mean.\n   Rewrite: “We found 29 studies that randomly gave participants one of two treatments. In some studies, each person received only one treatment (parallel‑group). In other studies, each person received two different treatments, one on each side of the mouth (split‑mouth).”.\n2. **Long, noun‑heavy sentence** – Original: “We identified 29 randomised controlled trials that together enrolled 13 036 participants (12 020 children and 1 016 older adults).”.\n   Why problematic: The sentence packs many numbers and nouns, making it hard to process.\n   Rewrite: “We found 29 trials involving a total of 13,036 people – 12,020 children and 1,016 older adults.”\n3. **Technical term “root caries”** – Original: “SDF probably reduces the development of new root caries compared with doing nothing.”\n   Why problematic: “Root caries” may be unfamiliar.\n   Rewrite: “SDF probably reduces new decay that forms on the roots of teeth compared with no treatment.”\n4. **Nominalisation “methodological problems”** – Original: “Because most studies had methodological problems, so better‑designed research is needed.”\n   Why problematic: “Methodological problems” is abstract.\n   Rewrite: “Because many studies were poorly designed, we need better‑designed research.”\n5. **Passive phrasing** – Original: “The evidence reflects studies published up to June 2023, so it includes all research available at that time.”\n   Why problematic: Passive voice can obscure who did the work.\n   Rewrite: “We included all studies published up to June 2023, so the evidence covers everything that was available then.”\n\nThese changes address the most confusing elements and also reduce the high noun and nominalisation counts flagged by the PLS evaluation (nominalisation, nouns, complex_words_dc, long_words all in the P90 range).",
+      "pls_evaluation_summary": "The draft conforms overall (72% of features in best quartile) but shows four deviations in the P90 range: nominalisation (25, target <13), nouns (183, target <116), complex_words_dc (270, target <160) and long_words (185, target <122). These indicate the text is noun‑heavy and uses many long or technical words, supporting the need to simplify language and reduce nominalisations."
+    }
+  ]
+}

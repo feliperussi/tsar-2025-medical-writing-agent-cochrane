@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009975.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "## Key Messages\n- Videolaryngoscopy may increase the success of intubation on the first attempt and may result in fewer intubation attempts, but it may not reduce the time required for successful intubation. However, the evidence for these findings is not very strong.\n- Videolaryngoscopy likely results in a reduced incidence of airway-related adverse effects compared to direct laryngoscopy. \n- More research is needed to confirm the benefits and risks of videolaryngoscopy for tracheal intubation in neonates, as the current evidence has limitations.\n\n## Introduction to the review topic and review aims\n### What is tracheal intubation in neonates?\nTracheal intubation is a medical procedure where a tube is inserted into a baby's airway to help them breathe. This is often necessary for newborns who are having trouble breathing on their own. Establishing a secure airway is crucial in neonatal resuscitation, both in the delivery room and in the neonatal intensive care unit.\n\n### Why is improving airway management important?\nImproving airway management is important because it can reduce the risk of complications during intubation, such as airway trauma or desaturation (a drop in oxygen levels). These complications can be serious and even life-threatening for newborns.\n\n### What did we want to find out?\nWe wanted to determine whether using videolaryngoscopy (a device with a camera that helps doctors see the airway) is more effective and safer than using direct laryngoscopy (looking directly at the airway with a special tool) for tracheal intubation in newborns. Specifically, we looked at whether videolaryngoscopy can reduce the time and number of attempts needed for successful intubation and decrease the risk of complications.\n\n## What did we do?\nWe searched for studies that compared videolaryngoscopy with direct laryngoscopy for tracheal intubation in newborns. We then summarized and evaluated the results of these studies to assess the effectiveness and safety of videolaryngoscopy.\n\n## What did we find?\nWe found eight studies that included data on 759 intubation attempts in newborns. These studies used different videolaryngoscopy devices and were conducted in various hospitals around the world. The evidence suggests that videolaryngoscopy may increase the success of intubation on the first attempt and may result in fewer intubation attempts. However, it may not reduce the time required for successful intubation. Additionally, videolaryngoscopy likely results in a reduced incidence of airway-related adverse effects.\n\n## What are the limitations of the evidence?\nWe have little confidence in the evidence regarding the time required for successful intubation and the number of intubation attempts because the studies had limitations, such as a high risk of bias. The evidence for the reduction in airway-related adverse effects is more robust, but still, more research is needed to confirm these findings.\n\n## How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to November 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 502,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.82608695652174,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 38.06399185865237,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.37237311623073,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.967366187424211,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.161832669322703,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.459518447947342,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.8978001039321,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.341956383163,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 199,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 97,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 161,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 502,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 502 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 7,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:30.101834"
+}

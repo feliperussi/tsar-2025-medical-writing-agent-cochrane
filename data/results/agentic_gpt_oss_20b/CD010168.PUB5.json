@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010168.PUB5",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is placing a drain (a tube to remove fluid) in the abdomen after surgery for a burst or perforated appendix effective at preventing belly infections (intraperitoneal abscess)?\n\nKey messages\n– Using a drain after surgery for a burst or perforated appendix does not reduce belly infections and may increase the risk of death, but the evidence is very uncertain because the studies were small and had design problems.  \n– No reliable studies compared different drain types (open versus closed) or looked at the best time to remove a drain.  \n– Larger, well‑designed trials are needed to find out whether drains are helpful and safe.\n\nWhat is complicated appendicitis and why does it matter?  \nAppendicitis is inflammation of the appendix, a small pouch attached to the large intestine. When the appendix dies (gangrenous) or bursts (perforated), the condition is called complicated appendicitis. This can spread infection into the abdominal cavity (peritonitis) and may lead to painful pockets of pus called intraperitoneal abscesses after surgery. Surgeons remove the appendix (appendectomy) through an open cut or a keyhole (laparoscopic) approach. Because the infection risk is higher, they sometimes place an abdominal drain – a thin tube that helps remove fluid or pus that might collect after the operation.\n\nWhat did the review aim to find out?  \nWe wanted to know whether placing an abdominal drain after appendectomy for complicated appendicitis improves outcomes. Specifically we asked: (1) does a drain reduce infections or other complications compared with no drain? (2) do different drain types (open vs closed) give different results? (3) is there an optimal time to remove the drain?\n\nHow did we find the evidence?  \nWe searched medical databases for studies that compared using a drain with not using a drain after appendectomy for complicated appendicitis. We combined the results of similar studies (a meta‑analysis) or described them individually when pooling was not possible. We then rated our confidence in each result using the GRADE system, which grades how certain we are that the evidence reflects the true effect.\n\nWhat did we find?  \nWe identified eight studies – five randomized trials and three trials that tried to assign patients in a similar way – involving a total of 739 people (370 received a drain, 369 did not). The studies were done in North America, Asia and Africa between 1973 and 2023 and included both children and adults, most of whom had perforated appendicitis with peritonitis. All participants received antibiotics after open or laparoscopic surgery. The only comparison made was drain versus no drain; no study looked at open versus closed drains or at early versus late drain removal.\n\nWhat were the main results for 30‑day mortality?  \nSeven deaths occurred among people with a drain (7/291) compared with one death among those without a drain (1/290). This suggests that using a drain probably increases the risk of death within 30 days after surgery. For other outcomes – such as intraperitoneal abscess, wound infection, overall complications and length of hospital stay – the evidence is very uncertain.\n\nWhat are the limitations of the evidence?  \nMany studies were small and had a high risk of bias. Participants and clinicians often knew which treatment was given, which can influence results. Not all studies reported every outcome we wanted, and the study populations and methods varied.\n\nHow up‑to‑date is this review?  \nThis review updates the previous Cochrane review and includes evidence up to October 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 580,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.058823529411764,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.63856997971604,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.573630831643005,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.92667038539554,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.962551724137928,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.616632860040568,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.12778904665314,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.617647058823529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.1893417849898595,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 233,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 113,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 157,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 580,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 580 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:52.957287"
+}

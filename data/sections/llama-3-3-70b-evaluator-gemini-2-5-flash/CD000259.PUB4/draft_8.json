@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Can giving healthcare professionals information about their performance improve the quality of care they provide? \n\nKey messages: \n- Giving healthcare professionals information about their performance, known as audit and feedback, can improve the quality of care they provide, although the size of the effect varies. The included studies did not report on harms, so we are uncertain about any potential risks.\n- Audit and feedback seems to be more effective when it is designed to help healthcare professionals prioritize and take action on important clinical issues.\n- Future research should focus on addressing the limitations of the current evidence, such as the lack of long-term follow-up and the need for more studies in diverse settings and populations.\n\nWhat is audit and feedback, and why is it important for improving healthcare practice? \nAudit and feedback is a strategy used to improve professional practice in healthcare. It involves measuring clinical performance over a specified period and providing the resulting data to clinicians or clinical teams. The goal is to help healthcare professionals see where their work differs from best practice, so they can improve.\n\nWhat did we want to find out about audit and feedback? \nWe aimed to assess the effects of audit and feedback on the practice of healthcare professionals and to examine factors that may explain variation in the effectiveness of audit and feedback.\n\nHow did we search for studies? \nWe performed a systematic search for studies evaluating audit and feedback interventions.\n\nWhat did we find? \nWe found 292 studies. These studies included 678 different groups of healthcare professionals to compare different approaches. We found that audit and feedback improved healthcare professionals’ practice. On average, for every 100 times a professional should have done something, like ordering the correct test, they did it 6 more times with audit and feedback than without.\n\nWe also found that audit and feedback seems to work best when it:\n- measures an individual’s performance, not a team’s\n- is delivered by a trusted colleague (a ‘local champion’)\n- includes both written and spoken feedback\n- compares performance to top performers or a set standard\n- includes a clear, actionable plan for improvement\n\nWhat are the limitations of the evidence? \nThe evidence has some weaknesses. For example, the studies included very different types of people and used different methods, which makes it hard to compare them.\n\nIs the evidence up to date? \nThe evidence is up to date to June 2020.\n\nIn summary, audit and feedback can be an effective way to improve the quality of care provided by healthcare professionals, but more research is needed to understand how to make it work best.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 459,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 124,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 54.53292892156864,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.404261982570805,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.96419934640523,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.155555555555551,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.754575163398693,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.497549019607845,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.055385138137417,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.899950762527233,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 173,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 93,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 459,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 459 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 8,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. While the writing style is clear and readable, there is a critical factual omission in the 'Limitations' section that could mislead readers about the certainty of the evidence. I've outlined this and two other key areas for improvement below.\n\n**Top 3 Improvements Needed:**\n\n**1. Add the specific limitations of the evidence.**\nThe current description of limitations is too vague and leaves out important issues mentioned in the source material.\n- **Your text:** \"The evidence has some weaknesses. For example, the studies included very different types of people and used different methods, which makes it hard to compare them.\"\n- **Why it's a problem:** This omits critical limitations like lack of blinding and incomplete reporting of results. A reader might not understand why your confidence in the evidence is only moderate without this context.\n- **Suggested rewrite:** \"Our confidence in the results is limited for a few key reasons. In many studies, it was possible for healthcare professionals to know they were being observed, which could have biased the results. Also, some studies did not report on all the outcomes they measured. Finally, the studies were very different from each other, which makes the results harder to combine.\"\n\n**2. Clarify the findings on harms.**\nThe current wording could be misinterpreted as a failure of the studies, rather than a lack of observed harms.\n- **Your text:** \"The included studies did not report on harms, so we are uncertain about any potential risks.\"\n- **Why it's a problem:** This phrasing is ambiguous. It's more accurate to state that no significant harms were found, but that we can't be completely certain due to the quality of the evidence.\n- **Suggested rewrite:** \"The studies we found did not report any significant harmful effects from audit and feedback. However, because of the limitations in the evidence, we cannot be certain about potential risks.\"\n\n**3. Make the main result more concrete.**\nThe description of the main finding is good, but it could be slightly more specific to help the reader visualize the outcome.\n- **Your text:** \"On average, for every 100 times a professional should have done something, like ordering the correct test, they did it 6 more times with audit and feedback than without.\"\n- **Why it's a problem:** The phrase \"should have done something\" is a bit abstract. Grounding it in the original context of \"desired practice\" is helpful.\n- **Suggested rewrite:** \"On average, audit and feedback led to a 6% improvement in how often healthcare professionals followed desired practices. For example, for every 100 times a professional should have ordered a specific test, they did it 6 more times with audit and feedback than without.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns. All 18 metrics fall within acceptable ranges, with 83% in the best quartile for readability and clarity. Metrics for sentence length (19.12 words), grade level (10.40), and active voice (56 instances) are excellent. Despite these strong linguistic scores, the draft is not approved due to critical content omissions in the 'Limitations' section that affect factual accuracy."
+    }
+  ]
+}

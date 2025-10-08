@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013603.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are healthcare workers' experiences and views on integrating primary healthcare services?\n\nWe wanted to gather and summarize the existing research on healthcare workers' experiences with combining health services. Our goal was to understand their different views and how these might affect this approach.\n\nWhat is primary healthcare integration?\nPrimary healthcare (PHC) integration means providing healthcare services together, rather than separately. This approach aims to give patients well-rounded and organized care, especially in areas with limited resources. PHC integration can improve people's health, make care feel more joined-up, and help healthcare systems run better.\n\nWhy are healthcare workers' views important?\nHealthcare workers play a crucial role in making PHC integration successful. Their opinions and experiences can influence how well PHC integration works. By looking at what healthcare workers think and feel, we can understand what helps or hinders PHC integration and learn how to improve it.\n\nWhat did we want to find out?\nWe conducted a 'scoping review' to map out all the available research on this topic. We searched for studies that used methods like interviews and focus groups to explore healthcare workers' opinions and experiences with PHC integration. We then summarized the types of studies we found.\n\nWhat did we find?\nWe found 184 studies that met our criteria. Most of these studies were published in the last 12 years, with many more being published in the last 5 years. The studies showed that healthcare workers have varying opinions and experiences with PHC integration. We identified 6 different areas where healthcare services were being combined, including:\n- Mental and behavioral health\n- HIV, tuberculosis, and sexual reproductive health\n- Maternal, women, and child health\n- Non-communicable diseases\n- General primary healthcare services\n- Allied and specialized services\n\nWhat are the limitations of the evidence?\nThis review mapped the available research but did not combine the results to answer a specific question about whether integration works. We found that most studies were from a few specific countries, such as the USA and South Africa, and very few studies looked at healthcare workers' experiences over a long period of time.\n\nIs the evidence up to date?\nThe evidence is current up to July 2020.\n\nWhat are the key messages?\n- Healthcare workers have different opinions and experiences with integrating primary healthcare services.\n- The review highlights the diversity in primary healthcare integration, including different health service areas, integration strategies, and types of healthcare workers.\n- More research is needed to fully understand the impact of primary healthcare integration on healthcare workers and patients, especially in terms of long-term effects and potential unintended consequences.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 458,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.32,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.70308209606989,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.877944104803493,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.010152838427949,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.895807860262007,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.188262008733625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.25449781659388,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.4,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.390156716157207,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 188,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 458,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 458 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 3,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:25.521482"
+}

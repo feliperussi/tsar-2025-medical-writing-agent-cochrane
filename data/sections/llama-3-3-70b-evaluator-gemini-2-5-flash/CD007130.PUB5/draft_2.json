@@ -1,0 +1,162 @@
+{
+  "id": "CD007130.PUB5",
+  "draft": "Is home-based cardiac rehabilitation as effective as hospital-based cardiac rehabilitation for people with heart disease?\n\nKey messages:\n- Home-based cardiac rehabilitation seems to be as effective as hospital-based cardiac rehabilitation for people with heart disease, with no significant difference found in terms of benefits, and no major unwanted or harmful effects reported.\n- Both home-based and centre-based cardiac rehabilitation appear to improve clinical and health-related quality of life outcomes, although the quality of evidence is not strong, and more research is needed to confirm these findings, especially for patients with specific conditions such as those who have had heart failure or valve surgery.\n- Further research is needed to determine the long-term effects of home-based and centre-based cardiac rehabilitation, and to explore the potential benefits and drawbacks of hybrid models that combine elements of both approaches, as well as to address the limitations of current studies, including the short duration of most trials and the lack of data on certain patient groups.\n\nWhat is cardiovascular disease and why is it a problem?\nCardiovascular disease is the most common cause of death globally. It refers to conditions that affect the heart and blood vessels, such as heart attacks (when the heart muscle is damaged due to a lack of blood flow), strokes (when the brain is damaged due to a lack of blood flow), and other diseases. Traditionally, people who have had heart problems or procedures are offered centre-based cardiac rehabilitation programmes to help them recover and prevent further heart problems.\n\nWhat are home-based and centre-based cardiac rehabilitation programmes?\nCentre-based cardiac rehabilitation programmes are supervised programmes that take place in hospitals, sports centres, or community centres. Home-based cardiac rehabilitation programmes, on the other hand, can include digital or telehealth interventions (using technology to deliver healthcare remotely) and are designed to be done at home with support from healthcare staff. Both types of programmes aim to improve exercise capacity (the ability to perform physical exercise), health-related quality of life (a person's overall well-being), and reduce the risk of further heart problems.\n\nWhat did the review authors want to find out?\nThe review authors wanted to compare the effects of home-based and centre-based cardiac rehabilitation programmes on mortality (death rate), morbidity (disease rate), exercise capacity, health-related quality of life, and modifiable cardiac risk factors (factors that can be changed to reduce the risk of heart disease) in patients with heart disease. They also wanted to determine whether one type of programme is more effective than the other in improving clinical outcomes.\n\nHow did the review authors find the information?\nWe searched for studies comparing home-based and centre-based cardiac rehabilitation, summarized their results, and rated our confidence in the evidence to determine their effectiveness in improving clinical and health-related quality of life outcomes.\n\nWhat did the review authors find?\nWe found 24 studies that involved 3046 people with heart disease. The studies were conducted in various countries around the world. Most studies lasted for around 12 months or less, with only three studies reporting outcomes beyond 12 months. The participants had a history of acute myocardial infarction (heart attack), revascularisation (a procedure to restore blood flow to the heart), or heart failure. Home-based and centre-based cardiac rehabilitation seem to be similarly effective in improving clinical and health-related quality of life outcomes in patients after myocardial infarction, or revascularisation, or with heart failure. It is unclear if one type of rehabilitation has an effect on mortality or exercise capacity compared to the other. For every 100 people undergoing cardiac rehabilitation, the choice between home-based and centre-based programmes may make little to no difference in terms of clinical outcomes.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to September 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 701,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 25.035714285714285,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 43,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 43.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 243,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 36.11932774607703,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.44097564703485,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 15.491166700631751,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 13.48296718972896,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 20.456511106582433,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.5 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 58.84455879356022,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 58.8 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.464285714285714,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 15.083045973594572,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.066835622579989,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 303,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 303.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 183,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 237,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 701,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 701 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is factually accurate and complete, but it does not meet plain language standards for clarity and readability. The sentences are consistently too long and complex, and the writing style is too academic for a general audience. The text needs significant revision to be more accessible. Here are the top 3 improvements needed:\n\n1. **Break up long, complex sentences.** Many sentences combine multiple ideas, making them difficult to follow. The average sentence length is over 25 words, which is too high for a plain language summary.\n   - **Example:** \"Further research is needed to determine the long-term effects of home-based and centre-based cardiac rehabilitation, and to explore the potential benefits and drawbacks of hybrid models that combine elements of both approaches, as well as to address the limitations of current studies, including the short duration of most trials and the lack of data on certain patient groups.\"\n   - **Problem:** This 58-word sentence contains at least four separate ideas, overwhelming the reader.\n   - **Suggested Rewrite:** \"More research is needed to understand a few things. We need to know the long-term effects of both types of rehabilitation. We also need to study 'hybrid' models that combine home and centre-based care. Finally, future studies should last longer and include more types of patients.\"\n\n2. **Use active voice and simpler verbs.** The draft relies heavily on passive voice and nominalizations (turning verbs into nouns), which makes the text feel impersonal and unnecessarily complex. The analysis found 43 instances of passive voice and 31 nominalizations, both of which are exceptionally high.\n   - **Example:** \"Home-based cardiac rehabilitation seems to be as effective as hospital-based cardiac rehabilitation for people with heart disease, with no significant difference found in terms of benefits, and no major unwanted or harmful effects reported.\"\n   - **Problem:** The phrases \"difference found\" and \"effects reported\" are passive and wordy. It's clearer to state who did the action.\n   - **Suggested Rewrite:** \"Our review found that home-based cardiac rehabilitation is likely as effective as hospital-based programs. The studies we looked at did not find significant differences in benefits and did not report any major harmful effects.\"\n\n3. **Replace complex and technical vocabulary.** The text uses many multi-syllable words and academic phrases where simpler, everyday language would be clearer. Readability scores like the SMOG Index (15.1) and Gunning Fog Index (20.5) indicate a post-graduate reading level.\n   - **Example:** \"The review authors wanted to compare the effects of home-based and centre-based cardiac rehabilitation programmes on mortality (death rate), morbidity (disease rate), exercise capacity, health-related quality of life, and modifiable cardiac risk factors...\"\n   - **Problem:** This is a long list of abstract, technical terms that are hard for a lay reader to process all at once.\n   - **Suggested Rewrite:** \"We wanted to find out if home-based programs were better, worse, or the same as centre-based programs. We looked at how each program affected a person's risk of dying, overall health, ability to exercise, and quality of life.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows this draft deviates significantly from typical PLS patterns. While the word count is acceptable, 12 of 18 metrics fall into the P90 or BEYOND_P90 ranges, indicating major issues. Key problem areas include very long sentences (words_per_sentence: 25.04), high use of passive voice (43 instances), nominalizations (31 instances), and complex vocabulary (smog_index: 15.08, complex_words: 183). These scores suggest the text is too academic and would be difficult for a lay audience to understand."
+    }
+  ]
+}

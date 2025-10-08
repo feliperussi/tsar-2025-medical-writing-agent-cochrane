@@ -1,0 +1,158 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "reference",
+  "source_fields": [
+    "pls"
+  ],
+  "text": "Mammography followed by ultrasonography compared to mammography alone for breast cancer screening in women at average risk of breast cancer\n\nWhat is the issue?\n\nWe examined the evidence for and against adding ultrasonography screening to mammograms for women at average risk for breast cancer.\nWhy is it important?\n\nIt is important to weigh the pros and cons of screening because the increased detection of tumours through screening does not necessarily mean that more women will be saved. Evidence shows that mammography in healthy women between the ages of 50 and 69 can detect breast cancer early and reduce the risk of dying from breast cancer. However, mammography is not a perfect tool to detect breast cancer and can miss tumours in some women, particularly those with dense breasts. In these women, the tumour is difficult to distinguish from normal breast tissue on the mammogram. For women with non‐dense breasts, ultrasonography is often routinely performed in addition to mammography to increase the sensitivity of screening.\nGap in the evidence: no study examined the effect of additional ultrasonography screening on death\nTo determine whether routine screening with mammography and ultrasonography is beneficial, a study (ideally a randomised controlled trial (RCT), that is a study in which participants are randomly assigned to one of two or more treatment groups) comparing whether disease progression and death rates differ between methods is essential. None of the studies, which followed women for one to three years, lasted long enough to determine whether more cancer cases detected during screening with mammography and ultrasonography lead to reductions in disease and death.\nHow many more cancers are detected by mammography screening with additional ultrasonography?\n\nWe found one RCT and seven cohort studies (a type of study in which groups of people are followed over time) that analysed whether the combination of mammography and ultrasonography is more effective than mammography alone for early detection of breast cancer in women at average risk of breast cancer with no symptoms.\nThe methods of the RCT were sound, and the study represented the best evidence currently available. The study included 72,717 women at average risk for breast cancer, 58% of whom had dense breast tissue. After a two‐year follow‐up, women screened once with a combination of mammography and ultrasonography had two more breast cancers detected per 1000 women compared with women screened with mammography (5.0 versus 3.2 per 1000 women screened).\nHow effective is additional ultrasound screening in women with dense or non‐dense breasts?\n\nA recent publication analysed a subgroup of the RCT of 19,213 women, and reported results separately for women with dense and non‐dense breasts.\nIn women with dense breasts, three more breast cancers per 1000 women were detected with mammography and ultrasonography than with mammography alone. This finding was supported by real‐world evidence: the combined result of three cohort studies examining a total of 50,327 women with dense breasts found additional cancers in women with dense breasts when mammography screening was supplemented with ultrasonography. In women with non‐dense breasts, the results of two cohort studies with data from 40,636 women were not consistent with the RCT and found no significant difference in the proportion of cancer cases between the two screening methods.\nHow many cancer cases were invasive and had lymph nodes involved?\n\nIn the RCT, 71% of all tumours identified at screening were classified as invasive, with no significant difference between the two groups. However, the result for the difference between the two groups was imprecise, and our confidence in the result is low. In women with invasive cancer found by mammography screening combined with ultrasonography, lymph nodes were affected in fewer cases than in the group screened by mammography alone (18% (23 of 128) versus 34% (29 of 86)).\nInterval cancer: cancer cases detected in the time between screening rounds\nThe RCT also showed that cancers that were not found during screening examinations (but were found in the time period between examinations) occurred less frequently when screening was performed with a combination of mammography and ultrasonography (5 versus 10 per 10,000) than when screening was performed with mammography alone.\nFalse‐positive and false‐negative rate\nThe rate of false‐negative results, indicating a negative result when cancer is present, was lower (9% versus 23%) when ultrasonography was performed in addition to mammography. However, the combination of mammography and ultrasound resulted in more false‐positives than mammography alone in women without cancer: 123 versus 86 per 1000 women. Moreover, of 1000 women screened with a combination of mammography and ultrasonography, 27 more needed a biopsy than with mammography alone.\nHow up‐to‐date is this review?\n\nWe searched for studies published up to May 2021.\nConclusion\nIt is unclear whether or to what extent ultrasonography in addition to mammography screening can reduce the risk of dying from breast cancer therefore ultrasonography should not be used on a routine basis. For women to make an informed decision, we need to assess whether the few additional cancers that can be detected by ultrasonography actually result in a decrease in breast cancer disease and death.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 865,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 27.03125,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 35,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 35.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 271,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 271.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 39.832732117052046,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.418777095375724,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.325255057803467,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.117502890173409,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.25758670520231,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.354949421965316,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.65625,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.649110640673518,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.003582369942198,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 365,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 365.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 161,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 245,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 865,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 865 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:39.589013"
+}

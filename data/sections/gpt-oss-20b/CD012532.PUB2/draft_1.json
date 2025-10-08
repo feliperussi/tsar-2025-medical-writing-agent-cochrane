@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Do immune checkpoint drugs (anti‑PD‑1 and anti‑PD‑L1 antibodies) help people with aggressive brain tumors (glioma) live longer?\n\n**Key messages**\n- Immune checkpoint drugs (medicines that help the immune system recognise and attack cancer) that target PD‑1 or PD‑L1 do not seem to make people with glioblastoma (a fast‑growing brain tumour) live longer, and they may increase serious side effects (serious health problems caused by the treatment). The available studies are few, varied, and often of limited quality, so confidence in this conclusion is low.\n- A very small study that gave pembrolizumab (a PD‑1‑targeting drug) before and after tumour removal suggested a possible improvement in survival, but because the study was tiny and the evidence is uncertain, this finding cannot be relied upon.\n- Future research should involve larger, high‑quality randomised trials that follow patients for longer periods, examine both benefits and harms, and identify any subgroups of patients who might benefit from these drugs.\n\n**Introduction/Aims**\nWhat is glioblastoma and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of brain tumour in adults. It grows quickly, spreads throughout the brain, and is hard to remove completely with surgery. Because of its aggressive nature, people with GBM usually live only about 16 months after diagnosis – the \"median survival\" means that half of the patients live longer than 16 months and half live less. The disease causes serious symptoms such as headaches, seizures, and loss of thinking or movement abilities, making it a major health challenge.\n\nWhat treatments are usually used and why might new drugs be needed?\nStandard care for GBM includes surgery to take out as much tumour as possible, followed by radiotherapy (high‑energy X‑rays that kill cancer cells) and a chemotherapy pill called temozolomide. In some cases doctors also add bevacizumab, a drug that blocks the tumour’s ability to grow new blood vessels. Even with these treatments, most patients do not live much longer, so researchers are looking for new options. One promising idea is to use immune checkpoint inhibitors – medicines that block proteins (PD‑1 on immune cells and PD‑L1 on tumour cells) that normally keep the immune system from attacking the tumour. By blocking these proteins, the drugs aim to “release the brakes” on the immune system so it can recognise and destroy cancer cells. However, GBM creates an environment that suppresses the immune response, which may limit how well these drugs work.\n\nWhat did the researchers want to find out?\nThe review set out to discover whether drugs that block PD‑1 or PD‑L1 (called anti‑PD‑1 and anti‑PD‑L1 antibodies) improve outcomes for adults with diffuse glioma, the group of brain tumours that includes GBM. Specifically, the authors compared these immune‑targeting medicines with placebo or with the usual treatments, looking at how long people lived overall (overall survival), how long the tumour stayed under control (progression‑free survival), the frequency of serious side‑effects, and other factors such as tumour response rates and quality of life.\n\n**Methods**\nMethods\nWe searched databases for studies that evaluated anti‑PD‑1 or anti‑PD‑L1 antibodies in adults with diffuse glioma, compared them with placebo or other therapies, combined the reported results, and rated our confidence in the evidence.\n\n**Results**\nWhat did we find?\nWe identified seven randomised controlled trials that together enrolled 1,953 adults with diffuse grade 4 glioma (glioblastoma). Four trials focused on people with recurrent disease and three on newly diagnosed disease. Sample sizes ranged from 35 to 716 participants. All trials tested anti‑PD‑1 antibodies – mainly nivolumab or pembrolizumab – given either alone or together with bevacizumab, radiotherapy, or temozolomide. The control groups received placebo, bevacizumab, temozolomide, radiotherapy, or a different dosing schedule. No trials of anti‑PD‑L1 agents were found, and the abstract did not report details such as follow‑up length, study locations, funding sources, or participants’ age, sex, or other demographic information.\n\nMain results: Anti‑PD‑1 therapy\nAcross the studies, anti‑PD‑1 treatments probably make little to no difference to overall survival or progression‑free survival in people with glioblastoma, whether the disease is recurrent or newly diagnosed. Specifically, nivolumab showed little to no benefit compared with bevacizumab in recurrent glioblastoma, and higher‑dose bevacizumab combined with nivolumab did not improve survival. Adding bevacizumab to pembrolizumab, or giving pembrolizumab around surgery, gave unclear results. In newly diagnosed patients, nivolumab combined with radiotherapy (with or without temozolomide) also made little to no difference to survival outcomes, though the combination with temozolomide increased serious adverse events in methylated tumours. Nivolumab plus temozolomide showed little to no effect on survival in older patients. Overall, anti‑PD‑1 antibodies appear to have little impact on how long people with glioblastoma live or on disease progression.\n\n**Limitations**\nWe are moderately confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, the studies were done in different types of people or used different ways of delivering the treatment, and the studies were very small and there were not enough studies to be certain about the results.\n\n**Currency**\nThe evidence is up to date to March 2024 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 864,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 39,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.153846153846153,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 20,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 88,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 259,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 259.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 44.523846153846165,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.552777777777777,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.20782585470085,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.277499999999996,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.333760683760683,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.24643874643874,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.666666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.68857754044952,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.00695576923077,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 378,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 378.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 183,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 260,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 864,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 864 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 7,
+        "P75_count": 5,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails two critical checks: (1) it exceeds the 850‑word limit (864 words) and (2) several required subheadings are not phrased as questions (e.g., \"Key messages\", \"Introduction/Aims\", \"Methods\", \"Results\", \"Limitations\", \"Currency\"). In addition, readability metrics show many style problems that will confuse patients: 20 passive‑voice constructions (P90, above the typical range), 259 nouns (BEYOND_P90), a SMOG index of 15.7 (BEYOND_P90), 183 complex words and 260 long words (both BEYOND_P90). These inflate sentence complexity and make the text harder to understand.\n\nTop improvements needed:\n1. Subheading format – Quote: \"Key messages\". Problem: not a question, contrary to the style guide. Rewrite as: \"What are the main findings?\". Apply similarly to other headings (e.g., \"What do we need to know about glioblastoma?\", \"How did we find the evidence?\", \"What did we find?\", \"What are the limitations of the evidence?\", \"How up‑to‑date is the evidence?\").\n2. Word count – The paragraph \"The abstract did not report details such as follow‑up length, study locations, funding sources, or participants’ age, sex, or other demographic information.\" adds little to a patient‑focused summary and can be removed or merged. Cutting or condensing several sentences throughout the draft will bring the total under 850 words.\n3. Passive voice – Quote: \"The evidence is up to date to March 2024 of search.\" Problem: passive and awkward. Rewrite: \"We searched the literature up to March 2024.\" Apply this change to other passive constructions (e.g., \"The results were compared\" → \"We compared the results\").\n4. Long, noun‑heavy sentences – Quote: \"Across the studies, anti‑PD‑1 treatments probably make little to no difference to overall survival or progression‑free survival in people with glioblastoma, whether the disease is recurrent or newly diagnosed.\" Problem: 38 words, many nouns, hard to follow. Rewrite as two‑sentence version: \"Across the studies, anti‑PD‑1 treatments probably do not improve overall survival or progression‑free survival in glioblastoma. This was true for both recurrent and newly diagnosed disease.\"\n5. Complex vocabulary – Replace technical terms where possible (e.g., \"heterogeneity\" → \"differences\", \"moderate‑certainty evidence\" → \"moderate confidence\"). This will lower the SMOG and complex‑word counts.\n\nThese changes address the critical failures and align the draft with the Cochrane plain‑language style guide while improving readability for patients.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is moderately conforming but has several out‑of‑range metrics: passive_voice = 20 (P90), nouns = 259 (BEYOND_P90), smog_index = 15.7 (BEYOND_P90), complex_words_dc = 378 (BEYOND_P90), complex_words = 183 (BEYOND_P90), long_words = 260 (BEYOND_P90). Word count is 864 (>850). These indicate excessive noun density, high lexical complexity, and too many passive constructions, supporting the suggested edits."
+    }
+  ]
+}

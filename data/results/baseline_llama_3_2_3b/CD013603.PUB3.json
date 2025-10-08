@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013603.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "## Plain Language Summary\n\n**What are healthcare workers' experiences with integrating primary healthcare services?**\n\nHealthcare workers play a crucial role in shaping the success of integrating primary healthcare services. However, the implementation and impact of this integration vary widely. We wanted to understand healthcare workers' perceptions and experiences of primary healthcare integration to better inform future research.\n\n**What did we find?**\n\nWe analyzed 184 studies from 191 papers, mostly from the last 12 years. The studies were conducted in 37 countries, with a mix of high-income, middle-income, and low-income countries. The studies used various methods, including interviews, focus groups, and ethnographic designs. We found that healthcare workers' experiences with primary healthcare integration vary widely, depending on the country, study design, and intervention focus.\n\n**What are the different types of primary healthcare integration?**\n\nWe identified six different configurations of health service streams that were being integrated, including mental and behavioral health, HIV, tuberculosis, and sexual reproductive health, maternal, women, and child health, non-communicable diseases, and general primary healthcare services, allied and specialized services. The integration strategies used were horizontal integration, service expansion, and service linkage strategies.\n\n**What do healthcare workers think about primary healthcare integration?**\n\nHealthcare workers have diverse experiences with primary healthcare integration, depending on the country, study design, and intervention focus. The classification of studies on the various dimensions can help researchers navigate the way the literature varies and specify potential questions for future qualitative evidence syntheses.\n\n**What are the limitations of the evidence?**\n\nThe evidence is up to date to July 2020. However, there are gaps in the geographical spread of the studies, and some countries were more dominant than others. The review identified the need for further research to understand how healthcare workers shape the impact of primary healthcare integration.\n\n**What should happen next?**\n\nFuture research should focus on understanding how healthcare workers' experiences with primary healthcare integration vary depending on the country, study design, and intervention focus. The review highlights the need for further research to better understand the impact of primary healthcare integration and how healthcare workers can be supported to shape its success.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 371,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.84,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 14,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 37.6225347708895,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.698408625336931,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.751940700808625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 15.615202156334227,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 15.855137466307278,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.54080862533692,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.04,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.486832980505138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.439541088948788,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 181,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 371,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 371 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:47.508181"
+}

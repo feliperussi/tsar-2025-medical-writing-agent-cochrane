@@ -1,0 +1,162 @@
+{
+  "id": "CD015536.PUB2",
+  "draft": "What are the benefits and harms of the drug entecavir for people with chronic (long-term) hepatitis B?\n\nKey messages\n- Due to a lack of good-quality evidence, it is unclear what the benefits and harms of the drug entecavir are for people with long-term hepatitis B. We could not determine if entecavir affects the risk of death or serious unwanted effects (serious health problems that may or may not be caused by the treatment) when compared to no treatment or a placebo (a dummy treatment).\n- Given that entecavir is a widely used medicine, better and larger studies are needed to understand its effects on outcomes that are important to patients, such as quality of life, and to get a clearer picture of its potential harms.\n\nWhat is chronic hepatitis B and how is it treated?\nChronic hepatitis B is a long-term liver disease that is a major public health problem worldwide. Entecavir is an antiviral medicine that many clinical guidelines recommend as a first-choice treatment for people with chronic hepatitis B. However, these recommendations were not based on a thorough review that directly compares the effects of entecavir with no treatment or a placebo (a 'dummy' treatment).\n\nWhat did we want to find out?\nWe wanted to review the evidence from clinical trials to understand the benefits and harms of using entecavir to treat children and adults with chronic hepatitis B, compared to giving them no treatment or a placebo.\n\nHow did we carry out the review?\nWe searched for studies that compared the drug entecavir with no treatment or a placebo (a dummy treatment) in children and adults with chronic hepatitis B. We then combined the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nThe review included 22 studies with a total of 2940 people diagnosed with chronic hepatitis B. The studies followed participants for between 5 and 228 weeks. Most studies included only adults, while one included only children. The studies compared oral entecavir against either no treatment or a placebo. Compared with no treatment or a placebo, we do not know if entecavir has an effect on the risk of death because no deaths occurred in the studies. We are very uncertain about the effect of entecavir on serious unwanted effects. For every 1000 people, the results suggest that entecavir might lead to anywhere from 44 fewer to 21 more serious unwanted effects, but we have very little confidence in this finding. No studies looked at the effect of entecavir on people's quality of life.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence for two main reasons. First, some studies had flaws in their methods. For example, people in the studies may have been aware of which treatment they were getting, and this knowledge can influence the results. Second, the studies reported very few serious unwanted effects, which makes the results less certain.\n\nHow up-to-date is this evidence?\nThe evidence is up to date to July 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 525,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 36,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 57.439178571428585,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.905738095238096,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.3598,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.355733333333333,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.204761904761904,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.273809523809526,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.535714285714286,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.16515138991168,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.764780952380953,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 194,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 88,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 155,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 525,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 525 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 2,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The PLS evaluation results indicate the draft highly conforms to typical PLS patterns. A significant majority of metrics (83.3%) fall within the best quartile for readability and clarity, with excellent scores for sentence length and reading ease. The only notable deviation is in 'nominalization' (the use of noun forms of verbs), which is higher than typical (P90). While not a critical issue in this draft, it suggests some sentences could be rephrased to use more direct, active verbs for even greater clarity. Overall, the metrics reflect a well-written summary that is easy for a lay audience to understand."
+    }
+  ]
+}

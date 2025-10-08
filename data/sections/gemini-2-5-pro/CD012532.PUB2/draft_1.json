@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "What impact do immune checkpoint inhibitors have on treating glioma?\n\nKey messages\n\n- For people with the most common and aggressive type of brain tumour (glioma), the current evidence suggests that treatment with immune checkpoint inhibitors (medicines that help the body's immune system fight cancer) generally does not help them live longer or stop their tumour from growing. The evidence on serious unwanted effects was unclear.\n- There was some very limited evidence from a single small study that giving one of these medicines before surgery, as well as after, might help people whose brain tumour has returned.\n- Due to the limited and uncertain evidence available, larger and better-designed studies are needed to understand if immune checkpoint inhibitors have a role in treating glioma.\n\nIntroduction\n\nWhat is glioma?\n\nGlioma is a type of brain cancer. The most common and aggressive form in adults is called glioblastoma multiforme (GBM), and people diagnosed with it have a very short life expectancy. One reason this cancer is so difficult to treat is that it creates an environment that suppresses the body's immune system, preventing it from fighting the cancer effectively. A type of treatment called 'immune checkpoint inhibitors' (ICIs) are drugs designed to help the immune system recognise and attack cancer cells. Anti-PD-1 and anti-PD-L1 antibodies are two types of these drugs.\n\nWhat did we want to find out?\n\nWe wanted to find out if using the immune checkpoint inhibitors anti-PD-1 and anti-PD-L1 to treat adults with glioma is effective and safe. We were interested in whether these treatments helped people live longer, stopped the cancer from growing for longer, and if they caused any serious unwanted effects.\n\nMethods\n\nWe searched for studies called randomised controlled trials (where people are assigned to different treatment groups by chance) that compared immune checkpoint inhibitor drugs against other treatments or a placebo for adults with glioma. We then compared and summarised the results and rated our confidence in the evidence.\n\nResults\n\nWhat did we find?\n\nThe review included seven studies with a total of 1953 adults with grade 4 glioma. Four studies involved people with recurrent glioblastoma, and three involved people with newly diagnosed glioblastoma, including one study specifically in older adults. The number of participants in the studies ranged from 35 to 716. The studies evaluated anti-PD-1 treatments (nivolumab or pembrolizumab), either alone or combined with other therapies like bevacizumab, temozolomide, or radiotherapy. These interventions were compared against other treatments, placebo, or different timings of the same treatment.\n\nMain results: anti-PD-1 antibodies for glioblastoma\n\nFor people whose glioblastoma has returned: treatment with the drug nivolumab alone, compared to another drug called bevacizumab, probably makes little to no difference to how long people live or how long they live without the cancer growing. Giving another immune-based drug, pembrolizumab, both before and after surgery may improve survival, but we are very uncertain about this result. For other combinations of these immune-based treatments, it is unclear if they have an effect on survival or serious unwanted effects. For people with newly diagnosed glioblastoma: adding nivolumab to standard radiation therapy probably makes little to no difference to how long people live or how long they live without the cancer growing. When nivolumab is added to standard radiation and chemotherapy, it also probably makes little to no difference to survival, but it probably increases serious unwanted effects. It makes little to no difference to less serious unwanted effects. Overall, the evidence does not support using these specific immune-based treatments for glioblastoma. They probably offer no benefit for survival and may increase serious unwanted effects in some situations. For many outcomes, the evidence is very uncertain.\n\nLimitations of the evidence\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting. Additionally, the studies were done in different types of people, and there are not enough studies to be certain about the results.\n\nCurrency of the evidence\n\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 707,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.424242424242426,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 24,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 66,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 185,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 45.08656508507994,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.293035875016074,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.872092923578073,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.268288543140024,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.66022030774506,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.137113711371136,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.151515151515151,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.40175425099138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.316107770777078,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 280,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 280.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 143,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 143.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 203,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 707,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 707 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 8,
+        "P75_count": 2,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 16.666666666666664,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it needs revisions to meet key style guide requirements and improve clarity for a lay audience. \n\n**Critical Issue: Subheading Format**\n\nSeveral subheadings do not follow the required question format. Per the style guide, all subheadings must be phrased as questions to guide the reader. \n- **'Methods'** should be 'How did we conduct the review?'\n- **'Main results: anti-PD-1 antibodies for glioblastoma'** should be 'What are the main results?'\n- **'Limitations of the evidence'** should be 'What are the limitations of the evidence?'\n- **'Currency of the evidence'** should be 'How up to date is this evidence?'\n\n**Top 3 Improvements Needed:**\n\n1.  **Use active voice to be more direct.** The summary often uses passive voice, which can make the text feel impersonal and less clear. Using 'we' to describe the review authors' actions is more direct and engaging.\n    *   **Quote:** \"The review included seven studies with a total of 1953 adults with grade 4 glioma.\"\n    *   **Problem:** This is passive. It's clearer to state who performed the action.\n    *   **Suggestion:** \"We included seven studies in our review, with a total of 1953 adults with grade 4 glioma.\"\n\n2.  **Break up long, complex sentences.** Some sentences contain multiple ideas and clauses, which can be difficult for readers to process in a single pass. Breaking them into shorter sentences will improve readability.\n    *   **Quote:** \"For people with the most common and aggressive type of brain tumour (glioma), the current evidence suggests that treatment with immune checkpoint inhibitors (medicines that help the body's immune system fight cancer) generally does not help them live longer or stop their tumour from growing.\"\n    *   **Problem:** This 43-word sentence contains two definitions within parentheses, making it hard to follow the main point.\n    *   **Suggestion:** \"This review is for people with glioma, the most common and aggressive type of brain tumour. We looked at 'immune checkpoint inhibitors' – medicines that help the body's immune system fight cancer. The evidence suggests these treatments generally do not help people live longer or stop their tumour from growing.\"\n\n3.  **Simplify complex and technical language.** The summary uses some clinical language that could be replaced with simpler, more common words to ensure a wider audience can understand the findings.\n    *   **Quote:** \"Four studies involved people with recurrent glioblastoma...\"\n    *   **Problem:** While 'recurrent' is a standard medical term, using plainer language is better for this audience, as you do later in the summary. Be consistent.\n    *   **Suggestion:** \"Four studies involved people whose glioblastoma had returned...\"\n    *   **Quote:** \"These interventions were compared against other treatments...\"\n    *   **Problem:** 'Interventions' is clinical jargon. 'Treatments' is a simpler and more direct word.\n    *   **Suggestion:** \"We compared these treatments against other treatments...\"\n\nThese suggestions are supported by the linguistic analysis, which found the use of passive voice (24 instances) and complex/unfamiliar words (280 Dale-Chall complex words) were significantly higher than in a typical Plain Language Summary.",
+      "pls_evaluation_summary": "The linguistic analysis shows moderate conformity with typical PLS patterns. While many readability scores are in the median range, the draft deviates significantly in key areas that impact clarity. The number of passive voice constructions (24), complex words (143), and Dale-Chall unfamiliar words (280) are all well beyond the 90th percentile for typical summaries. This suggests the text is less direct and uses more complex vocabulary than is ideal for a lay audience."
+    }
+  ]
+}

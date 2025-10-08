@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "What are the benefits and harms of the antiviral medicine favipiravir for people with COVID-19?\n\nKey messages\n- Due to a lack of robust evidence, it is uncertain whether the antiviral medicine favipiravir helps people with COVID-19 get better. It may, however, cause more unwanted effects than treatment with a placebo (a dummy treatment) or standard care.\n- More and better-quality studies are needed to understand if favipiravir is a useful treatment for people with COVID-19.\n\nWhat is this review about?\nWhat is COVID-19 and why was favipiravir considered as a treatment?\nThe coronavirus disease 2019 (COVID-19) pandemic, caused by the SARS-CoV-2 virus, has been a major challenge for health systems around the world. In the search for effective treatments, researchers investigated several existing medicines. One of these was favipiravir, an antiviral drug that some experts believed could be a safe and effective treatment for people with COVID-19. However, its actual benefit remained uncertain.\nWhat did we want to find out?\nWe wanted to assess the effects of favipiravir for treating people with COVID-19. We compared it against no treatment, standard supportive care, or other experimental antiviral medicines.\n\nWhat did we do in this review?\nSearch Strategy\nWe searched for randomized controlled trials (studies where people are randomly assigned to one of two or more treatment groups) that compared favipiravir with no treatment, supportive treatment, or other antiviral drugs for people with COVID-19.\nEligibility Criteria\nOnly trials that directly compared favipiravir against a control (no treatment, supportive care, or another antiviral) in participants diagnosed with COVID-19 were eligible for inclusion.\nData Synthesis and Confidence Assessment\nThe results of the included studies were summarized, and the certainty of the evidence was evaluated and reported.\n\nWhat did we find?\nThe review included 25 trials involving 5750 adults, most of whom were under 60 years of age. The majority of participants (89%) were hospitalized with mild to moderate COVID-19. The studies were conducted in various countries, including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA. The duration of treatment with favipiravir ranged from five to 14 days. Most trials compared favipiravir to a placebo or standard care. For people with COVID-19, we do not know if favipiravir has an effect on the number of people who die, the number who need a machine to help them breathe, or the time it takes for symptoms ... (truncated for brevity).\n\nLimitations of the evidence\nThe evidence is limited by small sample sizes, potential selection bias, and reliance on self-reported data, which may affect generalizability and accuracy.\n\nHow up to date is this evidence?\nThe evidence is up to date to July 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 468,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 31,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 27,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 113,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 50.81884615384615,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.642820512820514,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.922371794871793,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.460427350427349,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.063247863247865,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.48717948717949,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.3076923076923075,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.04987562112089,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.561005128205129,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 168,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 92,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 468,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 468 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 2,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. It fails a critical check because several subheadings are not phrased as questions, which violates the style guide and makes the text harder for readers to navigate. Additionally, the methods section uses technical jargon and a passive, formal tone that is not suitable for a plain language summary. The key areas for improvement are rewriting subheadings as questions and simplifying the language in the methods section to be more direct and active.\n\nHere are the top 3 improvements needed:\n\n1.  **Rewrite subheadings as questions.** Several subheadings are not phrased as questions, which is a direct violation of the style guide. This makes the summary feel more like a technical report and less like a patient-friendly guide.\n    -   **Problematic subheadings:** \"Search Strategy\", \"Eligibility Criteria\", \"Data Synthesis and Confidence Assessment\", and \"Limitations of the evidence\".\n    -   **Suggested rewrite:** Combine the three methods subheadings into one clear question like \"What did we do in this review?\" and present the information in a simple paragraph. For limitations, use a question like \"What were the limitations of the evidence?\".\n\n2.  **Simplify the methods section and remove jargon.** The language in the methods section is too technical and formal for a plain language summary.\n    -   **Problematic sentence:** \"The results of the included studies were summarized, and the certainty of the evidence was evaluated and reported.\"\n    -   **Why it's a problem:** This is written in a passive voice and uses jargon like \"certainty of the evidence\". The style guide requires an active voice (e.g., \"We did...\").\n    -   **Suggested rewrite:** \"We compared and summarized the results of the studies. We also assessed our confidence in the evidence.\"\n\n3.  **Use verbs instead of noun-heavy phrases (nominalizations).** The text often uses noun forms of verbs, which makes sentences less direct and more complex. This pattern was identified by the linguistic analysis.\n    -   **Problematic phrase:** \"...were eligible for inclusion.\"\n    -   **Why it's a problem:** It's an unnecessarily wordy and formal way to express a simple idea.\n    -   **Suggested rewrite:** \"...could be included.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft has excellent readability scores, with 83% of metrics falling into the best quartile for typical PLS patterns. However, the analysis also flags two key stylistic issues that support the need for revision. The 'nominalization' metric is in the P90 range (22 instances), indicating an overuse of noun-form verbs that makes the text less direct. Additionally, the 'passive_voice' metric is high (P75 range with 16 instances), confirming the formal, less engaging tone identified in the editorial review."
+    }
+  ]
+}

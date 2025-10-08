@@ -1,0 +1,158 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "reference",
+  "source_fields": [
+    "pls"
+  ],
+  "text": "Blood pressure control for diabetic retinopathy\n\nReview question\nDoes blood pressure control prevent diabetic retinopathy or slow its progression?\nBackground\nDiabetes is characterized by high levels of blood glucose (sugar circulating in the blood) and is classified as either type 1 or type 2, depending on the underlying cause of increased blood glucose. A common complication in people with diabetes is diabetic retinopathy, often called 'diabetic eye disease,' which affects the blood vessels in the back of the eye. Diabetic retinopathy is a major cause of poor vision and blindness worldwide among adults of working age. Control of blood glucose reduces the risk of diabetic retinopathy and prevents worsening of the condition once it develops.  Simultaneous treatment to reduce blood pressure among diabetics has been suggested as another approach to reduce the risks of development and worsening of diabetic retinopathy below the risks achieved by blood glucose control.\nStudy characteristics\nWe found 29 randomized controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups), conducted primarily in North America and Europe, looking at the effects of several methods to lower blood pressure in 4620 type 1 and 22,565 type 2 diabetics, with 16 to 4477 participants in individual trials. The treatment and follow‐up periods in these trials ranged from less than one year to nine years. Eight trials were funded in full by one or more drug companies. Ten other trials had received drug company support, usually in the form of study medications. The remaining 11 studies were conducted with support from government‐sponsored grants and institutional support or did not report funding source. The evidence is current to September 2021.\nKey results\nOverall, the evidence from 19 trials in which participants were treated for 5 years or longer provided modest support for lowering blood pressure to prevent diabetic retinopathy. However, lowering blood pressure did not keep diabetic retinopathy from worsening once it had developed, or prevent advanced stages of diabetic retinopathy that required treatment of the affected eyes. The evidence favored control of blood pressure for hypertensive type 2 diabetics for more outcomes than favored blood pressure lowering among participants with normal blood pressure. Treatment to reduce the blood pressure of people with diabetes is warranted for other health reasons, but the available evidence does not justify reduction of blood pressure in diabetics with normal blood pressures solely to prevent or slow diabetic retinopathy.\nQuality of the evidence\nOverall, the quality of the evidence was low to moderate based on the reported information because some studies did not report all of their prespecified outcomes, and results from different studies were not always consistent.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 456,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 18,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.333333333333332,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.3 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 35,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 37.70982456140351,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.293070175438597,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.447719298245616,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 13.25684210526316,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.080701754385966,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 60.859649122807014,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.9 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 9.0,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 13.295630140987,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.008835964912281,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 195,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 456,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 456 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 1,
+      "P75_count": 10,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:35.692640"
+}

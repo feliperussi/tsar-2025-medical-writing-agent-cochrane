@@ -1,0 +1,162 @@
+{
+  "id": "CD011538.PUB2",
+  "draft": "Can education support services help children and adolescents with chronic health conditions stay engaged in school and improve their academic performance? \n- Education support services may help children with chronic health conditions stay in school, but the evidence is not strong enough to be certain. We did not find any information about harmful effects.\n- There is some evidence that education support may slightly improve mental health, measured as self-esteem, in children with chronic health conditions, but more research is needed to confirm this.\n- Future research should focus on studying the effects of education support services on school engagement, academic achievement, and mental health in children and adolescents with chronic health conditions.\n\nWhat are chronic health conditions in children and adolescents, and why are they a problem? \nChronic health conditions are long-term illnesses that do not go away and can significantly impact a child’s education, well-being, and health. When children with chronic health conditions miss school, they may fall behind academically, struggle with social and emotional skills, and have fewer career choices later on.\n\nWhat did we want to find out? \nWe wanted to find out if education support services can help children with chronic health conditions stay engaged in school and do better academically.\n\nHow did we conduct the review? \nWe searched for studies that looked at education support for children with chronic health conditions, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find? \nWe found four studies that involved 359 participants with chronic health conditions. Each study focused on a specific disease: three on children with cancer and one on children with Attention Deficit Hyperactivity Disorder (ADHD). We found some evidence that education support may slightly improve mental health, measured as self-esteem. For other outcomes, like school engagement, the evidence was very uncertain. It is unclear if education support services have an effect on academic achievement or transition back to school.\n\nWhat are the limitations of the evidence? \nThe evidence is limited because the studies were very small, and people in the studies knew which treatment they were getting, which could have influenced their answers. The studies also included different types of children, and the support was provided in different ways.\n\nHow up-to-date is the evidence? \nThe evidence is up to date to January 2021.\n\nWe hope this information helps you understand the potential benefits and limitations of education support services for children and adolescents with chronic health conditions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 427,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 23,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.565217391304348,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 43,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 130,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 47.71776804806029,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.21577436106303,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.097526728439057,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.873161592505852,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.107585785561552,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.99144689950107,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.391304347826087,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.16515138991168,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.874441339985745,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 161,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 82,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 147,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 427,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 427 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is a strong draft that is clear, accurate, and well-structured. It meets all critical requirements. To make it even easier for readers to understand, my main suggestion is to replace noun-heavy phrases with more direct, active verbs. This will make the writing more engaging and easier to follow.\n\nHere are the top 3 areas for improvement:\n\n1. **Make the methods section more direct.**\n   - **Current sentence:** \"We searched for studies that looked at education support for children with chronic health conditions, summarized their results, and rated our confidence in the evidence.\"\n   - **Why it's a problem:** The phrase 'rated our confidence in the evidence' is abstract and a bit jargony. Using a more direct verb makes the action clearer for the reader.\n   - **Suggested rewrite:** \"We searched for studies about education support for children with chronic health conditions. We then compared their results and assessed how certain the evidence was.\"\n\n2. **Simplify the description of the problem.**\n   - **Current sentence:** \"When children with chronic health conditions miss school, they may fall behind academically, struggle with social and emotional skills, and have fewer career choices later on.\"\n   - ** (Note: The original feedback text is retained as provided.)\n   - **Why it's a problem:** This sentence combines several complex ideas into a long list. Breaking it into shorter, more focused sentences makes the impact clearer and easier to digest.\n   - **Suggested rewrite:** \"Missing school can cause children to fall behind academically. It can also affect their social skills and future career choices.\"\n\n3. **Clarify the limitations of the evidence.**\n   - **Current sentence:** \"The evidence is limited because the studies were very small, and people in the studies knew which treatment they were getting, which could have influenced their answers.\"\n   - **Why it's a problem:** The phrasing 'could have influenced their answers' is slightly indirect. Making this more active clarifies the potential for bias.\n   - **Suggested rewrite:** \"We have limited confidence in the evidence because the studies were very small. Also, people in the studies knew which treatment they received, which might have influenced how they reported their experiences.\"\n\n**Supporting Evidence:** Your draft is excellent on most readability measures, including sentence length and active voice. However, the linguistic analysis shows a very high number of 'nominalizations' (30 instances, which is beyond the 90th percentile for a PLS). The suggestions above will help reduce this and make the text more active and engaging for the reader.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 12 of 18 metrics (66.7%) in the best quartile. Readability scores, sentence length, and use of active voice are all strong. However, the text deviates significantly in one area: nominalization (the use of noun forms of verbs) is beyond the 90th percentile, indicating that sentences could be more direct and action-oriented."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014806",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of sucrose for heel-lance procedures in neonates?**\n\n**Key Messages:**\n\n* Sucrose probably results in a reduction in PIPP scores compared to the control group at 30 seconds and 60 seconds after lancing (moderate-certainty evidence).\n* The evidence is very uncertain about the effects of sucrose on DAN scores compared to water at 30 seconds after lancing (very low-certainty evidence).\n* Sucrose probably results in a reduction in NIPS scores compared to water immediately after lancing (moderate-certainty evidence).\n* The evidence is very uncertain about the effect of sucrose on PIPP scores compared to NNS during the recovery period after lancing (very low-certainty evidence).\n* Sucrose may result in little to no difference in PIPP-R scores compared to expressed breast milk during and at 30 seconds after lancing (low-certainty evidence).\n* The evidence is very uncertain about the effect of sucrose on total BPSN scores compared to facilitated tucking during lancing (very low-certainty evidence).\n\n**What did we do?**\n\nWe searched for studies that compared sucrose to different treatments for heel-lance procedures in neonates. We included 55 trials involving 6273 infants. We assessed the effects of sucrose on PIPP, DAN, NIPS, and BPSN scores.\n\n**What did we find?**\n\nThe evidence suggests that sucrose probably results in a reduction in PIPP scores compared to the control group at 30 seconds and 60 seconds after lancing. The evidence is very uncertain about the effects of sucrose on DAN scores compared to water at 30 seconds after lancing. Sucrose probably results in a reduction in NIPS scores compared to water immediately after lancing. The evidence is very uncertain about the effect of sucrose on PIPP scores compared to NNS during the recovery period after lancing. Sucrose may result in little to no difference in PIPP-R scores compared to expressed breast milk during and at 30 seconds after lancing. The evidence is very uncertain about the effect of sucrose on total BPSN scores compared to facilitated tucking during lancing.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain about the effects of sucrose on DAN scores compared to water at 30 seconds after lancing. The evidence is very uncertain about the effect of sucrose on PIPP scores compared to NNS during the recovery period after lancing. The evidence is very uncertain about the effect of sucrose on total BPSN scores compared to facilitated tucking during lancing.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2022.\n\n**What should happen next?**\n\nFuture research should focus on options and effects that are important to decision-makers, such as the effects of sucrose on PIPP-R scores compared to expressed breast milk during and at 30 seconds after lancing.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 502,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.733333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 24,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 14,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 142,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.479750332005324,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.375442231075699,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.27632802124834,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.320079681274898,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.944329349269589,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.601859229747674,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.057901620185923,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 198,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 502,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 502 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:49.658423"
+}

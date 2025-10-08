@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "Is continuous infusion of loop diuretics better than bolus injection for treating acute heart failure in adults? We wanted to find of giving loop diuretics through a continuous infusion is better than giving them in a bolus injection for treating acute heart failure in adults.\n\nContinuous infusion of loop diuretics may result in a mean net weight loss of 0.86 kg more than bolus injection of loop diuretics, but the evidence is very uncertain. There may be little to no difference in all-cause mortality between continuous infusion and bolus injection. Continuous infusion may reduce length of hospital stay, but the evidence is very uncertain.\n\nAcute heart failure is a sudden worsening of chronic heart failure, characterized by congestion in about 95% of cases or end-organ hypoperfusion in 5% of cases. Treatment often requires urgent escalation of diuretic therapy, mainly through hospitalization. We looked at four trials with a total of 842 participants.\n\nThe trials found that continuous infusion of loop diuretics may result in slightly greater net weight loss over the first 48 hours. However, the evidence for this is very uncertain. The trials also found that there may be little to no difference in all-cause mortality between continuous infusion and bolus injection.\n\nContinuous infusion may reduce length of stay by an average of 0.9 days compared with bolus. However, the evidence for this is very uncertain.\n\nOverall, the current data are insufficient to show superiority of one strategy intervention over the other. Continuous infusion of loop diuretics may achieve modestly greater early fluid removal and slightly shorter hospitalizations without increasing mortality, readmission, or AKI risk. However, the evidence is very uncertain, and larger trials are needed to confirm these findings.\n\nKey messages:\n- Continuous infusion of loop diuretics may result in mean net weight loss of 0.86 kg more than bolus injection of loop diuretics, but the evidence is very uncertain.\n- There may be little to no difference in all-cause mortality between continuous infusion and bolus injection.\n- Continuous infusion may reduce length of hospital stay, but the evidence is very uncertain.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 356,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 18,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.77777777777778,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 21,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 118,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.9880836454432,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.17670411985019,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.141192259675407,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.268539325842696,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.89987515605493,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.95755305867665,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.166666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.38083151964686,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.27923620474407,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 142,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 80,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 111,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 356,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 356 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 11,
+        "P75_count": 2,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 61.111111111111114,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The evaluation is comprehensive, addresses critical clarity, style, and structure issues, and provides concrete suggestions. Metrics and conformity summary are clearly presented.",
+      "pls_evaluation_summary": "Word count: 356; Sentences: 18; Overall pattern conformity: GOOD CONFORMITY WITH PLS PATTERNS; Nominalization needs reduction."
+    }
+  ]
+}

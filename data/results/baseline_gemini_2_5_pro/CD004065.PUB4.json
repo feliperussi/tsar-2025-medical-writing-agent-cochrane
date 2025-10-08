@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What are the benefits and harms of medicines for eosinophilic esophagitis?\n\n**Key messages**\n\n– Corticosteroids (medicines that reduce swelling) cause a large reduction in the inflammation of the food pipe. They may also slightly improve symptoms like difficulty swallowing.\n– Biologics (medicines that target specific parts of the immune system) probably reduce both inflammation and symptoms in people with eosinophilic esophagitis.\n– We need more and better studies to be more certain about the benefits and harms of these medicines, especially their long-term effects and impact on people's quality of life.\n\n**What is eosinophilic esophagitis?**\n\nEosinophilic esophagitis (EoE) is a long-term condition that affects the esophagus, which is the tube that carries food from your mouth to your stomach. In people with EoE, a type of white blood cell called an eosinophil builds up in the food pipe. This causes swelling and inflammation, which can make it painful or difficult to swallow food.\n\n**How is eosinophilic esophagitis treated?**\n\nBecause EoE is a long-term condition, treatment is usually needed for a long time. The goals of treatment are to reduce symptoms, heal the inflammation in the food pipe, and prevent future problems.\n\nThere are three main types of treatment:\n– special diets that avoid foods that might be causing the reaction\n– medicines, such as corticosteroids or newer medicines called biologics\n– a procedure to gently stretch the food pipe if it has become too narrow\n\n**What did we want to find out?**\n\nWe wanted to find out how well different medicines work for treating EoE in children and adults. We were interested in how they affected people's symptoms, the inflammation in their food pipe, and their quality of life. We also wanted to know about any unwanted or harmful effects.\n\n**What did we do?**\n\nWe searched for studies that compared different medicines with each other or with a placebo (a dummy treatment). The studies had to randomly place people into different treatment groups. This type of study provides the most reliable evidence. We compared and summarized the results of the studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 41 studies that included a total of 3253 people with EoE. Eleven studies included only children, while the others included both children and adults. Most studies looked at people with active symptoms of EoE.\n\nWe looked at many different medicines, but here we present the main results for the two most common types: corticosteroids and biologics, when compared with a placebo.\n\n**Corticosteroids compared with a placebo**\n\n– **Symptoms:** Corticosteroids may reduce symptoms slightly.\n– **Inflammation:** Corticosteroids cause a large reduction in the inflammation of the food pipe (as seen under a microscope).\n– **Appearance of the food pipe:** Corticosteroids may make little to no difference to how the food pipe looks during an examination with a camera (an endoscopy).\n– **Side effects:** Fewer people may stop taking corticosteroids due to side effects compared to those taking a placebo.\n\n**Biologics compared with a placebo**\n\n– **Symptoms:** Biologics probably reduce symptoms.\n– **Inflammation:** Biologics probably reduce the inflammation of the food pipe.\n– **Appearance of the food pipe:** Biologics may make little to no difference to how the food pipe looks during an endoscopy.\n– **Side effects:** Biologics may make little to no difference to the number of people who stop treatment because of side effects compared to those taking a placebo.\n\n**What are the limitations of the evidence?**\n\nOur confidence in much of the evidence is only moderate or low. This is because some of the studies were small, and their results were not always consistent with each other. This means we cannot be certain about the true effects of these treatments, and future research could change our conclusions.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 682,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.487179487179485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 64,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 60.32480900819613,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.189530791788858,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.102519362358073,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.708797653958946,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.977276486953906,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.44025866606512,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.538461538461538,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.677078252031311,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.586029791713663,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 247,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 177,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 682,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 682 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:11.698418"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011344.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title:\nIs an automated bolus better than a continuous infusion for pain relief during labour?\n\nKey Messages:\n- Using an automated bolus (a set‑dose delivery system) reduces the chance of breakthrough pain and lowers the total amount of epidural medicine needed compared with a continuous infusion (a steady drip).\n- The two methods show no clear difference in the rates of caesarean or assisted deliveries, how long pain relief lasts, or the baby’s health scores.\n- We feel fairly confident about the pain‑relief benefit, but we are less sure about other outcomes; more research is needed to confirm any effect on delivery mode or mother’s overall satisfaction.\n\nPlain Language Summary:\n\nHow many studies?\nWe looked at 18 studies that together included about 4,600 women who were in labour. Most of the women were having their first baby, and the studies were carried out in a range of hospitals around the world.\n\nWhat did they do?\nEach study compared two ways of giving epidural medicine during labour. One way used an automated bolus system that delivers the medicine in small, timed doses. The other way used a continuous infusion that provides a steady flow of medicine. The studies used a variety of epidural drugs, such as ropivacaine, levobupivacaine, bupivacaine, and opioids like fentanyl or sufentanil. Researchers recorded how many women experienced breakthrough pain (pain that returns despite the epidural), how much total medicine was used, the type of delivery (caesarean, forceps, or vacuum), how long the pain relief lasted, any side‑effects for mother or baby, and how satisfied the mothers felt with their pain‑relief method.\n\nWhat did they find?\nWomen who received the automated bolus were less likely to have breakthrough pain and used less epidural medicine overall. The difference was noticeable – roughly three out of ten fewer women reported breakthrough pain compared with the continuous drip. For other outcomes, the picture was less clear. The rates of caesarean sections, assisted deliveries, and the length of effective pain relief were similar between the two groups. Baby health scores, measured by standard newborn assessments, showed no meaningful difference. Some studies suggested that mothers felt a little more satisfied with the automated bolus, but the evidence was mixed and not strong enough to draw firm conclusions.\n\nWhat does it mean?\nThe findings suggest that an automated bolus system can give better pain control and reduce the amount of medicine needed during labour, which may be helpful for mothers who want a smoother experience. However, the method does not appear to change the chances of having a caesarean or assisted delivery, nor does it affect the baby’s immediate health. Because the evidence about delivery mode and overall satisfaction is less certain, clinicians should discuss both options with pregnant women, explaining the likely benefit for pain relief and the unknowns for other outcomes. More well‑designed studies are needed to see if the automated bolus might also influence delivery type or long‑term mother‑baby outcomes.\n\nThe evidence in this review is up to date to December 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 515,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.458333333333332,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.75226739482204,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.208652912621364,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.062642394822007,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.23867961165049,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.194983818770226,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.254449838187696,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.319012944983819,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 204,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 98,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 515,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 515 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 8,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:16.555153"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Are steroid medicines and new biologic drugs (lab‑made immune‑targeting proteins) effective for treating eosinophilic esophagitis (a chronic allergic inflammation of the esophagus)?\n\nKey messages –\n- Steroid medicines probably improve symptoms, clearly reduce tissue inflammation, and may lead to fewer people stopping treatment because of side‑effects.\n- Biologic drugs probably reduce tissue inflammation; they may improve symptoms when measured as a continuous score (moderate certainty) but not when measured as a simple yes/no outcome (low certainty). Stopping treatment because of side‑effects appears similar to placebo.\n- Both steroids and biologics show uncertain effects on the visual appearance of the esophagus during an endoscopy because studies used different measurement methods.\n\nWhat is eosinophilic esophagitis and why does it matter?\nEosinophilic esophagitis (EoE) is a chronic disease in which eosinophils (a type of white‑blood cell) build up in the lining of the esophagus – the tube that carries food from the mouth to the stomach. The excess eosinophils cause inflammation, leading to difficulty swallowing, food getting stuck, chest pain, or vomiting. Doctors confirm EoE by taking a tiny piece of tissue (a biopsy) and counting eosinophils under a microscope; 15 or more eosinophils per high‑power field indicates disease. Because EoE does not resolve on its own, people need long‑term treatment to avoid complications such as narrowing of the esophagus (strictures) and repeated food blockages.\n\nWhat did the review aim to find out?\nWe wanted to know how well steroid medicines and biologic drugs work compared with placebo and how safe they are. Specifically, we examined whether the treatments improve symptoms, lower the eosinophil count in tissue (histological improvement), improve the appearance of the esophagus during an endoscopy (endoscopic improvement), and reduce the number of people who stop treatment because of adverse‑event side effects.\n\nWhat did we do?\nWe searched major bibliographic databases for randomised controlled trials that compared these medicines with placebo. Two reviewers independently selected studies, extracted data, and assessed risk of bias. We pooled results for symptoms, tissue eosinophil counts, endoscopic findings, and safety, and we rated the certainty of the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified 41 trials that enrolled a total of 3,253 participants with EoE. Most trials compared oral or topical corticosteroids (steroid medicines that reduce inflammation) with placebo, and a separate group compared biologic agents (lab‑made proteins that target the immune system) with placebo.\n\nSteroid medicines –\n- Histological remission: Treating three people with steroids leads to one extra person achieving remission of inflammation. The evidence is high certainty.\n- Symptoms: About 20% more people feel better on steroids than on placebo. The evidence is low certainty, indicating a small improvement.\n- Endoscopic appearance: Simple yes/no measures show little or no difference, while detailed scores suggest a possible benefit. Overall the effect is uncertain.\n- Side‑effect withdrawals: Steroids may slightly reduce the number of people who stop treatment because of side effects, but confidence in this result is low.\n\nBiologic drugs –\n- Histological remission: Treating two people with a biologic leads to one extra person achieving remission. The evidence is moderate certainty.\n- Symptoms: Biologics may improve symptoms when measured as a continuous score (moderate certainty) but show little or no difference when measured as a simple yes/no outcome (low certainty).\n- Endoscopic appearance: The evidence suggests little or no difference in what doctors see during an endoscopy. Certainty is low.\n- Side‑effect withdrawals: Stopping treatment because of side effects appears similar to placebo. Certainty is low.\n\nWhat are the limitations of the evidence?\nMany trials were small, and some participants may have known which treatment they received, which can bias results. The studies varied in the types of patients, ages, and ways the medicines were given. The evidence does not cover all patient groups or long‑term outcomes, so we cannot be very confident in the findings.\n\nIs the evidence up to date?\nOur searches covered the literature up to March 2023, so the review reflects evidence available at that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 680,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 42.59058823529415,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.287352941176472,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.687970588235295,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.829058823529408,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.117647058823533,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.588235294117645,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.117647058823529,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.569805089976535,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.888514705882354,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 297,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 297.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 242,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 680,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 680 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 6,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:46.188742"
+}

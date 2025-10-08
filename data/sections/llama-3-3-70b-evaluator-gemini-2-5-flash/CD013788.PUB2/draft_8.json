@@ -1,0 +1,162 @@
+{
+  "id": "CD013788.PUB2",
+  "draft": "Is it better to remove the urinary catheter early or later to prevent infections after a kidney transplant?\n\nKey messages:\n- We are not sure if removing the catheter early or late after a kidney transplant makes a difference in preventing infections, including urinary tract infections (UTIs), because there is not enough good-quality evidence.\n- The studies we found had significant limitations, so we cannot trust the findings completely. For example, they followed patients for only a short time and had a high risk of bias (flaws in the study methods that could create misleading results).\n- Future high-quality studies should compare removing the catheter early versus removing it late and follow patients for longer to provide clearer guidance for doctors and patients.\n\nWhat is kidney transplantation and why is it important?\nKidney transplantation is the best treatment for end-stage kidney disease. During the operation, a catheter (a small tube) is inserted into the bladder to allow it to drain and promote healing. However, urinary catheters can cause infections in patients, which can lead to a urinary tract infection (UTI).\n\nWhat are the risks associated with urinary catheters after kidney transplantation?\nThe longer the catheter remains in place, the greater the risk of developing a UTI. We wanted to know if the timing of removing the catheter affects the risk of UTIs and other problems after surgery.\n\nWhat did we want to find out?\nWe aimed to compare patients who had their catheter removed early (less than 5 days after transplant surgery) to those who had it removed late (5 days or more after the transplant). We wanted to see if the timing of catheter removal affected outcomes like UTIs with symptoms, bacteria in the urine without symptoms (asymptomatic bacteriuria), and other serious urinary problems.\n\nHow did we find the evidence?\nWe searched for studies that compared early versus late removal of urinary catheters after kidney transplantation. We then summarized the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 2 studies involving 197 people who had a kidney transplant. The duration of the studies was short, with no patients followed beyond one month. Due to the limited number of studies and their poor quality, we cannot say for sure if early or late catheter removal makes a difference in preventing infections.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were very small, and people in the studies may have known which treatment they were getting. Not all studies provided data on everything we were interested in.\n\nIs the evidence up to date?\nThe evidence is current up to April 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 468,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.72,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 41,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 119,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 52.98035384615386,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.52020170940171,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.161602564102566,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.37290598290598,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.83842735042735,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.99350427350427,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.48,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.16515138991168,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.900370974358974,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 177,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 86,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 137,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 468,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 468 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 9,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 50,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 100,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The PLS evaluation results indicate the draft highly conforms to typical PLS patterns, with 100% of the 18 metrics falling within the best quartile for readability and style. Key indicators such as Flesch-Kincaid Grade (10.52) and average words per sentence (18.72) are excellent, suggesting the text is clear and easy for a lay audience to understand. There are no metric deviations that suggest a need for revision."
+    }
+  ]
+}

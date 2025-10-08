@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009530.PUB5",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Is using bronchoscopy (a tube with a camera that collects lung fluid) to guide antibiotic treatment better than standard testing for lung infections in people with cystic fibrosis (a genetic lung disease)?\n\nKey messages\n- Using bronchoscopy‑guided antibiotic treatment in children with cystic fibrosis does not improve lung function, chest‑scan scores, nutrition, bacterial counts, quality of life, or the number of lung flare‑ups, and it may increase hospital stays; the procedure can also cause temporary worsening of cough and, in a few cases, serious short‑term clinical deterioration.\n- The evidence comes from only two small randomised trials involving infants and school‑age children; no data exist for adults, and the overall certainty of the evidence is low.\n- Future research should test larger, well‑designed trials that include older children and adults, follow participants for longer periods, and carefully assess benefits, harms, and costs of bronchoscopy‑guided therapy.\n\nWhy are lung infections a concern in cystic fibrosis and how are they usually diagnosed?\nCystic fibrosis (CF) is a genetic disease that makes thick, sticky mucus build up in the lungs. The mucus traps bacteria, leading to frequent infections that damage the airways over time. Early treatment helps preserve lung function.\nDoctors usually look for bacteria by testing sputum (the thick mucus a person coughs up) or by taking throat or mouth swabs (oropharyngeal samples). Many children with CF cannot produce sputum, and throat swabs may miss germs that live deeper in the lungs.\nBronchoscopy is a procedure where a thin tube with a camera is slipped down the airway to collect fluid directly from the lower lungs. The fluid is washed out in a bronchoalveolar lavage (BAL) and often shows more bacteria than throat swabs. BAL is invasive and can cause coughing or brief worsening of symptoms.\n\nWhat did the review aim to find out about bronchoscopy‑guided antibiotic treatment?\nWe wanted to know whether choosing antibiotics based on BAL results (bronchoscopy‑guided therapy) improves outcomes compared with the usual practice of using clinical signs and oropharyngeal cultures. Specifically, we looked at lung‑function tests such as the lung clearance index (LCI – a test that measures how well air moves through the lungs) and forced expiratory volume in one second (FEV1 – the amount of air a person can forcefully exhale in one second), as well as infections, hospital stays, quality of life, and cost of care.\n\nHow did we find the evidence?\nWe searched the Cochrane Cystic Fibrosis Trials Register, three study registries, and reference lists of relevant articles. The latest search was on 1 November 2023. We included randomised controlled trials that compared bronchoscopy‑guided therapy with standard sampling‑based therapy in people with CF of any age. Two reviewers selected studies, assessed risk of bias, and extracted data. We rated the certainty of the evidence using GRADE criteria.\n\nWhat did we find?\nWe identified two trials that together enrolled about 200 children – 170 infants under six months and 30 school‑age to adolescent children.\nThe trials compared bronchoscopy‑guided therapy (using BAL results, and in one study an increase in LCI) with standard care based on symptoms and throat or cough swabs.\nThe results show that bronchoscopy‑guided therapy probably makes little or no difference to important outcomes:\n- Lung function (LCI and FEV1) was similar after two and five years of follow‑up.\n- Chest‑scan scores showed no clear benefit.\n- Nutrition, the number of Pseudomonas bacteria isolated, health‑related quality of life, and average cost of care were similar.\n- Hospital admissions may be slightly higher with bronchoscopy‑guided therapy, but the evidence is of low certainty.\n- The procedure caused temporary worsening of cough in about 29 % of cases and serious clinical deterioration in roughly 5 % of procedures.\nOverall, the current evidence does not support a clear benefit of routinely using bronchoscopy to decide antibiotic therapy in children with CF.\n\nWhat are the limitations of the evidence?\nWe have low confidence in the findings because the studies were small, participants may have known which treatment they received, and not all outcomes were reported in every study. The two trials also involved different age groups and slightly different ways of delivering the intervention.\n\nHow up‑to‑date is this review?\nThis review updates our previous work and includes all evidence searched up to 1 November 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 731,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.580645161290324,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 51.77643175499759,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.895644499360134,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.325288380918757,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.365964432284542,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.585472838797937,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.35082299986762,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.548387096774194,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.789826122551595,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.08177510259918,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 320,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 320.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 149,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 203,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 731,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 731 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:50.154173"
+}

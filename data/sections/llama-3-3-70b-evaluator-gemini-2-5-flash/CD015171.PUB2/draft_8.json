@@ -1,0 +1,162 @@
+{
+  "id": "CD015171.PUB2",
+  "draft": "What are the benefits and harms of medications, such as betahistine (a type of medication), for people with Ménière’s disease (a condition that affects balance and hearing)?\n- The benefits and harms of these medications are unclear, including their potential effects on vertigo (a feeling of spinning), hearing loss, and tinnitus (ringing in the ears).\n- We did not find enough good-quality evidence to determine the effectiveness of different medications, including betahistine, diuretics (medications that increase urine production), antivirals (medications that fight viruses), and corticosteroids (medications that reduce inflammation), in preventing vertigo attacks and improving symptoms in people with Ménière’s disease.\n- Future research in this area should focus on identifying the most effective treatments and outcomes that are important to people with Ménière’s disease, such as reducing vertigo episodes, improving hearing, and minimizing unwanted effects, in order to guide treatment decisions and improve the quality of life for those affected.\n\nWhat is Ménière's disease and why is it a problem?\nMénière's disease is a condition that affects the inner ear, causing episodes of vertigo (a spinning sensation), hearing loss, and tinnitus (ringing in the ears). These symptoms can be debilitating and disrupt daily life. While the exact cause of Ménière's disease is unknown, various treatments such as betahistine, diuretics, antiviral medications, and corticosteroids have been used to manage its symptoms.\n\nWhat did the review authors want to find out?\nThe authors of this review wanted to evaluate the benefits and harms of different systemic pharmacological interventions (medications) for people with Ménière's disease, compared to placebo (a dummy treatment) or no treatment. They aimed to determine which treatments are most effective in preventing vertigo attacks and associated symptoms, as well as their potential side effects.\n\nHow did we conduct the review?\nWe searched for studies comparing systemic pharmacological interventions to placebo or no treatment in people with Ménière's disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 10 studies that involved 848 people with Ménière's disease. The studies evaluated the following interventions: betahistine, diuretics, antivirals, and corticosteroids. Most studies lasted for around 3 to 12 months. The evidence for these medications was of low or very low certainty. This means we have little confidence in the results, and future research could change these conclusions.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by small study sizes, incomplete reporting of relevant data, and lack of coverage across all populations, interventions, comparators, and outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to September 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 452,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.523809523809526,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 45,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 27,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 139,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 41.05603244837761,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.879949431099877,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.871838390223346,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.460619469026547,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.521028234302573,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 59.798145806995365,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.8 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.238095238095237,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 13.344080432788601,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.774837589549095,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 192,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 173,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 452,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 452 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 3,
+        "P75_count": 11,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 61.111111111111114,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is factually accurate, complete, and well-structured. However, it needs a few revisions to simplify complex sentences and replace technical terms with more accessible language for a patient audience. Addressing the three key issues below will significantly improve its clarity.\n\n### Top 3 Improvements Needed:\n\n**1. Simplify the long, complex sentence in the Key Messages.**\n- **Problematic Sentence:** \"Future research in this area should focus on identifying the most effective treatments and outcomes that are important to people with Ménière’s disease, such as reducing vertigo episodes, improving hearing, and minimizing unwanted effects, in order to guide treatment decisions and improve the quality of life for those affected.\"\n- **Why it's a problem:** At 48 words, this sentence is too long and contains multiple ideas, making it difficult for readers to follow. Plain language summaries should use short, direct sentences.\n- **Suggested Rewrite:** \"Future research should focus on what matters most to people with Ménière’s disease. This includes reducing vertigo, improving hearing, and minimizing unwanted effects. Better evidence will help guide treatment decisions and improve quality of life.\"\n\n**2. Replace technical jargon with simpler terms.**\n- **Problematic Phrase:** \"...evaluate the benefits and harms of different systemic pharmacological interventions (medications)...\"\n- **Why it's a problem:** \"Systemic pharmacological interventions\" is highly technical jargon. While \"medications\" is provided in parentheses, it's better to use the simple term from the start.\n- **Suggested Rewrite:** \"...evaluate the benefits and harms of different medications...\"\n\n**3. Clarify research-specific terms in the 'Limitations' section.**\n- **Problematic Phrase:** \"...lack of coverage across all populations, interventions, comparators, and outcomes of interest.\"\n- **Why it's a problem:** The terms 'interventions, comparators, and outcomes' are research jargon (PICO) that will not be familiar to most readers.\n- **Suggested Rewrite:** \"...the studies did not look at all the different types of people, treatments, or results that we were interested in.\"\n\nBy making these changes, the summary will be much easier for patients and the public to understand.",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns, with 67% of features falling in the best quartile. The use of active voice and pronouns is excellent. However, the analysis also flags a high number of long words (P90), which supports the editorial feedback to replace technical jargon and simplify complex vocabulary to improve overall readability."
+    }
+  ]
+}

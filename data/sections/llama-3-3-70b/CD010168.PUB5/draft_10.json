@@ -1,0 +1,162 @@
+{
+  "id": "CD010168.PUB5",
+  "draft": "Does using a surgical drain after an operation to remove the appendix help prevent infection and other complications in people with complicated appendicitis - a serious condition where the appendix is gangrenous (dies) or has a hole in it?\n\nWe looked at the evidence to find out if using a surgical drain after an operation to remove the appendix helps prevent infection and other complications in people with complicated appendicitis. \n\nKey messages:\n- Using a surgical drain after an operation to remove the appendix for complicated appendicitis may not prevent infection or other complications, but the evidence is very uncertain and does not clearly show benefits or harms.\n- The current evidence does not support the use of abdominal drainage in preventing intraperitoneal abscess (a collection of pus in the abdominal cavity), wound infection, or morbidity (complications) in people undergoing open or laparoscopic appendectomy (surgical removal of the appendix) for complicated appendicitis.\n- Future research should focus on conducting larger studies to more reliably determine the effects of abdominal drainage on important outcomes, including mortality (death), and to address the significant uncertainty surrounding the use of surgical drains in people with complicated appendicitis undergoing appendectomy.\n\nWhat is complicated appendicitis and why is it a problem?\nComplicated appendicitis occurs when the appendix becomes severely damaged, either by dying (gangrenous) or developing a hole (perforated), which increases the risk of complications after surgery. Appendectomy, the surgical removal of the appendix, is the primary treatment for acute appendicitis. However, people who undergo appendectomy for complicated appendicitis are more likely to suffer from postoperative complications, such as intraperitoneal abscess, wound infection, and morbidity.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the benefits and harms of abdominal drainage. They focused on reducing intraperitoneal abscess after appendectomy for complicated appendicitis. They also aimed to compare the effects of different types of surgical drains and to determine the optimal time for drain removal. \n\nHow did we find the evidence?\nWe performed a systematic search of MEDLINE, Embase, Cochrane Central, and trial registries for randomized controlled trials and controlled clinical trials that compared abdominal drainage with no drainage after appendectomy for complicated appendicitis. \n\nWhat did we find?\nWe found 8 studies that involved 739 people with complicated appendicitis. The studies were conducted in North America, Asia, and Africa and published between 1973 and 2023. The majority of participants had perforated appendicitis with local or general peritonitis (inflammation of the abdominal cavity). All participants received antibiotic regimens after open or laparoscopic appendectomy. \n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have been aware of which treatment they received (lack of blinding), and the studies involved different types of participants and varied delivery methods, creating heterogeneity.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to October 2023.\n\nIn conclusion, the evidence is very uncertain whether abdominal drainage prevents intraperitoneal abscess, wound infection, or morbidity in people undergoing open or laparoscopic appendectomy for complicated appendicitis. Abdominal drainage may increase hospital stay, but the evidence is very uncertain. Consequently, there is no evidence for any clinical improvement with the use of abdominal drainage in people undergoing open or laparoscopic appendectomy for complicated appendicitis. Larger studies are needed to more reliably determine the effects of drainage on mortality outcomes.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 579,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.96551724137931,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 163,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 163.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 16.93165803108812,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 16.9 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 15.857691620510987,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 15.088199035197427,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 15.84449050086356,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.8 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 20.55960931451373,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.6 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 60.207313441724736,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.2 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.03448275862069,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.711309200802088,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.917163575725092,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 254,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 254.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 182,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 233,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 579,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 579 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 3,
+        "P75_count": 4,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several issues that need to be addressed to improve its clarity and readability. Firstly, the title and some subheadings are not phrased as questions, which is a requirement. For example, the subheading \"What is complicated appendicitis and why is it a problem?\" is correct, but \"Introduction\" is not. Secondly, there are some sentences that are too long and hard to follow, such as the first sentence in the \"Background\" section. Thirdly, there are some technical terms that are not explained, such as \"intraperitoneal abscess\" and \"morbidity\". Lastly, the draft text exceeds the recommended word count of 850 words. To improve the draft, I suggest rephrasing the title and subheadings as questions, breaking up long sentences, explaining technical terms, and reducing the word count. The PLS evaluation results show that the draft has a high number of passive voice constructions, complex words, and long words, which contribute to its low readability score. Overall, the draft needs significant revisions to make it clearer and more readable for patients.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the draft has a high number of passive voice constructions, complex words, and long words, which contribute to its low readability score. The draft exceeds the recommended word count of 850 words and has several technical terms that are not explained. The results also show that the draft has a low readability score, with a Flesch reading ease score of 16.93, which is below the 10th percentile. Overall, the draft needs significant revisions to make it clearer and more readable for patients."
+    }
+  ]
+}

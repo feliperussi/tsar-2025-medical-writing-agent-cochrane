@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007546.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of using physical restraints for older people in long-term care settings?**\n\n**Key Messages:**\n\n* Organisational interventions to implement a least-restraint policy probably reduce the number of residents with at least one physical restraint and probably largely reduce the number of residents with at least one belt.\n* Simple educational interventions may have little or no effect on the use of physical restraints.\n* Providing information about residents' fall risk may result in little or no difference in the use of physical restraints.\n\n**Introduction to the review topic and review aims:**\n\nWhat is physical restraint use in long-term care settings, and why is it a problem?\n\nPhysical restraints, such as bedrails and belts in chairs or beds, are commonly used for older people in long-term care settings, despite clear evidence for their lack of effectiveness and safety. This review aims to evaluate the effects of interventions to prevent and reduce the use of physical restraints for older people who require long-term care.\n\n**What did we do?**\n\nWe searched for studies that compared interventions to prevent or reduce the use of physical restraints in older people with long-term care needs. We included 11 studies with 19,003 participants and found that organisational interventions probably reduce the number of residents with at least one physical restraint and probably largely reduce the number of residents with at least one belt.\n\n**What did we find?**\n\nWe found that the studies were conducted in long-term residential care facilities and included people with dementia. The mean age of the participants was approximately 85 years. We found moderate-certainty evidence that organisational interventions aimed at implementation of a least-restraint policy probably lead to a reduction in the number of residents with at least one use of PR and a large reduction in the number of residents with at least one use of a belt for restraint.\n\n**What are the limitations of the evidence?**\n\nWe are uncertain whether simple educational interventions reduce the use of physical restraints and interventions providing information about residents' fall risk may result in little to no difference in the use of physical restraints.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2022.\n\nNote: I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 470,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.40740740740741,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.24648148148151,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.878037825059106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.791512214342,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.610978723404255,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.197005516154455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.85421591804571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.777777777777778,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.473896769109535,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 167,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 129,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 470,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 470 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.324116"
+}

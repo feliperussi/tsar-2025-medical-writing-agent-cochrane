@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015031.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually, following the guidelines provided.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of using Pars Plana Vitrectomy with Internal Limiting Membrane Flap versus Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling for Large Macular Holes?**\n\n**For people with large macular holes, Pars Plana Vitrectomy with Internal Limiting Membrane Flap may help improve their vision more than Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling. However, the evidence is not very clear on this point. There is a small chance that Pars Plana Vitrectomy with Internal Limiting Membrane Flap may cause more problems with their vision than Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling. More research is needed to fully understand the benefits and risks of these two treatments.**\n\n**For people with large macular holes, Pars Plana Vitrectomy with Internal Limiting Membrane Flap may help close their holes more often than Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling. However, the evidence is not very clear on this point. More research is needed to fully understand the benefits and risks of these two treatments.**\n\n**We need more high-quality studies to compare Pars Plana Vitrectomy with Internal Limiting Membrane Flap and Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling in people with large macular holes.**\n\n**What is Pars Plana Vitrectomy with Internal Limiting Membrane Flap?**\n\nPars Plana Vitrectomy with Internal Limiting Membrane Flap is a surgical procedure used to treat large macular holes. It involves removing the vitreous gel from the eye and replacing it with a new gel. The internal limiting membrane is a thin layer of tissue that separates the retina from the vitreous gel. In this procedure, a flap is created in the internal limiting membrane to help close the macular hole.\n\n**What is Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling?**\n\nPars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling is another surgical procedure used to treat large macular holes. It involves removing the vitreous gel from the eye and replacing it with a new gel. In this procedure, the internal limiting membrane is peeled away to help close the macular hole.\n\n**How was this review done?**\n\nWe searched for studies that compared Pars Plana Vitrectomy with Internal Limiting Membrane Flap and Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling in people with large macular holes. We combined the results of the included studies and rated our confidence in the evidence based on factors such as study methods and sizes.\n\n**What did we find?**\n\nWe found four small studies that compared Pars Plana Vitrectomy with Internal Limiting Membrane Flap and Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling in people with large macular holes. The studies found that Pars Plana Vitrectomy with Internal Limiting Membrane Flap may help improve vision more than Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling, but the evidence is not very clear on this point. Pars Plana Vitrectomy with Internal Limiting Membrane Flap may also help close macular holes more often than Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling, but again, the evidence is not very clear on this point.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not very clear on the benefits and risks of Pars Plana Vitrectomy with Internal Limiting Membrane Flap and Pars Plana Vitrectomy with Conventional Internal Limiting Membrane Peeling in people with large macular holes. The studies were small and had some limitations, such as lack of masking of outcome assessors and selective reporting of outcomes.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 617,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.28125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 40.27717306523502,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.431470320097244,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.065989667747168,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.694457050243113,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.926438411669368,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.289353727714754,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.75,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.24744871391589,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 4.4368038087520265,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 136,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 65,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 216,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 617,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 617 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 8,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:50.687232"
+}

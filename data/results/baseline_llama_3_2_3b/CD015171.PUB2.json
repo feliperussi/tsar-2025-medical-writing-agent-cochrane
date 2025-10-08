@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015171.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of systemic pharmacological interventions for treating Ménière’s disease?**\n\nMénière's disease is a condition that causes recurrent episodes of vertigo, associated with hearing loss and tinnitus. Systemic pharmacological interventions have been used to manage this condition, but their efficacy is unclear.\n\n**What did we do?**\nWe searched for studies that compared different treatments for Ménière's disease, including betahistine, diuretics, antivirals, and corticosteroids. We included 10 studies with a total of 848 participants.\n\n**What did we find?**\nWe found that the evidence for systemic pharmacological interventions for Ménière's disease is very uncertain. There are few studies that compare these interventions to placebo or no treatment, and the evidence that is currently available from these studies is of low or very low certainty.\n\n**What are the limitations of the evidence?**\nThe evidence is very uncertain because there are few studies that compare these interventions to placebo or no treatment. The studies that we did find were small and had low or very low certainty. We also did not find any evidence on the potential harms of treatment.\n\n**How up to date is this evidence?**\nThe evidence is not up to date because the studies that we found were conducted in 2022, and there may be more recent studies that have been published since then.\n\n**Key Messages:**\n\n* The evidence for systemic pharmacological interventions for Ménière's disease is very uncertain.\n* There are few studies that compare these interventions to placebo or no treatment.\n* The studies that we did find were small and had low or very low certainty.\n* We did not find any evidence on the potential harms of treatment.\n* Consensus on the appropriate outcomes to measure in studies of Ménière's disease is needed to guide future studies in this area and enable meta-analyses of the results.\n\nNote: I have followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please note that this is a machine-generated summary and may not be perfect. It is always best to have a human reviewer check the summary for accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 395,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.620689655172415,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 83,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.50670886075952,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.482575294631168,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.845256219991267,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.072202531645566,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.245744216499347,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.78524661719773,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.517241379310345,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.792345700567438,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 128,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 395,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 395 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:51.117096"
+}

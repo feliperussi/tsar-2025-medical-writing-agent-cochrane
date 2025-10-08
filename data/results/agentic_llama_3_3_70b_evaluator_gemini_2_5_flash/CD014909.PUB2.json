@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014909.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Is combining mechanical bowel preparation with oral antibiotics more effective than using either method alone in reducing complications after elective colorectal surgery?\n\nKey messages:\n- Combining mechanical bowel preparation with oral antibiotics probably reduces the risk of surgical site infections and anastomotic leakage (leaks from where the bowel is joined back together) after elective colorectal surgery.\n- We are uncertain if using oral antibiotics alone is as effective as the combined method, or if not using any bowel preparation increases the risk of complications.\n- Future research should compare the combined method with oral antibiotics alone, or with no bowel preparation, to better understand the benefits and potential harms.\n\nWhat is elective colorectal surgery and what are its complications?\nElective colorectal surgery is a planned operation to remove part of the colon or rectum, often due to cancer or other diseases. This type of surgery can be risky, with potential complications including anastomotic leakages (when the joined parts of the colon or rectum don't heal properly) and surgical site infections (when the wound becomes infected). These complications can lead to a longer recovery, lasting health problems, and even death.\n\nWhy do we use preoperative bowel preparation in elective colorectal surgery?\nWe use bowel preparation before surgery to clean out the bowel and reduce the number of bacteria living there. This can help prevent infections and other problems. The preparation can be done mechanically (using enemas or laxatives) and/or with oral antibiotics. The goal is to make the surgery safer by reducing the risk of infection and other complications.\n\nWhat did we want to find out?\nWe wanted to assess the evidence for using combined mechanical and oral antibiotic bowel preparation to prevent complications in elective colorectal surgery. We aimed to compare the effectiveness of this combined approach with mechanical bowel preparation alone, oral antibiotics alone, or no bowel preparation at all, in reducing the risk of surgical site infections, anastomotic leakages, and other complications.\n\nWhat did we find?\nWe found 21 studies that involved 5264 participants who underwent elective colorectal surgery. Our main finding comes from comparing the combined method (mechanical preparation plus antibiotics) with mechanical preparation alone. The combined method probably reduces the risk of surgical site infections and leaks from where the bowel was joined. This means that for every 100 people who receive the combined preparation, it may prevent 4 to 6 surgical infections and 2 to 4 cases of leakage. For this comparison, we found no clear difference in the risk of death, length of hospital stay, or the bowel being slow to start working again (postoperative ileus).\n\nThere was not enough evidence from the other comparisons to be certain. We are still uncertain if the combined method is better than using oral antibiotics alone, or better than no bowel preparation at all.\n\nHow did we find this information?\nWe searched for studies that compared different ways of preparing the bowel for surgery. We then summarized their results and rated how confident we were in the evidence.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because participants may have known which treatment they received, the studies were very small, and the findings do not apply to all relevant populations or outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to December 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 572,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.451612903225808,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 36.654864651477595,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.730604556733592,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.72458267538913,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.46867132867133,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.219806000451165,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.0460184976314,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.645161290322581,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.328828005937952,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.009658041958042,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 257,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 257.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 572,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 572 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:28.113012"
+}

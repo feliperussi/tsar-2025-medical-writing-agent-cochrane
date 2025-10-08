@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009975.PUB4",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Is videolaryngoscopy better than direct laryngoscopy for intubating newborn babies?\n\nVideolaryngoscopy uses a tiny camera to show the airway on a screen, while direct laryngoscopy relies on the clinician’s direct view.\n\nKey messages:\n- Videolaryngoscopy may increase the chance that a newborn’s breathing tube is placed correctly on the first try, but we are not sure it speeds up the process or reduces the number of attempts.\n- We are not confident that videolaryngoscopy changes the risk of low oxygen or slow heart rate during intubation, and we are not sure it lowers the lowest oxygen level reached.\n- We are moderately confident that videolaryngoscopy reduces the chance of airway injury, but more well‑designed studies are needed to confirm these findings.\n\nWhy is it important to get a breathing tube into a newborn’s airway quickly?\nNewborns have very small airways and limited oxygen reserves. If a tube is not placed quickly and correctly, the baby can become dangerously low in oxygen, which can harm the brain and other organs. The procedure can also cause a slow heart rate, another sign of distress.\n\nWhat did we want to find out?\nWe wanted to know whether using a video‑assisted laryngoscope makes the intubation process faster, safer, or more successful compared with the traditional direct‑view technique in babies up to 28 days old.\n\nWhat did we do?\nWe searched multiple medical databases for studies that compared videolaryngoscopy with direct laryngoscopy in newborns, combined the results, and judged how confident we could be in the evidence.\n\nWhat did we find?\nEight randomized trials involving 759 intubation attempts in newborns from several countries were included. The studies used different video devices (C‑MAC, Airtraq, Glidescope) and were carried out in neonatal intensive‑care units and delivery rooms.\n\nWe are not confident that videolaryngoscopy reduces the time needed to place the breathing tube.\nWe are not confident that videolaryngoscopy reduces the number of attempts required.\nWe are not confident that videolaryngoscopy increases the chance that the tube is placed correctly on the first try.\nWe are not confident that videolaryngoscopy changes the risk of low oxygen or slow heart rate during the procedure.\nWe are not confident that videolaryngoscopy changes the lowest oxygen level reached during the procedure.\nWe are moderately confident that videolaryngoscopy reduces the chance of injury to the airway.\nNo data were reported on other potential harms such as severe heart rhythm problems or death.\n\nLimitations of the evidence\nWe have little confidence in most of the findings because the studies often did not hide the group assignment from the clinicians, and the way the procedures were carried out varied widely. The trials were relatively small, and some had unclear methods for measuring outcomes, which means the results may not apply to all newborn settings.\n\nHow up to date is the evidence?\nThe evidence is current to November 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 500,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.23076923076923,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 48.91016923076924,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.2148,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.689764615384611,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.755439999999993,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.052307692307693,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.230769230769226,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.859306153846155,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 187,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 500,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 500 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:15.895325"
+}

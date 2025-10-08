@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Can giving healthcare professionals information about their performance (audit and feedback) improve the quality of care they provide?\n\nKey messages:\n- Audit and feedback can improve the quality of care provided by healthcare professionals, although the size of the effect varies. No significant harmful effects were reported in the studies, but the quality of evidence is not strong enough to be certain about the benefits and potential harms.\n- The effectiveness of audit and feedback seems to be greater when it is designed to help healthcare professionals prioritize and take action on important clinical issues, and when it includes characteristics such as individualized feedback, comparison to top performers or benchmarks, and interactive modalities. However, more research is needed to confirm these findings and to understand how to optimize the effectiveness of audit and feedback interventions.\n- Future research should focus on addressing the limitations of the current evidence, such as the lack of long-term follow-up and the need for more studies in diverse settings and populations. Additionally, research should investigate how to make audit and feedback more effective and sustainable in real-world healthcare settings, and how to balance the potential benefits with the potential costs and unintended consequences.\n\nWhat is audit and feedback, and why is it important for improving healthcare practice?\nAudit and feedback (A&F) is a strategy used to improve professional practice in healthcare. It involves measuring clinical performance over a specified period and providing the resulting data to clinicians or clinical teams. The goal of A&F is to prompt healthcare professionals to modify their practice when it is inconsistent with a desirable target. A&F is widely used, but there is uncertainty about its effects on improving healthcare practice and the characteristics that lead to a greater impact.\n\nWhat did the review authors want to find out about audit and feedback?\nThe review authors aimed to assess the effects of A&F on the practice of healthcare professionals and to examine factors that may explain variation in the effectiveness of A&F. They wanted to find out how A&F can be used to improve professional practice, what characteristics of A&F lead to a greater impact, and what factors influence its effectiveness.\n\nHow did the review authors search for studies?\nWe performed a systematic search for studies evaluating audit and feedback interventions.\n\nWhat did the review authors find?\nWe found 292 studies with 678 arms. The studies were conducted in various countries, with 26 studies conducted in low- or middle-income countries. Most studies (237, 81%) targeted physicians as the recipients of audit and feedback. The professional practices most commonly targeted in the studies were prescribing (138 studies, 47%) and test-ordering (103 studies, 35%). Most studies featured multifaceted interventions, with clinician education (377 study arms, 56%) and reminders (100 study arms, 15%) being the most common co-interventions. Audit and feedback probably improves professional practice slightly. For every 100 people, audit and feedback may lead to a small improvement in desired practice. Audit and feedback is most effective when it targets important performance metrics, measures individual practice, involves a local champion, includes multiple interactive modalities, compares performance to top peers or a benchmark, facilitates engagement, and features an actionable plan with specific advice for improvement.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding (participants may have known their treatment), incomplete reporting of outcomes (not all studies provided data on all outcomes of interest), and heterogeneity in study populations and intervention delivery methods.\n\nIs the evidence up to date?\nThe evidence is up to date to June 2020 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 619,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.925925925925927,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 60,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 192,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 192.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 39.92285885239036,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.386329204810629,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.336258601088971,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.249305331179322,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.4110811942799,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 58.9517740680907,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.0 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.25925925925926,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 14.61895003862225,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.075542727218332,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 272,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 272.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 143,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 143.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 223,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 223.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 619,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 619 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 10,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 55.55555555555556,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start and passes all critical checks for completeness and accuracy. However, it needs revisions to improve clarity for a lay audience. The main issues are the use of technical jargon without explanation (e.g., 'multifaceted interventions', 'heterogeneity'), several long and complex sentences that are difficult to follow, and abstract language that makes key findings hard to grasp. These issues are reflected in the linguistic analysis, which shows the text has a high number of long, complex, and unfamiliar words. Focusing on simplifying vocabulary and breaking down long sentences will significantly improve readability.",
+      "pls_evaluation_summary": "The linguistic analysis shows that while the draft is within the word limit, its complexity metrics are high, deviating from typical PLS patterns. Specifically, the number of 'long_words' is beyond the 90th percentile, and six other metrics related to word and sentence complexity (including 'complex_words', 'smog_index', and 'nouns') are in the 75th-90th percentile range. This indicates the text is likely too difficult for a general audience and would benefit from simplification."
+    }
+  ]
+}

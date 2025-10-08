@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003331.PUB6",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Does exercise‑based cardiac rehabilitation (ExCR) help people with heart failure?\n\nKey messages\n- ExCR probably reduces the chance of being admitted to hospital and may improve how people feel day to day, but it does not appear to change the chance of dying.\n- ExCR can be done in a centre or at home and no harmful effects were reported.\n- More research is needed in older people, women and those whose heart failure is of a different type.\n\nWhat is heart failure?\nHeart failure is a condition where the heart cannot pump blood as well as it should, leading to tiredness, shortness of breath and swelling.\n\nWhat is exercise‑based cardiac rehabilitation?\nExCR is a program that includes supervised exercise, advice about staying active, and support for healthy living. It can be delivered in a hospital setting or at home‑based.\n\nWhy might it help?\nExercise can make the heart stronger, improve breathing and increase energy, which could lower the need for hospital care and improve everyday wellbeing.\n\nWhat did we want to find out?\nWe wanted to know whether ExCR changes the chances of dying, being admitted to hospital, or feeling better, and whether it causes any harms.\n\nWhat did we do?\nWe looked for all studies that compared ExCR with usual care, searched many databases up to December 2021, and followed standard methods for selecting and analysing the evidence.\n\nWhat did we find?\nWe identified about sixty studies that together included more than eight thousand people with heart failure. Most people had a type of heart failure where the heart’s pumping ability is reduced, but some had a different type. The studies compared ExCR with usual care and lasted for about six months on average. Most studies took place in a centre, while a few were delivered at home.\n\nMain results\nWe are not confident that ExCR changes the chance of death. The evidence does not show a clear difference.\nWe are moderately confident that ExCR reduces the chance of being admitted to hospital. People who did the exercise program were less likely to need a hospital stay.\nWe are moderately confident that ExCR reduces the chance of a hospital stay because of heart failure specifically.\nWe are moderately confident that ExCR improves quality of life. People reported feeling better in daily activities and overall wellbeing.\nWe are not confident that ExCR improves overall quality of life scores, because the evidence was very limited.\n\nHarms\nNo harmful effects were reported in any of the studies, and there were no safety concerns.\n\nLimitations\nWe have little confidence in some of the findings because a few studies did not clearly describe how they were done and because the number of people in some comparisons was small. Most of the people studied were younger men, so the results may not apply to older women or to people with a different type of heart failure.\n\nWhat is new?\nThis review updates our previous review and includes new evidence up to December 2021. The evidence is current to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 533,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.151515151515152,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 35,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 121,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 67.42995508556486,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.866689408152826,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.641930183637498,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.57913696060037,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.764546023082609,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.230314401046115,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.212121212121212,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.831760866327848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.65957668997669,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 164,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 533,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 533 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:11.612188"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What can people do to prevent cardiovascular events?\nCardiovascular diseases, which involve the buildup of fats in the walls of arteries, are a major cause of death and illness worldwide. Colchicine is a medicine with anti-inflammatory properties that has been used for a long time. However, it is not clear if colchicine can help prevent cardiovascular events in people who do not already have heart disease.\n\nWhat did we want to find out?\nWe wanted to find out if colchicine works better than a placebo or other treatments to prevent cardiovascular events like heart attacks and strokes. We also wanted to know if colchicine has any harmful effects.\n\nWhat did we do?\nWe searched for studies that compared colchicine with a placebo or other treatments in people without existing heart disease. We found 15 studies that involved over 1700 people. The studies lasted from a few months to several years.\n\nWhat did we find?\nWe found that colchicine may reduce the risk of death from all causes, but the evidence is very uncertain. Colchicine may also increase the risk of diarrhea, but again, the evidence is very uncertain. We did not find enough evidence to determine if colchicine reduces the risk of heart attacks or strokes.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were small and had biases, which means the results might not be reliable. Many of the studies focused on people with liver disease, rather than the general population. We need more robust studies to determine if colchicine is effective in preventing cardiovascular events.\n\nHow up to date is this evidence?\nThe evidence is up to date to May 2023.\n\nKey Messages:\n- We are not confident in the evidence for colchicine to prevent cardiovascular events due to small and biased studies.\n- Colchicine may reduce the risk of death from all causes, but the evidence is very uncertain.\n- Colchicine may increase the risk of diarrhea, but the evidence is very uncertain.\n- We need more robust studies to determine if colchicine is effective in preventing cardiovascular events.\n- Future research should focus on high-quality studies that compare colchicine with a placebo or other treatments in people without existing heart disease.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 389,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.91304347826087,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.39730971275287,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.176266905107862,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.026701687716553,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.915064267352186,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.860333072538282,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.67653962221974,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.695652173913044,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.12403840463596,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.034568190454902,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 128,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 69,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 108,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 389,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 389 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:36.465888"
+}

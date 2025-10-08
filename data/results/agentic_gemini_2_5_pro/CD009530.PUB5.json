@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009530.PUB5",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "For people with cystic fibrosis, is it better to guide antibiotic treatment for lung infections using samples taken with a lung scope (bronchoscopy) compared to standard tests like a throat swab?\n\nKEY MESSAGES\n- For children with cystic fibrosis, the available evidence suggests that using a lung scope (bronchoscopy) to guide antibiotic treatment for lung infections likely makes little to no difference to lung function or quality of life compared to standard methods (like throat swabs). This approach may lead to more hospital stays and can cause temporary side effects, such as a worsening cough.\n- The evidence in this review comes from studies in children, so it is unclear if these findings apply to adults with cystic fibrosis.\n\nINTRODUCTION/AIMS\nHow are lung infections managed in people with cystic fibrosis?\nPeople with cystic fibrosis (CF) are prone to lung infections, and early diagnosis and treatment are essential for managing their lung disease. For people who ... (the rest of the content as provided).\n\nWhat did we want to find out?\nWe wanted to evaluate whether using bronchoscopy to guide antibiotic treatment is better for managing lung infections in adults and children with CF compared to standard care (where treatment is guided by throat swabs and clinical symptoms).\n\nMETHODS\nHow did we find the studies?\nWe searched for studies that compared guiding antibiotic use with samples from a bronchoscopy (a procedure to look inside the lungs) versus guiding it with other methods, like throat swabs.\n\nHow did we combine the results?\nWe then compared and summarized the results.\n\nHow did we rate the evidence?\nWe rated our confidence in the evidence.\n\nRESULTS\nWhat did we find?\nThis review included 2 studies with a total of 187 infants and children with cystic fibrosis (CF). One study followed infants from under 6 months until they were 5 years old, while the other included children aged 5 to 18 years. The studies compared guiding antibiotic treatment with bronchoscopy (specifically bronchoalveolar lavage or BAL) with standard care, where doctors based treatment on samples from the throat and clinical symptoms. The review found no studies in adults.\n\nFor preschool children with CF, guiding antibiotic treatment with bronchoscopy probably makes little to no difference to chest scan scores, the cost of care, lung function, or nutritional measures. However, it may lead to more hospital stays each year. Overall, we found no evidence to support routinely using bronchoscopy to manage lung infections in preschool children with CF.\n\nLIMITATIONS\nWe have little confidence in the evidence because there were not enough studies to be certain about the results, and the studies delivered the treatment in different ways. Additionally, not all studies provided data on all the outcomes we were interested in.\n\nCURRENCY\nThis review updates our previous review. The evidence is up to date to November 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 490,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.14814814814815,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.85299697656842,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.837981859410434,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.444318972033258,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.032979591836735,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.626606198034771,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.35222978080121,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.481481481481482,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.1104335791443,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.151699168556313,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 194,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 78,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 490,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 490 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:31.518688"
+}

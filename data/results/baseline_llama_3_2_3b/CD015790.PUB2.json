@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015790.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of self-management interventions for adults with visual impairment?**\n\nVisual impairment is a major health concern that affects older adults due to age-related ocular diseases. It affects more than 2200 million people worldwide and may lead to functional and psychological decline, emphasizing the need for effective self-management interventions. Self-management interventions aim to enhance individuals' abilities to manage their condition, maintain activities of daily living, and improve overall well-being.\n\n**What do we want to find out?**\n\nWe wanted to find out: whether self-management interventions have an effect on quality of life in adults with visual impairment, and whether they can improve vision-related quality of life.\n\n**What did we do?**\n\nWe searched for studies that compared multifaceted self-management interventions in adults with acquired visual impairment (including dual sensory impairment).\n\n**What did we find?**\n\nWe found 20 parallel-group randomized controlled trials that enrolled 3151 participants. The size of studies ranged from 30 to 323 participants with a median of 153 participants. Studies were conducted in Asia, Australia, Europe, and North America in academic medical centers, hospitals, low-vision clinics, private practice, rehabilitation centers, and Veterans Affairs medical facilities. The participants were older adults with a mean age across the included studies ranging from 60 to 84 years. The mean logarithm of the minimum angle of resolution (logMAR) visual acuity ranged from 0.15 to 1.11. Age-related macular degeneration was the predominant cause of low vision in 15 studies.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to May 2024.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. We judged the certainty of evidence for both quality of life outcomes as low according to GRADE criteria, downgrading one level for imprecision and one level for unexplained heterogeneity.\n\n**What should happen next?**\n\nFuture research in this area should focus on options and effects that are important to decision-makers, such as: developing more sensitive measures of quality of life and assessing the benefit of self-management interventions across a broader demographic, including different stages of vision impairment and people with dual-sensory impairment.\n\n**Key Messages:**\n\n* Self-management interventions may have little to no effect on improving quality of life for adults with visual impairment.\n* There is no clear evidence that self-management interventions can improve vision-related quality of life.\n* Research is needed to develop more sensitive measures of quality of life and to assess the benefit of such interventions across a broader demographic.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 490,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.127278911564645,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.743673469387758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.373176870748303,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.89575510204082,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.7578231292517,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.374149659863946,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.233333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.770329614269007,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.126133333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 113,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 157,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 490,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 490 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:52.721248"
+}

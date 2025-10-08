@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014612.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Does closing the small gaps (mesenteric defects) in the tissue that holds the intestines lower the chance of internal hernia after gastric bypass (Roux‑en‑Y) surgery?\n\nWhat are the key messages?\n– Closing the small gaps that are created during Roux‑en‑Y gastric bypass probably cuts the risk of an internal hernia with bowel blockage by about 70 %.\n– The studies do not show a clear increase in overall complications within 30 days, death within 30 days, or problems during the operation when the gaps are closed.\n– Evidence is very uncertain about whether closing the gaps makes the hospital stay longer, because only three small trials are available.\n\nWhy is internal hernia a concern after gastric bypass surgery?\nPeople with severe obesity sometimes have weight‑loss surgery called Roux‑en‑Y gastric bypass (RYGB). In this operation a small stomach pouch is made and the small intestine is rerouted, which helps people lose weight. The rerouting creates tiny openings in the tissue that holds the intestines (the mesentery). These openings are called mesenteric defects. If a loop of intestine slips through one of these openings, it becomes trapped – an internal hernia. An internal hernia can block the bowel, cause severe pain, cut off blood supply, and even lead to death. Some surgeons stitch (close) the gaps to prevent this, but stitching might also kink the connection (anastomosis) between intestinal segments, which could cause a new blockage.\n\nWhat did the researchers aim to find out?\nWe compared two approaches used during RYGB: (1) closing the mesenteric defects with stitches and (2) leaving the defects open. We wanted to know whether closing the gaps reduces the chance of an internal hernia with bowel obstruction over the long term (up to 10 years) and whether it changes other outcomes such as overall complications within 30 days, death within 30 days, problems during the operation, length of hospital stay, and postoperative pain.\n\nHow did we find the evidence?\nWe searched CENTRAL, MEDLINE, Embase, PubMed, OpenGrey, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform for randomised controlled trials up to August 2024. We also screened reference lists and contacted study authors for missing data. Two reviewers independently checked each trial for risk of bias and extracted the data. We combined the results using a random‑‑effects meta‑analysis and judged our confidence with the GRADE system.\n\nWhat did we find?\nWe identified three randomised controlled trials that together enrolled 3,010 participants with obesity (BMI ≥ 35 kg/m²) who had laparoscopic or robotic RYGB. All three trials compared closing the mesenteric defects with leaving them open. One trial used non‑absorbable interrupted stitches; the other two used non‑absorbable running stitches.\n\n– Internal hernia: Closing the gaps probably reduces the risk of an internal hernia with bowel blockage. The risk ratio was about 0.3, meaning the chance of an internal hernia was roughly one‑third as likely.\n– Overall complications (within 30 days): Closing the gaps probably makes little or no difference (risk ratio about 1.1).\n– Death within 30 days, intra‑operative complications and length of hospital stay: The evidence is very uncertain. The few available data hint at a slight increase in hospital stay, but confidence is low.\n\nPost‑operative pain was not reported in enough detail to analyse.\n\nWhat are the limitations of the evidence?\nOnly three small trials are available, and the participants and surgical techniques differed across studies. This limits our confidence in the results and means we cannot be certain about the true benefits or harms of closing the gaps.\n\nHow current is the evidence?\nWe searched for relevant studies up to August 2024, so the evidence reflects all research that was publicly available at that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 638,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.9375,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 64,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 58.23981681034485,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.08907327586207,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.346492946708462,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.940313479623821,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.498510971786835,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.210227272727266,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.4375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.819683699059562,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 276,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 276.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 120,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 120.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 638,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 638 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:59.400500"
+}

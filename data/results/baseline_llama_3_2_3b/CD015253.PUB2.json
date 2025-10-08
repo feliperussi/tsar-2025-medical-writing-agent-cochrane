@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015253.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of autoinflation for otitis media with effusion (OME) in children?**\n\n**Key Messages:**\n\n* Autoinflation may have a beneficial effect on OME-specific quality of life and persistence of OME in the short term, but the effect is uncertain for return to normal hearing and adverse effects.\n* The potential benefits should be weighed against the inconvenience of regularly carrying out autoinflation, and the possible risk of ear pain.\n* We found 11 studies that included 1036 children with OME, but the evidence was very uncertain regarding the effect of autoinflation on return to normal hearing and adverse effects.\n\n**Introduction to the review topic and review aims:**\n\n**What is otitis media with effusion (OME)?**\n\nOME is an accumulation of fluid in the middle ear cavity, common amongst young children. The fluid may cause hearing loss. When persistent, it may lead to behavioural problems and a delay in expressive language skills.\n\n**Why is managing OME important?**\n\nManaging OME is important because it can cause hearing loss, behavioural problems, and a delay in expressive language skills. Watchful waiting, medical, surgical, and mechanical treatment are common management options.\n\n**What did we want to find out?**\n\nWe wanted to find out: which types of treatments work best to help children with OME; the benefits and harms of autoinflation.\n\n**What did we do?**\n\nWe searched for studies that compared autoinflation with either watchful waiting (no treatment), non-surgical treatment or ventilation tubes. We included 11 completed studies that met our inclusion criteria (1036 participants).\n\n**What did we find?**\n\nWe found that autoinflation may have a beneficial effect on OME-specific quality of life and persistence of OME in the short term, but the effect is uncertain for return to normal hearing and adverse effects. The potential benefits should be weighed against the inconvenience of regularly carrying out autoinflation, and the possible risk of ear pain.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to January 2023.\n\n**Language guidelines:**\n\nWe used short, simple sentences and defined any necessary technical terms immediately. We wrote in active voice when possible and used the first person plural (we) when referring to the review authors. We focused on what the findings mean for patients and avoided using medical jargon or acronyms.\n\n**Limitations of the evidence:**\n\nThe evidence was very uncertain regarding the effect of autoinflation on return to normal hearing and adverse effects. The longest duration of follow-up was 11 weeks. At this time point, the risk ratio was 2.67 in favour of autoinflation (95% confidence interval (CI) 1.73 to 4.12; 85% versus 32%; number needed to treat to benefit (NNTB) 2; 1 study, 94 participants).\n\nNote: I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 549,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.685714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.31400000000002,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.88298412698413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.35854020296643,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.710091074681234,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.63311995836586,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.01176164454853,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.14889156509222,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.875424907624252,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 212,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 161,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 549,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 549 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:51.411339"
+}

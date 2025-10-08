@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013474.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs maintenance therapy helpful for people with chronic lymphocytic leukaemia (CLL)?\n\nKey Messages  \n- Maintenance medicines such as anti‑CD20 antibodies (rituximab or ofatumumab) and the drug lenalidomide can keep the disease from getting worse for a longer time, but they do not make people live longer and they increase the chance of serious side‑effects; the newer medicines have not been studied enough to know their effects.  \n- The evidence we found is only moderate to very low quality, so we are not very sure about the exact size of the benefits or harms.  \n- More well‑designed studies are needed, especially on newer targeted drugs, to show whether maintenance can improve survival and to clarify the safety picture.\n\nWhat is chronic lymphocytic leukaemia?  \nChronic lymphocytic leukaemia (CLL) is the most common blood cancer in adults. It develops slowly and cannot be cured with current treatments. People often need several rounds of therapy, and each round may work for a shorter time than the one before.\n\nWhy might maintenance therapy be used?  \nAfter an initial treatment puts the disease into remission, some people choose to keep taking a low‑dose medicine (maintenance therapy) to try to keep the remission going longer. Options that have been used include anti‑CD20 antibodies, the drug lenalidomide, and anti‑CD52 antibodies. Newer pills that block specific cancer‑cell signals are also being explored, but we do not yet have studies on them.\n\nWhat did we want to find out?  \nWe wanted to know whether maintenance medicines improve overall survival, keep the disease from progressing, and affect quality of life, and we also wanted to learn about any serious side‑effects or deaths caused by the medicines.\n\nWhat did we do?  \nWe searched worldwide databases for all randomised studies that compared a maintenance medicine with doing nothing or with another maintenance medicine. We combined the results of the studies and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified 11 randomised studies that together included 2,393 people with CLL. Most participants were middle‑aged to older adults, and a little more than half were men. The studies tested three types of maintenance: anti‑CD20 antibodies (rituximab or ofatumumab) in seven studies, the drug lenalidomide in three studies, and an anti‑CD52 antibody (alemtuzumab) in one small study. The follow‑up time ranged from about one year to six years. No studies on newer targeted pills were found.\n\nMain results  \n\nAnti‑CD20 antibody maintenance  \n- Probably makes little to no difference to overall survival.  \n- Probably causes a large increase in the time people stay free from disease progression.  \n- May increase serious side‑effects slightly.  \n- May increase all side‑effects slightly.  \n- May make little to no difference to deaths caused by the treatment.  \n- May make little to no difference to stopping the medicine early.  \n- May make little to no difference to quality of life.\n\nLenalidomide maintenance  \n- Probably makes little to no difference to overall survival.  \n- Probably causes a large increase in the time people stay free from disease progression.  \n- May increase serious side‑effects slightly.  \n- May increase treatment‑related deaths slightly.  \n- Probably increases all side‑effects slightly.  \n- We do not know if it changes how often people stop the medicine early.  \n- No information on quality of life was found.\n\nAlemtuzumab maintenance  \n- We do not know if it changes the time people stay free from disease progression.  \n- No data were found for overall survival, quality of life, serious side‑effects, treatment‑related deaths, stopping the medicine, or overall side‑effects.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small, some did not hide which treatment people received, and the research did not include the newer targeted medicines that doctors are now using.\n\nHow up to date is this evidence?  \nThe evidence is up to date to January 2022 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 670,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.581395348837209,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 71,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.24615237764667,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.169132245748003,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.76659319680666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.023582089552235,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.874349184311004,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.19333564734467,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.3023255813953485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.862780491200215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.334687955570983,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 236,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 128,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 128.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 185,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 670,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 670 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 3,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:03.971846"
+}

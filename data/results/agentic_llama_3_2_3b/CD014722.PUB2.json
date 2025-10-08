@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "The final, polished Plain Language Summary is:\n\nCan primary-level and community worker interventions improve mental health outcomes in low- and middle-income countries? The evidence suggests that these interventions may improve mental health outcomes, but the quality of the evidence is limited by a lack of robust studies and high levels of heterogeneity. The benefits of these interventions are likely to be small, with probably slightly reduced anxiety symptoms and depressive symptoms in adults, and may improve the quality of life in children. However, the certainty of the evidence is influenced by the risk of bias and substantial levels of heterogeneity. A supportive network of infrastructure and research would enhance and reinforce this delivery modality across low- and middle-income countries. Future research should focus on options and effects that are important to decision-makers, such as task-shifting interventions, infrastructure and research support, and the effects and costs of different delivery modalities. Future studies should aim to recruit larger numbers of participants, particularly in low- and middle-income countries, and should use more robust study designs, such as cluster randomised trials, to provide more reliable estimates of the benefits and potential harms of primary-level and community worker interventions for mental health promotion and prevention.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 208,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 7,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 29.714285714285715,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.7 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 12,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 12.0 to >29.0 (median)"
+      },
+      "pronouns": {
+        "value": 1,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 1.0 to >13.0 (median)"
+      },
+      "nominalization": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 73,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 22.11730769230772,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 22.1 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 17.55626373626374,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.6 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 19.581229395604396,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.6 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 15.854807692307691,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 21.693406593406593,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.7 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 67.69505494505495,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 67.7 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 11.285714285714286,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 11.3 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 10.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.76152087912088,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.8 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 96,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 51,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 79,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 208,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 208 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 0,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 8,
+      "BELOW_P10_count": 3,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 0.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 44.44444444444444,
+      "BELOW_P10_percentage": 16.666666666666664,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:42.583471"
+}

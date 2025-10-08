@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015536.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs entecavir (an antiviral medicine) effective and safe for people with chronic hepatitis B?  \n\nKey Messages  \n- We could not find clear evidence that entecavir improves survival or reduces serious side‑effects in people with chronic hepatitis B, and the studies did not report any information on quality of life.  \n- Most of the research had problems such as small numbers of participants and possible bias, so we have little confidence in the results.  \n- More well‑designed studies that look at survival, side‑effects and quality of life are needed before we can know how useful entecavir really is.  \n\nWhat is chronic hepatitis B and why does it matter?  \nChronic hepatitis B is a long‑lasting infection of the liver caused by the hepatitis B virus. It can lead to liver damage, liver cancer and early death. Many people around the world live with this condition, and doctors try to keep the virus under control with medicines.  \n\nWhat does the review try to find out?  \nWe wanted to see whether taking entecavir, compared with receiving no medicine or a dummy pill (placebo), helps people with chronic hepatitis B live longer, feel better, and have fewer serious side‑effects.  \n\nWhat did we do?  \nWe searched many medical databases for studies that compared entecavir with no treatment or placebo. We combined the findings from those studies and judged how much confidence we could have in the overall evidence.  \n\nWhat did we find?  \nWe identified dozens of studies that together included thousands of people with chronic hepatitis B. The studies tested oral entecavir for periods ranging from a few weeks to several years. Some studies gave the same additional care to both groups, while others compared entecavir directly with doing nothing or with a placebo.  \n\nThe studies did not report any deaths, so we cannot tell whether entecavir changes the chance of dying from any cause. No study measured health‑related quality of life, so we have no information on whether people feel better or worse when taking the medicine. For serious side‑effects, the evidence is very uncertain; it is unclear if entecavir reduces, increases, or makes no difference to the risk of serious problems.  \n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small and some had design problems that could affect the results, such as participants or researchers knowing which treatment was given.  \n\nHow up to date is this evidence?  \nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 442,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.217391304347824,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.85513968129061,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.684873106433209,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.064668502852648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.733936651583708,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.288766476490261,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.46173519575054,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.043478260869565,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.48528137423857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.383227857564431,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 152,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 442,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 442 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:09.626065"
+}

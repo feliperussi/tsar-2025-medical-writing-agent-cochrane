@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003437.PUB5",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nDo medicines, gentle brain stimulation, or talking therapies help treat depression after stroke?\n\nKey Messages  \n- Medicines (antidepressant medicines) may lower the number of people who remain depressed after a stroke, but the evidence is uncertain and medicines can cause side‑effects affecting the brain (such as dizziness or sleep problems) and the stomach (such as nausea).  \n- Gentle brain stimulation (a non‑invasive technique that uses mild electric or magnetic pulses) appears to make little or no difference to depression after stroke, and the evidence is uncertain.  \n- Talking‑based psychological therapy may reduce depression after stroke, but the evidence is also uncertain. More research is needed to know which treatment works best and whether they are safe for different groups of people.\n\nWhat is depression after stroke?  \nDepression is a common problem after a stroke. It can make recovery slower, reduce motivation, and lower quality of life. Many people with stroke‑related depression are not recognized or do not receive effective help.\n\nWhy look at medicines, brain stimulation, and talking therapies?  \nDoctors can prescribe antidepressant medicines, use non‑invasive brain stimulation (a gentle electric or magnetic treatment applied to the head), or offer psychological therapy (talking sessions that help people cope). Sometimes these approaches are combined. Understanding which of these options works best can guide care for people recovering from stroke.\n\nWhat did we want to find out?  \nWe wanted to see whether antidepressant medicines, non‑invasive brain stimulation, psychological therapy, or any combination of these, improve depression after stroke, and whether they cause any harmful side‑effects.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared these treatments with a placebo, sham stimulation, or usual care. We combined the results of the studies and judged how confident we could be in the findings.\n\nWhat did we find?  \nThe review included 65 studies that together involved 5 831 people who had a stroke and were feeling depressed. The studies were carried out in many countries and varied in size, from small groups of a few dozen people to larger groups of several hundred. Some studies were funded by health agencies, while others received support from pharmaceutical companies. The treatments examined were antidepressant medicines, non‑invasive brain stimulation, psychological therapy, and a few combinations of these approaches.\n\nMain results  \n\n- Antidepressant medicines may reduce the number of people who remain depressed after a stroke, and they may also lower the chance that treatment does not work well enough. However, they may increase side‑effects that affect the brain (such as dizziness or sleep problems) and the stomach (such as nausea).  \n\n- Gentle brain stimulation probably makes little or no difference to whether people stay depressed after a stroke, and it did not increase deaths.  \n\n- Psychological therapy may reduce depression after a stroke, and it did not appear to increase deaths or cause extra side‑effects.  \n\n- Combining antidepressant medicines with gentle brain stimulation may reduce depression, but the evidence is limited and uncertain.  \n\n- No studies reported on the combination of medicines with psychological therapy, or on combining brain stimulation with psychological therapy, for the main outcomes.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small, some did not hide which treatment people received, and the results varied between studies. These issues make it hard to be sure about the true effects of the treatments.\n\nHow up to date is this evidence?  \nThe evidence is up to date to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 602,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.8125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 159,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 51.14363475913623,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.799366694352159,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.322828073089703,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.772624584717608,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.431976744186045,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.88226744186046,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.46875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.954451150103322,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.9133657807308975,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 228,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 119,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 119.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 602,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 602 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:55.025106"
+}

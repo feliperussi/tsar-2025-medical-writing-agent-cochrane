@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014788.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I apologize for the issue. It seems that the provided tool is not a valid Plain Language Summary (PLS) generator.\n\nInstead, I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually. Here is the result:\n\n**What are the benefits and risks of Gonadotropin-releasing hormone analogues (GnRHas) for endometriosis?**\n\n**Key Messages:**\n\n* There may be a slight decrease in overall pain when women are treated with GnRHas, compared to placebo or oral or injectable progestogens.\n* We are uncertain about the effect when comparing GnRHas with danazol, intra-uterine progestogens, or gestrinone.\n* There may be a slight decrease in bone mineral density (BMD) when women are treated with GnRHas, compared to gestrinone.\n* There was a bigger decrease of BMD in favour of GnRHas, compared to GnRHas in conjunction with calcium-regulating agents.\n* There may be a slight increase in adverse effects when women are treated with GnRHas, compared to placebo or gestrinone.\n\n**Introduction to the review topic and review aims:**\n\n* What is endometriosis?\n* Endometriosis is a common gynaecological condition affecting 6 to 11% of reproductive-age women and may cause dyspareunia, dysmenorrhoea, and infertility.\n* What are Gonadotropin-releasing hormone analogues (GnRHas)?\n* GnRHas are a type of hormone therapy used to treat endometriosis.\n* What do we want to find out?\n* We want to assess the effectiveness and safety of GnRHas in the treatment of painful symptoms associated with endometriosis and to determine the effects of GnRHas on bone mineral density of women with endometriosis.\n\n**What did we do?**\n\n* We searched for studies that compared GnRHas with other hormonal treatment options.\n* We included randomised controlled trials (RCTs) that compared GnRHas with other treatment options.\n* We used standard methodology as recommended by Cochrane.\n* We evaluated the primary outcomes of relief of overall pain and objective measurement of bone mineral density.\n* We evaluated the secondary outcomes of adverse effects, quality of life, improvement in the most troublesome symptoms, and patient satisfaction.\n\n**What did we find?**\n\n* We found 72 studies involving 7355 patients.\n* The evidence was very low to low quality due to serious risk of bias and serious imprecision.\n* There may be a slight decrease in overall pain when women are treated with GnRHas, compared to placebo or oral or injectable progestogens.\n* We are uncertain about the effect when comparing GnRHas with danazol, intra-uterine progestogens, or gestrinone.\n* There may be a slight decrease in bone mineral density (BMD) when women are treated with GnRHas, compared to gestrinone.\n* There was a bigger decrease of BMD in favour of GnRHas, compared to GnRHas in conjunction with calcium-regulating agents.\n* There may be a slight increase in adverse effects when women are treated with GnRHas, compared to placebo or gestrinone.\n\n**How up to date is this evidence?**\n\n* The evidence is up to date to May 2022.\n* We did not find any studies that were published after this date.\n* The results should be interpreted with caution due to the very low to low certainty of the evidence.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 532,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.777777777777779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 33,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.82540517961573,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.00453634085213,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.25170843776107,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.027518796992481,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.730659983291563,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.04093567251462,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.472222222222222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.488088481701515,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.431624394319131,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 192,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 104,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 161,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 532,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 532 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:49.250931"
+}

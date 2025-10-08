@@ -1,0 +1,162 @@
+{
+  "id": "CD007130.PUB5",
+  "draft": "Is home-based cardiac rehabilitation as effective as centre-based cardiac rehabilitation for people with heart disease?\n\nKey messages:\n- Home-based cardiac rehabilitation seems to be as effective as centre-based cardiac rehabilitation for people with heart disease.\n- Both types of rehabilitation improve clinical and health-related quality of life outcomes.\n- We need more research to determine the long-term effects of home-based and centre-based cardiac rehabilitation.\n\nWhat is cardiovascular disease and why is it a problem?\nCardiovascular disease is the most common cause of death globally. It refers to conditions that affect the heart and blood vessels, such as a heart attack (when a lack of blood flow damages the heart muscle) or a stroke (when a lack of blood flow damages the brain).\n\nWhat are home-based and centre-based cardiac rehabilitation programmes?\nWe define centre-based cardiac rehabilitation programmes as supervised programmes that take place in hospitals, sports centres, or community centres. In home-based cardiac rehabilitation programmes, people do their rehabilitation at home with support from healthcare staff, and these programmes can include digital or telehealth interventions (using technology to deliver healthcare remotely).\n\nWhat did the review authors want to find out?\nWe wanted to compare the effects of home-based and centre-based cardiac rehabilitation programmes on mortality (death rate), morbidity (disease rate), exercise capacity, health-related quality of life, and risk factors for heart disease, such as high blood pressure or cholesterol, in patients with heart disease.\n\nHow did the review authors find the information?\nWe searched for studies comparing home-based and centre-based cardiac rehabilitation, summarized their results, and rated our confidence in the evidence to find out how well these programs improved people's health and quality of life.\n\nWhat did the review authors find?\nWe found 24 studies that involved 3046 people with heart disease. Most studies lasted for around 12 months or less, with only 3 studies reporting outcomes beyond 12 months. We found that home-based and centre-based cardiac rehabilitation seem to be similarly effective in improving clinical and health-related quality of life outcomes for people who have had a heart attack, heart failure, or a procedure to restore blood flow to the heart (revascularisation).\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is limited for a few reasons. The studies included were very small, and some did not report on all the results we were looking for. Also, some studies were not 'blinded', meaning people knew which type of rehabilitation they were getting. This knowledge could have influenced the results.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to September 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 470,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 24,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 39,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 168,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.41300000000001,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.898170212765962,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.44985106382979,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.937957446808511,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.966808510638298,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.161702127659574,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.52,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.94427190999916,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.282075744680852,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 189,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 111,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 470,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 470 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 5,
+        "P75_count": 5,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start and is factually accurate, but it needs revisions to improve clarity and adopt a more direct, active style suitable for patients. The analysis shows a very high use of passive voice and noun-heavy phrases, which makes the text feel formal and less easy to read.\n\nHere are the top 3 areas for improvement:\n\n1. **Rewrite sentences to be more active and direct.** Many sentences use passive voice or abstract nouns where simple verbs would be clearer. This makes it harder for readers to understand who is doing what.\n    *   **Original:** 'Our confidence in the evidence is limited for a few reasons. The studies included were very small...'\n    *   **Problem:** This is indirect. The phrase 'confidence is limited' is passive, and 'studies included were' is also passive.\n    *   **Suggestion:** 'We have limited confidence in the evidence for a few reasons. First, the studies included a small number of people, which can make the results less reliable.'\n\n2. **Simplify complex terms and explain them clearly.** A key medical term is not explained in the simplest way for a lay audience.\n    *   **Original:** '...a procedure to restore blood flow to the heart (revascularisation).'\n    *   **Problem:** This introduces a complex technical term that readers may stumble on, even with the definition. For a PLS, it's often better to use the simple explanation alone.\n    *   **Suggestion:** '...a procedure to restore blood flow to the heart.' (Consider removing the technical term 'revascularisation' altogether as it is not essential for understanding).\n\n3. **Break up long sentences that list multiple actions.** One sentence in the methods section is over 30 words long and combines several distinct ideas.\n    *   **Original:** 'We searched for studies comparing home-based and centre-based cardiac rehabilitation, summarized their results, and rated our confidence in the evidence to find out how well these programs improved people's health and quality of life.'\n    *   **Problem:** This long sentence is difficult to follow.\n    *   **Suggestion:** 'We searched for studies that compared home-based and centre-based cardiac rehabilitation. We then summarized their results and rated our confidence in the evidence. This helped us understand how well the programs improved people's health and quality of life.'\n\nAddressing these points will make the summary much more accessible and align it better with the principles of plain language. The linguistic analysis supports this, showing scores for passive voice, nominalizations, and nouns that are much higher than is typical for a Plain Language Summary.",
+      "pls_evaluation_summary": "The draft shows good conformity with typical PLS patterns in terms of readability scores and sentence length, with 55.6% of features falling in the best quartile. However, it deviates significantly in key stylistic areas. The use of passive voice is exceptionally high (BEYOND_P90), and the text is dense with nouns (P90) and nominalizations (P90). This suggests a writing style that is too academic and not direct enough for a patient audience, despite being easy to read on a word-by-word basis."
+    }
+  ]
+}

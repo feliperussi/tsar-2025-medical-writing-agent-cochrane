@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006913.PUB3",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Can psychological therapies, like counseling or relaxation, help people with inflammatory bowel disease (IBD, a condition that causes long-term inflammation of the gut)?\n\nKey messages\n- For adults with inflammatory bowel disease (IBD), psychological therapies (treatments for how the mind works) probably lead to small improvements in quality of life (how someone feels and functions day to day), depression (ongoing feelings of sadness), and anxiety (feelings of fear and dread).\n- These therapies may have little to no effect on disease activity (the level of inflammation or symptoms from the disease). The review did not report on any unwanted effects.\n- For children and adolescents with IBD, counseling may improve their quality of life. However, we are uncertain about its effects on anxiety because of a lack of strong evidence.\n- More research is needed to find out which specific therapies are most helpful, as the studies we found tested many different types.\n\nWhat is inflammatory bowel disease?\nInflammatory bowel disease (IBD) is a long-term illness where the gut becomes inflamed, causing symptoms like pain and diarrhoea. Living with IBD can be challenging. People with the condition have a higher chance (risk) of experiencing mental health problems like anxiety and depression. This relationship can work both ways (it is bi-directional): the physical illness can affect a person's mood, and stress can sometimes make physical symptoms worse. Because of this link, psychological treatments are sometimes offered to people with IBD.\n\nWhat did we want to find out?\nWe wanted to find out if psychological treatments help people with IBD. We looked at their effects on a person's quality of life, their emotional state (anxiety and depression), and their physical symptoms (disease activity).\n\nWhat did we do?\nWe searched for studies that tested psychological treatments for people with IBD. We compared and combined the findings from these studies to see how the treatments affected people. We then rated our confidence in the evidence.\n\nWhat did we find?\nWe found 68 studies with a total of 6405 people with IBD (6111 adults and 294 children and adolescents). The studies looked at psychological treatments like psychotherapy (talk therapy), educational programs, and relaxation techniques. These were often combined. The studies compared these treatments to no therapy, sham treatments (a 'fake' treatment designed to seem real), or other active treatments (known, proven treatments).\n\nFor adults, psychological treatments probably improve quality of life slightly and probably reduce depression and anxiety slightly. These treatments may make little to no difference to disease activity.\n\nFor children and adolescents, talk therapy probably improves their quality of life. We are uncertain if it has an effect on anxiety in this group.\n\nHow reliable is the evidence?\nWe are moderately confident in the evidence. Our confidence is limited because the studies delivered the treatments in different ways. Also, in some studies, people may have known which treatment they were getting, which could have influenced the results (a flaw in study design known as bias). Some studies were also very small.\n\nHow up to date is this evidence?\nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 535,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.86111111111111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 161,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.23284138110074,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.107889408099691,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.251228452751818,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.234542056074766,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.34631360332295,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.702232606438216,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.583333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.848857801796104,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.200681204569056,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 219,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 535,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 535 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:07.881259"
+}

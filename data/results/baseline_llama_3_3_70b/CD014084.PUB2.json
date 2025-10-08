@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014084.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can surgery help people with cystic fibrosis who have nasal polyps? \n\n### Key Messages\n- Due to a lack of robust evidence, we are uncertain if surgery can improve nasal symptoms or reduce bacterial colonization, antibiotic use, or lung problems in people with cystic fibrosis who have chronic rhinosinusitis with nasal polyposis.\n- We found one small study that compared surgery plus nasal irrigation to nasal irrigation alone in 28 people with cystic fibrosis, but the evidence is of very low certainty.\n- Future research should include more people, last longer, and look at important outcomes like mortality, and consider the effects of new drugs that might affect nasal polyps.\n\n### Introduction to the review topic and review aims\nWhat is cystic fibrosis? \nCystic fibrosis is a life-shortening disease that affects the body's secretions, leading to chronic rhinosinusitis and nasal polyposis. People with cystic fibrosis often have problems with their lungs and sinuses. \n\nWhat did we want to find out? \nWe wanted to find out if surgery, alone or with medical treatment, can improve nasal and lung function in people with cystic fibrosis who have chronic rhinosinusitis with nasal polyposis. We also looked at how surgery might affect hospitalization rates, antibiotic use, and lung problems.\n\n### How is cystic fibrosis treated?\nPeople with cystic fibrosis often use medicines to help with their symptoms. They may also need to go to the hospital for treatment. Surgery is sometimes used to help open up the sinuses and improve breathing.\n\n### What did we do? \nWe searched for studies that compared surgery to medical treatment alone in people with cystic fibrosis who have chronic rhinosinusitis with nasal polyposis. We found one small study that met our criteria.\n\n### What did we find? \nWe found one small study that compared surgery plus nasal irrigation to nasal irrigation alone in 28 people with cystic fibrosis. The study found that surgery might improve nasal symptoms, but we are very uncertain about this because the evidence is of very low certainty. We are also uncertain if surgery reduces bacterial colonization, antibiotic use, or lung problems. There was one episode of bleeding during surgery, but it was treated without further problems. The study did not look at survival.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because it is based on a small study with limited information. The study was not well-designed, and we are not sure if the results would be the same in a larger group of people.\n\n### How up to date is this evidence? \nThe evidence is up to date to July 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 469,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 24.68421052631579,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 123,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.00227471664235,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.27778027157446,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.142254516889238,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.504733475479746,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.526136236112674,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.84412523846931,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.2105263157894735,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.611117225900572,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 160,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 78,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 118,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 469,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 469 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 8,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:34.385519"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007491.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Here is the transformed Cochrane abstract into a Plain Language Summary (PLS) following all guidelines:\n\n**What are the benefits and risks of admission avoidance hospital at home for older people?**\n\n**Key Messages:**\n\n*   Admission avoidance hospital at home probably makes little or no difference to patient health outcomes, but may improve satisfaction and reduce the likelihood of relocating to residential care.\n*   Admission avoidance hospital at home probably reduces costs to the health service compared with hospital admission.\n*   We did not find enough good-quality evidence to say whether admission avoidance hospital at home is better or worse than inpatient hospital care for people with different types of conditions.\n\n**Introduction to the review topic and review aims:**\n\n*   What is admission avoidance hospital at home?\n*   Why is it used?\n*   What do we want to find out about admission avoidance hospital at home?\n\n**What did we do?**\n\n*   We searched for studies that compared admission avoidance hospital at home with inpatient hospital care.\n*   We looked at the results of the studies and rated our confidence in the evidence.\n*   We found 20 studies that included a total of 3100 participants.\n\n**What did we find?**\n\n*   We found that admission avoidance hospital at home probably makes little or no difference to patient health outcomes, but may improve satisfaction and reduce the likelihood of relocating to residential care.\n*   We found that admission avoidance hospital at home probably reduces costs to the health service compared with hospital admission.\n*   We found that hospital at home reduced the initial average hospital length of stay.\n*   We found that admission avoidance hospital at home probably reduces costs to the health service compared with hospital admission.\n\n**What are the limitations of the evidence?**\n\n*   We have little confidence in the evidence because the studies were small and had some methodological limitations.\n*   We have little confidence in the evidence because the studies had some biases and limitations.\n*   We have little confidence in the evidence because the studies had some limitations and biases.\n\n**How up to date is this evidence?**\n\n*   The evidence is up to date to February 2022.\n*   The evidence is up to date to February 2022.\n*   The evidence is up to date to February 2022.\n\nNote: The above Plain Language Summary is a simplified version of the original Cochrane abstract, and it may not fully capture the nuances and complexities of the original research.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 437,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.242424242424242,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 37,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 128,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.68684557242912,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.666078635323487,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.607161777962691,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.700594965675055,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.633354136328965,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.59253865890021,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.151515151515151,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.462476416337287,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 133,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 137,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 437,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 437 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.190512"
+}

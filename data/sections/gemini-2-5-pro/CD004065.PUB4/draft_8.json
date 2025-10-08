@@ -1,0 +1,162 @@
+{
+  "id": "CD004065.PUB4",
+  "draft": "What are the benefits and harms of medicines for eosinophilic esophagitis (a long-term allergic condition that causes swelling in the food pipe)?\n\nKey messages\n\n- For people with eosinophilic esophagitis, medicines called corticosteroids (which reduce swelling) and biologics (which target the immune system) seem to reduce swelling in the food pipe. Corticosteroids may also improve symptoms, but we are uncertain if biologics do.\n- People taking corticosteroids may be less likely to stop treatment due to unwanted effects than those taking a placebo (a dummy treatment), while there may be no difference for people taking biologics.\n- More research is needed to understand the long-term benefits and harms of these treatments and to compare them directly to find out which works best.\n\nWhat is eosinophilic esophagitis?\n\nEosinophilic esophagitis (EoE) is a long-term condition that affects the esophagus, the tube that carries food from the mouth to the stomach. It happens when a type of white blood cell, called an eosinophil, builds up in the lining of the esophagus. This allergic response inflames the food pipe, which can make it hard to swallow, cause food to get stuck, and lead to chest pain. Because there is no cure for EoE, people need ongoing treatment. Common treatments include special diets, procedures to stretch the esophagus, and medicines like corticosteroids and newer 'biologic' drugs that target the immune system.\n\nWhat did we want to find out?\n\nWe wanted to find out how effective and safe different medicines are for people with EoE. We looked at whether these treatments improved symptoms, reduced swelling in the food pipe, and caused any unwanted effects.\n\nHow did we conduct this review?\n\nWe searched for studies that compared medical treatments for EoE against a placebo (a dummy treatment) or another treatment. We then combined the results and rated our confidence in the evidence.\n\nWhat did the review find?\n\nWe found 41 studies that included 3253 people with EoE.\n- The studies included both children and adults (11 studies focused only on children).\n- Most people had 'active' EoE, meaning their symptoms were present. 4 studies looked at people with 'inactive' disease, where symptoms were under control.\n- The review looked at 19 different treatments, but we focused on the two main ones compared against a placebo: corticosteroids and biologics.\n\nWhat were the main results?\n\nFor people with active EoE, this review found the following when comparing treatments to a placebo (a dummy treatment):\n\nCorticosteroids\n- Corticosteroids greatly reduce swelling in the food pipe by lowering the number of the white blood cells (eosinophils) that cause it. For every 3 people treated, 1 extra person had their swelling reduced.\n- Corticosteroids may also slightly improve symptoms. For every 4 people treated, 1 extra person felt their symptoms improve.\n- We are uncertain if corticosteroids improve how the food pipe looks when viewed with a camera (endoscopy).\n- People who take corticosteroids may be slightly less likely to stop treatment because of unwanted effects.\n\nBiologics\n- Biologics probably also greatly reduce swelling in the food pipe. For every 2 people treated, 1 extra person had their swelling reduced. However, the evidence was less clear about *how much* the swelling was reduced.\n- We are uncertain if biologics improve symptoms. This is because studies measured symptoms in different ways, which gave mixed results. Some studies showed a benefit, while others showed little to no difference compared to a dummy treatment.\n- Biologics may make little to no difference to how the food pipe looks when viewed with a camera (endoscopy).\n- People who take biologics are probably just as likely to stop treatment due to unwanted effects as people who take a placebo.\n\nWhat are the limitations of the evidence?\n\nWe have low to moderate confidence in the evidence. This is because some results came from a small number of studies. Also, studies often measured outcomes differently (for example, some counted *if* people improved, while others measured *how much* they improved). This made it hard to combine the results and be certain about our conclusions.\n\nHow up-to-date is this evidence?\n\nThe evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 711,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 39,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.23076923076923,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 91,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.730769230769255,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.875555555555557,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.354329763063937,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.87645569620253,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.537033430704316,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.782105377042086,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.205128205128205,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.862780491200215,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.611742637671752,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 257,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 257.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 111,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 203,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 711,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 711 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is factually accurate, complete, and well-structured. However, it can be made clearer for a lay audience by addressing three key areas before approval. The main issues are inconsistent explanations for the primary outcome, some complex phrasing that could be simplified, and a few noun-heavy sentences that would be clearer if rewritten with active verbs. These changes will improve readability and ensure the key findings are as easy to understand as possible.\n\nHere are the top 3 improvements needed:\n\n1. **Make the explanation of the main outcome consistent.** You do an excellent job explaining that reducing swelling means lowering the number of eosinophils for corticosteroids, but you don't repeat this for biologics. This may leave readers wondering if biologics work differently.\n   - **Problematic Text:** \"Corticosteroids greatly reduce swelling in the food pipe by lowering the number of the white blood cells (eosinophils) that cause it.\" ...versus... \"Biologics probably also greatly reduce swelling in the food pipe.\"\n   - **Suggested Rewrite:** In the 'Biologics' section, clarify the mechanism to match the corticosteroid explanation: \"Biologics probably also greatly reduce swelling in the food pipe **by lowering the number of the white blood cells (eosinophils) that cause it**.\"\n\n2. **Simplify the explanation for uncertain results.** The section explaining why the effect of biologics on symptoms is uncertain is a bit long and could be more direct.\n   - **Problematic Text:** \"We are uncertain if biologics improve symptoms. This is because studies measured symptoms in different ways, which gave mixed results. Some studies showed a benefit, while others showed little to no difference compared to a dummy treatment.\"\n   - **Suggested Rewrite:** \"We are uncertain if biologics improve symptoms. Studies measured symptoms in different ways and reported mixed results: some found that biologics helped, while others found little or no difference compared to a placebo.\"\n\n3. **Replace noun-heavy phrases with more direct verbs.** Some sentences are a bit wordy and rely on nouns instead of actions, which can make them harder to process. This is reflected in the linguistic analysis, which shows a high number of nouns and nominalizations.\n   - **Problematic Text:** \"We are uncertain if corticosteroids improve how the food pipe looks when viewed with a camera (endoscopy).\"\n   - **Suggested Rewrite:** \"We are uncertain if corticosteroids **make the food pipe look healthier** during an endoscopy (a camera examination).\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms with typical PLS patterns, with 72% of metrics falling into the best quartile for readability. However, the analysis also flags 5 features that deviate from the typical pattern, all related to vocabulary complexity and sentence structure. The scores for `nominalization`, `nouns`, `smog_index`, `complex_words_dc`, and `long_words` are all in the P90 range, indicating the text uses more noun-based phrases, complex words, and long words than is typical for a PLS. This supports the editorial feedback to simplify phrasing and replace noun-heavy constructions with more active verbs to enhance clarity for the reader."
+    }
+  ]
+}

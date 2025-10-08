@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008550.PUB3",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is medication for gastro‑oesophageal reflux (acid reflux) effective in babies and children?\n\nWhat are the key messages?\n- Medicines that lower stomach acid do not show a clear benefit for reducing reflux symptoms in babies or children, and we have no reliable evidence of important harms. The studies are few, small and of low quality, so we cannot be confident about any effect.\n- In infants, drugs such as omeprazole and esomeprazole (both proton‑pump inhibitors – medicines that lower stomach acid) and H₂‑antagonists like ranitidine (another acid‑lowering drug) did not consistently improve crying, fussing or reflux measurements. In older children, proton‑pump inhibitors such as rabeprazole and pantoprazole may or may not improve symptoms, and the evidence remains very uncertain.\n- Future research should include larger, well‑designed trials that follow children for longer periods, report both symptom changes and any side effects, and examine specific groups such as preterm babies and children with neurological problems.\n\nWhat is gastro‑oesophageal reflux in children and why does it matter?\nGastro‑oesophageal reflux (GOR) is when stomach contents flow back up into the oesophagus, the tube that carries food to the stomach. In babies this often appears as frequent spitting up or vomiting. About half of infants under three months experience GOR. Most improve as the child grows, but some babies and older children continue to have troublesome symptoms. When reflux causes enough discomfort or health problems to need treatment, it is called gastro‑oesophageal reflux disease (GORD) in UK NICE guidelines. Non‑medicine approaches such as positioning or feeding changes are tried first, but medicines are considered when symptoms remain bothersome.\n\nWhat did the review authors want to find out?\nWe wanted to know whether the medicines currently used for GOR in children actually help. Specifically, we assessed the effects of pharmacological treatments – proton‑pump inhibitors (PPIs) and H₂‑antagonists, plus alginates – on symptoms, acid‑measuring tests (pH indices) and other health outcomes in infants and children up to 16 years old.\n\nWhat did we do?\nWe searched major databases (CENTRAL, MEDLINE, Embase, Web of Science) up to 17 September 2022. We also looked for ongoing trials, contacted experts and checked reference lists. We included randomised controlled trials that compared any available drug for GOR in children with placebo or another drug. We extracted the data and rated our confidence in the evidence using standard Cochrane methods.\n\nWhat did we find?\nWe identified 36 randomised controlled trials involving 2 251 infants and children up to 16 years old. The trials compared a range of medicines – PPIs (omeprazole, esomeprazole, rabeprazole, pantoprazole), an H₂‑antagonist (ranitidine) and alginates – with placebo or another active drug.\n\nInfants\n- Omeprazole did not show a clear effect on symptoms compared with placebo.\n- Omeprazole did not show a clear advantage over ranitidine.\n- Esomeprazole did not reduce the number of reflux symptoms compared with placebo.\n\nOlder children\n- Rabeprazole and pantoprazole probably have little or no effect on symptoms. The certainty of this finding is very low.\n\nOverall, the evidence is very low‑certainty because the studies were small, used different outcomes and varied in how the medicines were given.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence. The studies involved different types of children, used varied treatment methods and were generally small, which reduces the reliability of the findings.\n\nHow current is the evidence?\nThis review updates a previous Cochrane review and includes all evidence up to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 590,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.87878787878788,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.180911658962515,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.422727272727276,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.14932614278377,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.808271186440678,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.744735490498204,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.57370313302516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.44365228556754,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 245,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 187,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 590,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 590 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:51.603271"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "How accurate are toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease?\n\n### Key Messages\n* We have little confidence in the evidence for the accuracy of toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease because the studies were small and had poor reporting.\n* The studies found that toe-brachial index and toe systolic blood pressure are non-invasive tests used to detect peripheral arterial disease, but their diagnostic performance remains uncertain.\n* Future research with robust methods and clear reporting is needed to determine the diagnostic accuracy of these tests.\n\n### Introduction to the review topic and review aims\nWhat is peripheral arterial disease? \nPeripheral arterial disease is a condition where the arteries in the lower limbs become narrowed, reducing blood flow. It can cause pain, wounds, and even amputation. Accurate diagnosis is crucial to prevent complications.\n\nWhat did we want to find out? \nWe wanted to find out how accurate toe-brachial index and toe systolic blood pressure are for diagnosing peripheral arterial disease in people’s lower limbs. We also wanted to compare the accuracy of these two tests.\n\n### What did we do?\nWe searched for studies that compared toe-brachial index and toe systolic blood pressure to other diagnostic methods for peripheral arterial disease. We found 18 studies that met our criteria.\n\n### What did we find?\nWe found that most studies used a reference standard called colour duplex ultrasound. The studies were generally of low methodological quality, and the certainty of evidence was very low. We have little confidence in the evidence because the studies were small and had poor reporting.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had poor reporting. The studies were generally of low methodological quality, which means that they may not have been conducted in a way that minimizes bias.\n\n### How up to date is this evidence?\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 368,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 30,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 100,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.960086956521764,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.606652173913044,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.566548913043476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.802282608695648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.729565217391304,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.563043478260866,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.55,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.54400374531753,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.662259565217391,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 134,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 368,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 368 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:34.144628"
+}

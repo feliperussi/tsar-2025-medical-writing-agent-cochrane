@@ -1,0 +1,162 @@
+{
+  "id": "CD015031.PUB2",
+  "draft": "analysisWe need to assemble plain language summary with formatting rules: Title as Heading (maybe just plain line, no markdown). Main sections as **Bold Headings** (but final output must have no markdown? It says no markdown. But formatting rules mention **Bold Headings** which is markdown. However final output must be only final validated plain language summary in a single block of text with no markdown. So we need to apply formatting but not markdown? Possibly we need to use plain text headings, maybe uppercase? The instruction contradictory. Since final output must have no markdown, we should not include markdown syntax like **. So we need to present headings in plain text, maybe all caps or with colon. The initial assembly says apply basic formatting rules: Title as Heading, Main sections as **Bold Headings**, Key messages as list with dashes, Introduction sections with subheadings. But final output must be no markdown. So we need to convert bold headings to plain text headings (maybe just capitalized). Since we cannot use markdown, we will just write headings in uppercase and separate with line breaks.\n\nThus produce:\n\nTitle line.\n\nKey messages list with dashes.\n\nThen sections: Introduction, Methods, Results, Limitations, Currency.\n\nWithin Introduction, subheadings as given.\n\nWe'll keep subheadings maybe as italic? but no markdown. Use plain subheading lines.\n\nLet's assemble.\n\nTitle: \"Is a flipped‑over thin eye membrane (inverted internal limiting membrane flap) more effective than removing that membrane (conventional internal limiting membrane peeling) during eye surgery (pars plana vitrectomy) for closing large central retinal holes (large macular holes)?\"\n\nKey messages list three items.\n\nThen sections:\n\nINTRODUCTION\n\nWhat is a macular hole and why does it matter?\n... content\n\nHow are large macular holes usually treated and what are the challenges?\n... content\n\nWhat did the review aim to find out?\n... content\n\nMETHODS\n... content\n\nRESULTS\nWhat did we find?\n... content\n\nMain results: Visual acuity and macular‑hole closure\n... content\n\nLIMITATIONS\n... content\n\nCURRENCY\n... content\n\nMake sure no markdown. Use line breaks.\n\nLet's produce final block.Is a flipped‑over thin eye membrane (inverted internal limiting membrane flap) more effective than removing that membrane (conventional internal limiting membrane peeling) during eye surgery (pars plana vitrectomy) for closing large central retinal holes (large macular holes)?\n\nKey messages\n- The inverted internal limiting membrane flap technique (a method where a thin retinal layer is folded back over the hole) probably leads to a higher chance that a large macular hole (a hole in the central retina) closes and may result in better best‑corrected visual acuity (sharpness of vision measured with glasses) after a few months, and no serious eye complications were reported in the studies.\n- The available studies were small, often done at a single centre, and had some methodological limitations, so the overall confidence in these findings is limited.\n- Future research should include larger, well‑designed multicentre trials with longer follow‑up to confirm any benefits and to monitor for possible harms.\n\nINTRODUCTION\nWhat is a macular hole and why does it matter?\nA macular hole is a small, full‑thickness break in the centre of the retina – the part of the eye that captures sharp, detailed images. When this hole forms, people lose central vision, making activities such as reading, recognizing faces, or driving difficult. A \"large\" macular hole is defined as being wider than 400 micrometres (about the width of a thin human hair) at its narrowest point. Because the macula is responsible for the sharpest vision, even a tiny defect can have a big impact on daily life.\n\nHow are large macular holes usually treated and what are the challenges?\nThe most common surgery for macular holes is called pars plana vitrectomy (PPV). In this procedure the surgeon removes the gel‑like fluid (vitreous) that fills the eye and then peels away a thin layer of tissue on the retina called the internal limiting membrane (ILM). Removing the ILM helps the edges of the hole come together and close. While PPV with ILM peeling works well for small holes, it often fails to close larger holes, leaving patients with persistent vision loss. To try to improve success, some surgeons use an \"inverted ILM flap\" technique: instead of completely removing the ILM, they create a small flap and fold it back over the hole, providing a scaffold that may help the tissue heal.\n\nWhat did the review aim to find out?\nThe authors wanted to compare two surgical approaches for large macular holes – the standard PPV with ILM peeling versus PPV with the inverted ILM flap technique. Specifically, they looked at whether the flap method leads to better visual outcomes (measured as best‑corrected visual acuity, or BCVA, on a logMAR chart) and higher rates of hole closure, while also assessing safety.\n\nMETHODS\nWe searched for studies that compared pars plana vitrectomy with an inverted internal limiting membrane flap to conventional internal limiting membrane peeling for large macular holes, selecting randomized controlled trials (studies that randomly assign participants to treatment groups). We combined their results to assess visual and anatomical outcomes and rated our confidence in the evidence using standard criteria.\n\nRESULTS\nWhat did we find?\nWe included four randomized controlled trials involving 275 participants (285 eyes) with large idiopathic macular holes (basal diameter >400 µm). Most participants were women (63%) and were aged between about 60 and 66 years. The trials were conducted in three countries: two in India, one in Poland, and one in Mexico. All studies compared standard pars plana vitrectomy (PPV) with conventional internal limiting membrane (ILM) peeling to PPV using the inverted ILM flap technique. Follow‑up ranged up to 12 months, with some studies also performing cataract surgery alongside PPV. No conflicts of interest or external funding were reported for any of the trials.\n\nMain results: Visual acuity and macular‑hole closure\nThe inverted ILM flap technique probably improves visual acuity three months after surgery compared with conventional peeling. It also probably increases the overall chance that the macular hole will close—about ten more closures per hundred surgeries—and probably raises the chance of achieving a type 1 macular‑hole closure by about five more per hundred patients.\n\nLIMITATIONS\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, not all of the studies provided data about everything that we were interested in, the studies were done in different types of people or used different ways of delivering the treatment, and the studies were very small.\n\nCURRENCY\nThe evidence is up to date to December 2022 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1148,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 67,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.134328358208954,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 25,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 119,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 286,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 286.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 59.006374486452785,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.285767850642259,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.493253029278694,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.381986062717768,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.06627489729055,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.792864943574806,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.91044776119403,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 17.14213562373095,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.548233766706538,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 487,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 487.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 207,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 207.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 329,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 329.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 1148,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 1148 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical checks: (1) total word count is 1,148 words, exceeding the 850‑word limit; (2) major section headings (INTRODUCTION, METHODS, RESULTS, LIMITATIONS) are not phrased as questions, which the style guide requires. These issues prevent approval even though the factual content is accurate. To reach approval, the authors should:\n1. **Shorten the summary** – cut redundant sentences and combine information to bring the total under 850 words. For example, the paragraph beginning “We included four randomized controlled trials involving 275 participants…” can be trimmed to a single concise sentence.\n2. **Re‑phrase section headings as questions** – change “METHODS” to “How did we ...?” and “RESULTS” to “What did we find?”.\n3. **Reduce passive voice** – e.g., change “The inverted ILM flap technique probably improves visual acuity…” to “We found that the inverted ILM flap technique probably improves visual acuity…”.\n4. **Simplify jargon** – define terms like logMAR and internal limiting membrane in plain language, e.g., “logMAR (a chart that measures how sharp your vision is)”.\n5. **Cut noun‑heavy sentences** – replace noun‑dense phrasing such as “the evidence is up to date to December 2022 of search” with “We searched for evidence up to December 2022”.\nThese changes also address metric deviations: the draft has 25 passive constructions (far above the typical ≤13), 286 nouns (well above the typical ≤116), a SMOG index of 17.1 (vs. typical ≤12), and very high counts of complex and long words. Reducing passive voice, noun density, and word complexity will improve readability scores and bring the text into the typical percentile ranges.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is over the 850‑word and exceeds typical ranges for several metrics: passive_voice (25, BEYOND_P90), nouns (286, BEYOND_P90), smog_index (17.1, BEYOND_P90), complex_words_dc (487, BEYOND_P90), complex_words (207, BEYOND_P90), and long_words (329, BEYOND_P90). While readability indices are relatively good, the high passive voice and noun density indicate the text is more complex than typical Cochrane PLSs, supporting the need for the suggested revisions."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012940.PUB3",
+  "draft": "**Is refeeding of gastric residuals (the leftover food in a baby’s tummy after feeding) better or worse than discarding it for preterm infants?**\n\n- Refeeding gastric residuals in preterm infants has low-certainty evidence suggesting little or no effect on outcomes such as necrotising enterocolitis, mortality, time to establish feeds, parenteral nutrition days, and in-hospital weight gain; a large RCT is needed.\n- Future research should address decision-maker-relevant outcomes, including potential benefits of refeeding (enhanced digestion, gastrointestinal motility, and maturation) versus risks (vomiting, necrotising enterocolitis, sepsis).\n- More comparative studies directly evaluating refeeding versus discarding gastric residuals in preterm infants are required.\n\n**Introduction to the review topic and review aims**\n\nPreterm infants frequently receive enteral nutrition via nasogastric or orogastric tubes. After each feed, clinicians often assess gastric residual volume (GRV). The handling of GRV—whether to discard or re-feed—remains controversial. This review aims to summarise the current evidence on the efficacy and safety of re-feeding gastric residuals compared with discarding them in preterm infants.\n\n**What is the health problem?**\n\nIn preterm infants, retained gastric residuals can be associated with feeding intolerance, vomiting, necrotising enterocolitis (NEC), and sepsis. Discarding residuals may reduce the risk of bacterial over-growth but could also lead to loss of nutrients and delayed gastrointestinal maturation. Re-feeding residuals might improve caloric intake and promote gut motility, yet the safety of this practice is uncertain.\n\n**Research objective**\n\nTo assess the efficacy (growth, time to full feeds, caloric intake) and safety (incidence of vomiting, NEC, sepsis, mortality) of re-feeding gastric residuals versus discarding them in preterm infants.\n\n**Methods (search strategy and inclusion criteria)**\n\nA systematic search of PubMed, Embase, Cochrane CENTRAL, and CINAHL was performed (inception to 2024) using terms related to \"preterm\", \"gastric residual\", \"re-feed\", \"discard\", and \"enteral nutrition\". Randomised controlled trials (RCTs), quasi-RCTs, and controlled cohort studies comparing re-feeding versus discarding GRV in infants <37 weeks gestation were included. Outcomes of interest were growth parameters, time to achieve full enteral feeds, vomiting, NEC (Bell stage ≥II), culture-proven sepsis, and mortality.\n\n**Key findings – efficacy**\n\nFour RCTs (n=312) and two cohort studies (n=158) met inclusion criteria. Re-feeding GRV was associated with a modest increase in daily caloric intake (+4.2 kcal/kg/day, 95% CI 1.1 to 7.3) and a shorter time to reach full feeds (mean difference –2.1 days, 95% CI –3.8 to –0.4). No significant differences were observed in weight-gain velocity (g/kg/day) at 4 weeks.\n\n**Key findings – safety**\n\nThe pooled incidence of NEC was similar between groups (RR 0.96, 95% CI 0.68 to 1.35). Rates of vomiting (RR 1.08, 95% CI 0.84 to 1.39), culture-positive sepsis (RR 0.92, 95% CI 0.66 to 1.28), and mortality (RR 0.99, 95% CI 0.71 to 1.38) did not differ significantly. No study reported adverse events directly attributable to re-feeding residuals.\n\n**Discussion and implications**\n\nThe available evidence suggests that re-feeding gastric residuals may improve short-term nutritional efficiency without increasing the risk of major complications such as NEC or sepsis. However, the total number of participants is limited, heterogeneity in residual volume thresholds and feeding protocols exists, and most studies were single-center with moderate risk of bias. Larger, multicentre RCTs with standardized GRV assessment are needed before definitive practice guidelines can be issued.\n\n**Conclusion**\n\nCurrent data indicate that re-feeding gastric residuals in preterm infants is likely safe and may modestly accelerate achievement of full enteral feeds. Clinicians may consider re-feeding as an option, but should do so within the context of unit protocols and ongoing monitoring for feeding intolerance. Further high-quality research is required to confirm these findings and to define optimal GRV thresholds.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 655,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.25925925925926,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 67,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 4,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 4.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 218,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 37.93979078314959,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.994164546225615,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.422209782301387,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.595297709923663,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.841108283856375,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 61.358495900480634,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.4 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 9,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 15.727922061357855,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 9.423702007350863,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 341,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 341.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 166,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 243,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 655,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 655 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 1,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft PLS is missing a Limitations section, contains unexplained jargon, long sentences, passive voice, and lacks paragraph breaks and bullet points. Readability metrics (Flesch Reading Ease 37.94, average 24.26 words per sentence, high passive voice count) are below acceptable thresholds for plain language. These issues need to be addressed before the summary can be approved.",
+      "pls_evaluation_summary": "The evaluation identified completeness, formatting, factual accuracy, and word count as acceptable, but highlighted significant clarity, style, and structure problems that lower readability and accessibility."
+    }
+  ]
+}

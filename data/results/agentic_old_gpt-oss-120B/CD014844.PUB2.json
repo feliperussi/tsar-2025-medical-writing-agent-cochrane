@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014844.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do antibiotics given before a miscarriage procedure (uterine evacuation) reduce the risk of infection?\n\nKey messages\n- We gave prophylactic (intended to prevent disease) antibiotics before uterine evacuation (surgical removal of pregnancy tissue) for early pregnancy loss (miscarriage) and found they probably lower the chance of a uterine infection, but the overall evidence is of low certainty.  \n- Common side‑effects such as vomiting and diarrhoea were similar whether antibiotics were used or not; we are uncertain whether allergic reactions increase.  \n- Future trials need larger numbers, clear methods, and longer follow‑up to confirm benefits and to detect rare serious adverse effects.\n\nWhat is early pregnancy loss and how is it treated?  \nEarly pregnancy loss, also called a miscarriage, is the loss of a pregnancy before the baby can survive outside the womb, usually before 13 weeks. After a miscarriage we often need to clear any remaining tissue so the uterus can heal. This cleaning is called uterine evacuation and is done with a small surgical procedure. The procedure is generally safe, but leftover tissue or the surgery itself can sometimes cause infection (illness caused by germs).\n\nWhy might we give antibiotics, and why is routine use uncertain?  \nWhen a woman shows signs of infection such as fever, pain, or unusual discharge after a miscarriage, we give antibiotics (medicines that kill bacteria) to treat it. The question is whether we should give antibiotics to every woman before the uterine evacuation, even when she has no signs of infection. Giving antibiotics in this preventive way is called prophylactic use. Some clinicians use a routine approach, but the evidence about whether this helps and whether it causes side‑effects is unclear.\n\nWhat did we aim to find out?  \nWe wanted to know if routine prophylactic antibiotics reduce the chance of a uterine infection after uterine evacuation for early pregnancy loss, and whether they cause important adverse effects (unwanted or harmful effects).\n\nHow did we find the evidence?  \nWe searched for randomised trials that compared prophylactic antibiotics with placebo (a harmless substance that looks like a real medicine) or no treatment in women undergoing uterine evacuation. We combined the results and rated our confidence in the evidence using standard criteria.\n\nWhat did we find?  \nWe identified six randomised trials that together included 4,371 women who had a surgical uterine evacuation for early pregnancy loss. All participants had no signs of infection before the procedure. Each trial compared giving a prophylactic antibiotic at the time of evacuation with either a placebo or no treatment.\n\nWhat are the main results?  \nWhen we looked at the three highest‑quality trials (covering 85 % of participants), antibiotics reduced the risk of infection by about 43 %. This finding is supported by high‑certainty evidence. When we combined all six studies, the benefit remained but the overall evidence was of low certainty.  \n\nAntibiotics did not change the risk of vomiting or diarrhoea after the procedure. We are uncertain whether allergic reactions increase; no cases of anaphylaxis (serious, potentially life‑threatening allergic reaction) were reported. We do not have reliable data on whether antibiotics affect the need for additional antibiotics or hospital admission for infection.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because participants may have known which treatment they received, not all trials reported every outcome, the studies involved different populations and treatment methods, and the trials were small with few infection cases. These factors make the results uncertain.\n\nHow current is the evidence?  \nThe evidence is up to date to October 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 609,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 37,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 37.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.06266995073892,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.017674876847291,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.649852216748762,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.686436781609192,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.53471264367816,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.06174055829228,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.857142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.165525060596439,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.630182857142857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 261.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 161,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 205,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 609,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 609 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 6,
+      "P75_count": 2,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:05.106526"
+}

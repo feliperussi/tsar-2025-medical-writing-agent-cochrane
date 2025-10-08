@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015790.PUB2",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Do self-management programs improve quality of life for adults with vision loss?\n\nKey messages\n- For adults with vision loss, we found little evidence to suggest that self-management programs (programs that teach people how to cope with their condition) improve their quality of life (the overall enjoyment of life).\n- These programs also appear to have little to no effect on the risk (chance) of unwanted effects.\n- Future research is needed to develop better ways to measure quality of life and to see if these programs help a wider range of people, such as those with different stages of vision loss or those who also have hearing loss (a condition known as dual sensory impairment).\n\nWhat is visual impairment and how can self-management help?\nVisual impairment, or difficulty seeing, is a major health problem that affects more than 2.2 billion people worldwide, especially older adults. Losing vision can make daily tasks more difficult and can lead to challenges with mental and emotional well-being. To address this, 'self-management' programs are designed to help people. These programs aim to teach people with visual impairment the skills to manage their condition, continue with their daily activities, and improve their overall quality of life.\n\nWhat did we want to find out?\nWe wanted to find out if self-management programs improve the quality of life for adults with visual impairment when compared to people receiving usual care (the care a provider would normally give) or no specific program.\n\nWhat did we do?\nWe searched for studies that compared self-management programs with usual care or no program for adults with visual impairment. We then combined the results and rated our confidence in the evidence using a system called GRADE.\n\nWhat did we find?\nWe found 20 studies that included 3151 adults with visual impairment. The participants were older adults, with an average age between 60 and 84 years. The studies compared self-management programs that involved many different parts or approaches (multifaceted interventions) with usual care, other low-vision support, or being on a waiting list.\n\nThe review found that these self-management programs may make little to no difference to a person's quality of life related to their health or their vision. These programs may also not affect the risk of unwanted effects.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence. There are not enough studies to be certain about the results, and the studies used different ways of delivering the programs.\n\nHow up to date is this evidence?\nThe evidence is up to date to May 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 452,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.833333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.44483038348085,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.50721238938053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.004874631268436,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.116017699115044,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.905014749262538,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.61209439528024,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.306623862918075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.802982890855458,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 112,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 452,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 452 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:20.850894"
+}

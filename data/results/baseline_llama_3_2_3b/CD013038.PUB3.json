@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013038.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there anything else I can help you with?\n\nNow, I will transform the provided Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\n**Plain Language Summary Title**\n**What are the benefits and risks of exposing preterm infants to the smell and taste of milk with tube feeds?**\n\n**Key Messages**\n- Exposure to the smell and taste of milk with tube feeds may have little to no effect on time to reach full sucking feeds and time to reach full enteral feeds.\n- There were no clear differences between exposure and no exposure to the smell or taste of milk on safety outcomes (adverse effects, necrotising enterocolitis, and late infection).\n- Future research should examine the effect of exposing preterm infants to the smell and taste of milk with tube feeds on health outcomes during hospitalisation.\n\n**Introduction to the review topic and review aims**\n**What is the problem with feeding preterm infants?**\nPreterm infants (born before 37 weeks' gestation) often have trouble coordinating sucking, swallowing, and breathing for oral feeding because of their immaturity. This can delay their ability to eat and drink normally, leading to longer hospital stays and more time on nutritional support.\n\n**What did we want to find out?**\nWe wanted to see if exposing preterm infants to the smell and taste of milk with tube feeds can help them start eating and drinking more quickly and safely.\n\n**What did we do?**\nWe searched for studies that looked at whether exposing preterm infants to the smell and taste of milk with tube feeds made a difference in their ability to eat and drink normally. We also looked at whether this intervention was safe.\n\n**What did we find?**\nWe found eight studies that involved 1277 preterm infants. The studies showed that exposing preterm infants to the smell and taste of milk with tube feeds may have little to no effect on time to reach full sucking feeds and time to reach full enteral feeds. There were also no clear differences between exposure and no exposure to the smell or taste of milk on safety outcomes (adverse effects, necrotising enterocolitis, and late infection).\n\n**What are the limitations of the evidence?**\nThe evidence is not very clear because the studies were small and had some methodological problems. We also don't know if the results will apply to all preterm infants.\n\n**How up to date is this evidence?**\nThe evidence is up to date as of April 2023.\n\n**Conclusion**\nExposing preterm infants to the smell and taste of milk with tube feeds may have little to no effect on time to reach full sucking feeds and time to reach full enteral feeds. There were also no clear differences between exposure and no exposure to the smell or taste of milk on safety outcomes. Future research should examine the effect of exposing preterm infants to the smell and taste of milk with tube feeds on health outcomes during hospitalisation.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 510,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.454545454545455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 68.56157754010697,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.535704099821746,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.6677433155080195,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.963764705882351,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.122994652406419,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.96434937611408,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.787878787878788,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.246211251235321,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.813153297682709,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 510,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 510 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.155942"
+}

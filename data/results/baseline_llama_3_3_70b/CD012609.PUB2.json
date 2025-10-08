@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012609.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of infliximab for maintaining remission in Crohn's disease? Infliximab is a medicine that helps reduce inflammation in the body. Crohn's disease is a condition that causes inflammation in the digestive tract. We wanted to find out if infliximab is effective in preventing symptoms of Crohn's disease from coming back. We searched for studies that compared infliximab to a placebo or another treatment. We found nine studies with 1257 participants. The studies showed that infliximab is probably more effective than a placebo in preventing symptoms of Crohn's disease from coming back. However, we are not sure if infliximab is better than other treatments at preventing symptoms from coming back or reducing side effects. We also found that infliximab may be as effective as a similar medicine called a biosimilar. The evidence for these findings is not strong, and we need more research to confirm the results. Future studies should compare infliximab to other treatments and make sure to report their methods clearly.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 171,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 11,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.545454545454545,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 1,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 23,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 10,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 43,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.551100478468925,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.070388091440723,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.030446570972888,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.86783625730994,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.937480063795853,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.878787878787875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.181818181818182,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 8.8309518948453,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.588422966507176,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 63,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 33,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 57,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 171,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 171 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 16,
+      "P50_count": 1,
+      "P75_count": 1,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 88.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:31.387721"
+}

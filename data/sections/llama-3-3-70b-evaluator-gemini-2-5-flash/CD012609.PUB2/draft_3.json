@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab probably reduces the risk of clinical relapse in patients with Crohn's disease compared to placebo.\n- Infliximab combined with purine analogues probably reduces the risk of clinical relapse compared to purine analogues alone.\n- There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar.\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to a combination of genetic, environmental, and immune system factors. Current treatments for Crohn's disease often involve medications that reduce inflammation and suppress the immune system, as well as surgery in some cases. However, these treatments do not always work and can have significant side effects.\n\nWhat is infliximab and how does it work?\nInfliximab is a type of biologic medication, specifically a monoclonal antibody, that targets and neutralizes a protein called tumor necrosis factor-alpha (TNF-alpha). TNF-alpha is a substance in the body that promotes inflammation and is often found in high levels in people with Crohn's disease. By blocking TNF-alpha, infliximab can help reduce inflammation and alleviate symptoms of Crohn's disease.\n\nWhat did the review authors want to find out?\nWe aimed to review all the current evidence for using infliximab to manage Crohn's disease. We compared infliximab to placebo, other biologic medications, and conventional therapies, and looked at outcomes such as clinical relapse, loss of clinical response, and adverse events.\n\nHow did we do the review?\nWe searched for studies comparing infliximab to other treatments for Crohn's disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 9 studies that involved 1257 people with Crohn's disease. The studies were conducted between 1999 and 2022, with seven studies including patients who had never taken a 'biologic' medication like infliximab before (these patients are called 'biologically-naive'). The other two studies included a mix of patients who had or had not taken these types of drugs before. Three studies included patients in clinical remission, five included patients with a mix of activity scores, and one study included patients with active disease at baseline. The age of the participants ranged from 18 to 69 years old. All but one single-centre study were multicentre studies. Four studies were funded by pharmaceutical companies, two had a mix of commercial and public funding, and two had public funding. The studies compared infliximab to placebo, purine analogues, biosimilar, and adalimumab, with various outcomes including clinical relapse, loss of clinical response, endoscopic relapse, and withdrawal due to adverse events.\n\nWhat are the main results for infliximab in Crohn's disease?\nInfliximab probably reduces the risk of a relapse compared to a placebo (a dummy treatment). For every 100 people taking a placebo, studies showed about 75 had a relapse. In comparison, for every 100 people taking infliximab, about 56 had a relapse. Infliximab combined with purine analogues is probably more effective in preventing clinical relapse than purine analogues alone. For every 100 people treated with infliximab and purine analogues, 12 may have a clinical relapse, compared to 59 out of 100 people treated with purine analogues alone. There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar. Infliximab may lead to more loss of clinical response than a biosimilar.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for several reasons:\n- The studies included only a small number of people.\n- Participants may have known which treatment they were getting, which could have biased the results.\n- The studies did not always report on all the outcomes we were interested in.\n\nHow up to date is this evidence?\nThe evidence is up to date to June 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 704,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 39,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.05128205128205,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 20,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.39419871794874,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.993750000000002,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.44315523018648,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.083238636363632,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.311421911421913,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.29560023310023,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.82051282051282,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.958260743101398,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.1530282488345,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 279,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 279.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 160,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 227,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 227.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 704,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 704 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 3,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. It fails a critical check for factual accuracy and has several clarity issues that need to be addressed before publication.\n\n**Critical Issues:**\n\n*   **Factual Error:** The currency statement is incorrect. The draft states the evidence is up to date to June 2023, but the provided SOURCE_OF_TRUTH document states August 2021. This must be corrected to match the source of truth.\n    *   **Draft:** \"The evidence is up to date to June 2023.\"\n    *   **Source of Truth:** \"The evidence is up to date to August 2021.\"\n\n**Top 3 Improvements Needed:**\n\n1.  **Simplify the technical explanation of how infliximab works.** The current explanation contains too much jargon in one sentence, which can be overwhelming for a lay reader.\n    *   **Problematic sentence:** \"Infliximab is a type of biologic medication, specifically a monoclonal antibody, that targets and neutralizes a protein called tumor necrosis factor-alpha (TNF-alpha).\"\n    *   **Suggested rewrite:** \"Infliximab is a type of medicine called a 'biologic'. It works by targeting a protein in the body called tumor necrosis factor-alpha (TNF-alpha). High levels of this protein cause inflammation. Infliximab blocks TNF-alpha to help reduce this inflammation and ease the symptoms of Crohn's disease.\"\n\n2.  **Reduce excessive detail in the study description.** The 'What did we find?' section includes technical details about study design that are not essential for a patient's understanding of the results.\n    *   **Problematic text:** \"...seven studies including patients who had never taken a 'biologic' medication like infliximab before (these patients are called 'biologically-naive'). The other two studies included a mix of patients who had or had not taken these types of drugs before. Three studies included patients in clinical remission, five included patients with a mix of activity scores, and one study included patients with active disease at baseline...\"\n    *   **Suggested rewrite:** \"We found 9 studies that included 1257 people with Crohn's disease. The studies included adults with different levels of symptoms. For some people, this was the first time they had taken a 'biologic' medicine, while others had tried them before.\"\n\n3.  **Replace complex, noun-heavy phrases with simpler, verb-focused language.** Several sentences use technical nouns where simpler verbs would be clearer.\n    *   **Problematic sentence:** \"The studies compared infliximab to placebo, purine analogues, biosimilar, and adalimumab, with various outcomes including clinical relapse, loss of clinical response, endoscopic relapse, and withdrawal due to adverse events.\"\n    *   **Suggested rewrite:** \"The studies compared infliximab to other treatments. We looked to see if people's symptoms returned (clinical relapse), if the treatment stopped working (loss of clinical response), and if people had to stop the treatment because of side effects.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows moderate conformity with typical PLS patterns, with 50% of features falling in the best quartile. However, there are significant deviations in vocabulary complexity. Metrics for complex words (Dale-Ch... (truncated for brevity) ... These metrics support the editorial feedback to simplify technical terms and rephrase sentences to be more active and direct."
+    }
+  ]
+}

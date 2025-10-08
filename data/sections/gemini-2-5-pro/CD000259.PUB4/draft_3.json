@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "Does reviewing the work of healthcare professionals and giving them feedback (audit and feedback) improve the care they provide to patients?\n\nKey messages\n\nThe evidence suggests that reviewing the work of healthcare professionals and giving them feedback (a process called audit and feedback) can lead to small but potentially important improvements in the care they provide. The review did not find any studies that reported on unwanted effects of this approach.\n\nAudit and feedback may be more effective when it targets areas where professionals have lots of room to improve, is given to individuals rather than teams, compares performance to top performers, and includes a specific plan for improvement.\n\nMore research is needed to confirm these findings and to better understand the most effective ways to design audit and feedback to improve healthcare.\n\nWhat is this review about?\n\nWhat is audit and feedback?\nHealthcare professionals, like doctors and nurses, aim to provide the best possible care. 'Audit and feedback' is a widely used strategy to help them improve. It involves two steps. First, an 'audit' measures a professional's performance over a period of time. For example, it might track how often a doctor prescribes a certain medicine or orders a specific test. Then, 'feedback' is given, where the results of the audit are shared with the professional. The idea is that when professionals see data about their own practice, it encourages them to make positive changes. However, it is uncertain how well audit and feedback works and what makes it most effective.\n\nWhat did we want to find out?\nWe wanted to find out how effective audit and feedback is for improving the practice of healthcare professionals. We also wanted to identify which features of audit and feedback might make it work better.\n\nHow did we do the review?\n\nWe searched for studies that tested if giving healthcare professionals feedback on their performance ('audit and feedback') improved the care they provided. We combined the results to see how well it worked and what factors made it more effective, and then rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 292 studies. 26 of these studies were conducted in low- or middle-income countries. The recipients of the audit and feedback interventions were most commonly physicians. The studies looked at how audit and feedback, sometimes with other support like education or reminders, could improve professional practices like prescribing medicines and ordering tests. The original studies included in this review did not always report on the total number of participants, how long they lasted, or their funding sources.\n\nWhat did the main results show?\nAudit and feedback probably leads to a small improvement in the practice of healthcare professionals. The size of this improvement can vary. This means that for every 100 opportunities for a healthcare professional to follow a recommended practice, using audit and feedback probably results in about 6 more instances of the practice being followed.\n\nHow reliable is the evidence?\n\nWe are moderately confident in the evidence. Our confidence is not higher because in some studies, professionals knew they were being observed, which might have changed their behaviour. Also, the studies used many different feedback methods, which made the results less consistent.\n\nHow up-to-date is this review?\n\nThe evidence in this review is current to 14 February 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 574,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 70,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 44,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 147,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 56.21443554006973,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.492759581881536,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.794843205574914,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.139512195121949,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.528641114982577,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.49407665505227,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.771428571428571,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.539392014169456,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.672795400696865,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 213,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 100,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 167,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 574,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 574 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 1,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 88.88888888888889,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft, but it cannot be approved due to a critical factual discrepancy and a few areas that need improved clarity for a lay audience.\n\n**Critical Issue: Factual Inaccuracy**\n\n*   **Issue:** The currency date in the draft contradicts the official source material.\n*   **Details:** The draft states, \"The evidence in this review is current to 14 February 2022.\" However, the provided SOURCE_OF_TRUTH file lists the currency date as \"October 2025.\" This is a critical conflict that must be resolved with the review team before publication.\n\n**Top 3 Improvements Needed**\n\n1.  **Simplify Formal Language:** The text uses unnecessarily formal words where simpler ones would be clearer for patients. This is supported by the linguistic analysis, which found the use of long words was higher than in 90% of typical summaries.\n    *   **Original sentence:** \"The recipients of the audit and feedback interventions were most commonly physicians.\"\n    *   **Why it's a problem:** Words like \"recipients,\" \"interventions,\" and \"physicians\" are formal and less accessible than everyday language.\n    *   **Suggested rewrite:** \"In most studies, the feedback was given to doctors.\"\n\n2.  **Remove Unnecessary Technical Details:** A sentence in the results section is confusing because it doesn't explain why the information matters to the reader.\n    *   **Original sentence:** \"The original studies included in this review did not always report on the total number of participants, how long they lasted, or their funding sources.\"\n    *   **Why it's a problem:** This reads like a technical note for researchers. It doesn't help a patient understand the main findings and may cause confusion.\n    *   **Suggested rewrite:** We recommend removing this sentence to keep the summary focused on the key results.\n\n3.  **Ensure All Subheadings are Questions:** One subheading does not follow the style guide rule to be phrased as a question.\n    *   **Original subheading:** \"What did the main results show?\"\n    *   **Why it's a problem:** This is a statement, not a question. Using questions helps guide the reader through the text.\n    *   **Suggested rewrite:** \"What did the main results show?\"\n\n",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 16 of 18 metrics (89%) falling in the best quartile for readability. Sentence length and use of active voice are excellent. However, the analysis identified one deviation: the count of long words (7+ characters) is in the 90th percentile, suggesting the vocabulary could be simplified to better align with plain language principles."
+    }
+  ]
+}

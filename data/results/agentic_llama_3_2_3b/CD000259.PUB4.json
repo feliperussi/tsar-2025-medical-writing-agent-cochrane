@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "Audit and feedback (A&F) is a widely used strategy to improve professional practice. Yet, there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. Healthcare professionals may use medicines to help them stop smoking, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes, behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one. We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support (including the best people to give it); and what aspects of behavioural support help someone to stop smoking. We also wanted to know if behavioural support can cause any unwanted effects.\n\nAudit and feedback (A&F) is a widely used strategy to improve professional practice. Yet, there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. Healthcare professionals may use medicines to help them stop smoking, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes, behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one.\n\nWe found that A&F can improve professional practice, but the magnitude of benefit varies. A&F is most often delivered along with co-interventions, which can contribute additive effects. A&F may be most effective when designed to help recipients prioritise and take action on high-priority clinical issues and with certain characteristics, such as targeting important performance metrics, measuring individual practice, involving a local champion, and facilitating engagement with the feedback.\n\nIn conclusion, A&F can be an effective strategy to improve healthcare professional practice. However, further research is needed to optimise the effectiveness of A&F interventions, particularly in terms of the design and delivery of feedback, and to explore the long-term effects of A&F on healthcare professional practice.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 445,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.347826086956523,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 115,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 41.57088910600879,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.267562286272597,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.587733268197361,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.06112359550562,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.008793356130923,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.95456765999023,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.695652173913044,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.169202735710797,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 175,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 445,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 445 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 6,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:31.248039"
+}

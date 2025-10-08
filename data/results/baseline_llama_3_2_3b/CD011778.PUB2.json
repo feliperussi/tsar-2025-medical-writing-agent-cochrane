@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011778.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of using antimicrobial photodynamic therapy (aPDT) to treat periodontal and peri-implant diseases?**\n\n**Key Messages:**\n\n* We found that adjunctive aPDT versus SI alone during active treatment of periodontitis leads to no improvement in any clinical outcomes at six months, and any apparent differences between adjunctive aPDT and SI alone were not judged to be clinically important.\n* We found that adjunctive aPDT versus SI alone during supportive treatment of periodontitis leads to no improvement in any clinical outcomes at six months, and these findings were all imprecise and included no clinically important benefits for aPDT.\n* Due to a lack of robust evidence, the benefits and risks of most types of antimicrobial photodynamic therapy for treating periodontal and peri-implant diseases are unclear.\n* Future research in this area should focus on options and effects that are important to decision-makers, such as improving the accuracy of periodontal disease diagnosis; and developing more effective treatments for periodontal and peri-implant diseases.\n\n**Introduction to the review topic and review aims:**\n\n**What is periodontitis and peri-implant disease?**\n\nPeriodontitis and peri-implant diseases are chronic inflammatory conditions occurring in the mouth. Left untreated, periodontitis progressively destroys the tooth-supporting apparatus. Peri-implant diseases occur in tissues around dental implants and are characterised by inflammation in the peri-implant mucosa and subsequent progressive loss of supporting bone.\n\n**Why is this review important?**\n\nWe wanted to find out: which types of antimicrobial photodynamic therapy (aPDT) work best to help treat periodontal and peri-implant diseases; the best ways to give aPDT.\n\n**What did we do?**\n\nWe searched for studies that compared SI with adjunctive aPDT versus SI alone or with placebo aPDT for periodontitis and peri-implant diseases in adults. We included 50 RCTs with 1407 participants. Most studies used a split-mouth study design; only 18 studies used a parallel-group design. Studies were small, ranging from 10 participants to 88. Adjunctive aPDT was given in a single session in 39 studies, in multiple sessions (between two and four sessions) in 11 studies, and one study included both single and multiple sessions.\n\n**What did we find?**\n\nWe found that adjunctive aPDT versus SI alone during active treatment of periodontitis leads to no improvement in any clinical outcomes at six months, and any apparent differences between adjunctive aPDT and SI alone were not judged to be clinically important. We found that adjunctive aPDT versus SI alone during supportive treatment of periodontitis leads to no improvement in any clinical outcomes at six months, and these findings were all imprecise and included no clinically important benefits for aPDT.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2024.\n\n**What are the limitations of the evidence?**\n\nWe are very uncertain whether adjunctive aPDT leads to improved clinical outcomes during the active or supportive treatment of periodontitis; moreover, results suggest that any improvements may be too small to be clinically important. The certainty of this evidence can only be increased by the inclusion of large, well-conducted RCTs that are appropriately analysed to account for change in outcome over time or within-participant split-mouth study designs (or both).\n\n**What should happen next?**\n\nFuture research in this area should focus on options and effects that are important to decision-makers, such as improving the accuracy of periodontal disease diagnosis; and developing more effective treatments for periodontal and peri-implant diseases.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 615,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.5,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 39.1123780487805,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.896707317073172,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.890780487804882,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.806243902439022,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.63089430894309,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.02032520325203,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.666666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.832159566199232,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.769271544715447,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 263,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 263.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 145,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 145.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 615,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 615 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 7,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.706569"
+}

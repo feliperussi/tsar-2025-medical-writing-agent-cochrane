@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Introduction\n\nWhat are respiratory viruses and why are they a problem?\nRespiratory viruses such as the flu, the common cold and COVID‑19 spread easily from person to person through the air and by touching contaminated surfaces. When many people become infected at the same time, hospitals can become overwhelmed and vulnerable groups such as the elderly and those with chronic illnesses are at higher risk of serious illness or death.\n\nWhat did we want to find out?\nWe set out to learn whether simple physical measures – wearing masks, using higher‑grade respirators, and washing or sanitising hands – can help stop these viruses from spreading in the community and whether these measures cause any harm.\n\nWhat did we do?\nWe searched for randomised trials that compared one of these measures with doing nothing or with another measure, combined the results, and judged how reliable the evidence was.\n\nWhat did we find?\nStudy characteristics\nWe identified 78 trials that together involved more than six hundred thousand participants from many countries. The studies were carried out in homes, schools, workplaces and other community settings. Most trials were done when there was no major outbreak, and many participants did not follow the assigned measures very well. The way outcomes were measured varied a lot between studies.\n\nMain results\nMasks versus no masks\nWearing a mask in the community probably makes little or no difference to the number of people who get a respiratory infection.\nN95 respirators versus surgical masks\nWhen people used N95 respirators instead of regular surgical masks, the evidence was very uncertain for clinical respiratory illness, but it suggested a possible small benefit for flu‑like illness. For laboratory‑confirmed flu, the evidence was moderate and indicated that N95 respirators probably do not change the number of infections.\nHand hygiene versus no hand hygiene\nCleaning hands with soap or an alcohol‑based product probably reduces the number of people who develop any respiratory infection. The evidence for reducing flu‑like illness or laboratory‑confirmed flu was less certain, but it hinted that hand hygiene might provide a modest benefit for a combined outcome of any respiratory illness.\nHarms\nVery few studies reported any side effects, and those that did gave little detail, so we cannot say whether masks, respirators or hand cleaning cause any important problems.\nLimitations\nMany of the trials had problems that make it hard to trust the results, such as participants not using the interventions as instructed and unclear ways of measuring outcomes. Because the studies were done in many different places and used different definitions of illness, it is difficult to combine the findings into a clear picture.\nHow up to date?\nThe evidence is current up to October 2022.\nKey messages\n- Wearing a mask in everyday community settings probably does not reduce the spread of flu or COVID‑19, and we have little information about any possible harms.\n- Regular hand washing or using hand sanitizer likely helps lower the number of people who catch a respiratory infection, although the benefit is modest and the certainty of the evidence varies.\n- Future research should test these measures in larger, well‑run studies that track how well people actually follow the instructions and should focus on groups at highest risk of severe illness.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 562,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.416666666666668,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.54359578884939,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.166343416370108,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.680166073546857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.90256227758007,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.911150652431793,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.95403321470937,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.916666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.005452431791222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 208,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 562,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 562 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 7,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:12.743977"
+}

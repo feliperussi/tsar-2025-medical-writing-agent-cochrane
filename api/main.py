@@ -1,7 +1,7 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api.routers import tools
+from api.routers import tools, summaries
 from api.core.tool_registry import tool_registry
 from api.tools.glossary_tool import GlossaryTool
 from api.tools.linguistic_analysis_tool import LinguisticAnalysisTool
@@ -46,6 +46,7 @@ app.add_middleware(
 
 # Include routers
 app.include_router(tools.router)
+app.include_router(summaries.router)
 
 @app.get("/")
 async def root():
@@ -61,6 +62,9 @@ async def root():
             "/tools/linguistic-analysis/multiple": "Linguistic analysis of multiple texts",
             "/tools/pls-evaluation": "Evaluate text against Plain Language Summary thresholds (JSON format)",
             "/tools/pls-evaluation/text": "Evaluate text against Plain Language Summary thresholds (text format)",
+            "/summaries": "POST: Save a Plain Language Summary | GET: List all summaries",
+            "/summaries/{id}": "GET: Retrieve a summary | DELETE: Delete a summary",
+            "/summaries/{id}/drafts": "POST: Save a draft with evaluation (auto-numbered)",
             "/docs": "Interactive API documentation"
         }
     }

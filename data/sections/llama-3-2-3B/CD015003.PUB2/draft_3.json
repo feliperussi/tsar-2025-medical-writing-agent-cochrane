@@ -1,0 +1,162 @@
+{
+  "id": "CD015003.PUB2",
+  "draft": "**FINAL PLAIN LANGUAGE SUMMARY**\n\n**Key Messages**\n- Colchicine may reduce all-cause mortality compared to placebo in primary prevention, but the evidence is very uncertain.\n- Colchicine may increase the risk of diarrhea compared to placebo, usual care, or no treatment, but the evidence is very uncertain.\n- The existing studies are limited, and robust trials are needed to determine whether colchicine is beneficial or harmful for primary cardiovascular prevention.\n\n**What is the health problem?**\nAtherosclerotic cardiovascular diseases (ACVDs), a condition characterised by lipid accumulation in arterial walls, which is often exacerbated by chronic inflammation disorders, is the major cause of mortality and morbidity worldwide. Colchicine, with its first medicinal use in ancient Egypt, is an inexpensive drug with anti-inflammatory properties. However, its role in primary prevention of ACVDs in the general population remains unknown.\n\n**What did the researchers aim to discover?**\nTo assess the clinical benefits and harms of colchicine as primary prevention of cardiovascular outcomes in the general population.\n\n**What did we find?**\nCurrent evidence on colchicine for primary prevention of cardiovascular events is very uncertain. It may lower all–cause mortality compared with placebo, but the data are inconclusive. There is little to no clear effect on non‑fatal myocardial infarction or stroke, and the certainty is low. Colchicine appears to increase the risk of diarrhea, though this also rests on uncertain evidence. When compared with methotrexate, colchicine shows little to no difference in mortality, but the evidence is very uncertain. Overall, the existing studies are limited, and robust trials are needed to determine whether colchicine is beneficial or harmful for primary cardiovascular prevention.\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\nThe evidence is up to date to May 31, 2023.\n\n**Limitations**\nDue to the very low certainty of the evidence and the limitations of the included studies, it is unclear whether colchicine is effective for preventing cardiovascular events in the general population, and more robust clinical trials are needed to bridge this evidence gap effectively.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 366,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.428571428571427,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 21,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 15,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 76,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 37.28106557377049,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.389110070257612,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.92813817330211,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.2672131147541,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.00967993754879,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 54.31381733021077,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.428571428571429,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.246950765959598,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.810331459797034,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 161,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 101,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 135,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 366,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 366 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The summary meets the word‑count limit but has several clarity and style issues. Key messages lack a concise summary of the main findings, and statements about “very uncertain” evidence are vague. The text uses too many complex and long words and contains excessive nominalizations, reducing readability. Paragraph structure could be improved with more breaks. While active‑voice usage is acceptable, the overall readability scores are outside the optimal ranges. The recommended revisions are to add a brief findings summary, clarify uncertain evidence language, simplify wording, reduce nominalizations, and improve paragraph formatting.",
+      "pls_evaluation_summary": "Word count is within limit (366/850). Metrics show low words per sentence (17.43) and acceptable active‑voice count (21). Readability indices are slightly off target (Flesch‑Reading Ease 37.28, ARI 11.93). Complex words (101), long words (135) and nominalizations (26) are high, affecting readability. Only one feature (nominalization) deviates from typical PLS patterns. Overall the text conforms partially but needs revisions to meet PLS standards."
+    }
+  ]
+}

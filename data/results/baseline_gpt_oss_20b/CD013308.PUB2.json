@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013308.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "## Title\nIs using a combination of nicotine patches and fast‑acting nicotine better than using a single patch for quitting smoking?\n\n## Key messages\n- Using a fast‑acting nicotine product (such as gum, lozenge, or spray) together with a nicotine patch **greatly increases** the chance of staying smoke‑free for a long time compared with using just one type of nicotine replacement.\n- Higher‑dose nicotine patches (for example, 42 mg or 44 mg) **probably give a slightly better chance** of staying smoke‑free than lower‑dose patches (21 mg or 22 mg), and a 21 mg patch probably works better than a 14 mg patch. A higher‑dose gum (4 mg) also probably helps a little more than a lower‑dose gum (2 mg).\n- There is **no clear evidence** that any form of nicotine replacement causes more heart problems, serious side effects, or severe withdrawal symptoms than another form. The evidence on safety is limited, so more research is needed.\n\n## What is nicotine replacement therapy and why is it used?\nNicotine replacement therapy (NRT) is a set of products that give a small, controlled amount of nicotine to people who are trying to quit smoking. The idea is to ease the cravings and withdrawal symptoms that happen when a person stops smoking, making it easier to stay smoke‑free. Common NRT products include patches that release nicotine slowly through the skin, and fast‑acting forms such as gum, lozenges, sprays, or inhalers that give nicotine quickly when needed.\n\n## What did we want to find out?\nWe wanted to know which types, doses, and timing of NRT work best for helping people quit smoking, and whether any of these approaches cause more side effects or harms than others.\n\n## How is smoking cessation treated?\nPeople who want to quit smoking can use NRT alone, combine different NRT products, or use other medicines and counseling. Combining a patch with a fast‑acting product is a common strategy because the patch provides a steady level of nicotine while the fast‑acting product can be used for sudden cravings.\n\n## What did we do?\nWe searched for studies that compared different kinds, doses, and timing of NRT in people who wanted to quit smoking, combined the results, and judged how confident we were in the findings.\n\n## What did we find?\n**Study characteristics**\nWe identified 68 studies that together included more than 40,000 participants. Most studies were done with adults in community settings or health clinics, and they followed participants for several weeks to a year. The studies looked at many different NRT products, doses, and ways of using them. Some studies had a higher risk of bias, but the main patterns were similar when we focused on the more reliable studies.\n\n**Main results**\n- **Combination therapy**: Using a fast‑acting nicotine product together with a patch **causes a large increase** in the chance of staying smoke‑free for a long time compared with using just one type of NRT (high certainty).\n- **Higher‑dose patches**: A patch that delivers a higher amount of nicotine (42 mg or 44 mg) **probably gives a slightly higher chance** of staying smoke‑free than a lower‑dose patch (21 mg or 22 mg) (moderate certainty). Similarly, a 21 mg patch **probably works better** than a 14 mg patch, and a 25 mg patch **probably works better** than a 15 mg patch (moderate certainty).\n- **Higher‑dose gum**: Using a higher‑dose gum (4 mg) **probably gives a slightly higher chance** of staying smoke‑free than a lower‑dose gum (2 mg) (moderate certainty).\n- **Pre‑quit use (preloading)**: Starting a fast‑acting nicotine product before the quit day **probably improves** the chance of staying smoke‑free compared with starting it on the quit day (moderate certainty).\n- **Fast‑acting product vs. patch alone**: Using a fast‑acting product by itself **probably makes little to no difference** in long‑term quit rates compared with using a patch alone (high certainty).\n- **Duration of patch use**: There is **no clear evidence** that using a patch for a longer or shorter time changes the chance of staying smoke‑free (low certainty).\n- **Duration of combination therapy**: There is **no clear evidence** that the length of time a combination of patch and fast‑acting product is used changes quit rates (low certainty).\n- **Type of fast‑acting product**: There is **no clear evidence** that one fast‑acting product (like gum, lozenge, spray, or inhaler) works better than another for staying smoke‑free (very low certainty).\n- **Safety outcomes**: The evidence is low to very low certainty, but overall there is **no clear evidence** that any NRT product leads to more heart problems, serious side effects, or severe withdrawal symptoms than another. Reported side effects were generally mild and uncommon.\n\n**What does this mean for you?**\nIf you are trying to quit smoking, using both a nicotine patch and a fast‑acting nicotine product (such as gum or lozenge) is likely to give you the best chance of staying smoke‑free for a long time. Choosing a higher‑dose patch or gum may give a small extra benefit, but the most important step is to use the products consistently and combine them if possible. The available research does not show any major safety concerns with these products, but it is still a good idea to talk with a health professional about the best dose and how long to use them.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 929,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 32.03448275862069,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 268,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 268.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.48964477933261,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.641015552503621,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.73143944174307,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.175758880516685,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.78903529935786,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 55.39293270479938,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.482758620689655,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.135528725660043,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.860718740952452,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 369,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 369.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 162,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 217,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 929,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 929 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:18.983742"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012380.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of hydroxyurea for people with sickle cell disease and chronic kidney disease?**\n\n**Key Messages:**\n\n* Hydroxyurea may improve the ability to concentrate urine in children with sickle cell disease and chronic kidney disease, but may make little or no difference to the incidence of acute chest syndrome, painful crises, and hospitalisations.\n* We are unsure if hydroxyurea improves glomerular filtration rate or reduces hyperfiltration in children with sickle cell disease and chronic kidney disease.\n* No deaths occurred in either trial arm and the RCT did not report quality of life.\n* We are unsure if ACEI compared to placebo has any effect on preventing or reducing kidney complications in adults with normal blood pressure and microalbuminuria.\n* We are unsure if ACEI compared to vitamin C has any effect on preventing or reducing kidney complications in children with normal blood pressure and microalbuminuria.\n* No RCTs assessed red blood cell transfusions or any combined interventions to prevent or reduce kidney complications.\n* Due to lack of evidence, we cannot comment on the management of children aged over 18 months or adults with any known genotype of SCD.\n* Only one ongoing trial addresses renal function as a primary outcome in the short term, but such interventions have long‐term effects.\n* Trials of hydroxyurea, ACEIs or red blood cell transfusion in older children and adults are urgently needed to determine any effect on prevention or reduction of kidney complications in people with SCD.\n\n**Introduction to the review topic and review aims:**\n\n**What is chronic kidney disease in people with sickle cell disease?**\n\nChronic kidney disease (CKD) is a common complication in people with sickle cell disease (SCD). CKD can cause damage to the kidneys and lead to serious health problems.\n\n**Why is this review important?**\n\nThis review aims to assess the effectiveness of any intervention for preventing or reducing kidney complications or chronic kidney disease in people with SCD.\n\n**What did we do?**\n\nWe searched for relevant trials in the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, CENTRAL, MEDLINE, Embase, seven other databases, and two other trials registers. We included three RCTs with 385 participants. We rated the certainty of the evidence as low to very low across different outcomes according to GRADE methodology, downgrading for risk of bias concerns, indirectness, and imprecision.\n\n**What did we find?**\n\nWe found that hydroxyurea may improve the ability to concentrate urine in children with SCD and CKD, but may make little or no difference to the incidence of acute chest syndrome, painful crises, and hospitalisations. We are unsure if hydroxyurea improves glomerular filtration rate or reduces hyperfiltration in children with SCD and CKD. We are unsure if ACEI compared to placebo has any effect on preventing or reducing kidney complications in adults with normal blood pressure and microalbuminuria. We are unsure if ACEI compared to vitamin C has any effect on preventing or reducing kidney complications in children with normal blood pressure and microalbuminuria.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2021. This review updates our previous review.\n\n**Limitations of the evidence:**\n\nWe have identified a lack of adequately designed and powered studies, although we found four ongoing trials since the last version of this review. Only one ongoing trial addresses renal function as a primary outcome in the short term, but such interventions have long‐term effects. Trials of hydroxyurea, ACEIs or red blood cell transfusion in older children and adults are urgently needed to determine any effect on prevention or reduction of kidney complications in people with SCD.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 645,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.428571428571427,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.78581395348837,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.17233665559247,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.180936877076412,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.802356589147287,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.999335548172759,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.11074197120709,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.285714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.045361017187261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.960770321151716,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 247,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 123,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 123.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 185,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 645,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 645 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.973770"
+}

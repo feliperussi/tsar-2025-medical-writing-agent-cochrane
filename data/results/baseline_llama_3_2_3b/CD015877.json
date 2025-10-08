@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015877",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there a specific Cochrane abstract you would like me to transform into a Plain Language Summary (PLS)? If so, please provide the abstract, and I will follow the guidelines to create a clear and concise summary that is accessible to readers without medical knowledge.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 45,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 2,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.5,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 5,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 5.0 to >29.0 (median)"
+      },
+      "pronouns": {
+        "value": 5,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 5.0 to >13.0 (median)"
+      },
+      "nominalization": {
+        "value": 0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.39750000000001,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.54055555555556,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.741999999999997,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.50044444444444,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.333333333333336,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 58.05555555555556,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 8.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 5.449489742783178,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.379333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 15,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 16,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 45,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 45 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 1,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 1,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 5.555555555555555,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:52.738964"
+}

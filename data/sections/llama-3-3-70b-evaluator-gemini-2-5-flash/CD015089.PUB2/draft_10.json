@@ -1,0 +1,162 @@
+{
+  "id": "CD015089.PUB2",
+  "draft": "How accurate are the head impulse, nystagmus, and test of skew examinations (tests that check how the eyes move and are aligned) for diagnosing the cause of severe dizziness?\nWe looked at tests that check eye movements to find the cause of severe dizziness (acute vestibular syndrome, or AVS). These tests are called HINTS and HINTS Plus. We found the tests seem to be good at finding serious causes, like a stroke, when done by trained staff in an emergency room. However, the evidence for this is not very strong, so we are not very confident in the results.\n\nWhat is acute vestibular syndrome and why is it a problem?\nAcute vestibular syndrome (AVS) is a type of dizziness that can include severe vertigo (a spinning sensation), nausea and vomiting, nystagmus (involuntary eye movements), or unsteadiness. It's a common reason for people to seek medical care. AVS can be caused by either peripheral (related to the inner ear) or central (related to the brain) problems. Determining the cause is crucial because the treatment and outcomes differ significantly depending on whether the cause is peripheral or central.\n\nWhat are the challenges in diagnosing the cause of acute vestibular syndrome?\nDiagnosing the cause of AVS can be challenging. Clinicians use various methods, including risk factors, patient history, examination findings, and advanced imaging like magnetic resonance imaging (MRI), to determine the cause. One examination technique used is the head impulse, nystagmus, and test of skew (HINTS) examination, which includes assessing eye movements in response to head turns, the direction of involuntary eye movements, and whether the eyes are aligned or misaligned.\n\nWhat did we want to find out?\nWe wanted to find out how well the HINTS and HINTS Plus tests can identify serious causes of AVS (like a stroke). Finding the correct cause is important for giving patients the right treatment.\n\nWhat methods did we use?\nWe searched for studies on the HINTS and HINTS Plus examinations for diagnosing central causes of acute vestibular syndrome, summarized their results, and evaluated our confidence in the evidence.\n\nWhat did we find?\nWe found 16 studies that involved 2024 participants with acute vestibular syndrome. The mean age of the participants was 60 years, with 981 women and 1043 men. Most studies were conducted in the emergency department, with half performed by neurologists. The studies assessed the diagnostic accuracy of the HINTS and HINTS Plus examinations, with or without video assistance, for identifying a central etiology for AVS. \n- The main test, called the clinical HINTS examination, gave an accurate result for most people.\n- It correctly identified a central cause (like a stroke) in about 94 out of 100 people who had one.\n- It correctly ruled out a central cause in about 87 out of 100 people who did not have one.\nAdding a hearing test (HINTS Plus) or using video goggles gave similar, but more varied, results. However, we have less confidence in the evidence for these other tests.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sample sizes, potential lack of blinding (participants may have known which treatment they received), and incomplete reporting of outcomes across the studies.\n\nIs the evidence up to date?\nThe evidence is up to date to September 2022.\n\nWhat research is still needed?\nIn the future, researchers should:\n- Run more high-quality studies on the HINTS and HINTS Plus tests.\n- Check if different healthcare workers get the same results when using the tests.\n- Directly compare the tests against using an MRI scan to see how they affect patient care.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 621,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.264705882352942,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 59,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 171,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 57.649946717817585,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.755779577531499,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.818874680306909,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.189822866344606,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.648877522023305,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.80093776641091,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.029411764705882,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.488088481701515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.906637946386285,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 236,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 114,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 171,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 621,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 621 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is factually accurate, complete, and well-structured. The following suggestions focus on simplifying some key sentences to make the summary even more accessible for a lay audience. With a few revisions, this will be ready for approval.\n\n### Top 3 Improvements Needed:\n\n**1. Simplify Noun-Heavy Sentences in the Results**\n\n*   **The issue:** Some sentences are packed with technical nouns that make them dense and difficult to read, even for an educated audience.\n*   **Original sentence:** \"The studies assessed the diagnostic accuracy of the HINTS and HINTS Plus examinations, with or without video assistance, for identifying a central etiology for AVS.\"\n*   **Why it's a problem:** This sentence contains multiple complex nouns like \"diagnostic accuracy,\" \"examinations,\" and \"etiology.\" This style, often called nominalization, turns actions into abstract nouns, making the text less direct.\n*   **Suggested rewrite:** \"The studies checked how well the HINTS and HINTS Plus tests could find a serious cause for AVS (a cause related to the brain). Some looked at tests done with video goggles, and others looked at tests done without them.\"\n\n**2. Explain Technical Limitations in Simpler Terms**\n\n*   **The issue:** The limitations section uses research jargon that may not be clear to all readers.\n*   **Original sentence:** \"The evidence is limited by very small study sample sizes, potential lack of blinding (participants may have known which treatment they received), and incomplete reporting of outcomes across the studies.\"\n*   **Why it's a problem:** Terms like \"lack of blinding\" and \"incomplete reporting of outcomes\" are specific to research methodology. While you provide a good parenthetical explanation for blinding, the overall sentence could be clearer.\n*   **Suggested rewrite:** \"Our confidence in the evidence is limited because:\n- The studies included small numbers of people.\n- In some studies, people may have known which test they were getting, which could have affected the results.\n- The studies did not always report all their findings clearly.\"\n\n**3. Use More Direct Verbs in the Methods Section**\n\n*   **The issue:** The description of the methods is a bit wordy and could be more direct.\n*   **Original sentence:** \"We searched for studies on the HINTS and HINTS Plus examinations for diagnosing central causes of acute vestibular syndrome, summarized their results, and evaluated our confidence in the evidence.\"\n*   **Why it's a problem:** This long sentence can be broken up and simplified by using more active verbs instead of relying on nouns like \"examinations.\"\n*   **Suggested rewrite:** \"We searched for studies that used the HINTS and HINTS Plus tests to diagnose serious causes of AVS. We then summarized the results and rated how certain we were about the evidence.\"\n\n### Supporting Evidence from Linguistic Analysis:\n\nYour draft is very readable in many ways, with good sentence length and use of active voice. The suggestions above are supported by the linguistic analysis, which found the draft has a high number of nouns (171), nominalizations (21), and complex words (236) compared to typical Plain Language Summaries. Implementing these changes will help simplify the vocabulary and make the summary even clearer for your readers.",
+      "pls_evaluation_summary": "The evaluation shows the draft is highly readable in many ways, with 78% of features falling in the best quartile for PLS conformity (e.g., sentence length, active voice). However, it deviates from typical PLS patterns with a high number of nouns (171), nominalizations (21), long words (171), and complex Dale-Chall words (236). This suggests the text could be significantly simplified by using more common words and replacing abstract nouns with active verbs."
+    }
+  ]
+}

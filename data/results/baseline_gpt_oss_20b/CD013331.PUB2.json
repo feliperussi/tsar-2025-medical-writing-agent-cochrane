@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013331.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Can TENS (a device that sends gentle electric pulses to the skin) help reduce pain from menstrual cramps?\n\nKey messages:\n- High‑frequency and low‑frequency TENS may reduce menstrual pain compared with no treatment or a fake treatment, and no side‑effects were reported.\n- It is unclear whether TENS works better than medicines or other methods because few studies compared them.\n- More research is needed to confirm the benefits, to look at other important outcomes such as daily activities and quality of life, and to ensure the findings apply to many people.\n\nWhat is primary dysmenorrhoea?\nPrimary dysmenorrhoea is painful menstrual cramps that occur in the absence of any pelvic disease. The pain usually starts just before or at the beginning of a period and can affect daily activities.\n\nWhy might TENS help with menstrual pain?\nTENS delivers gentle electric pulses through the skin, which can interfere with pain signals and stimulate the release of natural pain‑relieving chemicals. This makes it a possible non‑drug option for managing cramps.\n\nWhat did we want to find out?\nWe aimed to see whether TENS reduces menstrual pain and whether it causes any harms, compared with no treatment, a fake treatment, or other pain‑relief methods.\n\nWhat did we do?\nWe searched for studies that compared TENS with no treatment, a fake treatment, or other pain‑relief methods, combined the results, and judged how confident we were in the evidence.\n\nWhat did we find?\nWe identified many studies that together involved several hundred women from different countries. Most studies compared high‑frequency TENS or low‑frequency TENS with a fake treatment or no treatment. A few studies compared TENS with medicines or other approaches.\n\nHigh‑frequency TENS may reduce pain compared with a fake treatment or no treatment. Low‑frequency TENS may also reduce pain compared with a fake treatment or no treatment. The evidence does not show a clear difference between high‑frequency and low‑frequency TENS. When TENS was compared with medicines or other methods, the results were very uncertain, and we cannot say whether it is better or worse. No side‑effects were reported for any of the comparisons.\n\nLimitations\nWe have little confidence in the evidence because many studies were small, some participants may have known which treatment they received, and the way TENS was applied varied between studies. Only a few studies compared TENS with medicines or other non‑drug methods, so the evidence for those comparisons is very limited.\n\nHow up to date is this evidence?\nThe evidence includes studies published up to April 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 435,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.73076923076923,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.57878647214854,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.268793103448274,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.146625994694958,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.911080459770108,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.49690539345712,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.316976127320956,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.615384615384615,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.937253933193773,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.383570291777188,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 153,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 435,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 435 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:19.101824"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007156.PUB3",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "What treatments improve mouth opening and reduce burning sensation in oral submucous fibrosis (a stiffening of the mouth lining)?\n\nKey messages:\n- Antioxidant medicines taken by mouth probably give a small increase in how wide the mouth can open (the gap between the front teeth) and probably lessen the painful burning feeling; we are fairly confident about this and side‑effects are usually mild, such as stomach upset.\n- Other treatments that have been tested – for example pentoxifylline (a drug that improves blood flow), steroid injections (medicine that reduces inflammation), physiotherapy (exercise therapy) or other medicines – have not shown clear benefits for mouth opening or burning, and the evidence for them is low‑confidence.\n- Larger, well‑designed studies that follow people for longer are needed to confirm which treatments truly help and to understand any harms.\n\nWhat is oral submucous fibrosis and why is it a problem?\nOral submucous fibrosis (OSF) is a long‑lasting disease that makes the lining of the mouth stiff and tight. Because the cheeks and inner mouth cannot open very wide, people experience painful chewing, difficulty swallowing and trouble speaking. This lowers quality of life and raises the risk of mouth cancer. The main cause is chewing areca nut, a habit common in some parts of Asia.\n\nWhat treatments are currently used to manage oral submucous fibrosis?\nThe first step is to help people stop chewing areca nut – a simple behavioural change that removes the main trigger. Beyond that, clinicians try several options:\n- Systemic or topical medicines such as antioxidants (which protect cells), pentoxifylline (which improves blood flow) and steroids like dexamethasone (which reduce inflammation).\n- Surgical procedures that release the tight tissue.\n- Physical therapies such as physiotherapy or ultrasound to improve mouth movement.\n- Alternative or complementary therapies.\nResearchers measure success by looking at two outcomes:\n- How much the mouth can open, called \"interincisal distance\" – the gap between the upper and lower front teeth.\n- How bad the burning sensation feels, using a visual analogue scale (VAS) – a simple line where a person marks the intensity of the feeling.\n\nWhat did the review aim to find out?\nWe wanted to discover which of these interventions actually help people with OSF. Specifically, we looked at benefits such as better mouth opening, less burning pain, and improved eating and speaking, and we also recorded harms such as side‑effects or complications.\n\nHow did we find the evidence?\nWe searched for randomised controlled trials that compared drugs, surgery, physiotherapy or other therapies for OSF with a placebo or no active treatment. We combined the results and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified 30 randomised trials that together included 2,176 adults with biopsy‑confirmed OSF. The trials tested many approaches – medicines taken by mouth, injections, creams, physiotherapy, ultrasound and other alternative methods – and usually compared them with a placebo or no treatment.\nAntioxidants may increase mouth opening a little when measured less than three months after treatment, and probably increase it a bit more at three to six months. After six months, antioxidants probably make little or no difference to mouth opening. Antioxidants probably cause a large reduction in burning sensation both in the short term and over longer periods. Pentoxifylline may increase mouth opening slightly. For most other treatments, we are not sure whether they help or cause any harm.\nWe have moderate‑confidence evidence for antioxidants and low‑ or very‑low‑confidence evidence for all other interventions.\n\nWhat are the limitations of the evidence?\nWe have little confidence in many results because participants often knew which treatment they received, the studies were very small, and the studies involved different types of people and different ways of delivering the interventions.\n\nHow current is the evidence?\nWe searched for studies up to 5 September 2022, so the findings reflect research published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 662,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.35483870967742,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 76,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.80304112659587,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.757420329402596,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.512827209823605,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.858610271903324,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.396920378130787,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.96208946496442,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.32258064516129,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.445523142259598,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.523082175226586,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 271,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 271.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 130,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 130.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 662,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 7,
+      "P75_count": 4,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:47.862526"
+}

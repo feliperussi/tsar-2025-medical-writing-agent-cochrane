@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012361.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Is dexmedetomidine (a medicine that helps with pain and sedation) safe and effective for pain relief and sedation in newborn babies on mechanical ventilation (a machine that helps them breathe)?\n\nKey messages:\n- We did not find enough good-quality evidence to determine if dexmedetomidine is safe and effective for pain relief and sedation in newborn babies on mechanical ventilation.\n- Dexmedetomidine is increasingly being used in children and infants, but there is no information available on its long-term effects, and data on its safety are scarce.\n- Future studies should investigate the efficacy, safety, and long-term effects of dexmedetomidine for sedation and analgesia (pain relief) in newborn infants.\n\nWhat is the problem of sedation and analgesia in newborn infants on mechanical ventilation?\nNewborn infants who require mechanical ventilation often need sedation and analgesia to reduce their discomfort and stress. Currently, morphine or stronger opioids are commonly used for this purpose, but they can have significant side effects. Dexmedetomidine is a type of medicine that helps with pain and sedation.\n\nWhat did the review authors want to find out about dexmedetomidine for sedation and analgesia in newborn infants?\nThe review authors aimed to determine the overall effectiveness and safety of dexmedetomidine for sedation and analgesia in newborn infants receiving mechanical ventilation compared to other non-opioids, opioids, or placebo.\n\nHow did the review authors search for evidence?\nWe searched MEDLINE, Embase, and Cochrane CENTRAL for randomized and quasi-randomized trials that compared dexmedetomidine with other sedatives or placebo in newborn infants receiving mechanical ventilation.\n\nWhat were the inclusion criteria for the studies?\nIncluded studies enrolled neonates on invasive ventilation, compared dexmedetomidine to any other sedative agent or to placebo, and reported at least one clinical outcome.\n\nWhat did the review authors find?\nWe found no eligible studies for inclusion. However, we identified four ongoing studies that will provide information on the efficacy and safety of dexmedetomidine for sedation and analgesia in newborn infants on mechanical ventilation.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because there are not enough studies to be certain about the results of our outcomes.\n\nIs the evidence up to date?\nThe evidence is up to date to September 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 389,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.473684210526315,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 27,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 118,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 31.64289947233121,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 31.6 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.932011906372619,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.434451359761873,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.499537275064263,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.36942227032878,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 58.26288729535922,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.7368421052631575,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.266548721417941,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 154,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 389,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 389 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 4,
+      "P75_count": 10,
+      "P90_count": 1,
+      "P10_count": 1,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:08.833966"
+}

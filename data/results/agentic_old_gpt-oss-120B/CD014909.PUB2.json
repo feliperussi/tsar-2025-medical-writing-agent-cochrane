@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014909.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does cleaning the bowel with a laxative and oral antibiotics before planned colon or rectal surgery reduce infections and leaks?\n\nKey messages\n- Combining mechanical bowel preparation (cleaning the bowel with a laxative solution) and oral antibiotic bowel preparation (taking antibiotics by mouth) probably lowers surgical site infections (infections at the incision) and leaks where the bowel is rejoined. The evidence is of moderate quality, but side‑effect data are scarce, so harms remain unclear.\n- When we compare the combined approach with oral antibiotics alone or with no bowel preparation, the few available studies are low quality, so we cannot tell whether the combined method adds benefit or risk.\n- Future research should test larger, well‑designed trials that compare the combined preparation with oral antibiotics alone and with no preparation, and that record side effects such as dehydration (excessive loss of water from the body) or electrolyte imbalance (disturbance of body minerals).\n\nWhy are infections and leaks after colorectal surgery a problem?\nWhen surgeons remove part of the colon or rectum in planned surgery, the most serious problems are infections at the cut site and leaks where the two ends of the bowel are sewn together. Both problems make recovery longer, may need extra operations, and can affect health for years.\n\nWhat preparation methods are used before colorectal surgery?\nDoctors try to clean out the bowel to lower the number of bacteria that could cause infection. They can use:\n- Mechanical bowel preparation (MBP): the patient drinks a special solution that flushes stool out of the colon.\n- Oral antibiotic bowel preparation (oAB): the patient takes antibiotics by mouth to kill gut bacteria.\n- Combined MBP + oAB: both the flushing solution and oral antibiotics together.\n\nWhat did we aim to find out?\nWe wanted to know whether giving patients both a laxative and oral antibiotics before planned colorectal surgery reduces the risk of postoperative (after surgery) complications—especially surgical site infections and leaks at the join—compared with using only one method or none at all.\n\nHow did we find the evidence?\nWe searched multiple electronic databases for studies that compared the combined preparation with other regimens in adults undergoing planned colorectal surgery. We included randomised or observational trials that reported these outcomes. We pooled data using meta‑analytic methods and rated confidence with the same criteria (GRADE) that assess bias, inconsistency, indirectness, imprecision and publication bias. We searched up to December 2021.\n\nWhat did we find?\nWe identified 21 randomised controlled trials that together included 5,264 adults having planned colorectal surgery, usually for cancer or benign conditions. All participants also received standard intravenous (into a vein) antibiotics around the time of surgery. Compared with a laxative alone, the combined preparation probably reduces surgical site infections by about 44 % (roughly four fewer infections per 100 patients) and reduces leaks at the join by about 40 % (about four fewer leaks per 100 patients). The combined approach probably makes little or no difference to death rates, postoperative ileus (temporary bowel slowdown) or length of hospital stay. Compared with oral antibiotics alone, the combined preparation may make little or no difference to infections, leaks, death, ileus or stay. Evidence comparing the combined method with no bowel preparation is uncertain.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the results, but many studies did not blind participants, and side‑effect reporting was scarce. This limits our ability to judge harms such as dehydration or electrolyte imbalance.\n\nHow current is the evidence?\nWe searched up to December 2021, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 620,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.379310344827587,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 38.449516129032276,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.207608453837597,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.029961624026697,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.490516129032258,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.229143492769747,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.31479421579533,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.827586206896552,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.328828005937952,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.547929922135708,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 294,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 294.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 150,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 150.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 198,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 198.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 620,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 620 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:05.282486"
+}

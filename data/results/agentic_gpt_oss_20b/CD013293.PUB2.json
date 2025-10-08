@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013293.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "\"What treatment (surgery, clot‑removing, or clot‑dissolving) is most effective for a blocked dialysis access (arteriovenous fistula (direct artery‑vein connection) or graft (tube linking artery and vein))?\"\n\nKey messages\n- We could not find evidence that any one of surgery, clot‑removing (mechanical thrombectomy) or clot‑dissolving (thrombolysis) works better for a blocked dialysis access. The studies showed no clear advantage for keeping the access open, preventing failure, or avoiding side‑effects, and harms were rarely reported.\n- Most trials were small, had design problems, and were at high risk of bias, so our confidence in the findings is low. Important outcomes such as death, access dysfunction, successful dialysis, and patient‑reported measures were seldom measured.\n- Larger, well‑designed studies that directly compare these treatments and report both benefits and harms over longer periods are needed.\n\nWhy is a blocked dialysis access a problem for people who need haemodialysis?\nPeople with kidney failure often need haemodialysis, a treatment that cleans the blood using a vascular access. The most common accesses are an arteriovenous fistula (AVF) – a direct connection made by surgeons between an artery and a vein – and an arteriovenous graft (AVG) – a short piece of plastic tube that links the artery and vein. Over time a clot (thrombosis) can block the connection. When this happens the patient can no longer use the fistula or graft and must rely on a temporary tube called a catheter. Catheter use carries higher risks of infection, blockage of larger veins, and repeated hospital stays. Because a working access is essential for life‑sustaining dialysis, finding the best way to clear a blocked fistula or graft is a major clinical concern.\n\nWhat did the review aim to discover about treatments for blocked dialysis access?\nWe compared three ways doctors try to restore a blocked AVF or AVG: (1) mechanical thrombectomy – a device that physically pulls the clot out; (2) thrombolysis – medicine that dissolves the clot; and (3) surgery – repairing or re‑connecting the access. We asked which approach keeps the access open (primary patency), how often the procedure succeeds technically, and what the risks of serious or minor complications are.\n\nHow did we find and evaluate the studies?\nWe searched the Cochrane Kidney and Transplant Register and related databases up to 28 January 2024. We looked for randomised or quasi‑randomised trials that tested any of the three treatments in people receiving haemodialysis with a thrombosed AVF or AVG. Two reviewers extracted data and assessed risk of bias. We combined results using a random‑effects model and rated confidence in the evidence with the GRADE approach.\n\nWhat did we find?\nWe identified 14 eligible trials that together enrolled 1 176 participants. The trials compared various mechanical thrombectomy techniques, different thrombolytic approaches, and surgical procedures. The studies did not report participants’ ages, gender, severity of the clot, follow‑up length, location, or funding sources. Most trials had a high risk of bias because of small sample sizes, poor design, and industry involvement. The pooled data did not show a clear benefit for any treatment in reducing access failure, improving primary patency at 30 days, achieving technical success, or lowering adverse events. In other words, we do not know which method is better or safer for people with a blocked dialysis access.\n\nWhat are the limitations of the evidence?\nMany studies were very small and may have allowed participants or clinicians to know which treatment was given, which can bias results. Important outcomes such as death, access dysfunction, successful dialysis sessions, and patient‑reported outcomes were rarely measured. Because of these limitations, our confidence in the findings is low.\n\nHow up‑to‑date is the evidence?\nThe search covered studies published up to January 2024, so the evidence reflects the literature available at that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 635,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.483870967741936,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.75127254254511,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.408788417576837,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.538612649225293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.127118110236218,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.390398780797565,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.56261112522225,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.161290322580645,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.600173228346456,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 305,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 305.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 146,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 146.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 635,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 635 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:56.115397"
+}

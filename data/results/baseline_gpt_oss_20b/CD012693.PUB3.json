@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does tailoring the dose of fertility medicine (gonadotropins) based on ovarian tests improve pregnancy chances?\n\nKey Messages:\n- Adjusting the dose of fertility medicine according to ovarian test results may lead to a modest increase in the chance of having a baby, but the confidence in this benefit is limited.\n- The approach does not appear to raise the risk of serious side effects such as ovarian hyperstimulation syndrome, yet the certainty about safety remains low.\n- More research is needed to confirm these findings and to determine the best way to use ovarian tests for dose decisions.\n\nPlain Language Summary:\nWomen undergoing fertility treatment often receive medicines called gonadotropins to stimulate the ovaries to produce eggs. The amount of medicine given can be the same for everyone (a standard dose) or it can be adjusted based on information from tests that look at how the ovaries are likely to respond (ovarian reserve tests). This summary looks at what we know about whether changing the dose based on those tests helps more women achieve a live birth, which means giving birth to a baby who survives the first month of life.\n\nThe evidence comes from many studies that together included thousands of women. Most of these studies compared a standard dose of gonadotropins with a dose that was either higher or lower depending on the results of ovarian tests. The overall picture suggests that using test‑guided dosing may give a small advantage in the chance of having a baby compared with giving everyone the same dose. However, the studies varied in how they measured outcomes and in the specific ways they adjusted the dose, so we cannot be very certain about the size of the benefit.\n\nIn terms of safety, the studies reported few serious problems. The most important safety concern with gonadotropins is ovarian hyperstimulation syndrome, a condition where the ovaries become overly enlarged and fluid can leak into the abdomen. The available data do not show a clear increase in this risk when doses are adjusted based on ovarian tests, but the number of events was small, and the evidence is not strong enough to rule out a possible difference.\n\nBecause the current research is limited in quality and consistency, we have only limited confidence in these conclusions. The findings point toward a possible benefit of personalising the dose, but they also highlight the need for larger, well‑designed studies that use clear definitions of outcomes and report side effects comprehensively. Future research should also explore which specific ovarian tests are most useful for guiding dose decisions and whether certain groups of women, such as those with very low or very high ovarian reserve, might benefit more from a tailored approach.\n\nFor women and clinicians considering how to dose gonadotropins, the take‑away message is that a test‑guided strategy might improve the chance of a successful pregnancy without adding obvious safety concerns, but the evidence is not definitive. Discussing the potential benefits and uncertainties with a fertility specialist can help decide whether a personalized dosing plan is needed for an individual’s situation.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 522,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 27.473684210526315,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.5 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 37.625072595281324,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.836614236741283,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 15.559083484573499,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.150881226053638,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.571849163137728,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.6 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 58.1250252066949,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 8.421052631578947,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.473001250252067,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 202,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 522,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 522 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:17.502584"
+}

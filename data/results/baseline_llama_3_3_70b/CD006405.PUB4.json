@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006405.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "## Plain Language Summary Title\nWhat are the benefits and harms of nasal high flow therapy for primary respiratory support in preterm infants?\n\n## Key Messages\n* Nasal high flow therapy may result in little to no difference in death or bronchopulmonary dysplasia compared to other forms of non-invasive respiratory support, but the evidence is not strong. \n* Nasal high flow therapy likely results in an increase in treatment failure within 72 hours of starting treatment, but it likely does not increase the need for mechanical ventilation. \n* Future research should focus on the use of nasal high flow therapy in extremely preterm infants, as there is currently a lack of evidence in this population.\n\n## Introduction to the review topic and review aims\nWhat is nasal high flow therapy?\nNasal high flow therapy provides heated, humidified air and oxygen through two small nasal prongs. It is commonly used to help preterm babies breathe. Preterm babies are born before 37 weeks of pregnancy and may have trouble breathing on their own.\n\nWhy is nasal high flow therapy used?\nNasal high flow therapy is used to help preterm babies breathe and to prevent complications such as bronchopulmonary dysplasia. It may be used instead of or in addition to other forms of respiratory support, such as continuous positive airway pressure (CPAP) or mechanical ventilation.\n\nWhat did we want to find out?\nWe wanted to find out if nasal high flow therapy is better or worse than other forms of non-invasive respiratory support for preterm infants. We also wanted to know if it increases the risk of complications such as treatment failure, mechanical ventilation, or nasal trauma.\n\n## What did we do?\nWe searched for studies that compared nasal high flow therapy to other forms of non-invasive respiratory support in preterm infants. We found 13 studies that included 2540 infants. We combined the results of these studies to see if nasal high flow therapy is better or worse than other forms of respiratory support.\n\n## What did we find?\nNasal high flow therapy may result in little to no difference in death or bronchopulmonary dysplasia compared to CPAP. However, it likely results in an increase in treatment failure within 72 hours of starting treatment. Nasal high flow therapy likely does not increase the need for mechanical ventilation. It also likely results in less nasal trauma and pneumothorax compared to CPAP.\n\n## What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had unclear or high risk of bias. The evidence is also limited because few extremely preterm infants were included in the studies.\n\n## How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 494,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.76,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 128,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.796008906882605,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.246359514170045,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.78801619433198,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.340566801619431,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.057846153846155,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.08793522267207,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.1104335791443,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.349974542510122,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 76,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 494,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 494 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:27.657486"
+}

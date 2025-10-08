@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007546.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best ways to reduce the use of physical restraints for older people in long-term care settings?\n\n- Changes to how care homes are organised to use as few restraints as possible probably reduce the use of physical restraints like bedrails or belts. The studies found this approach did not cause harm.\n- We are uncertain if simple educational programs for staff reduce the use of physical restraints. Giving staff information about residents' risk of falling may also make little to no difference in the use of physical restraints.\n- Future studies should look at the long-term effects of these approaches and see how well they work for people receiving care at home.\n\nWhat is the problem of physical restraints in long-term care settings?\nPhysical restraints, such as bedrails and belts in chairs or beds, are commonly used for older people receiving long-term care. However, there is clear evidence that physical restraints are not effective and can be harmful. Despite this, they are still widely used in care homes and other long-term care settings. This can lead to serious adverse events, such as death or serious injuries, and can also have a negative impact on the quality of life of older people.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the effects of interventions to prevent and reduce the use of physical restraints for older people who require long-term care. They aimed to find out which types of interventions are most effective in reducing the use of physical restraints and whether these interventions can also improve the quality of life and reduce the risk of adverse events for older people in long-term care settings.\n\nHow did we conduct this review?\nWe searched for studies on ways to prevent and reduce the use of physical restraints for older people in long-term care, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 11 studies involving 19,003 people, with an average age of 85. All studies took place in long-term care homes and included people with dementia.\n\nThe studies tested three types of approaches:\n- Changes to the care home's policies and organisation.\n- Simple education for staff.\n- Giving staff information about residents' risk of falling.\n\nWe found that changing a care home's policies to use fewer restraints probably works. These changes likely reduce the use of all restraints, and especially belts. We are uncertain if simple educational programs for staff reduce restraint use, and giving staff information on fall risk may make little to no difference.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies may not have been blinded, the sample sizes were very small, and the studies involved different types of participants and varied methods of delivering the intervention.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 519,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.896551724137932,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 53,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.27462427745668,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.60083050960069,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.22602152680885,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.646165703275528,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.399468473855558,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.36668659889709,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.379310344827586,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.246211251235321,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.8507518171550075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 68,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 127,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 519,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 519 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:20.011954"
+}

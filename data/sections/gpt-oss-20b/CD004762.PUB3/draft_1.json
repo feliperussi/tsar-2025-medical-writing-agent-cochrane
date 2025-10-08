@@ -1,0 +1,162 @@
+{
+  "id": "CD004762.PUB3",
+  "draft": "analysisWe need to assemble plain language summary with formatting rules: Title as Heading (maybe just plain line? No markdown). Main sections as **Bold Headings** (but we cannot use markdown? The instruction says no markdown, but they want bold headings maybe using plain text with asterisks? The earlier spec: \"Title as `Heading`.\" \"Main sections as `**Bold Headings**`.\" That suggests using double asterisks to indicate bold, which is markdown. But they say no markdown. However they likely mean no markdown formatting beyond the specified asterisks. We'll follow exactly: Title as Heading (just plain line). Then sections with **Bold Headings**. Use list with dashes. Include subheadings as given.\n\nWe must not add, remove, rephrase. Just assemble.\n\nComponents order: Title, Key messages, Introduction/Aims, Methods, Results, Limitations, Currency.\n\nKey messages is an array of three strings. We'll list each preceded by dash.\n\nIntroduction/Aims contains two subheading objects. We'll include subheading and content.\n\nMethods: one subheading.\n\nResults: two subheadings.\n\nLimitations: single string.\n\nCurrency: single string.\n\nWe need to ensure line breaks appropriate.\n\nLet's assemble:\n\nTitle line: How effective and safe are medicines for treating muscle stiffness (myotonia) in people with myotonic disorders (muscle‑stiffness conditions)?\n\nThen **Key messages** heading? Actually main sections are Title, Key messages, Introduction/Aims, Methods, Results, Limitations, Currency. So each main section heading should be bold. So after title, we put **Key messages** then list.\n\nThen **Introduction/Aims** then subheadings.\n\nSubheadings likely just as given, maybe plain text with colon? The subheading field is \"What is myotonia and why is it a problem?\" and \"What did the researchers want to find out?\" We'll include them as subheadings maybe preceded by a line break and the subheading text, then content.\n\nNo markdown, but we can keep subheadings as plain lines.\n\nProceed.\n\nMake sure to keep line breaks.\n\nLet's craft final text.How effective and safe are medicines for treating muscle stiffness (myotonia) in people with myotonic disorders (muscle‑stiffness conditions)?\n\n**Key messages**\n- Medicines such as mexiletine (a sodium‑channel‑blocking drug) appear to lessen muscle stiffness (myotonia) in people with non‑dystrophic myotonia (a genetic muscle‑channel disorder), but they do not show clear benefit for stiffness in myotonic dystrophy (a systemic muscle disease); common side effects (adverse events) include stomach upset, tiredness and headache, and overall the evidence is limited.\n- Other drugs that have been tested, such as lamotrigine (a sodium‑channel‑blocking drug), may improve how quickly muscles relax (relaxation time) and may improve overall wellbeing (quality of life), but the evidence is uncertain and the studies were small; many other agents showed little or no effect.\n- Because most trials involved few participants and short follow‑up (the period of observation after treatment), larger, well‑designed studies are needed to determine which medicines work best, who may not respond, and the long‑term safety of these treatments.\n\n**Introduction/Aims**\nWhat is myotonia and why is it a problem?\nMyotonia is a condition where the muscles take longer than normal to relax after a movement, leading to stiffness, cramps, sudden \"locking\" of the muscles, pain and fatigue. It occurs in two main groups of disorders:\n\n* **Non‑dystrophic myotonia** – a genetic problem that mainly affects the muscle’s ion channels (the tiny gates that control electrical signals in muscle cells) and causes muscle stiffness without the other organ problems seen in dystrophic forms.\n* **Myotonic dystrophy** – a more widespread disease that also involves muscle weakness, heart rhythm problems, cataracts and other systemic issues, in addition to myotonia.\n\nThese symptoms can be disabling, making everyday tasks such as walking, writing or climbing stairs difficult and reducing quality of life. Several medicines have been tried to ease the stiffness, including drugs that block sodium channels (e.g., mexiletine), tricyclic antidepressants, benzodiazepines, calcium‑channel blockers, taurine and steroids, but the evidence for how well they work and how safe they are has been unclear.\n\n*Explanation of jargon:*\n- **Ion channels** are proteins that let charged particles move in and out of cells, helping muscles contract and relax.\n- **Sodium channel blockers** are medicines that reduce the flow of sodium ions, which can calm the over‑excitable muscle cells that cause myotonia.\n\nWhat did the researchers want to find out?\nThe review authors set out to answer two questions:\n1. **How effective are drug treatments at reducing the muscle stiffness that people with myotonia experience?** They looked for studies that measured patients’ own reports of improvement in myotonia.\n2. **How well are these drugs tolerated?** They examined the frequency and type of side‑effects reported in the trials.\n\nTo do this, they gathered all randomised controlled trials (the most reliable type of study) that compared any drug used for myotonia with a placebo, no treatment, or another active drug, and evaluated the quality of the evidence.\n\nThe goal was to provide clear, up‑to‑date information for clinicians and patients about which medicines are likely to help and what risks they might carry.\n\n**Methods**\nWhat did we do?\nWe searched for studies that tested drug treatments for myotonia, combined their findings on effectiveness and side‑effects, and rated our confidence in the evidence using standard criteria.\n\n**Results**\nWhat did we find?\nWe identified 17 double‑blind or single‑blind randomised controlled trials that together enrolled 392 people with myotonia (219 had myotonic dystrophy type 1 and 173 had non‑dystrophic myotonia). The trials were small (9 to 59 participants each) and generally at high risk of bias. They compared a range of drug treatments – most often mexiletine and lamotrigine – with placebo or other active drugs. Other agents that were tested in these small studies included phenytoin, imipramine, procainamide, clomipramine, nifedipine, tocainide, diazepam, quinine, diphenylhydantoin and taurine. The abstract does not give details about how long participants were followed, their ages, gender, severity of disease, the countries where the studies were carried out, or who funded the research. No randomised trials were found for several drugs that have been suggested for future research, such as acetazolamide, flecainide, ranolazine and lacosamide.\n\nMain results: Effects of mexiletine and lamotrigine\nMexiletine probably reduces myotonia in people with non‑dystrophic myotonia and probably improves hand‑grip strength slightly. It also probably reduces EMG‑measured myotonia and may improve quality of life in this group. In people with myotonic dystrophy, mexiletine probably shortens hand‑grip relaxation time but makes little or no difference to overall clinical myotonia or quality of life. Mexiletine may cause side‑effects such as gastrointestinal upset, lethargy and headache.\n\nLamotrigine may improve relaxation time and probably improves quality of life in people with non‑dystrophic myotonia, but it probably increases side‑effects like headache, fatigue and rash. The evidence for other medications is unclear.\n\n**Limitations**\nWe are moderately confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, not all of the studies provided data about everything that we were interested in, and because the studies were very small.\n\n**Currency**\nThis review updates our previous review. The evidence is up to date to March 2023 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1215,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 83,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 14.63855421686747,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 29,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 120,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 74,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 360,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 360.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 60.933904506916576,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.396896226882841,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.741499330655959,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.706831275720166,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.184639793742873,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.078883434974465,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.602409638554217,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 18.264337522473745,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.3 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.678870643066093,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 535,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 535.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 253,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 382,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 382.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 1215,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 1215 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft does not meet the mandatory style and length requirements. 1) Several section headings are not phrased as questions (e.g., \"Main results: Effects of mexiletine and lamotrigine\", \"Limitations\", \"Currency\"), which violates the Master Style Guide. 2) The total word count is 1,215 words, exceeding the 850‑word limit for a Plain Language Summary. 3) The text contains excessive passive constructions (29 instances, far above the typical 9‑23 range) and a high level of nominalisation (31 instances) and noun density (360 nouns), making it harder for lay readers. 4) The draft also uses many long, complex words (382 long words, 253 complex words, SMOG index 18.3) which pushes the reading level well above the target grade‑12 range. These issues together create a summary that is too long, too technical, and not formatted as required, so it cannot be approved in its current form.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is well within the lower quartile for readability indices (e.g., Flesch‑Kincaid Grade 8.4, Flesch Reading Ease 60.9) but far exceeds typical limits for passive voice, nominalisation, noun count, SMOG index, complex and long words. These deviations indicate the text is overly dense and technical, contributing to the word‑count overflow and reduced clarity for patients."
+    }
+  ]
+}

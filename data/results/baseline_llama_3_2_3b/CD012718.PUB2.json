@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012718.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**Is topical silver diamine fluoride (SDF) effective for preventing and managing dental caries in children and adults?**\n\n**What are the benefits and risks of SDF for preventing and managing dental caries?**\n\n* SDF may help prevent new caries in the primary dentition and root caries in adults, but the evidence is very uncertain.\n* SDF likely prevents new root caries.\n* SDF may help arrest caries in the primary dentition and the permanent dentition, but the evidence is very uncertain.\n* The evidence is very uncertain for secondary prevention of caries in the primary dentition and in all caries outcomes for coronal surfaces of permanent dentition.\n\n**What did we do?**\n\nWe searched CENTRAL, MEDLINE, Embase, Cochrane Oral Health's Trial Register, and two clinical trials registers in June 2023.\n\n**What did we find?**\n\nWe included 29 RCTs (13,036 participants; 12,020 children, 1016 older adults). All studies included high risks of bias, and some findings were imprecise (e.g., because of small sample sizes).\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to June 2023.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain due to high risks of bias and imprecision. We were unable to establish whether one SDF treatment approach was better than another or how SDF compared to other treatments because of very low-certainty evidence. The impact of SDF staining of teeth was poorly reported and the evidence for adverse effects is very uncertain.\n\n**How accurate are rapid swab tests for strep throat in children?**\n\nWe did not find enough good-quality evidence to answer this question.\n\n**What should happen next?**\n\nAdditional well-conducted studies are needed to measure the impact of SDF staining of teeth and to analyze the results to take account of clustering issues within participants.\n\nNote: I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please note that this is a machine-generated summary and may not be perfect. It's always best to have a human reviewer check the summary for accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 386,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.451612903225806,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 94,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.13236419856264,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.546958047802107,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.503293498245029,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.92259067357513,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.44178505766338,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.726224302189536,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.6451612903225805,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.717797887081348,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.589983419689119,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 146,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 113,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 386,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 386 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 6,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:45.647286"
+}

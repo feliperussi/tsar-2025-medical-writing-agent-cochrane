@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013445.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title:\nIs percutaneous kidney stone removal (PCNL) better than ureteroscope surgery (RIRS) for adults with kidney stones?\n\nKey messages:\n- PCNL may clear stones more often than RIRS, but it can cause more short‑term pain and a higher chance of needing a repeat procedure.\n- RIRS may lead to fewer immediate problems and a quicker return to normal activities, but it might leave more stone fragments behind.\n- We are fairly sure about the difference in stone‑clearing success, but we are less sure about the exact size of the side‑effects because the studies were not all the same.\n\nIntroduction to the review topic and aims:\nWhy do we need to compare these two ways of treating kidney stones?\nKidney stones can block the flow of urine and cause severe pain. Doctors can either make a small cut in the back to reach the stone (PCNL) or use a thin tube passed through the urethra and bladder to the kidney (RIRS). Both methods aim to remove the stone, but they work in different ways and may have different benefits and harms.\nWhat did the review set out to find?\nThe review looked at whether PCNL or RIRS is better at making patients stone‑free, how often patients need another operation, and what short‑term problems each method might cause.\n\nWhat did we do?\nWe searched medical research databases for studies that directly compared PCNL with RIRS in adults. Two reviewers checked each study for relevance, pulled out the important numbers, and judged how reliable the studies were.\n\nWhat did we find?\nStudy characteristics:\nWe found three studies that together included about 600 adults with kidney stones. All participants were treated in hospitals that had experience with both PCNL and RIRS. The studies reported how many patients were stone‑free after the first treatment, how many needed another treatment, and what short‑term problems (like pain, bleeding, or infection) occurred.\nMain results:\n- Stone‑free rates: In the studies, PCNL cleared stones in most patients, while RIRS left a few more stone pieces behind. This suggests PCNL may be more effective at making patients stone‑free.\n- Need for repeat procedures: Because RIRS sometimes left stone fragments, a few more patients in the RIRS groups needed another operation compared with PCNL.\n- Short‑term harms: Patients who had PCNL reported more pain right after the surgery and a slightly higher chance of bleeding that required extra care. RIRS patients generally had milder discomfort and fewer bleeding problems.\nOverall, the evidence points to PCNL being better at removing stones completely, but it also comes with a higher chance of short‑term pain and bleeding. RIRS appears gentler on the body but may not clear the stone as thoroughly, leading to more follow‑up procedures.\n\nWhat does this mean for patients and doctors?\nIf the main goal is to get rid of the stone in one go, PCNL might be the preferred choice, especially for larger stones. However, if a patient is worried about pain after surgery or wants a quicker recovery, RIRS could be a reasonable alternative, keeping in mind that another procedure might be needed later.\nWhat should happen next?\nDoctors should discuss both options with patients, explaining the trade‑off between a higher chance of being stone‑free and the possibility of more immediate discomfort. More research that follows patients for a longer time would help clarify how often repeat procedures are needed after each method and whether the short‑term harms have any lasting effects.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 591,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.107142857142858,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.44982868020304,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.65295322697607,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.458038433647573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.43174280879865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.24827169446459,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.61137297558618,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.06225774829855,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.390399903311579,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 200,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 71,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 591,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 591 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:19.578176"
+}

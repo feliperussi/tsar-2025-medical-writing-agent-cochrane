@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does lowering blood pressure reduce the risk of diabetic eye disease (diabetic retinopathy)?\n\nKey messages  \n- Lowering blood pressure probably cuts new cases of diabetic retinopathy (damage to small blood vessels in the retina that can cause vision loss) by about 15‑20 % over five years, especially in people with type 2 diabetes who already have high blood pressure.  \n- The approach does not clearly slow worsening of existing disease, prevent the most serious eye problems such as proliferative retinopathy (advanced stage with new abnormal blood vessels) or macular edema (swelling of the macula), nor protect visual acuity (sharpness of vision).  \n- More high‑quality, longer‑term trials are needed in people with normal blood pressure (normotensive) to confirm benefits and to understand harms such as hypotension (abnormally low blood pressure).\n\nWhat is diabetic retinopathy and why does it matter?  \nDiabetic retin the eye occurs when diabetes damages the tiny vessels that supply the retina. Over time the damage can blur vision, cause swelling, or lead to sight‑threatening bleeding. Preventing or delaying this damage is a key goal for people with diabetes.\n\nWhat did we look for and how did we find the studies?  \nWe searched electronic databases for randomised controlled trials that compared more intensive blood‑pressure control (tighter targets, antihypertensive medicines, or specific drug classes) with less intensive control, usual care, or placebo in people with diabetes. We included trials that reported new cases of diabetic retinopathy, progression of existing disease, or related eye complications. Two reviewers extracted data and pooled results using meta‑analysis. We judged certainty with the GRADE framework, considering risk of bias, inconsistency, indirectness, imprecision and publication bias.\n\nWhat did we find?  \nWe identified 29 trials that enrolled 27 185 participants (4 620 with type 1 diabetes and 22 565 with type 2 diabetes). Follow‑up ranged from less than one year to nine years. Trials recruited both hypertensive (high blood pressure) and normotensive participants.  \n\nMain results  \n- More intensive blood‑pressure control probably reduces the chance of the retina disease developing over five years. If 100 people would develop retinopathy without intensive control, about 15‑20 fewer will develop it with intensive control.  \n- Evidence is uncertain whether intensive control reduces the combined chance of developing or worsening retinopathy.  \n- Intensive control probably makes little or no difference to the progression of existing retinopathy.  \n- Intensive control may make little or no difference to the risk of advanced eye problems such as proliferative retinopathy, macular edema, or bleeding inside the eye.  \n- It is unclear whether intensive control affects loss of visual acuity.  \n- Intensive control probably reduces overall death slightly.  \n- Intensive control may increase the chance of experiencing hypotension.\n\nOverall certainty was moderate for most outcomes, meaning the findings are fairly reliable but could change with new research.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the evidence, but several factors reduce certainty:  \n- Studies involved diverse populations and varied treatment methods.  \n- Many trials were small, and some outcomes were reported by few studies.  \n- Participants often knew which treatment they received, which could influence results.  \n- Not all studies provided all the data we needed.\n\nHow current is the evidence?  \nThe evidence is up to 2021‑09.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 554,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.78787878787879,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.38808281369657,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.680738431243846,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.692477300076575,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.059711191335737,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.606848266054044,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.62542391423258,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.848484848484849,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.87262463625424,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 247,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 137,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 137.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 554,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 554 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:50.789046"
+}

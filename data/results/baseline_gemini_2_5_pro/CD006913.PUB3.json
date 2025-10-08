@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006913.PUB3",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Can talking therapies and other psychological support help people with inflammatory bowel disease (IBD)?\n\n**Key messages**\n\n– For adults with inflammatory bowel disease (IBD), a long-term condition that causes swelling in the gut, psychological support probably improves quality of life slightly. It also probably helps to slightly reduce feelings of depression and anxiety. It is not clear if this support affects how active the disease is.\n\n– For children and teenagers with IBD, talking therapies probably improve their quality of life. We do not have enough information to know about other effects or other types of psychological support for this age group.\n\n– The studies we found used many different types of psychological support. This makes it hard to know which parts are most helpful. Future research should try to find out which types of support work best for people with IBD.\n\n**What is inflammatory bowel disease (IBD)?**\n\nInflammatory bowel disease, or IBD, is a long-term condition where parts of the gut become swollen, sore, and ulcerated. The two main types are Crohn's disease and ulcerative colitis. Living with IBD can be difficult and affect a person's daily life, mood, and mental well-being. People with IBD are more likely to experience problems like anxiety and depression.\n\nBecause the mind and body are connected, it is thought that psychological support might help people with IBD. This support can include talking therapies (psychotherapy), learning more about the condition (patient education), or using relaxation techniques.\n\n**What did we want to find out?**\n\nWe wanted to find out if psychological support helps people with IBD by:\n– improving their quality of life;\n– reducing feelings of depression and anxiety;\n– reducing how active their disease is (for example, having fewer flare-ups).\n\n**What did we do?**\n\nWe searched for studies that compared psychological support with usual care or no extra support for people with IBD. We compared and summarized the results of these studies. We also rated our confidence in the evidence, based on factors like how the studies were done and how many people took part.\n\n**What did we find?**\n\nWe found 48 studies that included 6405 people with IBD. Most of the people in the studies were adults. The studies tested different types of psychological support, including talking therapies, patient education, and relaxation techniques.\n\n**Main results for adults**\n\n– Talking therapies, patient education, and relaxation techniques probably improve quality of life slightly for adults with IBD.\n– These types of support also probably reduce feelings of depression and anxiety slightly.\n– We are not sure if psychological support has any effect on how active the IBD is because the results from different studies were too varied to combine.\n\n**Main results for children and teenagers**\n\n– Talking therapies probably improve quality of life for children and teenagers with IBD.\n– We do not know if talking therapies have an effect on anxiety because the evidence was very uncertain.\n– There was not enough information from the studies to be sure about the effects of patient education or relaxation techniques for children and teenagers.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence is only moderate for most of our findings. This is because the studies we found were often very different from each other, using many types of support, which made it hard to compare them. In some studies, it is possible that people knew which treatment they were getting, which could have affected the results. Also, some of the studies were quite small. For some results, especially for children and teenagers, we have very little confidence in the evidence.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 637,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.44661957090531,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.3043328100471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.25889586603872,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.504678178963893,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.938356881214027,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.84667713239142,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.82051282051282,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.106302878074306,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 254,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 254.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 188,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 637,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 637 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:13.130567"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "**Plain Language Summary Title**  \nIs adding breast ultrasound to mammography better at finding breast cancer in women at average risk?\n\n**Key Messages**  \n- Adding breast ultrasound (a sound‑based scan) to routine mammography finds a few more cancers, but it also leads to many more false‑positive results and more biopsies. No studies showed that this extra testing reduces death from breast cancer.  \n- The evidence is strongest for women with dense breast tissue, where ultrasound plus mammography finds slightly more cancers than mammography alone; for women with less‑dense breasts the benefit is unclear.  \n- More high‑quality, long‑term studies are needed to see whether finding extra cancers early actually saves lives and to understand the balance of benefits and harms.\n\n**What is the problem?**  \n*Why do we screen for breast cancer?*  \nBreast cancer can be treated more successfully when it is found early. Mammography (an X‑ray picture of the breast) is the standard screening test for women who do not have a high‑risk family history.  \n\n*Why consider adding breast ultrasound?*  \nUltrasound uses sound waves to create images of the breast. Some doctors think that using ultrasound together with mammography might catch cancers that mammography alone misses, especially in women whose breasts are dense (have more tissue that looks similar to cancer on an X‑ray). Others worry that the extra test could cause more false alarms, leading to unnecessary biopsies and anxiety.\n\n**What did the researchers want to find out?**  \n*What was the aim of this review?*  \nThe review team wanted to compare two screening approaches:  \n1. Mammography alone, and  \n2. Mammography **plus** breast ultrasound,  \n\nto see which method finds more cancers, whether it changes the type of cancers found, and whether it causes more false‑positive results, unnecessary biopsies, or other harms.\n\n**What did we do?**  \nWe looked for studies that compared these two screening methods in women aged 40‑75 at average risk. We combined the findings from the studies we found and judged how much confidence we could have in the results.\n\n**What did we find?**  \n\n*Study details*  \nWe identified eight studies that together included about 209,000 women. The studies were done in several countries and followed women for one to three years. Most women had dense breasts, and the screening methods used digital mammography, sometimes with newer 3‑D mammography (tomosynthesis), and either handheld or automated ultrasound. Only one study was a randomized trial; the others were observational studies that looked back at existing screening data.\n\n*Main results*  \n\n- **More cancers detected** – We are confident that adding ultrasound **probably increases** the number of cancers found, but only slightly. For every 1,000 women screened, about 2 extra cancers were identified compared with mammography alone.  \n\n- **Fewer interval cancers** – We are moderately confident that the combined approach **probably reduces** cancers that appear between scheduled screens. In groups of 10,000 women, the number of such “interval” cancers was about half as many with the added ultrasound.  \n\n- **Fewer false‑negative results** – We are moderately confident that the combined method **probably reduces** false‑negative results (cases where cancer is missed). In one analysis, false‑negatives fell from about 23 % to 9 % when ultrasound was added.  \n\n- **More false‑positive results** – We are confident that adding ultrasound **probably increases** false‑positive findings. For every 1,000 women who do not have cancer, about 37 more will receive a false‑positive result with the combined test than with mammography alone.  \n\n- **More biopsies** – We are confident that the combined approach **probably increases** the number of women who need a biopsy. For every 1,000 screened women, about 27 more biopsies are performed when ultrasound is added.  \n\n- **Lymph‑node involvement** – We are moderately confident that, among women whose cancer is found, fewer have cancer that has spread to the lymph nodes when ultrasound is used together with mammography.  \n\n- **Type of cancer (invasive vs. non‑invasive)** – The evidence is uncertain, but it suggests that the proportion of invasive cancers found is about the same with or without ultrasound.  \n\nThe benefit of finding more cancers was most evident in women with dense breast tissue, where the combined test **probably increases** detection slightly. In women with less‑dense breasts, the evidence does not clearly show a benefit.\n\n**What are the limitations of the evidence?**  \nWe have little confidence in some of the findings because many of the studies were not randomized, meaning the groups compared might differ in ways other than the screening method. Several studies were small or had methodological problems, and the way the tests were performed varied between studies. These issues make it hard to be sure about the exact size of the benefits and harms.\n\n**How up to date is this evidence?**  \nThe evidence is up to date to May 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 817,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 54,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.12962962962963,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 231,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 231.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.94084942653795,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.960004759961922,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.753541864998418,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.232558139534884,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.955156625413663,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.20062106169817,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.9444444444444446,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.269427669584644,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.340870266104539,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 341,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 341.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 141,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 141.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 213,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 213.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 817,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 817 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:59.315994"
+}

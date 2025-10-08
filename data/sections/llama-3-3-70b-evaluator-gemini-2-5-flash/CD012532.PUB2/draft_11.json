@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "# Are anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) effective for treating glioma (a type of brain tumor)?\n**Key Messages**\n- Anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) may not be effective for treating glioma (a type of brain tumor), with no clear benefits in overall survival (the length of time a person is alive after diagnosis) or progression-free survival (the length of time during and after treatment that a person lives with the disease but it does not get worse), and the evidence for serious unwanted effects (harmful side effects) is uncertain.\n- The current evidence is based on a limited number of studies with significant limitations, and more research is needed to fully understand the potential benefits and harms of these therapies for people with glioma, particularly in terms of long-term effects and outcomes for different subgroups of patients.\n- Future studies should prioritize high-quality research designs, larger sample sizes, and longer follow-up periods to provide more reliable estimates of the effects of anti-PD-1 and anti-PD-L1 therapies for glioma, and to address the remaining uncertainties and unanswered questions in this area.\n**Introduction**\n### What is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of adult glioma, a kind of brain tumor. It has a poor prognosis, with a median survival of only 16 months. The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer. Current treatments have limited effectiveness, and new approaches are needed to improve patient outcomes.\n### What are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors (ICIs) are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, ICIs allow the immune system to target and destroy cancer cells more effectively.\n### What did the review authors want to find out?\nThe review authors wanted to assess the effects of ICIs, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. They aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n**Methods**\n### Methods\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.\n**Results**\n### What did we find?\nWe found seven studies that involved 1953 people with diffuse glioma. The biggest study was in 716 people and the smallest study was in 35 people. Most trials had high risk of bias. The studies were conducted in various settings and countries, although specific details about the countries are not provided. The interventions used were anti-PD-1 and anti-PD-L1 antibodies, including nivolumab and pembrolizumab, which were compared to placebo or other therapies. The population characteristics, such as age and gender, are not explicitly stated in the abstract. The duration of the studies is also not specified. There is no information provided about the funding sources of the studies.\n### Main results: Treatment outcomes for diffuse glioma\nThe review found that nivolumab alone probably has no benefit in treating recurrent glioblastoma multiforme. Anti-PD1 plus bevacizumab may also be ineffective. Neoadjuvant plus adjuvant pembrolizumab may improve overall survival and progression-free survival, but this is based on very low-certainty evidence. In newly diagnosed glioblastoma multiforme, nivolumab plus radiotherapy probably has no benefit. In older participants, adjuvant nivolumab probably offers no benefit.\n**Limitations**\nThe evidence is limited because the studies were very small, participants may have known which treatment they received (potential lack of blinding), and not all studies reported all outcomes of interest.\n**Currency**\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 718,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.933333333333334,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 57,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 220,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.86912906220985,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.249292479108636,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.656610956360261,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.577938718662953,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.261355617455898,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.48486536675952,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.833333333333333,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.224972160321824,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.718611439182917,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 297,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 297.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 138.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 205,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 718,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 718 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is NOT APPROVED due to failures in critical checks regarding subheading format and factual accuracy, as well as significant clarity and style issues. Several subheadings are not phrased as questions, which violates the master style guide. The 'What did we find?' section includes irrelevant information about what was not found in the abstract, which is confusing and unnecessary for a Plain Language Summary. Additionally, the text is noun-heavy and uses complex vocabulary, impacting readability.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate good overall pattern conformity, with 44.4% of features in the best quartile and 27.8% in the median range. However, several metrics show significant deviation from typical PLS patterns. 'Nouns' (220.0) and 'complex_words_dc' (297.0) are BEYOND_P90, indicating an excessive number of nouns and unfamiliar words. 'Smog_index' (14.22), 'complex_words' (138.0), and 'long_words' (205.0) are in the P90 range, suggesting higher grade level readability and too many complex/long words. 'Words_per_sentence' (23.93) and 'passive_voice' (14.00) are in the P75 range, suggesting sentences could be shorter and more active voice could be used."
+    }
+  ]
+}

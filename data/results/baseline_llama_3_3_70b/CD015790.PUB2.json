@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015790.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of self-management interventions for quality of life in adults with visual impairment?\n\n### Key Messages\n- We found that self-management interventions may result in little to no difference in health-related quality of life and vision-related quality of life compared to inactive or active control interventions. The evidence for this finding is not very confident, which means we are not sure about the results.\n- Self-management interventions may not affect the risk of adverse events, but again, the evidence is not very confident.\n- More research is needed to develop better measures of quality of life and to assess the benefits of self-management interventions for people with different stages of vision impairment and those with both vision and hearing impairments.\n\n### Introduction to the review topic and review aims\n#### What is visual impairment?\nVisual impairment is a major health concern that affects many people worldwide, especially older adults. It can lead to difficulties in performing daily activities and may cause psychological problems. There are many ways to manage visual impairment, including self-management interventions. Self-management interventions aim to help people manage their condition and improve their overall well-being.\n\n#### What did we want to find out?\nWe wanted to find out if self-management interventions can help adults with visual impairment to manage their condition, maintain their daily activities, and improve their overall well-being. We compared self-management interventions with inactive or active control interventions in adults with visual impairment.\n\n### What did we do?\nWe searched for studies that compared self-management interventions with inactive or active control interventions in adults with visual impairment. We then summarized and evaluated the results of these studies to find out if self-management interventions are effective in improving quality of life for adults with visual impairment.\n\n### What did we find?\nWe found 20 studies that involved 3151 participants. The studies were conducted in different parts of the world, including Asia, Australia, Europe, and North America. The participants were older adults with a mean age ranging from 60 to 84 years. The self-management interventions included in the studies were diverse and multifaceted. We found that self-management interventions may result in little to no difference in health-related quality of life and vision-related quality of life compared to inactive or active control interventions. We also found that self-management interventions may not affect the risk of adverse events.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were not very consistent, and there were not enough studies to be certain about the results. This means that we are not very sure about the effectiveness of self-management interventions for adults with visual impairment.\n\n### How up to date is this evidence?\nThe evidence is up to date to May 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 516,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 18,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 28.666666666666668,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.7 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 42.4767054263566,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.456279069767444,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.604437984496123,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 11.507674418604648,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.451162790697676,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.5 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 55.604651162790695,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.722222222222222,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.8382038759689925,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 177,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 103,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 516,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 516 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 3,
+      "P75_count": 10,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:38.413836"
+}

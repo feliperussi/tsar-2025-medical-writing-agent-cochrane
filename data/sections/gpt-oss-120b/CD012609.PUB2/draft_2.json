@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "How well does infliximab (a medicine that blocks inflammation) keep Crohn's disease in remission?\n\nWhat are the key messages?\n– Infliximab probably helps keep Crohn’s disease in remission by lowering the chance that symptoms return, compared with no active treatment. The evidence is of moderate certainty, but we cannot tell whether infliximab changes the risk of serious side‑effects because safety data are very uncertain.\n– When we give infliximab together with purine analogues (drugs that suppress the immune system), it probably works better at preventing symptom return than purine analogues alone. Evidence on harms remains unclear. Comparisons with biosimilars (drugs that are very similar to an existing biologic) suggest little difference in effectiveness, but the certainty is lower.\n– More high‑quality studies are needed to clarify long‑term safety, to compare infliximab directly with other active treatments, and to give clearer information for patients and clinicians.\n\nWhat is Crohn's disease and why is it a challenge?\nCrohn's disease is a chronic condition that causes inflammation (swelling and irritation) in the digestive tract. People may experience pain, diarrhoea, weight loss and fatigue. Inflammation can lead to complications such as strictures (narrowing) or fistulas (abnormal connections between organs). The disease often flares up and then settles down, so ongoing treatment is usually required. Even when medicines bring the disease into remission (a quiet phase), many patients later have a clinical relapse (return of symptoms). Preventing relapses is a major treatment goal.\n\nWhat is infliximab and how is it used in Crohn's disease?\nInfliximab is a biologic medicine (a type of drug that targets a specific part of the immune system). It is a monoclonal antibody that binds to tumour necrosis factor‑alpha (TNF‑α), a protein that drives inflammation. By neutralising TNF‑α, infliximab reduces inflammation and helps keep disease in remission. We give the drug by infusion (slow injection into a vein) or, in some versions, by subcutaneous injection (under the skin). It can be used alone or together with other medicines such as purine analogues.\n\nWhat did the review aim to find out?\nWe wanted to know whether infliximab is effective and safe for maintaining remission in Crohn's disease. Specifically, we examined whether infliximab lowers the chance of clinical relapse compared with placebo (no active drug) or other active treatments. We also looked at loss of clinical response, endoscopic relapse (return of disease seen during a scope examination), and withdrawals because of serious or any adverse events.\n\nHow did we find the evidence?\nWe searched several databases (CENTRAL, Embase, MEDLINE, ClinicalTrials.gov, WHO ICTRP) up to June 2023. We selected randomised controlled trials that compared infliximab with placebo or another active treatment for maintenance of remission. Two reviewers independently screened studies, extracted data and assessed risk of bias. We expressed outcomes as risk ratios with 95 % confidence intervals and graded the certainty of the evidence using GRADE.\n\nWhat did we find?\nWe found nine trials that enrolled 1,257 participants aged 18–69 years. The trials compared infliximab with placebo, with purine analogues, with biosimilar infliximab (both intravenous and subcutaneous) or with other biologics such as adalimumab. Most trials were multicentre; one single‑centre trial did not report its location. Funding came from pharmaceutical companies, mixed commercial‑public sources or public bodies.\n\nWhat are the main results for clinical relapse?\nInfliximab probably reduces clinical relapse compared with placebo (moderate certainty). About one fewer relapse occurs for every five people treated. When we combine infliximab with purine analogues, it probably produces a large reduction in relapse compared with purine analogues alone (moderate certainty), preventing relapse in about half of the patients. Compared with a biosimilar infliximab, infliximab may make little or no difference in preventing relapse (low certainty) and may slightly increase loss of clinical response (low certainty). Evidence for many safety outcomes, including serious adverse events, is very uncertain, so we cannot determine the effect of infliximab on these outcomes.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence, but some studies may have allowed participants to know which treatment they received. Not all studies reported every outcome we wanted, and many trials were small with few events. These factors make the results uncertain.\n\nHow current is the evidence?\nThe evidence is up to date with searches completed in June 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 736,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 42,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.523809523809526,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 72,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 43,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 32,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 215,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 42.49262681159422,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.68586180124224,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.41305965320911,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.573967391304343,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.17256728778468,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.442287784679095,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.119047619047619,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.41640786499874,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.099113017598343,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 337,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 337.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 187,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 257,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 257.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 736,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 736 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 5,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft meets the word‑limit (736 words) and includes all required sections with question‑style headings. Numbers and conclusions match the source. Readability metrics are generally good (FK‑grade ≈ 12, Flesch ≈ 42), but the text shows higher than typical nominalizations, noun count, SMOG index, and complex/long word counts, indicating a more noun‑heavy, technical style than average PLSs."
+    }
+  ]
+}

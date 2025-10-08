@@ -1,0 +1,162 @@
+{
+  "id": "CD007491.PUB3",
+  "draft": "Is receiving hospital‑level care at home (hospital at home that avoids admission) as safe and less costly as staying in the hospital for older adults?\n\nWhat are the key messages?\n- Hospital‑at‑home care for older adults is about as safe as staying in the hospital. Mortality and readmission rates are similar, and it probably halves the chance of moving into a care home. We are moderately confident in these findings, meaning the evidence is fairly reliable but not perfect.\n- People cared for at home tend to be more satisfied, report similar overall health, have shorter initial hospital stays, and the approach probably reduces health‑service costs. The evidence for these outcomes is also of moderate confidence.\n- Future research should include longer‑term studies, more data on caregiver impacts, and high‑quality cost analyses.\n\nWhat is admission‑avoidance hospital‑at‑home and why is it needed?\nWhen a person becomes seriously ill, the usual response is to admit them to a hospital for short‑term acute care. Hospital stays can be expensive, stressful, and may increase the chance that older adults later move into residential care. Admission‑avoidance hospital‑at‑home is a service where doctors, nurses and other health professionals provide the same active treatment that would normally be given in a hospital, but they do it in the patient’s own home for a limited period. The goal is to treat conditions that would otherwise require a hospital bed—such as flare‑ups of chronic obstructive pulmonary disease (COPD), recovery after a stroke, or other acute medical problems—while keeping patients in a familiar environment.\n\nWhat did the researchers want to find out?\nWe set out to determine whether admission‑avoidance hospital‑at‑home works as well as, or better than, traditional inpatient hospital care. Specifically, we compared the two approaches in terms of health outcomes (such as survival and later hospital readmission), patient‑reported wellbeing and satisfaction, the likelihood of ending up in residential care, length of stay, and overall cost to the health service and society.\n\nHow did we find the evidence?\nWe searched major medical databases for randomised controlled trials that compared admission‑avoidance hospital‑at‑home with usual inpatient care in adults. We combined the results in meta‑analyses and used the GRADE system to rate our confidence in the evidence based on study quality and size.\n\nWhat did we find?\nWe included 20 trials with a total of 3,100 participants aged 18 years and older. The trials compared home‑based hospital care, where doctors and nurses treat patients at home for a short time, with usual care in the hospital.\n- Mortality within six months was similar (risk ratio 0.88). A risk ratio of 0.88 means the chance of dying was about the same as in the hospital group (12% lower, but the difference could be due to chance).\n- Readmission to hospital within three to twelve months was also similar (risk ratio 1.14).\n- The chance of living in residential care at six months was probably reduced by about half (risk ratio 0.53).\n- Patients’ self‑reported health status showed little or no difference.\n- Satisfaction with care may be higher with hospital‑at‑home.\n- Initial hospital length of stay was probably shorter for the home group.\n- Health‑service costs were probably lower for hospital‑at‑home.\nFor all these outcomes the evidence was of moderate certainty, meaning we are fairly confident in the results but recognise some limitations.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence, but several factors reduce certainty: participants often knew which treatment they received, not all studies provided all needed data, the studies involved different types of people and varied ways of delivering the intervention, and many trials were small.\n\nHow up‑to‑date is this review?\nThis review updates our previous work. The evidence is current to February 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 641,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.314285714285713,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 61.4119906396256,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.243367060396704,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.859685758858923,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.965803432137282,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.874856251392913,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 43.43129039447292,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.862780491200215,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.189901831958993,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 255,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 255.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 137,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 137.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 161,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 641,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 641 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails to meet plain‑language clarity standards in several key places. 1) Unexplained jargon: the terms “acute care” and “residential care” appear without definition, leaving readers unsure what they mean. 2) The explanation of the risk ratio for mortality is wordy and may still be confusing: “A risk ratio of 0.88 means the chance of dying was about the same as in the hospital group (12% lower, but the difference could be due to chance).” 3) The risk ratio for readmission (1.14) is presented without context, so readers cannot tell whether this indicates a real difference. 4) The phrase “we are moderately confident … the evidence is fairly reliable but not perfect” mixes technical confidence language with vague wording, making the certainty level unclear. 5) The first key‑message bullet packs several ideas into one long sentence, reducing readability. Suggested rewrites: • Define jargon – e.g., replace “acute care” with “short‑term hospital treatment” and add a brief note that “residential care means moving into a care home.” • Simplify mortality explanation: “The chance of dying was almost the same in both groups (risk ratio 0.88 – a small difference that could be due to chance).” • Clarify readmission: “The chance of being readmitted was similar (risk ratio 1.14 – a small increase that was not statistically important).” • Rephrase confidence: “We are moderately confident in these results, meaning the evidence is fairly reliable but some uncertainty remains.” • Break the first bullet into two short points: “- Hospital‑at‑home is about as safe as staying in the hospital; mortality and readmission rates are similar. - It probably cuts the chance of moving into a care home in half. We have moderate confidence in these findings.” These changes will make the summary easier for patients to understand. Additionally, the PLS evaluation shows unusually high nominalisation (22), noun count (182), SMOG index (13.9) and complex‑word counts, indicating the text is more noun‑heavy and complex than typical Cochrane PLSs, supporting the need for the suggested simplifications.",
+      "pls_evaluation_summary": "The draft conforms well overall (high conformity score) but deviates on five metrics: nominalisation (22, above typical median), noun count (182, high), SMOG index (13.9, higher than median), complex words (DC 255, complex words 137) – all indicating excess noun‑heavy, complex language. Readability scores are good (Flesch 61, grade 9), but the identified linguistic issues align with the clarity problems noted above."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Do education programmes help people with kidney disease and diabetes manage their health better?\n\nKey messages:\n- Education programmes that teach people how to take care of their kidneys and blood sugar probably lower blood sugar levels and may improve kidney function.\n- No serious side effects were reported from these programmes.\n- The evidence comes from a small number of studies that were not all of the same quality, so we cannot be completely sure of the size of the benefit.\n\nWhat is the problem?\nPeople who have both kidney disease and diabetes have to manage two serious health conditions at the same time. This can be confusing and stressful, and it often leads to worse health outcomes if the conditions are not well controlled.\n\nWhat did we want to find out?\nWe wanted to know whether programmes that teach people about their conditions, how to take medicines, how to eat healthily, and how to stay active can improve health measures such as blood sugar levels, kidney function, blood pressure, and overall quality of life.\n\nHow did we look for the answer?\nWe searched several research databases for studies that compared an education programme with usual care. We included studies where participants were randomly given either the programme or the usual care, and we checked how reliable each study was.\n\nWhat did we find?\nEight studies involving about eight hundred and forty participants were included. The programmes varied in length and content, but all included some form of teaching about kidney disease, diabetes, medication, diet, and exercise.\n\nThe main findings were:\n- Blood sugar levels were probably lower in people who received the education programmes compared with those who received usual care.\n- Measures of kidney function showed a small possible improvement, but the evidence was less clear.\n- Blood pressure did not show a clear difference between the groups.\n- People who took part in the programmes reported feeling better about managing their health and had a slightly higher quality of life.\n- No serious harms or side effects were reported from taking part in the education programmes.\n\nWhat are the limitations?\nThe studies we found were few in number and differed in how they delivered the education, how long they lasted, and who they included. Some studies had small groups of participants, and a few had methodological issues that make the results less certain. Because of these factors, we cannot be fully confident about the exact size of the benefit.\n\nHow up to date is this information?\nThe search for studies was completed in early 2024, and the review was published in 2024. New research may have been published since then, so the findings could be updated in the future.\n\nOverall, teaching people with kidney disease and diabetes how to manage their conditions appears to be a helpful approach that can lower blood sugar and may improve how they feel about their health, with no reported serious harms. More high‑quality research is needed to confirm these benefits and to understand how best to design and deliver these education programmes.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 529,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.16,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 53,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.89786465028358,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.440471833648392,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.346654064272208,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.511606805293006,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.11806427221172,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.86888468809074,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.44,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.332768514177694,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 177,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 88,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 529,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 529 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:13.757987"
+}

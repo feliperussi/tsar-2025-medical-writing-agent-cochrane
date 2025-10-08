@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Does adding breast ultrasound to mammography find more breast cancers, and what are the risks?\n\nKey messages\n- Adding ultrasound to routine mammography finds a few more cancers but also leads to many more false‑positive results and more biopsies. The evidence for both the benefit and the harms is strong.\n- The extra cancers are most clearly seen in women with dense breast tissue; the benefit for women with non‑dense breasts is uncertain.\n- We do not yet know whether finding these additional cancers reduces the number of women who die from breast cancer, because no study has followed participants long enough to show that.\n\nWhat is breast cancer screening and why do we need it?\nScreening aims to detect breast cancer early, before symptoms appear, so that treatment can start sooner and outcomes can improve. Mammography, an X‑ray picture of the breast, is the standard test for women at average risk. We wanted to know whether combining breast ultrasound with mammography finds more cancers than mammography alone, and whether this summary of the evidence can tell us about the balance of benefits and harms for women at average risk.\n\nWhat did we do?\nWe searched medical databases for studies that compared mammography alone with mammography plus ultrasound in women without a known high risk of breast cancer. We extracted data on how many cancers were found, how many false‑positive results and biopsies occurred, and other outcomes such as interval cancers, false‑negative results, lymph‑node involvement, and tumour invasiveness. We then judged how confident we were in each result using a systematic approach.\n\nWhat did we find?\nEight studies involving more than 200,000 women met our criteria. Most participants were screened once or twice over one to three years. The largest trial, which included over 140,000 women, provided the most reliable data.\n- Cancer detection: Adding ultrasound caused a noticeable increase in the number of cancers that were identified. In the large trial, about two extra cancers were found per 1,000 women screened over two years. We are confident that the combination increases cancer detection.\n- False‑positive results: The same combination also produced many more false‑positive findings—about 37 extra women per 1,000 experienced a false alarm that led to additional testing. We are confident that the combination increases false‑positive results.\n- Biopsies: More women underwent biopsy when ultrasound was added, with roughly 30 additional biopsies per 1,000 women. We are confident that the combination increases the number of biopsies.\n- Interval cancers: Fewer cancers appeared between scheduled screens when ultrasound was used, suggesting that some cancers were caught earlier. We are confident that the combination reduces interval cancers.\n- False‑negative results: The combination probably reduced the number of missed cancers, with about three fewer false‑negative results per 1,000 women. We are moderately confident in this benefit.\n- Lymph‑node status: The combination probably lowered the proportion of cancers that had spread to lymph nodes, with about three fewer cases per 1,000 women. We are moderately confident in this finding.\n- Invasive tumour proportion: Evidence that the combination changes the proportion of invasive tumours is weak and comes from small studies. We have little confidence that the combination affects this outcome.\n- Dense‑breast subgroup: In women with dense breasts, the combination probably increases cancer detection, with a small absolute increase. We are confident in this subgroup benefit.\n- Non‑dense‑breast subgroup: For women with non‑dense breasts, the evidence is mixed; some data suggest a small increase in detection, but the certainty is low. We are not confident about the benefit in this group.\n\nWhat are the limitations of the evidence?\nThe strongest evidence comes from a single large randomised trial that was well conducted, giving us high confidence in the main benefits and harms. However, many other outcomes rely on smaller or non‑randomised studies, which introduces uncertainty about the true effect. Some studies had limited follow‑up, so we cannot tell whether the extra cancers found translate into fewer deaths. The numbers of women with dense versus non‑dense breasts were not always reported, making subgroup conclusions less certain. Because the studies did not track long‑term survival, we cannot assess the ultimate impact on mortality.\n\nHow up to date is this evidence?\nThe literature search covered studies published up to 3 May 2021. No newer systematic search was performed, so evidence published after that date is not included.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 738,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.42105263157895,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 205,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.45921694480106,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.627570959920131,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.039144201968334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.087913279132788,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.627499643417487,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.96034802453288,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.7368421052631575,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.445523142259598,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.595940037084582,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 310,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 310.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 145,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 145.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 218,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 738,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 738 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:15.762730"
+}

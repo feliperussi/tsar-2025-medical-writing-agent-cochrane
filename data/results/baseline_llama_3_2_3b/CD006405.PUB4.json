@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006405.PUB4",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of nasal high flow therapy for primary respiratory support in preterm infants?**\n\nNasal high flow (nHF) therapy provides heated, humidified air and oxygen via two small nasal prongs, at gas flows of more than 1 litre/minute (L/min), typically 2 L/min to 8 L/min. nHF is commonly used for non-invasive respiratory support in preterm neonates. It may be used in this population for primary respiratory support (avoiding, or prior to the use of mechanical ventilation via an endotracheal tube) for prophylaxis or treatment of respiratory distress syndrome (RDS).\n\n**What did we want to find out?**\n\nWe wanted to evaluate the benefits and harms of nHF for primary respiratory support in preterm infants compared to other forms of non-invasive respiratory support.\n\n**What did we find?**\n\nWe included 13 studies (2540 infants) in this updated review. There are nine studies awaiting classification and 13 ongoing studies. The included studies differed in the comparator treatment (continuous positive airway pressure (CPAP) or nasal intermittent positive pressure ventilation (NIPPV)), the devices for delivering nHF and the gas flows used. Some studies allowed the use of “rescue’ CPAP in the event of nHF treatment failure, prior to any mechanical ventilation, and some allowed surfactant administration via the INSURE (INtubation, SURfactant, Extubation) technique without this being deemed treatment failure. The studies included very few extremely preterm infants less than 28 weeks’ gestation. Several studies had unclear or high risk of bias in one or more domains.\n\n**Nasal high flow compared with continuous positive airway pressure for primary respiratory support in preterm infants**\n\nWhen compared with CPAP, nHF may result in little to no difference in the combined outcome of death or BPD. nHF may result in little to no difference in the risk of death or BPD. nHF likely results in an increase in treatment failure within 72 hours of trial entry. However, nHF likely does not increase the rate of mechanical ventilation. nHF likely results in a reduction in pneumothorax and nasal trauma.\n\n**Nasal high flow compared with nasal intermittent positive pressure ventilation for primary respiratory support in preterm infants**\n\nWhen compared with NIPPV, nHF may result in little to no difference in the combined outcome of death or BPD, but the evidence is very uncertain. nHF may result in little to no difference in the risk of death. nHF likely results in little to no difference in the incidence of treatment failure within 72 hours of trial entry or mechanical ventilation within 72 hours of trial entry. nHF likely results in a reduction in nasal trauma.\n\n**What are the limitations of the evidence?**\n\nThe evidence is up to date to March 2022. The studies included very few extremely preterm infants less than 28 weeks’ gestation. Several studies had unclear or high risk of bias in one or more domains. The evidence is lacking for the use of nHF for primary respiratory support in extremely preterm infants less than 28 weeks’ gestation.\n\n**What should happen next?**\n\nFuture research should focus on options and effects that are important to decision-makers, such as the use of nHF for primary respiratory support in extremely preterm infants less than 28 weeks’ gestation.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 576,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.941176470588236,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 16,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 160,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.311580882352956,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.1715727124183,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.535744485294117,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.535902777777775,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.137581699346407,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.53839869281046,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.352941176470588,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.940299714052289,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 259,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 259.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 182,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 576,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 576 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:41.276607"
+}

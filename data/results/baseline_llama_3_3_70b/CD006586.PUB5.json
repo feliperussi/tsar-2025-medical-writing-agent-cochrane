@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006586.PUB5",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can oral contraceptives containing drospirenone help women with premenstrual syndrome?\n\nKey messages:\n- Oral contraceptives containing drospirenone may improve premenstrual symptoms in women with premenstrual dysphoric disorder, but the evidence is not very strong.\n- These contraceptives may also lead to more side effects, such as breast pain and nausea, compared to a placebo.\n- We need more research to understand how well these contraceptives work in the long term and how they compare to other treatments.\n\nWhat is premenstrual syndrome?\nPremenstrual syndrome, or PMS, is a common problem that many women experience. It can cause symptoms such as mood swings, bloating, and breast tenderness. In some women, PMS can be severe and is called premenstrual dysphoric disorder, or PMDD.\n\nWhat did we want to find out?\nWe wanted to know if oral contraceptives containing drospirenone can help relieve premenstrual symptoms in women with PMS.\n\nWhat did we do?\nWe searched for studies that compared oral contraceptives containing drospirenone to a placebo or to other oral contraceptives. We found five studies that included 858 women with PMS.\n\nWhat did we find?\nWe found that oral contraceptives containing drospirenone may improve premenstrual symptoms, such as mood swings and breast tenderness. However, these contraceptives may also lead to more side effects, such as breast pain and nausea. We are not sure how well these contraceptives work in the long term or how they compare to other treatments.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and not well-designed. This means that we cannot be sure if the results are accurate.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to June 2022.\n\nIn summary, oral contraceptives containing drospirenone may help women with PMS, but the evidence is not strong and we need more research to understand how well they work and how they compare to other treatments.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 342,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.285714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 81,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.44710526315791,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.013475355054304,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.47785714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.802456140350873,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.648788638262324,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.01670843776107,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.190476190476191,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.681145747868609,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.4709000835421895,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 101,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 61,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 88,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 342,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 342 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 14,
+      "P50_count": 2,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 77.77777777777779,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:27.752099"
+}

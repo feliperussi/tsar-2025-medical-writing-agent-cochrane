@@ -1,0 +1,162 @@
+{
+  "id": "CD015877",
+  "draft": "Do personalized nutrition plans (precision nutrition) work better than standard diets for treating obesity in children and teenagers?\n\nKey messages\n- Current evidence does not show that personalised nutrition plans work better than the usual one‑size‑fits‑all diets for lowering weight or body‑mass index (BMI, a measure of weight relative to height) in children and teenagers. No harmful side effects were reported.\n- Only two small randomised trials were found. Together they enrolled 105 participants, but only 65 provided data on weight and BMI. The studies did not report outcomes such as mental well‑being, quality of life, or side effects.\n- Because the evidence is limited and of low certainty, we need larger, well‑designed trials that include diverse age groups and report both physical and mental health outcomes.\n\nWhy is childhood and adolescent obesity a concern, and how is it usually treated?\nObesity in children and teenagers is becoming common worldwide. Carrying extra weight at a young age raises the risk of type‑2 diabetes, heart disease, joint pain, and mental‑health problems, and it often continues into adulthood. The usual approach is a \"one‑size‑fits‑all\" diet or lifestyle programme that gives the same food and activity advice to everyone, regardless of individual differences.\n\nWhat is precision nutrition and why might it be useful for young people with obesity?\nPrecision nutrition tailors diet advice to each person’s unique characteristics. This can include a child’s genetics, current eating habits, sleep patterns, gut bacteria (the tiny organisms living in the digestive system), socioeconomic background, mental health, and activity level. Sometimes computer algorithms or artificial‑intelligence tools help create a personalised eating plan that is more likely to work for that individual than a generic plan.\n\nWhat did the review authors want to find out?\nWe wanted to know whether personalised, precision‑nutrition interventions help children and adolescents (aged 0‑19 years) reduce or maintain their weight or BMI compared with standard, non‑personalised programmes or no special diet. We also looked for effects on overall well‑being, physical activity, quality of life, and any side effects.\n\nHow did we find the evidence?\nWe searched many databases up to July 2024 for randomised trials that compared a personalised nutrition plan with a standard diet in children and teenagers who were overweight or obese. We combined the results for weight and BMI and rated our confidence in the evidence.\n\nWhat did we find?\nWe identified two small randomised trials that together enrolled 105 children and teenagers with overweight or obesity. One trial in Ukraine involved younger children (0‑9 years, 35 participants) and the other in Greece involved older children and adolescents (10‑19 years, 30 participants). Both trials used a computer‑based decision‑support tool to give personalised dietary advice and compared it with a standard \"one‑size‑fits‑all\" diet.\nWe are very uncertain about the weight and BMI results. In the Ukrainian study, children lost about 1.4 kg/m² in BMI and 2.6 kg in weight. In the Greek study, children gained about 3.0 kg/m² in BMI and 11.4 kg in weight. Because the studies are tiny and have very low certainty, we cannot say whether personalised nutrition helps, harms, or makes no difference.\n\nWhat are the limitations of the evidence?\nWe are not confident in the findings because the trials were very small, participants likely knew which diet they received, and the studies did not report many outcomes we were interested in, such as mental well‑being or side effects.\n\nHow current is the evidence?\nThe evidence we reviewed is up to date to July 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 610,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.333333333333332,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 174,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.384207650273254,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.446229508196723,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.25596174863388,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.60911475409836,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.06775956284153,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.7103825136612,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.566666666666666,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.63014581273465,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.557500546448088,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 253,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 121,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 167,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 610,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 610 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 3,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft shows good overall conformity with typical PLS patterns (overall pattern conformity: GOOD). Readability scores are within acceptable ranges (Flesch Reading Ease 56.38, Grade 10.45). Most metrics fall in the best quartile, but nouns (174) and complexity measures (SMOG 13.6, complex words 121, long words 167) are higher than typical PLS medians, indicating a slightly noun‑heavy and complex wording that could be streamlined."
+    }
+  ]
+}

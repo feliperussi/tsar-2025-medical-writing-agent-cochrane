@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab is probably more effective in preventing Crohn's disease relapse compared to placebo, but we are not sure about its effects on preventing loss of clinical response and serious unwanted effects due to a lack of robust evidence.\n- Infliximab may be as effective as a biosimilar in preventing clinical relapse, but may lead to more loss of clinical response, and there is not enough good-quality evidence to compare it to other treatments like adalimumab.\n- Future research should focus on comparing infliximab to other active treatments for maintaining remission in Crohn's disease.\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to an abnormal immune response, genetics, and environmental factors.\n\nWhat did the review authors want to find out about infliximab for Crohn's disease?\nThe review authors wanted to determine the efficacy and safety of infliximab, a monoclonal antibody that binds and neutralizes tumor necrosis factor-alpha (TNF-α), for maintaining remission in patients with Crohn's disease. They aimed to find out whether infliximab is effective in preventing clinical relapse, loss of clinical response, endoscopic relapse, and withdrawal due to adverse events, compared to placebo or other active comparators.\n\nWhat did we find?\nWe found 9 studies that involved 1257 people with Crohn's disease. The studies were conducted between 1999 and 2022, with seven studies including biologically-naive patients and two including a mix of naive and non-naive patients. Infliximab is probably more effective in preventing clinical relapse than placebo. Infliximab in combination with purine analogues is probably more effective in preventing clinical and endoscopic relapse than purine analogues alone.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, many were unblinded, and not all studies reported all outcomes of interest. Additionally, the studies involved heterogeneous populations and varied delivery methods for the intervention, and the evidence does not encompass all relevant people, interventions, comparators, or outcomes.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 411,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 18,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.833333333333332,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 7,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 32,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 17,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 109,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 39.159896593674006,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.469744525547444,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.559586374695861,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.332262773722626,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.838929440389297,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 58.84306569343066,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 58.8 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.222222222222221,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 12.9498743710662,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.778932360097324,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 173,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 110,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 148,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 411,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 411 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 6,
+        "P75_count": 7,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The provided draft text has several clarity issues, including unexplained jargon, long sentences, and missing context. For example, the sentence 'Infliximab is probably more effective in preventing clinical relapse than placebo, but we are not sure about its effects on preventing loss of clinical response and serious unwanted effects due to a lack of robust evidence' is hard to follow and contains technical terms without definitions. A suggested rewrite could be 'Infliximab is likely better than placebo at preventing Crohn's disease relapse, but we need more research to understand its impact on other important outcomes.' The PLS evaluation results show that the draft has a high gunning_fog_index, lix, and rix, indicating that the text may be too complex for some readers. To improve clarity, the writer could reduce sentence length, define technical terms, and add more context. Overall, the draft requires significant revisions to improve readability and clarity.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate good conformity with typical PLS patterns, but with some deviations. The gunning_fog_index, lix, and rix are higher than typical, suggesting that the text may be too complex for some readers. The best quartile rate is 50%, and the median rate is 33.3%. The draft has 7 passive constructions, which is within the typical range. However, the high gunning_fog_index, lix, and rix suggest that the writer could improve clarity by reducing sentence length, defining technical terms, and adding more context."
+    }
+  ]
+}

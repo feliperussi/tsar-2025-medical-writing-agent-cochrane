@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "How accurate are blood tests (such as serum retinol (vitamin A level in blood) and retinol‑binding protein) for detecting vitamin A deficiency in people at risk?\n\nKey messages\n- Simple blood tests that measure serum retinol or retinol‑binding protein often miss people who truly have vitamin A deficiency (low sensitivity) but they usually identify people who are not deficient (high specificity). No harms from the tests were reported.\n- The relative dose response test, which measures how the body uses a small dose of vitamin A, has very limited data and the existing studies were not set up to check accuracy, so the results are uncertain.\n- Because the evidence is limited and uncertain, we need better studies that compare these blood tests with the most reliable reference methods and that report both how well they find deficiency and any possible harms.\n\nWhy is vitamin A deficiency a serious health problem?\nVitamin A helps the body grow, keeps the immune system strong, and maintains healthy eyes. When we lack vitamin A, we can see poor growth, weaker immunity, more infections, eye problems that may lead to blindness, and higher risk of death for mothers and children. Health workers therefore need reliable ways to find people who are deficient so they can give vitamin A supplements.\n\nWhat tests are used to check vitamin A status and why might they be imperfect?\nWe use several laboratory tests:\n- Serum or plasma retinol (SR) measures the amount of vitamin A circulating in the blood.\n- Retinol‑binding protein (RBP) measures a protein that carries vitamin A in the blood and gives an indirect clue about vitamin A status.\n- Relative dose response (RDR) looks at how the body’s vitamin A stores change after a small dose of the vitamin.\n- Retinol isotope dilution (RID) and liver vitamin A measurement are considered reference standards because they assess the body’s vitamin A stores more directly, but they are complex and not always available.\nThe easier “index tests” (SR, RBP, RDR) may miss people who truly have low vitamin A (low sensitivity) or may label people as deficient when they are not (low specificity).\n\nWhat did the test authors want to find out?\nWe aimed to determine how accurate the common index tests (SR, RBP, RDR) are at detecting early (subclinical) vitamin A deficiency in people at risk. We also explored whether the type of reference standard or the cut‑off values used might explain differences in test performance.\n\nHow did we find the evidence?\nWe searched CENTRAL, MEDLINE, Embase and six other databases up to August 2022. Two reviewers independently screened records, extracted data and assessed risk of bias using the QUADAS‑2 tool. We used GRADE to judge the certainty of the evidence.\n\nWhat did we discover?\nWe identified 40 studies (reported as 65 records). Most studies were not designed as diagnostic‑test‑accuracy studies, and risk of bias was generally unclear.\n\nWhat are the main findings?\n- Serum or plasma retinol showed very low sensitivity (about 10‑13 % compared with RID and 53‑54 % compared with liver vitamin A) but high specificity (92‑94 % with RID and 79‑83 % with liver vitamin A). Certainty ranged from very low to low.\n- Retinol‑binding protein had moderate sensitivity (around 45‑50 % with RID) and moderate to high specificity (76‑98 %). Certainty was low to moderate.\n- Relative dose response provided only specificity data (around 89‑91 % with RID) and no sensitivity data. Certainty was low.\nOverall, the index tests tend to miss many true cases of deficiency while correctly ruling out most people who are not deficient. The evidence is uncertain because studies were small, not designed for accuracy assessment, and often lacked complete data.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the results because the studies were not randomised, participants and investigators often knew which test was being used, many studies were small, and several did not report all outcomes of interest.\n\nHow up‑to‑date is this review?\nWe searched the literature up to August 2022, so the evidence reflects studies published before that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 728,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.483870967741936,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 201,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.79612371499469,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.17145693016661,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.788789879475367,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.503021978021977,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.53640552995392,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.03332151719248,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.40175425099138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.172808241758242,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 277,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 277.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 130,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 130.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 728,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 728 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:55.831365"
+}

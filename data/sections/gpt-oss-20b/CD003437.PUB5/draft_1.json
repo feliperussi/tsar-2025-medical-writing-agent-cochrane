@@ -1,0 +1,162 @@
+{
+  "id": "CD003437.PUB5",
+  "draft": "analysisWe need to output final plain language summary with formatting: Title as Heading (maybe just plain line?), main sections as **Bold Headings**, key messages as list with dashes, introduction sections with subheadings. No markdown? It says no markdown, but they want formatting like Heading, **Bold Headings**. That's markdown style. But they say no markdown. Possibly they want plain text with those markers. We'll follow instructions: Title as Heading (maybe just line). Main sections as **Bold Headings** (include asterisks). Key messages list with dashes. Introduction subheadings maybe as subheading lines.\n\nWe'll assemble:\n\nTitle: Is medication, non‑invasive brain stimulation (using external devices), or talk therapy (psychological therapy), alone or combined, effective for treating depression after a stroke?\n\nThen Key messages list three items.\n\nThen **Introduction/Aims** heading, then subheadings and content.\n\nThen **Methods**, subheadings.\n\nThen **Results**, subheading.\n\nThen **Limitations**, content.\n\nThen **Currency**, content.\n\nMake sure no extra markdown beyond specified. Use **Bold Headings** for main sections. Subheadings maybe just plain lines? They said \"Introduction sections with their respective subheadings.\" So we can put subheading as line maybe preceded by a hyphen? Probably just the subheading text.\n\nWe'll produce plain text block.\n\nIs medication, non‑invasive brain stimulation (using external devices), or talk therapy (psychological therapy), alone or combined, effective for treating depression after a stroke?\n\n- Medication (drugs) and psychological therapy (talk therapy) each showed some benefit in reducing depression after stroke, and combining medication with non‑invasive brain stimulation (using external devices that stimulate the brain without surgery) also appeared helpful; non‑invasive brain stimulation alone showed little or no benefit, and medication was linked to more adverse events (unwanted side effects) affecting the central nervous system (brain and spinal cord) and the gastrointestinal system (stomach and intestines).\n- The findings are based on a limited number of small studies, many of which had methodological weaknesses, and there were no trials for several combination approaches, so confidence in the results is low.\n- More large, well‑designed trials are needed to determine the long‑term benefits and harms of each treatment and of combined approaches, and to identify which patients are most likely to benefit.\n\n**Introduction/Aims**\nWhat is depression after stroke and why is it a problem?\nMany people who have a stroke also develop depression, a mood disorder that makes them feel sad, lose interest in activities, and have low energy. This depression can slow down recovery, reduce the ability to take part in rehabilitation, and lower overall quality of life. Unfortunately, it is often missed by health professionals or not treated well enough. Common ways to treat depression include medicines (pharmacological treatment), talking‑based therapies (psychological therapy), and newer techniques that use gentle electrical currents on the scalp to stimulate the brain (non‑invasive brain stimulation).\n\nWhat did the review aim to find out?\nThe authors wanted to discover whether medicines, non‑invasive brain stimulation, psychological therapy, or any combination of these approaches help reduce depression after stroke, and whether they cause any harmful side effects. In other words, they set out to compare each treatment (and some combinations) with doing nothing, a placebo, or usual care, to see which options are most effective and safe for people recovering from stroke.\n\n**Methods**\nSearch\nWe searched for randomised trials (studies that randomly assign participants to treatment groups) of pharmacological, non‑invasive brain stimulation, psychological therapy, or their combinations for depression after stroke.\n\nCombine\nWe combined the results of the identified studies.\n\nConfidence\nWe rated our confidence in the evidence using standard criteria.\n\n**Results**\nWhat did we find?\nThe review included 65 randomised controlled trials with a total of 5,831 people who had a stroke and later developed depression. The trials tested a range of interventions: medicines, non‑invasive brain stimulation, psychological therapy, and some combinations of these approaches. The abstract does not provide details about study duration, funding sources, participant ages or genders, or the locations where the studies were conducted.\n\nThe evidence is very uncertain. It is unclear whether medicines of any type reduce post‑stroke depression, and it is also unclear whether they cause brain‑related or gastrointestinal side‑effects. Psychological therapy alone also shows an unclear effect on depression after stroke. Combining medicines with brain stimulation may reduce depression, but the certainty is low. No usable evidence was found for combining psychological therapy with brain stimulation or for other combination strategies.\n\n**Limitations**\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and the studies were very small.\n\n**Currency**\nThe evidence is up to date to February 2022 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 809,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 54,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 14.981481481481481,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 81,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 42,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 38,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 250,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 250.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.5002425262098,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.797895206702375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.930950876711073,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.02398022249691,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.139687771826216,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.36714279174106,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.851851851851852,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.45362404707371,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.593872581605091,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 351,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 351.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 185,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 262,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 262.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 809,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 809 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the required format because the main section headings are not phrased as questions (e.g., **Introduction/Aims**, **Methods**, **Results**, **Limitations**, **Currency**). The style guide explicitly asks for subheadings to be written as questions, so this is a critical violation. In addition, several clarity problems would confuse readers: (1) a very long, compound key‑message sentence that packs multiple ideas into one line, making it hard to follow; (2) contradictory wording in the Results section – the draft first says medication and therapy “showed some benefit” but then says “It is unclear whether medicines of any type reduce post‑stroke depression,” which can leave readers uncertain about the actual finding; (3) occasional passive constructions and nominalisations (e.g., “The evidence is up to date to February 2022 of search”) reduce readability. These issues, together with the format breach, mean the PLS cannot be approved. Metrics support the editorial judgment: the draft has 18 passive voice instances (P75) and a high nominalisation count (38, BEYOND_P90), indicating a noun‑heavy style that hampers plain‑language clarity.",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity (word count 809, readability indices in the lower quartiles). However, six metrics deviate strongly: nominalisations (38, beyond P90), noun count (250, beyond P90), SMOG index (16.45, beyond P90), complex words (185, beyond P90) and complex Dale‑Chall words (351, beyond P90) and long words (262, beyond P90). These suggest the text is more noun‑ and complex‑word heavy than typical PLS, reinforcing the need to reduce nominalisations and simplify vocabulary."
+    }
+  ]
+}

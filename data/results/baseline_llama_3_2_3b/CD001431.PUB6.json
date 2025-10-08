@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of using patient decision aids for health treatment or screening decisions?**\n\n**What did we want to find out?**\nWe wanted to find out: which types of patient decision aids work best to help people make informed decisions about health treatment or screening decisions; the benefits and harms of using patient decision aids.\n\n**What is patient decision aid?**\nPatient decision aid is an intervention designed to support people making health decisions. At a minimum, patient decision aids make the decision explicit, provide evidence-based information about the options and associated benefits/harms, and help clarify personal values for features of options.\n\n**Key Messages:**\n- Patient decision aids probably help more adults reach informed values-congruent choices compared to usual care.\n- They led to large increases in knowledge, accurate risk perceptions, and an active role in decision-making.\n- There was no difference in decision regret between people using decision aids versus those receiving usual care.\n\n**How up to date is this evidence?**\nThe evidence is up to date to March 2022.\n\n**What did we do?**\nWe searched for studies that compared patient decision aids to usual care. We found 209 studies involving 107,698 participants. We assessed the risk of bias in the included studies and found that two items were mostly unclear due to inadequate reporting.\n\n**What did we find?**\nWe found that patient decision aids probably increase the congruence between informed values and care choices compared to usual care. They led to large increases in knowledge, accurate risk perceptions, and an active role in decision-making. There was no difference in decision regret between people using decision aids versus those receiving usual care.\n\n**What are the limitations of the evidence?**\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n**How accurate are patient decision aids?**\nPatient decision aids probably increase the congruence between informed values and care choices compared to usual care. They led to large increases in knowledge, accurate risk perceptions, and an active role in decision-making. There was no difference in decision regret between people using decision aids versus those receiving usual care.\n\n**What should happen next?**\nFurther studies are needed to assess the impact of patient decision aids on adherence and downstream effects on cost and resource use.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 446,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.117647058823529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.11969137430759,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.993146926932212,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.15079662358217,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.684304932735426,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.22912160379847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.18042732788182,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.205882352941177,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.273618495495704,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.943774307570562,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 206,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 446,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 446 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:39.301676"
+}

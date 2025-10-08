@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012940.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Is re‑feeding gastric residuals better than discarding them for preterm infants?\n\nKey Messages\n- Re‑feeding the milk that comes back from a preterm infant’s stomach may not change how quickly the baby gains weight, how long it takes to start full feeds, or the chance of serious gut problems or death. The evidence is weak because only one small study was found.\n- We do not know if giving back the milk reduces the number of long pauses in feeding, because the data are very uncertain.\n- More research with larger, well‑controlled studies is needed before hospitals can decide whether to keep or discard the milk.\n\nWhat is a preterm infant and why is feeding important?\nPreterm infants are babies born before 37 weeks of pregnancy. They often need tubes to feed because their stomachs and intestines are still developing. How the tubes are managed can affect how fast they grow and how healthy they stay.\n\nWhy do doctors look at gastric residuals?\nWhen a tube feeds a baby, doctors sometimes check how much milk comes back from the stomach. This is called a gastric residual. Some doctors think that giving the milk back to the baby helps digestion, while others think it might cause problems like vomiting or serious gut infections.\n\nWhat did we want to find out?\nWe wanted to know whether giving the milk back to the baby (re‑feeding) is safer or more helpful than discarding it.\n\nWhat did we do?\nWe searched many medical databases for studies that compared re‑feeding with discarding. We then looked at the results of those studies and judged how reliable the evidence was.\n\nWhat did we find?\nWe found one study that included 72 preterm infants. The study was not blinded, meaning the caregivers knew which babies were getting the milk back. The study was otherwise of good quality.\n\nRe‑feeding may have little or no effect on:\n- How quickly the baby reaches its birth weight again.\n- The chance of serious gut problems or death before leaving the hospital.\n- How long it takes to start full feeds.\n- The number of days the baby needs nutrition given through a vein.\n- The baby’s weight gain while in the hospital.\n\nWe are uncertain about whether re‑feeding changes the number of long pauses in feeding.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because it comes from only one small study that was not blinded. The results are uncertain, and we do not know if they apply to all preterm babies.\n\nHow up to date is this evidence?\nThe evidence is up to date to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 461,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.366666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 77.27557736804052,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 6.298444685466379,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 5.961771511207523,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 6.877917570498916,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 10.22475777295734,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 35.97404193781634,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.1666666666666665,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.32455532033676,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.694420939985539,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 144,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 47,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 95,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 461,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 461 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 4,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:17.948075"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008214.PUB4",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there anything else I can help you with?\n\nHere is the transformed Cochrane abstract into a Plain Language Summary (PLS) following all guidelines above:\n\n**What are the benefits and risks of using anti-vascular endothelial growth factors (anti-VEGF) with vitrectomy for complications of proliferative diabetic retinopathy?**\n\n**Key Messages:**\n\n* Using anti-VEGF with vitrectomy may reduce the risk of complications, such as late vitreous cavity hemorrhage, intraoperative retinal breaks, and the need for silicone oil tamponade.\n* However, the evidence is uncertain about the effect of anti-VEGF on the need for silicone oil tamponade.\n* The reported complications from anti-VEGF use appear to be low.\n\n**Introduction to the review topic and review aims:**\n\n**What is proliferative diabetic retinopathy (PDR)?**\n\nPDR is a serious eye condition that can cause blindness. It happens when the blood vessels in the retina become damaged and start to grow new, fragile blood vessels. These new vessels can bleed and cause vision problems.\n\n**Why is vitrectomy used to treat PDR?**\n\nVitrectomy is a surgical procedure that removes the vitreous gel from the eye. It is used to treat complications of PDR, such as retinal detachment and vitreous hemorrhage.\n\n**What did we want to find out?**\n\nWe wanted to find out if using anti-VEGF with vitrectomy reduces the risk of complications.\n\n**What did we find?**\n\nWe found 28 studies that looked at the use of anti-VEGF with vitrectomy for PDR. The studies were conducted in different countries and included a total of 1914 eyes.\n\n**What are the limitations of the evidence?**\n\nThe evidence is uncertain about the effect of anti-VEGF on the need for silicone oil tamponade. The studies were also at high risk of bias, and the randomization methods were unclear in some studies.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to June 2022.\n\n**What are the implications of our findings?**\n\nUsing anti-VEGF with vitrectomy may reduce the risk of complications, such as late vitreous cavity hemorrhage, intraoperative retinal breaks, and the need for silicone oil tamponade. However, more research is needed to confirm these findings and to understand the effects of anti-VEGF on the need for silicone oil tamponade.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 399,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 64.84527443609022,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.518804511278198,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.314661654135342,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.309172932330828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.838796992481202,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 38.112030075187974,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.602325267042627,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.31875268170426,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 143,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 75,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 399,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 399 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 8,
+      "P75_count": 1,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.554225"
+}

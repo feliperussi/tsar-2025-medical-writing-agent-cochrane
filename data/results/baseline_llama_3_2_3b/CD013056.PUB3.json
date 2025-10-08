@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013056.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of using antibiotics versus topical antiseptics for treating chronic suppurative otitis media (CSOM)?**\n\n**What is chronic suppurative otitis media (CSOM)?**\nCSOM is a chronic inflammation and often polymicrobial infection of the middle ear and mastoid cavity. It is characterized by ear discharge (otorrhoea) through a perforated tympanic membrane. The predominant symptoms of CSOM are ear discharge and hearing loss.\n\n**What did we want to find out?**\nWe wanted to find out: which types of treatments work best to help people with CSOM; the benefits and risks of using antibiotics versus topical antiseptics.\n\n**What did we do?**\nWe searched for studies that compared antibiotics with antiseptics for CSOM. We included 15 studies involving 2371 participants. We found that topical antibiotics (quinolones) were likely to increase resolution of ear discharge compared to boric acid at up to two weeks.\n\n**What did we find?**\nTopical antibiotics (quinolones) are likely to increase resolution of ear discharge compared to boric acid at up to two weeks. There was limited evidence for the efficacy of other topical antibiotics or topical antiseptics and so we are unable to draw conclusions. Harmful effects were not well reported.\n\n**What are the limitations of the evidence?**\nThe evidence is very uncertain for serious complications (aminoglycosides) or suspected ototoxicity (aminoglycosides). There may be little to no difference in hearing between groups reported narratively. The evidence is very uncertain for the efficacy of other topical antibiotics or topical antiseptics. There was limited information on certain population groups or interventions.\n\n**How up to date is this evidence?**\nThe evidence is up to date to June 2022.\n\n**Key Messages:**\n\n* Topical antibiotics (quinolones) are likely to increase resolution of ear discharge compared to boric acid at up to two weeks.\n* There was limited evidence for the efficacy of other topical antibiotics or topical antiseptics and so we are unable to draw conclusions.\n* Harmful effects were not well reported.\n\nPlease note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 395,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.166666666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 32,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 96,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.33108649789031,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.068037974683545,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.333687763713076,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.890430379746828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.291983122362868,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.824894514767934,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.009041350210971,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 159,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 129,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 395,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 395 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.277338"
+}

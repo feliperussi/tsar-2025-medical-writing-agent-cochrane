@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012532.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there anything else I can help you with?\n\nHere is the transformed Cochrane abstract into a Plain Language Summary (PLS) following all guidelines above:\n\n**What are the benefits and risks of anti-PD-1 and anti-PD-L1 antibodies for glioma?**\n\n**Key Messages:**\n\n*   Anti-PD-1 and anti-PD-L1 antibodies may not be effective in treating glioblastoma multiforme (GBM), a type of brain cancer.\n*   These treatments may not improve overall survival (OS) or progression-free survival (PFS) in people with recurrent GBM.\n*   However, some studies suggest that neoadjuvant (before surgical resection) and adjuvant (after surgical resection) pembrolizumab may improve OS and PFS in people with newly diagnosed GBM.\n\n**Introduction to the review topic and review aims:**\n\n*   Glioblastoma multiforme (GBM) is a type of brain cancer that is difficult to treat.\n*   Researchers wanted to find out if anti-PD-1 and anti-PD-L1 antibodies could help treat GBM.\n\n**What did we do?**\n\n*   We searched for studies that compared anti-PD-1 and anti-PD-L1 antibodies with placebo or other treatments in people with GBM.\n*   We analyzed the results of these studies to see if anti-PD-1 and anti-PD-L1 antibodies were effective in treating GBM.\n\n**What did we find?**\n\n*   We found seven studies that compared anti-PD-1 and anti-PD-L1 antibodies with placebo or other treatments in people with GBM.\n*   The studies involved a total of 1953 people with GBM.\n*   The studies were conducted in different countries and had different durations.\n*   The results of the studies were mixed, but some suggested that anti-PD-1 and anti-PD-L1 antibodies may not be effective in treating GBM.\n\n**What are the limitations of the evidence?**\n\n*   The evidence for anti-PD-1 and anti-PD-L1 antibodies is limited by the small number of studies and the high risk of bias in some of the studies.\n*   The evidence for the effectiveness of anti-PD-1 and anti-PD-L1 antibodies in treating GBM is uncertain.\n*   The evidence for the safety of anti-PD-1 and anti-PD-L1 antibodies is also uncertain.\n\n**How up to date is this evidence?**\n\n*   The evidence for anti-PD-1 and anti-PD-L1 antibodies is current as of March 2024.\n*   However, the evidence is limited by the small number of studies and the high risk of bias in some of the studies.\n\n**Conclusion:**\n\n*   Anti-PD-1 and anti-PD-L1 antibodies may not be effective in treating glioblastoma multiforme (GBM).\n*   Neoadjuvant and adjuvant pembrolizumab may improve overall survival and progression-free survival in people with newly diagnosed GBM.\n*   However, the evidence for the effectiveness of anti-PD-1 and anti-PD-L1 antibodies in treating GBM is uncertain.\n*   Further research is needed to fully understand the benefits and risks of anti-PD-1 and anti-PD-L1 antibodies in treating GBM.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 539,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 40,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.475,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 30,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 79.99164123376627,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 5.449665584415584,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 3.439689239332097,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 4.639703153988865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.549554730983303,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 36.29503710575139,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.433981132056603,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.619213432282004,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 169,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 83,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 123,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 539,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 539 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:45.135200"
+}

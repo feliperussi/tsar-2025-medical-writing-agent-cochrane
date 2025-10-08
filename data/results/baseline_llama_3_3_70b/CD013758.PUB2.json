@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013758.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of high-protein formula compared to standard-protein formula for healthy, formula-fed term infants?\n\nKey messages:\n* Due to a lack of robust evidence, the benefits and risks of high-protein formula for healthy, formula-fed term infants are unclear.\n* High-protein formula may have little or no effect on underweight, stunting, and wasting in the first year of life.\n* Future research should focus on the effects of high-protein formula on growth and development in healthy, formula-fed term infants.\n\nIntroduction to the review topic and review aims:\nWhat is the best type of formula for healthy, formula-fed term infants? Many infants are fed infant formulas to promote growth. Some formulas have a high protein content to accelerate weight gain during the first year of life. The risk-benefit balance of these formulas is unclear.\n\nWhat did we want to find out? We wanted to find out if high-protein formula is better than standard-protein formula for healthy, formula-fed term infants. We also wanted to know if high-protein formula has any effects on undernutrition, overweight, or obesity.\n\nWhat did we do? We searched for studies that compared high-protein formula to standard-protein formula in healthy, formula-fed term infants. We looked at studies that were done in high-income countries and included infants who were fed formula for at least three consecutive months.\n\nWhat did we find? We found 11 studies that compared high-protein formula to standard-protein formula in healthy, formula-fed term infants. The studies found that high-protein formula may have little or no effect on underweight, stunting, and wasting in the first year of life. We also found that high-protein formula may have little or no effect on the occurrence of overweight or obesity at five years of follow-up.\n\nWhat are the limitations of the evidence? We have little confidence in the evidence because the studies were small and had limitations in their design. The studies were also done in high-income countries, which may not be representative of all populations.\n\nHow up to date is this evidence? The evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 377,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.391304347826086,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.839205397301356,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.706056971514244,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.50411371237458,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.532625994694957,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.089678237804174,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.63003113827701,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.956521739130435,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.54983443527075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.551019305731751,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 137,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 71,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 377,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 377 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:34.042536"
+}

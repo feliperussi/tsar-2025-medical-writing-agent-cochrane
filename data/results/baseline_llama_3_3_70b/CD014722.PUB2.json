@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can primary-level and community worker interventions prevent mental disorders and promote well-being in low- and middle-income countries?\n\nKey messages:\n* Due to a lack of robust evidence, the benefits and risks of primary-level and community worker interventions for preventing mental disorders are unclear.\n* Primary-level and community worker interventions may slightly reduce anxiety symptoms, depressive symptoms, and distress/PTSD symptoms in adults and children.\n* Future research should focus on the effectiveness of these interventions in different settings and populations.\n\nIntroduction:\nWhat are primary-level and community worker interventions? \nPrimary-level and community worker interventions involve trained workers delivering mental health services in community settings. \nWhat did we want to find out? \nWe wanted to find out if these interventions can prevent mental disorders and promote well-being in low- and middle-income countries.\n\nWhat did we do? \nWe searched for studies that compared primary-level and community worker interventions with usual care. \nWe found 113 studies with 32,992 participants.\n\nWhat did we find? \nThe evidence suggests that these interventions may slightly reduce anxiety symptoms, depressive symptoms, and distress/PTSD symptoms in adults and children. \nHowever, the certainty of the evidence is low due to the risk of bias and heterogeneity.\n\nWhat are the limitations of the evidence? \nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\nHow up to date is this evidence? \nThe evidence is up to date to November 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 278,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 18,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.444444444444445,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 21,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 14,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 86,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.52075939248604,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.491606714628297,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.537258193445243,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.30273381294964,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.515907274180657,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.45883293365308,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.944444444444445,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.280109889280517,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.01388617106315,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 110,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 51,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 89,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 278,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 278 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 13,
+      "P50_count": 4,
+      "P75_count": 1,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 72.22222222222221,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:34.977470"
+}

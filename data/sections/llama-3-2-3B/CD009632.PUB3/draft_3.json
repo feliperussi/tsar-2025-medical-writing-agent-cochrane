@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Adding ultrasound to routine mammograms does not improve breast cancer detection in average-risk women. High certainty evidence shows that screening with a combination of mammography and ultrasonography detects more breast cancer than mammography alone, but the number of false-positive results and necessary biopsies is higher. For women with dense breasts, the combination of mammography and ultrasonography detected three more cancer cases per 1000 women screened than mammography alone. However, the number of false-positive results and biopsy rates were higher in women receiving additional ultrasonography for breast cancer screening. None of the included studies analysed whether the higher number of screen-detected cancers in the intervention group resulted in a lower mortality rate compared to mammography alone. Randomised controlled trials or prospective cohort studies with a longer observation period are needed to assess the effects of the two screening interventions on morbidity and mortality.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 147,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 6,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.5,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 10,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 10.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 56,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 16.79607142857145,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 16.8 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 17.003095238095238,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.0 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 18.15081632653061,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.2 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 17.111836734693878,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.1 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 20.956462585034014,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 60.554421768707485,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.6 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.833333333333334,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.8 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 9.082762530298218,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 9.163907482993197,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 74,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 41,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 53,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 147,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 147 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 1,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 3,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 5.555555555555555,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 16.666666666666664,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The evaluation is thorough, well-structured, and addresses all critical aspects of the Plain Language Summary, including completeness, clarity, style, and structure. The feedback and metric analysis are clear and actionable.",
+      "pls_evaluation_summary": "The draft PLS is complete but lacks a clear summary of findings, contains unexplained jargon (ABUS), long sentences, passive voice, and inconsistent numeral usage. Recommendations include defining terms, breaking up sentences, adding context, simplifying phrasing, using consistent numerals, and improving readability with paragraph breaks and bullet points."
+    }
+  ]
+}

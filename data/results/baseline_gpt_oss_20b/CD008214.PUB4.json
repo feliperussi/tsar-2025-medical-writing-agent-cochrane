@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008214.PUB4",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does giving anti‑VEGF medicine before eye surgery help people with diabetic eye disease?\n\nKey messages:\n- Adding anti‑VEGF medicine before eye surgery may lower the chance of bleeding after the operation, may improve vision a little, and may reduce the number of retinal tears that occur during surgery. The evidence is not strong, but the medicine appears safe.\n- The evidence is uncertain about whether the medicine reduces the need for a special oil that is sometimes used during surgery.\n- More consistent studies are needed to confirm these findings and to decide the best way to use the medicine.\n\nWhat is diabetic eye disease and why is it a problem?\nDiabetic eye disease, also called diabetic retinopathy, is damage to the tiny blood vessels in the back of the eye caused by long‑term diabetes. Over time the vessels can leak, swell, or grow new, fragile vessels that bleed. This can lead to blurry vision, loss of sight, and the need for surgery to remove scar tissue or repair the retina.\n\nWhat did we want to find out?\nWe wanted to know whether giving an anti‑VEGF medicine before vitrectomy surgery changes the chances of bleeding, the need for additional procedures, the use of silicone oil, and the overall vision outcome for people with diabetic eye disease.\n\nWhat did we do?\nWe searched for studies that compared vitrectomy with anti‑VEGF medicine given before surgery to vitrectomy without the medicine, combined the results, and judged how confident we were on the findings.\n\nWhat did we find?\nStudy characteristics: We identified 28 randomised controlled trials that together included 1914 eyes from people with diabetic eye disease. The trials were carried out in many countries and used similar surgical techniques. Most trials gave the anti‑VEGF medicine within a few days before the operation.\n\nMain results:\n- Vision after surgery: The medicine may improve vision a little after six months.\n- Early bleeding (within the first month after surgery): The medicine probably reduces the chance of bleeding.\n- Late bleeding (after the first month): The medicine causes a large reduction in bleeding.\n- Need for repeat surgery because of bleeding: The medicine may reduce the need for repeat surgery.\n- Need for repeat surgery because of retinal detachment: The medicine may reduce the need for repeat surgery.\n- Retinal tears during surgery: The medicine causes a large reduction in retinal tears.\n- Need for silicone oil: The medicine may reduce the need for silicone oil.\n- Quality of life: No trial reported data on how the medicine affected daily living or overall wellbeing.\n\nWhat are the limitations?\nMany of the trials did not clearly describe how participants were chosen or how the surgery was performed, which makes it hard to be sure the groups were truly comparable. Some trials had few participants, and the way outcomes were measured varied, adding uncertainty to the results. Because of these issues, we cannot be completely confident that the observed benefits will happen in every setting.\n\nHow up to date is this evidence?\nThe literature search was completed on 22 June 2022, so the evidence reflects studies published up to that date. New research published after that time may add to or change these conclusions.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 552,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.20139130434785,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.991434782608696,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.681739130434782,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.94608695652174,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.968695652173915,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.57391304347826,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.198039027185569,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.318998695652174,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 189,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 552,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 552 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:14.324961"
+}

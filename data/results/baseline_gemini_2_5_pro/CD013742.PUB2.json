@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "How accurate are lab tests for diagnosing vitamin A deficiency?\n\n**Key messages**\n\n– Common lab tests for vitamin A deficiency may not be reliable for finding the condition. The tests often miss cases in people who have the deficiency, meaning a person could be told they are fine when they are not. However, the tests are better at correctly identifying people who do not have the deficiency.\n\n– Our confidence in this evidence is low. This is because the studies we found were not designed to measure test accuracy, and many were very small.\n\n– More research is needed to find reliable ways to test for vitamin A deficiency. Future studies should be properly designed to find out how accurate these tests really are.\n\n**What is vitamin A deficiency?**\n\nVitamin A is a nutrient that is essential for good health. It helps our bodies grow, supports our immune system to fight infections, and is vital for healthy eyesight.\n\nWhen someone does not have enough vitamin A in their body, it is called vitamin A deficiency. This is a serious health problem that can lead to poor growth, more frequent illnesses, and vision problems. It is especially dangerous for children and pregnant women. To treat this condition, it is important to have accurate tests to diagnose it.\n\n**What did we want to find out?**\n\nWe wanted to find out how accurate common lab tests are for diagnosing vitamin A deficiency in people who are at risk. These tests usually involve checking the amount of vitamin A or related substances in a person's blood.\n\n**What did we do?**\n\nWe searched for studies that compared common lab tests for vitamin A deficiency with highly accurate \"gold standard\" tests. We compared and summarized the results of these studies. We also rated our confidence in the evidence based on how the studies were done and how large they were.\n\n**What did we find?**\n\nWe found 40 studies that looked at different lab tests. However, none of these studies were specifically designed to find out how accurate the tests were, which limits what we can conclude from them.\n\nThe main tests investigated were blood tests that measure substances called retinol and retinol-binding protein.\n\nOur main findings were:\n\n– The tests were not good at identifying people who actually had vitamin A deficiency. This means the tests often gave a \"normal\" result for people who were deficient, so their condition would be missed.\n\n– The tests were much better at correctly identifying people who did not have vitamin A deficiency. This means that if the test showed a person did not have the deficiency, it was usually correct.\n\nWe did not find enough information to know how accurate other types of tests are, such as testing vitamin A levels in breast milk.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in the evidence. The main reason is that the studies we found were not designed to find out how accurate these tests are. This means the results might not be reliable. Also, many of the studies were very small and did not include enough people with vitamin A deficiency to be certain about the results.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 566,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 41,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.804878048780488,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 68.46403817978111,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.139485477893647,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.459400155132293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.256113074204944,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.741032491597002,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 36.94975437386883,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.1951219512195124,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.273618495495704,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.403714884081703,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 205,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 88,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 566,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 566 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:21.804950"
+}

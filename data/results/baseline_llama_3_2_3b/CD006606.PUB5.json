@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006606.PUB5",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines.\n\nHere is the transformed summary:\n\n**Is in vitro maturation better than conventional IVF for women with polycystic ovarian syndrome?**\n\n**What do we want to find out about in vitro maturation for women with PCOS?**\n\nIn vitro maturation (IVM) is a technique used to help women with polycystic ovarian syndrome (PCOS) get pregnant. We wanted to find out if IVM is better than conventional IVF (in vitro fertilization) for women with PCOS.\n\n**What is in vitro maturation and why is it used for women with PCOS?**\n\nIn vitro maturation is a process where immature eggs are taken from the ovaries and matured in the lab. This can help women with PCOS get pregnant because it reduces the risk of ovarian hyperstimulation syndrome (OHSS), a serious complication of IVF.\n\n**What did we find?**\n\nWe found four studies that compared IVM with conventional IVF in women with PCOS. The studies involved 810 women who were trying to get pregnant. Two of the studies were already included in our previous review, but they were at high risk of bias. The other two studies were at low risk of bias and found that IVM increased the risk of miscarriage per clinical pregnancy compared to IVF. However, IVM also reduced the risk of moderate or severe OHSS.\n\n**What are the limitations of the evidence?**\n\nWe are very uncertain about the effect of IVM on live birth when compared to IVF after using a GnRH antagonist protocol. In contrast, high-certainty evidence shows that IVM increases miscarriage per clinical pregnancy and reduces the incidence of moderate or severe OHSS in women with PCOS compared to IVF after a GnRH antagonist protocol.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2023.\n\n**What should happen next?**\n\nWe eagerly anticipate further evidence from high-quality trials in the field to determine the effectiveness of IVM for women with PCOS.\n\nNote: I've followed the Cochrane guidelines to transform the abstract into a Plain Language Summary. I've used simple language, defined technical terms, and focused on what the findings mean for patients.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 381,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.607142857142858,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 30,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 73,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.34973425196853,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.08266497937758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.809634420697414,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.785616797900257,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.896925384326961,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.59139482564679,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.5357142857142856,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.366600265340756,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.979691188601425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 128,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 71,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 381,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 381 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:41.543019"
+}

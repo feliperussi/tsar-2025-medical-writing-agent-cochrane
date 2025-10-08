@@ -1,0 +1,162 @@
+{
+  "id": "CD009530.PUB5",
+  "draft": "Is using a bronchoscopy (a procedure that looks inside the lungs) helpful for people with cystic fibrosis?\n\n**Key Messages**\n- We found that using a bronchoscopy to guide antimicrobial therapy for people with cystic fibrosis may make little or no difference in lung function or other important outcomes compared to standard care. It may also lead to more hospitalizations, although the harmful effects from the procedure itself are generally mild.\n- The current evidence is limited by the small number of studies and their focus on specific age groups, such as preschool children, with no evidence available for adults. This highlights the need for more research to fully understand the benefits and risks of bronchoscopy-guided therapy in different populations.\n- Future research should prioritize studying the long-term effects of bronchoscopy-guided antimicrobial therapy, exploring its potential benefits and harms in various age groups, including adults, and addressing the gaps in current evidence to inform clinical practice and improve outcomes for people with cystic fibrosis.\n\n**What is cystic fibrosis and why is it a problem?**\nCystic fibrosis (CF) is a genetic disorder that affects the lungs and digestive system. It causes severe damage to the lungs, digestive system, and other organs in the body. CF affects the cells that produce mucus, sweat, and digestive juices, causing these fluids to become thick and sticky. This thickness clogs tubes, ducts, and passageways, particularly in the lungs and pancreas. People with CF are at a higher risk of developing lung infections, which can be life-threatening if left untreated. Early diagnosis and treatment of these infections are crucial to manage the disease effectively.\n\n**What are the common treatments for lung infections in people with cystic fibrosis?**\nThe main goal of treating lung infections in people with CF is to prevent further damage to the lungs. Common treatments include antibiotics, which can be given orally, intravenously, or through inhalation. However, diagnosing lung infections in people with CF can be challenging, especially when they are not producing sputum. In such cases, doctors rely on cultures from oropharyngeal specimens, which may not always accurately identify the bacteria causing the infection. Bronchoscopy, a procedure that involves inserting a tube with a camera into the lungs to collect samples, can provide more accurate diagnoses but is invasive and carries risks.\n\n**What did the review authors want to find out?**\nThe review authors aimed to evaluate the effectiveness of using bronchoscopy to guide antimicrobial therapy in people with cystic fibrosis. They wanted to determine whether this approach improves outcomes, such as lung function, reduces the frequency of lung infections, and enhances quality of life compared to standard care, which relies on oropharyngeal cultures and clinical symptoms to guide treatment decisions.\n\n**What did we find?**\nWe found 2 studies that involved 200 people with cystic fibrosis. The studies compared bronchoscopy-guided antimicrobial therapy to standard treatment based on clinical features and oropharyngeal cultures. Bronchoscopy-guided antimicrobial therapy may make little to no difference in lung function, and probably makes little to no difference in chest scores assessed by computed tomography scan. It may lead to more hospitalizations per year, but probably makes little to no difference in the average cost of care per participant. There is probably no difference in health-related quality of life between bronchoscopy-guided therapy and standard care.\n\n**What are the limitations of the evidence?**\nThe evidence is limited by very small study sizes, possible lack of blinding because participants may have known their treatment, and incomplete reporting of outcomes of interest across the studies.\n\n**Is the evidence up to date?**\nThis review updates our previous review. The evidence is up to date to November 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 625,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 38,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.44736842105263,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 44.358201052631614,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.158233684210526,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.36858021052631,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.079808,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.794947368421052,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.40736842105263,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.421052631578948,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.041594578792296,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.864445473684211,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 279,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 279.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 144,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 144.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 206,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 206.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 625,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 625 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 1,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is not approved because it has a critical structural issue and several areas where clarity can be significantly improved for a lay audience.\n\n**Critical Issue:**\n- **Missing Section:** The draft is missing a required 'Methods' section (e.g., a section with a heading like 'How did we conduct this review?'). All PLS must briefly explain how the review was done.\n\n**Top 3 Improvements Needed:**\n\n\n1.  **Simplify Technical Jargon:** The text uses medical terms that will be unfamiliar to most readers. This makes key concepts difficult to understand.\n    -   **Problematic Phrase:** \"...doctors rely on cultures from oropharyngeal specimens...\"\n    -   **Why it's a problem:** 'Oropharyngeal specimens' is highly technical. Readers won't know what this means.\n    -   **Suggested Rewrite:** \"...doctors rely on samples from the back of the throat (throat swabs)...\"\n\n2.  **Replace Complex and Wordy Phrases:** Some sentences are structured in a formal, academic way that reduces clarity. Using more direct language would be better.\n    -   **Problematic Sentence:** \"The review authors aimed to evaluate the effectiveness of using bronchoscopy to guide antimicrobial therapy in people with cystic fibrosis.\"\n    -   **Why it's a problem:** This is long and uses several complex terms ('evaluate the effectiveness', 'antimicrobial therapy').\n    -   **Suggested Rewrite:** \"We wanted to find out if using bronchoscopy to guide antibiotic treatment is helpful for people with cystic fibrosis.\"\n\n3.  **Use Verbs Instead of Noun Forms (Nominalizations):** The draft often uses noun-heavy phrases where a simple verb would be clearer and more direct.\n    -   **Problematic Phrase:** \"...relies on oropharyngeal cultures and clinical symptoms to guide treatment decisions.\"\n    -   **Why it's a problem:** 'Guide treatment decisions' is an indirect phrase. Using a direct verb makes the sentence stronger.\n    -   **Suggested Rewrite:** \"...relies on throat swabs and symptoms to decide on treatment.\"\n\nThese clarity issues are reflected in the linguistic analysis, which shows the text has a very high number of complex and unfamiliar words (SMOG Index and Dale-Chall Complex Words are beyond the 90th percentile). Addressing these points will make the summary much more accessible.",
+      "pls_evaluation_summary": "The evaluation shows the draft has excellent sentence structure, with metrics like sentence length (16.45 words) and Flesch-Kincaid Grade (11.16) falling in the best quartile for a PLS. However, it deviates significantly from typical patterns in vocabulary complexity. Six key metrics, including the SMOG index, complex words, long words, and nominalizations, are in the 90th percentile or beyond. This indicates that while sentences are short, the word choice is overly technical and complex for a lay audience, requiring simplification."
+    }
+  ]
+}

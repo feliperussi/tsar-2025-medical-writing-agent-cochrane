@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003962.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of non-immunosuppressive treatment for IgA nephropathy?**\n\nIgA nephropathy (IgAN) is a common kidney disease that can lead to kidney failure. Non-immunosuppressive treatment is used to manage IgAN by improving blood pressure, decreasing protein in the urine, and avoiding long-term immunosuppressive treatment.\n\n**What did we want to find out?**\n\nWe wanted to assess the benefits and harms of non-immunosuppressive treatment for treating IgAN in adults and children.\n\n**What did we do?**\n\nWe searched for studies that compared non-immunosuppressive treatments for IgAN. We included randomized controlled trials (RCTs) and quasi-RCTs of non-immunosuppressive agents in adults and children with biopsy-proven IgAN.\n\n**What did we find?**\n\nWe found 80 studies that involved 4856 people with IgAN. The biggest study was in 369 people. We found that:\n\n* RAS inhibition probably decreases proteinuria but may result in little or no difference to kidney failure or doubling of serum creatinine or complete remission of proteinuria.\n* Tonsillectomy in people with IgAN in addition to standard care may increase remission of proteinuria and remission of microscopic haematuria but may decrease relapse of proteinuria and relapse of haematuria.\n* Anticoagulant therapy, fish oil, and traditional Chinese medicines exhibited small benefits to kidney function in patients with IgAN when compared to placebo or no treatment.\n* Antimalarial therapy compared to placebo reported an increase in a > 50% reduction of proteinuria.\n\n**What are the limitations of the evidence?**\n\nThe risk of bias within the included studies was mostly high or unclear. The certainty of the evidence of RCTs demonstrating a benefit of tonsillectomy to patients with Japanese patients with IgAN was low. The RCT evidence is insufficiently robust to demonstrate efficacy for the other non-immunosuppressive treatments evaluated here.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to December 2023.\n\n**What should happen next?**\n\nFuture research should focus on options and effects that are important to decision-makers, such as the effects of non-immunosuppressive treatments on kidney and cardiovascular outcomes in people with IgAN.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 392,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 30,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 107,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.04948979591836,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.616938775510206,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.807602040816327,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.095714285714283,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.355102040816327,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.12244897959184,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.357142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.888194417315589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.937894897959185,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 155,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 76,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 392,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 392 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 8,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:40.588462"
+}

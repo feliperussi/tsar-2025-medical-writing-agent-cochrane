@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003218.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do stimulant medicines (psychostimulants – a drug that makes you feel more awake and reduces fatigue) help reduce excessive daytime sleepiness in people with myotonic dystrophy (a genetic muscle disorder)?\n\nKey messages  \n- Psychostimulants such as modafinil may lower how sleepy people say they feel on the Epworth Sleepiness Scale (a questionnaire that asks how likely you are to doze off in everyday situations). We do not have clear proof that they improve objective sleep tests – the Maintenance of Wakefulness Test (a test that measures the ability to stay awake) or the Multiple Sleep Latency Test (a test that measures how quickly a person falls asleep) – or overall quality of life (how someone feels and functions day to day). They may also raise the risk of side‑effects (unwanted events that cause harm).  \n- All six studies enrolled only adult out‑patients and lasted up to four weeks, so we cannot tell whether any benefit or harm continues over longer periods.  \n- We need larger, well‑designed trials that examine short‑ and long‑term effects on daytime sleepiness, daily functioning and side‑effects to give clearer answers for patients.\n\nWhat is myotonic dystrophy and why does excessive daytime sleepiness matter?  \nMyotonic dystrophy is a genetic muscle disorder that can affect many parts of the body, including the nerves that control sleep. A common symptom is hypersomnia – feeling unusually sleepy during the day even after a full night’s rest. This can make work, study, driving and everyday activities difficult and can lower quality of life.\n\nHow might psychostimulant medicines help people with this condition?  \nPsychostimulants such as modafinil increase alertness and reduce the urge to sleep. They are already used for other conditions that cause daytime sleepiness, so doctors sometimes prescribe them to people with myotonic dystrophy who feel constantly tired. We are unsure how well they work for this specific group and whether they cause unwanted side‑effects.\n\nWhat did we aim to find out?  \nWe set out to see whether psychostimulants improve excessive daytime sleepiness and overall quality of life in people with myotonic dystrophy, and whether they increase the risk of adverse events (unwanted events that cause harm) in the short term.\n\nHow did we look for evidence?  \nWe searched electronic databases (PubMed, Embase, Cochrane Library) without date or language limits and hand‑searched reference lists. We included randomised controlled trials, crossover studies and observational cohorts that reported quantitative outcomes on daytime sleepiness (for example, the Epworth Sleepiness Scale or Multiple Sleep Latency Test). Two reviewers independently extracted data on participants, interventions, outcomes and adverse events. When possible, we pooled results using a random‑effects meta‑analysis and rated confidence in the evidence with the GRADE framework.\n\nWhat did we find?  \nWe identified six small randomised controlled trials that together enrolled 136 adults with myotonic dystrophy who experienced excessive daytime sleepiness. All participants were out‑patients aged 18–70 years. The studies lasted up to four weeks; five used a crossover design. The only stimulant evaluated was modafinil, compared with placebo or no treatment. No trials involved children, long‑term follow‑up or other types of stimulant.\n\nWhat are the main results?  \nWe remain very uncertain whether psychostimulants improve the ability to stay awake on the Maintenance of Wakefulness Test. Participants did report feeling less sleepy on the Epworth Sleepiness Scale. It is unclear whether the medicines affect how quickly people fall asleep on the Multiple Sleep Latency Test or improve overall quality of life. Side‑effects may be more common with psych or stimulants; a few more people per 100 might experience an adverse event compared with those not receiving the drug.\n\nWhat are the limitations of the evidence?  \nThe studies were small, used different participant groups and varied in how the intervention was delivered. This heterogeneity reduces our confidence in the findings.\n\nHow current is the evidence?  \nThe evidence is up to date to January 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 660,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.83783783783784,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 170,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 50.42141277641281,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.65796887796888,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.7677371007371,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.602060606060604,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.68058968058968,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.8984438984439,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.54054054054054,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.152908271908273,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 262,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 262.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 141,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 141.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 205,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 660,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 660 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:49.230210"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and harms of education programs for people with chronic kidney disease and diabetes?\n\nKey Messages:\n- Education programs for people with chronic kidney disease and diabetes may improve knowledge of some areas related to diabetes care and some self-management practices.\n- Education programs probably decrease glycated hemoglobin in people with chronic kidney disease and diabetes, but the effect on other clinical outcomes is unclear.\n- More research is needed to examine the efficacy of education programs on important clinical outcomes in people with chronic kidney disease and diabetes.\n\nWhat is chronic kidney disease and diabetes?\nChronic kidney disease is a condition where the kidneys do not work as well as they should, and diabetes is a condition where the body has high blood sugar levels. Both conditions can be managed with treatment, but it can be hard for people to follow the treatment plans. Education programs are designed to help people with chronic kidney disease and diabetes understand their conditions and manage them better.\n\nWhat did we want to find out?\nWe wanted to find out if education programs are helpful for people with chronic kidney disease and diabetes. We looked at studies that compared education programs with routine care to see if the education programs made a difference in how well people managed their conditions.\n\nWhat did we do?\nWe searched for studies that compared education programs with routine care for people with chronic kidney disease and diabetes. We looked at the results of these studies to see if education programs made a difference in how well people managed their conditions.\n\nWhat did we find?\nWe found eight studies that included 840 people with chronic kidney disease and diabetes. The studies showed that education programs probably decrease glycated hemoglobin, which is a measure of blood sugar control, in people with chronic kidney disease and diabetes. The studies also showed that education programs may improve knowledge of some areas related to diabetes care and some self-management practices. However, the effect of education programs on other clinical outcomes, such as kidney function and quality of life, is unclear.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had some methodological limitations. More research is needed to examine the efficacy of education programs on important clinical outcomes in people with chronic kidney disease and diabetes.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 435,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.714285714285715,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.143793103448274,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.829720853858788,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.401349753694582,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.076413793103445,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.550082101806243,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.42692939244664,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.190476190476191,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.1104335791443,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.234532019704434,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 171,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 79,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 435,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 435 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 9,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 50.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:28.408342"
+}

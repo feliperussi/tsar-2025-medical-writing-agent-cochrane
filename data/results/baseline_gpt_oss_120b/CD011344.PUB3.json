@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011344.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs automated mandatory bolus better than continuous infusion for epidural pain relief during labour?\n\nKey Messages  \n- Automated mandatory bolus (a method that gives set doses of epidural medicine at regular intervals) probably reduces the chance of breakthrough pain and probably lowers the amount of local anaesthetic used, while there is probably little or no difference in the rates of caesarean delivery, instrumental delivery, the length of labour analgesia, or newborn Apgar scores; no harmful side‑effects were reported.  \n- The evidence comes from many studies and we are moderately confident in these findings, but some studies did not clearly hide which group they were in and the medicines and delivery methods varied, so the results are not certain.  \n- Future research should include larger, well‑designed studies that look specifically at caesarean and instrumental deliveries and that report any possible side‑effects.\n\nWhat is epidural analgesia and how is it given during labour?  \nEpidural analgesia is a common way to relieve pain while a woman is giving birth. A thin tube is placed in the space around the spinal cord and medicines that numb the belly, pelvis and perineum are delivered through the tube. The medicines can be given continuously (continuous infusion) or in set doses at regular times (automated mandatory bolus). Women can also ask for extra doses themselves using patient‑controlled epidural analgesia, called PCEA.\n\nWhy might the way the medicine is given matter?  \nIf the delivery method works better, a woman may feel less pain that needs extra help from the anaesthesiologist (breakthrough pain). A better method might also use less medicine, reduce the chance of needing a caesarean or forceps/vacuum delivery, and keep the baby’s health scores (Apgar) stable.\n\nWhat did we want to find out?  \nWe wanted to compare automated mandatory bolus with continuous infusion to see which method gives more pain relief, uses less medicine, and causes fewer unwanted outcomes for mother and baby.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared the two delivery methods, combined the results, and judged how confident we could be in the evidence.\n\nWhat did we find?  \nEighteen studies involving thousands of women at term were included. Most women were having their first baby, and all studies excluded pre‑term or complicated pregnancies. The way the epidural was started differed: some used a combined spinal‑epidural technique, others used epidural alone, and one used a dural puncture epidural. Different local anaesthetics (ropivacaine, levobupivacaine, bupivacaine) were mixed with opioids such as fentanyl or sufentanil. Overall, the studies were judged to have low risk of bias for most aspects, although some did not clearly hide group allocation.\n\nThe main findings were:  \n- Automated mandatory bolus probably reduces the chance that a woman will experience breakthrough pain that needs extra help.  \n- It probably also reduces the amount of local anaesthetic that is used during labour.  \n- It probably makes little or no difference to the likelihood of a caesarean delivery.  \n- It probably makes little or no difference to the chance of needing forceps or a vacuum (instrumental delivery).  \n- It probably makes little or no difference to how long the epidural works during labour.  \n- Reports suggest that women may feel more satisfied with automated mandatory bolus, but the evidence is uncertain.  \n- All studies showed no difference in newborn Apgar scores, and no harmful side‑effects were reported.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the evidence because some studies did not clearly hide which group participants were in, and the studies used different medicines and delivery techniques, which makes the overall picture less certain.\n\nHow up to date is this evidence?  \nThe evidence was searched up to December 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 640,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 42.318437500000044,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.325312500000003,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.57540625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.440125000000002,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.375,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.75,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.445523142259598,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.233984375,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 253,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 134,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 134.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 184,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 640,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 640 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:00.161864"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best dressings and securement devices to prevent complications in people with peripheral arterial catheters (small tubes used to monitor blood and give medicine)?\n\nWe are very uncertain which type of dressing or device is best for arterial catheters. The available evidence shows no clear difference in catheter failure or infection rates between the products studied. We need more high-quality research to provide clear guidance for patients and doctors.\n\nWhat is a peripheral arterial catheter and why is it used?\nA peripheral arterial catheter is a small tube inserted into an artery in the arm or leg to collect blood samples or monitor blood pressure in people who are critically ill or undergoing surgery. They are commonly used in intensive care units and operating rooms. However, these catheters can sometimes slip out of place or get blocked, which can lead to serious health problems.\n\nWhat are the problems with peripheral arterial catheters?\nDespite their importance, peripheral arterial catheters often fail, meaning they have to be put in again. This can happen for various reasons, such as the catheter getting infected, becoming blocked, or moving out of place. These complications can lead to serious health issues, including infection, bleeding, or nerve damage.\n\nWhat did the review authors want to find out?\nWe wanted to find out how well different types of dressings and devices work to hold catheters in place. We looked at comparisons between things like standard see-through dressings, similar dressings with a reinforced border, and special sticky devices that secure the catheter without needing stitches.\n\nHow did we conduct the review?\nWe searched for studies that compared different dressings and devices. We then combined their results and judged how reliable the evidence was.\n\nWhat did we find?\nWe found 5 studies that involved 1228 people with peripheral arterial catheters. Most studies compared different dressing and securement devices. We found that using different devices may make little to no difference to the risk of catheter failure, infection, or other problems. However, the evidence is limited, so we need more research to be certain.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for a few reasons. Researchers conducted small studies with some weaknesses in their methods. For example, in some studies the patients or staff knew which dressing was being used. This knowledge could have changed their actions or the results. Also, the studies included different types of patients and applied the dressings in different ways, which makes it hard to compare the findings.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to May 2023.\n\nIn summary, there is not enough good evidence to know which dressings or devices are best for preventing problems with arterial catheters. We cannot say if one type is better than another. Future studies should be well-designed to compare the different dressings and devices. They should also report on results that matter to patients and their doctors and nurses.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 516,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.742857142857142,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 134,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.77332558139537,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.003125138427468,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.089800664451825,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.090852713178297,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.036677740863787,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.65758582502768,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.637195326688816,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 193,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 516,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 516 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 9,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 50.0,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:23.747234"
+}

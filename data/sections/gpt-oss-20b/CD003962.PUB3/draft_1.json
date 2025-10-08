@@ -1,0 +1,162 @@
+{
+  "id": "CD003962.PUB3",
+  "draft": "Are non-immune-suppressing treatments (like blood-pressure medicines, tonsil removal, and supplements) effective and safe for people with IgA kidney disease (IgA nephropathy)?\n\nKey messages\n- Non‑immune‑suppressing treatments that lower blood pressure, especially medicines that block the renin‑angiotensin system (a hormone system that helps control blood pressure), appear to reduce protein in the urine (proteinuria) and improve kidney function (e.g., creatinine clearance), and no clear increase in serious side‑effects was reported, but the evidence comes from small, short‑term studies of limited quality.\n- Surgical removal of the tonsils (tonsillectomy) may increase the chance of urine protein and microscopic blood returning to normal in Japanese patients, while other approaches such as fish‑oil supplements, blood‑thinning medicines (anticoagulants), or traditional herbal medicines show only modest or uncertain benefits and no clear advantage over usual care.\n- Because most trials were small, short and of uncertain quality, more robust, longer‑lasting research is needed to determine whether these non‑immune treatments can safely preserve kidney function and prevent kidney failure over time.\n\nIntroduction/Aims\nWhat is IgA nephropathy and why does it matter?\nIgA nephropathy (often called IgAN) is the most common type of kidney disease that starts in the tiny filtering units of the kidneys, called glomeruli. In this condition, a protein called immunoglobulin A (IgA) builds up in the kidneys and can cause inflammation and scarring. Over time, this can lead to a gradual loss of kidney function. About one‑in‑five to two‑in‑five people with IgAN will eventually need dialysis or a kidney transplant within 25 years. Because the disease progresses slowly, it can be hard to notice early, and many patients end up with serious kidney problems.\n\nWhat treatments that do not suppress the immune system are used for IgA nephropathy?\nDoctors often try non‑immunosuppressive approaches first. These include medicines that control blood pressure (especially drugs that block the renin‑angiotensin system, or RAS, which helps lower pressure and protect the kidneys), strategies to reduce proteinuria (the presence of protein in the urine, a sign of kidney damage), dietary changes, tonsil removal (tonsillectomy), and some herbal or fish‑oil supplements. These treatments aim to slow kidney damage while avoiding the side‑effects of long‑term immune‑system‑suppressing drugs.\n\nWhat did the review aim to find out?\nThe authors wanted to discover whether these non‑immunosuppressive therapies actually help people with IgA nephropathy. Specifically, they set out to compare the benefits (such such as lower protein in the urine, better kidney function, and fewer cases of kidney failure) and any harms of each treatment. They looked at all randomised trials that tested medicines or procedures like antihypertensives, dietary measures, tonsillectomy, anticoagulants, fish oil, and traditional herbal products in children and adults with a confirmed diagnosis of IgAN.\n\nMethods\nWe searched for studies evaluating non‑immunosuppressive therapies in adults and children with biopsy‑proven IgA nephropathy, combined their results using meta‑analysis, and rated our confidence in the evidence with the GRADE approach.\n\nResults\nWhat did we find?\nWe identified 80 randomised (or quasi‑randomised) controlled trials that enrolled a total of 4,856 people with biopsy‑proven IgA nephropathy, including both adults and children. All trials tested non‑immunosuppressive interventions. The most frequently studied were antihypertensive agents that block the renin‑angiotensin system (examined in 37 studies). Other interventions evaluated were tonsillectomy, anticoagulant therapy, fish‑oil supplementation, traditional Chinese medicines and antimalarial therapy, each compared with placebo, no treatment, symptomatic care or standard care. The tonsillectomy studies were conducted exclusively in Japanese patients. The abstract does not provide details on the countries or settings of the remaining trials, nor on participants’ age distribution, gender balance, disease severity, length of follow‑up, or funding sources.\n\nMain results: Effects of non‑immunosuppressive treatments\nRenin‑angiotensin system inhibition probably reduces protein loss in the urine, probably lowers blood markers of kidney damage, and probably improves kidney filtration slightly. Tonsillectomy may cause a large increase in the chance of protein‑loss remission and disappearance of blood in the urine. Anticoagulant therapy, fish‑oil supplementation and traditional Chinese medicines may provide a small improvement in kidney function. Antimalarial therapy may cause a large increase in the proportion of patients achieving a major reduction in protein loss. Overall, antihypertensive medicines appear to be the most beneficial non‑immunosuppressive treatment for IgA nephropathy, and their benefits likely outweigh any harms.\n\nLimitations\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting and not all studies provided all the data we needed, the studies were very small, and the evidence does not cover all of the people or outcomes we are interested in.\n\nCurrency\nThis review updates our previous review. The evidence is up to date to December 2023 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 794,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.060606060606062,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 77,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 256,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 256.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 39.104920616746824,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.782301351041905,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.636726204106559,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.977027707808563,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.389985497290287,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 56.302419662621176,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.757575757575758,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.206555615733702,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.53157986413251,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 369,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 369.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 174,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 256,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 256.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 794,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 794 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 10,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 55.55555555555556,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the mandatory style check: all subheadings must be phrased as questions, but the current headings (Key messages, Introduction/Aims, Methods, Results, Limitations, Currency) are statements. This breaches the Master Style Guide and therefore the PLS cannot be approved. In addition, several clarity and style issues would still need fixing:\n1. **Subheading format** – change each heading to a question (e.g., \"What are the key messages?\", \"What did we aim to find out?\", \"How did we conduct the review?\", \"What did we find?\", \"What are the limitations of the evidence?\", \"How up‑to‑date is this review?\").\n2. **Unexplained jargon** – terms like “proteinuria”, “creatinine clearance”, and “renin‑angiotensin system (RAS)” appear without plain‑language definitions. Rewrite to include brief explanations (e.g., “proteinuria – protein in the urine, a sign of kidney damage”).\n3. **Long, repetitive sentence** – \"Renin‑angiotensin system inhibition probably reduces protein loss in the urine, probably lowers blood markers of kidney damage, and probably improves kidney filtration slightly.\" This is wordy and repeats “probably”. Suggested rewrite: \"Blocking the renin‑angiotensin system usually lowers the amount of protein in the urine, improves kidney‑function tests, and may slightly increase kidney filtration.\"\n4. **Passive voice** – \"The tonsillectomy studies were conducted exclusively in Japanese patients.\" Change to active voice: \"Researchers conducted the tonsillectomy studies only in Japanese patients.\"\n5. **Noun‑heavy phrasing** – \"non‑immune‑suppressing treatments\" can be simplified to \"treatments that do not suppress the immune system\".\n\nMetrics support these observations: the draft shows a high nominalisation count (31, beyond typical range) and a very high noun count (256). The SMOG index (15.2) and Dale‑Chall score (8.5) are also above typical PLS levels, indicating the text is more complex than needed. Reducing nominalisations, nouns, and long words will improve readability and align the draft with typical PLS patterns.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets the word‑count limit and most readability metrics are within typical ranges (e.g., Flesch Reading Ease 39.1 at P25, words per sentence 24.1 at P75). However, several features deviate strongly: nominalisations (31, BEYOND_P90), total nouns (256, BEYOND_P90), SMOG index (15.2, BEYOND_P90), Dale‑Chall readability (8.5, P90), complex words (174, BEYOND_P90), and long words (256, BEYOND_P90). These indicate the text is more noun‑heavy and complex than usual PLS, supporting the need to simplify language, reduce nominalisations, and use more active, verb‑focused sentences."
+    }
+  ]
+}

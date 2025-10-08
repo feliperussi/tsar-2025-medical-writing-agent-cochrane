@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies effective for treating glioma?\n- Anti-PD-1 and anti-PD-L1 therapies may not be effective for treating glioma, with most studies showing no benefit in overall survival or progression-free survival, although the quality of evidence is not strong enough to be certain.\n- The evidence for the effectiveness of these therapies in treating glioma is generally of low quality, and more research is needed to fully understand their potential benefits and harms.\n- Future studies should aim to provide higher-quality evidence and address the uncertainties surrounding the use of anti-PD-1 and anti-PD-L1 therapies for glioma.\n\nWhat is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme is the most common and aggressive type of adult glioma, a kind of brain tumor. It has a poor prognosis, with a median survival of only 16 months. The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer. Current treatments have limited effectiveness, and new approaches are needed to improve patient outcomes.\n\nWhat are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, immune checkpoint inhibitors allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of immune checkpoint inhibitors, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. They aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nWhat did we find?\nWe found 7 studies that involved 1953 people with diffuse glioma. Most studies evaluated anti-PD-1 treatment in recurrent and newly diagnosed grade 4 glioma participants. The studies compared anti-PD-1/PD-L1 antibodies to placebo or other therapies used alone or with other immune checkpoint inhibitors. The review found that nivolumab alone probably has no benefit in treating recurrent glioblastoma multiforme. Anti-PD1 plus bevacizumab may also be ineffective. Neoadjuvant plus adjuvant pembrolizumab may improve overall survival and progression-free survival, but this is based on very low-certainty evidence.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 471,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.84,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 7,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 44,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 18,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 137,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 51.741699363057336,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.722780467091297,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.399999999999999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.605690021231421,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.94364331210191,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.71473460721869,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.44,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.539392014169456,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.404676314225054,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 193,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 99,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 136,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 471,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 471 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 3,
+        "P75_count": 7,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a strong start and passes all critical checks for structure and formatting. However, it is not approved because it omits key findings and misses opportunities to clarify important information for the reader. The main issues are: 1) The results section is incomplete, leaving out the review's findings for newly diagnosed patients. 2) The key messages use technical terms like 'overall survival' without the immediate definitions provided in the source material, reducing their clarity. 3) The limitations are listed without explaining why they matter to the reader. Addressing these three points will ensure the summary is complete, clear, and more helpful for patients and their families.",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns. Nearly all metrics, including readability scores (Flesch-Kincaid Grade: 10.7), sentence length (18.8 words/sentence), and passive voice (7 instances), fall within the best quartile (P25/P75). This indicates a strong stylistic foundation. The feedback provided focuses on improving content completeness and clarity rather than addressing statistical deviations, as none were significant."
+    }
+  ]
+}

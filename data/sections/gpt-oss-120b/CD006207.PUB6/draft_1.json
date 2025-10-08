@@ -1,0 +1,162 @@
+{
+  "id": "CD006207.PUB6",
+  "draft": "analysisWe need to assemble plain language summary with formatting rules: Title as Heading (maybe just plain line?), Main sections as **Bold Headings**. No markdown allowed? It says no markdown. But they said formatting rules: Title as `Heading`. Main sections as `**Bold Headings**`. That uses markdown syntax for bold. But they say no markdown. Conflict. Probably they want plain text with bold indicated by double asterisks? But that's markdown. However they explicitly say no markdown. Might interpret that we should not use markdown syntax like #, but double asterisks is okay as they defined. We'll follow instructions: Title as Heading (maybe just line). Then sections with **Bold Headings**. Provide list with dashes. Provide subheadings as given.\n\nThus final text:\n\nTitle line: Do physical interventions (like wearing masks, washing hands, and keeping distance) reduce the spread of respiratory viruses?\n\nThen **Key messages** heading, then list.\n\nThen **Introduction/Aims** heading, then subheadings with content.\n\nThen **Methods** heading, content.\n\nThen **Results** heading, content.\n\nThen **Limitations** heading, content.\n\nThen **Currency** heading, content.\n\nMake sure no extra markdown like bullet points beyond dash.\n\nLet's assemble.\n\nKey messages list: three items as given.\n\nIntroduction/Aims: two subheadings: \"Why are outbreaks of respiratory viruses a concern and what can be done to stop them?\" and \"What did the review aim to: assess the effectiveness of physical interventions?\" with content.\n\nMethods: subheading \"Methods\" content.\n\nResults: subheading \"What did we find?\" content.\n\nLimitations: content from limitations_of_evidence.\n\nCurrency: content from evidence_currency_statement.\n\nMake sure line breaks.\n\nProceed.Do physical interventions (like wearing masks, washing hands, and keeping distance) reduce the spread of respiratory viruses?\n\n**Key messages**\n- Physical interventions show mixed results: wearing masks in the community does not clearly reduce the spread of respiratory viruses, while regular hand cleaning (hand hygiene) probably lowers the overall number of respiratory illnesses a little, and harms such as discomfort or skin irritation were rarely measured.\n- Higher‑grade respirators (N95/P2 respirators, which are tight‑fitting masks that filter out small particles) do not appear to give a clear benefit over standard surgical masks (loose‑fitting masks used in medical settings) for preventing infection in health‑care settings, and both types can cause discomfort (unpleasant feeling while wearing).\n- Because many studies had methodological problems (issues with how the study was done), low adherence (people did not consistently follow the intervention), and limited reporting of side effects (unwanted effects), more large, well‑designed trials are needed to determine how these measures work in different groups and settings.\n\n**Introduction/Aims**\nWhy are outbreaks of respiratory viruses a concern and what can be done to stop them?\nViruses that cause acute respiratory infections (ARIs) – illnesses that affect the nose, throat and lungs such as the flu, SARS and COVID‑19 – spread quickly around the world and can lead to severe illness, hospitalisation and death. Medicines and vaccines help, but they are not always enough to prevent the virus from moving from person to person, especially when a new virus appears. Because of this, researchers look at “physical interventions” – actions that do not involve drugs – to interrupt transmission. These include things like wearing masks, keeping a distance from others, cleaning hands, isolating sick people, and using protective equipment such as goggles or face shields.\n\nMedical or surgical masks are simple cloth or paper coverings that catch large droplets. N95/P2 respirators are tighter‑fitting masks that filter out at least 95 % of tiny airborne particles, offering a higher level of protection. All of these measures aim to reduce the spread of the virus without relying on medication.\n\nWhat did the review aim to: assess the effectiveness of physical interventions?\nThe authors wanted to know how well these physical measures work. Specifically, they set out to assess the effectiveness of interventions such as screening at entry points, isolation, quarantine, physical distancing, personal protective equipment (including medical/surgical masks, N95/P2 respirators, glasses), hand hygiene, and even simple actions like gargling, in reducing the spread of acute respiratory viruses.\n\n**Methods**\nMethods\nWe searched for studies evaluating physical measures (e.g., masks, hand hygiene, distancing) to interrupt or reduce spread of acute respiratory viruses, combined their results, and assessed confidence in the evidence based on study quality and size.\n\n**Results**\nWhat did we find?\nWe examined 78 randomised (including cluster) controlled trials, of which 11 new trials added 610,872 participants. The studies were carried out in a wide range of settings – community members such as schoolchildren and residents of immigrant neighbourhoods, health‑care workers and patients in hospital wards – and in both high‑income and low‑income countries across several continents. The interventions tested were physical measures: medical or surgical masks versus no mask, N95/P2 respirators versus medical or surgical masks, and hand‑hygiene programmes versus no intervention. No randomised trials were found for gowns, gloves, face shields or screening at entry ports. The review found that wearing a medical or surgical mask in the community probably makes little or no difference to the chance of getting flu‑like illness, using an N95 or P2 respirator instead of a medical or surgical mask probably makes little or no difference to the chance of a laboratory‑confirmed influenza infection, and regular hand‑washing and other hand‑hygiene measures probably reduce the chance of an acute respiratory infection slightly – about 14 fewer people per 100 may become ill compared with those who do not use these measures.\n\n**Limitations**\nWe are moderately confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, not all of the studies provided data about everything we were interested in, the studies were done in different types of people or used different ways of delivering the intervention, the evidence does not cover all the people, interventions, comparators, or outcomes we care about, and the studies were very small or based on few cases.\n\n**Currency**\nThis review updates our previous review. The evidence is up to date to October 2022 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1042,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 61,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.081967213114755,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 124,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 50,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 307,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 307.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.34517180076148,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.643944180485196,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.095964412699416,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.161804222648755,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.77904408294264,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.36795569679998,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.344262295081967,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 17.106735979665885,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.696670564173563,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 452,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 452.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 207,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 207.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 326,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 326.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 1042,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 1042 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 4,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft does not meet the critical checklist: • The main title is a question, but all section headings (Key messages, Introduction/Aims, Methods, Results, Limitations, Currency) are not phrased as questions, which the guidelines require. • The total word count is 1,042 words, exceeding the 850‑word limit for a Plain Language Summary. • Because of the length, the summary also contains excessive passive constructions (22 instances) and a high level of nominalisation, noun density, and complex/long words, which further reduce readability. These issues must be corrected before the PLS can be approved.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft generally conforms to typical patterns (61% of features in best quartile) but has several out‑of‑range metrics: passive_voice (22, beyond P90), nominalization (30, beyond P90), nouns (307, beyond P90), smog_index (17.1, beyond P90), complex_words_dc (452, beyond P90), complex_words (207, beyond P90) and long_words (326, beyond P90). These indicate the text is overly dense and uses many complex constructions, contributing to the excess length and reduced readability."
+    }
+  ]
+}

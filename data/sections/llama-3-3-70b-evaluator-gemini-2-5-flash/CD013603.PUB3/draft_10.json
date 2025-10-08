@@ -1,0 +1,162 @@
+{
+  "id": "CD013603.PUB3",
+  "draft": "We reviewed existing research to understand healthcare workers' experiences with combining different health services. We wanted to see how their views might affect the success of this approach.\n\nWhat is primary healthcare integration? Primary healthcare (PHC) integration means providing healthcare services together, rather than separately. This approach aims to give patients well-rounded and organized care, especially in areas with limited resources. PHC integration can improve people's health, make care feel more joined-up, and help healthcare systems run better.\n\nWhy are healthcare workers' views important? Healthcare workers play a crucial role in making PHC integration successful. Their opinions and experiences can influence how well PHC integration works. By looking at what healthcare workers think and feel, we can understand what helps or hinders PHC integration and learn how to improve it.\n\nWhat did we want to find out? We conducted a 'scoping review' to map out all the available research on this topic. We searched for studies that used methods like interviews and focus groups to explore healthcare workers' opinions and experiences with PHC integration. We then grouped the findings to see what types of services were combined and in what settings.\n\nWhat did we find? We found 184 studies that met our criteria. Most of these studies were published in the last 12 years, with many more being published in the last 5 years. The studies showed that healthcare workers have varied experiences and views on integrating primary healthcare services. The studies we found often described benefits seen by healthcare workers, such as improved service delivery. The studies did not focus on or report any harmful effects. We identified 6 different areas where healthcare services were being combined, including \n- Mental and behavioral health\n- HIV, tuberculosis, and sexual reproductive health\n- Maternal, women, and child health\n- Long-term health conditions (like diabetes or heart disease)\n- General primary healthcare services\n- Other health services (like physiotherapy) and specialist care\n\nWhat are the limitations of the evidence? The studies we found were small and did not cover all types of healthcare workers or patient outcomes. This means our review provides a map of the existing research, but we cannot draw strong conclusions about the overall effects of integrating services.\n\nIs the evidence up to date? The evidence is current up to July 2020.\n\nWhat are the key messages? \n- Healthcare workers have varied experiences and views on integrating primary healthcare services, with benefits including improved delivery of services, but harmful effects were not explicitly reported in the review.\n- We found that health services are combined in many different ways, using different strategies, and involving a wide range of healthcare workers. Understanding this variety can help plan future research and make better decisions about healthcare.\n- Further research is needed to fully understand the impact of primary healthcare integration on healthcare workers and patients, particularly in terms of long-term effects and potential unintended consequences, and to address the gaps in the current evidence base.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 510,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.586206896551722,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 68,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 143,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 48.81441176470591,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.819601081812039,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.864338742393507,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.104392156862747,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.191345503718729,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.0764029749831,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.241379310344827,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.198039027185569,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.497883705206221,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 214,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 214.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 181,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 510,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 510 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is well-structured and factually accurate. However, it can be made more accessible for a lay audience by simplifying some key technical phrases and clarifying the implications of the review's methods. Here are the top 3 improvements to focus on:\\n\\n1. **Simplify the core technical phrase.** The phrase “integrating primary healthcare services” is used multiple times, including in the key messages. While you define it, consistently using a simpler alternative would improve readability.\\n    - **Quote:** \\\"Healthcare workers have varied experiences and views on integrating primary healthcare services...\\\"\\n    - **Problem:** This phrase is long and clinical. Repeating it makes key sections dense.\\n    - **Suggestion:** Replace it with a simpler term you've already used, like \\\"combining health services\\\" or \\\"joining up care.\\\" For example: \\\"Healthcare workers have different experiences and views on combining health services...\\\"\\n\\n2. **Clarify the meaning of a 'scoping review' in the limitations.** Readers may not understand what a 'scoping review' is or why it means you cannot draw strong conclusions.\\n    - **Quote:** \\\"This means our review provides a map of the existing research, but we cannot draw strong conclusions about the overall effects of integrating services.\\\"\\n    - **Problem:** This is a good start, but the connection to the term 'scoping review' (used in the 'What did we want to find out?' section) isn't explicit here, leaving the reader to connect the dots.\\n    - **Suggestion:** Be more direct about the review type and its purpose. For example: \\\"Because this was a 'scoping review', our goal was to map out the existing research, not to measure the effects of combining services. Therefore, we cannot draw strong conclusions about whether this approach is effective.\\\"\\n\\n3. **Make the final key message more direct and active.** The last key message is long and uses several abstract nouns, which can be hard to process.\\n    - **Quote:** \\\"Further research is needed to fully understand the impact of primary healthcare integration on healthcare workers and patients, particularly in terms of long-term effects and potential unintended consequences, and to address the gaps in the current evidence base.\\\"\\n    - **Problem:** This sentence is packed with complex concepts like \\\"impact,\\\" \\\"unintended consequences,\\\" and \\\"evidence base.\\\"\\n    - **Suggestion:** Break it down and use more direct language. For example: \\\"More research is needed to learn how combining health services affects patients and healthcare workers over time. This will help find any unexpected outcomes and fill gaps in our knowledge.\\\"",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 61% of features in the best quartile for readability (e.g., low sentence length, high active voice). However, it deviates significantly on vocabulary complexity, with a high number of long words (181, P90) and words unfamiliar to a lay audience (Dale-Chall complex words: 214, P90). This suggests that while the sentence structure is excellent, the word choice could be simpler to better serve a lay audience."
+    }
+  ]
+}

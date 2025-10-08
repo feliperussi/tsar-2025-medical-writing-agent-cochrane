@@ -1,0 +1,162 @@
+{
+  "id": "CD015313.PUB2",
+  "draft": "# Can mucus‑thinning medicines lower infections and improve breathing in children with chronic lung disease?\n**Key Messages**\n- Regular use of mucus-thinning medicines (mucolytics), such as hypertonic saline (a solution with a higher concentration of salt than normal blood, used to help loosen and clear mucus), may reduce the number of lung infections (exacerbations) in children with chronic lung disease (a condition where the lungs are inflamed and damaged, making it hard to breathe), but the evidence is not strong enough to be certain, and it is unclear if these medicines can improve breathing or quality of life.\n- The current evidence for mucolytics in children with chronic lung disease comes from a single small study with some methodological flaws (problems in the way the study was designed or conducted), which means the results should be interpreted with caution, and more research is needed to fully understand the potential benefits and harms of these medicines.\n- Further research, including larger and better-designed studies, is necessary to determine the effectiveness and safety of mucolytics for children with chronic lung disease, and to answer important questions about their use, such as which type of mucolytic is best, how long they should be used, and how they compare to other treatments.\n**Introduction**\n### What is chronic suppurative lung disease?\nChronic suppurative lung disease (CSLD) is a term used to describe a group of lung conditions that cause a long-term cough with mucus or pus. This includes conditions like bronchiectasis and protracted bacterial bronchitis (PBB). CSLD can lead to frequent lung infections, inflammation, and damage to the airways, making it hard for children to breathe and increasing their risk of developing other health problems.\n### Why is it important to find new treatments for chronic suppurative lung disease?\nCurrently, there are limited treatment options for CSLD, and researchers are looking for new ways to help children with this condition. Mucolytic agents, which help break down mucus, are one potential treatment option. They work by improving the clearance of mucus from the airways and reducing the risk of infection and inflammation.\n### What did the review authors want to find out?\nThe authors of this review wanted to determine whether mucolytic agents are effective in reducing the frequency of lung infections, improving lung function, and enhancing the quality of life for children with CSLD. They also aimed to assess the potential risks and side effects of using mucolytic agents in this population.\n**Methods**\n### Methods\nWe searched for studies comparing mucolytics to a control in children with chronic suppurative lung disease, summarized their results, and rated our confidence in the evidence.\n**Results**\n### Reason for Termination\nThe agent stopped because it reached the maximum allowed number of iterations without completing the task.\n### Possible Solutions\nSimplify the request, break it into smaller steps, or adjust the iteration limit if you have control over the execution environment.\n**Limitations**\nThe evidence is limited because many studies may not have blinded participants to their treatment, not all studies reported all outcomes of interest, and the sample sizes were very small.\n**Currency**\nThe evidence is up to date to June 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 558,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 19,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 29.36842105263158,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.4 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 54,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 166,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.30347198641766,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.515297113752123,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 16.069855687606108,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.1 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 11.67534050179211,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.844142614601022,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 61.26806262969251,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.3 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 9.368421052631579,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.4 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 12.9498743710662,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.484039275608376,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 213,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 99,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 558,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 558 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 4,
+        "P75_count": 7,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text needs improvements in clarity and readability. Issues include long sentences with unexplained jargon, excessive use of passive voice, and lack of paragraph breaks. Suggested rewrites and improvements are provided to enhance understanding for patients.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate moderate conformity with typical PLS patterns, but with significant deviations in sentence length, passive voice, and complexity. Improvements are needed to reduce these deviations and enhance readability."
+    }
+  ]
+}

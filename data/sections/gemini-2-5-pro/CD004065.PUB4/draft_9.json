@@ -1,0 +1,162 @@
+{
+  "id": "CD004065.PUB4",
+  "draft": "What are the benefits and harms of medicines for eosinophilic esophagitis (a long-term allergic condition that causes swelling in the food pipe)?\n\nKey messages\n\n- For people with eosinophilic esophagitis, medicines called corticosteroids (which reduce swelling) and biologics (which target the immune system) seem to reduce swelling in the food pipe. Corticosteroids may also improve symptoms, but we are uncertain if biologics do.\n- People taking corticosteroids may be less likely to stop treatment due to unwanted effects than those taking a placebo (a dummy treatment), while there may be no difference for people taking biologics.\n- More research is needed to understand the long-term benefits and harms of these treatments and to compare them directly to find out which works best.\n\nWhat is eosinophilic esophagitis?\n\nEosinophilic esophagitis (EoE) is a long-term condition that affects the esophagus, the tube that carries food from the mouth to the stomach. It happens when a type of white blood cell, called an eosinophil, builds up in the lining of the esophagus. This allergic response inflames the food pipe, which can make it hard to swallow, cause food to get stuck, and lead to chest pain. Because there is no cure for EoE, people need ongoing treatment. Common treatments include special diets, procedures to stretch the esophagus, and medicines like corticosteroids and newer 'biologic' drugs that target the immune system.\n\nWhat did we want to find out?\n\nWe wanted to find out how effective and safe different medicines are for people with EoE. We looked at whether these treatments improved symptoms, reduced swelling in the food pipe, and caused any unwanted effects.\n\nHow did we conduct this review?\n\nWe searched for studies that compared medical treatments for EoE against a placebo (a dummy treatment) or another treatment. We then combined the results and rated our confidence in the evidence.\n\nWhat did the review find?\n\nWe found 41 studies that included 3253 people with EoE.\n- The studies included both children and adults (11 studies focused only on children).\n- Most people had 'active' EoE, meaning their symptoms were present. 4 studies looked at people with 'inactive' disease, where symptoms were under control.\n- The review looked at 19 different treatments, but we focused on the two main ones compared against a placebo: corticosteroids and biologics.\n\nWhat were the main results?\n\nFor people with active EoE, this review found the following when comparing treatments to a placebo (a dummy treatment):\n\nCorticosteroids\n- Corticosteroids greatly reduce swelling in the food pipe by lowering the number of the white blood cells (eosinophils) that cause it. For every 3 people treated, 1 extra person had their swelling reduced.\n- Corticosteroids may also slightly improve symptoms. For every 4 people treated, 1 extra person felt their symptoms improve.\n- We are uncertain if corticosteroids make the food pipe look healthier during an endoscopy (a camera examination).\n- People who take corticosteroids may be slightly less likely to stop treatment because of unwanted effects.\n\nBiologics\n- Biologics probably also greatly reduce swelling in the food pipe by lowering the number of the white blood cells (eosinophils) that cause it. For every 2 people treated, 1 extra person had their swelling reduced. However, the evidence was less clear about *how much* the swelling was reduced.\n- We are uncertain if biologics improve symptoms. Studies measured symptoms in different ways and reported mixed results: some found that biologics helped, while others found little or no difference compared to a placebo.\n- Biologics may make little to no difference to how healthy the food pipe looks during an endoscopy (a camera examination).\n- People who take biologics are probably just as likely to stop treatment due to unwanted effects as people who take a placebo.\n\nWhat are the limitations of the evidence?\n\nWe have low to moderate confidence in the evidence. This is because some results came from a small number of studies. Also, studies often measured results in different ways. This made it hard to combine their findings and be certain about our conclusions.\n\nHow up-to-date is this evidence?\n\nThe evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 709,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 38,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.657894736842106,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 91,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 180,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 55.8066867715834,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.110556380372653,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.598622967856876,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.951988716502115,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.781916709969565,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.14872689481108,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.315789473684211,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.954451150103322,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.470861762304208,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 249,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 249.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 202,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 202.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 709,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 709 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 1,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that meets all critical requirements, including word count and factual accuracy. The readability scores are excellent. However, a few key improvements are needed to enhance clarity for a lay audience before it can be approved. The main issues are overly complex vocabulary and noun-heavy phrases, which make some sentences difficult to follow.\n\nHere are the top 3 areas for improvement:\n\n1. **Simplify complex, noun-heavy sentences.** Some descriptions are too technical and rely on abstract nouns instead of simple verbs. This is supported by the high counts for nouns (180) and nominalizations (23).\n    *   **Instead of:** 'It happens when a type of white blood cell, called an eosinophil, builds up in the lining of the esophagus. This allergic response inflames the food pipe...'\n    *   **Consider:** 'It happens when your body has an allergic reaction that causes a type of white blood cell (called an eosinophil) to build up in your food pipe. This build-up causes swelling...'\n\n2. **Clarify the uncertainty around the results for biologics.** The current wording is a bit vague and could confuse readers about why the evidence is mixed.\n    *   **Instead of:** 'However, the evidence was less clear about *how much* the swelling was reduced.'\n    *   **Consider:** 'However, when the swelling was measured in a different way, the effect of biologics was unclear.'\n    *   **Instead of:** 'We are uncertain if biologics improve symptoms. Studies measured symptoms in different ways and reported mixed results: some found that biologics helped, while others found little or no difference compared to a placebo.'\n    *   **Consider:** 'We are uncertain if biologics improve symptoms. Because studies measured symptoms in different ways, some showed they helped while others found little or no difference compared to a placebo.'\n\n3. **Make the limitations section more specific.** The current explanation is a bit generic and doesn't fully align with the source material.\n    *   **Instead of:** 'We have low to moderate confidence in the evidence. This is because some results came from a small number of studies. Also, studies often measured results in different ways.'\n    *   **Consider:** 'Our confidence in the evidence is limited. This is mainly because some results came from a small number of studies, and they often measured outcomes in different ways, making it hard to combine their findings.'\n\nThese changes will help address the high number of complex and long words noted in the evaluation and make the summary easier for patients to understand.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns in many areas, with 66.7% of metrics falling in the best quartile, including excellent sentence length and active voice usage. However, the analysis also highlights significant deviation in vocabulary complexity. Five metrics are in the P90 range, indicating higher-than-typical use of nominalizations, nouns, long words, and complex words (Dale-Chall). This suggests that while the sentence structure is clear, the word choice could be simplified to improve overall readability."
+    }
+  ]
+}

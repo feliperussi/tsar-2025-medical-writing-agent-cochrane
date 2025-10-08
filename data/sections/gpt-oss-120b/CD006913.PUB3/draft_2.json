@@ -1,0 +1,162 @@
+{
+  "id": "CD006913.PUB3",
+  "draft": "Do psychological therapies (talk therapy, education, relaxation) improve quality of life, depression, anxiety, or disease activity in people with inflammatory bowel disease (IBD)?\n\nWhat are the main take‑away messages?\n– Talk therapy, education, and relaxation probably give small improvements in wellbeing, depression and anxiety for adults with IBD; talk therapy may also help children and adolescents feel better.\n– The studies did not show a clear effect on how active the gut disease is, and no harmful effects were reported.\n– The evidence is limited because the trials were short, varied a lot, and many were small, so we need better, longer studies that also look at disease activity and include children.\n\nWhat is inflammatory bowel disease and why does it matter?\nInflammatory bowel disease (IBD) includes Crohn’s disease and ulcerative colitis, which cause long‑term inflammation and damage to the digestive tract. People with IBD often have painful gut symptoms, frequent stools, and may develop serious complications. They also experience higher rates of anxiety and depression. The stress of living with a chronic gut condition can worsen mental health, and poor mental health can make gut symptoms feel worse. Standard medical treatment reduces gut inflammation but does not directly address emotional wellbeing.\n\nWhat did the review aim to find out?\nWe wanted to know whether psychological interventions – talk therapy (psychotherapy), patient education, or relaxation techniques – improve (1) quality of life (how people feel day‑to‑day), (2) emotional state (depression and anxiety), and (3) disease activity (how active the gut inflammation is) in anyone with IBD, including children.\n\nWhat did we do?\nWe searched databases and trial registers up to May 2023 for randomised trials that compared any psychological intervention with usual care, sham, or another active treatment. We included studies with at least two months of follow‑up and extracted data on quality of life, depression, anxiety and disease activity. Two reviewers worked independently and we assessed the risk of bias.\n\nWhat did we find?\nWe found 68 trials that enrolled 6 405 participants (6 111 adults and 294 children or adolescents). All trials lasted at least two months.\n\nIn adults:\n– Talk therapy probably improves quality of life and probably reduces depression and anxiety, but the benefits are modest.\n– Education programmes probably improve quality of life and may slightly lower depression and anxiety; they do not change disease activity.\n– Relaxation techniques probably improve quality of life and probably lower depression and anxiety a little; they also do not affect disease activity.\n\nIn children and adolescents:\n– Talk therapy probably improves quality of life; its effect on anxiety is unclear and we have no data on depression or disease activity.\n– Education and relaxation showed uncertain effects because only a few small studies were available.\n\nWhat are the limitations?\nThe evidence is of moderate confidence. Many trials could not blind participants, used different types of interventions, and had small sample sizes. Not all outcomes were reported in every study, and follow‑up periods were short.\n\nHow current is the evidence?\nWe searched up to May 2023, so the evidence reflects studies published up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 535,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.814814814814813,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 171,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 45.51212184146766,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.83385254413292,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.675257874697124,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.666542056074764,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.346486673589478,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.71201107649706,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.518518518518518,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.135528725660043,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.567917618553134,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 257,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 257.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 126,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 535,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 535 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 7,
+        "P75_count": 2,
+        "P90_count": 7,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 38.88888888888889,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the clarity check because it contains several issues that could confuse readers:\n1. **Inconsistent terminology** – The first key‑message bullet uses the word “wellbeing” while the rest of the summary talks about “quality of life”. This may leave readers unsure whether these are the same outcome.\n   - *Original*: \"Talk therapy, education, and relaxation probably give small improvements in wellbeing, depression and anxiety for adults with IBD; talk therapy may also help children and adolescents feel better.\"\n   - *Rewrite*: \"Talk therapy, education, and relaxation probably give small improvements in quality of life, depression, and anxiety for adults with IBD; talk therapy may also help children and adolescents feel better.\"\n2. **Overly long, compound sentence** – The third key‑message bullet packs several ideas into one sentence, making it hard to follow.\n   - *Original*: \"The evidence is limited because the trials were short, varied a lot, and many were small, so we need better, longer studies that also look at disease activity and include children.\"\n   - *Rewrite*: \"The evidence is limited because the trials were short, varied a lot, and many were small. We need better, longer studies that also look at disease activity and include children.\"\n3. **Passive construction that obscures agency** – \"The evidence is of moderate confidence\" does not tell who assessed the confidence.\n   - *Original*: \"The evidence is of moderate confidence.\"\n   - *Rewrite*: \"We have moderate confidence in the evidence.\"\nAdditional minor improvements (optional) to reduce noun‑heavy phrasing and nominalisations: change \"Two reviewers worked independently and we assessed the risk of bias\" to \"Two reviewers worked independently to assess the risk of bias.\"\nThese changes will align the summary with the Master Style Guide, improve readability, and address the high nominalisation and noun counts flagged by the PLS evaluation (23 nominalisations, 171 nouns, which are above the median for typical PLS texts).",
+      "pls_evaluation_summary": "The draft meets word‑count limits (535 words) and shows good active‑voice usage (51 instances, P75) but deviates on several lexical metrics: nominalisations (23, P90), total nouns (171, P90), SMOG index (14.1, P90), Dale‑Chall readability (8.6, P90), complex words (126, P90) and long words (176, P90). These indicate a noun‑heavy, complex‑word style that can be softened by the suggested rewrites."
+    }
+  ]
+}

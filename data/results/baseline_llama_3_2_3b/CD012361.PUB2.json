@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012361.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\nIs dexmedetomidine safe and effective for sedation and pain relief in newborn babies who need help breathing?\n\nDexmedetomidine is a medicine that can help calm and pain-free newborn babies who need help breathing. However, there is not enough evidence to say it is safe and effective for this purpose. More research is needed to understand its long-term effects and whether it is a good option for newborn babies.\n\nWe looked at the evidence to see if dexmedetomidine is safe and effective for sedation and pain relief in newborn babies who need help breathing. We searched for studies on dexmedetomidine in newborn babies who needed help breathing and found no studies that met our criteria. We also found four ongoing studies that may provide some evidence in the future.\n\nWe found no studies that compared dexmedetomidine to other medicines for sedation and pain relief in newborn babies who needed help breathing. We also found that there are no data available on the long-term effects of dexmedetomidine in this population.\n\nThe evidence is very low certainty because we found no studies that met our criteria and the studies that are ongoing may not provide enough information to answer our question. We also do not know if dexmedetomidine is safe and effective for this purpose.\n\nMore research is needed to understand the safety and effectiveness of dexmedetomidine for sedation and pain relief in newborn babies who need help breathing. Future studies should address the efficacy, safety, and long-term effects of dexmedetomidine as a single drug therapy for sedation and analgesia in newborn infants.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 293,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 13,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.53846153846154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 37,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 78,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 43.920918876345496,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.732423208191125,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.115954318718828,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.945529010238907,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.295248096613285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.88999737463901,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.615384615384615,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.782329983125269,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.291423050669467,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 96,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 46,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 86,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 293,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 293 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 8,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.788949"
+}

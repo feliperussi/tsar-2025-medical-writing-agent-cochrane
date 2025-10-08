@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004762.PUB3",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What are the benefits and harms of medicines for muscle stiffness (myotonia)?\n\n**Key messages**\n\n– For people with a condition called non-dystrophic myotonia, a medicine called mexiletine likely reduces muscle stiffness and may improve quality of life. Another medicine, lamotrigine, may also help muscles relax and is likely to improve quality of life. Both medicines cause more unwanted effects than a dummy pill (placebo), such as stomach problems, tiredness, and headache.\n\n– For people with a condition called myotonic dystrophy, it is less clear if medicines help. Mexiletine probably helps hand muscles relax faster after gripping, but we don't know if it improves overall stiffness or quality of life. It also causes unwanted effects.\n\n– More research is needed to find treatments for people who do not get better with current medicines. Future studies should also look for better ways to include people with rare diseases in research.\n\n**What is myotonia?**\n\nMyotonia is a condition where muscles cannot relax properly after being used. This can cause stiffness, cramps, pain, and tiredness, which can make daily life difficult.\n\nThere are two main types of disorders that cause myotonia:\n– Non-dystrophic myotonia, where muscle stiffness is the main problem.\n– Myotonic dystrophy, which is a more widespread condition that causes muscle stiffness along with other problems like muscle weakness, heart rhythm changes, and cloudy areas in the lens of the eye (cataracts).\n\nSeveral medicines are used to try to reduce muscle stiffness.\n\n**What did we want to find out?**\n\nWe wanted to find out how well different medicines work to reduce myotonia and whether they cause any unwanted effects.\n\n**What did we do?**\n\nWe searched for studies that compared a medicine for myotonia to a placebo or another medicine. The people in the studies had either non-dystrophic myotonia or myotonic dystrophy.\n\nWe compared and summarized the results of the studies. We also rated our confidence in the evidence, based on factors such as how the studies were done and how many people were in them.\n\n**What did we find?**\n\nWe found 17 studies with a total of 392 people. Of these, 219 people had myotonic dystrophy and 173 had non-dystrophic myotonia. The studies tested several different medicines. The most studied medicines were mexiletine and lamotrigine.\n\n**For people with non-dystrophic myotonia**\n\n*   **Mexiletine:** This medicine probably reduces muscle stiffness. It also probably helps people grip and release their hands more easily. It may improve their overall quality of life. However, people taking mexiletine had more unwanted effects than those taking a placebo. The most common were stomach problems, tiredness, and headache.\n\n*   **Lamotrigine:** This medicine may help muscles relax faster. It probably improves quality of life. People taking lamotrigine also had more unwanted effects, most often headache, tiredness, and rash.\n\n**For people with myotonic dystrophy**\n\n*   **Mexiletine:** This medicine probably helps the hand muscles relax faster after gripping. However, there may be little to no difference in quality of life between people taking mexiletine and those taking a placebo. People taking mexiletine had more unwanted effects, such as stomach problems, tiredness, and headache. The studies did not report whether overall stiffness improved.\n\n**Other medicines**\n\nA few other medicines were tested in very small studies. The evidence for these medicines was very uncertain, so we do not know if they work or cause harm.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence is moderate to low for most of our findings. This is mainly because many of the studies were very small, which makes the results less certain. For some of the older studies, we also had concerns about the way they were conducted.\n\n**How up to date is this evidence?**\n\nThis review updates our previous review. The evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 667,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 52,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.826923076923077,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 179,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.7787915177027,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.828991754122939,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.205905316572483,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.635022488755624,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.627021104832199,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.21223042324992,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.769230769230769,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.40175425099138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.720218383116135,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 257,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 257.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 125,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 125.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 667,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 667 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:11.897254"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013293.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best treatments for blocked dialysis access in people with kidney failure?\n\nKey Messages\n- We don’t know the benefits or risks of most treatments for blocked dialysis access - this includes whether they improve or worsen the condition.\n- Comparing different treatments like surgery, removing a blood clot (thrombectomy), and dissolving a blood clot (thrombolysis) did not show that one is clearly better than the others - but surgery may have some benefits in certain cases.\n- Future research should focus on studying the effects and outcomes of these treatments that are important to patients and healthcare providers.\n\nIntroduction\nWhat is the problem of blocked dialysis access?\nPeople with kidney disease often need a treatment called haemodialysis - this filters waste products from the blood when the kidneys are no longer able to do so. To receive haemodialysis, patients need a way for the dialysis machine to access their blood - this is usually done with a special connection made between an artery and a vein. This connection is called an arteriovenous fistula (AVF) or an arteriovenous graft (AVG). Sometimes these connections can become blocked, or ‘thrombosed’, which prevents haemodialysis from working properly. Thrombosis can lead to serious complications, including infections and recurrent hospitalizations.\n\nWhat did the review authors want to find out?\nWe wanted to find out how effective and safe different treatments are for blocked AVF and AVG. We looked for which treatments are best at restoring blood flow and preventing more problems, including any harms or side effects.\n\nHow did we find the evidence?\nWe searched major medical databases for studies that compare different treatments for blocked dialysis access in adults. We were most interested in studies that randomly assigned people to a treatment group, as these provide the most reliable evidence. We then compared and summarized the results of the studies and used a standard method to rate our confidence in the evidence.\n\nWhat did we find?\nWe found 14 studies that involved 1176 people with blocked dialysis access. Most of the included studies had a high risk of bias due to poor study design, a low number of patients, and industry involvement. The studies included three types of treatments: types of thrombectomy, types of thrombolysis, and surgical procedures. However, the studies often did not report important details, such as how long they lasted, who participated, or who funded them. This lack of information makes it harder to trust the results. We did find that surgery may have some benefits in certain cases, but the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were very small, and it is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in.\n\nHow up-to-date is this evidence?\nThe evidence is up to date to January 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 504,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.384615384615383,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 53,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.873901098901115,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.70015873015873,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.21421245421245,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.326349206349203,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.499877899877902,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.741758241758234,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.884615384615385,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.327379053088816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.632092002442002,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 181,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 504,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 504 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:24.313350"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016136",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of intravenous iron compared to oral iron for treating iron deficiency anaemia in pregnancy?\n\n### Key Messages\n- Intravenous iron likely slightly increases haemoglobin levels and reduces anaemia in pregnancy compared to oral iron, but we are moderately confident in this evidence because the studies were well conducted, but there were some concerns about the consistency of the results.\n- Haemoglobin levels after birth may be slightly increased with intravenous iron, but the effect on severe anaemia after birth is very uncertain, and we have little confidence in the evidence for this outcome.\n- More research is needed to strengthen the evidence, particularly around clinically important time points and safety reporting, as the current evidence has limitations such as small study sizes and inconsistent results.\n\n### Introduction to the review topic and review aims\n#### What is iron deficiency anaemia in pregnancy?\nIron deficiency anaemia is a condition where the body does not have enough iron, which is essential for making haemoglobin, a protein in red blood cells that carries oxygen to different parts of the body. In pregnancy, iron deficiency anaemia can be particularly problematic because it may affect the health of both the mother and the baby.\n\n#### Why is treating iron deficiency anaemia in pregnancy important?\nTreating iron deficiency anaemia in pregnancy is crucial to prevent complications such as premature birth, low birth weight, and postpartum haemorrhage. It is also important for the mother's health, as severe anaemia can lead to serious health problems.\n\n#### What did we want to find out?\nWe wanted to find out which type of iron works better to treat iron deficiency anaemia in pregnancy: intravenous iron or oral iron. We were interested in comparing the effects of these two types of iron on haemoglobin levels, anaemia, and other important outcomes such as postpartum haemorrhage and blood transfusion rates.\n\n### What did we do?\nWe searched for studies that compared intravenous iron with oral iron in pregnant women with confirmed iron deficiency anaemia. We found 13 studies that involved 3939 women.\n\n### What did we find?\nThe studies were mainly conducted in India and Africa. We found that intravenous iron likely slightly increases haemoglobin levels and reduces anaemia in pregnancy compared to oral iron. Haemoglobin levels after birth may be slightly increased with intravenous iron, but the effect on severe anaemia after birth is very uncertain. Intravenous iron may result in little to no difference in postpartum haemorrhage, and blood transfusion rates are likely unaffected by the type of iron used.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence for some outcomes, such as the effect of intravenous iron on maternal mortality, because the studies were small and the results were inconsistent. More research is needed to strengthen the evidence, particularly around clinically important time points and safety reporting.\n\n### How up to date is this evidence?\nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 535,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 31.470588235294116,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.5 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 34.946558548653115,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 16.20315557998901,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 16.622770753161078,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.6 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 11.120747663551402,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 21.186366135239144,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.2 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 59.50797141286421,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.5 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.823529411764707,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.8 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 14.090536506409418,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.1095766904892805,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 188,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 535,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 535 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:38.963009"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD007546.PUB3",
+  "draft": "What are the best ways to reduce the use of physical restraints for older people in long-term care settings?\n\nWe looked at studies that tested different approaches to reduce the use of physical restraints, such as bedrails or belts, in care homes. We found that changing a care home's overall policy to reduce restraints - for example, by training staff and having dedicated 'champions' for the new policy - probably reduces the use of physical restraints. The studies that measured safety found this approach did not increase the number of falls or fall-related injuries.\n\nWe are uncertain if simple educational programs for staff reduce the use of physical restraints. Giving staff information about residents' risk of falling may also make little to no difference in the use of physical restraints.\n\nWhat is the problem of physical restraints in long-term care settings?\nPhysical restraints, such as bedrails and belts in chairs or beds, are commonly used for older people receiving long-term care. However, there is clear evidence that physical restraints are not effective and can be harmful. This can lead to serious harm, like injuries or even death, and can also worsen an older person's quality of life.\n\nWhat did the review authors want to find out?\nWe wanted to evaluate the effects of interventions to prevent and reduce the use of physical restraints for older people who require long-term care. We aimed to find out which types of interventions are most effective in reducing the use of physical restraints and whether these interventions can also improve the quality of life and reduce the risk of adverse events for older people in long-term care settings.\n\nHow did we conduct this review?\nWe searched for studies on ways to prevent and reduce the use of physical restraints for older people in long-term care, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 11 studies involving 19,003 people, with an average age of 85. All studies took place in long-term care homes and included people with dementia. The studies tested three types of approaches: \n- Changing a care home's overall policies to focus on using fewer restraints \n- Providing educational programs for staff about the risks of restraints and alternatives to using them\n- Giving staff information about residents' risk of falling\n\nWe found that changing a care home's policies to use fewer restraints probably works. These changes likely reduce the use of all restraints, and especially belts. We are uncertain if simple educational programs for staff reduce restraint use, and giving staff information on fall risk may make little to no difference.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies may not have been 'blinded' (meaning the staff and residents knew which approach was being used), which could have influenced the results. Also, the studies tested the approaches in slightly different ways, which makes it harder to compare their results confidently.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 540,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 159,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 59.948333333333366,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.866296296296298,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.663388888888889,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.301555555555552,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.629629629629632,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.925925925925924,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.185185185185185,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.774964387392123,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.3664814814814825,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 218,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 76,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 140,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 540,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 540 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 5,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-written and clear, but it fails on a critical check: a key message about the need for future research, present in the source material, has to be added. Additionally, there are a few opportunities to improve clarity for the reader by strengthening the limitations section and simplifying some noun-heavy sentences.\n\nHere are the top 3 improvements needed:\n\n1. **CRITICAL: Add the missing key message.** The summary omits the important final key message about what research is needed next. This leaves the reader without a sense of the bigger picture.\n   - **Suggestion:** Please add the third key message from the source material. It could be phrased as a new paragraph in the key messages section: \"More research is needed to understand the long-term effects of these approaches and to find out what works in people's own homes. Future studies should focus on the needs of older people and their families to ensure care is person‑centred.\"\n\n2. **Strengthen the limitations section.** The current description of limitations is a bit vague and misses a key point that is easy for readers to understand.\n   - **Quote:** \"The evidence is limited because the studies may not have been 'blinded'... Also, the studies tested the approaches in slightly different ways...\"\n   - **Problem:** This omits that many studies were small. \"Small sample size\" is a simple, powerful concept that helps readers understand why the evidence might be uncertain.\n   - **Suggested Rewrite:** \"Our confidence in the evidence is limited because in some studies the staff and residents knew which approach was being used, which could have influenced the results. Also, some of the studies were very small and they tested the approaches in slightly different ways, which makes it harder to compare their results confidently.\"\n\n3. **Simplify complex, noun‑heavy sentences.** Some sentences rely heavily on nouns and technical terms, which can make them harder to process. This is supported by the linguistic analysis, which found a high number of nouns and words not on a common‑word list.\n   - **Quote:** \"We aimed to find out which types of interventions are most effective in reducing the use of physical restraints and whether these interventions can also improve the quality of life and reduce the risk of adverse events for older people in long-term care settings.\"\n   - **Problem:** This sentence is long and uses abstract nouns like \"interventions,\" \"use,\" and \"risk of adverse events.\"\n   - **Suggested Rewrite:** \"We wanted to find out which approaches work best to reduce the use of physical restraints. We also wanted to know if these approaches that improve quality of life and reduce the risk of harm for older people in long-term care.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns, with 11 of 18 metrics (61%) falling in the best quartile for readability and style. However, the analysis also flags a high noun count (P90) and a high number of words unfamiliar to a general audience (complex_words_dc: P90), suggesting that some sentences are noun‑heavy and could use simpler vocabulary to improve clarity."
+    }
+  ]
+}

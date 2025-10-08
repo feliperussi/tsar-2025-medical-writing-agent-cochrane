@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015514.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Does face-down positioning after eye surgery for retinal detachment help prevent vision problems compared to other positions?\n\nWe looked at the evidence to find out if lying face-down after eye surgery for retinal detachment can help prevent vision problems.\n\nKey messages:\n- Lying face-down after eye surgery for retinal detachment may help prevent vision problems by reducing complications like the retina moving out of place, folds forming in the retina, and double vision. However, it may also increase the risk of high pressure inside the eye.\n- We don't have clear answers yet about the best position after this surgery. This is partly because the studies so far were too small or didn't follow people for long enough.\n- Future studies should compare the benefits and harms when people lie in different positions after this surgery.\n\nWhat is a retinal detachment that involves the macula?\nThe retina is the light-sensitive layer at the back of your eye. Sometimes, it can pull away from the tissue that supports it. This is called a retinal detachment. If the detachment affects the macula—the part of the retina you use for sharp, central vision—it is a medical emergency.\n\nWhat is the goal of face-down positioning after surgery for this type of retinal detachment?\nAfter this eye surgery, some eye doctors recommend lying face-down to help reduce the risk of the retina moving out of place. The retina moving out of place can cause further vision problems like distorted vision and double vision. During this surgery, a gas bubble is often placed in the eye to help hold the retina in position while it heals. The idea behind lying face-down is to allow this bubble to float up and press the retina gently back into place.\n\nWhat did we want to find out?\nWe wanted to find out if lying face-down after surgery helps prevent the retina from moving out of place, improves vision, and reduces other problems.\n\nHow did we find the evidence?\nWe searched for studies comparing face-down positioning with other positioning methods after eye surgery. We summarized their results and rated our confidence in the evidence to determine if face-down positioning reduces the retina moving out of place.\n\nWhat did we find?\nWe found 3 studies that involved 368 participants with retinal detachments that involved the macula. Most studies lasted for around 6 months. In the studies we found, most of the people were men. The studies compared people who were asked to lie face-down with people who were asked to lie in other positions.\n\nWhat did the main results show?\nLying face-down immediately after surgery may reduce the retina moving out of place, folds forming in the retina, and double vision. However, it may increase the risk of high pressure inside the eye. It is unclear if lying face-down has an effect on distortion scores or quality of life.\n\nWhat are the limitations of the evidence?\nThe studies were limited because they did not include a wide variety of people and mostly focused on men. We also need more research comparing different patient positions and looking at how the surgery affects people's daily lives. Also, people in the studies knew which position they were asked to lie in. Knowing this could change how they report their symptoms, which might affect the study's results.\n\nHow up to date is this evidence?\nThe evidence is up to date to November 2022.\n\nIn the future, researchers should design studies that give us more reliable evidence. These studies should compare the benefits and harms when people lie in different positions after this surgery. They should also examine how these positions affect quality of life and patient preferences, to help doctors and patients make informed decisions about the best care.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 662,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.974358974358974,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 189,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 63.217203888759784,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.658700906344414,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.46562359594082,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.1826586102719,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.98007591602758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.02873963901154,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.7435897435897436,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.2801759392671785,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 228,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 119,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 119.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 662,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:30.036172"
+}

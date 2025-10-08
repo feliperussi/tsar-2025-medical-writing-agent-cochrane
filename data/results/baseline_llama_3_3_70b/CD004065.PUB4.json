@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of medical treatments for eosinophilic esophagitis?\n\n### Key Messages\n- Medical treatments for eosinophilic esophagitis, such as corticosteroids and biologics, may help improve symptoms and reduce inflammation, but the evidence is not strong, and more research is needed to fully understand their benefits and risks.\n- Corticosteroids may lead to slightly better symptom improvement and a large increase in histological improvement, but may have little to no effect on endoscopic improvement.\n- Biologics may not lead to significant symptom improvement but may result in better histological improvement, and more research is needed to confirm their effectiveness and safety.\n\n### Introduction to the review topic and review aims\nWhat is eosinophilic esophagitis? \nEosinophilic esophagitis (EoE) is a chronic condition where the esophagus becomes inflamed due to an allergic reaction, causing difficulty swallowing and other symptoms. The goal of treatment is to improve symptoms, reduce inflammation, and prevent long-term damage. Current treatments include dietary changes, medications such as corticosteroids and biologics, and esophageal dilation.\n\nWhat did we want to find out? \nWe wanted to find out which medical interventions are effective and safe for people with EoE. We compared the effectiveness and safety of these medical interventions in people with EoE.\n\n### What did we do?\nWe searched for studies that compared different medical interventions for EoE, including corticosteroids and biologics, and summarized their results. We evaluated the certainty of the evidence and identified the main findings.\n\n### What did we find?\nWe found 41 studies that included 3253 participants. The studies compared different medical interventions, including corticosteroids and biologics, with placebo or other treatments. Our main findings were that corticosteroids may lead to slightly better symptom improvement and a large increase in histological improvement, but may have little to no effect on endoscopic improvement. Biologics may not lead to significant symptom improvement but may result in better histological improvement.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had some limitations. More research is needed to fully understand the benefits and risks of these treatments.\n\n### How up to date is this evidence?\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 396,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 40,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 41.46527272727275,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.394626262626264,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.507651515151515,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.713838383838386,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.01090909090909,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.385858585858585,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.65,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.797958971132712,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.723898181818183,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 144,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 396,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 396 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 9,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 50.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:27.020530"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012940.PUB3",
+  "draft": "Is giving back (re‑feeding) the stomach contents (gastric residuals) taken out during tube feeding better than discarding them for helping early‑born babies grow?\n\nKey messages\n– Re‑feeding gastric residuals appears to have little or no effect on:\n  – how quickly preterm infants (born before 37 weeks) regain their birth weight;\n  – the risk of necrotising enterocolitis (a serious gut infection);\n  – death before hospital discharge;\n  – the time needed to reach full enteral feeds (feeding through the gut using a tube);\n  – the number... (truncated for brevity) ...\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 90,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 2,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 45,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 45.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 14,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 14.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 3,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 3.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 26,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 40.84000000000003,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 18.742222222222228,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.7 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 22.474333333333334,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.5 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 10.263555555555556,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 24.666666666666668,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.7 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 72.77777777777777,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 72.8 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 12.5,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 12.5 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 6.3166247903554,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 10.47788888888889,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.5 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 47,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 15,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 25,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 90,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 90 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 1,
+        "P75_count": 0,
+        "P90_count": 0,
+        "P10_count": 1,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 1,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 0,
+        "P90_percentage": 0,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 5.555555555555555,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks failed: the draft is missing all required sections (Background/Aims, Methods, Results, Limitations, Currency) and does not include subheadings phrased as questions. Only a title and a truncated key‑message list are present, so readers cannot understand the context, how the review was done, what was found, or how up‑to‑date the evidence is. Additionally, the draft contains a single very long sentence (45 words) and uses very few active‑voice constructions and pronouns, which the metrics confirm (words_per_sentence = 45 → BEYOND_P90; active_voice = 14 → P10; pronouns = 3 → BELOW_P10). These issues make the summary hard to read and do not meet the Master Style Guide.\n\nTop improvements needed:\n1. **Add missing sections with question‑style subheadings** – e.g., \"What health challenges do preterm infants face with feeding?\", \"What did the researchers want to discover?\", \"How did we find the evidence?\", \"What did we find?\", \"What are the limitations of the evidence?\", \"How up to date is this review?\". This provides the required structure and guides the reader.\n2. **Replace the single long sentence with shorter, active‑voice sentences** – rewrite the key‑message paragraph into multiple bullet points, each under 30 words, using active verbs and first‑person plural pronouns (we, our).\n3. **Increase use of pronouns and active voice** – introduce \"we\" when describing the review process (e.g., \"We searched databases in February 2022…\") and ensure each bullet starts with a verb.\n4. **Provide complete key messages** – the current list is truncated; include all outcomes from the source (birth‑weight regain, NEC risk, mortality, time to full feeds, parenteral nutrition days, growth at discharge, and safety outcomes).\n5. **Add a currency statement** – e.g., \"The evidence is up to date to February 2022\".\n\nThese changes will bring the summary into compliance with the style guide and improve readability, as reflected by the evaluation metrics (high readability grades and low active‑voice counts).",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is within the word limit but has major deviations: words_per_sentence (45) and readability indices (FKGL 18.7, GFI 24.7, LIX 72.8) are far beyond typical PLS ranges, indicating overly long and complex sentences. Active voice (14) and pronoun use (3) are well below the median, contributing to a passive, impersonal tone. These metric alerts confirm the need for shorter, active, and more personable sentences."
+    }
+  ]
+}

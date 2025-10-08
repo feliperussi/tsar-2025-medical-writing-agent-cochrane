@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014844.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of using prophylactic antibiotics during uterine evacuation procedures for early pregnancy loss?**\n\n**Key Messages:**\n\n* Prophylactic antibiotics may have little or no effect on uterine infection after uterine evacuation for EPL compared to placebo or no treatment, but this evidence is uncertain.\n* Sensitivity analysis showed that when only studies with low risk of bias were meta-analysed, the effect was larger and of high certainty, resulting in a 43% reduction in the risk of developing a uterine infection.\n* Prophylactic antibiotics likely result in little or no difference in the risk of vomiting and diarrhoea.\n* Prophylactic antibiotics may increase the risk of allergy.\n* Prophylactic antibiotics may reduce the need for antibiotic treatment to treat infection, but the evidence is very uncertain.\n* Meta-analysis of three studies also found that prophylactic antibiotics may reduce hospitalisation for treatment of infection, but the effect was very uncertain.\n\n**Introduction to the review topic and review aims:**\n\n**What is early pregnancy loss?**\n\nEarly pregnancy loss is a common condition where a woman loses her pregnancy before the 20th week of gestation. It can be caused by various factors, including miscarriage, stillbirth, or ectopic pregnancy.\n\n**Why is it important to evaluate the effectiveness of prophylactic antibiotics during uterine evacuation procedures?**\n\nUterine evacuation procedures are used to remove any residual pregnancy tissue from the uterus after a miscarriage or stillbirth. Prophylactic antibiotics are often used to prevent infection during these procedures. However, it is unclear whether these antibiotics are effective in preventing infection.\n\n**What did we want to find out?**\n\nWe wanted to evaluate the effectiveness of prophylactic antibiotics during uterine evacuation procedures for early pregnancy loss.\n\n**What did we do?**\n\nWe searched for studies that compared prophylactic antibiotics with placebo or no treatment. We included 6 randomised controlled trials with a total of 4371 participants undergoing uterine evacuation procedures to manage EPL.\n\n**What did we find?**\n\nProphylactic antibiotics may have little or no effect on uterine infection after uterine evacuation for EPL compared to placebo or no treatment, but this evidence is uncertain. Sensitivity analysis showed that when only studies with low risk of bias were meta-analysed, the effect was larger and of high certainty, resulting in a 43% reduction in the risk of developing a uterine infection.\n\n**What are the limitations of the evidence?**\n\nThe quality of the evidence included was seriously affected by poor follow-up and high non-compliance with antibiotic prophylaxis.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2023.\n\n**How should this information be used?**\n\nThe results of this review should be used to inform clinical practice and decision-making regarding the use of prophylactic antibiotics during uterine evacuation procedures for early pregnancy loss. However, further research is needed to fully understand the effectiveness of these antibiotics in preventing infection.\n\nPlease note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 559,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.527777777777779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 38,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 39.581282299741616,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.596065891472872,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.187216259193004,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.072415026833632,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.658338302524353,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.801480818922684,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.166666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.569805089976535,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.125723394951303,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 146,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 146.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 559,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 559 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:50.072847"
+}

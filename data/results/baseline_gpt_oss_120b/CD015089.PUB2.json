@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015089.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs the HINTS (head‑impulse, nystagmus, test‑of‑skew) exam able to tell whether sudden dizziness comes from the brain?\n\nKey Messages  \n- The HINTS and HINTS Plus exams, when done by trained clinicians, usually spot a brain (central) cause of sudden dizziness and can also help rule it out; no harmful effects of the exams were reported.  \n- Versions of the exams that use video recording give mixed results and the evidence about them is less certain.  \n- More well‑designed studies are needed, especially to see how the video‑assisted tests work in different settings and with different types of health‑care providers.\n\nWhat is acute vestibular syndrome?  \nAcute vestibular syndrome (AVS) is a sudden episode of severe spinning, nausea, vomiting, uncontrolled eye movements (nystagmus) or feeling unsteady. It can be caused by problems in the inner ear (peripheral) or by problems in the brain (central). Knowing which type is present matters because the treatments and outcomes are very different.\n\nWhy do we need to know the cause?  \nIf the cause is central, a person may need urgent brain imaging and specific medical care, while a peripheral cause often resolves with different, less urgent treatment. Quickly figuring out the cause can prevent unnecessary tests and speed up the right care.\n\nWhat are the HINTS and HINTS Plus exams?  \nThe HINTS exam looks at three things:  \n– How the eyes move when the head is turned quickly (head‑impulse).  \n– The direction of any involuntary eye movements (nystagmus).  \n– Whether the eyes are misaligned when looking straight ahead (test‑of‑skew).  \nHINTS Plus adds a quick check of hearing. The tests are performed at the bedside without special equipment, although some clinicians use video goggles to record the eye movements.\n\nWhat did we want to find out?  \nWe wanted to see how well the HINTS and HINTS Plus exams, with or without video help, identify a central cause of AVS compared with the gold‑standard answer from brain scans or a neurologist’s final diagnosis.\n\nWhat did we do?  \nWe searched several medical databases for studies that compared the HINTS exams with brain imaging or specialist diagnosis. We combined the results of those studies and judged how confident we could be in the overall evidence.\n\nWhat did we find?  \n\nStudy characteristics  \nWe found 16 studies that together included about 2,000 people with sudden dizziness, average age around 60 years. Most studies were done in emergency departments, and about half were performed by neurologists. Twelve studies looked at the basic HINTS exam, five looked at HINTS Plus, and a few used video goggles to record the eye movements.\n\nMain results  \n\n- **Clinical HINTS exam (no video):** The exam may correctly identify a brain cause in most people and may also correctly rule out a brain cause in many people.  \n\n- **Video‑assisted HINTS exam:** The video version may sometimes find a brain cause, but we are very uncertain about how well it can rule out a brain cause.  \n\n- **Clinical HINTS Plus exam:** This version may correctly spot a brain cause in most people and may also help rule it out in many people.  \n\n- **Video‑assisted HINTS Plus exam:** The video version probably finds a brain cause in most people, but probably does not reliably rule out a brain cause.\n\nIn simple terms, when a trained clinician uses the bedside HINTS tests, they are usually able to tell whether the dizziness is coming from the brain, though the certainty of this finding is limited by the quality of the studies.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small, some did not hide which test was being used, and a few had unclear methods for selecting participants or confirming the final diagnosis. These issues make it hard to be sure how well the tests work in all settings.\n\nHow up to date is this evidence?  \nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 698,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 41,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.024390243902438,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 60,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 183,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 71.13948459011813,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.566131106296737,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.352739534558669,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.767220630372488,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.655028303864702,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.3739604444755,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.8048780487804876,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.979553022573206,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 227,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 227.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 698,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 698 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:08.208391"
+}

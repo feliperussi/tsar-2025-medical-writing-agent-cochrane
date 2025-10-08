@@ -1,0 +1,155 @@
+{
+  "file_id": "CD002120.PUB4",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What are the benefits and risks of the combined contraceptive pill for painful periods?\n\n**Key messages**\n\n– The combined contraceptive pill (a type of birth control pill) reduces period pain more than a dummy pill. However, it also increases the risk of unwanted effects, such as irregular bleeding, headaches, and feeling sick (nausea).\n\n– Taking the pill continuously (without the usual 7-day break) may be better for reducing pain than taking it in the standard way.\n\n– We need more research to know if the pill is better or worse than common painkillers for treating painful periods. We also need studies that look at the long-term effects of using the pill for this reason.\n\n**What are painful periods?**\n\nPainful periods, also known as dysmenorrhoea, are cramping pains in the lower belly that happen before or during a period. It is a very common problem for women. This review focuses on 'primary' dysmenorrhoea, which is period pain that is not caused by another health condition like endometriosis or fibroids.\n\n**How can painful periods be treated?**\n\nThe combined oral contraceptive pill, often just called 'the pill', is a common treatment for painful periods. The pill contains two hormones and is mainly used to prevent pregnancy. We wanted to find out how well it works for period pain and what unwanted effects it might have.\n\n**What did we want to find out?**\n\nWe wanted to find out the benefits and harms of using the combined contraceptive pill to treat painful periods.\n\nWe compared the pill with:\n– a dummy pill (placebo) or no treatment;\n– different ways of taking the pill; and\n– common painkillers called non-steroidal anti-inflammatory drugs (NSAIDs).\n\n**What did we do?**\n\nWe searched for studies that compared the combined contraceptive pill with a dummy pill, other ways of taking the pill, or painkillers in women with painful periods. We compared and summarized the results of the studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 21 studies that included a total of 3723 women with painful periods.\n\n**The pill compared with a dummy pill**\n\nThe evidence shows that when compared to a dummy pill, the pill:\n– reduces period pain (we are confident in this evidence).\n– probably increases the risk of unwanted effects in general.\n– may slightly reduce the need for extra pain medicine and the number of days women are absent from work.\n\nFor specific unwanted effects, the pill:\n– increases the risk of irregular bleeding (we are confident in this evidence).\n– probably increases the risk of headaches and feeling sick.\n– We are uncertain if the pill has an effect on weight gain because the evidence is not clear.\n\n**Different ways of taking the pill**\n\nWe looked at studies that compared taking the pill continuously (with no break) to the standard way (21 days of hormone pills followed by a 7-day break or dummy pills).\n\n– Taking the pill continuously may reduce pain more than taking it the standard way.\n– Taking the pill the standard way probably increases the risk of irregular bleeding compared to taking it continuously.\n\n**The pill compared with painkillers (NSAIDs)**\n\nWe found only one small study that compared the pill with painkillers. There was not enough evidence to know if one treatment is better than the other for reducing pain. The study did not report on unwanted effects.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence ranged from high to very low, depending on the finding. For some of our questions, our confidence is limited because the results were based on a small number of studies or women. This means we cannot be certain about some of the results. Also, most studies were short, so we do not know about the long-term effects.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 680,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.19047619047619,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 67.6072549019608,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.851638655462185,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.410017507002799,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.269705882352941,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.711484593837534,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.42577030812325,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.761904761904762,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.95650350140056,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 265,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 158,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 680,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 680 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:10.337310"
+}

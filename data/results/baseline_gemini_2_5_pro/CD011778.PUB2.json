@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011778.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Can a special light therapy help treat gum disease when added to standard cleaning?\n\nKey messages\n\n– We do not know if adding a special light therapy (called antimicrobial photodynamic therapy) to standard deep cleaning helps treat gum disease. Any possible benefits are likely too small to be important for patients.\n– The light therapy appears to be safe, as most studies reported no unwanted effects.\n– We need larger, better-designed studies to be sure about the effects of this treatment, especially for people who have problems with dental implants, as we found almost no evidence for this group.\n\nWhat are gum disease and diseases around dental implants?\n\nGum disease, also known as periodontitis, is a long-lasting infection in the mouth. It can damage the gums and bone that hold teeth in place. If not treated, it can lead to tooth loss.\n\nA similar problem can happen around dental implants. This is called peri-implant disease. It causes swelling in the gums around the implant and can lead to loss of the bone that supports it.\n\nHow are these conditions treated?\n\nThe main goal of treatment is to clean out the pockets that form around teeth or implants. This helps stop damage to the gums and bone. Treatment usually starts with improving how you clean your teeth and controlling risk factors, like quitting smoking.\n\nThe most common treatment is a deep cleaning under the gums. This is done by a dental professional to remove harmful germs. It is sometimes called 'scaling and root planing'.\n\nA newer treatment that can be added is antimicrobial photodynamic therapy (aPDT). This involves putting a special light-sensitive liquid on the gums and then using a light to activate it. The light helps to kill the germs causing the infection.\n\nWhat did we want to find out?\n\nWe wanted to find out if adding aPDT to the standard deep cleaning is better than deep cleaning alone for treating gum disease and problems around dental implants in adults.\n\nWhat did we do?\n\nWe searched for studies that compared deep cleaning plus aPDT with deep cleaning alone. We compared and summarized the results of these studies and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 50 studies that included a total of 1407 people with gum disease. The studies were generally small. Most studies gave the light therapy in a single session right after the deep cleaning.\n\nWe found no studies that looked at this treatment for people with bone loss around a dental implant (peri-implantitis). We found only one very small study for people with swollen gums around an implant, but it did not provide useful information.\n\nFor people with gum disease (periodontitis):\n\n– We do not know if adding light therapy to deep cleaning improves gum health, such as reducing the depth of gum pockets or bleeding. The evidence was very uncertain, and any differences found were likely too small to make a real difference for patients. This was true for both the initial treatment phase and for long-term maintenance care.\n\n– The treatment appears to be safe. Most of the studies that looked for unwanted effects found none related to the light therapy. In one study, one person developed a sore (an abscess), but it was not clear if this was caused by the treatment.\n\nWhat are the limitations of the evidence?\n\nWe are not confident in the evidence. This is because many of the studies were very small. Also, in some studies, the dental professionals knew which treatment people were getting, which could have affected the results. Because the studies were different from each other in how they were done, it was difficult to compare their findings.\n\nHow up to date is this evidence?\n\nThe evidence is up to date to 14 February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 659,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.325581395348838,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 161,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 69.70715248614887,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.343881144793027,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.452805872181251,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.759817905918059,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 10.621886579383846,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.60479232099375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.7209302325581395,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.306623862918075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.151271750714615,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 659,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 659 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:17.488559"
+}

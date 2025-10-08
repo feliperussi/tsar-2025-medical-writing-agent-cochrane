@@ -1,0 +1,162 @@
+{
+  "id": "CD007374.PUB3",
+  "draft": "Do education programmes (structured teaching sessions) improve health outcomes for people with chronic kidney disease (long‑term kidney problems) and diabetes?\n\nKey messages\n- Education programmes probably lower blood‑sugar levels, as shown by a reduction of about 0.4 % in glycated haemoglobin (HbA1c, a test that reflects average blood sugar over the past few months). We did not see clear benefits or harms for other clinical outcomes.\n- These programmes may increase patients’ knowledge about diabetes and boost confidence in managing the condition (self‑efficacy, i.e. belief in one’s ability to carry out self‑care tasks), but the evidence is limited and uncertain.\n- Because the studies were few and small, we need larger, longer trials to find out whether education programmes can improve kidney function, heart health, quality of life, and to detect any possible adverse effects.\n\nWhat is the health problem for people with chronic kidney disease and diabetes?\nPeople who have both chronic kidney disease (CKD, a long‑term loss of kidney function) and diabetes need to follow very detailed daily routines. They must take medicines, monitor blood sugar, watch their diet, and often attend regular medical appointments. Sticking to these complex plans is hard, and many people do not manage it well. Poor adherence can lead to higher blood‑sugar levels, higher cholesterol, and faster loss of kidney function. While doctors can prescribe medicines and adjust dialysis, success also depends on how well patients understand and manage their condition.\n\nWhat did the review aim to find out?\nWe wanted to know whether education programmes for adults with CKD and diabetes improve health outcomes. Specifically, we looked at whether these programmes lower HbA1c, improve cholesterol numbers, increase patients’ knowledge and confidence in managing diabetes, and affect important results such as kidney failure, serious low‑blood‑sugar episodes, and overall safety.\n\nHow did we find the evidence?\nWe searched the Cochrane Kidney and Transplant Register up to July 2024 for randomised or quasi‑randomised trials that compared an education programme with routine care in adults with CKD and diabetes. Two reviewers screened studies, assessed their quality, and extracted data. We combined results using standard statistical methods and judged the certainty of the evidence with the GRADE approach.\n\nWhat did we find?\nWe identified eight trials that together enrolled 840 adults with CKD and diabetes. The participants included people on dialysis, those with moderately increased albuminuria, and people with type‑2 diabetes and advanced diabetic nephropathy. All trials compared an education programme—delivered by nurses, pharmacists or other educators through verbal, written, audio‑recorded or computer‑aided formats—with routine care. Follow‑up ranged from five weeks to 18 months.\n\nMain findings\n- Education programmes probably reduce blood‑sugar levels (about 0.4 % lower HbA1c) compared with routine care.\n- They may also lower total cholesterol and low‑density lipoprotein (LDL) cholesterol a little.\n- Participants often reported better knowledge about diabetes and greater confidence in managing it, and some showed modest changes in diet and home glucose monitoring. These benefits are uncertain and may not last.\n- Evidence about effects on death, serious low‑blood‑sugar episodes, or kidney failure is very uncertain.\n- Adding education to multidisciplinary coordinated care made little or no difference to blood‑sugar control, kidney outcomes, blood pressure or cholesterol.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the results because the studies were small and participants usually knew which group they were in, which can influence outcomes. Many outcomes relied on self‑reported measures, which are less reliable.\n\nHow current is the evidence?\nThis review updates our previous work and includes all relevant studies up to July 2024.\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 615,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.838709677419356,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.58749016522427,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.410836611591925,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.840232887490167,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.859382113821137,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.041174927878313,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.009441384736434,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.580645161290323,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.269427669584644,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.198617886178862,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 281,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 281.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 140,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 204,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 204.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 615,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 615 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 6,
+        "P75_count": 3,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical check failure: the subheading \"Main findings\" is not phrased as a question, which breaches the Master Style Guide requirement that subheadings be asked as questions.\n\nKey clarity and style issues identified:\n1. **Subheading not a question** – \"Main findings\" should be re‑worded, e.g., \"What are the main findings?\".\n2. **Noun‑heavy, nominalised sentences** – many sentences rely on noun phrases, making them harder to read. Example: \"Education programmes probably reduce blood‑sugar levels (about 0.4 % lower HbA1c) compared with routine care.\" Suggested rewrite: \"Education programmes probably lower blood‑sugar levels by about 0.4 % (HbA1c) compared with routine care.\"\n3. **Long, complex sentence** – \"The participants included people on dialysis, those with moderately increased albuminuria, and individuals with type‑2 diabetes and advanced diabetic nephropathy, representing a range of CKD severity.\" Suggested rewrite: \"The participants were people on dialysis, people with moderately increased albumin in the urine, and people with type‑2 diabetes and advanced kidney disease.\"\n4. **Unexplained clinical term** – \"moderately increased albuminuria\" appears in the source but is not defined for readers. Add a brief definition: \"moderately increased albuminuria (higher than normal protein in urine, indicating early kidney damage).\"\n5. **Vague outcome statement** – \"We did not see clear benefits or harms for other clinical outcomes.\" This leaves readers unsure which outcomes were examined. Rewrite to specify: \"We did not find clear benefits or harms for outcomes such as death, serious low‑blood‑sugar episodes, or kidney failure.\"\n\nThese issues, together with the metric analysis (high nominalisation count = 26, nouns = 188, complex_words = 140, long_words = 204, and complex_words_dc = 281, all well above typical PLS ranges), indicate the draft is more noun‑dense and complex than usual PLS texts, reducing readability for patients.\n\nTo achieve approval, re‑phrase the non‑question subheading, simplify noun‑heavy sentences, break long sentences, define any remaining technical terms, and make outcome statements more explicit.",
+      "pls_evaluation_summary": "The draft meets word‑count limits and most readability metrics (FK grade ≈ 11, Flesch‑Reading‑Ease ≈ 48, active voice ≈ 62) but shows significant deviations in noun‑density and complexity: nominalisation, nouns, complex words, long words, and Dale‑Chall unfamiliar words are all well beyond the median (P90–BEYOND_P90). These suggest the text is more technical than typical Cochrane PLSs, supporting the need for simplification and reduction of noun‑heavy constructions."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nDoes adding breast ultrasound (a scan that uses sound waves) to mammography help find breast cancer in women at average risk, and what are the downsides?\n\nKey Messages\n- Adding breast ultrasound to mammography helps find more breast cancers and misses fewer cancers between screening visits. However, it also leads to more false alarms (results that suggest cancer when there is none) and more biopsies (taking a small piece of tissue to check for cancer). None of the studies showed whether this reduces deaths from breast cancer, so we do not know if it saves lives.\n- In women with dense breasts (breasts with more gland and fibrous tissue and less fat, which can make mammograms harder to read), adding ultrasound likely finds more cancers than mammography alone. For women with non-dense breasts, results were mixed and less certain.\n- Future studies should follow people for longer and report important outcomes, such as deaths, over time between screening visits, false alarms, extra tests, anxiety, and costs, and should make clear which groups benefit most.\n\nWhat is breast cancer screening and how is it done?\nBreast cancer screening means testing people who have no symptoms to find cancer early. The most common test is mammography. This is an X-ray picture of the breasts. Some clinics also use breast ultrasound (ultrasonography). This scan uses sound waves to make pictures and does not use radiation.\n\nWhy might adding ultrasound help?\nMammography can miss some cancers, especially in dense breasts. Dense breasts have more gland and fibrous tissue and less fat. This can make mammograms harder to read. Adding ultrasound may help find cancers that a mammogram does not show.\n\nWhat did we want to find out?\nWe wanted to find out if adding breast ultrasound to mammography, compared with mammography alone, helps find more breast cancers, reduces missed cancers, and affects harms such as false alarms and biopsies. We also looked for effects on deaths from breast cancer and deaths from any cause.\n\nWhat did we do?\nWe searched for studies where women at average risk had mammography with or without added ultrasound. We combined and compared the results and judged how confident we are in the findings, based on study methods and size.\n\nWhat did we find?\nWe found 8 studies with 209,207 women aged about 40 to 75 years. Follow-up lasted 1 to 3 years. One large study assigned women by chance to have mammography alone or mammography plus ultrasound (this helps make the groups similar). Other studies followed women who joined screening programs in routine care. About half to all women in the studies had dense breasts. Most studies used digital mammography; some used 3D mammography (tomosynthesis). Ultrasound was handheld in some studies and automated in others. The abstract did not report who funded the studies.\n\nMain results:\n- Finding more cancers during screening: We are confident that adding ultrasound to mammography helps find more breast cancers during screening than mammography alone. In the large study, for every 1000 women screened over 2 years, about 2 more cancers were found when ultrasound was added.\n- Cancers found between screening visits (interval cancers): We are confident that fewer cancers were missed between screening visits when ultrasound was added. For example, out of 10,000 women, fewer developed cancers in the time between screenings if they had both tests.\n- Cancers that had spread to lymph nodes: We are moderately confident that cancers found when ultrasound is added are less likely to have spread to nearby lymph nodes. Lymph nodes are small glands that can show if cancer has started to spread.\n- Cancers that are invasive: We have little confidence about whether adding ultrasound changes the share of cancers that are invasive (that is, have started to grow into nearby tissue). The share looked similar across groups, but the evidence is not strong.\n- False-negative results: We are moderately confident that adding ultrasound leads to fewer false negatives. A false negative is when the tests miss a cancer that is present.\n- Harms and extra tests: We are confident that adding ultrasound causes more false alarms and more biopsies. For every 1000 women who do not have cancer, about 37 more would have a false alarm with ultrasound plus mammography than with mammography alone. For every 1000 women screened, about 27 more would have a biopsy when ultrasound is added.\n- Dense versus non-dense breasts: In women with dense breasts, we are confident that adding ultrasound helps find more cancers than mammography alone. In women with non-dense breasts, results were mixed across studies, so we are less sure whether adding ultrasound helps.\n\nNo study showed whether adding ultrasound reduces deaths from breast cancer or deaths from any cause. This is important because finding more cancers does not always mean better health or longer life.\n\nWhat are the limitations of the evidence?\nWe are confident about some results, such as finding more cancers and the higher rate of false alarms and biopsies. But we are not confident about other results. Many studies did not place women into groups by chance. This means differences between groups could be due to differences between people rather than the tests. The studies followed women for only 1 to 3 years, so they did not show effects on deaths. Some results came from smaller groups or from studies that used different ways to do the tests. The evidence does not cover all outcomes that matter to people, such as worry from false alarms and costs.\n\nHow up to date is this evidence?\nThe evidence is up to date to May 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 965,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 55,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.545454545454547,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 116,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 267,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 267.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 65.50159679698541,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.481950070654737,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.516333490343854,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.194652849740933,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.494865756005654,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.30711257654263,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.8181818181818183,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.246950765959598,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.728099105040039,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 358,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 358.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 108,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 210,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 210.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 965,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 965 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:36.821898"
+}

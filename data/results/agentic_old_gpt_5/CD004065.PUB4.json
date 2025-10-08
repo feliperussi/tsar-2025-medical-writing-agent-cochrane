@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "agentic_old_gpt_5",
+  "text": "Title: How well do medicines work for eosinophilic esophagitis (a long-term allergic inflammation of the esophagus, the muscular tube that carries food from the throat to the stomach) and are they safe?\n\nKey messages:\n- Medicines can help in the short term. Corticosteroids (anti-inflammatory medicines that calm the immune system) and biologics (medicines made from living cells that target parts of the immune system) both improved healing seen in biopsy samples (histology: examining tissue under a microscope). Corticosteroids also tended to improve symptoms (things a person feels or experiences, such as trouble swallowing). Endoscopy (a camera test that looks inside the esophagus) results were uncertain. In the short term, these medicines did not increase withdrawals (stopping treatment early) due to adverse effects (unwanted or harmful effects) compared with placebo (a ‘dummy’ treatment).\n- Tissue healing (less esophageal eosinophilia, meaning fewer allergy-related white blood cells called eosinophils in the esophagus tissue) was more consistent than symptom improvement or endoscopy change. This pattern was especially clear for biologics. Most studies were short term and enrolled people with active disease (symptoms or measurable inflammation now), including children (pediatric).\n\nWhat is eosinophilic esophagitis and why does it matter?\nWe used the term EoE (eosinophilic esophagitis) for a long-term inflammatory disease where eosinophils (a type of white blood cell involved in allergies) build up in the lining of the esophagus. People with EoE can have trouble swallowing, feel food get stuck, have chest pain or heartburn, or vomit. Ongoing inflammation can cause scarring and narrowing of the esophagus, which makes swallowing harder. Doctors diagnose EoE by symptoms and by biopsy (taking tiny tissue samples to look under a microscope).\n\nWhat treatments are used for eosinophilic esophagitis?\nWe aim to relieve symptoms, reduce inflammation, and prevent damage. Common options include:\n- Diet changes such as food elimination diets (removing certain foods to see if symptoms improve).\n- Medicines: corticosteroids (swallowed or topical anti-inflammatory medicines), proton pump inhibitors or PPI (medicines that lower stomach acid), and biologics (targeted medicines from living cells).\n- Procedures such as esophageal dilation (stretching a narrowed area during endoscopy to help food pass).\nWe measure outcomes by asking about symptoms, by endoscopy (camera test), and by histology (microscopic exam of biopsy samples). We also look at quality of life (how someone feels and functions day to day) and harms.\n\nWhat did this review want to find out?\nWe wanted to know how well medical treatments and food elimination diets work and how safe they are. We compared treatments with each other or with placebo (an inactive or dummy treatment). We looked at symptoms, histological improvement (healing on biopsy), endoscopic appearance, quality of life, and side effects including withdrawals.\n\nWhat did we do?\nWe searched for randomized trials (studies where people are assigned at random to different treatments). We combined results for our main outcomes and rated how certain the evidence is.\n\nWhat did we find?\n- We included 41 randomized trials with 3,253 people. Eleven studies included children. Most trials enrolled people with active disease; 4 trials included inactive disease.\n- We focused on trials that started treatment to induce remission (the first phase to get the disease under control) and compared corticosteroids with placebo (14 studies) and biologics with placebo (9 studies).\n\nMain results:\n- Corticosteroids clearly improved healing on biopsy (histology). They may give a small symptom benefit. They may make little or no difference to what is seen on endoscopy. They may slightly reduce withdrawals due to adverse effects.\n- Biologics probably give a large improvement on biopsy and probably improve symptoms. They may make little or no difference on endoscopy and may make little or no difference in withdrawals due to adverse effects.\n\nLimitations:\nWe have low confidence in the evidence. Studies differed in the people included and in how medicines were given. Most studies were short term. We have few long-term data on benefits or harms. We need longer and better trials that compare medicines directly, follow harms over time, and measure outcomes that matter to patients.\n\nCurrency:\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 704,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.372093023255815,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 215,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.892609672304445,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.9255140063425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.028603329809727,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.69409090909091,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.901109936575052,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.184593023255815,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.372093023255814,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.12435565298214,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.697751836680762,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 307,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 307.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 231,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 231.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 704,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 704 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:23.965975"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015514.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is lying face-down after eye surgery to repair a detached retina better than other post-surgery positions for preventing retinal displacement in macula-involving retinal detachments?\n\nKey messages\n– Lying face-down (on your stomach) right after surgery may lower the chance that the retina moves out of place, may reduce small wrinkles in the back layer of the eye (outer retinal folds), and may cut the risk of double vision when both eyes are used together (binocular diplopia). It may also raise the chance of higher pressure inside the eye (elevated intra-ocular pressure).  \n– The studies we found did not show a clear difference in how sharp vision becomes (best-corrected visual acuity) or in patients’ reports of visual distortion or quality of life when we compare face-down with other positions.  \n– Because the evidence comes from only three small trials, we have very low confidence in these results and larger, well-designed studies are needed.\n\nWhat is a macula-involving rhegmatogenous retinal detachment and why is it a problem?  \nA rhegmatogenous retinal detachment (RRD) occurs when a tear lets fluid slip behind the thin layer of tissue at the back of the eye (the retina). When the detachment includes the macula – the central part of the retina that gives us sharp, detailed vision – we call it a macula-involving RRD. This is a common eye-surgery emergency and can quickly cause serious loss of vision if it is not repaired promptly.\n\nHow is a macula-involving retinal detachment usually treated and what extra steps are sometimes recommended?  \nSurgeons usually perform a pars plana vitrectomy (PPV) – a surgery that removes the gel-like fluid inside the eye and fills the space with a harmless gas bubble (gas tamponade) to push the retina back into place. Some eye doctors ask patients to stay face-down after the operation so gravity keeps the bubble against the retina and may stop the retina from moving (retinal displacement). Retinal displacement can cause wavy vision (metamorphopsia) or double vision (binocular diplopia). Another option is the “support-the-break” position, where the head is tilted so the bubble rests over the retinal tear without lying completely face-down.\n\nWhat did the review aim to find out?  \nWe wanted to know whether keeping patients face-down after PPV with gas tamponade reduces the risk of retinal displacement and related problems, compared with other post-surgery positions such as lying on the back (face-up) or using the support-the-break position. We also looked at effects on visual sharpness, visual distortion, quality of life, outer retinal folds, double vision, and eye pressure.\n\nHow did we look for evidence?  \nWe searched several databases up to November 2022 for randomised trials that compared face-down positioning after PPV with any other post-operative position for primary macula-involving retinal detachments. We combined the results and rated our confidence in the evidence using the GRADE system.\n\nWhat did we find?  \nWe identified three randomised trials that together enrolled 368 participants (369 eyes). Most participants were men (68 %–72 %). The trials compared immediate face-down positioning with support-the-break or face-up positioning and followed patients for up to six months.\n\n– Retinal displacement: One trial reported fewer cases with face-down positioning (about 27 % fewer), but the evidence is very uncertain.  \n– Visual sharpness: One trial found no clear difference in best-corrected visual acuity at three months (mean difference −0.03 logMAR, 95 % CI −0.09 to 0.02), and confidence in this result is very low.  \n– Visual distortion and quality of life: One trial showed little or no effect on distortion scores or quality-of-life scores at 26 weeks, with very low confidence.  \n– Outer retinal folds: One trial suggested face-down reduced these wrinkles by about 61 % (very low confidence).  \n– Double vision: The same trial suggested an 80 % reduction in binocular diplopia (very low confidence).  \n– Eye pressure: One trial indicated face-down may increase the risk of elevated intra-ocular pressure by about 74 % (very low confidence).\n\nWhat are the limitations of the evidence?  \nThe three trials were very small and involved mainly male participants. They gave limited information about age, severity of the detachment, and where the studies were conducted. Different trials used different outcome measures, making it hard to combine results. Because of these issues, we are not confident that the findings apply to all patients.\n\nHow current is the evidence?  \nWe searched studies up to November 2022. New research may have been published since then.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 799,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.194444444444443,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 72,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 232,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 232.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.01352124183009,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.3787244472257,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.41928730357391,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.021777221526907,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.488541232095674,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.10057711027673,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.527777777777778,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.767145334803704,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.503798136559589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 324,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 324.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 172,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 199,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 799,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 799 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:03.552532"
+}

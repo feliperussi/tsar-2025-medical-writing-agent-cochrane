@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Is adding ultrasonography to mammography better than mammography alone for finding breast cancer in women at average risk of breast cancer?\n\nKey messages:\n- We found that adding ultrasonography (a type of imaging test that uses sound waves) to mammography (a type of breast x-ray) may lead to more breast cancer cases being detected in women at average risk, especially in those with dense breasts (breasts with more glandular and fibrous tissue, which can make it harder to detect cancer on a mammogram).\n- However, this combined approach also increases the number of false-positive results (when a test incorrectly shows a problem) and unnecessary biopsies (a medical procedure where a sample of tissue is taken for examination).\n- The current evidence does not tell us whether adding ultrasonography to mammography reduces the risk of dying from breast cancer or other causes.\n\nWhat is breast cancer and why is early detection important?\nBreast cancer is a common health problem that affects many women. It occurs when abnormal cells in the breast grow and multiply uncontrollably. Early detection of breast cancer is crucial because it can improve treatment outcomes and save lives. Mammography, which is an X-ray of the breast, is a common screening method used to detect breast cancer at an early stage.\n\nWhat are the current screening methods for breast cancer and their limitations?\nCurrently, mammography is the primary screening method for breast cancer. However, it has some limitations, such as false-negative results (when the test fails to detect cancer that is actually present), particularly in women with dense breasts. To improve detection rates, some researchers suggest adding ultrasonography, a safe and non-invasive imaging method, to the screening regimen.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effectiveness and safety of combining mammography with breast ultrasonography for breast cancer screening in women at average risk of breast cancer. We aimed to determine whether this combined approach can detect more breast cancers than mammography alone and whether it can reduce false-negative results and improve treatment outcomes.\n\nWhat did we find?\nWe found 8 studies that involved 209,207 women at average risk of breast cancer. The studies were conducted over 1 to 3 years. Most of the studies were cohort studies, with only 1 randomized controlled trial. The population characteristics included women between the ages of 40 and 75, with a proportion of women with dense breasts ranging from 48% to 100%. The studies evaluated the effectiveness of mammography in combination with breast ultrasonography versus mammography alone for breast cancer screening. Adding ultrasonography to mammography may find more breast cancer cases than mammography alone. However, it may also lead to more false-positive results and unnecessary biopsies. For women with dense breasts, the combination of mammography and ultrasonography probably detects more cancer cases than mammography alone.\n\nLimitations\nThe studies had very small sample sizes and participants were not randomly assigned to treatment groups, so observed differences could be due to pre-existing differences between people rather than the treatments. Additionally, the studies did not assess whether the combined approach reduces the risk of dying from breast cancer or other causes. Future studies should investigate the effects of combined mammography and ultrasonography screening on breast cancer mortality and other important outcomes.\n\nCurrency\nThe evidence is up to date to May 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 579,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.678571428571427,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 191,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.38511010362694,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.34510917838638,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.87415618060696,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.686493955094992,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.3180606957809,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.003269183320995,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.857142857142857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.295630140987,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.598006020231927,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 241,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 241.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 102,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 164,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 579,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 579 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 6,
+        "P75_count": 6,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several clarity issues, including unexplained jargon, long sentences, and missing context. For example, the sentence 'The addition of ultrasonography to mammography for breast cancer screening probably detects more breast cancer cases than mammography alone' is unclear because it does not define what 'probably detects' means. A suggested rewrite could be 'Adding ultrasonography to mammography may find more breast cancer cases than mammography alone.' Another issue is the use of passive voice, such as 'The studies had very small sample sizes and participants were not randomly assigned to treatment groups.' A suggested rewrite could be 'We found that the studies had small sample sizes and did not randomly assign participants to treatment groups.' The PLS evaluation results show that the draft has 9 passive voice constructions, which is within the typical range, but the high number of nouns (191) and complex words (241) may reduce readability. To improve, consider reducing the number of nouns and complex words, and using more active voice constructions.",
+      "pls_evaluation_summary": "The PLS evaluation results show good conformity with typical PLS patterns, with 55.6% of features in the best quartile range. However, the draft has a high number of nouns (191) and complex words (241), which may reduce readability. The results also show that the draft has 9 passive voice constructions, which is within the typical range. Overall, the draft needs improvement in clarity and readability to better conform to typical PLS patterns."
+    }
+  ]
+}

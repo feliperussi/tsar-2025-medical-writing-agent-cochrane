@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014796.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "## Plain Language Summary\n\n**What are the benefits and risks of general health checks for people's overall health?**\n\nGeneral health checks are an important part of preventive healthcare. They help identify potential health problems early on, so they can be treated before they become serious. However, the evidence on whether general health checks actually work is unclear.\n\n**What do people think about general health checks?**\n\nMost people who have had general health checks say they were motivated to make lifestyle changes. They felt reassured by the professional confirmation of their health. However, some people were hesitant to attend if they were afraid of negative results or relied on symptom-based care.\n\n**How do healthcare providers and managers think about general health checks?**\n\nHealthcare providers and managers think that general health checks are valuable, especially in settings where they have been established for a long time. They believe that healthcare providers should be skilled and culturally competent. However, they also face challenges such as time competition with curative care, staff changes, and resource limitations.\n\n**What should happen next?**\n\nThe evidence suggests that general health checks are popular among clients, healthcare providers, managers, and policymakers. However, there is a need for more research on why these checks are commissioned. De-implementation strategies may need to offer alternatives before a constructive debate can take place about fundamental changes to this widely accepted service.\n\n**What are the limitations of the evidence?**\n\nWe have low or very low confidence in findings related to the contextual level and reasons for commissioning general health checks. The evidence suggests that cultural background, social norms, religion, gender, and language shape the perception of prevention and disease, thereby influencing the uptake of general health checks. Policymakers thought that a favourable political climate and support from various stakeholders are needed to establish general health checks.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2022. However, the results from the update search in September 2023 have not yet been incorporated.\n\n**What should healthcare providers and policymakers do?**\n\nHealthcare providers and policymakers should consider the perspectives of clients, healthcare providers, and managers when making decisions about general health checks. They should also think about how to overcome the challenges they face, such as time competition and resource limitations.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 398,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.266666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 29,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.01506197654942,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.300080402010053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.327278056951425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.333768844221105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.351892797319934,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.93500837520938,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.466666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.695359714832659,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.529684958123953,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 148,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 134,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 398,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 398 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 5,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:49.507980"
+}

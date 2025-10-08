@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010637.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What does exercise do for people with chronic venous disease?\n\nKey Messages\n- We are uncertain if exercise programmes change symptoms, quality of life, or other health measures in people with chronic venous disease, because the evidence is very limited.\n- No studies reported that exercise caused new leg ulcers or other harms.\n- More research is needed to find out if exercise works, what type of exercise might help, and how many people should do it.\n\nWhat is chronic venous disease?\nChronic venous disease is a long‑term problem with blood flow in the legs. It can make the skin feel heavy, swollen, or sore, and can hurt everyday life.\n\nWhy is it a problem?\nWhen blood does not flow back to the heart properly, it can build up in the veins of the legs. This can lead to pain, swelling, skin changes, and in some cases, open sores that are hard to heal.\n\nWhat can people do to help?\nExercise programmes that involve walking, leg lifts, or other movements are thought to improve blood flow and reduce symptoms. Doctors and nurses sometimes recommend these programmes as part of treatment.\n\nWhat did we want to find out?\nWe wanted to know whether exercise programmes help people with chronic venous disease feel better, move more easily, and avoid complications, and whether they cause any harms.\n\nWhat did we do?\nWe looked for studies that compared exercise programmes with no exercise in people with chronic venous disease. We summarised the results and rated how confident we were in the evidence.\n\nWhat did we find?\nWe found five studies that included 146 people. The studies used different kinds of exercise and were carried out in several countries. Most studies were small and had some problems with how they were done.\n\nSymptoms and quality of life\nWe are uncertain if exercise changes how bad the symptoms feel or how people feel about their health. The studies did not show a clear difference between people who exercised and those who did not.\n\nExercise ability and muscle strength\nWe are uncertain if exercise improves how far people can walk or how strong their legs are. The studies did not show a clear improvement.\n\nOther health measures\nWe are uncertain if exercise changes how quickly blood returns to the heart after standing, how well the ankle moves, or how many new leg ulcers appear. No studies reported new ulcers.\n\nHarms\nNo studies reported that exercise caused new leg ulcers or other harms.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and may have had problems with how they were done. The exercise programmes varied a lot, so it is hard to say which type, if any, works best.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 509,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.542857142857143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 74.89718271119845,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 6.425525680606231,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.384061184395172,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.810216110019642,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 10.846612405276453,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 37.33264103283749,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.3142857142857145,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.874007874011811,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.808869918607916,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 164,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 64,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 509,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 509 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:16.171421"
+}

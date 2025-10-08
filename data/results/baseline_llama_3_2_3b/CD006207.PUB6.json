@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed PLS:\n\n**Is physical intervention effective in preventing the spread of respiratory viruses?**\n\n**What are the benefits and risks of physical interventions to interrupt or reduce the spread of respiratory viruses?**\n\n* Wearing masks in the community probably makes little or no difference to the outcome of influenza-like illness (ILI)/COVID-19 like illness compared to not wearing masks.\n* Hand hygiene is likely to modestly reduce the burden of respiratory illness.\n* There is a need for large, well-designed RCTs addressing the effectiveness of many of these interventions in multiple settings and populations.\n\n**What did we do?**\n\nWe searched for studies that compared physical interventions to prevent the spread of respiratory viruses, including masks, hand hygiene, and other measures. We included 11 new RCTs and cluster-RCTs, bringing the total number of RCTs to 78.\n\n**What did we find?**\n\nWe found that wearing masks in the community probably makes little or no difference to the outcome of ILI/Covid-19 like illness, and that hand hygiene is likely to modestly reduce the burden of respiratory illness. We also found that the use of N95/P2 respirators compared to medical/surgical masks may be effective for clinical respiratory illness, but the evidence is limited by imprecision and heterogeneity. There were no clear differences between the use of medical/surgical masks compared with N95/P2 respirators in healthcare workers when used in routine care to reduce respiratory viral infection.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2022, as this review updates our previous review and includes results from studies from the current COVID-19 pandemic.\n\n**What are the limitations of the evidence?**\n\nThe high risk of bias in the trials, variation in outcome measurement, and relatively low adherence with the interventions during the studies hampers drawing firm conclusions. There is uncertainty about the effects of face masks. The low to moderate certainty of evidence means our confidence in the effect estimate is limited, and that the true effect may be different from the observed estimate of the effect.\n\nPlease note that I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. However, please review the summary to ensure it meets your specific needs and requirements.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 414,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.818181818181817,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 104,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 48.982371541502005,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.102231005709267,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.687206851119896,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.976038647342996,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.029688186209924,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.18533157663592,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.090909090909091,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.695359714832659,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.959517083882301,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 158,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 88,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 134,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 414,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 414 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 7,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:41.109390"
+}

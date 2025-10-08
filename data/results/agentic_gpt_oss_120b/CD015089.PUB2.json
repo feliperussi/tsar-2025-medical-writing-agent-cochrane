@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015089.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "How accurate are the HINTS (head impulse, eye movement, and eye alignment) and HINTS Plus (adds a hearing test) examinations for identifying a brain (central) cause of sudden severe dizziness?\n\nKey messages\n- HINTS and HINTS Plus, when performed by trained clinicians in emergency settings, usually identify a brain‑related (central) cause of sudden severe dizziness and we found no harmful effects.\n- Adding video goggles or recordings gives uncertain results because only a few small studies have examined this approach.\n- The evidence is limited; we need more high‑quality research to confirm how well these tests work in different settings and how they compare with MRI.\n\nWhy is figuring out the cause of sudden dizziness important?\nSudden, severe dizziness – called acute vestibular syndrome (AVS) – can cause spinning (vertigo), nausea, vomiting, involuntary eye movements (nystagmus), and unsteadiness. AVS may stem from the inner ear (peripheral cause) or from the brain (central cause). Knowing the cause matters because inner‑ear problems often improve with medication or vestibular therapy, whereas brain problems such as stroke need urgent treatment. Doctors usually rely on the patient’s history, risk‑factor checklists, and sometimes expensive brain scans (MRI) to decide.\n\nWhat is the HINTS (Head impulse, Nystagmus, Test of Skew) examination?\nThe HINTS exam has three parts that a clinician performs at the bedside:\n- Head impulse: a quick turn of the head while watching the eyes to see if they stay focused.\n- Nystagmus: observation of the direction of involuntary eye movements.\n- Test of skew: a simple test to see whether the eyes are misaligned.\nHINTS Plus adds a brief hearing test to the three steps.\n\nWhat did the review aim to find out?\nWe wanted to know how well HINTS and HINTS Plus identify a central cause of AVS. Specifically, we looked at how often the tests correctly spot a brain problem (sensitivity) and how often they correctly rule it out (specificity) when used by clinicians in real‑world settings, with and without video assistance.\n\nHow did we find the evidence?\nWe searched several databases up to September 2022 for studies that evaluated the diagnostic accuracy of HINTS or HINTS Plus against a reference standard such as MRI or a neurologist’s final diagnosis. We combined the results and rated our confidence in the evidence.\n\nWhat did we find?\nWe included 16 studies with a total of 2,024 participants (average age ≈ 60 years). Most studies were done in emergency departments and about half of the examinations were performed by neurologists.\n- Clinical HINTS (12 studies, 1,890 participants) detected a central cause in roughly 94 % of patients; specificity was about 87 % (low‑certainty evidence).\n- Clinical HINTS Plus (5 studies, 451 participants) detected a central cause in about 95 % of patients; specificity was around 73 % (low‑certainty evidence).\n- Video‑assisted HINTS showed very uncertain accuracy because only three small studies examined it.\n- Video‑assisted HINTS Plus probably improves detection (sensitivity 86–94 %) but specificity was low (28–39 %) and confidence was moderate.\nNo studies reported any harmful effects from performing the examinations.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the findings. Some studies may have been influenced because clinicians knew the test results, many studies were small, and not all reported the outcomes we wanted. The evidence does not cover all patient groups or settings.\n\nHow up to date is this review?\nThe evidence we summarised is current to September 2022.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 607,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.233333333333334,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 58.9103577704558,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.069039538714996,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.001938495332237,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.347215815485992,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.671587040087866,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.88736957715541,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.535653752852738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.752486018671061,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 221,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 221.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 180,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 607,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 607 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:00.346644"
+}

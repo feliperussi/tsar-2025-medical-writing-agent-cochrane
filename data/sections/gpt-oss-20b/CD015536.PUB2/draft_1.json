@@ -1,0 +1,162 @@
+{
+  "id": "CD015536.PUB2",
+  "draft": "Is the antiviral medicine entecavir (a drug that blocks hepatitis B virus) better than no treatment or a dummy pill for children and adults with long‑term hepatitis B?\n\n**Key messages**\n- Current research does not show a clear benefit of entecavir (a medicine that blocks hepatitis B virus) compared with no treatment or a dummy pill (placebo) for people with chronic hepatitis B (long‑term liver infection); the studies did not report any deaths and gave very uncertain information about serious adverse events (harmful side effects that are severe).\n- The trials also did not provide information on how treatment affects patients’ overall well‑being or health‑related quality of life (how health impacts daily life).\n- Because the available evidence is limited and uncertain, more well‑designed, larger studies that follow patients for longer periods are needed to determine whether entecavir improves important outcomes such as survival, serious side effects, and quality of life.\n\n**Introduction/Aims**\nWhy is chronic hepatitis B a major health problem?\nHepatitis B is a virus that infects the liver. When the infection lasts a long time (called chronic hepatitis B), it can cause serious liver damage, liver cancer, and even death. Around a third of the world’s population has been exposed to the virus, and millions live with chronic infection, making it a big public‑health concern. People with chronic hepatitis B may feel well for years, but the virus can silently harm the liver over time.\n\nWhat is entecavir and how is it used to treat hepatitis B?\nEntecavir is a medicine that belongs to asterisk group called nucleos(t)ide analogues – drugs that look like the building blocks of viral DNA and stop the virus from copying itself. Because it works well and is usually safe, many clinical guidelines recommend entecavir as a first‑line (first choice) treatment for chronic hepatitis B in both children and adults. The drug is taken by mouth and is meant to keep the virus at low levels, reducing liver damage.\n\nWhat did the review aim to find out?\nThe authors wanted to discover whether taking entecavir is beneficial and safe compared with receiving no treatment or a placebo. Specifically, they looked at both children and adults with chronic hepatitis B, whether they were positive or negative for hepatitis B e‑antigen (HBeAg – a marker that helps show how active the infection is). They examined important outcomes such as death from any cause, serious side‑effects, and health‑related quality of life.\n\n**Methods**\nWe searched for studies that compared entecavir with no treatment or placebo in children and adults with chronic hepatitis B, combined their results, and assessed our confidence in the evidence.\n\n**Results**\nWhat did we find?\nThe review included 22 randomised trials with a total of 2,940 participants who had chronic hepatitis B. All trials of a parallel‑group design and tested oral entecavir for periods ranging from 5 weeks to 228 weeks. Twelve trials compared entecavir with no treatment, ten used a placebo comparator, and in 14 trials co‑interventions were given equally to both arms. Participants were mainly adults (19 trials); one trial enrolled only children, one enrolled people aged 14‑55 years, and one did not report ages. Gender distribution and disease severity were not specified, and the abstract gave no details on the countries, settings, or funding sources of the studies. No studies reported health‑related quality of life outcomes. Overall, the review found that it is unclear whether entecavir changes the risk of death, improves health‑related quality of life, or reduces serious adverse events.\n\n**Limitations**\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, not all of the studies provided data about everything we were interested in, and the studies were very small.\n\n**Currency**\nThe evidence is up to date to July 2024 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 655,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.833333333333332,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 20,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 52.02653307888042,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.42667938931298,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.167048346055978,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.910229007633585,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.427989821882953,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.68829516539441,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.3,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.44030650891055,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.664108905852418,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 273,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 273.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 126,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 189,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 655,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 655 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 4,
+        "P75_count": 5,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the critical style check because the subheadings are not phrased as questions (e.g., \"Key messages\", \"Introduction/Aims\", \"Methods\", \"Results\", \"Limitations\", \"Currency\"). This breaches the Master Style Guide requirement. In addition, the text contains a high number of passive constructions (20 instances, well above the typical ≤13), excessive nominalisations (22), and a very noun‑heavy, complex‑word style (188 nouns, 273 Dale‑Chall unfamiliar words, 126 three‑sy, 189 long words). These features reduce readability for patients.\n\nTop improvements needed:\n1. Subheading format – Change each heading to a question. Example: replace \"Methods\" with \"How did we find and assess the studies?\"; replace \"Results\" with \"What did we find?\"; replace \"Limitations\" with \"What are the limitations of the evidence?\"; replace \"Currency\" with \"How up‑to‑date is the evidence?\".\n2. Passive voice – Rewrite passive sentences in active voice. Quote: \"The review included 22 randomised trials with a total of 2,940 participants…\". Rewrite: \"We included 22 randomised trials that enrolled 2,940 participants…\".\n3. Jargon without definition – The term \"nucleos(t)ide analogues\" is not explained. Quote: \"Entecavir is a medicine that belongs to asterisk group called nucleos(t)ide analogues…\". Rewrite: \"Entecavir belongs to a group of medicines called nucleos(t)ide analogues – drugs that look like the building blocks of the virus’s DNA and stop it copying itself.\"\n4. Long, dense sentences – Sentence >30 words: \"The review included 22 randomised trials with a total of 2,940 participants who had chronic hepatitis B. All trials used a parallel‑group design and tested oral entecavir for periods ranging from 5 weeks to 228 weeks.\" Rewrite into two shorter sentences: \"We found 22 randomised trials that together enrolled 2,940 people with chronic hepatitis B. All trials compared oral entecavir with either no treatment or a placebo for periods ranging from 5 weeks to 228 weeks.\"\n5. Noun‑heavy, nominalised phrasing – Quote: \"Overall, the review found that it is unclear whether entecavir changes the risk of death, improves health‑related quality of life, or reduces serious adverse events.\" Rewrite with more verbs: \"Overall, we could not determine whether entecavir lowers the risk of death, improves quality of life, or reduces serious side‑effects.\"\n\nThese changes address the most impactful clarity and style issues while also bringing the metric scores closer to typical PLS ranges (reducing passive voice, nominalisations, noun count, and complex/long words).",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets the word‑count limit (655 words) and has good readability scores (Flesch‑Reading‑Ease 52, FK‑grade 11). However, six metrics deviate markedly from typical PLS patterns: passive_voice (20 > 13 median), nominalization (22 > 13), nouns (188 > 116), complex_words_dc (273 > 160), complex_words (126 > 84), and long_words (189 > 122). These indicate excessive passive constructions, noun‑heavy phrasing, and high lexical complexity, which support the recommended edits above."
+    }
+  ]
+}

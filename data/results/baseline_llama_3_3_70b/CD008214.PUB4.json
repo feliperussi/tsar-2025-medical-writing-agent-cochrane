@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008214.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can anti-vascular endothelial growth factors (anti-VEGF) help reduce complications when used with vitrectomy for proliferative diabetic retinopathy?\n\nKey messages:\n- Anti-VEGF agents may improve vision outcomes and reduce the risk of bleeding and other complications after vitrectomy for proliferative diabetic retinopathy, but the evidence is not certain.\n- The use of anti-VEGF agents before or during vitrectomy probably reduces the risk of early and late bleeding in the eye.\n- Future research should focus on standardizing outcomes and variables in trials studying vitrectomy for proliferative diabetic retinopathy.\n\nWhat is proliferative diabetic retinopathy?\nProliferative diabetic retinopathy is a complication of diabetes that can cause bleeding, scarring, and vision loss. Vitrectomy is a surgical procedure that can help treat these complications.\n\nWhat did we want to find out?\nWe wanted to find out if using anti-VEGF agents before or during vitrectomy can reduce the risk of complications and improve vision outcomes for people with proliferative diabetic retinopathy.\n\nWhat did we do?\nWe searched for studies that compared the use of anti-VEGF agents with vitrectomy to vitrectomy alone for proliferative diabetic retinopathy. We found 28 studies that included a total of 1914 eyes.\n\nWhat did we find?\nWe found that anti-VEGF agents may improve vision outcomes and reduce the risk of bleeding and other complications after vitrectomy. The use of anti-VEGF agents before or during vitrectomy probably reduces the risk of early and late bleeding in the eye. However, the evidence is not certain, and more research is needed to confirm these findings.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies had methodological issues, such as unclear randomization methods and incomplete outcome data.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 330,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.714285714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 33,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 85,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.552272727272765,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.67008658008658,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.548961038961039,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.181818181818183,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.285714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.1991341991342,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.476190476190476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.246211251235321,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.999731601731602,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 130,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 66,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 94,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 330,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 330 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 9,
+      "P75_count": 0,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 50.0,
+      "P75_percentage": 0.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:28.830069"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Can patient decision aids (tools like booklets or websites that explain health options) help people make informed choices about treatment or screening?\n\nKey messages\n- Patient decision aids help people take part in their healthcare choices. When people use these aids, they know their options better, understand the risks (chances) more correctly, and are clearer about what matters most to them.\n- These aids do not seem to make people regret their choice later. They also do not make medical visits much longer. We need more research to see if these aids help people stick to the treatment they choose.\n\nWhat are patient decision aids?\nPeople often must make hard choices about their health. For example, they may need to decide on a screening (a check for a disease when you have no symptoms) or pick from different treatments (actions or medicines). Patient decision aids are tools that can help. They give good, evidence-based (backed by science) information on the different choices. This includes the good and bad points of each. They also help people think about what matters most to them. This helps them make a choice that feels right.\n\nWhat did we want to find out?\nThis Cochrane Review (a top-quality summary of research) looked at how patient decision aids affect adults. We studied how the aids helped adults who were making choices about treatments or screening. We wanted to know if these aids help people know their health options better. We also checked if they helped people feel more informed and play a bigger part in the choice. We also wanted to see if the aids help people make a choice that fits their values.\n\nWhat did we do?\nWe looked for studies that compared using these aids to usual care (the care you would normally get). We then put together the results from all the studies. We rated how sure we were of the evidence.\n\nWhat did we find?\nWe found 209 studies with 107,698 adults. The studies compared the aids to usual care. Usual care could be general information, a risk check (a way to guess the chance of something happening), or a placebo (a fake treatment). The aids covered 71 different health choices. Most aids were about treatments for the heart and blood vessels (cardiovascular). Others were about cancer screening and treatment, mental health, and joint (where bones meet) replacement surgery (an operation).\n\nMain results\nCompared to usual care, the aids probably help many more people make choices that match their values. The aids greatly improve what people know about their options. They also help people correctly understand health risks (chances). They help people feel more informed and more certain about their values. Fewer people who use them are passive when making a choice. Using an aid makes little to no difference in whether people regret their choice later (wish they had chosen differently).\n\nWhat are the limitations of the evidence?\nWe are fairly sure of the evidence. This is because some people in the studies may have known which treatment they got. This is called a lack of blinding. Blinding is when people in a study do not know which treatment they get. This stops their hopes from affecting the results. Also, some studies did not give us all the information we wanted.\n\nHow up to date is this evidence?\nThis is an update of our last review. The evidence is current to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 589,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 47,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.53191489361702,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 157,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 77.91578550012645,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 5.504917097135426,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.186891232886612,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.49269949066214,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 8.408351695986708,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 32.22631217714843,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 2.4680851063829787,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.071067811865476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.795555814037495,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 193,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 50,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 589,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 589 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:05.250951"
+}

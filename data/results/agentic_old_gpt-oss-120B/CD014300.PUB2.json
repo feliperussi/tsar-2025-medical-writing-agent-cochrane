@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014300.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do psychosocial interventions (mental‑health programmes that aim to improve mental health by addressing both psychological (thoughts and feelings) and social (relationships, community, and support) factors) delivered by non‑specialists (paraprofessionals – people who are not fully‑qualified mental‑health professionals but have received some training) improve well‑being and coping for people in low‑ and middle‑income countries (LMICs – countries whose overall national income per person is lower than high‑income nations) affected by wars or other humanitarian crises (situations where large numbers of people face severe danger or hardship that overwhelm local resources)?\n\nKey messages  \n- Psychosocial programmes (mental‑health programmes that include social support) delivered by non‑specialists show no clear overall improvement in mental well‑being (a positive state where a person feels good about themselves, can manage everyday stresses, and has a sense of purpose) or coping (the ways a person handles stress) for people living in LMICs affected by wars or other humanitarian crises. Children and adolescents did not benefit; adults showed a small short‑term gain in mental well‑being that was uncertain and did not last.  \n- The trials reported few adverse events and similar dropout rates between groups, suggesting the programmes are acceptable (participants stayed in the study).  \n- Because the existing studies are few, small, and of uncertain quality, we need larger, well‑designed randomised trials (studies that randomly assign participants to groups) with longer follow‑up in varied crisis settings to determine whether these interventions can reliably improve well‑being, functioning (ability to carry out daily activities), and coping.\n\nWhat is the mental‑health problem?  \nAround 84 million people are forced to leave their homes by war, conflict, persecution or disaster. Most of them live in LMICs where health services are limited. In humanitarian crises people lose shelter, safety, income and community support. These stressors lower mental well‑being, make daily functioning harder and reduce quality of life. Many are not diagnosed with a mental disorder but still need help to maintain good mental health.\n\nWhat are psychosocial interventions and how might they help?  \nPsychosocial interventions combine psychological (thoughts, feelings, coping skills) and social (relationships, community support) activities. They are often delivered in groups by paraprofessionals. The aim is to boost hope, improve coping, help people function well in daily life and strengthen relationships. Rather than treating a specific illness, they focus on promoting overall mental well‑being and quality of life.\n\nWhat did we want to find out?  \nWe wanted to know whether psychosocial programmes that aim to promote‑mental health are effective for children, adolescents and adults living in LMICs affected by humanitarian crises. We compared these programmes with no treatment, usual care or waiting‑list groups to see if they improve mental well‑being, daily functioning, quality of life, resilience, coping, hope or prosocial behaviour (actions that benefit others), and whether participants stay in the programmes.\n\nHow did we look for evidence?  \nWe searched CENTRAL, MEDLINE, Embase and seven other databases for randomised trials that evaluated group psychosocial interventions versus usual care or no intervention in LMICs experiencing humanitarian crises. We included only studies that reported outcomes such as mental well‑being, functioning, coping or quality of life. We combined results using meta‑analysis techniques and rated confidence in the evidence with the GRADE system.\n\nWhat did we find?  \nWe identified a small number of trials that included children, adolescents and adults. The pooled results showed no clear overall benefit for mental well‑being or coping. Children and adolescents showed no improvement. Adults showed a modest short‑term increase in mental well‑being, but the effect was uncertain and did not persist beyond the immediate post‑intervention period. No harmful effects were reported. Adverse events were rare and dropout rates were similar between groups, indicating the programmes are acceptable to participants. The evidence is limited because the studies were few, small and varied in how the interventions were delivered.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence. Participants often knew which group they were in, which can bias results. The studies were very small and used different populations and delivery methods, increasing uncertainty.\n\nHow current is the evidence?  \nThe evidence is up to date to January 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 695,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.783783783783782,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 84,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 209,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 209.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.71449543068252,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.549488625315966,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.148927863114913,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.81945323741007,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.491930779700564,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.28738090608594,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.72972972972973,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.38364689869726,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 328,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 328.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 156,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 156.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 212,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 212.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 695,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 695 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:02.940247"
+}

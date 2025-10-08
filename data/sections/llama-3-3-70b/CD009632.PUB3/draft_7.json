@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Is adding ultrasonography to mammography better than mammography alone for finding breast cancer in women at average risk of breast cancer?\n\nKey messages:\n- We found that adding ultrasonography to mammography may find more breast cancer cases than mammography alone, especially in women with dense breasts.\n- However, this combined approach also increases the number of false-positive results and unnecessary biopsies.\n- The current evidence does not tell us whether adding ultrasonography to mammography reduces the risk of dying from breast cancer or other causes.\n\nWhat is breast cancer and why is early detection important?\nBreast cancer is a common health problem that affects many women. It occurs when abnormal cells in the breast grow and multiply uncontrollably. Early detection of breast cancer is crucial because it can improve treatment outcomes and save lives. Mammography, which is an X-ray of the breast, is a common screening method used to detect breast cancer at an early stage.\n\nWhat are the current screening methods for breast cancer and their limitations?\nCurrently, mammography is the primary screening method for breast cancer. However, it has some limitations, such as false-negative results, particularly in women with dense breasts. To improve detection rates, some researchers suggest adding ultrasonography, a safe and non-invasive imaging method, to the screening regimen.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effectiveness and safety of combining mammography with breast ultrasonography for breast cancer screening in women at average risk of breast cancer. We aimed to determine whether this combined approach can detect more breast cancers than mammography alone and whether it can reduce false-negative results and improve treatment outcomes.\n\nWhat did we find?\nWe found 8 studies that involved 209,207 women at average risk of breast cancer. The studies were conducted over 1 to 3 years. Most of the studies were cohort studies, with only 1 randomized controlled trial. The population characteristics included women between the ages of 40 and 75, with a proportion of women with dense breasts ranging from 48% to 100%. The studies evaluated the effectiveness of mammography in combination with breast ultrasonography versus mammography alone for breast cancer screening. Adding ultrasonography to mammography may find more breast cancer cases than mammography alone. However, it may also lead to more false-positive results and unnecessary biopsies. For women with dense breasts, the combination of mammography and ultrasonography probably detects more cancer cases than mammography alone.\n\nLimitations\nWe found that the studies had small sample sizes and did not randomly assign participants to treatment groups, so observed differences could be due to pre-existing differences between people rather than the treatments. Additionally, the studies did not assess whether the combined approach reduces the risk of dying from breast cancer or other causes. Future studies should investigate the effects of combined mammography and ultrasonography screening on breast cancer mortality and other important outcomes.\n\nCurrency\nThe evidence is up to date to May 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 512,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.285714285714285,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 170,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.36445312500001,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.753537946428573,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.127583705357146,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.060781249999998,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.579910714285715,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.582589285714285,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.357142857142857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.321658928571429,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 208,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 93,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 150,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 512,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 512 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 5,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text needs improvements in clarity and readability. Issues include lengthy sentences, technical terms without explanations, passive voice, and deviation in noun usage. Rephrasing the title and subheadings as questions, defining technical terms, breaking down long sentences, reducing passive voice, simplifying complex phrases, and balancing noun usage with more verbs are suggested. The PLS evaluation results support these suggestions, showing high conformity to typical patterns but highlighting the need for adjustments in specific areas.",
+      "pls_evaluation_summary": "The draft shows high conformity to typical PLS patterns, with 66.7% of features in the best quartile. However, it deviates in the use of nouns, with 170 instances, which is above the median. The suggested improvements aim to enhance readability and clarity while maintaining factual accuracy and adherence to the style guide."
+    }
+  ]
+}

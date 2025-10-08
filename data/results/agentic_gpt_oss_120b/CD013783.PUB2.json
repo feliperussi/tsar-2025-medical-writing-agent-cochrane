@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "How accurate are toe‑brachial index and toe systolic blood pressure for detecting peripheral arterial disease?\n\nKey messages\n- We found only a few low‑quality studies, so we cannot be sure how well toe‑brachial index (TBI) or toe systolic blood pressure (TSBP) identify peripheral arterial disease (PAD).\n- Both tests are used widely, but the current evidence does not show a clear benefit or harm.\n- Better research that tests different cut‑off values and includes diverse patient groups is needed.\n\nWhy is peripheral arterial disease a health problem?\nPAD is a condition where the arteries that supply blood to the legs become narrowed or blocked by fatty deposits. This reduces blood flow and can cause pain when walking, pain at rest, slow‑healing wounds, gangrene, or even amputation. PAD also raises the risk of heart attacks and strokes. An estimated 236 million people worldwide have PAD, and it is more common in older adults, smokers, people with high blood pressure, diabetes, or other heart problems. Finding PAD early helps prevent serious complications.\n\nWhat are toe‑brachial index and toe systolic blood pressure and why might they help?\nBoth TBI and TSBP are simple, non‑invasive bedside tests that measure blood pressure in a toe.\n- TBI compares the pressure in a toe with the pressure in an arm. A low ratio suggests reduced blood flow in the leg.\n- TSBP records the actual pressure reading in the toe.\nThese tests are helpful because the tiny arteries in the toes rarely become hardened with calcium. This makes them more reliable than ankle‑based measurements, especially for people with diabetes or kidney disease. Clinicians often use them to decide whether further imaging or treatment is needed.\n\nWhat did the review aim to find out?\nWe wanted to know how accurate TBI and TSBP are for diagnosing lower‑leg PAD. Specifically, we aimed to (1) estimate each test’s accuracy at different cut‑off values in people at risk of PAD, and (2) compare the performance of TBI versus TSBP. We also planned to explore whether factors such as patient type, equipment used, positivity threshold, or reference imaging test affected the results.\n\nHow did we find the studies?\nWe searched several databases up to 27 February 2024 for studies that compared TBI or TSBP with a validated imaging reference for PAD. We combined the accuracy results and rated our confidence in the evidence using standard quality‑assessment tools.\n\nWhat did we find?\nWe identified 18 studies that together evaluated TBI in 1,927 adults (2,550 limbs) and TSBP in 701 adults (701 limbs). All participants were adults (18 years or older). They included people with symptoms and people without symptoms who were at risk of PAD because of diabetes, kidney disease, or other common risk factors. The studies compared the toe tests with several imaging reference standards. Most used colour‑duplex ultrasound, a special ultrasound that shows how blood moves through the vessels. Some used CT‑angiography, a detailed CT scan of the arteries, or conventional angiography, an X‑ray test that visualises the arteries. The reports did not give details on participants’ age distribution, gender balance, or disease severity. Overall, the evidence is very uncertain: we do not know whether TBI or TSBP can reliably identify PAD, and the few studies that exist do not provide clear answers about the usefulness of these tests for diagnosis.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because some studies may have let participants or investigators know which test was being performed, and many studies did not report all the data we wanted. The methodological quality of the studies was generally low.\n\nHow current is the evidence?\nWe searched studies up to 27 February 2024, so the evidence reflects research published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 648,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.05263157894737,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 177,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 62.887690058479535,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.724106562703057,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.378538011695905,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.033086419753083,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.981546458739443,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.44769330734243,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.842105263157895,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.059467933723198,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 255,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 255.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 116,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 116.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 184,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 648,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 648 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:56.156232"
+}

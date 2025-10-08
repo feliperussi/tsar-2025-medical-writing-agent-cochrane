@@ -1,0 +1,159 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Continuous infusion versus bolus injection of loop diuretics for acute heart failure\n\nBackground\nAcute heart failure (AHF) is new onset of, or a sudden worsening of, chronic heart failure characterised by congestion in about 95% of cases or end‐organ hypoperfusion in 5% of cases. Treatment often requires urgent escalation of diuretic therapy, mainly through hospitalisation. This Cochrane review evaluated the efficacy of intravenous loop diuretics strategies in treating AHF in individuals with New York Heart Association (NYHA) classification III or IV and fluid overload.\n\nObjectives\nTo assess the effects of intravenous continuous infusion versus bolus injection of loop diuretics for the initial treatment of acute heart failure in adults.\n\nSearch methods\nWe identified trials through systematic searches of bibliographic databases and in clinical trials registers including CENTRAL, MEDLINE, Embase, CPCI‐S on the Web of Science, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry platform (ICTRP), and the European Union Trials register. We conducted reference checking and citation searching, and contacted study authors to identify additional studies. The latest search was performed on 29 February 2024.\n\nSelection criteria\nWe included randomised controlled trials (RCTs) involving adults with AHF, NYHA classification III or IV, regardless of aetiology or ejection fraction, where trials compared intravenous continuous infusion of loop diuretics with intermittent bolus injection in AHF. We excluded trials with chronic stable heart failure, cardiogenic shock, renal artery stenosis, or end‐stage renal disease. Additionally, we excluded studies combining loop diuretics with hypertonic saline, inotropes, vasoactive medications, or renal replacement therapy and trials where diuretic dosing was protocol‐driven to achieve a target urine output, due to confounding factors.\n\nData collection and analysis\nTwo review authors independently screened papers for inclusion and reviewed full‐texts. Outcomes included weight loss, all‐cause mortality, length of hospital stay, readmission following discharge, and occurrence of acute kidney injury. We performed risk of bias assessment and meta‐analysis where data permitted and assessed certainty of the evidence.\n\nMain results\nThe review included seven RCTs, spanning 32 hospitals in seven countries in North America, Europe, and Asia. Data collection ranged from eight months to six years. Following exclusion of participants in subgroups with confounding treatments and different clinical settings, 681 participants were eligible for review. These additional study characteristics, coupled with our strict inclusion and exclusion criteria, improve the applicability of the body of the evidence as they reflect real‐world clinical practice.\nMeta‐analysis was feasible for net weight loss, all‐cause mortality, length of hospital stay, readmission, and acute kidney injury. Literature review and narrative analysis explored daily fluid balance; cardiovascular mortality; B‐type natriuretic peptide (BNP) change; N‐terminal‐proBNP change; and adverse incidents such as ototoxicity, hypotension, and electrolyte imbalances. Risk of bias assessment revealed two studies with low overall risk, four with some concerns, and one with high risk. All sensitivity analyses excluded trials at high risk of bias.\nOnly narrative analysis was conducted for 'daily fluid balance' due to diverse data presentation methods across two studies (169 participants, the evidence was very uncertain about the effect). Results of narrative analysis varied. For instance, one study reported higher daily fluid balance within the first 24 hours in the continuous infusion group compared to the bolus injection group, whereas there was no difference in fluid balance beyond this time point.\nContinuous intravenous infusion of loop diuretics may result in mean net weight loss of 0.86 kg more than bolus injection of loop diuretics, but the evidence is very uncertain (mean difference (MD) 0.86 kg, 95% confidence interval (CI) 0.44 to 1.28; 5 trials, 497 participants; P < 0.001, I2= 21%; very low‐certainty evidence). Importantly, sensitivity analysis excluding trials with high risk of bias showed there was insufficient evidence for a difference in bodyweight loss between groups (MD 0.70 kg, 95% CI −0.06 to 1.46; 3 trials, 378 participants; P = 0.07, I2= 0%).\nThere may be little to no difference in all‐cause mortality between continuous infusion and bolus injection (risk ratio (RR) 1.53, 95% CI 0.81 to 2.90; 5 trials, 530 participants; P = 0.19, I2= 4%; low‐certainty evidence). Despite sensitivity analysis, the direction of the evidence remained unchanged.\nNo trials measured cardiovascular mortality.\nThere may be little to no difference in the length of hospital stay between continuous infusion and bolus injection of loop diuretics, but the evidence is very uncertain (MD −1.10 days, 95% CI −4.84 to 2.64; 4 trials, 211 participants; P = 0.57, I2= 88%; very low‐certainty evidence). Sensitivity analysis improved heterogeneity; however, the direction of the evidence remained unchanged.\nThere may be little to no difference in the readmission to hospital between continuous infusion and bolus injection of loop diuretics (RR 0.85, 95% CI 0.63 to 1.16; 3 trials, 400 participants; P = 0.31, I2= 0%; low‐certainty evidence). Sensitivity analysis continued to show insufficient evidence for a difference in the readmission to hospital between groups.\nThere may be little to no difference in the occurrence of acute kidney injury as an adverse event between continuous infusion and bolus injection of intravenous loop diuretics (RR 1.02, 95% CI 0.70 to 1.49; 3 trials, 491 participants; P = 0.92, I2= 0%; low‐certainty evidence). Sensitivity analysis continued to show that continuous infusion may make little to no difference on the occurrence of acute kidney injury as an adverse events compared to the bolus injection of intravenous loop diuretics.\n\nAuthors' conclusions\nAnalysis of available data comparing two delivery methods of diuretics in acute heart failure found that the current data are insufficient to show superiority of one strategy intervention over the other. Our findings were based on trials meeting stringent inclusion and exclusion criteria to ensure validity. Despite previous reviews suggesting advantages of continuous infusion over bolus injections, our review found insufficient evidence to support or refute this. However, our review, which excluded trials with clinical confounders and RCTs with high risk of bias, offers the most robust conclusion to date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 1006,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.794871794871796,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.8 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 64,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 67,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 67.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 379,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 379.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 34.831733955242925,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.809165009940362,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 15.39198858133252,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.920079522862824,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 21.371626650354287,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.4 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 60.98373859407657,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.0 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 9.076923076923077,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.1 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 19.76305461424021,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.017467390528623,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 493,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 493.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 278,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 278.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 354,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 354.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 1006,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 1006 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 1,
+      "P75_count": 2,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 8,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 44.44444444444444,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:27.847407"
+}

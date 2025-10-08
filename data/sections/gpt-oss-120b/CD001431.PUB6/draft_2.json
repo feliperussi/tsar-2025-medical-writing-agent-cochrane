@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "Do decision aids (tools that explain health options and help you weigh benefits and harms) help adults make better treatment or screening choices?\n\nKey messages\n- Decision aids probably help adults choose options that match their values. They increase knowledge by about 12 points on a 0‑100 scale and improve how accurately people understand their risks.\n- Decision aids do not change decision regret (feeling sorry about the choice) or overall consultation length. When used before a visit they may shorten it a little; when used during a visit they add about one to two minutes.\n- More research is needed on long‑term outcomes such as staying with the chosen option (adherence), health‑care costs and effects in different patient groups.\n\nWhy do people need help making health decisions?\nEvery day adults face choices about treatments or screening tests – for example, starting blood‑pressure medicine, getting a colon‑cancer screen, or having joint‑replacement surgery. These choices often involve several options, each with its own benefits, possible harms and chances of success. Most people do not receive clear, easy‑to‑understand information, and they may not know how the outcomes fit with their own values. Decision aids are tools – such as booklets, videos or interactive websites – that make the choice explicit, give evidence‑based facts about each option and help people think about what matters most to them. By doing this, we aim to support patients in making informed, values‑congruent choices (choices that line up with what they personally consider important).\n\nWhat did the researchers want to find out?\nWe wanted to know whether using patient decision aids improves the decision‑making process compared with usual care (such as generic pamphlets or no extra information). Specifically, we asked whether decision aids help adults:\n- understand the options better (increase knowledge);\n- have a more accurate sense of the risks and benefits (accurate risk perception);\n- feel clearer about their own values and preferences (values‑congruent choice);\n- take a more active role in discussions with their clinician (less passive, clinician‑controlled decisions);\n- experience less uncertainty or conflict about the decision (lower decisional conflict – feeling uncertain or uneasy about the decision);\n- avoid feeling regret after the choice is made (decision regret).\nWe also looked at other outcomes such as consultation length, adherence to the chosen option and any impact on the health‑care system.\n\nHow did we find and evaluate the studies?\nWe searched databases for randomised controlled trials that compared patient decision aids with usual care for adults facing treatment or screening choices. We combined the results and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe examined 209 trials involving 107,698 adults making a wide range of health‑related decisions. All trials compared decision aids – tools that make the decision explicit, give evidence‑based information and help clarify what matters most – with usual care, which could be general information, risk assessments, consumer‑friendly guideline summaries, unrelated placebo information or no intervention. The abstracts did not report trial duration, funding, participants’ ages, genders or study locations.\nThe evidence suggests that decision aids probably help people choose options that match their informed values. They increase knowledge by about 12 points on a 0‑100 scale and improve how accurately people understand their risks. They also reduce feelings of being uninformed, lower decisional conflict and decrease the proportion of people who remain passive in decision‑making. Decision aids do not change decision regret or overall consultation length when used beforehand, and they add only about one to two minutes when used during a visit.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence. Some participants knew which group they were in, and not all trials reported every outcome we wanted. This uncertainty limits how strongly we can draw conclusions.\n\nHow up‑to‑date is this review?\nThis review updates our previous work and includes evidence up to March 2022.\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 659,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.59375,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 93,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 199,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 53.833102475341434,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.866752181335357,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.816510811836118,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.413171471927164,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.067545523520486,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.81833270106222,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.8125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.816653826391969,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.922087329286799,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 288,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 288.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 129,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 129.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 659,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 659 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 2,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical check failed: The subheading \"Key messages\" is not phrased as a question, which violates the Master Style Guide requirement that subheadings be posed as questions where possible. Suggested rewrite: change the heading to \"What are the key messages?\". Additionally, the draft contains a high number of nominalisations (26) and nouns (199), and a very high count of complex Dale‑Chall words (288), which contribute to lower readability despite acceptable overall metrics. Consider reducing noun‑heavy phrasing and replacing complex words with simpler alternatives (e.g., change \"decision‑making process\" to \"how decisions are made\").",
+      "pls_evaluation_summary": "The draft meets word‑count limits and most readability metrics are within typical PLS ranges (FKGL 10.9, Flesch 53.8, words per sentence 20.6). However, several lexical complexity measures deviate strongly: nominalizations, noun count, SMOG index, complex words, long words, and especially complex Dale‑Chall words are all beyond the 90th percentile, indicating the text is more noun‑heavy and uses many unfamiliar words than typical PLS. These deviations suggest the need to simplify language and reduce noun‑heavy constructions."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016043",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "What are the best ways to provide eye care services in community and primary care settings to correct vision problems (refractive errors)?\n\nKey messages:\n- We found several approaches to provide eye care services in community and primary care settings, including school-based, pharmacy, and outreach models, as well as vision centre, health centre, and a combination of vision or health centre and door-to-door delivery approaches.\n- However, we need more research to understand which approaches work best, especially in areas where few approaches have been tried, like the WHO Eastern Mediterranean region.\n- Future studies should look at the benefits and potential harms of different service-delivery approaches, including their cost-effectiveness and feasibility in various settings.\n\nWhat is uncorrected refractive error and why is it a problem?\nUncorrected refractive error is a leading cause of vision impairment worldwide. It happens when the shape of the eye doesn't allow light to focus correctly on the retina, resulting in blurry vision. This condition can be managed with appropriate spectacle correction, but many people, especially in low-resource settings, do not have access to eye care services. As a result, uncorrected refractive error can significantly impact daily life, affecting education, work, and overall well-being.\n\nWhat did the review authors want to find out?\nThe review authors aimed to determine the range of approaches for delivering refractive and optical care services in community and primary care settings. They also wanted to identify the methods used to evaluate these approaches, to inform the development of technical guidance for improving refractive error services globally.\n\nWhat did we find?\nWe found 175 studies that involved delivery approaches for refractive and optical care services in community and primary care settings. The studies were conducted in various countries around the world, with school-based and outreach approaches being common in community care, and vision-centre approaches being common in primary care. However, there is a lack of evaluation of these approaches, and few studies have attempted to assess their effectiveness.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were very small, and few studies attempted to evaluate the approaches for delivery of refractive and optical care services.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to November 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 400,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 35,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 42.29200000000003,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.329000000000004,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.673425000000002,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.810899999999997,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.2,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.6,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.899494936611665,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.702750000000001,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 170,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 400,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 400 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 9,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 50.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:16.790936"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Do immune‑checkpoint drugs (anti‑PD‑1 and anti‑PD‑L1 antibodies) improve survival in adults with aggressive brain tumors (glioma)?\n\nKey messages:\n- Immune‑checkpoint drugs (anti‑PD‑1/PD‑L1 antibodies, which are medicines that help the immune system recognise cancer cells) have not been shown to improve overall survival (how long patients live) or progression‑free survival (time before the tumour gets worse) in adults with aggressive glioma, and they do not clearly reduce serious adverse events (serious side effects); the evidence is limited and of low quality.\n- A very small study suggested that giving pembrolizumab before and after surgery might improve survival, but this finding is based on few participants and the certainty is low; other combinations, such as adding bevacizumab, also did not show clear benefit and may increase side effects.\n- Future research needs larger, well‑designed trials to determine whether these drugs can help people with glioma, to clarify any potential harms, and to identify which patients, if any, might benefit.\n\nINTRODUCTION/AIMS\nWhat is glioblastoma and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive adult brain tumour. Median survival after diagnosis is about 16 months even with optimal therapy. The tumour grows rapidly, infiltrates surrounding brain tissue, and creates an immunosuppressive microenvironment that hinders the body’s natural anti‑cancer response. Standard treatment includes maximal surgical resection, followed by radiotherapy and the chemotherapy drug temozolomide; some patients also receive bevacizumab, an anti‑angiogenic agent. Despite these measures, outcomes remain poor, prompting investigation of new therapeutic strategies.\n\nWhat are anti‑PD‑1 and anti‑PD‑L1 antibodies and how might they help?\nAnti‑PD‑1 and anti‑PD‑L1 antibodies are immune checkpoint inhibitors (ICIs). PD‑1 is a protein on T‑cells (a type of immune cell) that, when engaged by its partner PD‑L1 on tumour cells, tells the T‑cell to stop attacking. Many gliomas express PD‑L1 to evade immune detection. By blocking either PD‑1 or PD‑L1, these antibodies release the “brakes” on the immune system, potentially allowing T‑cells to recognise and destroy cancer cells more effectively.\n\nWhat did the review aim to find out?\nThe systematic review sought to determine whether anti‑PD‑1 or anti‑PD‑L1 therapies improve clinical outcomes for adults with diffuse glioma. Primary outcomes of interest were overall survival (OS – length of time patients remain alive after treatment) and progression‑free survival (PFS – time before the tumour worsens). Secondary outcomes included tumour response rates, quality‑of‑life measures, serious adverse events (SAE – life‑threatening or disabling side‑effects), and less serious adverse events. The goal was to assess both efficacy and safety of these immune‑based treatments in this patient population.\n\nMETHODS\nWe searched databases for studies that compared anti‑PD‑1 or anti‑PD‑L1 antibodies with placebo or other treatments in adults with diffuse glioma, combined the reported outcomes, and judged our confidence in the evidence based on study quality and size.\n\nRESULTS\nWe identified seven randomised controlled trials that together enrolled 1,953 adults with diffuse grade 4 glioma (glioblastoma), either newly diagnosed or recurrent. In these trials participants received anti‑PD‑1 antibodies (nivolumab or pembrolizumab) alone or combined with other treatments such as bevacizumab, radiotherapy, and temozolomide, and were compared with standard therapies like bevacizumab alone, temozolomide‑based regimens, radiotherapy alone, lower doses of bevacizumab, or placebo.\n\nAcross the different settings – recurrent glioblastoma, newly diagnosed unmethylated glioblastoma, newly diagnosed methylated glioblastoma, and older patients – the anti‑PD‑1 drugs probably make little to no difference to overall survival and progression‑free survival. They also probably make little to no difference to tumour response rates and to less serious side effects. In one combination (nivolumab with radiotherapy and temozolomide for newly diagnosed methylated glioblastoma) there may be a large increase in serious side effects, while the benefit in survival remains minimal. Overall, the evidence suggests that adding anti‑PD‑1 therapy does not meaningfully improve survival outcomes for people with glioblastoma.\n\nLIMITATIONS\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, because the studies were done in different types of people or used different ways of delivering the treatment, and because the studies were very small and there were not enough studies to be certain about the results.\n\nCURRENCY\nThe evidence is up to date to March 2024 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 714,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.8,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 19,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 67,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 215,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 36.93850420168067,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.019731092436977,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.56752100840336,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.039831932773104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.828123249299722,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.8 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 57.413445378151266,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 8,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.727922061357855,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.699527619047618,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 340,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 340.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 184,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 240,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 714,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 714 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 9,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 50,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the critical style check because several subheadings are not phrased as questions, which the Master Style Guide requires. Specifically, the sections \"Methods\", \"Limitations\" and \"Currency\" use plain headings instead of question‑style headings. This breaks the required structure and reduces readability for patients. In addition, the text contains a high amount of passive voice (19 instances, P90) and an excessive noun count (215, beyond P90), leading to dense, hard‑to‑follow sentences. The limitations paragraph is especially long and convoluted, exceeding 30 words and mixing several reasons in one sentence, which can confuse readers. Suggested improvements: \n1. **Subheading format** – change \"Methods\" to a question such as \"How did we find the evidence?\"; change \"Limitations\" to \"What are the limitations of the evidence?\"; change \"Currency\" to \"How up‑to‑date is this review?\". \n2. **Reduce passive voice** – rewrite passive sentences in active voice, e.g., change \"The evidence is up to date to March 2024 of search\" to \"We searched the literature up to March 2024\". \n3. **Shorten long sentences** – split the limitations paragraph into two shorter sentences: \"We have little confidence in the evidence because participants may have known which treatment they received, because the studies included different types of patients and used varied delivery methods, and because the trials were small and few in number.\" \n4. **Decrease noun‑heavy phrasing** – replace noun‑dense clauses with verb‑focused sentences, e.g., change \"The anti‑PD‑1 drugs probably make little to no difference to overall survival and progression‑free survival\" to \"The anti‑PD‑1 drugs probably do not improve overall survival or progression‑free survival\". \nThese changes will bring the draft into compliance with the style guide, lower the passive‑voice and noun counts (moving the metrics toward typical PLS ranges), and improve clarity for a patient audience.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets the word‑count limit (714 words) but deviates on several readability metrics: passive_voice (19, P90), nouns (215, beyond P90), gunning_fog_index (19.8, P90), smog_index (15.7, beyond P90), dale_chall_readability (8.7, beyond P90), and high counts of complex and long words. These indicate the text is more complex and noun‑heavy than typical Cochrane PLSs, supporting the need to reduce passive constructions, simplify language, and re‑phrase subheadings as questions."
+    }
+  ]
+}

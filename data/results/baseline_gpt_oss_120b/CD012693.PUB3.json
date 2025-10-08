@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs using ovarian‑reserve tests to set IVF hormone doses better for pregnancy chances and safety?\n\nKey Messages  \n- Using tests that measure a woman’s ovarian reserve (such as AMH, antral follicle count, or basal FSH) to choose the daily dose of fertility‑stimulating hormone may not change the chance of having a baby, but it might lower the risk of ovarian hyperstimulation syndrome (OHSS), a serious side‑effect; the evidence is uncertain.  \n- Different dosing algorithms that rely on these tests show mixed results, and we cannot tell exact benefit or harm for any specific group of women.  \n- More well‑designed, larger studies are needed to find out whether personalising the hormone dose truly improves pregnancy outcomes or reduces OHSS, and to determine which algorithm works best.\n\nWhat is IVF/ICSI and why does hormone dosing matter?  \nWhy do doctors sometimes use ovarian‑reserve tests?  \nIVF (in‑vitro fertilisation) and ICSI (intracytoplasmic sperm injection) help people have a baby by collecting eggs from a woman’s ovaries and fertilising them in the lab. To get enough eggs, doctors give daily injections of a hormone called follicle‑stimulating hormone (FSH). Giving too little FSH can lead to few eggs (a poor response), while giving too much can cause many eggs and increase the chance of OHSS, a condition where the ovaries become swollen and painful. Traditionally, doctors guessed the right dose mainly from a woman’s age, but many now also use ovarian‑reserve tests (ORTs) that estimate how many eggs a woman’s ovaries can produce.\n\nWhat did we want to find out?  \nWe wanted to know whether choosing the FSH dose based on ORTs (instead of using the same dose for everyone) affect the chance of having a baby and the risk of severe OHSS.\n\nWhat did we do?  \nWe searched several medical databases for studies that compared hormone‑dose strategies based on ovarian‑reserve tests with standard or other dosing approaches. We combined the findings from those studies and judged how confident we could be in the results.\n\nWhat did we find?  \nWe identified 26 studies that together included about 8 500 women undergoing IVF/ICSI. The studies were carried out in many countries and used different ORTs and dosing rules. Some studies compared higher versus lower doses for women predicted to respond poorly, normally, or strongly, while eight studies compared an ORT‑based algorithm with a standard dose of 150 IU.\n\nOverall, the evidence was of low or very low certainty because the studies were small, often not blinded, and varied a lot in how they measured outcomes.  \n\n- For women predicted to have a low or normal response, changing the FSH dose based on ORTs may increase or may not change the chance of a live birth or clinical pregnancy; we cannot be sure either way.  \n- For women predicted to have a high response, using a lower dose based on ORTs may have little or no effect on live birth rates, and it is a small possibility that it reduces severe OHSS, but the evidence is uncertain.  \n- When an ORT‑based algorithm was used instead of a standard dose, the chance of having a baby may increase slightly, and the chance of moderate or severe OHSS may be reduced, but again the certainty is low.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many studies did not hide the dose from participants or doctors, and because the studies were small and varied in the way they applied the ovarian‑reserve tests and dosing rules.\n\nHow up to date is this evidence?  \nThis review updates our previous review. The evidence is up to date to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 636,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 24.46153846153846,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 80,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.69333091436867,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.870754716981132,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.98859941944847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.192578616352197,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.382099661344945,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.15965166908563,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.3076923076923075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.831760866327848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.873858345428157,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 228,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 636,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 636 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:01.370114"
+}

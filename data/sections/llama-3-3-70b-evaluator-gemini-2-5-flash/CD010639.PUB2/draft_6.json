@@ -1,0 +1,162 @@
+{
+  "id": "CD010639.PUB2",
+  "draft": "What are the key messages of this review?\n- Changing shift work schedules may help workers feel less sleepy, but the evidence is uncertain.\n- It is not clear if changing schedules improves how long or how well people sleep. Some changes, like rotating shifts faster, might even reduce sleep time.\n- Limiting a single shift to 16 hours may help workers sleep longer and feel less sleepy.\n\nWhat is shift work and why is it a problem? \nShift work refers to work schedules that fall outside traditional daytime hours, often including night shifts, evening shifts, or rotating shifts. This type of work schedule can disrupt the body's natural sleep-wake cycle, leading to insufficient sleep, fatigue, and decreased alertness. As a result, shift workers may be less safe and healthy at work, and may be more likely to have accidents or make errors.\n\nWhat did the review authors want to find out? \nThe review authors aimed to assess the effects of adapting shift work schedules on sleep quality, sleep duration, and sleepiness among shift workers. They looked at different ways to change work schedules, for example by changing \n- how quickly shifts rotate (from day to night shifts)\n- the length of each shift\n- the amount of time off between shifts\n- whether workers had a say in their schedules\n\nWhat did we find? \nWe found 11 studies that involved 2125 participants. The studies investigated different and often multiple changes to shift schedules. Here is what we found:\n- Limiting shifts to 16 hours: This may help workers sleep longer and feel less sleepy.\n- Rotating shifts faster: This may reduce sleepiness but might also reduce how long people sleep.\n- Changing shift length or compressing the work week: These changes seemed to have little to no effect on sleep or sleepiness.\nFor most of these findings, the evidence was very uncertain.\n\nIs the evidence up to date? \nThe evidence is up to date to April 2022.\n\nHow did we find this information? \nWe searched for studies on adapting shift work schedules, summarized their results, and rated our confidence in the evidence to assess effects on sleep quality, sleep duration, and sleepiness in shift workers.\n\nWhat are the limitations of the evidence? \nOur confidence in the evidence is limited for several reasons. Most studies were small and did not always report all their results. The people in the studies and the schedule changes were very different, which makes it hard to compare findings. In some studies, workers knew which schedule they were on, which might have influenced their answers.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 445,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 133,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 69.75766292134833,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 7.951550561797752,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.924314606741575,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.320808988764043,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 12.063820224719102,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 41.620224719101124,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.24,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 10.615773105863909,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.38276764044944,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 155,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 55,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 106,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 445,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 445 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 11,
+        "P50_count": 3,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 61.111111111111114,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-written and easy to read, but it cannot be approved because it is missing a required element and has a few areas that need clarification.\n\n**Critical Issue:**\n*   **Missing Main Title:** The summary must begin with a main title, phrased as a question, that tells the reader what the review is about.\n    *   **Suggestion:** Please add the required title: 'Can changing the schedule of shift work (the times and hours that people work, especially at night) improve sleep quality, sleep duration, and reduce sleepiness in shift workers?'\n\nHere are the top 3 improvements to make the summary clearer for readers:\n\n1.  **Add context to the introduction.** The 'What is shift work and why is it a problem?' section explains the problem well but doesn't mention what is usually done about it. Adding this context helps readers understand why this review is important.\n    *   **Problematic Text:** 'As a result, shift workers may be less safe and healthy at work, and may be more likely to have accidents or make errors.'\n    *   **Suggested Rewrite:** After that sentence, add: 'To help with these problems, workers might use treatments like sleep aids or therapy. This review looked at a different approach: whether changing the work schedule itself could help.'\n\n2.  **Make the 'Aims' section more direct.** The first sentence is formal and repeats information.\n    *   **Problematic Text:** 'The review authors aimed to assess the effects of adapting shift work schedules on sleep quality, sleep duration, and sleepiness among shift workers. They looked at different ways to change work schedules, for example by changing'\n    *   **Suggested Rewrite:** 'We wanted to know if changing shift work schedules can improve how well and how long workers sleep, and make them feel less sleepy. We looked at different types of changes, such as:'\n\n3.  **Simplify the 'Methods' description.** The current sentence is long and contains a lot of jargon.\n    *   **Problematic Text:** 'We searched for studies on adapting shift work schedules, summarized their results, and rated our confidence in the evidence to assess effects on sleep quality, sleep duration, and sleepiness in shift workers.'\n    *   **Suggested Rewrite:** 'To answer our question, we searched for studies that changed shift work schedules. We then collected and analyzed their results on sleep quality, sleep duration, and sleepiness.'",
+      "pls_evaluation_summary": "The linguistic analysis shows this draft highly conforms to typical PLS patterns. An impressive 83.3% of the metrics, including all readability scores and sentence length, fall within the best quartile for plain language. The text uses active voice and personal pronouns effectively. The metrics indicate a very strong linguistic foundation, suggesting that only minor content and structural edits are needed."
+    }
+  ]
+}

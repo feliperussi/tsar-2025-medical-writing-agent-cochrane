@@ -1,0 +1,162 @@
+{
+  "id": "CD014788.PUB2",
+  "draft": "How well do hormone medicines that lower estrogen (GnRH analogues) relieve endometriosis pain, and what effect do they have on bone density?\n\nWhat are the key messages?\n– GnRH analogues (hormone medicines that lower estrogen) may reduce overall pelvic pain, painful periods, pain during sex and pelvic tenderness after about 3 months of treatment. The evidence is of low certainty, so the true size of the benefit is unclear.  \n– These medicines can cause unwanted effects such as hot flushes (sudden feelings of warmth). They may also lead to a small loss of bone mineral density (a measure of bone strength), especially when they are not given together with calcium‑regulating agents (substances that help keep calcium levels stable). The evidence for these harms is also of low certainty.  \n– Because the existing studies are few, often have methodological problems, and give imprecise results, we need more well‑designed, longer‑term research to clarify how effective GnRH analogues are for pain relief, how they affect bone health, and how they compare with other hormonal options.\n\nWhat is endometriosis and why is it a problem?\nEndometriosis is a common condition that affects about 6 % to 11 % of women of child‑bearing age. Tissue that normally lines the inside of the uterus grows outside the uterus, often on the ovaries, fallopian tubes or the pelvic lining. This misplaced tissue can cause painful periods (dysmenorrhoea), pain during sex (dyspareunia), ",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 240,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 10,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 20,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 14,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 50.28750000000002,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.2075,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.608874999999998,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.480166666666662,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.433333333333334,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.66666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.4,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 9.403124237432849,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.506400000000001,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 96,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 47,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 64,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 240,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 240 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 7,
+        "P75_count": 2,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks failed: the draft is missing several required sections (Methods, Results, Limitations, Currency) and the introductory section ends abruptly, leaving the reader without a complete explanation of endometriosis. Subheadings are not consistently phrased as questions (e.g., \"What are the key messages?\" is acceptable, but there are no subheadings for Methods, Results, etc.). Consequently the PLS is incomplete and cannot be approved. To meet Cochrane style, the authors must add the missing sections, ensure each subheading is a question, and finish the introductory paragraph.\n\nTop improvements needed:\n1. **Missing Methods section** – add a subheading phrased as a question (e.g., \"How did we find the evidence?\") and a brief description of the search strategy.\n2. **Missing Results section** – add a subheading phrased as a question (e.g., \"What did we find?\") and summarise the number of studies, participants, and main pain‑relief and bone‑density findings.\n3. **Missing Limitations and Currency sections** – add subheadings as questions (e.g., \"What are the limitations of the evidence?\" and \"How up‑to‑date is this review?\") and include the statements from the source of truth.\n4. **Incomplete introductory paragraph** – finish the description of endometriosis symptoms and impact (include chronic pelvic pain and infertility) to match the source of truth.\n5. **Ensure all subheadings are questions** – review the draft and rewrite any headings that are not phrased as questions.\n\nSupporting evidence: the PLS evaluation shows excellent readability (Flesch Reading Ease 50.29, words per sentence 24) and low passive voice (2 instances), indicating the text itself is clear. However, the critical structural omissions outweigh these strengths, preventing approval.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft conforms well to typical PLS patterns: readability scores are within the expected range (FRE 50.29, FKGL 12.21), low passive voice (2, P25), and appropriate word length metrics. No significant metric deviations were found, but the structural deficiencies (missing sections and subheadings) are not captured by the metrics and must be addressed."
+    }
+  ]
+}

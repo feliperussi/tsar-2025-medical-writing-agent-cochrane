@@ -1,0 +1,3094 @@
+{
+  "name": "Writing Agent Without Glossary and Stats (TOGETHER_AI)  LLama 3.3 Evaluator Gemini 2.5 Flash",
+  "nodes": [
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\t\"evidence_currency_statement\": \"Example text\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2272,
+        784
+      ],
+      "id": "b107cea6-d166-44f5-9f0c-263e52c5713b",
+      "name": "Structured Output Parser8"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "[\n    {\n      \"subheading\": \"What did we find?\",\n      \"content\": \"We found 81 studies that involved 4674 people with painful bladder. The biggest study was in 369 people and the smallest study was in 10 people. The studies were conducted in countries around the world; most were done in the USA (25). Most studies lasted for around 3 months; only 6 studies lasted for 12 months or more. Pharmaceutical companies funded 24 of the studies.\"\n    },\n    {\n      \"subheading\": \"Main results: This is a subtitle\",\n      \"content\": \"Embryo transfer using solutions with high concentrations of hyaluronic acid probably increases the number of live births compared with using solutions with low concentrations or no hyaluronic acid. For every 14 embryos transferred, there would probably be 1 additional live birth.\"\n    }\n  ]"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2272,
+        -128
+      ],
+      "id": "4e8eeae3-3d8e-4fe6-a951-3901a97eb4fa",
+      "name": "Structured Output Parser4"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "    [\n      {\n        \"subheading\": \"Why is improving the diagnosis of bacterial throat infection important?\",\n        \"content\": \"Sore throat is very common in children. It can be caused by viruses or bacteria. Antibiotic treatment is only useful for sore throat caused by bacteria, which is usually caused by group A streptococcus ('strep throat'). Not recognizing bacterial infection when it is present (a false negative test result) may result in delayed recovery and an increased risk of infecting others. It may also result in rare but serious complications such as abscesses in the throat, bacterial infection of the sinuses and ears, and rheumatic fever. An incorrect diagnosis of bacterial infection (a false positive test result) may mean that children are given antibiotics when there is no benefit to be gained.\"\n      },\n      {\n        \"subheading\": \"What are rapid tests for strep throat?\",\n        \"content\": \"Rapid tests require a simple throat swab from the patient. This gives an immediate result allowing clinicians to decide whether to prescribe antibiotics. This is an advantage compared to conventional laboratory tests which take 48 hours to give a result. Two types of rapid tests were studied. These use different biochemical methods to identify the bacterial infection.\"\n      },\n      {\n        \"subheading\": \"What did we want to find out?\",\n        \"content\": \"We wanted to find out how accurate rapid tests are for diagnosing bacterial infection in children with sore throat.\"\n      }\n    ]"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2272,
+        -528
+      ],
+      "id": "31628239-cbb6-4151-9916-963da027c603",
+      "name": "Structured Output Parser3"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "    [\n      {\n        \"subheading\": \"Why is improving the diagnosis of bacterial throat infection important?\",\n        \"content\": \"Sore throat is very common in children. It can be caused by viruses or bacteria. Antibiotic treatment is only useful for sore throat caused by bacteria, which is usually caused by group A streptococcus ('strep throat'). Not recognizing bacterial infection when it is present (a false negative test result) may result in delayed recovery and an increased risk of infecting others. It may also result in rare but serious complications such as abscesses in the throat, bacterial infection of the sinuses and ears, and rheumatic fever. An incorrect diagnosis of bacterial infection (a false positive test result) may mean that children are given antibiotics when there is no benefit to be gained.\"\n      },\n      {\n        \"subheading\": \"What are rapid tests for strep throat?\",\n        \"content\": \"Rapid tests require a simple throat swab from the patient. This gives an immediate result allowing clinicians to decide whether to prescribe antibiotics. This is an advantage compared to conventional laboratory tests which take 48 hours to give a result. Two types of rapid tests were studied. These use different biochemical methods to identify the bacterial infection.\"\n      },\n      {\n        \"subheading\": \"What did we want to find out?\",\n        \"content\": \"We wanted to find out how accurate rapid tests are for diagnosing bacterial infection in children with sore throat.\"\n      }\n    ]"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        1504,
+        -528
+      ],
+      "id": "495999e1-3c70-477e-8cec-1834b1f6e680",
+      "name": "Structured Output Parser2"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\t\"plain_language_title\": \"California\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        1504,
+        -928
+      ],
+      "id": "ff07c228-2004-48d5-8499-f4dbf1745ba7",
+      "name": "Structured Output Parser"
+    },
+    {
+      "parameters": {
+        "numberInputs": 5
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        2480,
+        -304
+      ],
+      "id": "76d638e5-b2ff-4e76-97a3-92774a2cda26",
+      "name": "Merge Outputs Agents"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT ###\nYou will be given the original, technical abstract of a medical review with the title at the beginnning.\n\nTECHNICAL ABSTRACT:\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n### TASK ###\nYour mission is to rewrite this title into a plain language summary title. You MUST follow these rules precisely:\n\n1.  **Format as a Question:** The final title must be phrased as a question (e.g., start with \"Is...\", \"What are...\", \"How accurate are...\").\n2.  **Use Simple Words:** Replace complex terms with words a non-expert would recognize and search for.\n3.  **Explain Unavoidable Jargon:** If a technical term is essential, you MUST include a brief, simple explanation in parentheses right after it.\n4.  **Focus on the Core Question:** The title should clearly state the main comparison or question the review is trying to answer.\n\n### EXAMPLES ###\n- **Example 1 - Technical Title:** \"Hydrosurgical debridement versus conventional surgical debridement for acute partial-thickness burns\"\n- **Example 1 - CORRECT Plain Language Title:** \"Is surgery with a high-pressure water jet (hydrosurgery) better than conventional surgery for treating severe burns?\"\n\n- **Example 2 - Technical Title:** \"Rapid antigen detection test for group A streptococcus in children with pharyngitis\"\n- **Example 2 - CORRECT Plain Language Title:** \"How accurate are rapid swab tests for strep throat in children?\"\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key: \"plain_language_title\".",
+        "options": {
+          "systemMessage": "You are an expert copywriter specializing in creating clear, patient-friendly titles for Cochrane medical summaries. Your sole function is to rewrite a technical review title into a simple, engaging question based on Cochrane's official guidelines."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        912,
+        -1152
+      ],
+      "id": "1ab90243-0c0c-4c9e-91fe-e1def752220d",
+      "name": "Plain Titles Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Plain Titles Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        1376,
+        -1152
+      ],
+      "id": "0d5ad0f5-5eb4-4b12-a397-061374096a1e",
+      "name": "Plain Titles Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n1.  **REVIEW_QUESTION:** The main question the review aims to answer.\n2.  **ORIGINAL_ABSTRACT:** The technical abstract from the medical review. This contains the main results, conclusions, and author's findings.\n\n**REVIEW_QUESTION:**\n\"{{ $json.output.plain_language_title }}\"\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n### TASK ###\nYour mission is to generate the \"Key messages\" section. You MUST follow this structured process and all rules precisely.\n\n**Step 1: Adhere to the Core Structure**\n- You MUST create a list of **no less than 2 and no more than 3** bullet points.\n- **First Key Message:** MUST directly answer the REVIEW_QUESTION. It must include the most important findings on benefits and unwanted or harmful effects.\n    - If harmful effects were not reported, you MUST state that explicitly.\n    - If the review could not answer the question (e.g., no studies found), state this and the reason why.\n- **Second Key Message (Optional):** You may include a second message if there is another significant finding or important secondary objective to report.\n- **Final Key Message:** MUST state what should happen next. This usually involves mentioning key limitations, important unanswered questions, or needs for future research (e.g., studies with longer-term effects).\n\n**Step 2: Follow Content and Style Rules**\n- **Explain All Jargon (CRITICAL):** If you use any technical term in your messages, you MUST provide a simple explanation in parentheses immediately after it. This is non-negotiable as readers see this section first.\n- **Be Neutral and Nuanced:** Your tone must be neutral. Do not exaggerate benefits or harms. Mention if a finding applies only to a specific subgroup of the population.\n- **State Quality of Evidence:** Give the reader a sense of the quality of the evidence in simple terms (e.g., \"Due to a lack of robust evidence...\", \"We did not find enough good-quality evidence...\").\n\n**Step 3: Obey Prohibitions**\n- **DO NOT** make any recommendations for or against a treatment.\n- **DO NOT** include any statistics, numbers, confidence intervals, or GRADE jargon like \"low-certainty evidence\" or \"risk of bias\".\n\n*This is the style and quality you must emulate.*\n**Topic: comparison of different beds for treating pressure ulcers**\n- \"Due to a lack of robust evidence, the benefits and risks of most types of beds, mattresses and mattress toppers for treating pressure ulcers are unclear.\"\n- \"Beds with an air-filled surface that applies constant pressure to the skin may be better than mattresses and toppers made of foam for ulcer healing, but may cost more.\"\n- \"Future research in this area should focus on options and effects that are important to decision-makers, such as: foam or air-filled surfaces that redistribute pressure under the body; and unwanted effects and costs.\"\n\n**Topic: pharmacologic interventions for mydriasis in cataract surgery**\n- \"We did not find enough good-quality evidence about the best way to deliver medicines directly to the eye during cataract surgery. We found only one study that had enrolled a large enough number of people to give reliable results.\"\n- \"Larger, well-designed studies are needed to give better estimates of the benefits and potential harms of the different ways of delivering these medicines.\"\n\n**Topic: rapid tests for strep sore throat in children**\n- \"The studies in this review suggest that rapid tests can detect the most common cause of bacterial infections (Strep A) in children with sore throats, leading to early and appropriate treatment with antibiotics.\"\n- \"The number of children receiving unnecessary antibiotics following a rapid test is still likely to be lower than the number of children who would receive unnecessary antibiotics if the test is not used.\"\n- \"Both types of rapid tests studied in the review had similar accuracy.\"\n\n**Topic: pharmacological treatments for chronic plaque psoriasis**\n- \"After six months of treatment, medicines called 'biologics' seem to work best to clear patches of psoriasis on the skin.\"\n- \"Longer studies are needed to assess the benefits and potential harms of longer treatment with medicines that are injected or taken by mouth to treat psoriasis.\"\n- \"More studies are needed that compare these types of medicines directly against each other.\"\n\n**Topic: interleukin-6 blocking agents for treating COVID-19**\n- \"Treating COVID-19 with tocilizumab (a medicine that blocks interleukin-6) reduces the numbers of people who die within 28 days of treatment, and probably results in fewer serious unwanted effects than placebo treatment.\"\n- \"Studies of other medicines that block interleukin-6 to treat COVID-19 are under way. We will update this review when results from them become available.\"\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"key_messages\", which contains a list of strings. Each string is a complete bullet point.",
+        "options": {
+          "systemMessage": "You are an Expert Medical Summarizer specializing in creating the \"Key messages\" section for a Cochrane Plain Language Summary. Your role is to distill the most critical findings of a medical review into a balanced, neutral, and easy-to-understand summary for patients. You must strictly adhere to Cochrane's guidelines."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        1776,
+        -1152
+      ],
+      "id": "42a5ddb8-a0bd-417a-ae0c-9d15567a3b43",
+      "name": "Key messages Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Key messages Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        2128,
+        -1152
+      ],
+      "id": "08d61641-82df-4f40-add7-681288285244",
+      "name": "Key messages Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"key_messages\": [\n    \"For people with pressure ulcers, it is unclear if special mattresses improve healing compared to standard foam mattresses because of a lack of robust evidence.\",\n    \"Beds with an air-filled surface may be better than foam mattresses for healing ulcers, but they may cost more.\",\n    \"Future research should focus on how different mattresses affect pain and quality of life for patients.\"\n  ]\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2272,
+        -928
+      ],
+      "id": "571850b8-a25c-42c0-a571-fa0c0f70e0a6",
+      "name": "Structured Output Parser1"
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n1.  **ORIGINAL_ABSTRACT:** The technical abstract from the medical review, containing the background and objectives.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n### TASK ###\nYour mission is to generate the \"Introduction to the review topic and review aims\" section. You must follow these rules precisely:\n\n1.  **Deconstruct the Task:** Your output must be broken into **at least two separate parts**:\n    - **Part 1 (Background):** Explain what the review is about. Describe the health condition and why it's a problem. Mention common treatments if applicable.\n    - **Part 2 (Aims):** Explain what the review authors wanted to find out. This should be a clear statement of the research objectives.\n\n2.  **Use Subheadings:** Each part you create MUST have a tailored subheading.\n    - Subheadings should be phrased as questions (e.g., \"What is...?\").\n    - You can create more than one background section if the topic is complex (see the Diagnostic Test example below).\n\n3.  **Explain Jargon:** You MUST check the DIAGNOSTIC_REPORT. If you use a term from that report, provide a simple explanation.\n\n### EXAMPLES OF HIGH-QUALITY OUTPUT ###\n*This is the exact structure, tone, and quality you must emulate. Study these examples carefully.*\n\n**EXAMPLE 1: Intervention Review**\n*   **Topic:** Behavioural interventions for smoking cessation\n*   **Correct Output Structure:**\n    [\n      {\n        \"subheading\": \"What can people do to stop smoking?\",\n        \"content\": \"Most people who smoke want to stop, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one.\"\n      },\n      {\n        \"subheading\": \"What did we want to find out?\",\n        \"content\": \"We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support (including the best people to give it); and what aspects of behavioural support help someone to stop smoking. We also wanted to know if behavioural support can cause any unwanted effects.\"\n      }\n    ]\n\n**EXAMPLE 2: Diagnostic Test Accuracy Review**\n*   **Topic:** Rapid tests for strep sore throat in children\n*   **Correct Output Structure:**\n    [\n      {\n        \"subheading\": \"Why is improving the diagnosis of bacterial throat infection important?\",\n        \"content\": \"Sore throat is very common in children. It can be caused by viruses or bacteria. Antibiotic treatment is only useful for sore throat caused by bacteria, which is usually caused by group A streptococcus ('strep throat'). Not recognizing bacterial infection when it is present (a false negative test result) may result in delayed recovery and an increased risk of infecting others. It may also result in rare but serious complications such as abscesses in the throat, bacterial infection of the sinuses and ears, and rheumatic fever. An incorrect diagnosis of bacterial infection (a false positive test result) may mean that children are given antibiotics when there is no benefit to be gained.\"\n      },\n      {\n        \"subheading\": \"What are rapid tests for strep throat?\",\n        \"content\": \"Rapid tests require a simple throat swab from the patient. This gives an immediate result allowing clinicians to decide whether to prescribe antibiotics. This is an advantage compared to conventional laboratory tests which take 48 hours to give a result. Two types of rapid tests were studied. These use different biochemical methods to identify the bacterial infection.\"\n      },\n      {\n        \"subheading\": \"What did we want to find out?\",\n        \"content\": \"We wanted to find out how accurate rapid tests are for diagnosing bacterial infection in children with sore throat.\"\n      }\n    ]\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"introduction_sections\". This key must contain a list of objects, where each object has a \"subheading\" and a \"content\" key.",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "You are an Expert Scientific Communicator. Your specific role is to write the introductory section of a Cochrane Plain Language Summary. You are skilled at distilling the \"Background\" and \"Objectives\" from a technical abstract into a simple, clear, and engaging narrative for a non-expert audience. You set the stage by explaining what the health problem is and what the researchers aimed to discover."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        912,
+        -752
+      ],
+      "id": "9c00301f-ea35-486d-b275-c34cd87f0a1d",
+      "name": "Background Writer Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Background Writer Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        1376,
+        -752
+      ],
+      "id": "bf3655d8-e4fb-4597-9728-36e86e0f89c2",
+      "name": "Background Writer Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n1.  **ORIGINAL_ABSTRACT:** The technical abstract, which contains the full methods section.\n2.  **INTRODUCTION_AND_AIMS:** The previously generated introduction and aims. Your summary of the methods should directly relate to these aims.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n**INTRODUCTION_AND_AIMS:**\n\"{{ $json.output }}\"\"\n\n### TASK ###\nYour mission is to generate the \"What did we do?\" section. You MUST follow these rules:\n\n1.  **Be Extremely Brief:** This section must be very short. Your goal is to summarize the core actions in as few words as possible.\n2.  **Summarize Key Actions:** Your summary must briefly cover the three main things the review authors did:\n    - They **searched** for studies with specific characteristics.\n    - They **summarized** or **combined** the results.\n    - They **evaluated** or **rated** their confidence in the evidence.\n3.  **Link to Aims:** Your description must clearly connect to the research aims provided in the INTRODUCTION_AND_AIMS context.\n4.  **Handle Study Designs (CRITICAL RULE):**\n    - **AVOID** mentioning specific study designs (like \"Randomized controlled trials\") by default.\n    - **EXCEPTION:** If the abstract heavily emphasizes a specific design, you may mention it, but you **MUST** provide a simple explanation in parentheses, using the examples below as a guide.\n\n### EXAMPLES OF HIGH-QUALITY OUTPUT ###\n*This is the style you must emulate. Notice how brief they are.*\n\n**EXAMPLE 1: Intervention Review**\n*   **Topic:** Hair removal before surgery\n*   **Correct Output:** \"We searched for studies that compared: hair removal against no removal; or different methods and times of hair removal. We compared and summarized their results, and rated our confidence in the evidence, based on factors such as study methods and sizes.\"\n\n**EXAMPLE 2: Diagnostic Test Accuracy Review**\n*   **Topic:** Rapid tests for strep throat\n*   **Correct Output:** \"We searched for studies that had investigated the accuracy of rapid tests for diagnosing bacterial infection in children and we combined the results across these studies.\"\n\n**EXAMPLE 3: Explaining a Study Design (Only if necessary)**\n*   **If you must mention 'Retrospective studies':** \"...We included 7 ‘retrospective’ studies (studies that looked back at treatments already given to people)...\"\n*   **If you must mention 'Randomized controlled trials':** \"...This was a randomized controlled trial (a study in which participants are assigned randomly to 2 or more treatment groups to ensure the groups are similar)...\"\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"methods_section\", containing the final summary text as a single string.```",
+        "options": {
+          "systemMessage": "You are an Expert Methods Summarizer for Cochrane Plain Language Summaries. Your single, highly specialized skill is to read the methods section of a technical abstract and summarize it in one or two brief, clear sentences for a non-expert audience. You are ruthlessly concise and focus only on the core actions the researchers took."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        1776,
+        -752
+      ],
+      "id": "271e6ef6-f4e2-4512-a220-1f383482abab",
+      "name": "Methods Summarizer Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Methods Summarizer Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        2128,
+        -752
+      ],
+      "id": "320cf0ad-f34d-49d2-8fdd-c67ac75eab6a",
+      "name": "Methods Summarizer Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT\n\nYou have been provided with two summaries that have been generated from the Cochrane review abstract:\n\n**STUDY_CHARACTERISTICS_SUMMARY:**\n\"{{ $('Characteristics Writer Agent').last().json.output.characteristics_summary}}\"\n\n**FINDINGS_SUMMARY:**\n\"{{ $('Findings Writer Agent').last().json.output.findings_summary}}\"\n\n### TASK\n\nYour mission is to generate the complete \"What did we find?\" section of a Plain Language Summary by following these steps precisely:\n\n1.  **Analyze and Decide:** Analyze both the STUDY_CHARACTERISTICS_SUMMARY and FINDINGS_SUMMARY. Identify the single most important finding. Based on this analysis, decide on the best structure:\n\n    - **DEFAULT (Single Section):** If the findings are straightforward or short, combine the characteristics summary and the findings summary into a single, coherent text under the subheading \"What did we find?\".\n    - **OPTIONAL (Two Sections):** If there is a very clear and important primary outcome that deserves to be highlighted, create two separate sections: \"What did we find?\" (containing only the characteristics) and \"Main results: [subtitle]\" (containing only the findings).\n\n2.  **Assemble the Final JSON:** Create the final JSON object based on your decision, following the specified output format.\n\n### OUTPUT FORMAT\n\nYour response must be a single JSON object containing a key named `sections`. This key will hold an array of section objects. Each object within the array must have two keys: `subheading` (string) and `content` (string).\n\n**Example Output (Case with two sections):**\n{\n[\n{\n\"subheading\": \"What did we find?\",\n\"content\": \"We found 81 studies that involved 4674 people with painful bladder. The biggest study was in 369 people and the smallest study was in 10 people. The studies were conducted in countries around the world; most were done in the USA (25). Most studies lasted for around 3 months; only 6 studies lasted for 12 months or more. Pharmaceutical companies funded 24 of the studies.\"\n},\n{\n\"subheading\": \"Main results: This is a subtitle\",\n\"content\": \"Embryo transfer using solutions with high concentrations of hyaluronic acid probably increases the number of live births compared with using solutions with low concentrations or no hyaluronic acid. For every 14 embryos transferred, there would probably be 1 additional live birth.\"\n}\n]\n}\n\n**Example Output (Case with ONE section):**\n{\n[\n{\n\"subheading\": \"What did we find?\",\n\"content\": \"We included 14 studies that included 49,714 participants. Of these, 6203 were tube-fed and 43,511 were not. Participants with no feeding tube were given standard care or standard care with extra treatments to encourage eating and drinking. In people with severe dementia, compared to no tube feeding, PEG may make no difference to how long people live, and leads to a small increase in the chance of developing pressure sores. We don't know if nasogastric tube feeding increases the length of time people live or increases their chance of developing pressure sores.\"\n}\n]\n}",
+        "options": {
+          "systemMessage": "You are a \"Study Cohort Summarizer.\" Your only task is to extract and list the main characteristics of the studies included in a medical review abstract, following a strict checklist. You present facts, not results."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        1776,
+        -352
+      ],
+      "id": "80e67b35-af5b-459f-af7b-2b579c27f401",
+      "name": "Results Manager Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Results Manager Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        2128,
+        -352
+      ],
+      "id": "7e71625f-f6ff-4bcb-ba48-1b6426013573",
+      "name": "Results Manager Agent",
+      "retryOnFail": true,
+      "waitBetweenTries": 500,
+      "maxTries": 5
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n1.  **ORIGINAL_ABSTRACT:** The technical abstract, which will contain clues about the quality of the evidence in its \"Discussion\" or \"Conclusions\" sections.\n2.  **LIMITATIONS_GUIDE:** A structured JSON object containing the exact plain language wording you MUST use. It has two parts:\n    - `certainty_wording`: Maps GRADE judgments to sentence starters.\n    - `reason_wording`: Maps technical reasons to plain language explanations.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n**LIMITATIONS_GUIDE:**\n{\n  \"explanation_of_limitations_of_evidence\": {\n    \"title\": \"Guidance for writing a Cochrane Plain language summary\",\n    \"columns\": [\n      \"GRADE judgement\",\n      \"Explanation of limitations of the evidence\"\n    ],\n    \"rows\": [\n      {\n        \"GRADE judgement\": \"High certainty\",\n        \"Explanation\": \"We are confident that ...\"\n      },\n      {\n        \"GRADE judgement\": \"Moderate certainty\",\n        \"Explanation\": \"We are moderately confident in the evidence because... OR Our confidence in the evidence is only moderate because of concerns about ... followed by the main reasons for downgrading the evidence (see table below).\"\n      },\n      {\n        \"GRADE judgement\": \"Low certainty\",\n        \"Explanation\": \"We have little confidence in the evidence because ... followed by the main reasons for downgrading the evidence (see table below).\"\n      },\n      {\n        \"GRADE judgement\": \"Very low certainty\",\n        \"Explanation\": \"We are not confident in the evidence because ... followed by the main reasons for downgrading the evidence (see table below).\"\n      }\n    ]\n  }\n}\n\n{\n  \"suggested_wording_for_grade_criteria\": {\n    \"reasons_for_downgrading_or_upgrading\": [\n      {\n        \"Reason\": \"Study design (non-RCTs)\",\n        \"Plain language version\": \"People in the studies were not randomly placed into the different treatment groups. This means that differences between the groups could be due to differences between people rather than between the treatments.\"\n      },\n      {\n        \"Reason\": \"Risk of bias\",\n        \"Plain language version\": \"It is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in.\"\n      },\n      {\n        \"Reason\": \"Inconsistency\",\n        \"Plain language version\": \"The studies were done in different types of people/used different ways of delivering intervention.\"\n      },\n      {\n        \"Reason\": \"Indirectness\",\n        \"Plain language version\": \"The evidence does not cover all of the people/intervention/comparators/outcomes we were interested in. Or The evidence focused on specific population/intervention/comparators/outcomes whereas the question we wanted to answer was broader.\"\n      },\n      {\n        \"Reason\": \"Imprecision\",\n        \"Plain language version\": \"Studies were very small. Or The evidence is based on few cases of condition/type of event. Or There are not enough studies to be certain about the results of our outcomes.\"\n      },\n      {\n        \"Reason\": \"Publication bias\",\n        \"Plain language version\": \"The studies that provide results for our review are likely to exaggerate the benefits of the intervention because they represent only a small set of the studies on intervention.\"\n      }\n    ],\n    \"additional_guidance\": [\n      {\n        \"Criteria\": \"Large effect\",\n        \"Plain language version\": \"The evidence showed that X had a large effect on Y.\"\n      },\n      {\n        \"Criteria\": \"Plausible confounding\",\n        \"Plain language version\": \"The evidence suggests that intervention is beneficial/harmful even though some factors such as X might be interfering with its effect.\"\n      },\n      {\n        \"Criteria\": \"Dose-response gradient\",\n        \"Plain language version\": \"The evidence shows that the benefits/harmful effects of the treatment increase with the number/length/strength of treatment.\"\n      }\n    ]\n  }\n}\n\n### TASK ###\nYour mission is to generate the \"What are the limitations of the evidence?\" section. You MUST follow this two-step translation process:\n\n**Step 1: Identify the Technical Clues**\n- Read the ORIGINAL_ABSTRACT and identify two things:\n  1. The overall **level of certainty** in the evidence (e.g., \"moderate certainty,\" \"low certainty\").\n  2. The specific **technical reasons** given for that level of certainty (e.g., \"risk of bias,\" \"imprecision,\" \"inconsistency\").\n\n**Step 2: Translate and Synthesize using the Guide**\n- **Part A (The Opening Phrase):** Use the identified certainty level to find the exact starting sentence from the `certainty_wording` section of your LIMITATIONS_GUIDE.\n- **Part B (The Reasons):** For each technical reason you identified, find its exact plain language equivalent in the `reason_wording` section of the guide.\n- **Part C (Combine):** Create a single, concise paragraph by combining the opening phrase from Part A with the plain language reasons from Part B.\n\n### PROHIBITIONS (STRICTLY ENFORCED) ###\n- **DO NOT USE ANY JARGON.** You are explicitly forbidden from using the technical terms you find in the abstract in your final output. Your entire job is to translate them.\n- **FORBIDDEN WORDS INCLUDE:** `downgrading`, `very low/low/moderate/high certainty evidence`, `risk of bias`, `indirectness`, `imprecision`, `inconsistency`, `publication bias`.\n\n### EXAMPLE OF THE PROCESS ###\n- **If the abstract says:** \"The evidence was of low certainty due to risk of bias and imprecision.\"\n- **Your thought process:**\n    1.  Certainty level is \"Low certainty\". Look it up in `certainty_wording`. The phrase is: \"We have little confidence in the evidence because...\"\n    2.  Reason 1 is \"Risk of bias\". Look it up in `reason_wording`. The phrase is: \"It is possible that people in the studies were aware of which treatment they were getting.\"\n    3.  Reason 2 is \"Imprecision\". Look it up in `reason_wording`. The phrase is: \"The studies were very small.\"\n    4.  Combine them.\n- **CORRECT OUTPUT:** \"We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\"\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"limitations_of_evidence\", containing the final paragraph as a single string.",
+        "options": {
+          "systemMessage": "You are an \"Expert Evidence Analyst\" for Cochrane Plain Language Summaries. Your sole purpose is to translate the technical limitations of medical evidence into a concise, transparent, and easy-to-understand paragraph for patients. You are an expert at explaining *why* confidence in evidence might be low, without using any confusing jargon. You follow the provided translation guides with absolute precision."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        1776,
+        48
+      ],
+      "id": "7d910b83-12f0-4494-9964-5535dc91b77a",
+      "name": "Limitations Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Limitations Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        2128,
+        48
+      ],
+      "id": "05aea9cf-ae71-4bf9-8fbc-fe095869c105",
+      "name": "Limitations Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\t\"limitations_of_evidence\": \"Example text\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        2272,
+        272
+      ],
+      "id": "9b8669e9-b1f4-45a5-8016-07ba8173cc5c",
+      "name": "Structured Output Parser7"
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n**ORIGINAL_ABSTRACT:** The technical abstract of the review, which contains information about the search dates.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n### TASK ###\nYour mission is to generate the \"How up to date is this evidence?\" section. Follow these logical steps:\n\n1.  **Identify All Search Dates:** Scan the abstract to find all mentioned search dates.\n\n2.  **Determine the Main Analysis Date:** Identify the cutoff date for the search that provided the studies for the **main analysis and results** presented in the abstract. This is the date for the evidence that has been synthesized.\n\n3.  **Handle Pending Studies:** If the abstract mentions a more recent search date but indicates that the studies from that search are **pending inclusion, not yet analyzed, or will be incorporated in a future version**, you must use the earlier, definitive search date from Step 2. The goal is to report the currency of the evidence that is actually presented in the \"Main results\".\n\n4.  **Check for Updates:** Determine if the abstract states the review is an 'update' to a previous version.\n\n5.  **Construct the Sentence:** Use the **main analysis date** identified in Step 2 to create the final sentence, strictly following the Cochrane template below.\n\n### TEMPLATE (Strictly Enforced) ###\nYou must use this exact structure. The part in [brackets] is optional and should only be included if the review is an update.\n\n`[This review updates our previous review.] The evidence is up to date to month and year of search.` The \"This review updates our previous review.\" goes if they mentioned any previous review or some update.\n\n### EXAMPLE ###\n- If a review's main analysis is based on searches up to \"August 2021\", but a later search in \"February 2024\" found studies that are still \"awaiting classification\", the correct date for the *current evidence* is **August 2021**.\n- The correct output would be: \"The evidence is up to date to August 2021 of search.\" (Potentially with the 'update' prefix).\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"evidence_currency_statement\".",
+        "options": {
+          "systemMessage": "You are a \"Date Extraction Specialist\" for Cochrane Plain Language Summaries. Your primary function is to identify the definitive search date for the evidence that has been **fully incorporated and analyzed** within the review's main results.\n\nYour critical task is to distinguish this main search date from any subsequent, more recent search dates mentioned for studies that have not yet been fully integrated into the analysis (e.g., those listed as 'awaiting classification' or 'to be assessed'). The date you report must reflect the evidence that the authors' conclusions are based on. Your sole output is a single JSON object."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        1776,
+        560
+      ],
+      "id": "690fc7b6-d021-44db-a353-70e234505f01",
+      "name": "Date Extraction Agent (Raw)",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Date Extraction Agent (Raw)').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        2128,
+        560
+      ],
+      "id": "415e1ee2-daae-4ef4-8d48-d066369cd8c5",
+      "name": "Date Extraction Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "=define",
+        "text": "=### CONTEXT ###\n\n1.  **DRAFT_COMPONENTS:** A JSON object containing the outputs from all the specialist writer agents.\n2.  **DIAGNOSTIC_REPORT:** The full report from the diagnostic agent, listing all complex terms that need to be explained.\n3.  **FINAL_STYLE_GUIDE:** The master list of rules for language, style, and structure you must enforce.\n\n**DRAFT_COMPONENTS:*\n1. Title: \n{{ $('Plain Titles Agent').first().json.output.toJsonString()}}\n2. Key messages:\n - {{ $('Key messages Agent').first().json.output.key_messages.toJsonString()}}\n 3. Introduction/Aims:\n{{ $('Background Writer Agent').first().json.output.toJsonString()}}\n4. Methods:\n{{ $('Methods Summarizer Agent').first().json.output.toJsonString()}}\n5. Results:\n{{ $('Results Manager Agent').first().json.output.toJsonString()}}\n6. Limitations:\n{{ $('Limitations Agent').first().json.output.toJsonString()}}\n7. Currency:\n{{ $('Date Extraction Agent').first().json.output.toJsonString()}}\n\n### TASK ###\nYour mission is to generate the final, fully compliant Plain Language Summary by following this strict, mechanical process. You must not proceed to the next step until the current one is successfully completed.\n\n**Initial Assembly**\n1.  Assemble the text components from DRAFT_COMPONENTS in the specified order (Title, Key messages, etc.).\n2.  Apply the basic formatting rules:\n    - Title as `Heading`.\n    - Main sections as `**Bold Headings**`.\n    - Key messages as a list with dashes (`-`).\n    - Introduction sections with their respective subheadings.\n\n### OUTPUT FORMAT ###\nYour response must be ONLY the final, validated, and fully compliant Plain Language Summary in a single block of text with no markdown. This text is the result of the final successful validation pass.",
+        "options": {
+          "systemMessage": "You are a meticulous \"Plain Language Summary Assembler\". Your only job is to assemble a document from pre-written components and then correct it based on the precise feedback from validation tools. You are not an editor; you are a technician. You follow instructions exactly as given. You do not add, remove, or rephrase content unless explicitly told to do so by a validation tool's feedback."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        2704,
+        -256
+      ],
+      "id": "06cc1d87-9117-47a2-952e-04552462e50f",
+      "name": "Assembly Agent",
+      "retryOnFail": true,
+      "alwaysOutputData": false,
+      "executeOnce": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "119b212f-96e7-443d-86e2-56aab1604874",
+              "leftValue": "={{$('Evaluator Parser').last().json.output.grade}}",
+              "rightValue": "APPROVED",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        4656,
+        -256
+      ],
+      "id": "bffcd44e-cd8d-4c82-823a-51906a71d463",
+      "name": "Check evaluation"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=http://127.0.0.1:8000/summaries/{{ $('Input').last().json.body.model}}/{{$('Input').last().json.body.cochrane_review_id}}/drafts",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "id",
+              "value": "={{$('Input').last().json.body.cochrane_review_id}}"
+            },
+            {
+              "name": "draft",
+              "value": "={{$('Assembly Agent').last().json.output}}"
+            },
+            {
+              "name": "metrics",
+              "value": "={{ [$('Get Metrics JSON First Draft').last().json]}}"
+            },
+            {
+              "name": "evaluation",
+              "value": "={{\n[{\n\"grade\": $('Evaluator Parser').last().json.output.grade,\n\"feedback\": $('Evaluator Parser').last().json.output.feedback,\n\"pls_evaluation_summary\": $('Evaluator Parser').last().json.output.pls_evaluation_summary\n}]\n}}"
+            },
+            {
+              "name": "model",
+              "value": "={{ $('Input').last().json.body.model}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        4432,
+        -256
+      ],
+      "id": "0bc33c9a-92a8-4abb-b0bf-7bd08e8d9707",
+      "name": "Save First Draft and Evaluation"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/summaries",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "plain_title",
+              "value": "={{ $('Plain Titles Agent').last().json.output.plain_language_title }}"
+            },
+            {
+              "name": "key_messages",
+              "value": "={{ $('Key messages Agent').last().json.output.key_messages }}"
+            },
+            {
+              "name": "background",
+              "value": "={{ $('Background Writer Agent').last().json.output }}"
+            },
+            {
+              "name": "methods",
+              "value": "={{ $('Methods Summarizer Agent').last().json.output }}"
+            },
+            {
+              "name": "results",
+              "value": "={{ $('Results Manager Agent').last().json.output }}"
+            },
+            {
+              "name": "limitations",
+              "value": "={{ $('Limitations Agent').last().json.output.limitations_of_evidence }}"
+            },
+            {
+              "name": "currency",
+              "value": "={{ $('Date Extraction Agent').last().json.output.evidence_currency_statement }}"
+            },
+            {
+              "name": "id",
+              "value": "={{ $('Input').last().json.body.cochrane_review_id}}"
+            },
+            {
+              "name": "model",
+              "value": "={{ $('Input').last().json.body.model}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3056,
+        -256
+      ],
+      "id": "925d7e57-89a4-4cc7-8ab0-eff718addf8c",
+      "name": "Save Sections"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "9781a52b-adee-4e5f-8671-36a212b6b8f9",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        624,
+        -256
+      ],
+      "id": "66741c84-daa9-40e4-902e-1672b3723e57",
+      "name": "Input",
+      "webhookId": "9781a52b-adee-4e5f-8671-36a212b6b8f9"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT\n\n1. **ORIGINAL_ABSTRACT:** The technical abstract of the review, which contains information about the search dates.\n2. **DRAFT_TEXT:** The complete draft of the Plain Language Summary to be evaluated.\n3. **SOURCE_OF_TRUTH:** All the original, un-edited outputs from the specialist writer agents for fact-checking.\n4. **MASTER_STYLE_GUIDE:** The definitive set of rules the draft MUST follow.\n5. **PLS_EVALUATION_RESULTS:** The linguistic analysis results for the draft text.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n**DRAFT_TEXT:**\n{{ $('Assembly Agent').last().json.output}}\n\n**SOURCE_OF_TRUTH:**\n\n1. Title:\n   {{ $('Plain Titles Agent').last().json.output.toJsonString()}}\n2. Key messages:\n   {{ $('Key messages Agent').last().json.output.key_messages.toJsonString()}}\n3. Introduction/Aims:\n   {{ $('Background Writer Agent').last().json.output.toJsonString()}}\n4. Methods:\n   {{ $('Methods Summarizer Agent').last().json.output.toJsonString()}}\n5. Results:\n   {{ $('Results Manager Agent').last().json.output.toJsonString()}}\n6. Limitations:\n   {{ $('Limitations Agent').last().json.output.toJsonString()}}\n7. Currency:\n   {{ $('Date Extraction Agent').last().json.output.toJsonString()}}\n\n**MASTER_STYLE_GUIDE:**\n**5.2 Style**\n\n- **Conciseness:** Be concise. Replace 'wordy' phrases (e.g., 'during the course of' with 'during'; 'due to the fact that' with 'because').\n- **Active Voice:** Use active voice (e.g., 'We compared the results') not passive voice (e.g., 'The results of the studies were compared').\n- **Pronouns:** Use first-person plural ('we', 'our') for review authors.\n- **Verbs:** Use direct verbs (e.g., 'the students investigated' not 'the students conducted an investigation').\n- **Numerals:** Write numbers as numerals (1, 2, 3) not words, unless starting a sentence.\n\n**5.3 Structure**\n\n- **Subheadings:** Use subheadings to guide the reader. Phrase subheadings as questions where possible (e.g., 'What is a cataract?').\n- **Bullet points:** Use a dash or hyphen (-) to start items in a list.\n- **Paragraphs:** Keep paragraphs short. Start a new paragraph when the topic shifts.\n- **White space:** Ensure there are blank lines between paragraphs and headings to separate elements.\n\n**PLS_EVALUATION_RESULTS:**\n{{ $('Get Metrics First Draft').last().json.evaluation}}\n\n### TASK\n\n**STEP 1: CRITICAL CHECKS (Must Pass)**\n1. **Completeness:** Verify all required sections are present (Title, Key Messages, Background/Aims, Methods, Results, Limitations, Currency)\n2. **Title & Subheadings Format:** Confirm the main title AND all section subheadings are phrased as questions (e.g., \"What are the benefits and risks of...\", \"How up to date is this review?\")\n3. **Factual Accuracy:** Check that all numbers, findings, and key messages match SOURCE_OF_TRUTH and ORIGINAL_ABSTRACT\n4. **Word Count:** Confirm total is under 850 words\n\n**STEP 2: IDENTIFY SPECIFIC CLARITY ISSUES**\nRead the DRAFT_TEXT as a patient would. Identify the 3-5 most important issues that would confuse or frustrate readers:\n\n**Priority 1 - Critical Clarity Issues:**\n- Unexplained jargon or technical terms without definitions\n- Sentences longer than 30 words that are hard to follow\n- Missing context that leaves readers confused\n- Contradictory or unclear statements\n\n**Priority 2 - Style Issues:**\n- Excessive passive voice that obscures who did what\n- Wordy phrases that could be simplified\n- Noun-heavy sentences that should use more verbs\n- Numbers written as words instead of numerals\n\n**Priority 3 - Structure Issues:**\n- Missing paragraph breaks that create walls of text\n- Bullet points not using dashes (–)\n- Missing blank lines between paragraphs and headings\n\nFor EACH issue you identify:\n- QUOTE the problematic sentence/phrase from the draft\n- EXPLAIN why it's problematic for readers\n- SUGGEST a concrete rewrite\n\n**STEP 3: USE METRICS AS SUPPORTING EVIDENCE**\nReview the PLS_EVALUATION_RESULTS. Use them to:\n- Confirm your editorial instincts (e.g., \"I noticed many passive sentences; metrics show 27 instances\")\n- Identify patterns you might have missed\n- Provide context for your suggestions\n\nDO NOT simply list metric violations. Metrics are tools to support your editorial judgment, not the primary evaluation criteria.\n\n**STEP 4: FORMULATE JUDGMENT**\n\n**APPROVED if:**\n- All critical checks pass (complete, accurate, under 850 words)\n- No major clarity issues that would confuse readers\n- Minor style issues are acceptable if they don't harm understanding\n\n**NOT_APPROVED if:**\n- Any critical check fails (incomplete, inaccurate, too long)\n- OR 3+ significant clarity issues that would confuse readers\n- OR patterns of style problems that consistently reduce readability\n\n**For NOT_APPROVED, provide:**\n1. **Critical Issues (if any):** Missing sections, factual errors, length problems\n2. **Top 3-5 Improvements Needed:** Each with:\n   - Specific quote from the draft\n   - Why it's problematic\n   - Suggested rewrite\n3. **Supporting Evidence:** Brief mention of relevant metrics (e.g., \"The draft has 27 passive constructions, which contributes to the clarity issues noted above\")\n\n### OUTPUT FORMAT\n\nYour response MUST be a single JSON object:\n{\n\"grade\": \"APPROVED\" | \"NOT_APPROVED\",\n\"feedback\": \"A single string summarizing all violations and deviations from typical PLS patterns, or an empty string if approved.\",\n\"pls_evaluation_summary\": \"Brief interpretation of the PLS evaluation results including percentile ranges and metrics showing significant deviation from typical patterns\"\n}\n",
+        "options": {
+          "systemMessage": "=You are a \"Cochrane Plain Language Summary Editor\". You are an expert editor who helps writers improve their Plain Language Summaries by providing specific, actionable feedback based on Cochrane guidelines.\n\nYour role is to be a HELPFUL EDITOR, not a metrics police:\n\n- Focus on clarity and readability for patients, not just numbers\n- Quote specific problematic sentences from the draft\n- Suggest concrete rewrites that the writer can use immediately\n- Prioritize issues by impact on reader understanding\n- Recognize when technical complexity is justified\n- Limit feedback to the 3-5 most important improvements\n\nYour process:\n\n1. Check factual accuracy and completeness against source material\n2. Identify specific clarity and style issues in the draft text\n3. Use linguistic metrics as supporting evidence, not primary criteria\n4. Provide concrete, actionable suggestions with examples from the text\n\n## PLS EVALUATION API INTERPRETATION GUIDE:\n\nThe PLS evaluation API returns a comprehensive evaluation with three sections:\n\n**1. WORD COUNT STATUS:** Shows if text is within 850-word PLS limit\n**2. METRIC EVALUATION:** All metrics with percentile-based ratings and direction indicators\n**3. IMPROVEMENT RECOMMENDATIONS:** Specific numerical targets for metrics needing attention\n\n**IMPORTANT NOTE ON PERCENTILE RATINGS:**\nThese ratings represent statistical conformity with typical PLS patterns from our corpus, NOT absolute quality measures.\n\n**For metrics where LOWER values are better (marked with ↓):**\n\n- **P25:** Text falls within the best 25% of corpus (below 25th percentile)\n- **P50:** Text is in the median range (25th-50th percentile)\n- **P75:** Text is in the 50th-75th percentile range\n- **P90:** Text is in the 75th-90th percentile range\n- **BEYOND_P90:** Text deviates significantly from typical patterns (beyond 90th percentile)\n\n**For metrics where HIGHER values are better (marked with ↑):**\n\n- **P75:** Text falls within the best 25% of corpus (above 75th percentile)\n- **P50:** Text is in the median range (50th-75th percentile)\n- **P25:** Text is in the 25th-50th percentile range\n- **P10:** Text is in the 10th-25th percentile range\n- **BELOW_P10:** Text deviates significantly from typical patterns (below 10th percentile)\n\nDeviation from typical patterns (P90/BEYOND_P90 or P10/BELOW_P10) suggests review is warranted but does NOT automatically indicate poor quality—it may reflect legitimate stylistic choices or specific content requirements.\n\n**UNDERSTANDING THE METRICS:**\n\n**READABILITY INDICES:**\n\n- **flesch_reading_ease** (↑): Score from 0-100 measuring text difficulty. Higher scores indicate easier text. Typical PLS range: 32-48\n- **flesch_kincaid_grade** (↓): U.S. grade level needed to understand the text. Typical PLS range: 11-16\n- **gunning_fog_index** (↓): Years of formal education needed. Typical PLS range: 16-21\n- **smog_index** (↓): Grade level based on polysyllabic words. Typical PLS range: 10-15\n- **dale_chall_readability** (↓): Score based on familiar word usage. Typical PLS range: 7-9\n- **coleman_liau_index** (↓): Grade level based on characters per word. Typical PLS range: 11-15\n- **automated_readability_index** (↓): Grade level from character and word counts. Typical PLS range: 12-17\n- **lix** (↓): Readability score based on long words. Typical PLS range: 50-62\n- **rix** (↓): Long word density measure. Typical PLS range: 6-9\n\n**SENTENCE STRUCTURE:**\n\n- **words_per_sentence** (↓): Average sentence length. Typical PLS range: 19-28 words\n- **passive_voice** (↓): Count of passive voice constructions. Typical PLS range: 9-23 instances\n- **active_voice** (↑): Count of active voice constructions. Typical PLS range: 20-41 instances\n\n**VOCABULARY COMPLEXITY:**\n\n- **complex_words_dc** (↓): Dale-Chall unfamiliar words. Typical PLS range: 115-277 words\n- **complex_words** (↓): Words with 3+ syllables. Typical PLS range: 60-145 words\n- **long_words** (↓): Words with 7+ characters. Typical PLS range: 88-208 words\n- **nominalization** (↓): Noun-form verbs count. Typical PLS range: 8-27 instances\n\n**PLAIN LANGUAGE ELEMENTS:**\n\n- **pronouns** (↑): Personal pronoun usage. Typical PLS range: 8-21 instances\n- **nouns** (↓): Total noun count. Typical PLS range: 83-202 nouns\n\n**Direction Indicators:**\n\n- (↑) = Higher values are more typical of PLS texts\n- (↓) = Lower values are more typical of PLS texts\n\n**NOTE:** These metrics help identify conformity with typical PLS patterns. Deviation from typical ranges may be acceptable depending on content and context.\n\n**HOW TO SUGGEST IMPROVEMENTS BASED ON METRIC DEVIATIONS:**\n\nWhen metrics fall outside typical ranges, suggest these specific actions to the writer:\n\n**For Readability Indices showing high complexity (P90/BEYOND_P90):**\n\n- **High FKGL/ARI/CLI:** \"Reduce sentence length (aim for 15-20 words) and use shorter words (1-2 syllables)\"\n- **High GFI/SMOG:** \"Replace complex words (3+ syllables) with simpler alternatives\"\n- **Low FRE:** \"Shorten both sentences and words to improve readability\"\n- **High LIX/RIX:** \"Replace long words (7+ letters) with shorter equivalents\"\n- **High DCRS:** \"Use more common, everyday vocabulary from the Dale-Chall familiar word list\"\n\n**For Structural Issues (P90/BEYOND_P90 or P10/BELOW_P10):**\n\n- **High words_per_sentence:** \"Break long sentences into shorter ones. Target 15-20 words per sentence\"\n- **High passive_voice:** \"Convert passive constructions to active voice (e.g., 'Researchers found' not 'It was found')\"\n- **Low active_voice:** \"Start more sentences with the subject performing the action\"\n\n**For Vocabulary Complexity (P90/BEYOND_P90):**\n\n- **High complex_words:** \"Replace technical terms with everyday language where possible\"\n- **High long_words:** \"Choose shorter synonyms (e.g., 'use' instead of 'utilize')\"\n- **High nominalization:** \"Use verbs instead of noun forms (e.g., 'decide' not 'make a decision')\"\n\n**For Plain Language Elements (P10/BELOW_P10 or P90/BEYOND_P90):**\n\n- **Low pronouns:** \"Use 'we' and 'our' when referring to the research team\"\n- **High nouns:** \"Balance noun-heavy text with more action verbs\"\n\nRemember: The goal is conformity with typical PLS patterns, not extreme optimization. Moderate adjustments are often sufficient."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        3728,
+        -256
+      ],
+      "id": "0954a7a8-6f08-4b9e-89f1-4a8771503d96",
+      "name": "Evaluator Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/tools/pls-evaluation",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $('Assembly Agent').last().json.output }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3280,
+        -256
+      ],
+      "id": "510bbc69-d734-4180-a3e7-ffb6eb6b5223",
+      "name": "Get Metrics JSON First Draft"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/tools/pls-evaluation/text",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $('Assembly Agent').last().json.output }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3504,
+        -256
+      ],
+      "id": "4f3f8d30-c6fd-40d2-a82b-5eda53607c88",
+      "name": "Get Metrics First Draft"
+    },
+    {
+      "parameters": {
+        "description": "=Use the tool to think about something. It will not obtain new information or change the database, but just append the thought to the log. Use it when complex reasoning or some cache memory is needed."
+      },
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1920,
+        -128
+      ],
+      "id": "93dc73cf-cf7b-47b5-87b3-bcf093e98489",
+      "name": "Think"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1040,
+        -528
+      ],
+      "id": "0b857f33-6203-4ff7-86ec-ce9e447e05ad",
+      "name": "Think1"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1920,
+        -528
+      ],
+      "id": "4bd5b1dd-e040-4f17-a7c7-a909b05b4512",
+      "name": "Think2"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1040,
+        -928
+      ],
+      "id": "cbf5aa94-1c9e-4d83-b262-91df7737b967",
+      "name": "Think3"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1920,
+        -928
+      ],
+      "id": "9315a280-b644-41ed-ac0e-7de49f866bd2",
+      "name": "Think4"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1920,
+        272
+      ],
+      "id": "2d9c64c4-f4fd-4daf-8a44-80e15f4ce024",
+      "name": "Think5"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1920,
+        784
+      ],
+      "id": "1eb773b4-864b-4682-ad4d-4663cc63bdc3",
+      "name": "Think6"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        3872,
+        -32
+      ],
+      "id": "f665a4fc-773a-4810-a1d6-a8e90636f1ef",
+      "name": "Think9"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT\n\n1.  **ORIGINAL_ABSTRACT:** The technical abstract containing the main results and conclusions.\n2.  **NARRATIVE_STATEMENTS_GUIDE:** A table that dictates the exact wording to use based on the certainty and effect size of the evidence.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n**NARRATIVE_STATEMENTS_GUIDE:**\n{\n\"suggested_wording_for_narrative_statements\": {\n\"title\": \"Level of certainty of the evidence\",\n\"columns\": [\n\"Effect size\",\n\"High certainty\",\n\"Moderate certainty\",\n\"Low certainty\",\n\"Very low certainty OR when the point estimate indicates a large effect and the confidence interval also includes a large effect in the opposite direction or no effect\"\n],\n\"rows\": [\n{\n\"Effect size\": \"Large effect\",\n\"High certainty\": \"Intervention causes a large reduction/increase in outcome\",\n\"Moderate certainty\": \"Intervention probably causes a large reduction/increase in outcome\",\n\"Low certainty\": \"Intervention may cause a large reduction/increase in outcome\",\n\"Very low certainty\": \"It is unclear if intervention has an effect on outcome OR We do not know if intervention has an effect on outcome.\"\n},\n{\n\"Effect size\": \"Moderate effect\",\n\"High certainty\": \"Intervention reduces/increases outcome\",\n\"Moderate certainty\": \"Intervention probably reduces/increases outcome\",\n\"Low certainty\": \"Intervention may reduce/increase outcome\",\n\"Very low certainty\": \"It is unclear if intervention has an effect on outcome OR We do not know if intervention has an effect on outcome.\"\n},\n{\n\"Effect size\": \"Small, important\",\n\"High certainty\": \"Intervention reduces/increases outcome slightly\",\n\"Moderate certainty\": \"Intervention probably reduces/increases outcome slightly\",\n\"Low certainty\": \"Intervention may reduce/increase outcome slightly\",\n\"Very low certainty\": \"Intervention may reduce/increase/have little to no effect on outcome but we are very uncertain about the results\"\n},\n{\n\"Effect size\": \"Trivial, small, unimportant effect, or no effect\",\n\"High certainty\": \"Intervention makes little to no difference to outcome\",\n\"Moderate certainty\": \"Intervention probably makes little to no difference to outcome\",\n\"Low certainty\": \"Intervention may make little to no difference to outcome\",\n\"Very low certainty\": \"Intervention may reduce/increase/have little to no effect on outcome but we are very uncertain about the results\"\n}\n]\n}\n}\n\n### TASK\n\nYour mission is to summarize the main review results in plain language.\n\n1.  Identify the most important clinical findings in the abstract.\n2.  For each finding, infer its \"Level of certainty\" (High, Moderate, Low, Very low) and \"Effect size\" (Large, Moderate, Small, Trivial).\n3.  You MUST then use the NARRATIVE_STATEMENTS_GUIDE to translate each finding into the correct narrative sentence.\n4.  If possible, present results using numbers in a simple, understandable way (e.g., \"For every 100 people...\").\n\n### PROHIBITIONS (STRICTLY ENFORCED)\n\n- DO NOT invent results.\n- DO NOT use summary statistics (e.g., RR 0.80, 95% CI 0.61 to 1.05).\n- DO NOT use GRADE jargon (e.g., 'low-certainty evidence', 'indirectness').\n\n### EXAMPLES\n\n{\n\"note\": \"Technical terms in examples have been explained earlier in the summary\",\n\"examples\": [\n{\n\"type_of_finding\": \"Low-certainty evidence. Intervention review on antibiotics to prevent complications following tooth extractions\",\n\"text_in_plain_language_summary\": \"Antibiotics given just before or just after surgery may reduce the risk of infection and dry socket after wisdom teeth are removed by oral surgeons. However, they may cause more (generally brief and minor) unwanted effects for these patients.\"\n},\n{\n\"type_of_finding\": \"Moderate-certainty evidence. Intervention review about rapid versus standard antimicrobial susceptibility testing for bloodstream infection\",\n\"text_in_plain_language_summary\": \"Compared with standard tests, rapid susceptibility tests probably made little to no difference to:\\n- how many people died within 30 days (evidence from 6 studies in 1638 people);\\n- how long people stayed in hospital (4 studies in 1165 people); or\\n- how long it took for people to be given the right antibiotic to treat the infection (5 studies in 1493 people).\\nOr\\n... but the effects of this treatment vary, so it is possible that it may make little or no difference.\"\n},\n{\n\"type_of_finding\": \"No studies that met review eligibility criteria. Intervention review about ear cleaning for chronic suppurative otitis media\",\n\"text_in_plain_language_summary\": \"The only study that looked at hearing did not present the results in a way that could tell us whether dry mopping affects hearing.\"\n},\n{\n\"type_of_finding\": \"No studies that report usable information\",\n\"text_in_plain_language_summary\": \"We found no studies to help us answer our question.\"\n}\n]\n}\n\n- **Example (Numbers):**\n  {\n  \"presenting_results_using_numbers\": {\n  \"title\": \"Presenting the results using numbers\",\n  \"note\": \"Technical terms in examples have been explained earlier in the summary\",\n  \"reviews\": [\n  {\n  \"type_of_review\": \"Intervention review\",\n  \"topic\": \"Embryo transfer in solutions containing high concentrations of hyaluronic acid in IVF\",\n  \"results\": \"Embryo transfer using solutions with high concentrations of hyaluronic acid probably increases the number of live births compared with using solutions with low concentrations or no hyaluronic acid (10 studies). If transfer solutions with low concentrations or no hyaluronic acid have a 33% chance of resulting in a live birth, solutions with high concentrations increase the chance of a live birth to between 37% and 44%. There would probably be 1 additional live birth for every 14 embryos transferred in a high concentration hyaluronic acid solution.\"\n  },\n  {\n  \"type_of_review\": \"Intervention review\",\n  \"topic\": \"Electronic cigarettes for smoking cessation\",\n  \"results\": \"Nicotine e-cigarettes may help more people to stop smoking than no support or behavioural support only (4 studies; 2312 people).\n  For every 100 people using nicotine e-cigarettes to stop smoking, 10 might stop successfully, compared with only 6 of 100 people using nicotine-replacement therapy or nicotine-free e-cigarettes, or 4 of 100 people having no support or behavioural support only.\"\n  },\n  {\n  \"type_of_review\": \"Diagnostic test accuracy review\",\n  \"topic\": \"Rapid tests for strep sore throat in children\",\n  \"results\": \"The results of these studies indicate that in theory, if rapid tests were to be used in a group of 1000 children with sore throats, of whom 300 (30%) are actually caused by bacterial infection then:\n  • An estimated 289 would have a rapid test result indicating that their sore throat is caused by a bacterial infection and of these 32 (11%) not have a bacterial infection\n  • An estimated 711 children would have a rapid test result indicating that their sore throat is not caused by a bacterial infection and of these, 43 (6%) would actually have a bacterial infection.\n  • Both types of rapid test showed similar results.\"\n  },\n  ]\n  }\n  }\n\n### OUTPUT FORMAT\n\nYour response must be ONLY a single JSON object with one key, \"findings_summary\".",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "You are a \"Plain Language Results Translator.\" Your expertise is converting technical findings (like effect sizes and certainty levels) into the official Cochrane narrative statements. You are strictly forbidden from using numbers or technical jargon."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        1376,
+        -256
+      ],
+      "id": "3cb13d10-1055-4896-ad12-f18475349018",
+      "name": "Findings Writer Agent"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        976,
+        -32
+      ],
+      "id": "6e9fa788-bbf3-4f66-9418-8df526b2254d",
+      "name": "Think7"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        1440,
+        -32
+      ],
+      "id": "ae9a0f93-9bb2-4713-a0d2-8ee4ee2ecfa9",
+      "name": "Think8"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT ###\n**ORIGINAL_ABSTRACT:** The technical abstract of the review.\n\n**ORIGINAL_ABSTRACT:**\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"\n\n### TASK ###\nYour mission is to generate a text describing the main characteristics of the included studies. The text should flow as a natural paragraph, not just a list of points. You MUST report on the following points if the information is available in the abstract:\n- The total number of included studies.\n- The total number of people who took part.\n- How long the studies lasted (for intervention reviews).\n- Overview of study funding sources.\n- Population characteristics (e.g., age, gender, severity of condition).\n- Study settings, such as the countries in which they took place.\n- Types of interventions and comparisons.\n- If you found no studies on a particular intervention, outcome or population of interest.\n\n### EXAMPLES ###\n\n- **Example 1:** Intervention review\n*   **Topic:** Treatments for bladder pain syndrome\n*   **Findings:** \n\"We found 81 studies that involved 4674 people with painful bladder. The biggest study was in 369 people and the smallest study was in 10 people. The studies were conducted in countries around the world; most were done in the USA (25). Most studies lasted for around 3 months; only 6 studies lasted for 12 months or more. Pharmaceutical companies funded 24 of the studies.\"\n\n- **Example 2:** Diagnostic testaccuracy review\n*   **Topic:** rapid tests for strep sore throat in children\n*   **Findings:** \n\"The analysis included results from 98 studies that included 58,244 children with sore throat. \nStudies included in the review were carried out in 25 countries with almost half conducted in the USA. Tests produced by many different manufactures were assessed. The average age of children was 7 years.  There was some suggestion that studies in the review included more severely ill children. Overall, an average of 29 out of every 100 (29%) children were found to have a bacterial throat infection with this number ranging from 10 out of every 100 (10%) to 67 out of every 100 (67%) across studies.\"\n\n### OUTPUT FORMAT ###\nYour response must be ONLY a single JSON object with one key, \"characteristics_summary\".",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "You are a \"Study Cohort Summarizer.\" Your only task is to extract and list the main characteristics of the studies included in a medical review abstract, following a strict checklist. You present facts, not results."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        912,
+        -256
+      ],
+      "id": "6c00b8af-c8d6-49cb-90d7-ca7fdf841dfa",
+      "name": "Characteristics Writer Agent"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\t\"characteristics_summary\": \"Text\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        1104,
+        -32
+      ],
+      "id": "2ad28071-9218-4f92-a8ac-2dff0c1b9acd",
+      "name": "Structured Output Parser5"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\"findings_summary\": \"Text\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        1568,
+        -32
+      ],
+      "id": "5b86289b-2226-45a0-a799-c24e85a863de",
+      "name": "Structured Output Parser6"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Evaluator Agent').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "messages": {
+          "messageValues": [
+            {
+              "message": "Grades must be APPROVED or NOT_APPROVED, if you received something different, put the closest one."
+            }
+          ]
+        },
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        4080,
+        -256
+      ],
+      "id": "1b789a21-efb0-421b-9f22-d4a5c675f19e",
+      "name": "Evaluator Parser",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"grade\": \"APPROVED\",\n  \"feedback\": \"A single string summarizing all violations, or an empty string if approved.\",\n    \"pls_evaluation_summary\": \"Brief interpretation of the PLS evaluation results including overall rating and key problematic metrics\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        4224,
+        -32
+      ],
+      "id": "a82119a7-4dc0-43d3-984d-96c3823a090c",
+      "name": "Structured Output Parser12"
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $('Assembly Agent').last().json.output \n\nreturn [\n  {\n    output: input\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        4880,
+        -352
+      ],
+      "id": "9c5689a2-dedd-4d17-82cb-699f58ed75b8",
+      "name": "Return first text"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        912,
+        -928
+      ],
+      "id": "f131c686-27cf-4aae-9a38-f1ac7751cb4c",
+      "name": "Together AI - Llama 3.3 70B",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        912,
+        -528
+      ],
+      "id": "5e405189-ab23-4173-91e3-099aa8147065",
+      "name": "Together AI - Llama 3.3 70B1",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1792,
+        -528
+      ],
+      "id": "9100b60a-eca0-4fd9-8ab4-5c8331d463a3",
+      "name": "Together AI - Llama 3.3 70B2",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1792,
+        -928
+      ],
+      "id": "c9ca6068-e692-44e6-a001-a00b94cd21d3",
+      "name": "Together AI - Llama 3.3 70B3",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        848,
+        -32
+      ],
+      "id": "15323d2d-786c-4448-9f36-8af7e08c58a7",
+      "name": "Together AI - Llama 3.3 70B4",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1312,
+        -32
+      ],
+      "id": "5be1d7c5-697d-46bf-834a-7cb83d69f143",
+      "name": "Together AI - Llama 3.3 70B5",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1792,
+        -128
+      ],
+      "id": "b42bc498-29bd-455b-b005-f2a758cab8d7",
+      "name": "Together AI - Llama 3.3 70B6",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1792,
+        272
+      ],
+      "id": "f1796232-70e9-4f25-9c47-ea77c23cef1f",
+      "name": "Together AI - Llama 3.3 70B7",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1792,
+        784
+      ],
+      "id": "fc56014d-ddb9-4d5d-9ea7-c8c8e58a6612",
+      "name": "Together AI - Llama 3.3 70B8",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2784,
+        -32
+      ],
+      "id": "e74e56bd-9a01-423c-9f6d-719363033e2d",
+      "name": "Together AI - Llama 3.3 70B9",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $('Re Editor Agent').last().json.output \n\nreturn [\n  {\n    draft: input\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        5456,
+        -272
+      ],
+      "id": "1ebd30fe-e989-4e96-8eca-77e1687e94e7",
+      "name": "Re Editor Parser"
+    },
+    {
+      "parameters": {
+        "url": "=http://127.0.0.1:8000/summaries/{{ $('Input').last().json.body.model}}/{{$('Input').last().json.body.cochrane_review_id}}/drafts/last",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        4880,
+        -160
+      ],
+      "id": "9c7b85d2-794c-424b-86d0-24e73f7f6113",
+      "name": "Get Last Draft and Evaluation1"
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n  \"grade\": \"APPROVED\",\n  \"feedback\": \"A single string summarizing all violations, or an empty string if approved.\",\n    \"pls_evaluation_summary\": \"Brief interpretation of the PLS evaluation results including overall rating and key problematic metrics\"\n}"
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        6624,
+        -48
+      ],
+      "id": "99916d60-672b-46e6-bda9-fe3beb7258b6",
+      "name": "Structured Output Parser13"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        5248,
+        -48
+      ],
+      "id": "87496a5b-b693-4021-a3c7-771d4a5911d7",
+      "name": "Think12"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        6272,
+        -48
+      ],
+      "id": "af56deff-9d6a-4fb8-9388-3bcc976f94f9",
+      "name": "Think13"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT ###\n1. **PREVIOUS_DRAFT:** The existing Plain Language Summary text that needs revision.\n2. **EVALUATOR_FEEDBACK:** Specific issues and improvement areas identified by the evaluator.\n3. **STYLE_GUIDE:** The master list of rules you must enforce.\n4. **ORIGINAL_ABSTRACT:** The source material from the scientific review.\n5. **SOURCE_OF_TRUTH:** The original sections extracted from the review.\n\n**PREVIOUS_DRAFT:**\n{{ $('Get Last Draft and Evaluation1').last().json.draft}}\n\n**EVALUATOR_FEEDBACK:**\n{{ $('Get Last Draft and Evaluation1').last().json.evaluation[0].feedback}}\n\n{{ $('Get Last Draft and Evaluation1').last().json.evaluation[0].pls_evaluation_summary}}\n\n**ORIGINAL_ABSTRACT:**\n{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\n\n**SOURCE_OF_TRUTH:**\n\n1. Title:\n   {{ $('Plain Titles Agent').last().json.output.toJsonString()}}\n2. Key messages:\n   {{ $('Key messages Agent').last().json.output.key_messages.toJsonString()}}\n3. Introduction/Aims:\n   {{ $('Background Writer Agent').last().json.output.toJsonString()}}\n4. Methods:\n   {{ $('Methods Summarizer Agent').last().json.output.toJsonString()}}\n5. Results:\n   {{ $('Results Manager Agent').last().json.output.toJsonString()}}\n6. Limitations:\n   {{ $('Limitations Agent').last().json.output.toJsonString()}}\n7. Currency:\n   {{ $('Date Extraction Agent').last().json.output.toJsonString()}}\n\n**STYLE_GUIDE:**\n- **Clarity:** Use simple, conversational language. Explain all complex medical terms in parentheses immediately after first use.\n- **Style:** Use active voice. Keep sentences short (average 20 words). Keep paragraphs short (2-4 sentences). Use first-person plural ('we'). Use numerals for numbers (e.g., 3, not 'three').\n- **Structure:** The document must be structured logically with a Title, Key messages (2-3 points), and sections with clear, question-based subheadings. Use dashes (–) for lists.\n- **Constraints:** The final summary must be under 850 words. Do not add or invent information; only use what is in the original source material.\n\n### TASK ###\nYour mission is to produce a final, polished Plain Language Summary by revising the PREVIOUS_DRAFT based on the EVALUATOR_FEEDBACK. You will achieve this through an iterative editing and validation process.\n\n**STEP 1: Analyze the Feedback**\n- Read the EVALUATOR_FEEDBACK carefully.\n- Identify all specific issues mentioned (e.g., passive voice, long sentences, unexplained jargon, factual errors, missing information).\n- Prioritize issues that impact accuracy and clarity.\n\n**STEP 2: Initial Comprehensive Edit**\n- Based on the EVALUATOR_FEEDBACK, perform a complete revision of the PREVIOUS_DRAFT.\n- Fix ALL specific issues mentioned in the feedback:\n  - **Accuracy Issues:** Correct any factual errors or misrepresentations.\n  - **Style Issues:** Rewrite sentences to use active voice, break up long sentences, shorten paragraphs.\n  - **Clarity Issues:** Add explanations for medical terms, simplify complex language, improve flow.\n  - **Formatting Issues:** Fix subheading format, list formatting, number representation.\n  - **Structure Issues:** Reorganize sections if needed, ensure logical flow.\n- Apply all rules from the STYLE_GUIDE.\n- Ensure the text remains scientifically accurate.\n- This creates your revised version (`draft_v1`).\n\n**STEP 3: Validation Loop**\n- **Re-evaluate your revised draft** against the EVALUATOR_FEEDBACK:\n  - Check that each issue mentioned in the feedback has been addressed.\n  - Verify the draft follows all STYLE_GUIDE rules.\n  - Ensure word count is under 850 words.\n  - Confirm all medical terms are explained.\n  - Verify active voice is used consistently.\n  - Check sentence length (aim for 15-20 words average).\n\n- **If any issues remain unfixed:**\n  - Edit your current draft to address the remaining problems.\n  - This creates a new version of your draft.\n  - Return to the beginning of STEP 3 and re-evaluate.\n\n- **If all issues are resolved:**\n  - The current draft is ready for final output.\n\n**STEP 4: Final Quality Check**\nBefore finalizing, verify:\n- All feedback points have been addressed\n- No new errors were introduced during editing\n- The summary remains factually accurate\n- All complex terms are explained\n- Sentences are concise and clear\n- Active voice is used throughout\n- Word count is under 850 words\n- The tone is conversational and accessible\n\n### OUTPUT FORMAT ###\nYour response must be ONLY the final, validated, and fully compliant Plain Language Summary as a single block of plain text. Do not use any Markdown or other formatting symbols. The text should be ready for direct use.\n",
+        "options": {
+          "systemMessage": "You are the Chief Editor for Cochrane Plain Language Summaries. Your mission is to take a raw, assembled text and transform it into a final, polished, and fully compliant document. You are an expert in clarity, style, and structure. You will methodically apply all style guidelines and use the EvaluatorTool to verify your work until it is perfect."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.1,
+      "position": [
+        5104,
+        -272
+      ],
+      "id": "37f98b12-c3f2-46b0-80a0-76900af1675c",
+      "name": "Re Editor Agent",
+      "alwaysOutputData": true,
+      "executeOnce": true,
+      "retryOnFail": true,
+      "maxTries": 5
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/tools/pls-evaluation",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $('Re Editor Parser').last().json.draft }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        5680,
+        -272
+      ],
+      "id": "0a19572f-8ee8-4ca3-a4d5-c202ab1a5d03",
+      "name": "Get Metrics JSON Last Draft"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8000/tools/pls-evaluation/text",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $('Re Editor Parser').last().json.draft }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        5904,
+        -272
+      ],
+      "id": "3cf2171a-3b59-4bf1-8852-86e3129a67f5",
+      "name": "Get Metrics Last Draft"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=### CONTEXT\n\n1. **ORIGINAL_ABSTRACT:** The technical abstract of the review, which contains information about the search dates.\n2. **DRAFT_TEXT:** The complete draft of the Plain Language Summary to be evaluated.\n3. **SOURCE_OF_TRUTH:** All the original, un-edited outputs from the specialist writer agents for fact-checking.\n4. **MASTER_STYLE_GUIDE:** The definitive set of rules the draft MUST follow.\n5. **PLS_EVALUATION_RESULTS:** The linguistic analysis results for the draft text.\n\n**ORIGINAL_ABSTRACT:**\n{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\n\n**DRAFT_TEXT:**\n{{ $('Re Editor Parser').last().json.draft }}\n\n**SOURCE_OF_TRUTH:**\n\n1. Title:\n   {{ $('Plain Titles Agent').last().json.output.toJsonString()}}\n2. Key messages:\n   {{ $('Key messages Agent').last().json.output.key_messages.toJsonString()}}\n3. Introduction/Aims:\n   {{ $('Background Writer Agent').last().json.output.toJsonString()}}\n4. Methods:\n   {{ $('Methods Summarizer Agent').last().json.output.toJsonString()}}\n5. Results:\n   {{ $('Results Manager Agent').last().json.output.toJsonString()}}\n6. Limitations:\n   {{ $('Limitations Agent').last().json.output.toJsonString()}}\n7. Currency:\n   {{ $('Date Extraction Agent').last().json.output.toJsonString()}}\n\n**MASTER_STYLE_GUIDE:**\n**5.2 Style**\n\n- **Conciseness:** Be concise. Replace 'wordy' phrases (e.g., 'during the course of' with 'during'; 'due to the fact that' with 'because').\n- **Active Voice:** Use active voice (e.g., 'We compared the results') not passive voice (e.g., 'The results of the studies were compared').\n- **Pronouns:** Use first-person plural ('we', 'our') for review authors.\n- **Verbs:** Use direct verbs (e.g., 'the students investigated' not 'the students conducted an investigation').\n- **Numerals:** Write numbers as numerals (1, 2, 3) not words, unless starting a sentence.\n\n**5.3 Structure**\n\n- **Subheadings:** Use subheadings to guide the reader. Phrase subheadings as questions where possible (e.g., 'What is a cataract?').\n- **Bullet points:** Use a dash or hyphen (-) to start items in a list.\n- **Paragraphs:** Keep paragraphs short. Start a new paragraph when the topic shifts.\n- **White space:** Ensure there are blank lines between paragraphs and headings to separate elements.\n\n**PLS_EVALUATION_RESULTS:**\n{{ $('Get Metrics Last Draft').last().json.evaluation}}\n\n### TASK\n\n**STEP 1: CRITICAL CHECKS (Must Pass)**\n1. **Completeness:** Verify all required sections are present (Title, Key Messages, Background/Aims, Methods, Results, Limitations, Currency)\n2. **Title & Subheadings Format:** Confirm the main title AND all section subheadings are phrased as questions (e.g., \"What are the benefits and risks of...\", \"How up to date is this review?\")\n3. **Factual Accuracy:** Check that all numbers, findings, and key messages match SOURCE_OF_TRUTH and ORIGINAL_ABSTRACT\n4. **Word Count:** Confirm total is under 850 words\n\n**STEP 2: IDENTIFY SPECIFIC CLARITY ISSUES**\nRead the DRAFT_TEXT as a patient would. Identify the 3-5 most important issues that would confuse or frustrate readers:\n\n**Priority 1 - Critical Clarity Issues:**\n- Unexplained jargon or technical terms without definitions\n- Sentences longer than 30 words that are hard to follow\n- Missing context that leaves readers confused\n- Contradictory or unclear statements\n\n**Priority 2 - Style Issues:**\n- Excessive passive voice that obscures who did what\n- Wordy phrases that could be simplified\n- Noun-heavy sentences that should use more verbs\n- Numbers written as words instead of numerals\n\n**Priority 3 - Structure Issues:**\n- Missing paragraph breaks that create walls of text\n- Bullet points not using dashes (–)\n- Missing blank lines between paragraphs and headings\n\nFor EACH issue you identify:\n- QUOTE the problematic sentence/phrase from the draft\n- EXPLAIN why it's problematic for readers\n- SUGGEST a concrete rewrite\n\n**STEP 3: USE METRICS AS SUPPORTING EVIDENCE**\nReview the PLS_EVALUATION_RESULTS. Use them to:\n- Confirm your editorial instincts (e.g., \"I noticed many passive sentences; metrics show 27 instances\")\n- Identify patterns you might have missed\n- Provide context for your suggestions\n\nDO NOT simply list metric violations. Metrics are tools to support your editorial judgment, not the primary evaluation criteria.\n\n**STEP 4: FORMULATE JUDGMENT**\n\n**APPROVED if:**\n- All critical checks pass (complete, accurate, under 850 words)\n- No major clarity issues that would confuse readers\n- Minor style issues are acceptable if they don't harm understanding\n\n**NOT_APPROVED if:**\n- Any critical check fails (incomplete, inaccurate, too long)\n- OR 3+ significant clarity issues that would confuse readers\n- OR patterns of style problems that consistently reduce readability\n\n**For NOT_APPROVED, provide:**\n1. **Critical Issues (if any):** Missing sections, factual errors, length problems\n2. **Top 3-5 Improvements Needed:** Each with:\n   - Specific quote from the draft\n   - Why it's problematic\n   - Suggested rewrite\n3. **Supporting Evidence:** Brief mention of relevant metrics (e.g., \"The draft has 27 passive constructions, which contributes to the clarity issues noted above\")\n\n### OUTPUT FORMAT\n\nYour response MUST be a single JSON object:\n{\n\"grade\": \"APPROVED\" | \"NOT_APPROVED\",\n\"feedback\": \"A single string summarizing all violations and deviations from typical PLS patterns, or an empty string if approved.\",\n\"pls_evaluation_summary\": \"Brief interpretation of the PLS evaluation results including percentile ranges and metrics showing significant deviation from typical patterns\"\n}\n",
+        "hasOutputParser": true,
+        "options": {
+          "systemMessage": "=You are a \"Cochrane Plain Language Summary Editor\". You are an expert editor who helps writers improve their Plain Language Summaries by providing specific, actionable feedback based on Cochrane guidelines.\n\nYour role is to be a HELPFUL EDITOR, not a metrics police:\n\n- Focus on clarity and readability for patients, not just numbers\n- Quote specific problematic sentences from the draft\n- Suggest concrete rewrites that the writer can use immediately\n- Prioritize issues by impact on reader understanding\n- Recognize when technical complexity is justified\n- Limit feedback to the 3-5 most important improvements\n\nYour process:\n\n1. Check factual accuracy and completeness against source material\n2. Identify specific clarity and style issues in the draft text\n3. Use linguistic metrics as supporting evidence, not primary criteria\n4. Provide concrete, actionable suggestions with examples from the text\n\n## PLS EVALUATION API INTERPRETATION GUIDE:\n\nThe PLS evaluation API returns a comprehensive evaluation with three sections:\n\n**1. WORD COUNT STATUS:** Shows if text is within 850-word PLS limit\n**2. METRIC EVALUATION:** All metrics with percentile-based ratings and direction indicators\n**3. IMPROVEMENT RECOMMENDATIONS:** Specific numerical targets for metrics needing attention\n\n**IMPORTANT NOTE ON PERCENTILE RATINGS:**\nThese ratings represent statistical conformity with typical PLS patterns from our corpus, NOT absolute quality measures.\n\n**For metrics where LOWER values are better (marked with ↓):**\n\n- **P25:** Text falls within the best 25% of corpus (below 25th percentile)\n- **P50:** Text is in the median range (25th-50th percentile)\n- **P75:** Text is in the 50th-75th percentile range\n- **P90:** Text is in the 75th-90th percentile range\n- **BEYOND_P90:** Text deviates significantly from typical patterns (beyond 90th percentile)\n\n**For metrics where HIGHER values are better (marked with ↑):**\n\n- **P75:** Text falls within the best 25% of corpus (above 75th percentile)\n- **P50:** Text is in the median range (50th-75th percentile)\n- **P25:** Text is in the 25th-50th percentile range\n- **P10:** Text is in the 10th-25th percentile range\n- **BELOW_P10:** Text deviates significantly from typical patterns (below 10th percentile)\n\nDeviation from typical patterns (P90/BEYOND_P90 or P10/BELOW_P10) suggests review is warranted but does NOT automatically indicate poor quality—it may reflect legitimate stylistic choices or specific content requirements.\n\n**UNDERSTANDING THE METRICS:**\n\n**READABILITY INDICES:**\n\n- **flesch_reading_ease** (↑): Score from 0-100 measuring text difficulty. Higher scores indicate easier text. Typical PLS range: 32-48\n- **flesch_kincaid_grade** (↓): U.S. grade level needed to understand the text. Typical PLS range: 11-16\n- **gunning_fog_index** (↓): Years of formal education needed. Typical PLS range: 16-21\n- **smog_index** (↓): Grade level based on polysyllabic words. Typical PLS range: 10-15\n- **dale_chall_readability** (↓): Score based on familiar word usage. Typical PLS range: 7-9\n- **coleman_liau_index** (↓): Grade level based on characters per word. Typical PLS range: 11-15\n- **automated_readability_index** (↓): Grade level from character and word counts. Typical PLS range: 12-17\n- **lix** (↓): Readability score based on long words. Typical PLS range: 50-62\n- **rix** (↓): Long word density measure. Typical PLS range: 6-9\n\n**SENTENCE STRUCTURE:**\n\n- **words_per_sentence** (↓): Average sentence length. Typical PLS range: 19-28 words\n- **passive_voice** (↓): Count of passive voice constructions. Typical PLS range: 9-23 instances\n- **active_voice** (↑): Count of active voice constructions. Typical PLS range: 20-41 instances\n\n**VOCABULARY COMPLEXITY:**\n\n- **complex_words_dc** (↓): Dale-Chall unfamiliar words. Typical PLS range: 115-277 words\n- **complex_words** (↓): Words with 3+ syllables. Typical PLS range: 60-145 words\n- **long_words** (↓): Words with 7+ characters. Typical PLS range: 88-208 words\n- **nominalization** (↓): Noun-form verbs count. Typical PLS range: 8-27 instances\n\n**PLAIN LANGUAGE ELEMENTS:**\n\n- **pronouns** (↑): Personal pronoun usage. Typical PLS range: 8-21 instances\n- **nouns** (↓): Total noun count. Typical PLS range: 83-202 nouns\n\n**Direction Indicators:**\n\n- (↑) = Higher values are more typical of PLS texts\n- (↓) = Lower values are more typical of PLS texts\n\n**NOTE:** These metrics help identify conformity with typical PLS patterns. Deviation from typical ranges may be acceptable depending on content and context.\n\n**HOW TO SUGGEST IMPROVEMENTS BASED ON METRIC DEVIATIONS:**\n\nWhen metrics fall outside typical ranges, suggest these specific actions to the writer:\n\n**For Readability Indices showing high complexity (P90/BEYOND_P90):**\n\n- **High FKGL/ARI/CLI:** \"Reduce sentence length (aim for 15-20 words) and use shorter words (1-2 syllables)\"\n- **High GFI/SMOG:** \"Replace complex words (3+ syllables) with simpler alternatives\"\n- **Low FRE:** \"Shorten both sentences and words to improve readability\"\n- **High LIX/RIX:** \"Replace long words (7+ letters) with shorter equivalents\"\n- **High DCRS:** \"Use more common, everyday vocabulary from the Dale-Chall familiar word list\"\n\n**For Structural Issues (P90/BEYOND_P90 or P10/BELOW_P10):**\n\n- **High words_per_sentence:** \"Break long sentences into shorter ones. Target 15-20 words per sentence\"\n- **High passive_voice:** \"Convert passive constructions to active voice (e.g., 'Researchers found' not 'It was found')\"\n- **Low active_voice:** \"Start more sentences with the subject performing the action\"\n\n**For Vocabulary Complexity (P90/BEYOND_P90):**\n\n- **High complex_words:** \"Replace technical terms with everyday language where possible\"\n- **High long_words:** \"Choose shorter synonyms (e.g., 'use' instead of 'utilize')\"\n- **High nominalization:** \"Use verbs instead of noun forms (e.g., 'decide' not 'make a decision')\"\n\n**For Plain Language Elements (P10/BELOW_P10 or P90/BEYOND_P90):**\n\n- **Low pronouns:** \"Use 'we' and 'our' when referring to the research team\"\n- **High nouns:** \"Balance noun-heavy text with more action verbs\"\n\nRemember: The goal is conformity with typical PLS patterns, not extreme optimization. Moderate adjustments are often sufficient."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        6128,
+        -272
+      ],
+      "id": "6ab26d95-74ee-4d06-a20f-5a6248de7f29",
+      "name": "Re Evaluator Agent",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('Re Evaluator Agent').last().json.output.toJsonString()}}",
+        "hasOutputParser": true,
+        "messages": {
+          "messageValues": [
+            {
+              "message": "Grades must be APPROVED or NOT_APPROVED, if you received something different, put the closest one."
+            }
+          ]
+        },
+        "batching": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chainLlm",
+      "typeVersion": 1.7,
+      "position": [
+        6480,
+        -272
+      ],
+      "id": "14c302f3-cbcb-42ca-9675-095f7d3f881e",
+      "name": "Re Evaluator Parser",
+      "retryOnFail": true
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "=http://127.0.0.1:8000/summaries/{{ $('Input').last().json.body.model}}/{{$('Input').last().json.body.cochrane_review_id}}/drafts",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "id",
+              "value": "={{$('Input').last().json.body.cochrane_review_id}}"
+            },
+            {
+              "name": "draft",
+              "value": "={{ $('Re Editor Parser').last().json.draft }}"
+            },
+            {
+              "name": "metrics",
+              "value": "={{ [$('Get Metrics JSON Last Draft').last().json]}}"
+            },
+            {
+              "name": "evaluation",
+              "value": "={{\n[{\n\"grade\": $('Re Evaluator Parser').last().json.output.grade,\n\"feedback\": $('Re Evaluator Parser').last().json.output.feedback,\n\"pls_evaluation_summary\": $('Re Evaluator Parser').last().json.output.pls_evaluation_summary\n}]\n}}"
+            },
+            {
+              "name": "model",
+              "value": "={{ $('Input').last().json.body.model}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        6832,
+        -272
+      ],
+      "id": "98681684-b21b-4cbc-945f-3c7065d29759",
+      "name": "Save Last Draft and Evaluation"
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $('Re Editor Parser').last().json.draft \n\nreturn [\n  {\n    output: input\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        7280,
+        -320
+      ],
+      "id": "12619502-64e0-4fd5-8275-baa8f2a021ab",
+      "name": "Return last text"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "119b212f-96e7-443d-86e2-56aab1604874",
+              "leftValue": "={{$('Re Evaluator Parser').last().json.output.grade}}",
+              "rightValue": "APPROVED",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        7056,
+        -272
+      ],
+      "id": "5e4998c9-c6e4-4ebc-b4d5-c470bd0227b7",
+      "name": "Check Last Evaluation"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "6ecd44f9-fb1e-4800-a7f1-2308c4e5406f",
+              "leftValue": "={{ $('Save Last Draft and Evaluation').last().json.draft_number }}",
+              "rightValue": 10,
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        7280,
+        -64
+      ],
+      "id": "4098506a-bd5c-4414-8635-9cb7e6d58dae",
+      "name": "Check max iterations"
+    },
+    {
+      "parameters": {
+        "url": "=http://127.0.0.1:8000/summaries/{{ $('Input').last().json.body.model}}/{{$('Input').last().json.body.cochrane_review_id}}/drafts/best",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        7504,
+        -64
+      ],
+      "id": "c6bd6ff8-d926-4e86-a24e-54d189c9cc5e",
+      "name": "Get the best text"
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $('Get the best text').last().json\n\nreturn [\n  {\n    output: input.draft\n  }\n];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        7728,
+        -64
+      ],
+      "id": "ef213379-47cb-481c-8c7f-2b2652a243e2",
+      "name": "Return best text"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        5120,
+        -48
+      ],
+      "id": "f0e0bd00-2e1f-4ed8-b5a3-1813906f6e93",
+      "name": "Together AI - Llama 3.3 70B10",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1376,
+        -928
+      ],
+      "id": "2851ccee-f2ea-431c-b228-dd40e17d6589",
+      "name": "Together AI - GPT-OSS-120B",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        -928
+      ],
+      "id": "c5a6558b-c7ce-490b-8266-ffdb457aba7d",
+      "name": "Together AI - GPT-OSS-120B1",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1376,
+        -528
+      ],
+      "id": "8324f487-8382-4523-8c0f-bc15287d896c",
+      "name": "Together AI - GPT-OSS-120B2",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        -528
+      ],
+      "id": "1c58bfbb-745d-41ee-bfd8-ab11094392e1",
+      "name": "Together AI - GPT-OSS-120B4",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        3744,
+        -32
+      ],
+      "id": "e12de53c-1364-4b20-9d4b-122ae5276615",
+      "name": "Google Gemini Chat Model8",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "UIcHxWvrFX60AqYh",
+          "name": "KELSENIA (NICOLAS) API KEY"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        -128
+      ],
+      "id": "acb8313b-ca25-4cf7-bd8c-ef571b4b38bc",
+      "name": "Together AI - GPT-OSS-120B5",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        272
+      ],
+      "id": "66502eb2-157d-478f-8c68-980381816c52",
+      "name": "Together AI - GPT-OSS-120B6",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        784
+      ],
+      "id": "4b41d184-948c-44ac-82d4-7e0c0be1114f",
+      "name": "Together AI - GPT-OSS-120B7",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        4096,
+        -32
+      ],
+      "id": "14ae93b3-0772-4775-8f28-b81b6791ca72",
+      "name": "Together AI - GPT-OSS-120B8",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-2.5-pro",
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        6144,
+        -48
+      ],
+      "id": "24354f81-373c-4398-85c4-8b971118718f",
+      "name": "Google Gemini Chat Model21",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "UIcHxWvrFX60AqYh",
+          "name": "KELSENIA (NICOLAS) API KEY"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        6496,
+        -48
+      ],
+      "id": "7702f9ba-a0f1-49dc-934b-20a90522a7c6",
+      "name": "Together AI - GPT-OSS-120B9",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "Input": [
+      {
+        "json": {
+          "headers": {
+            "host": "localhost:5678",
+            "accept": "*/*",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Python/3.12 aiohttp/3.12.14",
+            "content-length": "7196",
+            "content-type": "application/json"
+          },
+          "params": {},
+          "query": {},
+          "body": {
+            "model": "gemini-2.5-pro",
+            "cochrane_review_id": "CD014792.PUB2",
+            "title": "Postoperative nutritional support after pancreaticoduodenectomy in adults",
+            "abstract": "Background\nResection of the head of the pancreas is most commonly done by a pancreaticoduodenectomy, known as a Whipple procedure. The most common indication for pancreaticoduodenectomy is malignancy, but can include benign tumours and chronic pancreatitis. Complete surgical resection, with negative margins, provides the best prospect of long‐term survival. Pancreaticoduodenectomy involves specific and unique alterations to the digestive system and maintaining nutritional status (optimising outcomes and achieving resumption of a normal diet) in patients with cancer after major surgery is a challenge. Malnutrition is a risk factor following pancreaticoduodenectomy, due to the magnitude of the operation and the frequency of complications. Postoperatively, patients are fed either orally, enterally or parenterally. Oral intake may start with fluids and then progress to solid food, or may bead libitum. Enteral feeding may be via a nasojejunal tube or feeding tube jejunostomy. Parenteral nutrition can be delivered via a central or peripheral intravenous line, and may provide full nutrition (TPN) or partial nutrition (supplemental PN).\n\nObjectives\nTo assess the effects of postoperative nutritional support strategies on complications and recovery in adults after pancreaticoduodenectomy.\n\nSearch methods\nWe searched CENTRAL, MEDLINE, Embase, LILACS and CINAHL (from inception to October 2022), ongoing trials registers and other internet databases. We searched previous systematic reviews, relevant publications on the same topic and the references of included studies.\n\nSelection criteria\nRandomised controlled trials of postoperative nutritional interventions in an inpatient setting for patients undergoing pancreaticoduodenectomy. We specifically looked for studies comparing route or timing rather than nutritional content.\n\nData collection and analysis\nTwo review authors independently assessed studies for inclusion, judged the risk of bias and extracted data. Studies requiring translation were assessed for inclusion, risk of bias and data extraction by an external translator and another author. We used GRADE to evaluate the certainty of the evidence.\n\nMain results\nWe included 17 studies (1897 participants). Of these, eight studies could be included in a meta‐analysis.\nThe route, timing and target of nutritional support varied widely between studies. Enteral feeding (jejunostomy, nasojejunal or gastrojejunostomy) was used in at least 13 studies (one study did not specify the method of enteral route), parenteral nutrition (PN) was used in at least 10 studies (two studies had a control of 'surgeon's preference' and no further details were given) and oral intake was used in seven studies.\nOverall, the evidence presented in this review is of low to very low certainty.\nFour studies compared jejunostomy feeding with total parenteral nutrition. When we pooled these four studies, the evidence demonstrated that jejunostomy likely results in a reduced length of hospital stay (mean difference (MD) ‐1.61 days, 95% confidence interval (CI) ‐2.31 to ‐0.92; 3 studies, 316 participants; moderate‐certainty evidence). The evidence suggested that there may be no difference in postoperative pancreatic fistula (risk ratio (RR) 0.77, 95% CI 0.41 to 1.47; 4 studies, 346 participants; low‐certainty evidence) and that there may be no difference in delayed gastric emptying (RR 0.38, 95% CI 0.04 to 3.50; 2 studies, 270 participants; very low‐certainty evidence) or post pancreatectomy haemorrhage (RR 0.36, 95% CI 0.06 to 2.29; 2 studies, 270 participants; very low‐certainty evidence), but the evidence is uncertain. There were no data for major and minor complications defined by the Clavien‐Dindo classification.\nTwo studies compared nasojejunal feeding with total parenteral nutrition. When the two studies were pooled, the evidence suggested that there may be little to no difference between nasojejunal feeding and TPN in the length of hospital stay (MD 1.07 days, 95% CI ‐2.64 to 4.79; 2 studies, 242 participants; low‐certainty evidence), delayed gastric emptying (RR 1.26, 95% CI 0.83 to 1.91; 2 studies, 242 participants; low‐certainty evidence) or post pancreatectomy haemorrhage (RR 1.00, 95% CI 0.62 to 1.62; 2 studies, 242 participants; low‐certainty evidence). TPN may slightly improve rates of clinically relevant postoperative pancreatic fistula (RR 2.13, 95% CI 1.21 to 3.74; 2 studies, 242 participants; low‐certainty evidence). One study reported on major complications (RR 1.27, 95% CI 0.83 to 1.94; very low‐certainty evidence) and minor complications (RR 1.01, 95% CI 0.68 to 1.50; 204 participants; very low‐certainty evidence) defined by the Clavien‐Dindo classification and there may be little to no difference in effect, but the evidence is uncertain.\nTwo studies compared jejunostomy feeding with oral intake. Of note, one of the studies used a modified surgical technique as part of the intervention. We pooled these studies and found that there may be little to no difference in the length of hospital stay (MD ‐1.99 days, 95% CI ‐4.90 to 0.91; 2 studies, 301 participants; very low‐certainty evidence) or delayed gastric emptying (RR 0.98, 95% CI 0.33 to 2.88; 2 studies, 307 participants; very low‐certainty evidence). One study reported on major complications (RR 1.01, 95% CI 0.44 to 2.34; 247 participants; very low‐certainty evidence) and minor complications (RR 0.83, 95% CI 0.59 to 1.15; 247 participants; very low‐certainty evidence) defined by the Clavien‐Dindo classification, postoperative pancreatic fistula (RR 0.86, 95% CI 0.30 to 2.50; 247 participants; very low‐certainty evidence) and post pancreatectomy haemorrhage (RR 2.02, 95% CI 0.52 to 7.88; 247 participants; very low‐certainty evidence) and there may be little to no difference in effect on these outcomes, but the evidence is uncertain.\nNo difference in mortality was detected in any of the analyses (Clavien‐Dindo Grade V) (very low‐certainty evidence).\n\nAuthors' conclusions\nWhen compared with parenteral nutrition, enteral nutrition by jejunostomy likely results in a decreased length of hospital stay and may lead to no difference in the incidence of postoperative complications. When compared with parenteral nutrition, enteral feeding by nasojejunal tube may result in no difference in the incidence of postoperative complications or length of hospital stay. When compared with oral nutrition, enteral nutrition by jejunostomy feeding may result in no difference in the incidence of postoperative complications or length of hospital stay, but the evidence is very uncertain.\nFurther high‐quality research is required and there are several ongoing studies. Given the number of different nutritional interventions available in the postoperative setting, a network meta‐analysis would be more appropriate in future."
+          },
+          "webhookUrl": "http://localhost:5678/webhook-test/b38ce007-17ed-4b4a-b8a8-f1bf8bd71262",
+          "executionMode": "test"
+        }
+      }
+    ],
+    "Plain Titles Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"plain_language_title\": \"What is the best way to provide nutrition for adults after surgery to remove part of the pancreas (a Whipple procedure)?\"\n}\n```"
+        }
+      }
+    ],
+    "Plain Titles Agent": [
+      {
+        "json": {
+          "output": {
+            "plain_language_title": "What is the best way to provide nutrition for adults after surgery to remove part of the pancreas (a Whipple procedure)?"
+          }
+        }
+      }
+    ],
+    "Key messages Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"key_messages\": [\n    \"After surgery to remove part of the pancreas (a Whipple procedure), feeding through a tube placed into the small intestine during the operation may shorten the time spent in the hospital compared to feeding into a vein. The evidence is unclear whether the way a person is fed affects the risk of major unwanted effects after surgery.\",\n    \"Due to the limited and uncertain evidence, more good-quality studies are needed. Future research should compare all the different ways of feeding patients after this type of surgery to better understand their benefits and potential harms.\"\n  ]\n}\n```"
+        }
+      }
+    ],
+    "Key messages Agent": [
+      {
+        "json": {
+          "output": {
+            "key_messages": [
+              "After surgery to remove part of the pancreas (a Whipple procedure), feeding through a tube placed into the small intestine during the operation may shorten the time spent in the hospital compared to feeding into a vein. The evidence is unclear whether the way a person is fed affects the risk of major unwanted effects after surgery.",
+              "Due to the limited and uncertain evidence, more good-quality studies are needed. Future research should compare all the different ways of feeding patients after this type of surgery to better understand their benefits and potential harms."
+            ]
+          }
+        }
+      }
+    ],
+    "Methods Summarizer Agent": [
+      {
+        "json": {
+          "output": [
+            {
+              "subheading": "Study Identification",
+              "content": "We searched for studies called randomised controlled trials (where people are randomly put into different treatment groups) that compared different ways of providing nutrition to adults after major pancreas surgery."
+            },
+            {
+              "subheading": "Data Synthesis and Confidence Assessment",
+              "content": "We then combined the results and rated our confidence in the evidence."
+            }
+          ]
+        }
+      }
+    ],
+    "Methods Summarizer Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"methods_section\": \"We searched for studies called randomised controlled trials (where people are randomly put into different treatment groups) that compared different ways of providing nutrition to adults after major pancreas surgery. We then combined the results and rated our confidence in the evidence.\"\n}\n```"
+        }
+      }
+    ],
+    "Background Writer Agent": [
+      {
+        "json": {
+          "output": [
+            {
+              "subheading": "What is a pancreaticoduodenectomy and why is nutrition a challenge afterwards?",
+              "content": "A pancreaticoduodenectomy, also known as a Whipple procedure, is a major operation to remove the head of the pancreas. It is most often performed to treat cancer, but also for non-cancerous tumours or long-term inflammation of the pancreas. This surgery significantly changes the digestive system, making it difficult for patients to eat normally and absorb nutrients. Poor nutrition (malnutrition) is a common risk after this operation and can lead to more complications and a slower recovery. To help with recovery, patients are given nutritional support in different ways. Some may start with food by mouth. Others may receive liquid food through a tube that goes into the stomach or intestine (enteral feeding, or 'tube feeding'). Another method is to provide nutrition directly into the bloodstream through a vein (parenteral nutrition, or 'intravenous feeding')."
+            },
+            {
+              "subheading": "What did we want to find out?",
+              "content": "We wanted to find out how these different ways of providing nutrition after a pancreaticoduodenectomy affect a person's recovery. We wanted to compare the effects of different nutritional support strategies on postoperative complications and recovery time."
+            }
+          ]
+        }
+      }
+    ],
+    "Background Writer Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"introduction_sections\": [\n    {\n      \"subheading\": \"What is a pancreaticoduodenectomy and why is nutrition a challenge afterwards?\",\n      \"content\": \"A pancreaticoduodenectomy, also known as a Whipple procedure, is a major operation to remove the head of the pancreas. It is most often performed to treat cancer, but also for non-cancerous tumours or long-term inflammation of the pancreas. This surgery significantly changes the digestive system, making it difficult for patients to eat normally and absorb nutrients. Poor nutrition (malnutrition) is a common risk after this operation and can lead to more complications and a slower recovery. To help with recovery, patients are given nutritional support in different ways. Some may start with food by mouth. Others may receive liquid food through a tube that goes into the stomach or intestine (enteral feeding, or 'tube feeding'). Another method is to provide nutrition directly into the bloodstream through a vein (parenteral nutrition, or 'intravenous feeding').\"\n    },\n    {\n      \"subheading\": \"What did we want to find out?\",\n      \"content\": \"We wanted to find out how these different ways of providing nutrition after a pancreaticoduodenectomy affect a person's recovery. We wanted to compare the effects of different nutritional support strategies on postoperative complications and recovery time.\"\n    }\n  ]\n}\n```"
+        }
+      }
+    ],
+    "Characteristics Writer Agent": [
+      {
+        "json": {
+          "output": {
+            "characteristics_summary": "The review included 17 studies with a total of 1897 adult participants who had undergone a pancreaticoduodenectomy. The studies compared different postoperative nutritional support strategies. The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition, nasojejunal feeding versus total parenteral nutrition, and jejunostomy feeding versus oral intake."
+          }
+        }
+      }
+    ],
+    "Findings Writer Agent": [
+      {
+        "json": {
+          "output": {
+            "findings_summary": "Compared to giving nutrition through a vein, giving nutrition through a tube into the small intestine (jejunostomy) probably reduces how long people stay in the hospital. It may make little to no difference to the rate of complications after surgery.\n\nCompared to giving nutrition through a vein, giving nutrition through a tube in the nose (nasojejunal feeding) may make little to no difference to the length of hospital stay or the rate of most complications. However, it may slightly increase the risk of a specific complication where digestive fluid leaks from the pancreas.\n\nCompared to eating and drinking, giving nutrition through a tube into the small intestine may have little to no effect on the length of hospital stay or the rate of complications, but we are very uncertain about these results."
+          }
+        }
+      }
+    ],
+    "Results Manager Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"sections\": [\n    {\n      \"subheading\": \"What did we find?\",\n      \"content\": \"The review included 17 studies with a total of 1897 adult participants who had undergone a pancreaticoduodenectomy. The studies compared different postoperative nutritional support strategies. The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition, nasojejunal feeding versus total parenteral nutrition, and jejunostomy feeding versus oral intake.\"\n    },\n    {\n      \"subheading\": \"Main results: Comparing different ways of feeding after surgery\",\n      \"content\": \"Compared to giving nutrition through a vein, giving nutrition through a tube into the small intestine (jejunostomy) probably reduces how long people stay in the hospital. It may make little to no difference to the rate of complications after surgery.\\n\\nCompared to giving nutrition through a vein, giving nutrition through a tube in the nose (nasojejunal feeding) may make little to no difference to the length of hospital stay or the rate of most complications. However, it may slightly increase the risk of a specific complication where digestive fluid leaks from the pancreas.\\n\\nCompared to eating and drinking, giving nutrition through a tube into the small intestine may have little to no effect on the length of hospital stay or the rate of complications, but we are very uncertain about these results.\"\n    }\n  ]\n}\n```"
+        }
+      }
+    ],
+    "Results Manager Agent": [
+      {
+        "json": {
+          "output": [
+            {
+              "subheading": "What did we find?",
+              "content": "The review included 17 studies with a total of 1897 adult participants who had undergone a pancreaticoduodenectomy. The studies compared different postoperative nutritional support strategies. The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition, nasojejunal feeding versus total parenteral nutrition, and jejunostomy feeding versus oral intake."
+            },
+            {
+              "subheading": "Main results: Comparing different ways of feeding after surgery",
+              "content": "Compared to giving nutrition through a vein, giving nutrition through a tube into the small intestine (jejunostomy) probably reduces how long people stay in the hospital. It may make little to no difference to the rate of complications after surgery.\n\nCompared to giving nutrition through a vein, giving nutrition through a tube in the nose (nasojejunal feeding) may make little to no difference to the length of hospital stay or the rate of most complications. However, it may slightly increase the risk of a specific complication where digestive fluid leaks from the pancreas.\n\nCompared to eating and drinking, giving nutrition through a tube into the small intestine may have little to no effect on the length of hospital stay or the rate of complications, but we are very uncertain about these results."
+            }
+          ]
+        }
+      }
+    ],
+    "Limitations Agent": [
+      {
+        "json": {
+          "output": {
+            "limitations_of_evidence": "We are not confident in the evidence because the studies used different ways of delivering the nutritional support, and there are not enough studies to be certain about the results."
+          }
+        }
+      }
+    ],
+    "Limitations Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"limitations_of_evidence\": \"We are not confident in the evidence because the studies used different ways of delivering the nutritional support, and there are not enough studies to be certain about the results.\"\n}\n```"
+        }
+      }
+    ],
+    "Date Extraction Agent (Raw)": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"evidence_currency_statement\": \"The evidence is up to date to October 2022 of search.\"\n}\n```"
+        }
+      }
+    ],
+    "Date Extraction Agent": [
+      {
+        "json": {
+          "output": {
+            "evidence_currency_statement": "The evidence is up to date to October 2022 of search."
+          }
+        }
+      }
+    ],
+    "Merge Outputs Agents": [
+      {
+        "json": {
+          "output": {
+            "key_messages": [
+              "After surgery to remove part of the pancreas (a Whipple procedure), feeding through a tube placed into the small intestine during the operation may shorten the time spent in the hospital compared to feeding into a vein. The evidence is unclear whether the way a person is fed affects the risk of major unwanted effects after surgery.",
+              "Due to the limited and uncertain evidence, more good-quality studies are needed. Future research should compare all the different ways of feeding patients after this type of surgery to better understand their benefits and potential harms."
+            ]
+          }
+        }
+      },
+      {
+        "json": {
+          "output": [
+            {
+              "subheading": "Study Identification",
+              "content": "We searched for studies called randomised controlled trials (where people are randomly put into different treatment groups) that compared different ways of providing nutrition to adults after major pancreas surgery."
+            },
+            {
+              "subheading": "Data Synthesis and Confidence Assessment",
+              "content": "We then combined the results and rated our confidence in the evidence."
+            }
+          ]
+        }
+      },
+      {
+        "json": {
+          "output": [
+            {
+              "subheading": "What did we find?",
+              "content": "The review included 17 studies with a total of 1897 adult participants who had undergone a pancreaticoduodenectomy. The studies compared different postoperative nutritional support strategies. The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition, nasojejunal feeding versus total parenteral nutrition, and jejunostomy feeding versus oral intake."
+            },
+            {
+              "subheading": "Main results: Comparing different ways of feeding after surgery",
+              "content": "Compared to giving nutrition through a vein, giving nutrition through a tube into the small intestine (jejunostomy) probably reduces how long people stay in the hospital. It may make little to no difference to the rate of complications after surgery.\n\nCompared to giving nutrition through a vein, giving nutrition through a tube in the nose (nasojejunal feeding) may make little to no difference to the length of hospital stay or the rate of most complications. However, it may slightly increase the risk of a specific complication where digestive fluid leaks from the pancreas.\n\nCompared to eating and drinking, giving nutrition through a tube into the small intestine may have little to no effect on the length of hospital stay or the rate of complications, but we are very uncertain about these results."
+            }
+          ]
+        }
+      },
+      {
+        "json": {
+          "output": {
+            "limitations_of_evidence": "We are not confident in the evidence because the studies used different ways of delivering the nutritional support, and there are not enough studies to be certain about the results."
+          }
+        }
+      },
+      {
+        "json": {
+          "output": {
+            "evidence_currency_statement": "The evidence is up to date to October 2022 of search."
+          }
+        }
+      }
+    ],
+    "Assembly Agent": [
+      {
+        "json": {
+          "output": "What is the best way to provide nutrition for adults after surgery to remove part of the pancreas (a Whipple procedure)?\n\nKey messages\nAfter surgery to remove part of the pancreas (a Whipple procedure), feeding through a tube placed into the small intestine during the operation may shorten the time spent in the hospital compared to feeding into a vein. The evidence is unclear whether the way a person is fed affects the risk of major unwanted effects after surgery.\nDue to the limited and uncertain evidence, more good-quality studies are needed. Future research should compare all the different ways of feeding patients after this type of surgery to better understand their benefits and potential harms.\n\nIntroduction/Aims\nWhat is a pancreaticoduodenectomy and why is nutrition a challenge afterwards?\nA pancreaticoduodenectomy, also known as a Whipple procedure, is a major operation to remove the head of the pancreas. It is most often performed to treat cancer, but also for non-cancerous tumours or long-term inflammation of the pancreas. This surgery significantly changes the digestive system, making it difficult for patients to eat normally and absorb nutrients. Poor nutrition (malnutrition) is a common risk after this operation and can lead to more complications and a slower recovery. To help with recovery, patients are given nutritional support in different ways. Some may start with food by mouth. Others may receive liquid food through a tube that goes into the stomach or intestine (enteral feeding, or 'tube feeding'). Another method is to provide nutrition directly into the bloodstream through a vein (parenteral nutrition, or 'intravenous feeding').\nWhat did we want to find out?\nWe wanted to find out how these different ways of providing nutrition after a pancreaticoduodenectomy affect a person's recovery. We wanted to compare the effects of different nutritional support strategies on postoperative complications and recovery time.\n\nMethods\nWe searched for studies called randomised controlled trials (where people are randomly put into different treatment groups) that compared different ways of providing nutrition to adults after major pancreas surgery. We then combined the results and rated our confidence in the evidence.\n\nResults\nThe review included 17 studies with a total of 1897 adult participants who had undergone a pancreaticoduodenectomy. The studies compared different postoperative nutritional support strategies. The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition, nasojejunal feeding versus total parenteral nutrition, and jejunostomy feeding versus oral intake.\nCompared to giving nutrition through a vein, giving nutrition through a tube into the small intestine (jejunostomy) probably reduces how long people stay in the hospital. It may make little to no difference to the rate of complications after surgery.\nCompared to giving nutrition through a vein, giving nutrition through a tube in the nose (nasojejunal feeding) may make little to no difference to the length of hospital stay or the rate of most complications. However, it may slightly increase the risk of a specific complication where digestive fluid leaks from the pancreas.\nCompared to eating and drinking, giving nutrition through a tube into the small intestine may have little to no effect on the length of hospital stay or the rate of complications, but we are very uncertain about these results.\n\nLimitations\nWe are not confident in the evidence because the studies used different ways of delivering the nutritional support, and there are not enough studies to be certain about the results.\n\nCurrency\nThe evidence is up to date to October 2022 of search."
+        }
+      }
+    ],
+    "Evaluator Agent": [
+      {
+        "json": {
+          "output": "```json\n{\n  \"grade\": \"NOT_APPROVED\",\n  \"feedback\": \"This draft is factually accurate and well-structured, but it does not meet the standard for plain language. The primary issue is the high density of technical vocabulary and complex, noun-heavy sentence structures that make it difficult for a lay audience to read and understand. The Methods and Results sections are also missing the required question-based subheadings, which harms readability.\\n\\nHere are the top 3 improvements needed:\\n\\n1. **Simplify Complex Language and Technical Terms:** The text uses many long words and medical terms without sufficient explanation, making it hard to follow. This is especially true in the introduction and results.\\n   - **Problematic sentence:** \\\"A pancreaticoduodenectomy, also known as a Whipple procedure, is a major operation to remove the head of the pancreas. It is most often performed to treat cancer, but also for non-cancerous tumours or long-term inflammation of the pancreas.\\\"\\n   - **Reasoning:** This sentence is front-loaded with difficult terms ('pancreaticoduodenectomy', 'non-cancerous tumours', 'inflammation'), which can overwhelm a reader from the start.\\n   - **Suggested rewrite:** \\\"To treat cancer or other conditions, doctors may perform a major surgery to remove the head of the pancreas. This operation is called a pancreaticoduodenectomy, or a Whipple procedure.\\\"\\n\\n2. **Use Active Verbs Instead of Noun Phrases (Nominalizations):** The draft frequently uses formal, noun-based phrases instead of direct verbs. This makes the text feel abstract and less engaging, violating the style guide's directive to use direct verbs.\\n   - **Problematic sentence:** \\\"The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition...\\\"\\n   - **Reasoning:** Phrases like \\\"interventions assessed\\\" and \\\"specific comparisons included\\\" are passive and overly formal. \\n   - **Suggested rewrite:** \\\"We looked at studies that compared different ways of feeding people after surgery. These included feeding through a tube (enteral feeding), feeding directly into a vein (parenteral nutrition), and eating normally by mouth.\\\"\\n\\n3. **Add Required Subheadings:** The Methods and Results sections are missing the question-based subheadings required by the style guide. This creates large, intimidating blocks of text without clear signposting for the reader.\\n   - **Problematic section:** The entire 'Methods' and 'Results' paragraphs lack subheadings.\\n   - **Reasoning:** Subheadings break up the text and help readers find information quickly.\\n   - **Suggested fix:** \\n     - Before the 'Methods' paragraph, add a subheading like: `How did we conduct this review?`\\n     - Before the first 'Results' paragraph, add: `What did we find?`\\n     - Before the bulleted list of findings, add: `What were the main results?`\",\n  \"pls_evaluation_summary\": \"The PLS evaluation shows moderate conformity with typical patterns, with 38.9% of features in the best quartile. However, there is significant deviation in key areas related to vocabulary and style. Six metrics fall into the P90 or BEYOND_P90 range, indicating higher-than-typical complexity. The most critical deviations are in `nominalization` (BEYOND_P90), `long_words` (BEYOND_P90), `complex_words` (P90), and the `smog_index` (P90). These metrics confirm the editorial finding that the draft relies heavily on technical vocabulary, long words, and noun-based phrases, which reduces readability for a lay audience.\"\n}\n```"
+        }
+      }
+    ],
+    "Evaluator Parser": [
+      {
+        "json": {
+          "output": {
+            "grade": "NOT_APPROVED",
+            "feedback": "This draft is factually accurate and well-structured, but it does not meet the standard for plain language. The primary issue is the high density of technical vocabulary and complex, noun-heavy sentence structures that make it difficult for a lay audience to read and understand. The Methods and Results sections are also missing the required question-based subheadings, which harms readability.\n\nHere are the top 3 improvements needed:\n\n1. **Simplify Complex Language and Technical Terms:** The text uses many long words and medical terms without sufficient explanation, making it hard to follow. This is especially true in the introduction and results.\n   - **Problematic sentence:** \\\"A pancreaticoduodenectomy, also known as a Whipple procedure, is a major operation to remove the head of the pancreas. It is most often performed to treat cancer, but also for non-cancerous tumours or long-term inflammation of the pancreas.\\\"\n   - **Reasoning:** This sentence is front-loaded with difficult terms ('pancreaticoduodenectomy', 'non-cancerous tumours', 'inflammation'), which can overwhelm a reader from the start.\n   - **Suggested rewrite:** \\\"To treat cancer or other conditions, doctors may perform a major surgery to remove the head of the pancreas. This operation is called a pancreaticoduodenectomy, or a Whipple procedure.\\\"\n\n2. **Use Active Verbs Instead of Noun Phrases (Nominalizations):** The draft frequently uses formal, noun-based phrases instead of direct verbs. This makes the text feel abstract and less engaging, violating the style guide's directive to use direct verbs.\n   - **Problematic sentence:** \\\"The main interventions assessed were enteral feeding (via jejunostomy or nasojejunal tube), parenteral nutrition, and oral intake. Specific comparisons included jejunostomy feeding versus total parenteral nutrition...\\\"\n   - **Reasoning:** Phrases like \\\"interventions assessed\\\" and \\\"specific comparisons included\\\" are passive and overly formal. \n   - **Suggested rewrite:** \\\"We looked at studies that compared different ways of feeding people after surgery. These included feeding through a tube (enteral feeding), feeding directly into a vein (parenteral nutrition), and eating normally by mouth.\\\"\n\n3. **Add Required Subheadings:** The Methods and Results sections are missing the question-based subheadings required by the style guide. This creates large, intimidating blocks of text without clear signposting for the reader.\n   - **Problematic section:** The entire 'Methods' and 'Results' paragraphs lack subheadings.\n   - **Reasoning:** Subheadings break up the text and help readers find information quickly.\n   - **Suggested fix:** \n     - Before the 'Methods' paragraph, add a subheading like: `How did we conduct this review?`\n     - Before the first 'Results' paragraph, add: `What did we find?`\n     - Before the bulleted list of findings, add: `What were the main results?`",
+            "pls_evaluation_summary": "The PLS evaluation shows moderate conformity with typical patterns, with 38.9% of features in the best quartile. However, there is significant deviation in key areas related to vocabulary and style. Six metrics fall into the P90 or BEYOND_P90 range, indicating higher-than-typical complexity. The most critical deviations are in `nominalization` (BEYOND_P90), `long_words` (BEYOND_P90), `complex_words` (P90), and the `smog_index` (P90). These metrics confirm the editorial finding that the draft relies heavily on technical vocabulary, long words, and noun-based phrases, which reduces readability for a lay audience."
+          }
+        }
+      }
+    ],
+    "Get Metrics First Draft": [
+      {
+        "json": {
+          "evaluation": "Word count: 612 ✓ WITHIN LIMIT (≤850 words)\nSentences: 30\n\nMETRIC EVALUATION:\nflesch_reading_ease            ↑ =    37.94 → P25\ndale_chall_readability         ↓ =     7.02 → P25\npassive_voice                  ↓ =    18.00 → P75\nactive_voice                   ↑ =    52.00 → P75\npronouns                       ↑ =    21.00 → P75\ncoleman_liau_index             ↓ =    13.11 → P75\nlix                            ↓ =    54.71 → P75\nwords_per_sentence             ↓ =    20.40 → P50\nflesch_kincaid_grade           ↓ =    13.04 → P50\nautomated_readability_index    ↓ =    13.09 → P50\ngunning_fog_index              ↓ =    16.72 → P50\nrix                            ↓ =     7.00 → P50\nnouns                          ↓ =   176.00 → P90\nsmog_index                     ↓ =    14.79 → P90\ncomplex_words_dc               ↓ =   233.00 → P90\ncomplex_words                  ↓ =   131.00 → P90\nnominalization                 ↓ =    31.00 → BEYOND_P90\nlong_words                     ↓ =   210.00 → BEYOND_P90\n\nSTATISTICAL CONFORMITY SUMMARY:\n\nPercentile ranges (proportion of corpus):\n  Best quartile (P25/P75):   7 features (38.9%)\n  Median (P50):              5 features (27.8%)\n  P90 range:                 4 features (22.2%)\n  Beyond P90:                2 features (11.1%)\n\nOverall Pattern Conformity: MODERATE CONFORMITY WITH PLS PATTERNS\nBest Quartile Rate: 38.9%\n\nPATTERN DEVIATION ANALYSIS\nFeatures deviating from typical PLS patterns (6 features):\n   1. nominalization: Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)\n   2. nouns: Deviates from typical PLS patterns. Consider reducing from 176.0 to <116.0 (median)\n   3. smog_index: Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)\n   4. complex_words_dc: Deviates from typical PLS patterns. Consider reducing from 233.0 to <160.0 (median)\n   5. complex_words: Deviates from typical PLS patterns. Consider reducing from 131.0 to <84.0 (median)\n   6. long_words: Deviates from typical PLS patterns. Consider reducing from 210.0 to <122.0 (median)"
+        }
+      }
+    ],
+    "Save Sections": [
+      {
+        "json": {
+          "status": "success",
+          "message": "Summary saved successfully",
+          "id": "CD014792.PUB2",
+          "file_path": "/Users/feliperussi/Documents/projects/TSAR_2025/medical-writing/api/data/generated_summaries/gemini-2.5-pro/CD014792.PUB2/sections.json"
+        }
+      }
+    ],
+    "Get Metrics JSON First Draft": [
+      {
+        "json": {
+          "linguistic_evaluation": {
+            "words": {
+              "value": 612,
+              "rating": "within_limit",
+              "direction": null,
+              "feedback": null
+            },
+            "sentences": {
+              "value": 30,
+              "rating": "info",
+              "direction": null,
+              "feedback": null
+            },
+            "words_per_sentence": {
+              "value": 20.4,
+              "rating": "P50",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "passive_voice": {
+              "value": 18,
+              "rating": "P75",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "active_voice": {
+              "value": 52,
+              "rating": "P75",
+              "direction": "higher_better",
+              "feedback": null
+            },
+            "pronouns": {
+              "value": 21,
+              "rating": "P75",
+              "direction": "higher_better",
+              "feedback": null
+            },
+            "nominalization": {
+              "value": 31,
+              "rating": "BEYOND_P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+            },
+            "nouns": {
+              "value": 176,
+              "rating": "P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <116.0 (median)"
+            },
+            "flesch_reading_ease": {
+              "value": 37.94076470588237,
+              "rating": "P25",
+              "direction": "higher_better",
+              "feedback": null
+            },
+            "flesch_kincaid_grade": {
+              "value": 13.035281045751635,
+              "rating": "P50",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "automated_readability_index": {
+              "value": 13.089607843137252,
+              "rating": "P50",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "coleman_liau_index": {
+              "value": 13.10980392156863,
+              "rating": "P75",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "gunning_fog_index": {
+              "value": 16.722091503267972,
+              "rating": "P50",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "lix": {
+              "value": 54.713725490196076,
+              "rating": "P75",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "rix": {
+              "value": 7,
+              "rating": "P50",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "smog_index": {
+              "value": 14.789826122551595,
+              "rating": "P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)"
+            },
+            "dale_chall_readability": {
+              "value": 7.023392287581698,
+              "rating": "P25",
+              "direction": "lower_better",
+              "feedback": null
+            },
+            "complex_words_dc": {
+              "value": 233,
+              "rating": "P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <160.0 (median)"
+            },
+            "complex_words": {
+              "value": 131,
+              "rating": "P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 131.0 to <84.0 (median)"
+            },
+            "long_words": {
+              "value": 210,
+              "rating": "BEYOND_P90",
+              "direction": "lower_better",
+              "feedback": "Deviates from typical PLS patterns. Consider reducing from 210.0 to <122.0 (median)"
+            }
+          },
+          "word_count_status": {
+            "word_count": 612,
+            "limit": 850,
+            "status": "within_limit",
+            "message": "Word count: 612 ✓ WITHIN LIMIT (≤850 words)"
+          },
+          "summary": {
+            "P25_count": 2,
+            "P50_count": 5,
+            "P75_count": 5,
+            "P90_count": 4,
+            "P10_count": 0,
+            "BEYOND_P90_count": 2,
+            "BELOW_P10_count": 0,
+            "total_evaluated": 18,
+            "P25_percentage": 11.11111111111111,
+            "P50_percentage": 27.77777777777778,
+            "P75_percentage": 27.77777777777778,
+            "P90_percentage": 22.22222222222222,
+            "P10_percentage": 0,
+            "BEYOND_P90_percentage": 11.11111111111111,
+            "BELOW_P10_percentage": 0,
+            "best_quartile_rate": 38.88888888888889,
+            "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+          }
+        }
+      }
+    ],
+    "Save First Draft and Evaluation": [
+      {
+        "json": {
+          "status": "success",
+          "message": "Draft 1 saved successfully",
+          "id": "CD014792.PUB2",
+          "draft_number": 1,
+          "file_path": "/Users/feliperussi/Documents/projects/TSAR_2025/medical-writing/api/data/generated_summaries/gemini-2.5-pro/CD014792.PUB2/draft_1.json"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Structured Output Parser8": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Date Extraction Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser3": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Methods Summarizer Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser4": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Results Manager Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser2": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Background Writer Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Plain Titles Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge Outputs Agents": {
+      "main": [
+        [
+          {
+            "node": "Assembly Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Plain Titles Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Plain Titles Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Plain Titles Agent": {
+      "main": [
+        [
+          {
+            "node": "Key messages Agent (Raw)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Key messages Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Key messages Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Key messages Agent": {
+      "main": [
+        [
+          {
+            "node": "Merge Outputs Agents",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser1": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Key messages Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Background Writer Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Background Writer Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Background Writer Agent": {
+      "main": [
+        [
+          {
+            "node": "Methods Summarizer Agent (Raw)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Methods Summarizer Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Methods Summarizer Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Methods Summarizer Agent": {
+      "main": [
+        [
+          {
+            "node": "Merge Outputs Agents",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Results Manager Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Results Manager Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Results Manager Agent": {
+      "main": [
+        [
+          {
+            "node": "Merge Outputs Agents",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "Limitations Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Limitations Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser7": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Limitations Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Date Extraction Agent (Raw)": {
+      "main": [
+        [
+          {
+            "node": "Date Extraction Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Limitations Agent": {
+      "main": [
+        [
+          {
+            "node": "Merge Outputs Agents",
+            "type": "main",
+            "index": 3
+          }
+        ]
+      ]
+    },
+    "Date Extraction Agent": {
+      "main": [
+        [
+          {
+            "node": "Merge Outputs Agents",
+            "type": "main",
+            "index": 4
+          }
+        ]
+      ]
+    },
+    "Assembly Agent": {
+      "main": [
+        [
+          {
+            "node": "Save Sections",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check evaluation": {
+      "main": [
+        [
+          {
+            "node": "Return first text",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Get Last Draft and Evaluation1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save First Draft and Evaluation": {
+      "main": [
+        [
+          {
+            "node": "Check evaluation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save Sections": {
+      "main": [
+        [
+          {
+            "node": "Get Metrics JSON First Draft",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Input": {
+      "main": [
+        [
+          {
+            "node": "Plain Titles Agent (Raw)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Background Writer Agent (Raw)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Limitations Agent (Raw)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Date Extraction Agent (Raw)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Characteristics Writer Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Evaluator Agent": {
+      "main": [
+        [
+          {
+            "node": "Evaluator Parser",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Metrics JSON First Draft": {
+      "main": [
+        [
+          {
+            "node": "Get Metrics First Draft",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Metrics First Draft": {
+      "main": [
+        [
+          {
+            "node": "Evaluator Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think": {
+      "ai_tool": [
+        [
+          {
+            "node": "Results Manager Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think1": {
+      "ai_tool": [
+        [
+          {
+            "node": "Background Writer Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think2": {
+      "ai_tool": [
+        [
+          {
+            "node": "Methods Summarizer Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think3": {
+      "ai_tool": [
+        [
+          {
+            "node": "Plain Titles Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think4": {
+      "ai_tool": [
+        [
+          {
+            "node": "Key messages Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think5": {
+      "ai_tool": [
+        [
+          {
+            "node": "Limitations Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think6": {
+      "ai_tool": [
+        [
+          {
+            "node": "Date Extraction Agent (Raw)",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think9": {
+      "ai_tool": [
+        [
+          {
+            "node": "Evaluator Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Findings Writer Agent": {
+      "main": [
+        [
+          {
+            "node": "Results Manager Agent (Raw)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think7": {
+      "ai_tool": [
+        [
+          {
+            "node": "Characteristics Writer Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think8": {
+      "ai_tool": [
+        [
+          {
+            "node": "Findings Writer Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Characteristics Writer Agent": {
+      "main": [
+        [
+          {
+            "node": "Findings Writer Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser5": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Characteristics Writer Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser6": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Findings Writer Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Evaluator Parser": {
+      "main": [
+        [
+          {
+            "node": "Save First Draft and Evaluation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser12": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Evaluator Parser",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Plain Titles Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B1": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Background Writer Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B2": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Methods Summarizer Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B3": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Key messages Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B4": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Characteristics Writer Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B5": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Findings Writer Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B6": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Results Manager Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B7": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Limitations Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B8": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Date Extraction Agent (Raw)",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B9": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Assembly Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Re Editor Parser": {
+      "main": [
+        [
+          {
+            "node": "Get Metrics JSON Last Draft",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Last Draft and Evaluation1": {
+      "main": [
+        [
+          {
+            "node": "Re Editor Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser13": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "Re Evaluator Parser",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think12": {
+      "ai_tool": [
+        [
+          {
+            "node": "Re Editor Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think13": {
+      "ai_tool": [
+        [
+          {
+            "node": "Re Evaluator Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Re Editor Agent": {
+      "main": [
+        [
+          {
+            "node": "Re Editor Parser",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Metrics JSON Last Draft": {
+      "main": [
+        [
+          {
+            "node": "Get Metrics Last Draft",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Metrics Last Draft": {
+      "main": [
+        [
+          {
+            "node": "Re Evaluator Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Re Evaluator Agent": {
+      "main": [
+        [
+          {
+            "node": "Re Evaluator Parser",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Re Evaluator Parser": {
+      "main": [
+        [
+          {
+            "node": "Save Last Draft and Evaluation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save Last Draft and Evaluation": {
+      "main": [
+        [
+          {
+            "node": "Check Last Evaluation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Last Evaluation": {
+      "main": [
+        [
+          {
+            "node": "Return last text",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Check max iterations",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check max iterations": {
+      "main": [
+        [
+          {
+            "node": "Get the best text",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Get Last Draft and Evaluation1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get the best text": {
+      "main": [
+        [
+          {
+            "node": "Return best text",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - Llama 3.3 70B10": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Re Editor Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Plain Titles Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B1": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Key messages Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B2": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Background Writer Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B4": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Methods Summarizer Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model8": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Evaluator Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B5": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Results Manager Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B6": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Limitations Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B7": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Date Extraction Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B8": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Evaluator Parser",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model21": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Re Evaluator Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-120B9": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Re Evaluator Parser",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "419b4049-d714-41ee-a574-c2cd63f7db49",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "68a343dc4fdc0a1aa994538b185d46372a7bfdf2d53434d01cca623f8b5c815a"
+  },
+  "id": "YUAX3moQiOOhxoNp",
+  "tags": []
+}

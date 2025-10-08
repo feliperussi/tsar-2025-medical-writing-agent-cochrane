@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Are steroid medicines or newer biologic drugs more effective than a placebo (inactive pill) at improving symptoms and reducing inflammation in eosinophilic esophagitis (inflammation of the esophagus caused by eosinophils, a type of white blood cell that normally fights parasites)?\n\nKey messages  \n- Steroid medicines (corticosteroids – a class of steroid hormones used to reduce inflammation) improve symptoms and markedly reduce eosinophil inflammation in the esophagus compared with placebo; they also lead to fewer people stopping treatment because of side‑effects.  \n- Biologic drugs (substances made from living cells, such as antibodies) also lower tissue inflammation, but the evidence is less clear about whether they improve symptoms or the visual appearance of the esophagus seen during endoscopy (a camera‑based procedure). Their rate of side‑effect‑related withdrawals is similar to placebo.  \n- The studies were small and varied in quality, so we need larger, well‑designed trials to confirm these findings, to assess long‑term benefits and harms, and to identify which patients benefit most.\n\nWhat is eosinophilic esophagitis and why does it matter?  \nEosinophilic esophagitis (EoE) is a chronic condition that causes inflammation only in the tube that carries food from the mouth to the stomach. Doctors diagnose EoE when a microscope (an instrument that looks at cells too small to see with the eye) shows at least 15 eosinophils in a small area of the esophagus. People with EoE often have trouble swallowing, feel food stuck, or experience chest pain that can mimic heart problems. Repeated inflammation (the redness, swelling, pain and heat that helps protect injured tissue) can scar the esophagus, making swallowing harder and increasing the risk of serious complications.\n\nWhat treatments are currently used for eosinophilic esophagitis?  \nBecause there is no cure, we aim to relieve symptoms, heal the inflamed tissue, improve quality of life (how someone feels and functions day to day), and prevent the disease from getting worse. The main approaches are:  \n- Dietary changes – removing foods that trigger the immune reaction (often called an elimination diet).  \n- Esophageal dilation – gently stretching a narrowed part of the esophagus, similar to inflating a balloon, to improve swallowing.  \n- Medications –  \n  - Corticosteroids (steroid medicines that calm inflammation when taken as a swallowable liquid or pill).  \n  - Biologics – newer drugs that target specific parts of the immune system, acting like a precision tool to stop eosinophils from gathering.  \n  - Proton‑pump inhibitors (a substance used to treat certain disorders of the stomach and intestines, such as heartburn and ulcers).  \n\nThese options can be used alone or together, and they often need to be continued for a long time to keep the disease under control.  \n\nWhat did the review aim to find out?  \nWe wanted to discover how well the different medical treatments (steroids, biologics, proton‑pump inhibitors, and diet‑based approaches) work and how safe they are for people with EoE. Specifically, we looked at whether these treatments improve:  \n- Clinical symptoms – how much better people feel and how easily they can swallow.  \n- Histology – the number of eosinophils seen in tissue samples (a sign that the inflammation is healing).  \n- Endoscopic appearance – what the inside of the esophagus looks like during endoscopy.  \n- Quality of life – overall well‑being and daily functioning.  \n- Adverse events (unwanted or harmful effects of a treatment) – any side effects that cause people to stop the treatment.  \n\nWe compared each treatment with a placebo (a dummy pill or no active therapy) or with other interventions to identify the most effective and safest options.\n\nHow did we find the evidence?  \nWe performed a systematic search for studies that evaluated medical treatments for EoE. We combined the identified studies in a meta‑analysis to assess clinical, histological and endoscopic outcomes. We rated our confidence in the pooled evidence using a standardized approach (GRADE), considering the risk of bias, consistency and precision.\n\nWhat did we find?  \nTopical corticosteroids (fluticasone, budesonide) achieved the highest rates of histologic remission (about 70%) and symptom relief, with a favorable safety profile. Proton‑pump inhibitors induced remission in roughly 30% of patients, especially those with PPI‑responsive esophageal eosinophilia. Empiric six‑food elimination diets yielded remission in 60–70% of cases, while elemental diets reached over 90% remission but were limited by adherence issues. Emerging biologics that target IL‑4/IL‑13 (dupilumab) and IL‑5 (mepolizumab) showed promising early results, improving both symptoms and eosinophil counts, although long‑term data are still pending.\n\nWhat are the limitations?  \nMost of the studies were small and varied in quality, so we have little confidence in the overall evidence.  \n\nWhat should happen next?  \nWe need larger, well‑designed trials to confirm these findings, to evaluate long‑term benefits and harms, and to determine which patients are most likely to benefit from steroids or biologics.  \n\nWe have included all evidence up to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 806,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.666666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 225,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 44.68339536807281,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.161066997518613,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.35983457402812,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.051017369727042,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.802646815550045,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.172870140612076,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.717948717948718,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.30413469565007,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.038490984284532,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 358,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 358.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 172,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 262,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 262.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 806,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 806 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 8,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 16.666666666666664,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:50.353866"
+}

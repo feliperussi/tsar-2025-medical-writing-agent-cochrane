@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "How well do physical measures like masks, hand washing and keeping distance prevent the spread of respiratory viruses (germs that cause colds, flu and COVID‑19)?\n\nKey messages  \n- Wearing a medical or surgical mask (a mask that covers the nose and mouth) in the community does not clearly lower the chance of getting flu‑like or COVID‑like illness, and using an N95/P2 respirator (a tightly fitting mask that filters at least 95 % of particles) instead of a surgical mask adds no clear benefit.  \n- Regular hand hygiene (hand washing) probably reduces overall respiratory infections a little, but its effect on flu‑specific illness is uncertain. Harms (unwanted side effects) were rarely reported.  \n- Many studies had low adherence (people did not follow the instructions) and a high risk of bias (systematic errors that can skew results). Future research should run large, well‑designed randomised controlled trials (RCTs – studies where participants are randomly assigned to groups) that track how consistently‑people use masks and hand washing, record any adverse events, and include diverse population groups.\n\nWhy are acute respiratory infections a worldwide concern?  \nAcute respiratory infections (ARIs) affect the nose, throat, bronchi or lungs and cause cough, sore throat or breathing problems. Outbreaks such as the 2009 H1N1 flu, the 2003 SARS epidemic and the COVID‑19 pandemic have shown that these viruses can cause severe illness, overwhelm hospitals and disrupt daily life. Vaccines and antiviral medicines (drugs that treat viral infections) help, but they are not always enough, especially when a new virus appears. That is why researchers look for physical interventions – measures like masks, distance, hand washing or isolating sick people – to block transmission.\n\nWhat did we set out to discover?  \nWe wanted to know how well different physical interventions work to interrupt or reduce the spread of respiratory viruses. We examined randomised trials that tested screening at entry points, isolation, quarantine (staying away from others), physical distancing (keeping at least 1–2 metres apart), personal protective equipment (PPE – masks, gloves, eye protection), hand washing, and even gargling. Our goal was to see whether these strategies lower the number of people who get flu‑like illness, laboratory‑confirmed influenza (flu proven by a lab test) or COVID‑19, and to identify any harms.\n\nHow did we find the evidence?  \nWe searched electronic databases such as PubMed, Embase and the Cochrane Library for relevant studies. Two reviewers independently screened titles, abstracts and full texts, extracted data on study design, participants, interventions, comparators and outcomes, and resolved disagreements by consensus. We pooled effect estimates using a random‑effects model (a statistical method that combines results from different studies) and assessed certainty with the GRADE framework (a system that rates how confident we are in the evidence). We also examined heterogeneity (differences between studies) using the I² statistic (a number that shows how much results vary).\n\nWhat did we find?  \nThe updated review included 78 randomised trials (including cluster‑RCTs – trials where whole groups such as schools are randomised). Eleven new studies added 610,872 participants, bringing the evidence up to date. Trials were conducted in schools, childcare centres, hospitals, crowded neighbourhoods and households, and involved people of all ages in high‑ and low‑income countries. The physical measures tested were: medical or surgical masks versus no mask, N95/P2 respirators versus medical masks, and hand‑washing programmes versus usual practice or no intervention. No trials were found for gowns and gloves, face shields or screening at entry ports. Most studies reported low adherence and were judged to have a high or unclear risk of bias.\n\nWhat are the main results?  \n- Wearing a medical or surgical mask in the community probably makes little or no difference to the chance of getting an influenza‑like or COVID‑like illness.  \n- Using an N95/P2 respirator instead of a medical mask probably makes little or no difference to the chance of getting laboratory‑confirmed influenza, and the effect on other respiratory illnesses is uncertain.  \n- Practising regular hand hygiene probably reduces the chance of an acute respiratory infection slightly – about 50 fewer cases per 1,000 people (absolute risk reduction). The benefit for influenza‑like illness or laboratory‑confirmed influenza is less certain.\n\nWhat are the limitations of the evidence?  \nWe have low confidence because participants often knew which measure they were using, many studies provided incomplete data, settings and delivery methods varied, and most trials were small with few events. These factors increase the risk of bias and reduce certainty.\n\nHow current is the evidence?  \nThis review updates our previous work and the evidence is current to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 769,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.36111111111111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 83,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 235,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 235.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.17739940037569,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.706763112267016,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.286069209651785,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.5720156046814,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.022988007513366,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.57047391995377,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.666666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.529964086141668,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.513048172229446,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 363,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 363.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 163,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 163.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 240,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 769,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 769 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:51.010550"
+}

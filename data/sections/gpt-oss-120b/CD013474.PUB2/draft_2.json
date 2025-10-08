@@ -1,0 +1,162 @@
+{
+  "id": "CD013474.PUB2",
+  "draft": "Does continuing treatment (maintenance therapy) after initial therapy improve survival or disease control for people with chronic lymphocytic leukaemia (CLL) compared with just observation?\n\nKey messages\n- Maintenance therapy does not appear to increase overall survival, but it does lengthen progression‑free survival, the time before disease gets worse.\n- The evidence mainly comes from anti‑CD20 antibodies (lab‑made proteins that target the CD20 marker on cancer cells) and lenalidomide (a drug that modifies the immune system). Both increase serious side‑effects (grade 3/4 adverse events).\n- No studies have evaluated newer targeted drugs such as BTK inhibitors or BCL‑2 inhibitors, and data on quality of life are limited.\n\nWhat is chronic lymphocytic leukaemia and why might people need ongoing treatment?\nChronic lymphocytic leukaemia (CLL) is the most common adult blood cancer. It occurs when a type of white blood cell called a lymphocyte grows uncontrollably and builds up in the blood, bone marrow and sometimes the spleen. CLL cannot be cured, and each round of standard (induction) therapy tends to shorten the time before the disease returns. Doctors therefore look for ways to keep the disease under control for longer after the first treatment. One approach is maintenance therapy – giving a lower‑dose or different drug after remission to deepen the response and delay relapse. Options include anti‑CD20 monoclonal antibodies (e.g., rituximab, ofatumumab), immunomodulatory drugs such as lenalidomide, anti‑CD52 antibodies (e.g., alemtuzumab) and oral targeted inhibitors (BTK or BCL‑2 inhibitors).\n\nWhat did the review aim to discover about maintenance therapies for CLL?\nWe wanted to know whether maintenance treatments improve important outcomes for people with CLL and whether they are safe. Specifically, we compared maintenance drugs – anti‑CD20 antibodies, immunomodulatory drugs, anti‑CD52 antibodies, BTK inhibitors and BCL‑2 inhibitors – with placebo or observation, and we looked at overall survival (how long people live), progression‑free survival (how long disease stays controlled), health‑related quality of life, serious side‑effects (grade 3/4 adverse events), treatment‑related deaths and treatment discontinuation.\n\nHow did we find and assess the evidence?\nWe searched CENTRAL, MEDLINE, Embase and trial registers in January 2022 for randomised controlled trials that compared any maintenance therapy with observation or another maintenance option. Two reviewers screened studies, extracted data and assessed risk of bias. We used the GRADE approach to rate confidence in the evidence for each outcome.\n\nWhat did we find?\nWe identified 11 randomised trials involving 2,393 people with CLL. Participants were followed for 1 to 6 years. The trials tested three maintenance strategies:\n- Anti‑CD20 antibodies (rituximab or ofatumumab) in seven trials (1,679 participants).\n- Lenalidomide in three trials (693 participants).\n- Alemtuzumab in one very small trial (21 participants).\nWe found that anti‑CD20 maintenance probably does not change overall survival, improves progression‑free survival, and may increase overall and serious side‑effects slightly. Lenalidomide maintenance probably does not change overall survival, produces a large improvement in progression‑free survival, and probably raises serious side‑effects, treatment‑related deaths and overall side‑effects. Evidence for alemtuzumab is very uncertain, and we could not determine its effect on progression‑free survival. No trials evaluated newer targeted agents, and quality‑of‑life data were scarce.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in the evidence because many trials were small, some participants knew which treatment they received, and not all outcomes were reported. The evidence does not cover all patient groups or newer drugs.\n\nHow up‑to‑date is this review?\nThe searches were current to January 2022, so newer studies published after that date are not included.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 593,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.53125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 33,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 183,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 47.216000474283334,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.277322407251265,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.40151032883643,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.022529510961213,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.800358347386176,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.58352655986509,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.125,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.874342087037917,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.694327065767284,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 292,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 292.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 154,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 154.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 196,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 593,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 593 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 4,
+        "P75_count": 4,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the clarity check because it contains three significant issues that could confuse readers:\n1. **Overly long, dense sentence** – \"Specifically, we compared maintenance drugs – anti‑CD20 antibodies, immunomodulatory drugs, anti‑CD52 antibodies, BTK inhibitors and BCL‑2 inhibitors – with placebo or observation, and we looked at overall survival (how long people live), progression‑free survival (how long disease stays controlled), health‑related quality of life, serious side‑effects (grade 3/4 adverse events), treatment‑related deaths and treatment discontinuation.\" This 54‑word sentence packs many concepts and exceeds the recommended 30‑word limit, making it hard to follow. *Rewrite*: \"Specifically, we compared five maintenance drugs – anti‑CD20 antibodies, immunomodulatory drugs, anti‑CD52 antibodies, BTK inhibitors and BCL‑2 inhibitors – with placebo or observation. We examined overall survival (how long people live), progression‑free survival (how long the disease stays controlled), health‑related quality of life, serious side‑effects (grade 3/4 adverse events), treatment‑related deaths and treatment discontinuation.\"\n2. **Ambiguous phrasing of side‑effects** – \"may increase overall and serious side‑effects slightly.\" It is unclear whether ‘overall side‑effects’ and ‘serious side‑effects’ are both increased, or if ‘overall’ modifies the phrase. *Rewrite*: \"may slightly increase both overall side‑effects and serious (grade 3/4) side‑effects.\"\n3. **Redundant and noun‑heavy wording** – \"We found that anti‑CD20 maintenance probably does not change overall survival, improves progression‑free survival, and may increase overall and serious side‑effects slightly.\" The repetition of ‘overall’ and the noun‑heavy construction can confuse readers. *Rewrite*: \"We found that anti‑CD20 maintenance probably does not affect overall survival, does improve progression‑free survival, and may slightly raise both overall side‑effects and serious (grade 3/4) side‑effects.\"\n\nThese issues are reflected in the metric analysis: the draft shows a very high nominalisation count (33, beyond the P90 range) and an excess of nouns (183, also beyond P90), indicating a noun‑heavy style that reduces readability. Reducing nominalisations and simplifying sentences will improve the Flesch‑Reading Ease and lower the SMOG and Dale‑Chall scores, bringing the text closer to typical PLS patterns.\n\nTo achieve approval, the author should rewrite the identified sentences, break long sentences into shorter ones, and replace noun‑heavy constructions with active verbs where possible.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is within the word limit (593 words) and has good active voice (56) and pronoun use (26). However, several metrics deviate markedly: nominalisations (33, BEYOND_P90), nouns (183, P90), SMOG index (14.9, P90), Dale‑Chall readability (8.7, BEYOND_P90), complex words (154, BEYOND_P90) and long words (196, BEYOND_P90). These indicate the text is more noun‑heavy and complex than typical PLS, supporting the need to simplify sentences and reduce technical jargon."
+    }
+  ]
+}

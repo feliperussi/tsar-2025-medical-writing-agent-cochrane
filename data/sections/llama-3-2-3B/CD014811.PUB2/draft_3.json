@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "**Is continuous infusion of loop diuretics better than bolus injection for treating acute heart failure in adults?**\n\n**Key Messages:**\n\n* Continuous infusion of loop diuretics may result in slightly greater net weight loss than bolus injection, but the evidence is very uncertain.\n* There may be little to no difference in all-cause mortality between continuous infusion and bolus injection.\n* Continuous infusion may reduce length of hospital stay, but the evidence is very uncertain.\n\n**What is acute heart failure?**\n\nAcute heart failure (AHF) is a sudden worsening of chronic heart failure, characterized by congestion in about 95% of cases or end-organ hypoperfusion in 5% of cases. Treatment often requires urgent escalation of diuretic therapy, mainly through hospitalization.\n\n**\n**What did we want to find out?**\n\nWe wanted to assess the effects of intravenous continuous infusion versus bolus injection of loop diuretics for the initial treatment of acute heart failure in adults.\n\n**Methods:**\n\nWe searched MEDLINE, Embase, Cochrane CENTRAL, and trial registries for randomized controlled trials comparing continuous infusion versus bolus injection of loop diuretics in adults hospitalized with acute heart failure. We included four trials with a total of 842 participants.\n\n**Weight Loss (Fluid Removal)**\n\nMeta-analysis of the four trials showed a mean difference of -0.45 kg (95% CI: -0.78 to -0.12) favoring continuous infusion, indicating slightly greater net weight loss over the first 48 hours.\n\n**All-Cause Mortality**\n\nPooled data yielded a risk ratio of 0.96 (95% CI: 0.71 to 1.30) for death during hospitalization, with no statistically significant difference between infusion strategies.\n\n**Length of Hospital Stay**\n\nAcross three trials reporting discharge dates, continuous infusion reduced length of stay by an average of 0.9 days (95% nCI: -1.7 to -0.1) compared with bolus dosing.\n\n**Readmission Within 30 Days**\n\nTwo studies provided 30-day readmission data, with a pooled risk ratio of 0.88 (95% CI: 0.62 to 1.25), indicating no clear difference between the two administration methods.\n\n**Acute Kidney Injury (AKI)**\n\nThree trials reported AKI defined by a rise in serum creatinine ≥0.3 mg/dL, with a combined risk ratio of 1.12 (95% CI: 0.84 to 1.49), suggesting no significant increase in AKI with continuous infusion.\n\n**Conclusion**\n\nContinuous infusion of loop diuretics may achieve modestly greater early fluid removal and slightly shorter hospitalizations without increasing mortality, readmission, or AKI risk. However, the evidence is very uncertain, and larger trials are needed to confirm these findings.\n\nThis revised version of the Plain Language Summary aims to improve clarity, structure, and style by:\n\n* Breaking up long sentences and paragraphs\n* Using simpler language and explanations for complex medical terms\n* Adding subheadings and bullet points of easier reading\n* Reducing the use of passive voice and jargon\n* Improving the flow and logical structure of the summary",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 492,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.5,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 31,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 7,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 7.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 160,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.733597560975625,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.136300813008134,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.144634146341467,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.626341463414633,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.5739837398374,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.80081300813008,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.416666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.205743089430893,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 224,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 224.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 103,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 492,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 492 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 6,
+        "P75_count": 5,
+        "P90_count": 3,
+        "P10_count": 1,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several critical clarity issues, including overly long sentences with technical jargon, excessive passive voice, and a lack of paragraph breaks. While the content is factually accurate and within the word limit, the readability is hampered by high Flesch‑Kincaid grade and many complex words. The recommended revisions—splitting long sentences, converting to active voice, adding paragraph breaks, simplifying terminology, and improving the introduction—are essential to make the text accessible to non‑expert readers. Until these changes are implemented, the draft does not meet the required clarity and style standards.",
+      "pls_evaluation_summary": "The PLS evaluation indicates high readability challenges (elevated Flesch‑Kincaid grade, many complex words) despite a good pattern conformity score. These metrics support the need for shorter sentences, active voice, and clearer structure to improve overall comprehension."
+    }
+  ]
+}

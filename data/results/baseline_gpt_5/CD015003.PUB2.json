@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nDoes colchicine (an anti-inflammatory medicine) help prevent first-time heart problems like heart attack or stroke in people without heart disease?\n\nKey Messages\n- We do not know if colchicine helps to prevent heart attacks, strokes, or death in people who have never had heart disease. Diarrhoea was more common with colchicine in some studies, but we are very uncertain about all benefits and harms.\n- The studies were small, used different methods, and many involved people with liver disease rather than the general population. This makes the results hard to apply to most people.\n- Future research should include large, well-designed studies in adults without heart disease, compare colchicine with placebo or usual care, and track heart attacks, strokes, death, and side effects over longer time.\n\nWhat are cardiovascular events and why do they matter?\nCardiovascular events are major heart and blood vessel problems. They include heart attack, stroke, and death from heart disease. Many people want ways to lower their chance of having a first-time event.\n\nWhat is colchicine?\nColchicine is an anti-inflammatory medicine. Anti-inflammatory means it reduces swelling and irritation inside the body. Doctors have used colchicine for a long time to treat gout and other inflammatory problems. We looked at whether it could help prevent first-time heart and blood vessel problems.\n\nWhat did we want to find out?\nWe wanted to find out if taking colchicine helps people without known heart disease avoid heart attacks, strokes, or death. We also wanted to understand its unwanted effects, such as stomach or nerve problems.\n\nWhat did we do?\nWe searched for studies in adults without heart disease that compared colchicine with placebo (a dummy pill), methotrexate (an immunomodulating medicine that affects the immune system), or usual care or no treatment. We summarized the results across studies and judged how much confidence we could have in the findings.\n\nWhat did we find?\nWe found 15 studies that included 1721 people; 1412 people were included in the final analyses. The studies lasted from a few weeks to several years. People took colchicine by mouth. The studies compared colchicine with placebo, methotrexate, or usual care or no treatment. Many studies focused on people with liver disease, even though our aim was to assess effects in the general population. The abstract did not report where the studies took place or who funded them.\n\nMain results\n- Colchicine versus placebo:\n  - It is unclear if colchicine reduces death from any cause or changes the chance of having a non-fatal heart attack or a stroke. We do not know if it affects death from heart disease.\n  - Colchicine may increase diarrhoea, but we are very uncertain about this and other side effects. It is unclear if colchicine affects nerve or brain problems such as seizures or confusion.\n  - It is unclear if colchicine reduces atrial fibrillation (a fast, irregular heartbeat) after heart procedures.\n\n- Colchicine versus methotrexate:\n  - It is unclear if there is any difference in death from any cause. No studies reported heart attacks, strokes, or side effects for this comparison.\n\n- Colchicine versus usual care or no treatment:\n  - It is unclear if colchicine changes death from any cause. Colchicine may increase diarrhoea, but we are very uncertain.\n  - No studies reported heart attacks or strokes for this comparison.\n\nWe did not find studies reporting on some heart-related problems that matter to people, such as fluid around the heart (pericardial effusion), blood vessel disease in the legs (peripheral artery disease), heart failure, or sudden chest pain due to reduced blood flow (unstable angina).\n\nWhat are the limitations of the evidence?\nWe are not confident in the results because many studies had weak methods, and some may have allowed people to know which treatment they were getting. The studies were small and there were not enough studies for many outcomes. Many studies focused on people with liver disease rather than the general population, so the findings may not apply widely. Together, these issues mean we cannot be sure about benefits or harms.\n\nHow up to date is this evidence?\nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 721,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 44,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.386363636363637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 209,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 209.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.718790978439074,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.721624952717185,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.137314966586814,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.325658807212204,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.991438658428951,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.29343714537889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.409090909090909,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.797958971132712,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.156397478249906,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 244,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 244.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 98,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 194,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 721,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 721 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:48.797860"
+}

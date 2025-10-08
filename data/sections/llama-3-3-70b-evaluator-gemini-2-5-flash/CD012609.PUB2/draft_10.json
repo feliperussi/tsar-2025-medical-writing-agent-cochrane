@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab probably reduces the risk of symptoms coming back in people with Crohn's disease compared to a dummy treatment. \n- For every 100 people taking a dummy treatment, about 75 had a relapse. In comparison, for every 100 people taking infliximab, about 56 had a relapse.\n- Infliximab combined with another type of medicine for Crohn's disease (called purine analogues) is probably more effective in preventing symptoms from coming back than purine analogues alone. \n- For every 100 people treated with infliximab and purine analogues, 12 had a relapse, compared to 59 out of 100 people treated with purine analogues alone.\n- There may be little to no difference in the risk of symptoms coming back between infliximab and a biosimilar (a medicine that is a near-identical copy of another biologic medicine).\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to a combination of genetic, environmental, and immune system factors. Current treatments often use drugs to lower swelling and calm the immune system. Surgery is also an option. But these treatments don't always work and can have major side effects.\n\nWhat is infliximab and how does it work?\nInfliximab is a type of biologic medication, specifically a monoclonal antibody, that targets and neutralizes a protein called tumor necrosis factor-alpha (TNF-alpha). TNF-alpha is a substance in the body that promotes inflammation and is often found in high levels in people with Crohn's disease. By blocking TNF-alpha, infliximab can help reduce inflammation and alleviate symptoms of Crohn's disease.\n\nWhat did the review authors want to find out?\nWe wanted to find out how well and how safely infliximab works to keep Crohn's disease in remission. We compared infliximab to a dummy treatment, other biologic medications, and conventional therapies, and looked at outcomes such as clinical relapse, loss of clinical response, and adverse events.\n\nHow did we do the review?\nWe searched for studies comparing infliximab to other treatments for Crohn's disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 9 studies that involved 1257 people with Crohn's disease. Infliximab probably reduces the risk of clinical relapse in patients with Crohn's disease compared to a dummy treatment. Infliximab combined with purine analogues probably reduces the risk of clinical relapse compared to purine analogues alone. There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar. Infliximab may lead to more loss of clinical response than a biosimilar.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for several reasons: \n- The studies included only a small number of people.\n- Some studies may not have been 'blinded', meaning participants and doctors might have known who was getting the real medicine. This knowledge can influence how symptoms are reported and reduces our confidence in the results.\n- The studies did not always report on all the outcomes we were interested in.\n\nHow up to date is this evidence?\nThe evidence is up to date to June 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 594,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.161290322580644,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 157,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 52.22568426197461,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.735091777995006,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.21786738351254,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.204107744107745,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.74532420984034,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.12762028891061,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.741935483870968,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.583005244258363,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.692218181818183,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 216,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 120,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 120.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 594,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 594 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start and is factually accurate according to the original abstract. However, it is not approved because it contains undefined medical terms and unnecessarily complex language that will be a barrier for many readers. The key messages also miss an important finding. Focusing on the following 3 improvements will make the summary much clearer and more helpful for patients.\n\n### Top 3 Improvements Needed\n\n**1. Explain Key Medical Terms Used in the Findings**\n\nSome of the main results use medical terms that are not explained, which could confuse readers about the key takeaways.\n\n- **Problematic Phrase:** \"Infliximab combined with another type of medicine for Crohn's disease (called purine analogues)...\"\n- **Why it's a problem:** The definition provided is circular ('another type of medicine for Crohn's disease'). Readers won't understand what this other drug is or why it's used.\n- **Suggested Rewrite:** \"Infliximab combined with a purine analogue (an older type of medicine that also calms the immune system) is probably more effective...\"\n\n- **Problematic Phrase:** \"Infliximab may lead to more loss of clinical response than a biosimilar.\"\n- **Why it's a problem:** 'Loss of clinical response' is technical jargon. A lay reader won't know if this means the drug stopped working, the symptoms got worse, or something else.\n- **Suggested Rewrite:** Add a sentence to explain the term, for example: \"'Loss of clinical response' means the treatment stops working as well over time. The review found that infliximab may stop working for more people than a biosimilar does.\"\n\n**2. Simplify Complex and Technical Language**\n\nThe summary uses many long, technical words and noun-heavy phrases where simpler, more direct language would be easier to understand. This is particularly true in the background sections.\n\n- **Problematic Sentence:** \"Infliximab is a type of biologic medication, specifically a monoclonal antibody, that targets and neutralizes a protein called tumor necrosis factor-alpha (TNF-alpha).\"\n- **Why it's a problem:** This sentence is packed with technical terms ('biologic medication', 'monoclonal antibody', 'neutralizes', 'tumor necrosis factor-alpha'). It's too much information at once.\n- **Suggested Rewrite:** Break it down into simpler parts. For example: \"Infliximab is a type of medicine called a 'biologic'. It works by blocking a substance in the body called tumor necrosis factor-alpha (TNF-alpha). High levels of TNF-alpha cause the inflammation found in people with Crohn's disease.\"\n\n**3. Make the Key Messages More Complete**\n\nThe key messages at the top should reflect all the main findings. The current list omits an important negative finding about biosimilars.\n\n- **Problematic Section:** The bulleted list under \"Is infliximab effective in preventing Crohn's disease relapse?\"\n- **Why it's a problem:** The list mentions that infliximab and biosimilars have a similar risk of relapse, but it omits the finding that infliximab may stop working more often than a biosimilar. This gives an incomplete picture.\n- **Suggested Addition:** Add a bullet point to the key messages, such as: \"- However, infliximab may stop working over time for more people than a biosimilar does.\"\n\n### Supporting Evidence from Linguistic Analysis\n\nYour own editorial instincts about the text's complexity are supported by the evaluation metrics. The draft has a high number of `complex_words` (120), `long_words` (178), and `nominalizations` (22), all of which are in the 90th percentile compared to other Plain Language Summaries. Addressing the suggestions above will help bring these metrics closer to the typical range and significantly improve readability.",
+      "pls_evaluation_summary": "The evaluation shows the draft conforms well to typical PLS patterns in sentence structure and overall readability, with 78% of features in the best quartile. However, it deviates significantly in vocabulary, with metrics for complex words (both general and Dale-Chall), long words, and nominalizations all falling in the P90 range. This indicates the text uses more technical and noun-heavy language than is typical for a Plain Language Summary."
+    }
+  ]
+}

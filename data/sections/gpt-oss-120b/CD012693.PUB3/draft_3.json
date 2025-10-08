@@ -1,0 +1,162 @@
+{
+  "id": "CD012693.PUB3",
+  "draft": "Does adjusting the dose of fertility hormones based on ovarian reserve tests (tests that measure a woman’s egg supply) improve pregnancy rates or reduce the risk of ovarian hyperstimulation syndrome for women undergoing IVF/ICSI (in‑vitro fertilisation with intracytoplasmic sperm injection)?\n\nKey messages\n- Adjusting the hormone dose using ovarian‑reserve tests does not clearly increase the chance of a live birth, and the size of any benefit is uncertain.\n- No specific dose strategy showed a clear advantage for women predicted to be low, normal or high responders, and higher doses add cost without proven benefit.\n- Larger, well‑designed trials are needed to confirm whether personalised dosing improves pregnancy outcomes or safely reduces OHSS, and to identify the most effective testing methods and dosing algorithms.\n\nWhy is choosing the right medication dose important for IVF/ICSI treatment?\nWomen undergoing IVF (in‑vitro fertilisation) or ICSI (intracytoplasmic sperm injection) receive daily injections of follicle‑stimulating hormone (FSH). FSH stimulates the ovaries to produce several eggs at once, which are then collected for fertilisation. If too few eggs develop (a “poor response”), the cycle may be cancelled because the chance of a successful pregnancy is lower. If too many eggs develop (a “hyper‑response”), the woman risks ovarian hyperstimulation syndrome (OHSS) – a condition where the ovaries swell, cause abdominal pain and can lead to serious complications. Traditionally, doctors set the starting FSH dose mainly based on a woman’s age. Many now also use ovarian‑reserve tests (ORTs) that estimate how many eggs a woman has left. The main ORTs are:\n- Basal FSH (bFSH) – a blood test that measures the natural level of FSH.\n- Antral follicle count (AFC) – an ultrasound count of tiny fluid‑filled sacs (follicles) in the ovary.\n- Anti‑Müllerian hormone (AMH) – a blood test that reflects the size of the egg supply.\nWe wanted to know whether tailoring the FSH dose using these markers leads to better outcomes, such as higher chances of pregnancy and fewer cases of OHSS.\n\nWhat did the review aim to find out?\nWe aimed to determine whether adjusting the FSH dose according to ovarian‑reserve test results improves the chance of a live birth or ongoing pregnancy for women undergoing IVF/ICSI, and whether it reduces the risk of severe OHSS. We compared studies that used individualised dosing strategies (guided by AMH, AFC or bFSH) with studies that used a standard dose for all women or different dosing algorithms.\n\nHow did we find the evidence?\nWe searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase and two trial registers for randomised controlled trials up to February 2023. We included trials that compared ORT‑guided FSH dosing with standard or other dosing strategies. We combined the results where possible and assessed our confidence in the evidence using standard Cochrane methods.\n\nWhat did we find?\nWe identified 26 randomised controlled trials involving 8,520 women undergoing IVF or ICSI. The trials compared an individualised FSH dose chosen according to ORTs (AMH, AFC or bFSH) with either a uniform dose or other individualised algorithms. Some trials directly compared higher versus lower FSH doses within groups predicted to be low, normal or high responders, and eight trials tested a specific ORT‑based algorithm against a non‑ORT approach.\nOverall, we do not know whether tailoring the FSH dose to ovarian‑reserve markers changes a woman’s chance of having a baby or the risk of severe OHSS. An ORT‑based algorithm might raise the live‑birth chance slightly – for example, from 25 % with a standard dose to about 30 % – and it may also lower the chance of moderate or severe OHSS. However, the evidence is very uncertain because the trials were small and often unblinded.\n\nHow confident are we in the evidence?\nWe have little confidence in the findings. Many studies were small, and participants and clinicians often knew which dosing strategy was used, which can bias results. The overall certainty of the evidence ranges from very low to low.\n\nIs the evidence up to date?\nThis review updates our previous version and includes all relevant trials up to February 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 698,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.8125,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 20,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 81,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.492733703438404,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.495958094555878,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.487739971346706,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.322292263610318,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.461389684813753,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.74659742120344,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.40175425099138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.8458111747851005,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 299,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 299.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 135,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 135.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 698,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 698 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 2,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is missing a dedicated Currency section (required to state that the evidence is up‑to‑date to February 2023) and does not include a clearly labelled Limitations heading, so the required sections are incomplete. Additionally, several clarity issues could confuse readers:\n1. **Unexplained jargon** – the term “randomised controlled trials (RCTs)” appears without a simple definition. \n   *Rewrite*: “randomised controlled trials (RCTs) – studies where participants are randomly assigned to different treatment groups”.\n2. **Long, dense sentence** – “We identified 26 randomised controlled trials involving 8,520 women undergoing IVF or ICSI. The studies compared an individualised dose of the fertility drug FSH, chosen according to ovarian‑reserve tests such as AMH, AFC or basal FSH, with either a standard (uniform) dose or with other individualised dosing algorithms.” This combines two ideas and exceeds 30 words, making it hard to follow.\n   *Rewrite*: “We found 26 trials that included 8,520 women undergoing IVF or ICSI. In these studies, the dose of the hormone FSH was chosen based on ovarian‑reserve tests (AMH, AFC or basal FSH) and compared with a standard dose or with other dosing plans.”\n3. **Passive‑voice heavy** – many sentences use passive constructions (e.g., “The abstract does not give details…”, “The evidence is very uncertain because the trials were small and often unblinded.”). Passive voice hides who did what and reduces readability.\n   *Rewrite*: Change to active voice, e.g., “We could not find details about follow‑up length, study locations, or funding in the abstract.” and “We are very uncertain about the evidence because the trials were small and often unblinded.”\n4. **Missing plain‑language explanation of “OHSS”** – the acronym is introduced but the description is technical.\n   *Rewrite*: “OHSS (ovarian hyperstimulation syndrome) is a condition where the ovaries become swollen, causing abdominal pain and, in severe cases, serious health problems.”\n5. **Lack of a clear Currency subheading** – the review should end with a question‑style heading such as “Is the evidence up to date?” followed by a statement that the search was current to February 2023.\n   *Add*: “Is the evidence up to date?\n   We searched for studies up to February 2023, so the review includes all relevant trials published before that date.”\nThese changes address the most critical clarity problems and bring the draft into line with the Master Style Guide and the required structure.\n\n**Metrics support**: The evaluation shows 20 passive‑voice instances (well above the typical 9‑23 range) and high counts of complex and long words (complex_words = 135, long_words = 188) which align with the identified readability and style issues.",
+      "pls_evaluation_summary": "The draft meets the word‑count limit but deviates from typical PLS patterns on several metrics: passive_voice (20, beyond typical range), nouns (176, high), smog_index (14.4, above median), complex_words_dc (299, beyond P90), complex_words (135, beyond P90) and long_words (188, beyond P90). These indicate excessive passive constructions, noun‑heavy sentences, and many difficult words, supporting the need to simplify language, use active voice, and reduce word complexity."
+    }
+  ]
+}

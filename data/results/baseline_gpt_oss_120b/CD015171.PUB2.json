@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015171.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs taking medicines such as betahistine, diuretics, antivirals or steroids helpful for people with Ménière’s disease?\n\nKey Messages  \n- The medicines studied (betahistine, diuretics, antivirals and steroids) may or may not reduce vertigo attacks, and the review could not determine any clear benefit or harm; serious side‑effects were not reported in the few studies that looked at them.  \n- No studies were found that tested antihistamine medicines for Ménière’s disease, so we have no information about their effects.  \n- Because the existing research is very limited and uncertain, more well‑designed studies are needed to find out which medicines really help and whether they cause problems.\n\nWhat is Ménière’s disease and why does it matter?  \nMénière’s disease is a condition that causes sudden spinning sensations (vertigo), hearing loss and ringing in the ears (tinnitus). These episodes can happen repeatedly and make everyday activities difficult. Doctors often give medicines to try to stop the vertigo attacks, but we do not know which medicines work best.\n\nWhat did the researchers want to find out?  \nThe review team wanted to see whether medicines taken by mouth—specifically betahistine, diuretics, antivirals or steroids—are better than a placebo or no treatment at stopping vertigo attacks and improving hearing, tinnitus and overall quality of life, while also checking for any serious side‑effects.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared these medicines with placebo or no treatment, combined the results, and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified ten studies that together involved about 850 people with Ménière’s disease. The studies were carried out in several countries and lasted from a few months to over a year. The medicines tested were betahistine (studied in most of the trials), two types of diuretics, an antiviral drug, and a short course of steroids. No trial examined antihistamines. Only a few studies reported on serious side‑effects, and those that did gave very limited information.\n\nBecause the studies used different ways to measure vertigo and looked at different time points, we could not combine the results into a single analysis. The evidence for each medicine was of very low certainty, meaning we are not confident that the reported effects reflect the true benefit or harm. In plain terms, it is unclear if any of these medicines reduce vertigo attacks, improve hearing or tinnitus, or cause serious problems.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the studies were small, used different methods, and did not always report all outcomes we were interested in. This makes it hard to know whether any observed changes are real.\n\nHow up to date is this evidence?  \nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 486,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 118,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.135370370370396,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.319711934156377,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.937654320987654,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.479506172839507,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.348148148148148,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.71604938271605,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.888888888888889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.486832980505138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.448540740740741,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 171,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 159,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 486,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 486 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:08.342365"
+}

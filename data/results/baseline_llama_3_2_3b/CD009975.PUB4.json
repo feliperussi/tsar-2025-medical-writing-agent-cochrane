@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009975.PUB4",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**Is videolaryngoscopy better than direct laryngoscopy for tracheal intubation in neonates?**\n\n**What are the benefits and risks of videolaryngoscopy for neonatal endotracheal intubation?**\n\n* Videolaryngoscopy may increase the success of intubation on the first attempt and may result in fewer intubation attempts, but may not reduce the time required for successful intubation (low-certainty evidence).\n* Videolaryngoscopy likely results in a reduced incidence of airway-related adverse effects (moderate-certainty evidence).\n* These results suggest that videolaryngoscopy may be more effective and potentially reduce harm when compared to direct laryngoscopy for endotracheal intubation in neonates.\n\n**What are the limitations of the evidence?**\n\n* The evidence is very uncertain about the effect of videolaryngoscopy on desaturation or bradycardia episodes, or both, during intubation (RR 0.94, 95% CI 0.38 to 2.30; 3 studies; 343 intubations; very-low certainty evidence).\n* Videolaryngoscopy may result in little to no difference in the lowest oxygen saturations during intubation compared with direct laryngoscopy (MD –0.76, 95% CI –5.74 to 4.23; 2 studies; 359 intubations; low-certainty evidence).\n* Videolaryngoscopy likely results in a slight reduction in the incidence of airway trauma during intubation attempts compared with direct laryngoscopy (RR 0.21, 95% CI 0.05 to 0.79; RD –0.04, 95% CI –0.07 to –0.01; NNTB 25, 95% CI 14 to 100; 5 studies; 467 intubations; moderate-certainty evidence).\n* There were no data available on other adverse effects of videolaryngoscopy.\n\n**What did we do?**\n\nWe searched for trials evaluating videolaryngoscopy for neonatal endotracheal intubation in CENTRAL, MEDLINE, Embase, CINAHL, and BIOSIS. We also searched abstracts of the Pediatric Academic Societies, clinical trials registries (www.clinicaltrials.gov;www.controlled-trials.com), and reference lists of relevant studies.\n\n**What did we find?**\n\nWe found 5 additional RCTs for inclusion, 7 ongoing trials, and 5 studies awaiting classification. For the primary outcomes; videolaryngoscopy may not reduce the time required for successful intubation when compared with direct laryngoscopy (mean difference [MD] 0.74, 95% confidence interval [CI] –0.19 to 1.67; 5 studies; 505 intubations; low-certainty evidence). Videolaryngoscopy may result in fewer intubation attempts (MD –0.08, 95% CI –0.15 to 0.00; 6 studies; 659 intubations; low-certainty evidence). Videolaryngoscopy may increase the success of intubation at the first attempt (risk ratio [RR] 1.24, 95% CI 1.13 to 1.37; risk difference [RD] 0.14, 95% CI 0.08 to 0.20; number needed to treat for an additional beneficial outcome [NNTB] 7, 95% CI 5 to 13; 8 studies; 759 intubation attempts; low-certainty evidence).",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 450,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.565217391304348,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 21,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 34,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 34.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 44.47230434782611,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.91687922705314,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.678008695652174,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.55831111111111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.981642512077297,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.67632850241546,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.478260869565218,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.677078252031311,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.44436811594203,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 213,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 103,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 450,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 450 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 7,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:43.758355"
+}

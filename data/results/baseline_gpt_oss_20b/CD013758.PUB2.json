@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013758.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Background and aims\nWhat is the problem we are trying to solve?\nMany infants are fed formula instead of breast milk. Some formulas contain more protein than others, and there is a belief that higher protein might help babies grow better or protect them from becoming underweight, overweight, or obese later in life. We wanted to find out whether feeding infants a higher‑protein formula actually makes a difference to their growth, weight status, or health, compared with feeding them a lower‑protein formula.\n\nWhat did we do?\nWe looked for all the randomised trials that compared higher‑protein infant formula with lower‑protein formula in healthy babies who were not breast‑fed. We included studies that measured growth, weight status (including being underweight, overweight or obese), and any side‑effects. The search covered the literature up to October 2022.\n\nWhat did we find?\nStudy characteristics\nWe identified several trials that together involved about a thousand infants from high‑income countries. The babies were followed for periods ranging from a few months up to about eleven years. The studies compared formulas that differed in the amount of protein they contained, but all other aspects of the formula were similar.\n\nKey findings\n- Growth: The evidence suggests that there is little or no clear difference in how fast babies grow when fed higher‑protein formula compared with lower‑protein formula. The studies did not show a consistent advantage for either type.\n- Weight status: When looking at whether the children were underweight, overweight, or obese later in childhood, the results were uncertain. The available data do not show a reliable benefit or harm from the higher‑protein formula.\n- Adverse events: Reports of side‑effects such as infections, allergies, or other health problems were similar between the two groups. There was no clear signal that higher protein caused more problems.\n\nWhat are the limitations of the evidence?\nThe studies we found were generally small and varied in how they measured outcomes. Some did not clearly describe how they assigned babies to the different formulas, and follow‑up periods differed. Because of these issues, we cannot be very confident that the findings reflect the true effect of protein level in formula. In plain language, the current research does not give a strong answer, and we should be cautious about drawing firm conclusions.\n\nHow up to date is this evidence?\nThe literature search was completed in October 2022, so the information reflects what was published up to that time. New studies may have been released since then.\n\nKey messages for parents and caregivers\n- Based on the best available evidence, feeding a higher‑protein formula does not appear to give a clear advantage in growth or in preventing underweight, overweight, or obesity compared with a lower‑protein formula.\n- The safety profile of higher‑protein formula looks similar to that of lower‑protein formula, with no obvious increase in side‑effects.\n- Because the evidence is uncertain, families should discuss formula choices with their health‑care provider, considering factors such as cost, availability, and any specific health needs of the baby.\n\nWhat should happen next?\nMore large, well‑designed studies are needed that follow children for longer periods and use consistent ways of measuring growth and weight outcomes. Such research would help clarify whether the amount of protein in infant formula truly matters for a child’s health.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 563,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.107142857142858,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.24898534635881,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.129938467394066,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.600782796244609,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.164404973357012,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.710707942146666,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.414425272773414,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.892857142857143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.2796588683075365,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 224,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 224.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 122,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 122.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 563,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 563 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:20.357453"
+}

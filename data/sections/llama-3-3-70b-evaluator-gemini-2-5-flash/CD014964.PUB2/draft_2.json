@@ -1,0 +1,162 @@
+{
+  "id": "CD014964.PUB2",
+  "draft": "Is using ultrasound guidance better than using anatomical landmarks for giving regional anesthesia to adults?\n\nWe compared two methods for giving regional anesthesia: using ultrasound guidance and using anatomical landmarks. \n\n- Ultrasound guidance reduces the number of attempts and time needed for the procedure. It also likely increases the success rate of the first attempt.\n- Ultrasound guidance may not make a big difference in patient satisfaction or technical failure. However, we are not sure about its effects on pain during the procedure and adverse events.\n\nWhat is neuraxial anesthesia and why is it important?\nNeuraxial anesthesia is a type of pain relief where medicine is injected into the space surrounding the spinal cord or into the epidural space. It can be hard to administer because the imagined space may not match the actual position. Successful neuraxial anesthesia with few punctures is crucial to reduce complications and increase patient satisfaction.\n\nWhat did the review authors want to find out?\nThe authors wanted to assess the effectiveness and safety of using ultrasound guidance compared to anatomical landmarks for neuraxial anesthesia in adults. They aimed to find out if ultrasound guidance can increase the success rate, reduce attempts, and decrease procedure time, while also looking at its effects on patient satisfaction, technical failure, pain, and adverse events.\n\nWhat did we find?\nWe found 65 studies involving 6823 participants. These studies were conducted in various countries and published between 2001 and 2023. The participants were adults aged 18 or older. Ultrasound guidance probably reduces the number of attempts and procedure time. It likely increases the rate of first-attempt success. However, the effect of ultrasound guidance on pain and adverse events is unclear.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to November 2023.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were small, and participants may have known their treatment. The studies also used different methods and were conducted in different populations.\n\nWe hope this summary helps you understand the comparison between ultrasound guidance and anatomical landmarks for regional anesthesia in adults.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 363,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 13.961538461538462,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 35,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 18,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 104,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 47.0028814367451,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.171804407713498,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.788455181182453,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.338402203856745,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.959271031998306,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.774210637847,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.173787073532528,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 149,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 76,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 130,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 363,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 363 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 9,
+        "P75_count": 2,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 50,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. It fails a critical check because it is missing a required 'Methods' section, which explains how the review was conducted. Additionally, there are three key areas for improvement to ensure clarity for a lay audience. First, essential technical terms like 'ultrasound guidance' and 'regional anesthesia' are used in the title and text without the simple, parenthetical definitions provided in the source material; these must be added to prevent confusion. Second, the text inconsistently switches between 'regional anesthesia' and 'neuraxial anesthesia', which could mislead readers. Using the more specific term 'neuraxial anesthesia' consistently after defining it would improve accuracy and clarity. Finally, some sentences are unnecessarily complex and use noun-heavy phrases instead of direct verbs, making them harder to process. For example, the sentence describing the review's aims could be rewritten in a more direct, active voice.",
+      "pls_evaluation_summary": "The linguistic analysis shows good overall conformity with typical PLS patterns. Most metrics, including all readability scores and sentence length, fall within the best quartile (P25) or median range (P50), indicating the text is generally easy to read. However, the 'nominalization' metric is in the P75 range (19 instances), suggesting a higher-than-average use of noun-based phrases where simpler verbs could be used. This aligns with the editorial feedback to make the language more direct and active."
+    }
+  ]
+}

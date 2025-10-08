@@ -1,0 +1,162 @@
+{
+  "id": "CD015514.PUB2",
+  "draft": "Is lying face‑down after pars plana vitrectomy (eye surgery that removes the gel inside the eye) better than other positions for people with macula‑involving rhegmatogenous retinal detachment (a retinal tear that pulls the central part of the retina away)?\n\nWhat are the key messages?\n- Lying face‑down right after pars plana vitrectomy (PPV) may reduce retinal displacement (a shift of the retina after surgery that can cause visual distortion), outer retinal folds (tiny wrinkles in the back layer of the eye) and double vision when both eyes are used (binocular diplopia). It may also increase the chance of higher eye pressure (elevated intra‑ocular pressure). The evidence for these effects is very low certainty and therefore uncertain.\n- The available studies did not show a clear difference in how well vision improves (best‑corrected visual acuity – the sharpness of vision with the best glasses or contacts) or in patients’ reported visual distortion and overall well‑being (quality of life – how patients feel about their daily activities) when face‑down positioning is compared with other positions.\n- Because the current evidence comes from a small number of small trials with methodological limitations, we need larger, well‑designed studies to determine the true benefits and harms of face‑down positioning and to explore patients’ preferences.\n\nWhat is a macula‑involving rhegmatogenous retinal detachment and how is it treated?\nA rhegmatogenous retinal detachment is an eye emergency where a tear lets fluid slip behind the retina, pulling it away from the back of the eye. When the detachment includes the macula – the tiny central area of the retina responsible for sharp, detailed vision – a person can lose the ability to read, recognise faces, or drive. The usual surgery to repair this problem is pars plana vitrectomy (PPV). In PPV the surgeon removes the cloudy gel (vitreous) from the eye and replaces it with a gas bubble (gas tamponade) that presses the retina back into place while it heals. Some surgeons ask patients to stay face‑down after the operation, believing that gravity helps keep the retina correctly positioned.\n\nWhat did the review aim to find out?\nWe wanted to know whether face‑down positioning after PPV with gas tamponade reduces retinal displacement and improves visual outcomes, and whether it adds any side‑effects.\n\nHow did we find and assess the studies?\nWe searched multiple databases up to November 2022 for randomised trials that compared face‑down positioning with other post‑operative positions after PPV for primary macula‑involving retinal detachment. We combined the findings and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified three randomised trials that together included 368 participants (369 eyes). Most participants were men (68‑72 %). The trials compared immediate face‑down positioning with other positions, most often support‑the‑break positioning (where the eye is kept upright to support the retinal break) or face‑up positioning. Follow‑up lasted three to six months.\nVery low‑certainty evidence suggests that face‑down positioning may reduce retinal displacement, outer retinal folds and binocular diplopia, but it may increase the risk of elevated intra‑ocular pressure. The same evidence does not show a clear benefit for visual acuity, distortion scores or for quality‑of‑life measures.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the trials were very small, had methodological limitations, and did not include all types of patients with this condition.\n\nHow up‑to‑date is this review?\nThe evidence is current to the November 2022 search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 583,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.59259259259259,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 63,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 158,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.67460771234357,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.694919001334096,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.494409503843464,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.454065180102916,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.86002159964424,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.693793278698934,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.851851851851852,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.180339887498949,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.24826531986532,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 265,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 149,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 583,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 583 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 1,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft meets the required sections, subheading format, factual accuracy, and word‑count limits, but several clarity problems could confuse readers. 1) A very long sentence in the Results section makes the key message hard to follow. 2) Redundant and wordy phrasing in the first key‑message bullet reduces clarity. 3) Frequent nominalisations and complex words increase reading difficulty (149 complex words, 23 nominalisations, SMOG 14.2, Dale‑Chall 8.25). These issues need revision to ensure the summary is easily understood by patients.\n\nSuggested fixes:\n- Split the long Results sentence into two shorter sentences.\n- Rewrite the first key‑message bullet to remove redundancy and simplify language.\n- Replace nominalised nouns with active verbs and swap complex words for simpler alternatives (e.g., \"increase\" instead of \"may also increase the chance of higher eye pressure\").",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft conforms overall (overall pattern HIGHLY CONFORMS), but six metrics deviate from typical PLS ranges: nominalisation (23, beyond P90), nouns (158, beyond P90), SMOG index (14.2, beyond P90), Dale‑Chall readability (8.25, beyond P90), complex words (DC 265, beyond P90) and complex words overall (149, BEYOND_P90). These indicate the text is more noun‑heavy and uses many long, unfamiliar words than typical Cochrane PLS, supporting the need to simplify language and reduce nominalisations."
+    }
+  ]
+}

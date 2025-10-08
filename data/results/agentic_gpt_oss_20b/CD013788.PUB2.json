@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013788.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is taking out the urinary catheter (tube that drains urine) early (within 5 days) better than taking it out later (after 5 days) for people who have had a kidney transplant (kidney transplantation)?\n\nKey messages  \n– We do not know whether removing the catheter before five days changes the chance of having bacteria in the urine without symptoms (asymptomatic bacteriuria). The review found no evidence of differences in symptomatic urinary infections or serious urological problems, and no safety concerns were reported.  \n– The conclusion is based on only two small studies (197 participants) that had high or unclear risk of bias and followed patients for less than one month, so the overall evidence is very weak.  \n– Larger, well‑designed trials that follow patients longer are needed to find out whether early or late catheter removal affects infection rates or other complications after kidney transplantation.\n\nWhy is the timing of urinary catheter removal after kidney transplantation important?  \nKidney transplantation is the best treatment for people whose kidneys no longer work. During the operation a thin tube, called a urinary catheter, is placed in the bladder (the organ that stores urine) so urine can drain safely while the new kidney heals. The catheter helps protect the delicate connection (the stitch) between the bladder and the ureter (the tube that carries urine from the kidney to the bladder). At the same time the catheter provides a pathway for bacteria to enter the bladder, which can cause a urinary tract infection (UTI). The longer the catheter stays in place, the higher the risk of infection. Doctors do not agree on how many days the catheter should remain, and different removal times might affect infection rates or other problems such as the stitch breaking down.\n\nWhat did the review aim to find out?  \nWe wanted to compare two groups of kidney‑transplant patients:  \n– those whose catheter was removed early (before 5 days) and  \n– those whose catheter stayed in longer (5 days or more).  \n\nWe looked at three outcomes:  \n1. Symptomatic urinary tract infections (UTIs).  \n2. Bacteria in the urine without symptoms (asymptomatic bacteriuria).  \n3. Major urological problems that needed extra treatment.\n\nHow did we find and analyse the studies?  \nWe searched the Cochrane Kidney and Transplant Register up to 13 April 2023. The register includes CENTRAL, MEDLINE, EMBASE, conference proceedings, trial registries and ClinicalTrials.gov. We included randomised or quasi‑randomised trials that compared early (≤5 days) with late (>5 days) catheter removal, regardless of donor type, age or gender. Two reviewers screened the records, extracted data and assessed risk of bias. We added the results from the two studies together and calculated how much the risk of bacteria in the urine might change. We show this as a simple risk number and give a range that tells us how certain we are about it.\n\nWhat did we find?  \nWe found two small studies that together enrolled 197 kidney‑transplant recipients. Both trials compared early removal (less than five days) with later removal (five days or more). The only outcome they reported was asymptomatic bacteriuria. When we combined the two studies, the risk of bacteria in the urine was about the same whether the catheter was removed early or later (risk = 0.89). The wide range (0.17 to 4.57) shows we are very uncertain. The studies gave very different results (a value called I² of 88 %). No reliable data were available for symptomatic UTIs or major urological complications, and follow‑up was limited to less than one month.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because the studies were very small and had high or unclear risk of bias. Participants and clinicians may have known which timing was used, which can affect results. The studies provided limited outcome data, used different patient groups and followed patients for only a short period. These factors make the overall estimate uncertain.\n\nHow up to date is this review?  \nOur search covered all relevant records up to 13 April 2023, so the evidence reflects the literature available at that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 714,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 184,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.73210084033616,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.872212885154063,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.396932773109242,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.083529411764705,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.80280112044818,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.070028011204485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.261904761904762,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.954451150103322,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.411309243697479,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 297,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 297.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 125,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 125.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 179,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 714,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 714 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:58.538620"
+}

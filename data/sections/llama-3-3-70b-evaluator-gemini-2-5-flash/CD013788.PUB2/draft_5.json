@@ -1,0 +1,162 @@
+{
+  "id": "CD013788.PUB2",
+  "draft": "Is it better to remove the urinary catheter early or later to prevent infections after a kidney transplant?\n\nKey messages:\n- We are not sure if removing the urinary catheter early or late after a kidney transplant makes a difference in preventing infections, including urinary tract infections (UTIs), because there is not enough good-quality evidence.\n- The studies we found had significant limitations, such as short follow-up periods and a high risk of bias, which means we cannot trust the results completely.\n- Future high-quality studies should compare early and late catheter removal and follow patients for longer to provide clearer guidance for doctors and patients.\n\nWhat is kidney transplantation and why is it important?\nKidney transplantation is the best treatment for end-stage kidney disease. During the operation, a catheter (a small tube) is inserted into the bladder to allow it to drain and promote healing. However, urinary catheters can pose an infection risk to patients, potentially resulting in a urinary tract infection (UTI).\n\nWhat are the risks associated with urinary catheters after kidney transplantation?\nThe longer the catheter remains in place, the greater the risk of developing a UTI. We wanted to know if the timing of catheter removal affects the risk of UTIs and other problems after surgery.\n\nWhat did the review authors want to find out?\nThe review authors aimed to compare patients who had their catheter removed early (less than 5 days after transplant surgery) to those who had it removed late (5 days or more after the transplant). They wanted to see if the timing made a difference to several outcomes. These included UTIs with symptoms, bacteria in the urine without symptoms (asymptomatic bacteriuria), and serious urinary problems like leaks or blockages.\n\nHow did we find the evidence?\nWe searched for studies that compared early versus late removal of urinary catheters after kidney transplantation. We summarized the results and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 2 studies involving 197 people who underwent kidney transplantation. The duration of the studies was short, with no patients followed beyond one month. Due to the limited number of studies and their poor quality, we cannot say for sure if early or late catheter removal makes a difference in preventing infections.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were very small, and it is possible that the people in the studies knew which treatment they were getting. Not all studies provided data on everything we were interested in.\n\nIs the evidence up to date?\nThe evidence is current up to April 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 459,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 38,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 120,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 50.47802696078432,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.969839324618736,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.60504901960784,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.707189542483654,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.58028322440087,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.19035947712418,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.327379053088816,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.003153376906318,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 176,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 91,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 459,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 459 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is strong, factually accurate, and meets all critical requirements. However, it is NOT_APPROVED so you can make a few minor improvements to enhance clarity. The main issue is the frequent use of noun forms instead of verbs (a stylistic issue called 'nominalization'), which makes the text slightly less direct for a lay audience.\n\nHere are the top 3 suggestions for improvement:\n\n1. **Use verbs instead of nouns where possible.** The metrics show a high number of nominalizations, mainly from the repeated phrase 'catheter removal'. Using the active verb 'removing' is more direct for readers.\n   - **Example:** \"Future high-quality studies should compare early and late catheter removal...\"\n   - **Suggestion:** \"Future high-quality studies should compare removing the catheter early versus removing it late...\"\n\n2. **Simplify word choices.** Some words are more formal than needed for a plain language summary. Choosing simpler, more common words improves readability.\n   - **Example:** \"...people who underwent kidney transplantation.\"\n   - **Suggestion:** \"...people who had a kidney transplant.\"\n\n3. **Clarify the research process.** The methods section combines several steps into one sentence, which could be clearer if separated to walk the reader through the process.\n   - **Example:** \"We summarized the results and rated our confidence in the evidence.\"\n   - **Suggestion:** \"We then summarized the results from these studies and rated our confidence in the evidence.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft HIGHLY CONFORMS to typical PLS patterns, with 94.4% of features (17 out of 18) falling within the best quartile for readability and clarity. The text has excellent readability scores, appropriate sentence length, and low use of passive voice. The single significant deviation is in 'nominalization' (noun-form verbs), which is higher than typical (P90). This suggests an opportunity to improve clarity by converting some nouns back into their verb forms, as detailed in the feedback."
+    }
+  ]
+}

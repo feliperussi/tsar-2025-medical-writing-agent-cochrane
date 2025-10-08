@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013078.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of exercise for treating patellar tendinopathy?**\n\nPatellar tendinopathy is a common condition that affects the tendon's origin, causing pain at the front of the knee. The main treatment for patellar tendinopathy involves different types of exercise, such as strengthening and stretching. Strengthening exercises can be land-based or water-based, weight-bearing or non-weight-bearing, or both.\n\n**What did we do?**\n\nWe searched for studies that compared strengthening exercises with no treatment, glucocorticoid injection, surgery, stretching exercise, or pulsed ultrasound and transverse friction. We included 7 trials with 211 participants who had chronic patellar tendinopathy.\n\n**What did we find?**\n\nWe are very uncertain whether strengthening exercise reduces pain compared to no treatment. We are also very uncertain whether strengthening exercise improves function compared to no treatment and to function or pain compared to glucocorticoid injection. Compared to surgery, we are very uncertain whether strengthening exercise reduces pain or improves function, and it may make little or no difference to treatment success and the proportion of athletes returning to sport.\n\n**What are the limitations of the evidence?**\n\nWe are very uncertain whether strengthening exercise reduces pain compared to no treatment. We are also very uncertain whether strengthening exercise improves function compared to no treatment and to function or pain compared to glucocorticoid injection. We are very uncertain whether strengthening exercise reduces pain compared to surgery at 12-month follow-up. We are also very uncertain whether strengthening exercise improves function compared to surgery.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to September 2023.\n\n**What should happen next?**\n\nMore research is needed to determine the benefits and risks of exercise for treating patellar tendinopathy. Future studies should focus on options and effects that are important to decision-makers, such as the effects of different types of strengthening exercises on pain and function.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 348,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.384615384615385,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 93,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.19961538461541,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.280000000000005,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.057480106100797,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.94298850574712,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.273386383731214,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.03978779840849,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.3076923076923075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.787526348364279,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 157,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 95,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 348,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 348 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 6,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.381930"
+}

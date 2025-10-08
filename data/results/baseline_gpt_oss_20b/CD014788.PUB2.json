@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014788.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Are medicines that lower hormone levels (gonadotropin‑releasing hormone analogues) helpful for pain from endometriosis?\n\nKey messages:\n- The evidence is very limited, but these medicines may reduce pain for some people with endometriosis.\n- These medicines can also affect bone health, potentially leading to weaker bones.\n- More research is needed, and people should discuss potential benefits and harms with their health care provider.\n\nPlain language summary:\nThese medicines work by lowering certain hormones that can fuel the growth of endometrial tissue. Some studies suggest they might ease pain, but they can also make bones less strong. Because the research is sparse, it is important to talk with a doctor about whether this treatment might be right for you.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 125,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 4,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 31.25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.2 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 1,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 12,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 12.0 to >29.0 (median)"
+      },
+      "pronouns": {
+        "value": 7,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 7.0 to >13.0 (median)"
+      },
+      "nominalization": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 35,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.17065000000002,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.7223,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 17.255159999999997,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.3 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.041279999999997,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.900000000000002,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 57.650000000000006,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 8.25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 7.358898943540674,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.36072,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 46,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 20,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 33,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 125,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 125 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 2,
+      "P10_count": 1,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 1,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 5.555555555555555,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.421184"
+}

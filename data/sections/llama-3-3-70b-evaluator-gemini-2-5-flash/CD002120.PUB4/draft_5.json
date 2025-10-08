@@ -1,0 +1,162 @@
+{
+  "id": "CD002120.PUB4",
+  "draft": "Are combined oral contraceptive pills effective for treating painful menstrual cramps (dysmenorrhoea)?\n- Combined oral contraceptive pills (birth control pills containing two hormones) are effective for treating painful menstrual cramps, but they can cause unwanted effects such as irregular bleeding (changes in your period), headaches, and nausea (feeling sick).\n- We are confident in the evidence that the pill reduces pain, but we are less confident about the evidence for side effects and for comparing different types of pills.\n- Future research should investigate the long-term effects of using combined oral contraceptive pills for dysmenorrhoea and compare them directly to other treatments.\n\nWhat is dysmenorrhoea and why is it a problem?\nDysmenorrhoea, or painful menstrual cramps, is a common health issue that affects many women. It's characterized by painful cramps in the lower abdomen, which can be severe enough to interfere with daily activities. Painful menstrual cramps are usually treated with pain relievers or hormonal therapies, such as combined oral contraceptive pills (OCPs).\n\nWhat did we want to find out?\nWe wanted to find out the benefits and harms of using combined oral contraceptive pills to treat painful menstrual cramps. We also compared the effectiveness of different types of OCPs and their regimens to find the best treatment options for women with painful menstrual cramps.\n\nWhat did we do?\nWe searched for studies comparing combined oral contraceptive pills with other treatments for primary dysmenorrhoea. We summarized their results and rated our confidence in the evidence.\n\nWhat did we find?\nWe found that combined oral contraceptive pills reduce painful menstrual cramps in women more effectively than a placebo. However, they also increase the risk of side effects. For example, the evidence shows that for women who have an 18% chance of irregular bleeding without treatment, taking the pill increases that risk to between 39% and 60%. \n\nWhat about comparing one type of OCP to another?\nWe found that continuous use of OCPs may reduce painful menstrual cramps in women more effectively than the standard regimen. However, there's insufficient evidence to determine if one type of OCP is better than another.\n\nWhat about comparing OCPs to NSAIDs?\nThere's insufficient data to determine whether OCPs are more effective than NSAIDs for pain.\n\nWhat are the limitations of the evidence?\nThe evidence has some limitations. Many studies were small, and in some, the women knew which treatment they were getting (which can affect results). Also, the studies were different from each other in ways that made them hard to compare.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 454,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.46153846153846,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 40,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 113,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 56.621230091494425,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.699735682819384,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.342421213148086,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.270220264317182,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.944967807522875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.75669264656049,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.115384615384615,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.94427190999916,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.952546052185699,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 175,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 79,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 133,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 454,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 454 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 4,
+        "P75_count": 5,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that meets all critical requirements and has excellent readability scores. However, I'm recommending a few revisions to enhance clarity and precision for the reader before final approval. Here are the top 3 areas for improvement:\n\n1. **Make the explanation of limitations more concrete.** The current wording is a bit abstract and may not be fully understood by a lay reader.\n   - **Current text:** \"Many studies were small, and in some, the women knew which treatment they were getting (which can affect results). Also, the studies were different from each other in ways that made them hard to compare.\"\n   - **Why it's a problem:** Phrases like \"knew which treatment they were getting\" and \"different from each other\" are vague. Using more specific plain language helps the reader better understand the evidence's weaknesses.\n   - **Suggested rewrite:** \"The evidence has some limitations. Many studies were small. In some studies, participants knew which treatment they were getting (this is called a 'lack of blinding' and can affect results). The studies also differed in the types of women included and how the treatments were used, which made them difficult to compare.\"\n\n2. **Clarify the definition of a combined pill in the key messages.** The current definition is correct but could be more informative.\n   - **Current text:** \"- Combined oral contraceptive pills (birth control pills containing two hormones) are effective...\"\n   - **Why it's a problem:** Simply stating \"two hormones\" is less helpful than naming them, which can be done in simple terms.\n   - **Suggested rewrite:** \"- Combined oral contraceptive pills (birth control pills containing both estrogen and progesterone hormones) are effective...\"\n\n3. **Add a little more detail to the methods section.** The current description is very brief and misses a chance to explain what kind of studies were included.\n   - **Current text:** \"We searched for studies comparing combined oral contraceptive pills with other treatments for primary dysmen, we summarized their results and rated our confidence in the evidence.\"\n   - **Why it's a problem:** Mentioning the type of studies (randomised controlled trials) helps build the reader's trust in the quality of the evidence being reviewed.\n   - **Suggested rewrite:** \"We searched for randomised controlled trials, where treatments are given to people at random. We looked for trials that compared combined oral contraceptive pills with a placebo (a dummy pill) or other treatments for primary dysmenorrhoea. We then summarized their results and rated our confidence in the evidence.\"",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns. All 18 metrics fall within the best quartile or median ranges for the corpus, indicating excellent readability, simple sentence structures, and appropriate vocabulary choices. For example, the average words per sentence (17.46) and passive voice count (9) are in the best 25% of PLS texts. Despite the strong statistical profile, a qualitative review identified the several opportunities noted above to improve clarity and precision for the reader."
+    }
+  ]
+}

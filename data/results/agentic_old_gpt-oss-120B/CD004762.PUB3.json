@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004762.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do medicines such as mexiletine or lamotrigine improve muscle stiffness (myotonia – a condition where muscles have trouble relaxing after they contract, causing stiffness or a “locked” feeling) in people with myotonic disorders?\n\nKey messages  \n- In non‑dystrophic myotonia (a group of inherited muscle‑channel disorders that cause myotonia without widespread muscle wasting) mexiletine (a sodium‑channel blocker – medicines that reduce the flow of sodium ions into nerve or muscle cells, helping calm over‑active muscle activity) probably reduces stiffness, improves hand‑grip strength and some electrical‑muscle test results, but does not speed muscle relaxation.  \n- In myotonic dystrophy (a genetic disorder that causes muscle weakness and myotonia and can affect the heart, eyes and other organs) mexiletine does not clearly lessen stiffness, although it may make hand‑grip relaxation a little faster. Lamotrigine (another sodium‑channel blocker) does not clearly reduce stiffness, but it may improve hand‑grip relaxation and overall quality of life (how someone feels and functions day to day).  \n- Both medicines cause more unwanted events (adverse events – unwanted effects that cause harm) such as stomach upset, tiredness, headache and, for lamotrigine, rash. The evidence comes from small randomised controlled trials, so certainty is limited.\n\nWhy did we do this review?  \nWe wanted to know whether drug treatments can safely reduce myotonia and improve daily life. We searched PubMed, Embase, the Cochrane Central Register, clinical‑trial registries and reference lists for randomised controlled trials that compared a drug with a placebo (an inactive pill used for comparison) or another active drug. We included trials that reported at least one symptom‑related outcome (for example stiffness, grip strength, hand‑grip relaxation time – the time it takes for a hand to stop squeezing after a maximal grip) and that provided safety data.\n\nWhat medicines have been tested?  \nThe most studied drugs are mexiletine and lamotrigine. Smaller trials also examined phenytoin, imipramine, procainamide, nifedipine, diazepam, quinine and taurine, but the participants were few and the results remain uncertain.\n\nWhat did we find?  \nWe identified 17 randomised controlled trials that enrolled 392 people (219 with myotonic dystrophy type 1 and 173 with non‑dystrophic myotonia).  \n\n- **Mexiletine in non‑dystrophic myotonia** – The drug probably reduces stiffness and other myotonia symptoms. It may improve hand‑grip strength and electromyographic relaxation time (the time measured by an EMG test for a muscle’s electrical activity to return to baseline). It does not change how quickly the hand or eyes relax, and it probably does not affect quality of life.  \n\n- **Mexiletine in myotonic dystrophy** – The drug likely shortens hand‑grip relaxation time, but it does not improve overall quality of life.  \n\n- **Lamotrigine** – The drug does not clearly lower stiffness. It may speed hand‑grip relaxation and improve quality of life in non‑dystrophic myotonia.  \n\n- **Safety** – Both medicines were linked to more adverse events such as gastrointestinal upset, fatigue and headache; lamotrigine also caused rash in some participants.\n\nHow confident are we in the evidence?  \nWe rate the certainty as moderate for mexiletine’s benefit in non‑dystrophic myotonia and low for most other outcomes. Many trials were small, and participants often knew which treatment they received, increasing the risk of bias. Wide confidence intervals show imprecision.\n\nWhat are the limitations?  \nThe studies included few participants and varied in design. Some trials were unblinded, which can influence reported outcomes. Because of these issues, we remain only moderately confident in the results.\n\nWhat do we need next?  \nWe need larger, well‑designed randomised controlled trials that compare different medicines head‑to‑head, assess long‑term safety and include patient‑reported quality‑of‑life outcomes. Such studies will help us determine which patients benefit most from each drug.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 612,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 51.15911764705882,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.595359477124184,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.750588235294124,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.49437908496732,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.330718954248365,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.6797385620915,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.882352941176471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.74734012447073,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.658796732026143,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 301,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 301.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 612,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 612 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:50.628569"
+}

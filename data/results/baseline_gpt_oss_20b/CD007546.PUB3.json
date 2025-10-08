@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007546.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Physical restraints are devices used to limit movement of older people in care homes. They can cause harm and limit freedom. Researchers looked at many studies that tried different ways to reduce the use of these devices. The ways fell into three groups: changes in how the whole organisation works, training for staff, and rules or policies that guide practice. The biggest group of studies tried to change the whole organisation, for example by adding new leadership, improving teamwork, or creating new routines that focus on person‑centred care. When several of these organisational changes were used together, the number of residents who experienced at least one restraint went down. We feel fairly sure that these broad changes probably lower restraint use, although the exact amount of reduction varies between settings. Some studies that only added a single change, such as a new policy without other support, did not show a clear drop in restraint use. Training programmes that teach staff about alternatives to restraints, communication skills, and how to recognise early signs of distress also showed promise. When staff received regular education together with ongoing coaching, the use of restraints tended to fall. We are fairly confident that education combined with support is likely to help reduce restraints. Simple one‑off training sessions without follow‑up were less convincing. Policies that explicitly forbid restraints or require a documented reason before a restraint can be used also appeared to reduce use, especially when the policy was backed by monitoring and feedback. We feel reasonably sure that clear rules, when they are enforced and checked, can lead to fewer restraints. Across all the studies, the quality of the work varied. Some reports did not describe clearly how participants were chosen or how outcomes were measured, which makes us less sure about those particular results. Overall, the evidence suggests that a combination of organisational change, ongoing staff education, and clear policies works best to lower the use of physical restraints in aged‑care homes. Implementing several of these strategies together is more likely to succeed than using any single approach on its own. Care providers who want to reduce restraints should consider planning a package that includes leadership support, regular training with coaching, and a transparent policy that is monitored over time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 376,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.789473684210527,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 42.97368421052633,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.181618141097427,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.167183650615904,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.542978723404254,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.937066069428893,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.172452407614784,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.2105263157894735,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.616717469204928,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 158,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 66,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 118,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 376,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 376 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 13,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 72.22222222222221,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:14.058110"
+}

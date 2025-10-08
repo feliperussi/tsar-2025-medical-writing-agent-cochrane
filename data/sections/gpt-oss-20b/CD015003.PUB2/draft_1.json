@@ -1,0 +1,162 @@
+{
+  "id": "CD015003.PUB2",
+  "draft": "Does taking colchicine (a low‑cost anti‑inflammatory medicine) help prevent heart attacks, strokes and other cardiovascular problems in people without heart disease?\n\n- The review could not determine with confidence whether colchicine (a low‑cost anti‑inflammatory medicine) prevents heart attacks, strokes or other cardiovascular events (problems with the heart and blood vessels) in people without existing heart disease; the limited evidence hints at a possible reduction in overall death but is very uncertain, and colchicine may increase the chance of diarrhoea (loose stools).\n- Most of the included studies had methodological problems (biases) and many were small or focused on conditions other than heart disease, which limits how much we can rely on their findings.\n- More large, well‑designed randomised trials (studies where participants are randomly assigned to receive colchicine or not) that follow participants for longer periods are needed to clarify any true benefits or harms of colchicine for primary prevention of cardiovascular disease.\n\nINTRODUCTION/AIMS\n\nWhy is preventing atherosclerotic cardiovascular disease important?\nAtherosclerotic cardiovascular disease (ACVD) is a condition where fatty deposits (plaque) build up in the walls of arteries, narrowing them and making it harder for blood to flow. This can lead to heart attacks, strokes, and other serious problems. ACVD is the leading cause of death and disability worldwide, affecting millions of people. Most current treatments focus on lowering cholesterol (for example, statin medicines) and encouraging healthy lifestyle changes, but inflammation – the body's response to injury or infection – also plays a key role in making plaques unstable and causing events. Because many people still have heart attacks or strokes despite these treatments, finding extra ways to prevent ACVD is a major public‑health priority.\n\nWhat is colchicine and why might it help?\nColchicine is a very old, inexpensive drug that was first‑used in ancient Egypt. It works by reducing inflammation, the same process that can worsen plaque in arteries. Because it is cheap and already approved for other conditions (like gout), researchers wonder whether it could lower the risk of a first heart attack, stroke, or death in people who have never had a cardiovascular problem before – a strategy called \"primary prevention\" (preventing disease before it starts).\n\nWhat did the review authors want to find out?\nThe authors of this Cochrane review set out to determine whether colchicine, when given to adults without any existing heart or blood‑vessel disease, actually reduces the chance of dying, having a heart attack, or having a stroke, and whether it causes any important side‑effects. In other words, they wanted to assess the benefits and harms of colchicine for primary prevention of cardiovascular events in the general population.\n\nMETHODS\nWe searched for randomised controlled trials (studies that randomly assign participants to treatment groups) testing colchicine for primary prevention of cardiovascular events in adults without existing disease, compared with placebo, other drugs or usual care; we combined their results and rated our confidence in the evidence using risk‑of‑bias and GRADE assessments.\n\nRESULTS\n\nWhat did we find?\nWe identified fifteen randomised controlled trials that enrolled a total of 1,721 adults without pre‑existing cardiovascular disease (1,412 were analysed). Many participants had liver disease rather than a purely cardiovascular profile. Follow‑up periods ranged from 4 weeks to 728 weeks. The interventions compared oral colchicine with placebo, with immunomodulating agents such as methotrexate, or with usual care/no treatment; no trials compared colchicine with NSAIDs, corticosteroids or other immunomodulators. The studies were conducted in various, unspecified settings and countries, and the abstract does not report funding sources. No trials reported outcomes for pericardial effusion, peripheral artery disease, heart failure, or unstable angina.\n\nMain results: All‑cause mortality\nIt is unclear whether colchicine reduces all‑cause mortality when used for primary prevention of cardiovascular disease; the evidence is very uncertain.\n\nLIMITATIONS\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, because the studies were very small, and because the evidence does not cover all of the people and outcomes we are interested in.\n\nCURRENCY\nThe evidence is up to date to May 2023 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 699,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 25.88888888888889,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.9 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 73,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 196,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 37.258206962327165,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.494077253218887,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 15.886504530281357,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 13.482918454935618,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 19.912064854554128,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.9 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 59.937529804482594,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.9 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.814814814814815,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.8 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 14.874342087037917,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.37716471149261,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 314,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 314.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 167,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 238,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 238.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 699,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 699 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 5,
+        "P90_count": 9,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 50,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the critical style check because the required subheadings are not phrased as questions. The sections INTRODUCTION/AIMS, METHODS, RESULTS, LIMITATIONS and CURRENCY all use declarative headings (e.g., \"What did we find?\" is missing; instead the draft uses \"What did we find?\" only for a sub‑heading inside Results, but the main section headings themselves are not questions). This breaches the Master Style Guide (5.3 Structure) which mandates subheadings be phrased as questions. Additionally, the draft contains several clarity and readability issues that would confuse readers:\n\n1. **Long, complex sentence** – \"The review could not determine with confidence whether colchicine (a low‑cost anti‑inflammatory medicine) prevents heart attacks, strokes or other cardiovascular events (problems with the heart and blood vessels) in people without existing heart disease; the limited evidence hints at a possible reduction in overall death but is very uncertain, and colchicine may increase the chance of diarrhoea (loose stools).\" This 45‑word sentence mixes several ideas and uses parentheses that interrupt flow. *Rewrite:* \"We could not be confident that colchicine prevents heart attacks, strokes or other cardiovascular problems in people without heart disease. The limited evidence suggests it might lower overall death, but this is very uncertain, and it may increase the risk of diarrhoea.\"\n\n2. **Unexplained jargon** – the term \"primary prevention\" appears without a simple definition. Readers may not know it means preventing disease before it starts. *Rewrite:* \"Primary prevention means trying to stop a disease from occurring in people who have never had it before.\"\n\n3. **Passive voice** – \"The evidence is up to date to May 2023 of search.\" This passive construction obscures who performed the search. *Rewrite:* \"We searched the literature up to May 2023.\"\n\n4. **Noun‑heavy phrasing** – \"Most of the included studies had methodological problems (biases) and many were small or focused on conditions other than heart disease, which limits how much we can rely on their findings.\" This sentence is noun‑dense and hard to follow. *Rewrite:* \"Many studies had methodological problems and were small or focused on non‑cardiac conditions, so we cannot rely heavily on their findings.\"\n\n5. **Missing question‑style subheadings** – each main section should be a question, e.g., change \"METHODS\" to \"How did we find the evidence?\", \"RESULTS\" to \"What did we find?\", \"LIMITATIONS\" to \"What are the limitations of the evidence?\", and \"CURRENCY\" to \"How up‑to‑date is the evidence?\".\n\nMetrics support: The PLS evaluation shows a high words‑per‑sentence score (25.9, P90) and many nominalisations (23, P90), indicating the text is more complex than typical PLS. Reducing sentence length and converting nouns to verbs, as suggested above, will bring the draft closer to the typical readability range (words per sentence ≈ 20, nominalisations ≈ 13).",
+      "pls_evaluation_summary": "The draft is within the 850‑word limit (699 words) but deviates from typical PLS patterns on several metrics: words_per_sentence (25.9, P90), nominalization (23, P90), nouns (196, P90), and readability indices (ARI 15.9, GFI 19.9, LIX 59.9, all P90). These indicate the text is more complex and noun‑heavy than usual, supporting the need to shorten sentences, reduce nominalisations, and use more active verbs."
+    }
+  ]
+}

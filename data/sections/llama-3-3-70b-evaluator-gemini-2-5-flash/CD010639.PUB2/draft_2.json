@@ -1,0 +1,162 @@
+{
+  "id": "CD010639.PUB2",
+  "draft": "Can changing the schedule of shift work improve sleep quality, sleep duration, and reduce sleepiness in shift workers?\n\nKey messages:\n- We found that changing shift work schedules may reduce sleepiness in shift workers, but the evidence is uncertain. It's also unclear if it improves sleep quality or sleep duration. Some studies suggest that faster rotation may actually decrease sleep duration. No harmful effects were reported in the studies.\n- Limiting shift duration to 16 hours may increase sleep duration and reduce sleepiness during shifts. However, the evidence for other shift schedule changes, such as forward rotation or compressed workweeks, is very uncertain and does not show a clear benefit for sleep quality or sleep duration.\n- Future research should focus on high-quality studies to better understand the effects of different shift schedule adaptations on sleep and sleepiness in shift workers.\n\nWhat is shift work and why is it a problem?\nShift work refers to work schedules that fall outside traditional daytime hours, often including night shifts, evening shifts, or rotating shifts. This type of work schedule can disrupt the body's natural sleep-wake cycle, leading to insufficient sleep, fatigue, and decreased alertness. As a result, shift workers may experience negative effects on their occupational health and safety, including increased risk of accidents and errors.\n\nWhat did the review authors want to find out?\nThe review authors aimed to assess the effects of adapting shift work schedules on sleep quality, sleep duration, and sleepiness among shift workers. They investigated various shift schedule components, such as the permanency of shifts, regularity of shift changes, direction of shift rotation, speed of rotation, shift duration, timing of start of shifts, distribution of shift schedule, time off between shifts, split shifts, protected sleep, and worker participation.\n\nWhat did we find?\nWe found 11 studies that involved 2125 participants. The studies investigated different and often multiple changes to shift schedules. We found that adapting shift work schedules may reduce sleepiness during shifts and make little to no difference to sleep quality, but the evidence is very uncertain. Limiting shift duration to 16 hours may increase sleep duration and reduce sleepiness, but the evidence is of low to moderate certainty.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, incomplete reporting of outcomes, and heterogeneity in participant characteristics and intervention delivery methods.\n\nIs the evidence up to date?\nThe evidence is up to date to April 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 426,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 23,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.52173913043478,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 43,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 15,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 28,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 171,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.0283925290876,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.161647274954074,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.000024494794857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.77483568075117,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.610573586446215,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.5592978158808,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.304347826086956,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.848857801796104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.9611665237803635,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 190,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 98,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 145,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 426,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 426 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved because it fails two critical checks: it contains a factual error regarding the evidence currency date and is missing a required 'Methods' section. Additionally, several improvements are needed to enhance clarity for a lay audience. Here are the top 3 improvements needed:\n\n1. **Replace noun-heavy phrases with active verbs.** The text often uses complex noun forms instead of direct verbs, which can make it harder to read.\n   - **Problematic sentence:** \"As a result, shift workers may experience negative effects on their occupational health and safety, including increased risk of accidents and errors.\"\n   - **Why it's a problem:** This sentence is dense with abstract nouns ('effects', 'health', 'safety', 'risk'). Using more direct verbs would make the meaning clearer and more impactful.\n   - **Suggested rewrite:** \"As a result, shift workers may be less safe and healthy at work, and may be more likely to have accidents or make errors.\"\n\n2. **Explain technical terms and jargon.** The limitations section uses language that would be unfamiliar to most readers.\n   - **Problematic sentence:** \"The evidence is limited by... heterogeneity in participant characteristics and intervention delivery methods.\"\n   - **Why it's a problem:** 'Heterogeneity', 'participant characteristics', and 'intervention delivery methods' are technical terms. Readers won't understand why these are limitations.\n   - **Suggested rewrite:** \"The evidence is limited because the studies were small and included different types of people. The new schedules were also introduced in different ways, which makes the results harder to compare.\"\n\n3. **Define key concepts for the reader.** The summary introduces specific types of shift work changes without explaining what they are.\n   - **Problematic sentence:** \"However, the evidence for other shift schedule changes, such as forward rotation or compressed workweeks, is very uncertain...\"\n   - **Why it's a problem:** A lay reader will not know what 'forward rotation' or 'compressed workweeks' mean, which makes the finding less useful.\n   - **Suggested rewrite:** \"However, the evidence for other schedule changes is very uncertain. This includes changes like 'forward rotation' (where shifts move from morning to evening to night) or 'compressed workweeks' (where people work longer hours on fewer days).\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns, with 11 of 18 metrics (61%) falling in the best quartile for readability. However, the analysis also flags two significant deviations: the count of nouns is high (P90), and the use of nominalizations (noun-form verbs) is exceptionally high (BEYOND_P90), which supports the editorial feedback that the text feels dense and less direct for readers."
+    }
+  ]
+}

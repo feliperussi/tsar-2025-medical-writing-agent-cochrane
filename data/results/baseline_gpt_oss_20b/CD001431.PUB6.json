@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Do patient decision aids help adults make better health choices?\n\nKey messages:\n- Patient decision aids probably help adults choose treatments that fit what matters most to them and give them more knowledge and confidence about their options.\n- Using decision aids does not increase how much people regret their choices and adds little or no extra time to doctor visits.\n- More research is needed to see if decision aids help people follow through with the treatment they choose and to understand any effects on health costs.\n\nIntroduction to the review topic and review aims:\n\nWhat are patient decision aids?\nPatient decision aids are tools such as pamphlets, videos, or interactive websites that explain the benefits and downsides of different health options in plain language. They are designed to help people think about what matters most people care about, such as how a treatment might affect daily life, and to compare the choices side by side.\n\nWhy are they important?\nWhen people face health decisions, they often feel uncertain or overwhelmed. Without clear information, they may end up choosing a treatment that does not match their values or may avoid making a decision altogether. Decision aids aim to reduce this uncertainty, improve understanding, and support people in making choices they feel good about.\n\nWhat did we want to find out?\nWe wanted to know whether using patient decision aids actually improves the way adults make health decisions. Specifically, we looked at whether these tools help people choose options that align with their values, increase knowledge, reduce confusion, and affect how much time doctors spend with patients. We also examined whether decision aids change how much people regret their choices, how often they follow through with the chosen treatment, and whether they influence health costs.\n\nWhat did we do?\nWe looked at many studies that compared people who used decision aids with people who received usual care, and we summarized the overall findings.\n\nWhat did we find?\nStudy characteristics: The review included a large number of studies involving many adults from different health settings. The studies examined a wide range of health decisions, the types of decision aids used, and how they were delivered.\n\nMain results: The evidence shows that patient decision aids probably help people make choices that match what matters most to them. People who used decision aids tended to have a clearer sense of their values and were more likely to pick a treatment that fit those values. In addition, decision aids gave people more knowledge about their options and helped them understand the chances of different outcomes. They also reduced feelings of uncertainty and made people feel more active in the decision‑making process. Importantly, using decision aids did not increase how much people regretted their choices later on, and it did not make doctor visits significantly longer. When decision aids were used during a visit, they added only a short amount of extra time, which most patients and clinicians found acceptable.\n\nLimitations of the evidence: Some of the studies did not describe clearly how they were carried out, which makes it harder to be certain about the results. A few studies had small numbers of participants, and the way outcomes were measured varied between studies. Because of these issues, we are less certain about whether decision aids lead to better follow‑through with the chosen treatment and about any impact on health costs.\n\nHow up to date is this evidence?\n the review was last updated in early 2024, so the findings reflect the most recent research available up to that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 611,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.70967741935484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 58.89121588089333,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.94161871073333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.311892719497386,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.270572831423898,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.728388152684653,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.914260070745996,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.967741935483871,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.717797887081348,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.533819312602291,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 611,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 611 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:11.111347"
+}

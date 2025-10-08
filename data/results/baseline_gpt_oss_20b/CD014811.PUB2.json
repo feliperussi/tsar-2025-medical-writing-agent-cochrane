@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does continuous infusion of loop diuretics improve outcomes compared with bolus injection in adults with acute heart failure?\n\nKey Messages:\n- The evidence does not show a clear advantage of giving the medicine continuously over giving it in separate doses.\n- Important outcomes such as weight loss, length of hospital stay, and kidney health remain uncertain.\n- More well‑designed studies are needed before a confident recommendation can be made.\n\nIntroduction:\nWhy is this question important?\nAcute heart failure often causes fluid to build up in the body, leading to swelling, shortness of breath, and a need for hospital care. Loop diuretics are medicines that help the body get rid of excess fluid. Doctors can give these medicines either as a steady drip (continuous infusion) or as a quick push (bolus injection). Knowing which method works better could help patients recover faster and avoid complications.\n\nWhat did we want to find out?\nWe aimed to compare continuous infusion with bolus injection of loop diuretics in adults who are in the hospital because of acute heart failure. The goal was to see whether one method leads to better fluid removal, fewer side effects, shorter hospital stays, or lower chances of returning to the hospital.\n\nWhat did we do?\nWe looked for studies that directly compared the two ways of giving the medicine. We included research that measured how much fluid patients lost, how long they stayed in the hospital, whether they needed to be readmitted, and whether their kidneys were harmed. We gathered data from seven studies that together involved about 681 patients treated in 32 hospitals across several countries.\n\nWhat did we find?\nStudy Characteristics and Main Results:\n- Weight loss: The evidence is unclear if continuous infusion leads to more weight loss than bolus injection.\n- Daily fluid balance: The evidence is very uncertain about whether continuous infusion changes the amount of fluid removed each day compared with bolus injection.\n- Length of stay: It is unclear if continuous infusion shortens or lengthens the time patients spend in the hospital.\n- Readmission: The evidence does not show a clear difference in the chance of returning to the hospital after discharge.\n- Kidney injury: It is uncertain whether continuous infusion increases or decreases the risk of kidney problems.\n- Cardiovascular mortality: No study reported on death from heart‑related causes.\nOverall, the studies did not provide a clear picture of any advantage or disadvantage of one method over the other.\n\nWhat are the limitations of the evidence?\nThe studies we found were relatively small and varied in how they were carried out. Some had concerns about how participants were selected or how outcomes were measured, which could affect the reliability of the results. Because only a few studies looked at each outcome, the overall picture remains uncertain. The lack of data on important outcomes such as heart‑related death also limits our ability to draw firm conclusions.\n\nHow up to date is this evidence?\nThe latest search for relevant studies was completed on 29 February 2024, so the evidence reflects research available up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 529,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.24137931034483,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.66366729678637,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.305990483019364,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.385944853660128,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.91024574669187,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.009217130565155,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.730982334919496,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.379310344827586,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.844677895834692,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 199,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 529,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 529 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.940428"
+}

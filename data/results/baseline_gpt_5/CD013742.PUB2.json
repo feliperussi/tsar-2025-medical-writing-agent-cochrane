@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nHow accurate are common lab tests at finding vitamin A deficiency (not enough vitamin A) in people at risk?\n\nKey Messages\n- We found that common blood tests for vitamin A, such as serum retinol (vitamin A in blood) and retinol‑binding protein (a protein that carries vitamin A in blood), often miss people who truly have vitamin A deficiency. These tests probably correctly tell many people without deficiency that they are not deficient. Studies did not report harmful effects of doing these tests.\n- Accuracy differed depending on what the test was compared against. When compared to specialized methods that best reflect vitamin A stored in the body (for example, measuring vitamin A in the liver or using a special method called retinol isotope dilution), the tests were better at ruling out deficiency than finding it. We did not find enough good‑quality evidence about breast milk vitamin A tests or the modified relative dose response test.\n- Future research should use studies designed to test accuracy, include enough people who truly have deficiency, and report both correct detections and false alarms. We also need more data on breast milk vitamin A and modified relative dose response tests.\n\nIntroduction to the review topic and review aims\n\nWhat is vitamin A deficiency and why does it matter?\nVitamin A is important for growth, fighting infections, healthy eyes, and survival. Vitamin A deficiency means the body does not have enough vitamin A. This can cause poor growth, more infections, eye problems, and higher risk of death in mothers and children. Finding vitamin A deficiency early can help guide care and public health programs.\n\nWhat tests are used to check vitamin A levels?\nDoctors and public health teams can measure vitamin A in different ways:\n- serum or plasma retinol (vitamin A in a blood sample)\n- retinol‑binding protein (a blood test for a protein that carries vitamin A)\n- relative dose response (a test that gives a small dose of vitamin A and checks how blood levels change)\n- vitamin A in breast milk\nTo judge how good these tests are, researchers compare them to “reference standards,” which aim to show the body’s true vitamin A stores. These include:\n- liver vitamin A (the liver is where most vitamin A is stored)\n- retinol isotope dilution (RID), a specialized lab method that estimates vitamin A stores in the body\n\nWhat did we want to find out?\nWe wanted to find out how well common lab tests can correctly identify people who do and do not have vitamin A deficiency. We also wanted to learn if accuracy changes by the cut‑off used to define deficiency and by other factors.\n\nWhat did we do?\nWe searched for studies that measured at least one common test and a reference standard at the same time in people at risk of vitamin A deficiency. We summarized the results across studies and judged how confident we can be in the findings.\n\nWhat did we find?\n\nStudy characteristics\nWe found 40 studies (65 reports). The studies included people at risk of vitamin A deficiency. Most measured a blood test and a reference standard at the same time. None of the studies was set up mainly to test how accurate these tests are. This limits what we can conclude. Many studies reported enough data to judge how well tests correctly ruled out deficiency, but fewer had enough people who truly had deficiency to judge how well tests found it. One study looked at vitamin A in breast milk. We found no eligible studies on the modified relative dose response test. The way studies were done and reported was often unclear. We found little information about study funding.\n\nMain results\nSerum or plasma retinol (vitamin A in blood)\n- Compared with retinol isotope dilution (RID): It is unclear if blood retinol can correctly find people who truly have deficiency because the studies suggest it may miss most people with deficiency. Blood retinol may correctly tell many people without deficiency that they are not deficient.\n- Compared with liver vitamin A: It is unclear if blood retinol can correctly find people who truly have deficiency. Blood retinol probably correctly tells many people without deficiency that they are not deficient.\n\nRetinol‑binding protein (RBP)\n- Compared with RID: RBP may correctly find about half of the people who truly have deficiency. RBP probably correctly tells many people without deficiency that they are not deficient.\n- Compared with liver vitamin A: It is unclear if RBP can correctly find people who truly have deficiency, and it is also unclear how well it rules out deficiency in people who do not have it.\n\nRelative dose response (RDR)\n- Compared with RID: We do not know if RDR can correctly find people who truly have deficiency, because the studies did not provide this information. RDR may correctly tell many people without deficiency that they are not deficient.\n\nBreast milk vitamin A\n- We found only one study, so we do not know how accurate this method is.\n\nModified relative dose response (MRDR)\n- We found no eligible studies, so we do not know how accurate this method is.\n\nWhat are the limitations of the evidence?\nWe have little confidence in many findings because the studies were not designed to test accuracy, many were small, and there were often too few people who truly had deficiency to judge how well tests find it. In several studies, important details about how the tests were done and reported were unclear. The evidence does not cover all tests or groups we were interested in, especially breast milk vitamin A and the modified relative dose response test.\n\nHow up to date is this evidence?\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 990,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 54,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 301,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 301.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 59.703030303030346,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.486464646464647,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.041090909090904,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.182060606060602,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.878787878787879,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.78787878787878,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.0,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.332161616161616,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 340,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 340.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 162,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 252,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 252.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 990,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 990 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:44.155663"
+}

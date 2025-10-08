@@ -1,0 +1,162 @@
+{
+  "id": "CD011538.PUB2",
+  "draft": "Can education support services help children and adolescents with chronic health conditions (long-term illnesses that do not go away) stay engaged in school and improve their academic performance?\n\n- Education support services may help children with chronic health conditions stay in school, but the evidence is not strong enough to be certain. We did not find any information about harmful effects.\n- There is some evidence that education support may slightly improve mental health, measured as self-esteem, in children with chronic health conditions, but more research is needed to confirm this.\n- Future research should focus on studying the effects of education support services on school engagement, academic achievement, and mental health in children and adolescents with chronic health conditions.\n\nWhat are chronic health conditions in children and adolescents, and why are they a problem?\nChronic health conditions are long-term illnesses that do not go away and can significantly impact a child’s education, well-being, and health. Missing school can cause children to fall behind academically. It can also affect their social skills and future career choices.\n\nWhat did we want to find out?\nWe wanted to find out if education support services can help children with chronic health conditions stay engaged in school and do better academically.\n\nHow did we conduct the review?\nWe searched for studies about education support for children with chronic health conditions. We then compared their results and assessed how certain the evidence was.\n\nWhat did we find?\nWe found four studies that involved 359 participants with chronic health conditions. Each study focused on a specific disease: three on children with cancer and one on children with Attention Deficit Hyperactivity Disorder (ADHD). We found some evidence that education support may slightly improve mental health, measured as self-esteem. For other outcomes, like school engagement, the evidence was very uncertain. It is unclear if education support services have an effect on academic achievement or transition back to school.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence because the studies were very small. Also, people in the studies knew which treatment they received, which might have influenced how they reported their experiences. The studies also included different types of children, and the support was provided in different ways.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to January 2021.\n\nWe hope this information helps you understand the potential benefits and limitations of education support services for children and adolescents with chronic health conditions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 434,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.36,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 45,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 130,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 48.66943870967745,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.783625806451614,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.364331797235025,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.59944700460829,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.77810138248848,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.461382488479266,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.92,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.327379053088816,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.645871668202766,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 159,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 85,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 148,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 434,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 434 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 7,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns, with 77.8% of metrics falling within the best quartile for readability and clarity. Readability scores like Flesch-Kincaid Grade (10.78) and words per sentence (17.36) are excellent. One metric, nominalization (noun-form verbs), was higher than typical (Beyond P90). However, a manual review confirms these are necessary technical terms (e.g., 'achievement', 'engagement') and do not detract from the overall clarity of the summary."
+    }
+  ]
+}

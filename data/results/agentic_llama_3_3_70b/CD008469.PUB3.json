@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008469.PUB3",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Is home-based education effective for children with asthma (a chronic airway condition) compared to usual care or education delivered outside the home?\n\nWe looked at the effectiveness of home-based education for children with asthma. Asthma is a chronic airway condition that affects 262.4 million people worldwide. It causes symptoms like wheezing, coughing, and shortness of breath. \n\n- Home-based education for children with asthma may have little to no difference in reducing asthma attacks that require emergency department visits or oral corticosteroids (medicines that reduce inflammation) compared to usual care or education delivered outside the home, but the evidence is uncertain.\n- Home-based education may improve quality of life (overall well-being and ability to perform daily activities) for children with asthma, and a more intensive home-based education program may reduce hospitalizations due to asthma exacerbations, but the evidence is limited and more research is needed to confirm these findings.\n- Further studies are needed to determine the most effective components and settings for asthma education programs, including the optimal content, duration, and frequency of education sessions, as well as the potential benefits and harms of different educational interventions, in order to provide clearer guidance for healthcare providers and families.\n\nWhat is asthma and why is it a problem?\nAsthma is a chronic airway condition that affects 262.4 million people worldwide. It is a condition where the airways in the lungs become inflamed and constricted, making it difficult to breathe. Asthma can cause symptoms such as wheezing, coughing, and shortness of breath, and can be triggered by various factors such as allergens, respiratory infections, and air pollution. \n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of educational interventions for asthma, delivered in the home to children, their caregivers, or both, on asthma-related outcomes. They aimed to determine whether home-based education is superior to usual care or the same education delivered elsewhere, and to identify the most effective components of an education program for children with asthma.\n\nWhat did we search for?\nWe searched for studies on home-based educational interventions for children with asthma. We looked for studies that compared home-based education to usual care, education delivered outside the home, or less-intensive education programs.\n\nWhat did we find?\nThis review includes 26 studies with 5122 participants. The studies varied in duration and were conducted in different settings, with participants ranging in age from 1 to 18 years old and having mild to severe asthma. The context and content of educational interventions also varied, as did the aims of the studies and the control group event rates. \n\nWhat are the main results?\nHome-based education may improve quality of life compared to control, but the evidence is very uncertain. It is unclear if home-based education has an effect on exacerbations leading to emergency department visits, exacerbations requiring a course of oral corticosteroids, mean symptom-free days, days missed from school or work, and exacerbations leading to hospitalisation compared to control. A more intensive home-based education intervention may reduce hospitalisation due to an asthma exacerbation compared to a less-intensive type of home-based education, but the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by heterogeneity of study populations and intervention delivery methods, possible lack of blinding (participants may have known their treatment), and very small sample sizes.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 609,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.555555555555557,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 32,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 45,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 45.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 199,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 199.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 34.328303229337735,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.074646962233171,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.217580733442801,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.311133004926102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.414668856048166,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.87411056376574,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.7407407407407405,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.357816691600547,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.145175916803503,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 271,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 271.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 143,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 143.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 209,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 209.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 609,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 609 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:06.692908"
+}

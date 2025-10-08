@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006405.PUB4",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs nasal high‑flow therapy as safe and effective as CPAP or NIPPV for helping preterm babies breathe?\n\nKey Messages  \n- Nasal high‑flow (nHF) therapy probably makes little or no difference to the chance of death or long‑term lung problems (bronchopulmonary dysplasia) when compared with CPAP or NIPPV, but it likely leads to more early treatment failures; it does not seem to increase the need for a breathing tube, and it probably reduces nose injury and the risk of a collapsed lung (pneumothorax).  \n- The studies included only a few babies born before 28 weeks, so we do not know how nHF works for the most fragile preterm infants.  \n- More high‑quality research, especially in extremely preterm babies, is needed to be confident about the benefits and harms of nHF.\n\nWhat is nasal high‑flow therapy?  \nNasal high‑flow therapy delivers warm, moist air (and sometimes extra oxygen) through two small tubes placed in the baby’s nose. The flow is faster than normal nasal cannulae, usually between 2 L/min and 8 L/min, and it helps keep the airways open without needing a breathing tube.\n\nWhy do preterm babies need breathing support?  \nBabies born before 37 weeks often have under‑developed lungs and can develop respiratory distress syndrome (RDS). RDS can make it hard for them to get enough oxygen. Doctors use non‑invasive support such as CPAP (continuous positive airway pressure) or NIPPV (nasal intermittent positive‑pressure ventilation) to help the lungs work better before considering a breathing tube.\n\nWhat did we want to find out?  \nWe wanted to know whether using nHF as the first way to support breathing in preterm babies is better, the same, or worse than other non‑invasive methods such as CPAP or NIPPV, both for helping babies survive and for avoiding lung injury or other harms.\n\nWhat did we do?  \nWe searched for studies that compared nHF with other non‑invasive breathing supports in preterm babies. We combined the findings from those studies and judged how confident we could be in the results.\n\nWhat did we find?  \n\nThe review included 13 studies that together enrolled about 2 500 preterm infants. Most babies were born after 28 weeks, and the studies were carried out in many countries. The comparisons were mainly nHF versus CPAP or nHF versus NIPPV. Different devices and flow rates were used, and some studies allowed a “rescue” CPAP if nHF did not work.\n\nWhen nHF was compared with CPAP, it probably makes little or no difference to the chance of death or long‑term lung disease. It may cause little or no difference to  the risk of death alone and to lung disease alone. However, nHF likely leads to more early treatment failures (the baby needs extra help within the first three days). It probably does not change the need for a breathing tube, and it probably reduces the chance of a collapsed lung and of nose injury.\n\nWhen nHF was compared with NIPPV, the evidence is very uncertain about death or lung disease, but it may cause little or no difference to those outcomes. It probably makes little or no difference to the need for a breathing tube or to early treatment failure. It probably reduces nose injury and probably does not change the risk of a collapsed lung.\n\nHow confident are we in the evidence?  \nWe have little confidence in the evidence about death, lung disease, and the combined outcome because many studies were small, some did not hide which treatment the baby received, and the babies studied were mostly older preterm infants. We are moderately confident that nHF increases early treatment failures and that it reduces nose injury and collapsed lungs, but the studies varied in how they delivered the therapy and in the babies’ characteristics, which adds uncertainty.\n\nHow up to date is this evidence?  \nThis review updates our previous review. The evidence is up to date to March 2022.  \n\nOverall, nHF appears to work about as well as CPAP or NIPPV for many important outcomes, but it may lead to more early treatment failures and seems to cause fewer nose injuries and fewer collapsed lungs. More research, especially in babies born before 28 weeks, is needed to be sure of these findings.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 735,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.416666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 183,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 65.37004251700682,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.213588435374152,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.29086394557823,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.358204081632653,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.935374149659864,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.8656462585034,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.583333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.684176870748299,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 264,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 264.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 165,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 735,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 735 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:56.141081"
+}

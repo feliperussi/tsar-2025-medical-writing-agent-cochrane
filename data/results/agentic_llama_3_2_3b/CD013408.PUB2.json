@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**Does Organised Care for People with Atrial Fibrillation Reduce Their Risk of Death and Hospitalisation Compared to Usual Care?**\n\nWe wanted to find out if organised care for people with atrial fibrillation (AF) can improve outcomes, such as reducing mortality and hospitalisation rates, and improving quality of life.\n\n**What is Atrial Fibrillation?**\n\nAtrial fibrillation (AF) is a common heart rhythm condition in adults. It is characterised by an irregular and often rapid heart rate. AF can lead to complications such as stroke, heart failure, and other heart-related problems. There is no cure for AF, but treatment options are available to manage symptoms and prevent complications.\n\n**What do we want to find out about Clinical Service Organisation for AF?**\n\nWe wanted to assess the effects of clinical service organisation for AF versus usual care for people with all types of AF. This review aimed to investigate whether organised clinical services can improve outcomes for people with AF.\n\n**What is Clinical Service Organisation for AF?**\n\nClinical service organisation for AF refers to the way in which healthcare services are delivered to people with atrial fibrillation. This includes the type of care provided, the healthcare professionals involved, and the settings in which care is delivered. Organised clinical services can include collaborative, multidisciplinary, and virtual (or eHealth/mHealth) models of care.\n\n**What are the implications of this review?**\n\nThe findings of this review highlight the need for further research into the effects of different models of care organisation, including the use of mHealth. Appropriately powered trials are needed to confirm these findings and robustly examine the effect on inconclusive outcomes. The review suggests that organised clinical services for AF can improve outcomes for people with AF, but more research is needed to fully understand the benefits and limitations of different approaches.\n\n**What did we find?**\n\nThe review included 8 studies (8205 participants) comparing collaborative, multidisciplinary or virtual care to usual care in adults (≥18 y) with atrial fibrillation (average age 60‑73) across China, the Netherlands and Australia. Outcomes evaluated were all-cause mortality, all-cause and cardiovascular hospitalisation, cardiovascular mortality, thromboembolic complications, major bleeding, quality of life, AF-related ED visits, symptom burden, cost and length of stay. Six studies were meta-analysed; overall risk of bias was judged high, mainly due to unclear or high risk of performance bias (blinding).\n\n**Main results: Organised AF clinical services**\n\nOrganised AF clinical services likely reduce mortality (large effect, high certainty), probably have little impact on all-cause hospitalisation (moderate effect, moderate certainty), may reduce cardiovascular hospitalisation (small, important, low certainty), and the effect on stroke/major bleeding is very uncertain.\n\n**Limitations**\n\nWe are confident that because it is possible that people in the studies were aware of which treatment they were getting.\n\n**Currency**\n\nThe evidence is up to date to October 2022 of search.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 491,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.458333333333332,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 134,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 36.339852766463025,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.27306771894094,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.413952817379496,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.482443991853362,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.32997284453496,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.63755940257977,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.583333333333333,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.317869789545146,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 158,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 491,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 491 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 8,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:40.597150"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015313.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of mucolytics for children with chronic suppurative lung disease? \n\n### Key Messages\n- We found very limited evidence on the effects of mucolytics for children with chronic suppurative lung disease, including bronchiectasis and protracted bacterial bronchitis. The single study we found suggested that using a mucolytic called hypertonic saline might reduce the number of exacerbations and improve lung function in these children, but this study had significant limitations that affect our confidence in its results.\n- No studies reported on the use of mucolytics during exacerbations or in children with protracted bacterial bronchitis, and there were no studies on oral mucolytics or other types of inhaled mucolytics.\n- Further research is needed to provide clear answers about the benefits and risks of mucolytics for children with chronic suppurative lung disease, including well-designed studies that look at different types of mucolytics and their effects on quality of life and other important outcomes.\n\n### Introduction to the review topic and review aims\nWhat is chronic suppurative lung disease? \nChronic suppurative lung disease (CSLD) is a term that describes a group of conditions affecting the lungs, including bronchiectasis and protracted bacterial bronchitis (PBB), characterized by a chronic wet or productive cough. This condition can significantly impact a child's quality of life and requires effective management to reduce symptoms and prevent complications.\n\nWhat did we want to find out? \nWe aimed to assess the effects of mucolytics, which are medicines that help loosen and clear mucus from the airways, in reducing exacerbations, improving quality of life, and other clinical outcomes in children with CSLD. We also wanted to evaluate the risk of harm due to adverse events associated with mucolytic use in this population.\n\n### What did we do? \nWe searched for studies that compared a mucolytic with a placebo or no intervention in children with chronic suppurative lung disease. We then assessed the quality of the studies and extracted the relevant data to analyze the outcomes of interest.\n\n### What did we find? \nWe found one study that met our inclusion criteria, which was a cross-over study comparing 3% hypertonic saline nebulised before chest physiotherapy with a control arm (physiotherapy alone) in children with non-cystic fibrosis bronchiectasis. The study reported a reduction in the rate of respiratory exacerbations and improvements in lung function measures (forced expiratory volume in one second, FEV1, and forced vital capacity, FVC) in the hypertonic saline group compared to the control group. However, we judged this study to be at high risk of bias due to issues like unblinding, missing data, and reporting bias, which affects our confidence in the results.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because the single study we found had significant methodological limitations, including a high risk of bias. The study's small size and the lack of data on important outcomes like quality of life also limit the conclusions we can draw. Furthermore, there is a lack of evidence on the use of mucolytics in other forms (like oral mucolytics) and in different settings or populations (such as children with protracted bacterial bronchitis).\n\n### How up to date is this evidence? \nThe evidence is up to date to September 2024. This review updates our previous understanding of the topic, and we are aware of two ongoing studies that may provide additional information in the future.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 599,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 28.523809523809526,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.5 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 180,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 35.941764051196486,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 15.332282375387553,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 15.941570872088406,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.012554257095157,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 20.691660704348518,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.7 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 59.90945226170602,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.9 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.952380952380953,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.76768579378329,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 241,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 241.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 139,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 139.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 188,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 599,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 599 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 10,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 55.55555555555556,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:37.297793"
+}

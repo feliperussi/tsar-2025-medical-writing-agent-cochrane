@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies effective for treating glioma, a type of brain tumor? \nWe looked at the evidence to find out.\n\n- Anti-PD-1 and anti-PD-L1 therapies probably do not have a significant benefit for treating glioma. \n- Most studies show no improvement in overall survival (the length of time a person lives) or progression-free survival (the length of time during and after treatment that a person lives with the disease but it does not get worse).\n- The evidence for serious unwanted effects (harmful side effects) is very uncertain.\n\nWhat is glioblastoma multiforme (GBM) and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of adult glioma, a kind of brain cancer. \nIt has a poor prognosis, with a median survival of only 16 months. \nThe tumor's environment suppresses the immune system, making it hard for the body to fight the cancer.\n\nWhat are immune checkpoint inhibitors (ICIs) and how do they work?\nImmune checkpoint inhibitors (ICIs) are a type of cancer treatment that helps the immune system recognize and attack cancer cells. \nThey work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of two specific ICIs, anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma, including GBM.\n\nHow did the review authors search for evidence?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma.\n\nWhat did the review authors find?\nThe review authors found that anti-PD-1 and anti-PD-L1 therapies probably do not have a significant benefit for treating glioma.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.\n\nWe hope this summary helps you understand the current state of evidence on anti-PD-1 and anti-PD-L1 therapies for treating glioma. \nMore research is needed to fully understand the potential benefits and harms of these therapies for people with glioma.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 417,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 20,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.85,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 38,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 17,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 119,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 65.97440827338131,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.236943645083937,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.783776978417265,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 7.484796163069543,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.670935251798563,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 42.19292565947242,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.45,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 10.483314773547882,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.827613237410072,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 153,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 66,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 89,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 417,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 417 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 7,
+        "P75_count": 2,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft generally conforms to typical PLS patterns, with most metrics within expected ranges, indicating good readability and clarity. Minor adjustments can further improve clarity and readability."
+    }
+  ]
+}

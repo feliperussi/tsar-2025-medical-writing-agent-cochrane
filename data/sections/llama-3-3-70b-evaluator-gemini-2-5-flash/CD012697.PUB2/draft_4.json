@@ -1,0 +1,162 @@
+{
+  "id": "CD012697.PUB2",
+  "draft": "Is magnetic seizure therapy (a non-invasive brain stimulation technique that uses magnetic fields to induce seizures) as effective as electroconvulsive therapy (ECT, a treatment that uses electricity to induce seizures) for people with schizophrenia? We looked at the evidence to find out.\n\n- Magnetic seizure therapy may be as effective as electroconvulsive therapy for improving symptoms in people with schizophrenia, but the evidence is very uncertain.\n- Magnetic seizure therapy may cause fewer unwanted effects, such as memory problems and cognitive issues, compared to electroconvulsive therapy, but more research is needed to confirm this.\n- We need more well-designed studies to determine the effectiveness and safety of magnetic seizure therapy for people with schizophrenia.\n\nWhat is schizophrenia and why is it a problem?\nSchizophrenia is a common mental disorder that affects about 1% of the population. It can cause hallucinations, delusions, and disorganized thinking.\n\nWhat are the current treatment options for schizophrenia?\nThe main treatment for schizophrenia is antipsychotic medication. However, for people who do not respond to antipsychotics, electroconvulsive therapy (ECT) is sometimes used. Researchers wanted to know if a newer treatment, magnetic seizure therapy (MST), could be a safer or more effective alternative to ECT.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the effectiveness and safety of magnetic seizure therapy for people with schizophrenia, by comparing it to electroconvulsive therapy or other interventions.\n\nHow did we conduct this review?\nWe searched for studies that compared magnetic seizure therapy to other treatments for people with schizophrenia. We then summarized their results and evaluated our confidence in the evidence.\n\nWhat did we find?\nWe found one study that compared magnetic seizure therapy to electroconvulsive therapy in 79 adults with acute schizophrenia. The study lasted for four weeks and found that magnetic seizure therapy may be as effective as electroconvulsive therapy for improving the overall symptoms of schizophrenia (such as hallucinations or lack of motivation). However, because of the study's limitations, the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is low because the only study we found was small. There were also flaws in the study's design that could have influenced the results (this is known as 'risk of bias'). For example, it's possible the participants knew which treatment they were receiving. This lack of blinding, along with other issues like not all outcomes being reported and the small sample size, means we cannot be sure of the true effects of magnetic seizure therapy.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2022.\n\nWe need more well-designed studies to confirm the findings and to determine the effectiveness and safety of magnetic seizure therapy for people with schizophrenia.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 483,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.655172413793103,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 39,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 134,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 43.500186335403754,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.32953380452631,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.925412293853071,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.419296066252581,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.02024701934747,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.574427072178196,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.482758620689655,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.770329614269007,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.233632783608197,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 196,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 113,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 159,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 483,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 483 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 5,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is factually accurate and meets most of our style guidelines. The readability scores are excellent. To make it even clearer for readers, I recommend focusing on these three improvements:\n\n1. **Simplify the title and define terms in the text.**\n   - **Current Title:** \"Is magnetic seizure therapy (a non-invasive brain stimulation technique that uses magnetic fields to induce seizures) as effective as electroconvulsive therapy (ECT, a treatment that uses electricity to induce seizures) for people with schizophrenia? We looked at the evidence to find out.\"\n   - **Why it's a problem:** This title is very long and contains complex definitions in parentheses, which can be overwhelming for readers at the very beginning.\n   - **Suggestion:** Move the definitions into the main text. A shorter title would be more effective. For example: **\"Is magnetic seizure therapy a safe and effective alternative to electroconvulsive therapy (ECT) for schizophrenia?\"** Then, you can define the terms in the 'What are the current treatment options?' section.\n\n2. **Use defined acronyms to improve flow and conciseness.**\n   - **Current Text:** The draft defines ECT in the title but then repeatedly uses the full term \"electroconvulsive therapy\" throughout the text. It never defines or uses an acronym for \"magnetic seizure therapy.\"\n   - **Why it's a problem:** Repeating the long, technical names makes sentences cumbersome. Using acronyms after defining them makes the text easier to read.\n   - **Suggestion:** Define both acronyms (MST and ECT) early on, and then use them throughout the text. For example, in the 'What are the current treatment options?' section: \"...electroconvulsive therapy (ECT) is sometimes used. Researchers wanted to know if a newer treatment, magnetic seizure therapy (MST), could be a safer or more effective alternative to ECT.\"\n\n3. **Remove the repetitive final sentence.**\n   - **Current Text:** The third key message is \"We need more well-designed studies to determine the effectiveness and safety of magnetic seizure therapy for people with schizophrenia.\" The final sentence of the summary is \"We need more well-designed studies to confirm the findings and to determine the effectiveness and safety of magnetic seizure therapy for people with schizophrenia.\"\n   - **Why it's a problem:** Repeating the main conclusion at the end, after it has already been stated clearly in the key messages, is redundant.\n   - **Suggestion:** Remove the final standalone sentence. The point is already made in the key messages, and the summary can end effectively with the 'Is the evidence up to date?' section.",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns, with 12 of 18 metrics (67%) falling into the best quartile for readability and clarity. The average sentence length is excellent (16.7 words), and the use of active voice and pronouns is strong. The only metric deviating from typical patterns is the SMOG index (grade level 13.8), which is slightly elevated due to necessary medical terms like 'schizophrenia' and 'electroconvulsive'. Overall, the metrics indicate a very strong structural foundation, but the editorial review identified key issues with the title's complexity and textual redundancy that should be addressed."
+    }
+  ]
+}

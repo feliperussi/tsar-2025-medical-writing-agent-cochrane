@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015171.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What are the benefits and risks of medicines for Ménière’s disease?\n\n**Key messages**\n\n– We do not know if medicines that affect the whole body (such as betahistine, diuretics, antivirals, or corticosteroids) help to improve the symptoms of Ménière’s disease. This is because there is not enough good-quality evidence.\n\n– The studies we found provided very little information about the unwanted or harmful effects of these treatments.\n\n– To find out if these treatments work, future studies need to be larger and better designed. Researchers should agree on the most important things to measure, such as how often people have dizziness attacks, and should always report on any harmful effects of the treatments.\n\n**What is Ménière’s disease?**\n\nMénière’s disease is a long-term condition that affects the inner ear. It causes sudden attacks of dizziness or a spinning feeling (known as vertigo). These attacks can also be accompanied by hearing loss, a ringing or buzzing sound in the ear (tinnitus), and a feeling of fullness or pressure in the ear. The cause of Ménière’s disease is not known.\n\n**How is Ménière’s disease treated?**\n\nSeveral different medicines are used to try to prevent the attacks of dizziness and other symptoms. These include:\n– betahistine\n– diuretics (sometimes called 'water pills')\n– antiviral medicines\n– corticosteroids (often called steroids)\n\nThese medicines are taken by mouth or by injection and affect the whole body. It is not clear how they might work to help with Ménière’s disease.\n\n**What did we want to find out?**\n\nWe wanted to find out if these medicines are better than a dummy treatment (placebo) or no treatment for people with Ménière’s disease. We were interested in both the benefits (such as fewer dizziness attacks) and the harms of the treatments.\n\n**What did we do?**\n\nWe searched for studies that compared different medicines (betahistine, diuretics, antivirals, or corticosteroids) with a placebo or no treatment for adults with Ménière’s disease. We compared and summarized the results of the studies and assessed how confident we could be in the evidence.\n\n**What did we find?**\n\nWe found 10 studies that included a total of 848 people. The studies looked at four different types of medicine.\n\n**Betahistine**\nSeven studies looked at betahistine. However, the studies measured the effects of the treatment in different ways and at different times. This meant we could not combine their results to get a clear answer. Based on the current evidence, it is unclear if betahistine has an effect on dizziness or other symptoms of Ménière's disease.\n\n**Diuretics (water pills)**\nTwo studies looked at diuretics. Again, we could not combine the results. The studies did not report on any serious harmful effects. It is unclear if diuretics have an effect on the symptoms of Ménière’s disease.\n\n**Other medicines**\nWe also found one small study on antiviral medicines and one on corticosteroids. It is unclear if these treatments have any effect on Ménière’s disease. These studies also did not report on serious harmful effects.\n\n**What are the limitations of the evidence?**\n\nWe are not confident in the evidence. This is because there were only a small number of studies for each medicine, and these studies often included few people. The studies also measured the effects of the treatments in different ways, which made it impossible to combine their results to get a clearer picture. Finally, most studies did not provide enough information about the possible harmful effects of the treatments.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 622,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 46,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.521739130434783,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.93840905913605,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.421420383056063,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.987782748497132,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.047588424437293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.518020411016359,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.22913462882706,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.1521739130434785,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.357109129036768,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 224,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 224.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 95,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 622,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 622 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:26.117504"
+}

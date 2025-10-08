@@ -1,0 +1,159 @@
+{
+  "file_id": "CD012697.PUB2",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Magnetic seizure therapy for people with schizophrenia\n\nBackground\nSchizophrenia is one of the most common and disabling mental disorders. About 20% of people with schizophrenia do not respond to antipsychotics, which are the mainstay of the treatment for schizophrenia today, and need to seek other treatment options. Magnetic seizure therapy (MST) is one of the novel non‐invasive brain stimulation techniques that are being investigated in recent years.\n\nObjectives\nTo evaluate the efficacy and tolerability of MST for people with schizophrenia.\n\nSearch methods\nOn 6 March 2022, we searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials which is based on CENTRAL, CINAHL, ClinicalTrials.Gov, Embase, ISRCTN, MEDLINE, PsycINFO, PubMed, and WHO ICTRP.\n\nSelection criteria\nAll randomised controlled trials (RCTs) comparing MST alone or plus standard care with ECT or any other interventions for people with schizophrenia.\n\nData collection and analysis\nWe performed reference screening, study selection, data extraction and risk of bias and quality assessment in duplicate. We calculated the risk ratios (RRs) and their 95% confidence intervals (CIs) for binary outcomes and the mean difference (MD) and their 95% CIs for continuous outcomes. We used the original risk of bias tool for risk of bias assessment and created a Summary of findings table using GRADE.\n\nMain results\nWe included one four‐week study with 79 adults in acute schizophrenia, comparing MST plus standard care to ECT plus standard care in this review. We rated the overall risk of bias as high due to high risk of bias in the domains of selective reporting and other biases (early termination and baseline imbalance) and unclear risk of bias in the domain of blinding of participants and personnel.\nWe found that MST and ECT may not differ in improving the global state (n = 79, risk ratio (RR) 1.12, 95% confidence interval (CI) 0.73 to 1.70), overall (n = 79, mean difference (MD) ‐0.20, 95% CI ‐8.08 to 7.68), the positive symptoms (n = 79, MD 1.40, 95% CI ‐1.97 to 4.77) and the negative symptoms (n = 79, MD ‐1.00, 95% CI ‐3.85 to 1.85) in people with schizophrenia.\nWe found  that MST compared to ECT may cause less delayed memory deficit and less cognitive deterioration (n = 79, number of people with a delayed memory deficit, RR 0.63, 95% CI 0.41 to 0.96; n = 79, mean change in global cognitive function, MD 5.80, 95% CI 0.80 to 10.80), but also may improve more cognitive function (n = 47, number of people with any cognitive improvement, RR 3.30, 95% CI 1.29 to 8.47).\nWe found that there may be no difference between the two groups in terms of leaving the study early due to any reason (n = 79, RR 2.51, 95% CI 0.73 to 8.59), due to adverse effects (n = 79, RR 3.35, 95% CI 0.39 to 28.64) or due to inefficacy (n = 79, RR 2.52, 95% CI 0.11 to 60.10).\nSince all findings were based on one study with high risk of bias and the confidence in the evidence was very low, we were not sure these comparable or favourable effects of MST over ECT were its true effects.\n\nAuthors' conclusions\nDue to the paucity of data, we cannot draw any conclusion on the efficacy and tolerability of MST for people with schizophrenia. Well‐designed RCTs are warranted to answer the question.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 589,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 31.0,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 26,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.181544991511046,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.426994906621392,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.949983022071308,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 6.815076400679121,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.308319185059425,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.90152801358234,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.7894736842105265,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.730282512733446,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 231,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 231.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 129,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 589,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 589 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 5,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:20.232613"
+}

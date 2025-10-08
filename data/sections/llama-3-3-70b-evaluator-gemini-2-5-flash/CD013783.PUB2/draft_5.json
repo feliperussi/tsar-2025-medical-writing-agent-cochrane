@@ -1,0 +1,162 @@
+{
+  "id": "CD013783.PUB2",
+  "draft": "How accurate are toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease? \n\nKey messages: \n- The accuracy of toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease is uncertain due to a lack of robust evidence.\n- Future studies should use stronger methods and report their results clearly to find out how accurate these tests really are.\n- Further studies are needed to comprehensively assess the benefits and potential harms of these diagnostic tests, particularly in different populations and settings.\n\nWhat is peripheral arterial disease? \nPeripheral arterial disease, or PAD, is a condition where blood flow to the legs is reduced. This happens when the blood vessels (arteries) become narrow from a buildup of fatty plaque. Reduced blood flow can cause serious problems, including pain when walking (claudication), wounds that don't heal, or dead tissue (gangrene). It also increases the risk of other serious health problems (morbidity) and death (mortality).\n\nWhy is it important to diagnose peripheral arterial disease accurately? \nWhen doctors diagnose PAD accurately and early, they can act to prevent complications. They can recommend treatments to slow the disease down or intervene with other procedures when needed.\n\nWhat did the review authors want to find out? \nThe review authors aimed to estimate the accuracy of toe systolic blood pressure and toe-brachial index for diagnosing PAD in the lower extremities, compare the accuracy of these two tests, and investigate possible sources of differences in test accuracy.\n\nHow did the review authors search for evidence? \nWe performed a systematic search of electronic databases for studies evaluating the diagnostic accuracy of the toe-brachial index and toe systolic blood pressure in detecting peripheral arterial disease. The search combined keywords, MeSH terms, and synonyms related to these tests, PAD, and diagnostic accuracy, without language or date restrictions.\n\nWhat were the inclusion criteria for the studies? \nWe included cross-sectional, case-control, and cohort studies that compared toe-brachial index or toe systolic blood pressure against a reference standard (e.g., angiography, duplex ultrasound) for PAD diagnosis. We only included studies that gave us enough information to judge how well the tests worked.\n\nWhat did the review authors find? \nWe found 18 studies in which these tests were used on a total of 2631 people to see if they had peripheral arterial disease. Most studies used colour duplex ultrasound as a reference standard. The evidence base to support the use of these tests to identify PAD is limited. Whilst both tests are used extensively clinically, the overall diagnostic performance of these tests remains uncertain.\n\nWhat are the limitations of the evidence? \nThe evidence is limited because the studies were not well-designed. For example, the researchers did not clearly report how they selected participants. Also, in some studies, the person interpreting the test may have known the results of other medical tests, which could have biased the results.\n\nIs the evidence up to date? \nThe evidence is up to date to February 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 517,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.233333333333334,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 22,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 156,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 48.452257575757585,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.782450676982592,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.982643455834946,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.18947775628627,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.48714377820761,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.46931012250161,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.268506408768537,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 210,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 124,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 124.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 517,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 517 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a solid draft that is factually accurate and well-structured. However, several sections use technical language and a formal tone that could be simplified for a lay audience. Focusing on the following 3 areas will make it much clearer for patients and the public.\n\n1. **Replace medical jargon with everyday language.**\n   - **Problematic sentence:** \"It also increases the risk of other serious health problems (morbidity) and death (mortality).\"\n   - **Why it's an issue:** \"Morbidity\" and \"mortality\" are technical terms. Even with definitions in parentheses, it's better to use simpler words directly to maintain flow and ease of reading.\n   - **Suggested rewrite:** \"It also increases the risk of other serious health problems and death.\"\n\n2. **Simplify the description of the research methods.**\n   - **Problematic section:** \"How did the review authors search for evidence? We performed a systematic search of electronic databases for studies evaluating the diagnostic accuracy of the toe-brachial index and toe systolic blood pressure in detecting peripheral arterial disease. The search combined keywords, MeSH terms, and synonyms...\"\n   - **Why it's an issue:** This section is written for a researcher, not a patient. Phrases like 'systematic search', 'evaluating diagnostic accuracy', and 'MeSH terms' are unfamiliar to a general audience and add unnecessary complexity.\n   - **Suggested rewrite:** \"How did we search for evidence? We searched major medical research databases for studies that checked how well these two tests work for diagnosing peripheral arterial disease.\"\n\n3. **Use more direct, active language in the results.**\n   - **Problematic sentence:** \"We found 18 studies in which these tests were used on a total of 2631 people to see if they had peripheral arterial disease.\"\n   - **Why it's an issue:** The phrase \"in which these tests were used\" is passive and wordy. A more direct, active voice makes the sentence shorter and easier to follow.\n   - **Suggested rewrite:** \"We found 18 studies that tested a total of 2631 people for peripheral arterial disease.\"\n\nThese changes are supported by the linguistic analysis, which found the number of the complex and long words to be higher than is typical for a Plain Language Summary. Simplifying these specific sentences will help improve overall readability.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft generally conforms to typical patterns, with 61.1% of features in the best quartile for readability and structure. However, it deviates in vocabulary complexity. The number of complex words (124) and long words (177) are in the P90 range, indicating a higher-than-usual use of technical or multi-syllable words, which supports the need for simplification."
+    }
+  ]
+}

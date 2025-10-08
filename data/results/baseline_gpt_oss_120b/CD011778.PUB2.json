@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011778.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs adding antimicrobial photodynamic therapy (aPDT) to regular deep cleaning better for gum disease?\n\nKey Messages  \n- We are very uncertain whether using aPDT together with the usual deep cleaning improves gum health (such as pocket depth, bleeding, attachment level or gum recession), and the possible benefit appears to be very small; no extra side‑effects were commonly reported.  \n- No studies looked at people with implant‑related gum disease, so we do not know if aPDT helps there.  \n- Because the existing studies were small, often had design problems, and gave inconsistent results, we need larger, well‑conducted research to find out whether aPDT really makes a difference.\n\nWhat is periodontitis and peri‑implant disease?  \nPeriodontitis is a long‑lasting (chronic) inflammation that destroys the tissues that hold teeth in place. Peri‑implant disease is a similar inflammation that affects the tissues around dental implants and can lead to loss of supporting bone. Both conditions can cause pain, loose teeth or implants, and affect eating and speaking.\n\nWhy do we clean the pockets around teeth and implants?  \nThe main treatment is to clean the deep pockets where plaque and bacteria hide. This cleaning, called subgingival instrumentation (SI) or scaling and root planing, removes the harmful biofilm and helps the gums heal. Good oral hygiene, quitting smoking and sometimes surgery are also part of standard care.\n\nWhat is antimicrobial photodynamic therapy (aPDT)?  \naPDT is a treatment that first applies a special light‑absorbing chemical (a photosensitising agent) to the gum pocket, then shines a specific light on it. The light activates the chemical and kills the bacteria that cause gum disease.\n\nWhat did we want to find out?  \nWe wanted to see whether adding aPDT to the usual deep cleaning gives better results than deep cleaning alone (or deep cleaning with a fake aPDT) for adults with periodontitis or implant‑related gum disease.\n\nWhat did we do?  \nWe searched several medical databases for studies that compared deep cleaning with and without aPDT. We combined the findings from those studies and judged how confident we could be in the results.\n\nWhat did we find?  \nWe found 50 studies that together included 1,407 people with gum disease. Most studies used a split‑mouth design, meaning each person received both treatments in different parts of the mouth. The studies were small, ranging from 10 to 88 participants, and were carried out in many countries. The cleaning was done with hand or power tools before aPDT was applied. Only five studies used a placebo version of aPDT as the comparison.\n\nOverall, the evidence is very uncertain. It is unclear if adding aPDT improves:\n- the depth of the gum pockets,\n- the amount of bleeding when the gums are probed,\n- the level at which the gum tissue is attached to the tooth,\n- the amount of gum recession.\n\nThese possible differences were judged to be too small to matter in everyday life. Regarding safety, the evidence (moderate confidence) suggests that aPDT probably makes little or no difference to side‑effects; most studies reported no adverse effects.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because people in the studies were not randomly placed into the different treatment groups, and because the studies were very small. These issues make it hard to tell whether any observed effects are real.\n\nHow up to date is this evidence?  \nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 591,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.885714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 64.01275126903555,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.525716219482717,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.642197244379986,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.449272419627746,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.913338167754413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.29688179840464,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.628571428571429,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.888194417315589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.982539888808315,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 230,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 230.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 591,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 591 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:00.508149"
+}

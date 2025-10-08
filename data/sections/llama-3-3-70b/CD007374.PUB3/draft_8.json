@@ -1,0 +1,162 @@
+{
+  "id": "CD007374.PUB3",
+  "draft": "Do education programs help people with chronic kidney disease (a condition where the kidneys do not work properly) and diabetes manage their condition and improve their health?\n\n- Education programs for people with chronic kidney disease (CKD) and diabetes probably improve their blood sugar control, as shown by a blood test that measures average blood sugar levels over the past 2 to 3 months, known as HbA1c.\n- Education programs may also improve knowledge of diabetes care and some self-management practices, such as diet and exercise, in people with CKD and diabetes.\n- More research is needed to understand the benefits and potential harms of education programs for people with CKD and diabetes, particularly in the long term.\n\nWhat is chronic kidney disease and diabetes, and why is it a problem?\nChronic kidney disease (CKD) is a condition where the kidneys gradually lose their ability to function properly. Diabetes is a condition where the body is unable to regulate blood sugar levels. Both conditions can lead to serious health problems if not managed properly. People with CKD and diabetes often have to follow complex treatment regimens, including strict diets, regular blood sugar monitoring, and medication.\n\nWhat are education programs for people with CKD and diabetes, and how can they help?\nEducation programs for people with CKD and diabetes aim to teach individuals about their condition, how to manage it, and how to make lifestyle changes to improve their health. These programs can include information and behavioral instructions, advice, and support from healthcare providers. The goal of these programs is to improve individuals' knowledge, skills, and confidence in managing their condition.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the benefits and harms of education programs for people with CKD and diabetes. They aimed to find out whether these programs can improve health outcomes, such as blood sugar control, kidney function, and quality of life.\n\nWhat did we find?\nWe found 8 studies that involved 840 people with CKD and diabetes. The studies were conducted over a follow-up period of up to 18 months. Education programs may improve knowledge of some areas related to diabetes care and some self-management practices. Education programs probably decrease a measure of blood sugar control in people with CKD and diabetes.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, and not all studies reported data on all outcomes of interest. More research is needed to understand the benefits and potential harms of education programs for people with CKD and diabetes.\n\nThe evidence is up to date to July 2024. We will continue to monitor new research in this area and update the summary as necessary.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 470,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 22,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.363636363636363,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 7,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 43,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 21,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 162,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.23090909090911,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.420967117988397,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.210562862669242,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.476340425531912,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.034816247582206,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.85299806576403,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.7272727272727275,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.327379053088816,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.90529593810445,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 174,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 88,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 148,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 470,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 470 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The response was incomplete because the agent stopped due to reaching the maximum iteration limit, indicating a failure to produce the required output.",
+      "pls_evaluation_summary": "The agent did not complete the task; it halted prematurely, so the submission cannot be approved."
+    }
+  ]
+}

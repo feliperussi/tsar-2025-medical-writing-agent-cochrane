@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014592.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can hormone replacement therapy help women with pelvic organ prolapse after menopause? \nWe found that hormone replacement therapy may help with pelvic organ prolapse symptoms in postmenopausal women, but the evidence is not strong enough to make any solid conclusions. \nUsing topical oestrogen (a type of hormone therapy) with pessaries (a device inserted into the vagina to support the uterus) or surgery may have some benefits, such as fewer vaginal problems (like irritation or soreness) and fewer urinary tract infections after surgery. \nHowever, we are not confident in these results because the studies were all designed in different ways, making them difficult to compare.\n\nWhat is pelvic organ prolapse? \nPelvic organ prolapse (POP) is a health condition where a woman’s uterus, bladder, or rectum descends into the vagina. \nIt affects about 50% of women over 50 years old who have given birth to at least one child. \nRisk factors for POP include older age, having had multiple births, and being overweight. \nPOP can cause discomfort, pain, and difficulty with daily activities.\n\nWhy is it important to find effective treatments for pelvic organ prolapse? \nPOP is a common problem that can significantly impact a woman’s quality of life. \nWhile there are some treatments available, such as pelvic floor muscle training, vaginal pessaries, and surgery, there is a need to find the most effective and safe treatments. \nOestrogen therapy is one potential treatment option that has been studied.\n\nWhat did we want to find out? \nWe wanted to find out the benefits and harms of oestrogen therapy, alone or in combination with other treatments, for managing POP symptoms in postmenopausal women. \nWe also aimed to summarize the findings of relevant economic evaluations to determine the cost-effectiveness of oestrogen therapy for POP.\n\nHow did we search for evidence? \nWe searched major medical research databases for studies up to June 2022. \nWe looked for robust studies (called randomised controlled trials) that compared oestrogen therapy against other treatments, no treatment, or a placebo (dummy treatment) in postmenopausal women with pelvic organ prolapse.\n\nWhat were the main results of the review? \nThe review found that oestrogen therapy may reduce the risk of pelvic organ prolapse symptoms in postmenopausal women, but the evidence is not strong enough to make any solid conclusions. \nTopical oestrogen in conjunction with pessaries may be associated with fewer vaginal problems, and topical oestrogen in conjunction with surgery may reduce urinary tract infections after surgery. \nHowever, these findings should be interpreted with caution due to the varying design of the studies.\n\nWhat are the limitations of the evidence? \nThe evidence is limited by several factors: potential performance bias because participants may have known which treatment they received, incomplete reporting, very small sample sizes, and limited applicability.\n\nIs the evidence up to date? \nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 498,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.444444444444443,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.623527443105786,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.198915662650602,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.963908969210173,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.52289156626506,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.891834002677378,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.167336010709505,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.295630140987,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.478157697456493,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 207,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 498,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 498 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:26.792977"
+}

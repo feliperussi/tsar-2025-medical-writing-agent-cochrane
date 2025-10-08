@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab probably reduces the risk of symptoms coming back in people with Crohn's disease compared to a dummy treatment. \n- For every 100 people taking a dummy treatment, about 75 had a relapse. In comparison, for every 100 people taking infliximab, about 56 did not have a relapse.\n- Infliximab combined with another type of medicine for Crohn's disease (called purine analogues) is probably more effective in preventing symptoms from coming back than purine analogues alone. \n- For every 100 people treated with infliximab and purine analogues, 12 may not have a clinical relapse, compared to 59 out of 100 people treated with purine analogues alone.\n- There may be little to no difference in the risk of symptoms coming back between infliximab and a biosimilar (a medicine that is a near-identical copy of another biologic medicine).\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to a combination of genetic, environmental, and immune system factors. Current treatments for Crohn's disease often involve medications that reduce inflammation and suppress the immune system, as well as surgery in some cases. However, these treatments do not always work and can have significant side effects.\n\nWhat is infliximab and how does it work?\nInfliximab is a type of biologic medication, specifically a monoclonal antibody, that targets and neutralizes a protein called tumor necrosis factor-alpha (TNF-alpha). TNF-alpha is a substance in the body that promotes inflammation and is often found in high levels in people with Crohn's disease. By blocking TNF-alpha, infliximab can help reduce inflammation and alleviate symptoms of Crohn's disease.\n\nWhat did the review authors want to find out?\nWe wanted to determine the effectiveness and safety of infliximab for maintaining remission in patients with Crohn's disease. We compared infliximab to a dummy treatment, other biologic medications, and conventional therapies, and looked at outcomes such as clinical relapse, loss of clinical response, and adverse events.\n\nHow did we do the review?\nWe searched for studies comparing infliximab to other treatments for Crohn's disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 9 studies that involved 1257 people with Crohn's disease. Infliximab probably reduces the risk of clinical relapse in patients with Crohn's disease compared to a dummy treatment. Infliximab combined with purine analogues probably reduces the risk of clinical relapse compared to purine analogues alone. There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar. Infliximab may lead to more loss of clinical response than a biosimilar.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for several reasons: \n- The studies included only a small number of people.\n- In some studies, it wasn't clear if people knew which treatment they were getting. When participants or doctors know who is getting the real medicine, it can unintentionally influence how they report symptoms. This is a potential source of bias that can affect our confidence in the results.\n- The studies did not always report on all the outcomes we were interested in.\n\nHow up to date is this evidence?\nThe evidence is up to date to June 2023.\n\nWe made the following changes to the original draft:\n- Corrected factual errors in the key messages section\n- Simplified complex language and sentence structures\n- Added explanations for medical terms\n- Improved the flow and clarity of the text\n- Ensured the text remains scientifically accurate and compliant with the STYLE_GUIDE rules.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 673,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.393939393939394,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 59,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 179,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.49295240668201,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.422477374037552,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.176211896078165,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.72445765230312,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.478526723400424,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.44891710567788,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.333333333333333,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.532562594670797,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.759756333018146,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 245,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 140,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 209,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 209.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 673,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 673 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 4,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved due to critical factual errors in the key messages that misrepresent the study's findings. Additionally, while the sentence structure is good, the vocabulary is overly complex and noun-heavy, which makes the text harder for a lay audience to read.\n\n**Critical Issue: Factual Errors in Key Messages**\n\nThe summary incorrectly reverses the main findings, stating that a certain number of people *did not* have a relapse when the data shows they *did*. This fundamentally misleads the reader.\n\n1.  **Error 1 (Infliximab vs. Placebo):**\n    *   **Your text:** \"...for every 100 people taking infliximab, about 56 did not have a relapse.\"\n    *   **Problem:** This is incorrect. The source data shows a 56% relapse rate *with* infliximab. Your version makes the drug appear much less effective than it is.\n    *   **Suggested Rewrite:** \"...for every 100 people taking infliximab, about 56 had a relapse.\"\n\n2.  **Error 2 (Infliximab + Purine Analogues):**\n    *   **Your text:** \"For every 100 people treated with infliximab and purine analogues, 12 may not have a clinical relapse...\"\n    *   **Problem:** This is also incorrect. The source data shows a 12% relapse rate for the combination therapy.\n    *   **Suggested Rewrite:** \"For every 100 people treated with infliximab and purine analogues, 12 had a relapse...\"\n\n**Top 3 Improvements Needed for Clarity**\n\n1.  **Replace Complex Medical Terms with Simpler Language**\n    The text uses many long, technical words that can be simplified. This is supported by the high scores for `long_words`, `complex_words`, and `smog_index`.\n    *   **Your text:** \"Current treatments for Crohn's disease often involve medications that reduce inflammation and suppress the immune system, as well as surgery in some cases. However, these treatments do not always work and can have significant side effects.\"\n    *   **Problem:** Words like 'medications', 'inflammation', 'suppress', and 'significant' add unnecessary complexity.\n    *   **Suggested Rewrite:** \"Current treatments often use drugs to lower swelling and calm the immune system. Surgery is also an option. But these treatments don't always work and can have major side effects.\"\n\n2.  **Use Verbs Instead of Noun Forms (Nominalizations)**\n    The draft often uses nouns to describe actions, which makes sentences less direct. The `nominalization` score is high (P90), confirming this pattern.\n    *   **Your text:** \"We wanted to determine the effectiveness and safety of infliximab for maintaining remission in patients with Crohn's disease.\"\n    *   **Problem:** \"Maintaining remission\" is an abstract noun phrase.\n    *   **Suggested Rewrite:** \"We wanted to find out how well and how safely infliximab works to keep Crohn's disease in remission.\"\n\n3.  **Clarify the Explanation of Study Limitations**\n    The explanation of bias is good but could be more direct and concise.\n    *   **Your text:** \"In some studies, it wasn't clear if people knew which treatment they were getting. When participants or doctors know who is getting the real medicine, it can unintentionally influence how they report symptoms. This is a potential source of bias that can affect our confidence in the results.\"\n    *   **Problem:** This explanation is spread across three sentences and is a bit wordy.\n    *   **Suggested Rewrite:** \"Some studies may not have been 'blinded', meaning participants and doctors might have known who was getting the real medicine. This knowledge can influence how symptoms are reported and reduces our confidence in the results.\"\n",
+      "pls_evaluation_summary": "The evaluation shows moderate conformity with typical PLS patterns. While readability and sentence structure metrics are strong (e.g., Flesch-Kincaid Grade and words_per_sentence are in good ranges), there is a significant deviation in vocabulary complexity. Six key metrics, including `long_words` (BEYOND_P90), `complex_words` (P90), `nominalization` (P90), and `smog_index` (P90), are much higher than is typical for a PLS. This indicates that while sentences are a good length, the word choice is too technical and noun-heavy, making the text more difficult to understand than it needs to be."
+    }
+  ]
+}

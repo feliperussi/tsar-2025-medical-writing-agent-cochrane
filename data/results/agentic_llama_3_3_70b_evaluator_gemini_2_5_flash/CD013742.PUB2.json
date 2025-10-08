@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "How accurate are blood tests for diagnosing vitamin A deficiency in people who are at risk of having low levels of vitamin A?\n\n- We found that blood tests for vitamin A deficiency might not be very accurate. This means they might not always give the correct result. Most tests have 'low sensitivity,' meaning they often miss people who actually have the deficiency. They also have 'high specificity,' meaning they are good at correctly identifying people who do not have the deficiency.\n- The studies we found did not report on any harms from these blood tests. However, the evidence was not high quality, so the results should be interpreted with caution.\n- Future research should focus on conducting high-quality studies that directly compare the accuracy of different blood tests for vitamin A deficiency, including assessing their benefits and potential harms, to provide clearer guidance for healthcare providers and patients.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition that occurs when the body does not have enough vitamin A (a vitamin important for good health). Without enough vitamin A, children may not grow properly, the body can't fight infections well, people get sick more often, and it can cause eye problems. In severe cases, it can be fatal for mothers and children.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out how accurate certain blood tests are at diagnosing vitamin A deficiency in people who are at risk, especially when the deficiency is not yet causing obvious symptoms. They also looked at why the results might have been different across the studies.\n\nHow did we search for studies?\nWe conducted a systematic search of electronic databases for studies evaluating vitamin A deficiency tests, using predefined keywords and inclusion criteria.\n\nHow did we combine the study data?\nWhen studies were similar enough, we combined their results to get a more reliable overall picture of the tests' accuracy.\n\nHow confident are we in the evidence?\nWe assessed how confident we could be in the results. We looked at how the studies were done, how similar their results were, and if the findings were precise.\n\nWhat did we find?\nWe found 40 studies that involved a total of 385 to 1295 participants. The studies were conducted in various countries around the world, without any restriction on age, sex, pregnancy status, breastfeeding status, physiological condition, or living location. Most studies were cross-sectional or cohort-accuracy studies, and some were longitudinal or interventional studies. The studies looked at several common blood tests (like serum retinol) and compared their results to more accurate 'gold standard' tests (like measuring vitamin A directly in the liver). This helps us see how well the common tests perform.\n\nWhat are the limitations of the evidence?\nA major limitation is that none of the studies we found were specifically designed to test the accuracy of these blood tests. The studies also had very small sample sizes, and the evidence does not cover all relevant populations or outcomes, limiting confidence in the findings.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 555,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.903225806451612,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.97998256320838,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.038384190642258,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.77318047079337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.32569369369369,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.728857890148214,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.55187445510026,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.129032258064516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.691891891891893,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 204,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 159,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 555,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 555 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:25.824230"
+}

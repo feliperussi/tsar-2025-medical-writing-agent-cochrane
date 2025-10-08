@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015219.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is favipiravir (an antiviral medication that fights viruses) helpful for treating COVID‑19?  \n\nKey messages  \n- We found no clear evidence that favipiravir improves survival or speeds (clinical improvement) recovery. The studies are few, small, and not robust, and they suggest the drug may cause more overall side effects (unwanted problems) but not more serious side effects (more harmful problems).  \n- We saw no consistent benefit for reducing death, the need for mechanical ventilation (a breathing machine inserted through a tube), or faster recovery in adults under 60 years with mild‑to‑moderate disease who were mostly in hospital.  \n- We recommend larger, high‑quality randomised controlled trials (studies where participants are randomly assigned to receive either the drug or a comparison) that test different severity groups, longer treatment periods, and careful monitoring of both common and serious side effects.  \n\nWhy does COVID‑19 matter and what treatments are used?  \nCOVID‑19 is caused by SARS‑CoV‑2 (the virus that causes COVID‑19). The illness can overwhelm hospitals and lead to severe breathing problems that are life‑threatening. Doctors have used steroids, other antivirals, oxygen therapy (extra oxygen given through a mask or tube), and supportive care such as fluids and monitoring. Favipiravir is an antiviral pill that some experts thought might help, but its true benefit has been unclear.  \n\nWhat did we found out about favipiravir?  \nWe aimed to determine whether favipiravir improves outcomes for people with acute COVID‑19. We compared favipiravir with no treatment, standard of care (the usual treatment given to patients), or other experimental (still being tested) antivirals. We looked at death, the need for a breathing machine, hospital admission, speed of recovery, and any harmful side effects.  \n\nHow did we look for evidence?  \nWe searched electronic databases for randomised controlled trials that compared favipiravir with placebo (a dummy treatment that looks like the real medicine but contains no active drug) or standard of care. We extracted data from each trial and combined the results using a meta‑analysis (a statistical method that pools findings from several studies). We assessed the certainty of the evidence with GRADE (a system that rates how confident we are in the evidence).  \n\nWhat did we find?  \nWe identified 25 trials that enrolled 5,750 adults with COVID‑19. Most participants were younger than 60 years, were hospitalised, and had mild‑to‑moderate disease (about 89%). The trials were conducted in many countries worldwide. In 22 trials favipiravir was compared with placebo or standard of care; two trials used lopinavir/ritonavir (a pair of medicines originally used to treat HIV) and one used umifenovir as the comparator. The usual dose started with 1,600 mg or 1,800 mg twice on day 1, followed by 600 mg–800 mg twice daily for 5–14 days.  \n\nThe evidence is very uncertain. Favipiravir probably does not reduce the risk of death, the need for invasive mechanical ventilation, hospital admission for out‑patients, the need for oxygen therapy, or the time to clinical improvement. It may increase the chance of any side‑effects, but probably does not increase serious side‑effects. Overall, we cannot say that favipiravir is a proven effective treatment for COVID‑19.  \n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the trials were very small and varied in participant types and how the drug was given.  \n\nHow current is the evidence?  \nThe evidence is up to date to July 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 583,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.21875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.420841820325904,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.055278194682678,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.460095411663808,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.766518010291591,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.726608061749573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.03521655231561,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.25,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.620493910806175,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 248,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 248.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 123,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 123.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 583,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 583 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:06.728406"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010639.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: How different shift‑work schedules affect workers’ health and safety\n\nKey messages:\n- Changing the order of night and day shifts may change how sleepy, tired, and alert workers feel.\n- Some schedules might improve performance and reduce mistakes, but the evidence is not strong.\n- Certain schedules could lower the chance of heart disease, diabetes, cancer, and early death, though we are more confident about these findings.\n- The research we looked at is a few years old, so newer studies might change these conclusions.\n\nIntroduction\n\nWhat is shift work?\nShift work means working at times that are not the usual 9‑to‑5 schedule. This can include night shifts, early‑morning shifts, or rotating between different times of day. Many jobs, such as health‑care, manufacturing, and public safety, use shift work to keep services running 24 hours a day.\n\nWhy does the order of shifts matter?\nWhen workers move from night shifts to day shifts (or the opposite), their bodies have to adjust their internal clocks. Some researchers think that moving forward in time (for example, from a night shift to an early‑morning shift) is easier for the body than moving backward. Others think that keeping the same schedule every week might be best. Understanding which pattern works best can help keep workers healthy and safe.\n\nWhat did we do?\nWe looked at studies that compared three ways of arranging shift work: (1) forward rotation (moving to later times each week), (2) backward rotation (moving to earlier times each week), and (3) no rotation (keeping the same schedule each week). We included research that measured things like sleepiness, fatigue, alertness, work performance, mistakes, accidents, and long‑term health outcomes such as heart disease, diabetes, cancer, and death.\n\nWhat did we find?\nStudy characteristics: The review included 31 studies with a total of about 2,000 workers. Most studies were done in Europe and North America and looked at people who worked rotating night shifts.\n\nMain results (plain‑language statements):\n- Forward rotation may reduce sleepiness during shifts (we have little confidence in this finding).\n- Forward rotation may reduce fatigue (we have little confidence in this finding).\n- Forward rotation may improve alertness (we have little confidence in this finding).\n- Forward rotation may improve work performance (we have little confidence in this finding).\n- Forward rotation may reduce the number of mistakes made at work (we have little confidence in this finding).\n- Forward rotation may lower the chance of accidents at work (we have little confidence in this finding).\n- Forward rotation may improve overall health (we have low confidence in this finding).\n- Forward rotation may improve well‑being (we have low confidence in this finding).\n- Forward rotation may improve sleep quality (we have low confidence in this finding).\n- Forward rotation may reduce insomnia (we have low confidence in this finding).\n- Forward rotation may reduce depression (we have low confidence in this finding).\n- Forward rotation may reduce anxiety (we have low confidence in this finding).\n- Forward rotation may reduce stress (we have low confidence in this finding).\n- Forward rotation may reduce burnout (we have low confidence in this finding).\n- Forward rotation may lower the risk of heart disease (we are fairly confident in this finding).\n- Backward rotation may lower the risk of heart disease (we are fairly confident in this finding).\n- Backward rotation may lower the risk of diabetes (we are fairly confident in this finding).\n- Backward rotation may lower the risk of cancer (we are fairly confident in this finding).\n- Backward rotation may lower the risk of early death (we are fairly confident in this finding).\n\nWhat are the limitations of the evidence?\nMany of the studies were small and did not always follow workers for a long time. Some studies did not control for other factors that could affect health, such as diet or exercise. Because of these issues, we often have only little or low confidence in the results, especially for short‑term outcomes like sleepiness and fatigue.\n\nHow up to date is this evidence?\nThe evidence is not up to date. The latest studies included were published up to 2022, and newer research may have been released since then. This means the conclusions could change as more recent data become available.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 730,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.857142857142858,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 77,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 45,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 45.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 220,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 62.58938356164387,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.710861056751465,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.890393346379646,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.110739726027397,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.534637964774953,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.56947162426614,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.571428571428571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.246950765959598,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.3072540117416835,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 290,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 290.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 113,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 195,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 730,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 730 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:16.386341"
+}

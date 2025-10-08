@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015171.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and harms of systemic pharmacological interventions for people with Meniere’s disease?\n\nMeniere’s disease is a condition that causes episodes of vertigo, hearing loss, and tinnitus. Several pharmacological interventions, including betahistine, diuretics, antiviral medications, and corticosteroids, have been used to manage this condition. However, the efficacy of these interventions in preventing vertigo attacks and associated symptoms is unclear.\n\nKey messages:\n- Due to a lack of robust evidence, the benefits and harms of most pharmacological interventions for Meniere’s disease are unclear.\n- Betahistine, diuretics, antivirals, and corticosteroids have been studied, but the evidence is of low or very low certainty.\n- Future research should focus on establishing a core outcome set to guide studies and enable meta-analyses of results, including consideration of potential harms and benefits.\n\nIntroduction:\nMeniere’s disease affects people worldwide, causing vertigo, hearing loss, and tinnitus. The underlying cause is unknown, and treatments may work in unknown ways.\n\nWhat did we want to find out?\nWe wanted to evaluate the benefits and harms of systemic pharmacological interventions versus placebo or no treatment in people with Meniere’s disease.\n\nWhat did we do?\nWe searched for studies comparing these interventions to placebo or no treatment and evaluated the evidence.\n\nWhat did we find?\nWe included 10 studies with 848 participants, evaluating betahistine, diuretics, antivirals, and corticosteroids. However, the evidence was of low or very low certainty, making it difficult to draw meaningful conclusions.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence due to the low quality of studies and lack of standardization in outcome measurement.\n\nHow up to date is this evidence?\nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 300,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.647058823529413,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 26,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 14,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 85,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 40.591235294117666,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.981686274509805,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.665729411764708,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.824266666666666,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.32549019607843,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.31372549019608,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.647058823529412,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.888194417315589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.191294117647059,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 113,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 300,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 300 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 11,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 61.111111111111114,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:36.904950"
+}

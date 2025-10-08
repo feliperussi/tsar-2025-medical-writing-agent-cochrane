@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013421.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of using sealants to stop bleeding after vascular surgery? \n\n### Key Messages\n- We found that sealants may reduce the time it takes to stop bleeding and the rate of bleeding complications after vascular surgery, but the evidence is not very certain. \n- Sealants may not make a difference in the amount of blood lost during surgery, the length of the operation, or the risk of bleeding after surgery. \n- Future research should focus on doing better studies to find out if sealants are really effective and safe.\n\n### Introduction to the review topic and review aims\nWhat is vascular surgery and why is stopping bleeding important? \nVascular surgery involves operations on the arteries, veins, and other blood vessels. Sometimes, these operations require connecting blood vessels or grafts, which can lead to bleeding. Stopping this bleeding is crucial to prevent serious complications. \nWhat did we want to find out? \nWe wanted to find out if sealants work better than standard treatments to stop bleeding after vascular surgery, and what the potential benefits and harms are.\n\n### What did we do? \nWe searched for studies that compared the use of sealants with standard treatments to stop bleeding after vascular surgery. We combined and evaluated the results of these studies to find out if sealants are effective and safe.\n\n### What did we find? \nWe included 24 studies with 2376 participants. The studies compared sealants with standard treatments like manual compression. We found that sealants may reduce the time it takes to stop bleeding and the rate of bleeding complications, but the evidence is not very certain. We also found that sealants may not make a difference in the amount of blood lost during surgery, the length of the operation, or the risk of bleeding after surgery.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because the studies had some flaws, such as the risk of bias. This means that the results might be influenced by factors other than the sealants themselves. \n\n### How up to date is this evidence? \nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 386,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.705882352941178,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 91,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.4636589454435,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.048195672051204,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.751879000304783,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.899378238341964,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.36732703444072,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.90795489180128,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.176470588235294,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.348469228349535,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.116833526363914,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 51,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 105,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 386,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 386 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:33.205270"
+}

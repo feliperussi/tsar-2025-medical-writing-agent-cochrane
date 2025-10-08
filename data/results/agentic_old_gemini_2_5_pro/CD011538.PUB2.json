@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011538.PUB2",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Can education support help children and teenagers with long-term illnesses do better at school?\n\nKey messages\n- We are uncertain if education support helps children and teenagers with long-term illnesses do better at school or feel more connected to their education. It may slightly improve their mental health (a person’s overall psychological and emotional condition), measured as self-esteem. The studies did not report on any unwanted effects.\n- More and larger studies are needed because there is very little high-quality research in this area.\n\nWhat is a long-term illness and how does it affect schooling?\nLong-term illnesses (also called chronic health conditions) are health problems that can affect children and teenagers for a long time. These conditions are not contagious (cannot be spread to other people) and are rarely cured completely. When children have a long-term illness, they may miss a lot of school. Missing school can make it hard to keep up with lessons. It can also affect their social life and well-being. This can lead to poorer grades and fewer career choices later in life. Education support aims to help children with long-term illnesses stay connected with their school and learning, especially when they are absent.\n\nWhat did we want to find out?\nWe wanted to find out how well education support works for children and teenagers with long-term illnesses. We were interested in whether this support helped to improve students' school engagement (how involved they are with school) and their academic achievement (how well they do in their studies).\n\nWhat did we do?\nWe searched for studies that tested if educational support helps children with long-term illnesses with their school engagement and academic achievement. We summarized the results from the 4 studies we found. We also rated our confidence in the evidence.\n\nWhat did we find?\nOur review included 4 studies with a total of 359 children and teenagers (aged 4 to 18 years) with a long-term illness. 3 studies focused on children with cancer, and 1 focused on children with Attention Deficit Hyperactivity Disorder (ADHD). The studies looked at different types of educational support (actions taken to improve health).\n\nWe are uncertain if this support improves school engagement, academic achievement, or a child's transition back to school. However, education support may slightly improve mental health (a person’s overall psychological and emotional condition), measured as self-esteem. No studies in the review measured quality of life (how someone feels and functions day to day) or any unwanted effects.\n\nHow reliable is the evidence?\nWe are not confident in the evidence for several reasons.\n- There are not enough studies to be certain about the results.\n- The included studies were very small.\n- The evidence focused on specific health conditions, but our question was broader.\n- It is possible that people in the studies were aware of which treatment they were getting. This could have introduced a flaw (bias) in the study design.\n\nHow up to date is this evidence?\nThis evidence is up to date to February 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 533,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.676470588235293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.404433009601604,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.589114336165988,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.491330978920644,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.8805253283302,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.19929367619468,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.63144244564617,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.382352941176471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.1104335791443,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.495132678512306,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 193,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 79,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 533,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 533 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:11.452881"
+}

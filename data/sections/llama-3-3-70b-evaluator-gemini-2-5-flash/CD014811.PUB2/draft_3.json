@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "Is continuous infusion of loop diuretics more effective than bolus injection for treating acute heart failure?\n\nKey Messages\n- Continuous infusion of loop diuretics may result in slightly more weight loss than bolus injection for acute heart failure, but the evidence is not strong.\n- We found little to no difference in outcomes like death, hospital stay length, readmission, or kidney injury between continuous infusion and bolus injection.\n- More research is needed to understand the effects of these treatments, especially considering factors like heart failure severity and quality of care.\n\nWhat is acute heart failure and why is it a problem?\nAcute heart failure (AHF) is when the heart suddenly stops working properly, causing fluid buildup in the body. This leads to symptoms like shortness of breath, fatigue, and leg swelling. AHF requires urgent medical attention, often involving diuretics (medicines that remove excess fluid).\n\nWhat are loop diuretics and how are they used to treat acute heart failure?\nLoop diuretics are a type of diuretic that help the kidneys remove excess fluid. They can be given as a continuous infusion (slowly over time) or a bolus injection (all at once). We wanted to find out if one method is more effective than the other for treating AHF, looking at outcomes like weight loss, mortality, and hospital stay length.\n\nHow did we conduct this review?\nWe searched for studies comparing continuous infusion and bolus injection of loop diuretics for AHF, summarized their results, and rated our confidence in the evidence. We found 7 studies involving 681 people with AHF across 32 hospitals in 7 countries. The studies compared continuous infusion with bolus injection, but the evidence is limited due to small sample sizes and varied methods.\n\nWhat did we find?\nContinuous infusion may result in a bit more weight loss than bolus injection, but it's unclear if this affects outcomes. There may be little to no difference in all-cause mortality, hospital stay length, readmission, and kidney injury between the two methods. The evidence is very uncertain, and more research is needed to understand the effects of these treatments.\n\nWhat are the limitations of this evidence?\nThe studies had small sample sizes, and participants may have known their treatment. The studies also involved different types of people and varied methods, which limits the evidence. The evidence is up to date to February 2024. We need more research to understand the long-term effects of continuous infusion versus bolus injection, considering factors like heart failure severity and quality of care.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 431,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.958333333333332,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 37,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 150,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 54.34650280355763,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.14043213457077,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.716684068058782,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.474245939675175,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.071964423820573,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.12074632637278,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.416666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.219544457292887,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.448529156999228,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 179,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 85,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 130,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 431,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 431 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 8,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns, with 83.3% of metrics falling within the best quartile for readability and clarity. Key indicators such as sentence length (17.96 words), passive voice count (6 instances), and Flesch-Kincaid grade level (10.14) are all excellent, indicating a clear and accessible text. No metrics show significant deviation from typical patterns."
+    }
+  ]
+}

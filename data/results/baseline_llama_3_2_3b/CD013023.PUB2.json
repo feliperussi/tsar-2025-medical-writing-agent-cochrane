@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of different dressings and securement devices for peripheral arterial catheters?**\n\n**Key Messages:**\n\n* We found no clear difference in the incidence of AC failure, CRBSI, or adverse events across AC dressing or securement products.\n* The limitations of current evidence means further rigorous RCTs are needed to reduce uncertainty around the use of dressing and securement devices for ACs.\n\n**Introduction to the review topic and review aims:**\n\n* Peripheral arterial catheters (ACs) are used in anaesthesia and intensive care settings for blood sampling and monitoring. Despite their importance, ACs often fail, requiring reinsertion. Dressings and securement devices maintain AC function and prevent complications such as infection.\n* We wanted to find out: which types of dressing and securement devices work best to prevent failure and complications in hospitalised people.\n\n**What did we do?**\n\n* We searched for studies that compared different dressing and securement devices for the stabilisation of ACs in hospitalised people.\n* We included randomised controlled trials (RCTs) comparing different dressing and securement devices for the stabilisation of ACs in hospitalised people.\n* We assessed the certainty of evidence using GRADE.\n* We searched the Cochrane Wounds Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL Plus up to 16 May 2023.\n* We searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform up to 16 May 2023.\n* We included five RCTs with 1228 participants and 1228 ACs.\n* We assessed the risk of bias using Cochrane's RoB 1 tool.\n* We resolved disagreements by discussion, or by consulting a third review author when necessary.\n\n**What did we find?**\n\n* All included studies had high risk of bias in one or more domains.\n* We present the following four comparisons, with the remaining comparisons reported in the main review.\n* Standard polyurethane (SPU) plus tissue adhesive (TA) compared with SPU: we are very uncertain whether use of SPU plus TA impacts rates of AC failure (risk ratio (RR) 0.44, 95% confidence interval (CI) 0.20 to 0.98; I² = 0%; 2 studies, 165 participants; very low-certainty evidence).\n* Bordered polyurethane (BPU) compared to SPU: we are very uncertain whether use of BPU impacts rates of AC failure (RR 0.67, 95% CI 0.21 to 2.13; 1 study, 60 participants; very low-certainty evidence).\n* SPU plus sutureless securement devices (SSD) compared to SPU: we are very uncertain whether SPU plus SSD impacts risk of AC failure compared with SPU (RR 0.78, 95% CI 0.40 to 1.52; I² = 0%; 2 studies, 157 participants; very low-certainty evidence).\n* Integrated securement dressings compared to SPU: integrated securement dressings may result in little or no difference in risk of AC failure compared with SPU (RR 1.96, 95% CI 0.80 to 4.84; 1 study, 105 participants; low-certainty evidence).\n\n**What are the limitations of the evidence?**\n\n* We are very uncertain whether use of SPU plus TA impacts rates of AC failure.\n* We are very uncertain whether use of BPU impacts rates of AC failure.\n* We are very uncertain whether SPU plus SSD impacts risk of AC failure compared with SPU.\n* We are very uncertain whether integrated securement dressings impact risk of AC failure compared with SPU.\n* We are very uncertain whether use of SPU plus SSD impacts CRBSI incidence rate.\n* We are very uncertain whether use of integrated securement dressings impacts risk of dislodgement.\n* We are very uncertain whether use of SPU plus SSD impacts risk of occlusion.\n* We are very uncertain whether use of integrated securement dressings impacts risk of occlusion.\n* We are very uncertain whether use of SPU plus SSD impacts risk of adverse events.\n* We are very uncertain whether use of integrated securement dressings impacts risk of adverse events.\n* We are very uncertain whether use of SPU plus SSD impacts CRBSI incidence rate.\n* We are very uncertain whether use of integrated securement dressings impacts CRBSI incidence rate.\n* We are very uncertain whether use of SPU plus SSD impacts occlusion rates.\n* We are very uncertain whether use of integrated securement dressings impacts occlusion rates.\n* We are very uncertain whether use of SPU plus SSD impacts adverse events.\n* We are very uncertain whether use of integrated securement dressings impacts adverse events.\n* We are very uncertain whether use of SPU plus SSD impacts risk of AC failure.\n* We are very uncertain whether use of integrated securement dressings impacts risk of AC failure.\n* We are very uncertain whether use of SPU plus SSD impacts risk of dislodgement.\n* We are very uncertain whether use of integrated securement dressings impacts risk of dislodgement.\n* We are very uncertain whether use of SPU plus SSD impacts risk of occlusion.\n* We are very uncertain whether use of integrated securement dressings impacts risk of occlusion.\n* We are very uncertain whether use of SPU plus SSD impacts risk of adverse events.\n* We are very uncertain whether use of integrated securement dressings impacts risk of adverse events.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 872,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 51,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.098039215686274,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 46,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 46.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 236,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.916040654794074,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.847271991365353,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.167437039035796,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.994220183486238,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.545637704623136,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.8136355459615,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.764705882352941,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.152946437965905,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.765241644180608,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 382,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 382.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 168,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 294,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 294.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 872,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 872 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.009147"
+}

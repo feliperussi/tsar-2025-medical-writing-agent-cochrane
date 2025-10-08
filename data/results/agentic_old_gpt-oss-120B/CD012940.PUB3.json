@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012940.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is giving back stomach contents (re‑feeding gastric residuals) better than discarding them for the growth of very early‑born babies (preterm infants)?\n\nKey messages\n- One small study with 72 preterm infants showed no clear benefit of re‑feeding gastric residuals (the milk left in the stomach after a feed) compared with discarding them for weight gain, time to full feeds, or serious harms such as intestinal disease (necrotising enterocolitis) or death.\n- The same study found little or no difference for other outcomes, including days of nutrition given through a vein, speed of reaching full feeds, and risk of slower‑than‑expected growth after birth (extrauterine growth restriction).\n- Because the evidence comes from a single, unblinded (open‑label) trial, we need larger, better‑designed studies before we can recommend one practice.\n\nWhy is feeding very small, early‑born babies a concern?  \nWe know that babies born before 37 weeks of pregnancy (preterm infants) often cannot eat by mouth. We give them nutrition through a thin tube that goes into the stomach. In many neonatal intensive‑care units, nurses check how much milk remains in the stomach before the next feed. This leftover is called a gastric residual. Some units give the residual back to the baby (re‑feeding) while others throw it away (discarding). Re‑feeding might help the gut develop because the residual contains partially digested milk, enzymes, and hormones. However, abnormal residuals could increase the risk of vomiting, a severe gut infection called necrotising enterocolitis, intestinal perforation (a hole in the intestine), or sepsis (a serious blood infection).\n\nWhat did we want to find out?  \nWe set out to compare re‑feeding with discarding gastric residuals. We asked whether re‑feeding helps babies gain weight faster, reach full feeding volumes sooner, need fewer days of nutrition given through a vein, or reduces serious complications such as necrotising enterocolitis, intestinal perforation, or death before leaving the hospital.\n\nHow did we look for evidence?  \nWe searched MED LINE, Embase, and Cochrane CENTRAL for randomised controlled trials and quasi‑randomised studies that compared the two approaches in infants born before 37 weeks. Two reviewers independently extracted data on study details, participants, interventions, and outcomes. We planned to combine results using a random‑effects model and to rate confidence with the GRADE system (a method for judging how trustworthy evidence is).\n\nWhat did we find?  \nWe identified only one small randomised trial that enrolled 72 preterm infants receiving tube feeds in a neonatal intensive‑care setting. The trial was open‑label but otherwise well conducted. The authors reported that re‑feeding gastric residuals probably makes little or no difference to:\n- Time to regain birth weight\n- Risk of necrotising enterocolitis or intestinal perforation\n- Risk of death before hospital discharge\n- Time to reach full feeds\n- Number of days of nutrition given through a vein\n- Risk of extrauterine growth restriction at discharge\n- Number of long feed interruptions (stops of at least 12 hours)\n\nThe certainty of the evidence for all these outcomes was low or very low, meaning the true effect could be quite different from the reported results.\n\nWhat are the limitations of the evidence?  \nWe have‑low confidence because the single trial was small and unblinded, which can introduce bias. The small sample also makes the effect estimates imprecise.\n\nHow current is the evidence?  \nOur search covered studies up to February 2022. No newer trials meeting our criteria were found.  \n\nIn summary, the available evidence does not show that re‑feeding gastric residuals improves growth or reduces serious complications in preterm infants. Larger, well‑designed trials are needed before we can recommend one practice over the other.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 612,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.4,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 75,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.496647058823555,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.58658823529412,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.219460784313725,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.775098039215685,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.918169934640524,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.321568627450986,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.583005244258363,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.823212549019608,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 264,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 264.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 134,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 134.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 177,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 612,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 612 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:58.400335"
+}

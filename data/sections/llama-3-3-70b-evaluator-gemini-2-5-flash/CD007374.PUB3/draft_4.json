@@ -1,0 +1,162 @@
+{
+  "id": "CD007374.PUB3",
+  "draft": "Do education programs help people with chronic kidney disease (a condition where the kidneys do not work properly) and diabetes manage their condition better?\n\nKey messages:\n- We found that education programs probably help people with chronic kidney disease and diabetes manage their blood sugar levels better by decreasing glycated haemoglobin (HbA1c) - a measure of average blood sugar control over the past 2 to 3 months. However, the effect on other important health outcomes is unclear.\n- Education programs may also improve knowledge of some areas related to diabetes care and some self-management practices, such as diet, exercise, and blood glucose monitoring. But the quality of the evidence is not strong enough to be certain.\n- More research is needed to understand the benefits and potential harms of education programs for people with chronic kidney disease and diabetes, particularly in the long term.\n\nWhat is chronic kidney disease and diabetes, and why is it a problem?\nChronic kidney disease (CKD) is a condition where the kidneys gradually lose their ability to function properly. Diabetes is a condition where the body is unable to regulate blood sugar levels. Both conditions can lead to serious health problems if not managed properly. We often see people with CKD and diabetes struggling to follow complex treatment plans, including strict diets, regular blood sugar monitoring, and medication regimens.\n\nWhat are education programs for people with CKD and diabetes, and how can they help?\nWe deliver education programs to teach individuals about their conditions, how to manage them, and how to make lifestyle changes to improve their health. These programs can be delivered by healthcare professionals, such as nurses, pharmacists, or educators, and can include verbal, written, or computer-based instruction. These programs aim to help people understand their conditions and actively manage their health.\n\nWhat did we want to find out?\nWe wanted to find out if education programs can improve health outcomes, such as blood sugar control, kidney function, and quality of life, for people with CKD and diabetes. We also wanted to assess the certainty of the evidence and identify areas where more research is needed.\n\nHow did we search for evidence?\nWe searched for studies on education programs for people with chronic kidney disease and diabetes. We summarized the results of the identified studies and rated how certain we were about the evidence.\n\nWhat did we find?\nWe found 8 studies that involved 840 people with chronic kidney disease and diabetes. The studies were conducted in various countries and lasted for around 13.5 months to 18 months. Education programs may improve knowledge of some areas related to diabetes care and some self-management practices. Education programs probably decrease a measure of blood sugar control in people with chronic kidney disease and diabetes. However, the effect of education programs on other important clinical outcomes, such as death, serious complications, and kidney failure, is unclear.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to July 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 539,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.586206896551722,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 183,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.690593692022304,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.945819205425117,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.282027381485506,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.843784786641926,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.15247904804555,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.610325634956176,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.137931034482759,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.198039027185569,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.2495938583583905,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 216,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 539,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 539 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 5,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good draft that passes all critical checks for accuracy and completeness. However, it needs revision to improve clarity for a lay audience. The main issue is the frequent use of formal, noun-heavy language (nominalizations) which makes the text less direct and harder to read. By converting these noun phrases back into verbs and simplifying some wordy sentences, the summary can be much clearer and more engaging for patients.\n\nHere are the top 3 improvements needed:\n\n1.  **Replace noun phrases (nominalizations) with active verbs.** The writing often uses noun forms where a simple verb would be clearer and more direct.\n    *   **Problematic sentence:** \"We also wanted to assess the certainty of the evidence and identify areas where more research is needed.\"\n    *   **Why it's a problem:** \"Assess the certainty\" is a formal, noun-based phrase. Using a direct verb makes the action clearer.\n    *   **Suggested rewrite:** \"We also wanted to rate how certain the evidence is and find where more research is needed.\"\n\n2.  **Simplify formal or wordy phrasing.** Some sentences use language that is more common in technical reports than in plain language summaries.\n    *   **Problematic sentence:** \"We deliver education programs to teach individuals about their conditions, how to manage them, and how to make lifestyle changes to improve their health.\"\n    *   **Why it's a problem:** Phrases like \"deliver education programs\" and \"teach individuals\" are unnecessarily formal and wordy.\n    *   **Suggested rewrite:** \"Education programs teach people about their conditions and how to manage them. The goal is to help people make lifestyle changes to improve their health.\"\n\n3.  **Make the key findings more direct and easier to understand.** The main result is stated in a slightly indirect way.\n    *   **Problematic sentence:** \"Education programs probably decrease a measure of blood sugar control in people with chronic kidney disease and diabetes.\"\n    *   **Why it's a problem:** \"Decrease a measure of blood sugar control\" is clunky. It's clearer to state what the program does to the blood sugar itself.\n    *   **Suggested rewrite:** \"Education programs probably help people lower their blood sugar levels.\"\n",
+      "pls_evaluation_summary": "The PLS evaluation results show good conformity overall, with excellent readability scores (Flesch-Kincaid Grade Level at P25) and strong use of active voice (P75). However, the analysis reveals significant deviation from typical PLS patterns in vocabulary and style. The metric for 'nominalization' (using nouns instead of verbs) is 'BEYOND_P90', with 30 instances found. This is supported by high counts for 'nouns', 'long_words', and 'complex_words_dc' (all in the P90 range). This pattern indicates that while sentence structure is good, the word choices are often too formal and academic, making the text less direct than ideal for a plain language summary."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014818.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "\"Which nerve block (regional pain relief) technique gives the best pain relief after breast cancer surgery?\"\n\nKey messages\n- The four nerve‑block techniques we studied – paravertebral block (injection near the spinal nerves), erector spinae plane block (injection beside a back muscle), pectoral nerve block (injection near chest‑wall nerves) and serratus anterior plane block (injection near a side‑chest muscle) – all provide similar pain relief after breast cancer surgery; no single method is clearly superior.\n- Serious complications such as block failure, local‑anaesthetic toxicity, nerve injury or a collapsed lung (pneumothorax) were not reported in the trials, suggesting these blocks appear safe in the short term.\n- Larger, high‑quality studies that track longer‑term pain, opioid use and rare side‑effects are needed to confirm whether any technique offers a meaningful advantage.\n\nWhy is postoperative pain after breast cancer surgery a concern?\nWomen often experience strong pain after breast cancer surgery. This pain can slow recovery, lower quality of life and increase the need for opioid medicines, which have their own side‑effects. To reduce pain, we use regional analgesia – a technique that places a local anaesthetic near specific nerves to block pain signals. The four common techniques are listed above.\n\nWhat did the review aim to find out?\nWe wanted to compare how well each regional‑analgesia technique relieves pain after surgery and how safe the techniques are. Our main outcomes were pain scores and any reported complications.\n\nHow did we find the evidence?\nWe searched major medical databases for randomised controlled trials that compared two or more of the four nerve‑block techniques in women undergoing breast cancer surgery. We combined the results using a network meta‑analysis and rated our confidence in each result with the CINeMA approach.\n\nWhat did we find?\nWe identified 39 trials that enrolled 2,348 women, most of whom had a modified radical mastectomy (removal of the whole breast and some nearby lymph nodes). The trials were conducted in Egypt, India, Turkey, China, Japan, the United States and Thailand, and all surgeries were performed under general anaesthesia in hospitals.\n\nCompared with a paravertebral block, the erector spinae plane block, pectoral nerve block and serratus anterior plane block made little or no difference to pain at rest or during movement at 2, 24 and 48 hours after surgery. There was a hint that a pectoral nerve block might reduce pain during movement two hours after surgery, but the evidence was uncertain. No serious complications such as block failure, toxicity, nerve damage or pneumothorax were reported for any technique, although the certainty about safety is low because few events occurred.\n\nWhat are the limitations of the evidence?\nMany studies were small and involved slightly different patient groups or injection methods. This variability reduces the precision of our estimates and makes it harder to detect rare adverse events.\n\nHow current is the evidence?\nWe searched the literature up to June 2023, so the evidence reflects studies published until that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 502,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.916666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 50.446814409030566,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.419292828685261,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.902795484727754,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.341513944223106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.928419654714475,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.41069057104914,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.541666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.57993678618858,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 208,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 120,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 120.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 502,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 502 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 3,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:00.715107"
+}

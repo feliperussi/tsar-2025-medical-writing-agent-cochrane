@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015031.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is eye surgery that creates a retinal membrane flap (inverted internal limiting membrane flap) more effective than standard membrane removal (internal limiting membrane peeling) for repairing large macular holes (big central eye defects)?\n\nKey messages  \n- In eyes with large macular holes, surgery that folds a thin retinal layer back over the hole (inverted internal limiting membrane flap) probably raises the chance that the hole closes and may improve vision a few months after surgery, compared with the usual technique that removes the layer (internal limiting membrane peeling). No specific harmful effects were reported.  \n- The benefit for vision is uncertain because the studies were small, often done at a single centre, and had some methodological concerns, so our confidence in these findings is limited.  \n- Future research should include larger, well‑designed multicenter trials (studies that take place at more than one research centre) with longer follow‑up and consistent measurement of visual outcomes to confirm whether the flap technique truly offers better results and to detect any possible risks.  \n\nWhat is a macular hole and why does it matter?  \nA macular hole is a small, round opening that can develop in the centre of the retina (the light‑sensing tissue at the back of the eye). When the hole is larger than about 400 µm (roughly the width of a human hair), it can cause loss of sharp, central vision, making everyday tasks such as reading, driving, or recognising faces difficult.  \n\nHow are large macular holes usually treated?  \nThe most common surgery is pars plana vitrectomy (PPV) – a procedure that removes the gel‑\n\nlike fluid (vitreous) inside the eye. During PPV the surgeon also peels away the internal limiting membrane (ILM), a very thin layer of tissue that covers the surface of the retina. Removing the ILM helps the edges of the hole come together. This “ILM peeling” technique is the standard of care (the usual treatment given to patients), but it does not always succeed, especially for larger holes.  \n\nWhat is the inverted ILM flap technique?  \nIn the newer variation, the surgeon keeps a small piece of the ILM attached, flips it over the hole, and leaves it in place like a tiny patch. The flap may act as a scaffold that encourages the hole to close more reliably and may improve vision after surgery.  \n\nWhat did the review aim to find out?  \nWe wanted to compare the traditional ILM peeling with the inverted ILM flap in people who have large macular holes. Specifically, we looked at how well each method restores vision (measured with a standard eye‑chart called log‑MAR) and how often the hole fully closes after surgery.  \n\nHow did we find the evidence?  \nWe searched for randomized controlled trials (RCTs) – studies that randomly assign participants to different treatments – that compared PPV with an inverted ILM flap versus PPV with standard ILM peeling for large macular holes. We combined the results for visual acuity and hole closure and rated our confidence in the evidence using the GRADE system (a method that rates how certain we can be about research findings).  \n\nWhat did we find?  \nWe identified four RCTs involving 275 participants (285 eyes). Most participants were women (63%) and older adults (mean ages 59–66 years). All had idiopathic (unknown‑cause) macular holes larger than 400 µm. The trials were conducted in India, Poland and Mexico, with follow‑up ranging from 3 to 12 months.  \n\n- The inverted ILM flap technique may improve visual acuity at three months, but the evidence is uncertain.  \n- The technique probably increases the overall chance that a large macular hole closes, and it probably increases the chance of achieving a complete (type 1) closure.  \n\nWhat are the limitations?  \nWe have low confidence in the evidence because participants and surgeons often knew which treatment was used (lack of masking), not all trials reported every outcome we wanted, the studies were very small, and the studies varied in the types of patients and how the surgery was performed.  \n\nWhat should future research do?  \nWe need larger, well‑designed multicenter trials with longer follow‑up, consistent definitions of outcomes, and transparent reporting of any adverse effects. Such studies will allow us to determine whether the inverted ILM flap truly offers better vision and safety.  \n\nHow current is the evidence?  \nThe evidence we reviewed is up to date to December 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 746,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.72222222222222,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 78,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 182,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.314276884122734,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.413114387846292,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.656459636580273,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.893672922252009,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.420256181114091,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.86163240988978,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.416666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.0,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.77984635090855,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 319,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 319.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 133,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 133.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 195,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 746,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 746 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:05.918172"
+}

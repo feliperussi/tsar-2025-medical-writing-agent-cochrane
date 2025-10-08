@@ -1,0 +1,162 @@
+{
+  "id": "CD004065.PUB4",
+  "draft": "How corticosteroids and biologic medicines can help or harm people with eosinophilic esophagitis\n\nKey messages:\n- Corticosteroids may help improve symptoms of eosinophilic esophagitis - a condition where the esophagus becomes inflamed due to an allergic reaction. They may also improve the appearance of the esophagus when looked at with an endoscope (a flexible tube with a camera). However, the quality of the evidence is not strong.\n- Biologics may also help improve symptoms and the appearance of the esophagus. But again, the quality of the evidence is not strong, and more research is needed to fully understand their effects.\n- Further research is needed to better understand the benefits and potential harms of corticosteroids and biologics for people with eosinophilic esophagitis.\n\nWhat is eosinophilic esophagitis?\nEosinophilic esophagitis (EoE) is a chronic condition where the esophagus - the tube that carries food from the mouth to the stomach - becomes inflamed due to an allergic reaction. This inflammation is characterized by the presence of a high number of eosinophils (a type of white blood cell) in the esophagus. EoE can cause symptoms such as difficulty swallowing, food getting stuck in the throat, and chest pain. It is often associated with other allergic conditions like asthma and eczema.\n\nWhy is eosinophilic esophagitis a problem?\nEosinophilic esophagitis is a problem because it can significantly affect a person's quality of life. The symptoms of EoE can make eating and swallowing difficult, leading to malnutrition and weight loss. If left untreated, EoE can also lead to complications like narrowing of the esophagus, which can cause food to get stuck. Current treatments for EoE include dietary changes, medications to reduce inflammation, and dilation of the esophagus to improve swallowing. However, there is no cure for EoE, and long-term treatment is often necessary.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the effectiveness and safety of different medical treatments for eosinophilic esophagitis. They aimed to compare the outcomes of various treatments, including corticosteroids and biologics, with placebo or other interventions. The authors also wanted to assess the certainty of the evidence for these treatments and identify any potential adverse effects.\n\nWhat did we find?\nWe found 41 studies that involved 3253 people with eosinophilic esophagitis. The studies were conducted in various countries and included both pediatric and adult patients. The interventions compared included corticosteroids, biologics, and placebo, with the primary outcomes being clinical, histological, and endoscopic improvement, as well as withdrawals due to adverse events.\n\nMain results: Treatment outcomes for eosinophilic esophagitis\nCorticosteroids may lead to clinical symptom improvement and a large increase in histological improvement, but may make little to no difference to endoscopic improvement. Biologics may not lead to clinical symptom improvement, but may lead to a large increase in histological improvement. It is unclear if biologics have an effect on endoscopic improvement.\n\nLimitations\nThe evidence is limited by very small study sample sizes and the potential for participants to know which treatment they received, introducing bias.\n\nCurrency\nThe evidence is up to date to March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 524,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.06896551724138,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 48,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 16,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 33.34118320610688,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.097736246380627,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.655570544880227,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.835801526717553,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.227586206896554,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.94682811266123,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.482758620689655,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.74734012447073,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.073606185838379,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 205,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 131,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 131.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 524,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 524 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 7,
+        "P75_count": 4,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is not approved. It fails on a critical check: several subheadings are not phrased as questions, which is a key requirement of the style guide. Additionally, there are important opportunities to improve clarity for a patient audience.\n\nHere are the top 3 improvements needed:\n\n1. **Rephrase all subheadings as questions.** The style guide recommends using questions to guide the reader, but several subheadings are currently statements.\n   - **Problem:** 'Main results: Treatment outcomes for eosinophilic esophagitis', 'Limitations', and 'Currency'.\n   - **Suggestion:** Change these to questions, such as: 'What were the main results?', 'What are the limitations of the evidence?', and 'How up-to-date is this evidence?'\n\n2. **Explain technical terms for a lay audience.** The results mention 'histological improvement' without explaining what it means in simple terms, which makes a key finding inaccessible to readers.\n   - **Problem:** 'Corticosteroids may lead to clinical symptom improvement and a large increase in histological improvement...'\n   - **Suggestion:** Rephrase to explain the concept. For example: 'Corticosteroids may improve people's symptoms. They also led to large improvements in the health of the esophagus tissue when viewed under a microscope (this is called histological improvement).'\n\n3. **Simplify complex sentences and reduce jargon.** Some sentences are dense with technical language that makes them difficult for patients to understand.\n   - **Problem:** 'The interventions compared included corticosteroids, biologics, and placebo, with the primary outcomes being clinical, histological, and endoscopic improvement, as well as withdrawals due to adverse events.'\n   - **Suggestion:** Break this down and use simpler words. For example: 'The studies compared treatments like corticosteroids and biologics against a placebo (a 'dummy' treatment). We mainly looked for improvements in people's symptoms, in the appearance of the esophagus through a camera, and in tissue samples. We also checked how many people stopped treatment because of side effects.'\n\nThese suggestions are supported by the linguistic analysis, which found the draft has a high number of complex words, long words, and noun-forms (nominalizations), making it harder to read than a typical Plain Language Summary.",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity with typical patterns, with 77.8% of features falling within the median or best quartile ranges. However, the analysis highlights significant deviation in four key areas related to vocabulary complexity: 'nominalization', 'smog_index', 'complex_words', and 'long_words' are all in the P90 range. This indicates the draft uses more noun-based phrases, long words (3+ syllables), and generally complex vocabulary than is typical for a PLS, which directly impacts readability."
+    }
+  ]
+}

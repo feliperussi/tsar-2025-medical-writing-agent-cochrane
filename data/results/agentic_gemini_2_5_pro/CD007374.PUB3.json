@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "Can education help people with long-term kidney disease and diabetes manage their health?\n\n- For people with long-term kidney disease and diabetes, education programmes probably help to lower long-term blood sugar levels (measured by a blood test called HbA1c) and may help to lower cholesterol. The effects on other important outcomes, such as death or kidney failure, are uncertain because of a lack of strong evidence.\n- These programmes may also improve people's knowledge about diabetes and their confidence and ability to manage their own health in the short term. However, we are not sure if these benefits are long-lasting.\n- Because the review found only a small number of studies, more research is needed to better understand the long-term effects of education programmes on important health outcomes for people with both kidney disease and diabetes.\n\nWhy are education programmes important for people with chronic kidney disease and diabetes?\nPeople who have both chronic kidney disease (a long-term condition where the kidneys don't work as well as they should) and diabetes often have complicated treatment plans to follow. Sticking to these plans, which can include changing their diet, lifestyle, and taking multiple medicines, can be very difficult. Education programmes aim to help by giving people information, advice, and support from healthcare providers to manage their health conditions better.\n\nWhat did we want to find out?\nWe wanted to find out the benefits and harms of these education programmes for adults with both conditions.\n\nHow did we conduct this review?\nWe searched for studies that compared the effects of education programs with routine care for people with both conditions. We then combined the results and rated our confidence in the evidence.\n\nWhat did we find?\nThe review included 8 studies with 840 adults. The studies compared educational programmes to routine care. Education programmes probably reduce blood sugar levels and may also reduce cholesterol levels. They may also improve a person's knowledge about their diabetes and their confidence in managing their condition. However, these programmes may not change how people behave in the long term. Combining education with co-ordinated care from a team of different healthcare professionals may also make little or no difference to blood sugar levels, kidney failure, blood pressure, or cholesterol. We are very uncertain how education programmes affect the risk of death, serious low blood sugar, or kidney failure.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for a few reasons. We found only a small number of studies, and they included few people. Also, the way studies chose participants could have affected the results. Some findings were also based on what people reported themselves, which is not always accurate.\n\nHow up-to-date is this evidence?\nThis review updates our previous review. The evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 493,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 160,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.24490872210956,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.637565922920892,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.151866125760648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.274401622718049,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.183367139959433,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.38336713995943,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.655172413793103,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.327379053088816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.512226369168358,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 177,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 135,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 493,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 493 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:29.708410"
+}

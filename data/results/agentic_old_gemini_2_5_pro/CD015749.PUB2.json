@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "Can combining treatments like medicine, diet, and exercise help people with cachexia (severe weight and muscle loss from long-term illness)?\n\nKey messages\n\nIt is unclear if combining treatments like medicine, diet, and exercise helps people with cachexia (severe weight and muscle loss from long-term illness). This is because there is not enough good-quality evidence. We found not enough evidence to know if these combined treatments have benefits (like improving strength or weight) or cause unwanted effects.\n\nWe need larger and better-designed studies to find out if combining treatments is helpful and safe for people with cachexia. These studies should also follow people for longer to better understand the treatments' effects.\n\nWhat is disease-related wasting (cachexia)?\n\nPeople with long-term illnesses such as cancer, HIV/AIDS, kidney disease, and heart disease can develop a condition called cachexia. Cachexia is a complex problem of disease-related wasting. People with cachexia go through severe, unintentional weight loss, including the loss of muscle. They may also suffer from tiredness, loss of appetite, and a lower quality of life (how someone feels and functions day to day). Because cachexia has many causes, treatments that combine 2 or more approaches may be helpful. These treatments might include a combination of medicines, nutritional support, and exercise programmes, which are intended to work together to be more effective.\n\nWhat did we want to find out?\n\nWe wanted to find out if using combined treatments helps to relieve or stabilise cachexia in adults with a long-term illness. We also wanted to know if these treatments cause any unwanted effects.\n\nWhat did we do?\n\nWe searched for studies that compared treatments combining 2 or more approaches (such as medication, nutrition, or exercise) with usual treatment or a single treatment for cachexia. We then combined the results and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 9 studies with a total of 926 adults (average age: 63 years) with long-term illnesses who have wasting (cachexia). The studies looked at treatments that combined 2 or more approaches, such as drugs, nutrition, and exercise.\n\nCompared with usual care, a different version of the combined treatment, or a single treatment, we do not know if these combined treatments affect physical function, strength, side effects, body weight, quality of life, appetite, or tiredness. The available evidence is very uncertain. We cannot draw any conclusions about the benefits or harms of using these combined treatments to manage cachexia.\n\nLimitations of the evidence\n\nWe are not confident in the evidence. It is possible that people in the studies knew which treatment they were getting. Also, the evidence does not cover all the people we were interested in, and the studies were very small.\n\nCurrency of the evidence\n\nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 489,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.464285714285715,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 134,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.35414877300616,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.319230937773884,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.004535495179667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.846952965235172,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.184078293894245,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.13913234005258,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.357142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.433981132056603,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.065983172655566,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 192,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 88,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 150,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 489,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 489 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:20.725811"
+}

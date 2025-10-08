@@ -1,0 +1,162 @@
+{
+  "id": "CD014300.PUB2",
+  "draft": "analysisWe need to output final plain language summary with formatting: Title as Heading (maybe just plain line?), main sections as **Bold Headings**, key messages as list with dashes, introduction sections with subheadings. No markdown? It says no markdown. But they said formatting rules: Title as Heading, main sections as **Bold Headings** (that's markdown). But then says no markdown. Conflict. Probably they want plain text with those markers (like Heading: line, **Bold Headings** as literal asterisks). Since they said no markdown, we keep the asterisks as literal. We'll assemble:\n\nTitle line: Are mental‑health promotion programs (psychological and social interventions) effective for people living in low‑and middle‑income countries (poorer nations) affected by war or disaster?\n\nThen Key messages heading? Probably just list after title.\n\nThen sections: **Introduction/Aims**, **Methods**, **Results**, **Limitations**, **Currency**.\n\nWithin Introduction/Aims, we have subheadings: maybe as subheading lines (like \"What mental health problems do people face in humanitarian crises?\" then content). No markdown.\n\nLet's assemble.\n\nAre mental‑health promotion programs (psychological and social interventions) effective for people living in low‑and middle‑income countries (poorer nations) affected by war or disaster?\n\n- Mental‑health promotion programmes in low‑ and middle‑income countries affected by war or disaster showed little or no clear benefit for improving overall emotional health (mental‑well‑being) or helpful social behaviour (pro‑social behaviour) in children and adolescents, and only a small possible short‑term improvement in adults, with no evidence of lasting effects or of harmful outcomes.\n- The evidence is limited because it comes from a small number of studies with few participants and varied methods, so confidence in the findings is low.\n- More well‑designed, larger studies that follow participants for longer periods are needed to determine whether these programmes can provide lasting benefits and to identify any potential harms.\n\n**Introduction/Aims**\nWhat mental health problems do people face in humanitarian crises?\nAround 84 million people are forced to leave their homes because of wars, conflict, persecution or other humanitarian emergencies. Most of them live in low‑ and middle‑income countries (LMICs) – nations where resources for health care are limited. Living in these stressful settings exposes people to many threats to their mental well‑being, such as fear, loss, and ongoing insecurity. While many studies look at treating mental illness, this review is interested in ways to promote good mental health – things like feeling hopeful, coping well, having a good quality of life, and being able to function socially.\n\nWhat are psychosocial interventions and how are they used?\nPsychosocial interventions are programmes that combine psychological support (like talking about feelings or learning coping skills) with social activities (such as group games, community projects or peer support). They are often delivered in groups by paraprofessionals – people who are not formally trained mental‑health professionals but have been taught to help others in the first point of contact. These interventions aim to boost mental‑well‑being, resilience, and everyday functioning without focusing on treating a diagnosed mental disorder.\n\nWhat did the review aim to find out?\nThe authors wanted to know whether these group‑based psychosocial programmes actually improve positive aspects of mental health compared with doing nothing, receiving usual care, or waiting for help. Specifically, they looked at outcomes such as mental well‑being, daily functioning, quality of life, resilience, coping, hope and prosocial behaviour in children, adolescents and adults living in LMICs affected by humanitarian crises.\n\n**Methods**\nWhat did we do?\nWe searched for studies that compared psychosocial interventions aimed at promoting mental health with no intervention or usual care in people living in low‑ and middle‑income countries affected by humanitarian crises. We combined the findings across these studies and rated our confidence in the evidence using standard criteria.\n\n**Results**\nWhat did we find?\nWe identified 13 randomised controlled trials that together involved 7,917 people living in low‑ and middle‑income countries affected by humanitarian crises. Nine of the trials were done with children and adolescents and four with adults. The studies were carried out in a variety of locations – four in Lebanon, two in India, and one each in the Democratic Republic of the Congo, Jordan, Haiti, Bosnia and Herzegovina, the occupied Palestinian Territories, Nepal and Tanzania. All participants were people without a diagnosed mental disorder. The interventions tested were group‑based psychosocial programmes, usually delivered by paraprofessionals, and they were compared with no intervention, usual care or a waiting‑list. The programmes lasted on average 18 weeks (range 10–32 weeks) and were funded mainly by academic grants or non‑governmental organisations.\n\nThe evidence suggests that these psychosocial programmes may have little to no effect on mental well‑being and prosocial behaviour in children and adolescents, but the certainty of the evidence is very low. It is also unclear whether the programmes affect functioning in this age group. In adults, the programmes may lead to a small improvement in mental well‑being, but again the evidence is uncertain, and we do not know whether any benefit persists at follow‑up.\n\n**Limitations**\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting, because the studies were done in different types of people or used different ways of delivering the intervention, and because the studies were very small.\n\n**Currency**\nThe evidence is up to date to January 2023 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 913,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 51,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.901960784313726,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 32,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 82,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 40,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 255,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 255.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 52.82266971629838,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.33897171573997,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.854310074522687,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.676056955093095,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.22212056783283,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.00820393874965,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.568627450980392,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.19090595827292,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.650138788308315,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 391,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 391.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 184,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 284,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 284.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 913,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 913 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 3,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails several critical checks: (1) Section headings are not phrased as questions (e.g., \"Introduction/Aims\", \"Methods\", \"Results\", \"Limitations\", \"Currency\"), which the style guide requires. (2) The total word count is 913, exceeding the 850‑word limit. (3) The text contains excessive passive constructions, nominalisations and noun‑heavy sentences, which reduce readability for a lay audience.\n\nTop improvements needed:\n1. **Section headings as questions** – Replace headings like \"Methods\" with a question format, e.g., \"What did we do?\". This aligns with the Master Style Guide and makes the structure clearer for readers.\n2. **Reduce word count** – Trim about 60 words by removing redundant phrases and tightening sentences (e.g., change \"We identified 13 randomised controlled trials that together involved 7,917 people living in low‑and middle‑income countries affected by humanitarian crises\" to \"We found 13 trials with 7,917 participants in low‑ and middle‑income countries affected by crises\").\n3. **Cut passive voice** – Example problematic sentence: \"All participants were people without a diagnosed mental disorder.\" Rewrite actively: \"We included only participants who did not have a diagnosed mental disorder.\" The draft has 32 passive constructions (well beyond the typical 9‑23 range).\n4. **Limit nominalisations and noun‑heavy phrasing** – Problematic phrase: \"The evidence suggests that these psychosocial programmes may have little to no effect…\" Rewrite to active verb‑focused: \"These programmes appear to have little or no effect…\" The draft shows 27 nominalisations and 255 nouns, both far above typical PLS ranges.\n5. **Simplify complex vocabulary** – Replace high‑complexity words such as \"paraprofessionals\" (if not defined) with a brief definition or simpler term, e.g., \"trained community helpers\". Metrics show SMOG index 16.2, complex words 184, and long words 284, indicating the text is too technical for the target audience.\n\nSupporting metrics: The evaluation flagged 32 passive voice instances (BEYOND_P90), 27 nominalisations (BEYOND_P90), 255 nouns (BEYOND_P90), SMOG index 16.2 (BEYOND_P90), 391 Dale‑Chall complex words and 184 other complex words (both BEYOND_P90). These numbers confirm the readability issues identified above.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft exceeds the 850‑word limit (913 words). Readability metrics are generally good (Flesch‑Reading‑Ease 52.8, words per sentence 17.9), but several language features deviate strongly from typical PLS patterns: passive voice (32, beyond P90), nominalisation (27, beyond P90), noun count (255, beyond P90), SMOG index (16.2, beyond P90), and high counts of complex and long words. These deviations indicate the text is overly noun‑heavy, uses many passive constructions, and contains too many complex words, reducing clarity for a lay audience."
+    }
+  ]
+}

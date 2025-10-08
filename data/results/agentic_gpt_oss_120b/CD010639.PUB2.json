@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010639.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Do changes to shift work schedules (the timing and length of work shifts) improve sleep quality, increase sleep duration, or reduce sleepiness in shift workers?\n\nKey messages:\n- Changing shift schedules can sometimes make workers feel less sleepy, especially when shifts rotate forward (morning → evening → night) or rotate more quickly, but the evidence is uncertain and we saw no clear benefit for overall sleep quality; no harms were reported.\n- Limiting a daily shift to no more than 16 hours probably lets workers sleep about 0.7 hours more per night and probably reduces sleepiness a little, but confidence in this finding is low because the studies were small.\n- Larger, well‑designed studies are needed to confirm which schedule changes reliably improve sleep and reduce sleepiness and to check for any long‑term harms.\n\nWhy does working in shifts affect sleep and safety?\nMany jobs require people to work at times that do not match the normal day‑night cycle – for example night shifts, early‑morning shifts, or rotating schedules that change every few days. This “shift work” often leads to not getting enough sleep or getting poor‑quality sleep. When workers are sleepy they are less alert, which can increase the risk of mistakes, accidents, and long‑term health problems. Employers sometimes try to improve the situation by changing how shifts are organised – for example by altering the length of a shift, the direction in which shifts rotate (\"forward\" rotation moves from morning to evening to night, while \"backward\" rotation goes the opposite way), how quickly the rotation changes (\"faster\" vs. \"slower\" rotation), or how much rest time is given between shifts.\n\nWhat did we aim to discover?\nWe wanted to know whether changing shift schedules improves three outcomes for shift workers: (1) how good their sleep feels (sleep quality), (2) how many hours they actually sleep when off‑work (sleep duration), and (3) how sleepy they feel while on the job (sleepiness). We looked at studies that compared different schedule designs – forward vs. backward rotation, faster vs. slower rotation, limits on daily shift length, shorter vs. longer shifts, and more compressed vs. more spread‑out workweeks.\n\nHow did we find the evidence?\nWe searched several databases up to April 2022 for studies that examined shift‑schedule changes and their effects on sleep quality, sleep duration, or sleepiness. Two reviewers independently screened each record, extracted data, and checked each study for problems that might affect the findings (called risk of bias – possible flaws in how the study was done). We combined results when studies were similar. We rated how confident we are in the results using GRADE (a system that grades the quality of evidence).\n\nWhat did we find?\nWe included 11 studies with a total of 2,125 shift‑workers. The studies used three designs: randomised trials (participants were randomly assigned to schedules), controlled before‑after studies (they compared groups before and after a change), and cross‑over studies (the same workers tried different schedules at different times). Limiting daily shift length to 16 hours probably increased sleep by about 0.7 hours per night and probably reduced sleepiness a little, but the certainty of this evidence is low because the studies were small. Other changes – forward vs. backward rotation, faster vs. slower rotation, shorter vs. longer shifts, and more compressed vs. spread‑out schedules – did not show clear benefits for sleep quality, sleep duration, or sleepiness.\n\nHow certain are we about the evidence?\nWe are not confident in many findings because several studies did not randomly assign workers to different schedules, some were small, and methods varied. This means differences between groups might be due to who was compared rather than the schedule change itself.\n\nHow current is the evidence?\nThe evidence is up to date to April 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 642,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.68,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.7 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 192,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 192.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.50531401869161,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.757598753894083,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.272616822429903,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.340809968847356,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.18788785046729,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.02890965732087,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.28,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.246950765959598,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.283307439252336,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 285,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 285.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 111,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 182,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 642,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 642 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:51.006489"
+}

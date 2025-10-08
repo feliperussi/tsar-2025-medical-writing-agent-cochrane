@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015968",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Do digital health tools help children and teens lose fat when added to regular care?\n\nKey messages\n– Digital tools added to regular care may help reduce fat in children and teens, but the evidence is limited and we are only moderately confident. No safety problems were reported.\n– Digital tools used alone do not show clear benefits; we are uncertain about their effect.\n– More research is needed, especially long‑term studies that report age, gender, and safety data.\n\nWhat is childhood obesity and why is it a problem?\nChildhood obesity means a child or teen has a body weight that is too high for their height. It can lead to health problems such as high blood pressure, diabetes, and joint pain. Over 340 million children worldwide were overweight or obese in 2016, making it a major public‑health concern.\n\nWhat are digital health tools for obesity?\nDigital health tools are apps, text messages, wearable devices, video games, or online programs that help people track food, exercise, or habits. They can be used on their own or together with regular doctor visits and advice.\n\nWhat did we want to find out?\nWe wanted to know whether using digital tools together with usual care, or using them alone, helps children and teens manage obesity. We also looked at whether the tools are safe.\n\nWhat did we do?\nWe searched for studies that compared digital tools plus usual care with usual care alone, and digital tools alone with usual care alone. We then combined the results and judged how confident we could be in the evidence.\n\nWhat did we find?\nWe included fifteen studies with 911 participants. Most participants were 10 to 19 years old, and a few studies also included younger children. The studies were conducted in the USA, Sweden, Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. Some studies lasted less than six months, while others continued for a year or more. Most studies combined diet and exercise advice.\n\nDigital tools plus usual care versus usual care alone\nThe evidence suggests that adding digital tools to usual care probably reduces body fat. The effect on other health measures, such as overall weight or blood pressure, remains unclear. No studies reported safety problems.\n\nDigital tools alone versus usual care alone\nThe evidence does not show a clear benefit of using digital tools alone. We are uncertain whether they help with any health outcomes. No safety problems were reported.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were few and involved small numbers of participants. Many studies did not explain how the digital tools were designed, and most were short in duration, so we cannot be sure about long‑term benefits. The lack of reported safety data also limits our understanding of potential harms.\n\nHow up to date is the evidence?\nThe evidence is current to 14 April 2025, and no newer studies were found at the time of the review.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 521,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.885714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.2319500959693,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.858806690430491,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.058692075678639,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.48529750479846,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.326646558815467,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 38.110282423910064,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.4571428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.055385138137417,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.7088304688785305,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 197,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 83,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 121,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 521,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 521 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:25.348201"
+}

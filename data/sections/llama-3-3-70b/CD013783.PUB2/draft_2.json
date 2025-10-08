@@ -1,0 +1,162 @@
+{
+  "id": "CD013783.PUB2",
+  "draft": "The main points from the evaluator feedback that need to be addressed in the plain language summary are:\n\n1. Rephrase the title and subheadings as questions.\n2. Explain technical terms and jargon in simpler language.\n3. Break up long sentences into shorter ones.\n4. Reduce the use of passive voice.\n5. Improve the clarity and flow of the text.\n\nThese points will be addressed in the revised plain language summary to improve its clarity, readability, and overall quality. \n\nWhat is the accuracy of toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease?\n- We found that toe-brachial index (TBI) - a test comparing blood pressure in toes to blood pressure in arms - and toe systolic blood pressure (TSBP) - the pressure of blood in toes when the heart beats - may be useful for detecting peripheral arterial disease (PAD), but the evidence is not strong enough to be certain. \n- The studies included in the review were generally of low quality, which means we cannot be confident in the results. \n- More research is needed to determine the accuracy of TBI and TSBP for diagnosing PAD.\n\nWhat is peripheral arterial disease?\nPeripheral arterial disease (PAD) is a condition where arteries in the lower limbs become narrowed due to atherosclerotic occlusive disease - a buildup of plaque in the arteries - reducing blood flow to the legs. This can cause symptoms like claudication pain - pain in the legs when walking - rest pain, wounds, and gangrene, and increase the risk of cardiovascular morbidity and mortality. PAD is estimated to affect 236 million people worldwide, with advanced age, smoking, hypertension - high blood pressure - diabetes, and concomitant cardiovascular disease being common risk factors.\n\nWhy is it important to diagnose peripheral arterial disease?\nAccurate and timely detection of PAD is crucial to implement appropriate risk management strategies, prevent complications, slow disease progression, or intervene when necessary. Diagnostic tests like TBI and TSBP are used to detect PAD, but their accuracy and effectiveness need to be evaluated.\n\nWhat did the review authors want to find out?\nWe aimed to estimate the accuracy of TSBP and TBI for diagnosing PAD in the lower extremities. We also wanted to compare the accuracy of TBI and TSBP and investigate sources of heterogeneity in test accuracy, including patient group, equipment used, positivity threshold, and reference standard.\n\nHow did we search for studies?\nWe performed a systematic search of electronic databases - like PubMed and Embase - for studies evaluating the diagnostic accuracy of TBI and TSBP in detecting PAD. The search combined keywords, MeSH terms, and synonyms related to TBI, TSBP, PAD, and diagnostic accuracy, without language or date restrictions.\n\nWhat were the eligibility criteria for the studies?\nStudies were eligible if they enrolled adult participants with suspected or known PAD, reported TBI or TSBP measurements compared with a reference standard - like angiography or duplex ultrasound - and provided sufficient data to construct 2 × 2 tables. Case reports, reviews, and studies lacking a reference standard were excluded.\n\nHow did we extract and synthesize the data?\nTwo reviewers independently extracted data on study characteristics, index test thresholds, reference standards, and diagnostic 2 × 2 counts. Discrepancies were resolved by consensus. We calculated pooled sensitivity, specificity, positive and negative likelihood ratios, and diagnostic odds ratios using a bivariate random-effects model.\n\nWhat did we find?\nWe found 18 studies that involved 2631 participants with PAD. The studies were conducted in various countries and settings, with most using colour duplex ultrasound as a reference standard. The evidence base to support the use of TBI and TSBP to identify PAD is limited. While both TBI and TSBP are used extensively clinically, the overall diagnostic performance of these tests remains uncertain.\n\nWhat are the limitations of the evidence?\nWe found that the included studies were generally of low methodological quality, with poor reporting of participant recruitment, inadequate blinding between the index test and reference standard, unclear timing between test and standard, very small sample sizes, possible awareness of treatment allocation, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to February 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 712,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 41,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.365853658536587,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 57,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 213,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 213.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 45.67382707591122,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.202907645930392,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.107224582077286,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.275393258426963,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.72162236229104,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.33776377089614,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.073170731707317,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.884098726725126,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.62532106056454,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 305,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 305.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 174,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 249,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 249.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 712,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 712 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 6,
+        "P75_count": 2,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text needs improvement in clarity and readability. Technical terms should be defined in simpler language, long sentences should be broken down, and the use of passive voice should be reduced. Metrics show high counts of passive voice constructions and complex words, contributing to readability issues.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate moderate conformity with typical PLS patterns, with 27.8% of features in the best quartile and 33.3% in the median range. However, there are significant deviations in passive voice, nominalization, nouns, smog index, complex words, and long words, which need to be addressed to improve readability."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013619.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Is having family members watch CPR better for relatives and patients?\n\nKey messages  \n- Having a family member watch CPR might lower the chance of relatives developing stress‑related symptoms, but the evidence is very uncertain and no harmful effects were reported.  \n- The small studies we found did not show any clear difference in patient survival or in the stress felt by health‑care staff when families were present.  \n- More well‑designed, larger studies are needed to know for sure whether family presence during resuscitation helps or harms anyone.\n\nWhat is family presence during resuscitation?  \nFamily presence during resuscitation (FPDR) means offering a relative the option to stay in the room while doctors and nurses try to restart a person’s heart. People often want to be nearby during such critical moments, and families may wish to see what is happening if they are allowed.\n\nWhy might FPDR matter?  \nWhen a loved one is in a life‑threatening emergency, relatives can feel powerless. Some think that being present could give them a sense of control and reduce later emotional problems. At the same time, health‑care teams worry that families might be upset or that the emergency care could be affected.\n\nWhat did we want to find out?  \nWe aimed to learn whether offering relatives the chance to watch CPR changes the amount of post‑traumatic stress (PTSD) symptoms they experience. We also looked at other mental‑health outcomes for relatives, any impact on patient health (such as survival), and whether health‑care staff feel more stressed or change how they deliver care.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared offering relatives the chance to watch CPR with not offering that chance. We gathered the results from the studies we found and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified two small studies that together included about 600 people. One study was done in France with emergency medical teams before they reached the patient, and the other was a pilot study in a UK emergency department. The relatives who took part were adults ranging from their late teens to late seventies, and about half were women. The studies measured relatives’ stress using a questionnaire that scores higher when symptoms are worse.  \n\nThe larger study suggested that relatives who were allowed to watch CPR had fewer stress‑related symptoms after three months and after one year compared with those who were not allowed. It also hinted at lower anxiety, depression, and complicated grief after a year. However, the study had many limitations, and the other small study did not find clear differences. When researchers looked at how long resuscitation lasted and how stressed health‑care staff felt, they saw no obvious changes between the groups.  \n\nBecause the studies were small and had methodological problems, we are not confident in these findings. It is unclear if family presence truly reduces stress symptoms for relatives, and we do not know if it changes patient outcomes or staff stress.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because the studies were at high risk of bias—people in the studies may have known whether families were present, which could affect results—and because the studies were very small.\n\nHow up to date is this evidence?  \nThe evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 580,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.575757575757574,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 71,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 62.24146812957159,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.944200626959251,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.788378787878784,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.269862068965516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.444096133751305,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.02403343782654,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.121212121212121,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.343809299895507,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 201,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 93,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 580,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 580 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:04.359257"
+}

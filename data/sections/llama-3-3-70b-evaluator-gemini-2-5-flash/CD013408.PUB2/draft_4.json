@@ -1,0 +1,162 @@
+{
+  "id": "CD013408.PUB2",
+  "draft": "Do organised care services reduce deaths and hospital stays for people with atrial fibrillation compared to usual care\n\nKey messages\n- Organised care services for people with atrial fibrillation probably reduce deaths from any cause compared to usual care.\n- These services probably make little to no difference to the number of people hospitalized for any reason, but they do reduce hospital stays for heart-related problems.\n- The evidence was not strong enough to be certain about other benefits or harms, so more research is needed.\n\nWhat is atrial fibrillation and why is it a problem\nAtrial fibrillation (AF) is a common heart rhythm condition in adults where the heart beats irregularly (an irregular heartbeat). It requires careful management. If not managed properly, AF can lead to serious complications like stroke, heart failure, and other heart-related problems. Common treatments include medications to control heart rate and rhythm, and procedures to restore a normal heart rhythm.\n\nWhat did the review authors want to find out\nThe authors wanted to assess the effects of different clinical service organisations for adults with atrial fibrillation compared to usual care. They aimed to find out if organised clinical services, like collaborative and virtual care models, can improve outcomes for people with AF, including reducing deaths and hospital stays.\n\nHow did we conduct this review\nWe searched for studies comparing organised clinical service models for adults with atrial fibrillation to usual care, summarized their results, and evaluated our confidence in the evidence.\n\nWhat did we find\nWe found 8 studies involving 8205 people with atrial fibrillation. The average age of participants was between 60 and 73 years. The studies were conducted in China, the Netherlands, and Australia. They compared organised care services, such as nurse-led multidisciplinary approaches or management using digital health technologies, to usual care.\n\nWhat were the main results\nOrganised care services probably greatly reduce deaths from all causes. They probably make little to no difference to hospital stays for any reason, but they do reduce hospital stays for heart-related problems. We are not very certain about the effects on other outcomes, such as stroke or bleeding events, because the evidence is not strong enough.\n\nWhat are the limitations of the evidence\nThe evidence is limited because the studies were small and participants may have known which treatment they received, which could introduce bias.\n\nHow up-to-date is this evidence\nWe searched for studies up to October 2022 and for ongoing trials up to April 2023.\n\nFuture studies should investigate the long-term effects of organised care services, compare different models of care organisation, and examine the impact on quality of life and other important outcomes for people with atrial fibrillation. This will provide more reliable evidence for decision-making so people can make better decisions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 483,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 19,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 44,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 141,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.84031055900624,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.997805383022776,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.87354037267081,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.629565217391303,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.144099378881986,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.02070393374741,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.904761904761905,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.04987562112089,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.221421118012424,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 186,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 145,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 483,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 483 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 6,
+        "P75_count": 10,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 55.55555555555556,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a solid draft that accurately summarizes the review's findings. However, it needs some revisions to make it clearer and more direct for a patient audience before it can be approved. Here are the top 3 areas for improvement:\n\n1. **Use a more direct, active voice.** The draft often uses passive voice and complex noun phrases (nominalizations), which can make sentences feel formal and indirect.\n    *   **Instead of:** 'This will provide more reliable evidence for decision-making so people can make better decisions.'\n    *   **Consider:** 'This will provide more reliable evidence to help people and their doctors make better decisions about care.'\n\n2. **Be consistent with pronouns.** The style guide asks us to use 'we' to refer to the review authors. The draft switches between 'the authors' and 'we'. Please use 'we' throughout for consistency.\n    *   **Instead of:** 'What did the review authors want to find out' and 'The authors wanted to assess...'\n    *   **Consider:** 'What did we want to find out' and 'We wanted to find out...'\n\n3. **Shorten and simplify long sentences.** Some sentences are long and contain multiple ideas. Breaking them into shorter sentences makes them easier to follow.\n    *   **Instead of:** 'Future studies should investigate the long-term effects of organised care services, compare different models of care organisation, and examine the impact on quality of life and other important outcomes for people with atrial fibrillation.'\n    *   **Consider:** 'Future studies should look at the long-term effects of these services. They should also compare different types of organised care and measure the impact on people's quality of life.'\n\nThese changes are supported by the linguistic analysis, which found a high number of passive voice constructions (19) and nominalizations (23), placing the draft outside the typical range for these metrics.",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity with typical patterns, with most metrics in the best quartile or median range. However, it highlights significant deviations in two key areas: the use of passive voice (19 instances, placing it in the P90 range) and nominalizations (23 instances, also in the P90 range). These scores indicate a writing style that is less direct and more noun-focused than is typical for a Plain Language Summary, which can impact readability."
+    }
+  ]
+}

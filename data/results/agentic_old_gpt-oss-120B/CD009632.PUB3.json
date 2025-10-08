@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Is adding breast ultrasound (sound imaging) to mammogram screening (X‑ray breast scan) better than mammogram alone for detecting breast cancer in women at average risk?\n\nKey messages  \n- Adding breast ultrasound to routine mammography finds more cancers (about two extra cancers per 1,000 women screened) but also raises false‑positive results (a test says cancer when there is none) and leads to more biopsies (removing a small tissue sample to check for cancer). The relative risk (risk ratio) for detection is 1.54, for false‑positives 1.43, and for biopsies 2.49.  \n- The benefit of extra detection appears mainly in women with dense breasts (breasts that contain more fibrous and glandular tissue, which look white on a mammogram and can hide tumors). Evidence for women with less dense breasts is less certain.  \n- Current evidence does not show a reduction in breast‑cancer deaths. We need well‑designed trials with longer follow‑up to see whether the additional cancers found improve survival and to better balance benefits and harms. The certainty of the evidence is moderate for cancer detection and low for mortality and overdiagnosis.\n\nWhy is breast cancer screening important?  \nWe screen to find breast cancer early, before it spreads. Early detection gives women a much better chance of successful treatment and survival. The most common screening tool is mammography (an imaging method that uses low‑dose X‑rays to create detailed pictures of the breast). Mammography works less well in women whose breasts are dense because the dense tissue can hide tumors on the X‑ray.\n\nWhat is the role of ultrasound in plain language?  \nUltrasound (a procedure that uses high‑energy sound waves to look at tissues inside the body) does not involve radiation. It can sometimes see cancers that mammography misses, especially in dense breasts. Adding ultrasound to the regular mammogram is called supplemental ultrasound. Critics note that supplemental ultrasound can also produce false‑positive results, which may lead to unnecessary follow‑up procedures such as biopsies.\n\nWhat did we want to find out?  \nWe compared two screening strategies for women at average risk (aged 40‑75 without a strong family history):  \n1. Mammography alone – the standard single test.  \n2. Mammography combined with breast ultrasound – the standard test plus the extra ultrasound scan.  \n\nWe asked whether the combined approach:  \n- Detects more screen‑detected cancers (cancers found during a routine screening test).  \n- Reduces false‑negative results (a test says no disease when it is actually present).  \n- Lowers interval cancers (cancers diagnosed after a negative screening test but before the next scheduled screen).  \n\nWe also examined how the strategies differ in false‑positive results, biopsy rates, and overdiagnosis, and we looked separately at women with dense versus non‑dense breasts.\n\nHow did we find the evidence?  \nWe searched electronic databases (MEDLINE, Embase, Cochrane Library, WHO ICTRP, ClinicalTrials.gov) up to 3 May 2021. We included randomised controlled trials and controlled non‑randomised studies that enrolled at least 500 average‑risk women. Two reviewers screened each record, extracted data, and assessed risk of bias. We pooled results using a random‑effects meta‑analysis (a statistical method that combines results from several studies while allowing for differences between them). We expressed effects as risk ratios with 95 % confidence intervals (a range that likely contains the true effect). We rated the certainty of the evidence with the GRADE approach (a systematic method for judging how confident we can be in the results).\n\nWhat did the studies show?  \nEight studies met our criteria (1 randomised trial, 2 prospective cohort studies, and 5 additional controlled studies). Compared with mammography alone, the combined screening:  \n- Increased cancer detection (risk ratio 1.54, 95 % confidence interval 1.31‑1.81), which translates to about two extra cancers per 1,000 women screened.  \n- Raised false‑positive results (risk ratio 1.43, 95 % confidence interval 1.20‑1.71).  \n- Raised biopsy rates (risk ratio 2.49, 95 % confidence interval 1.90‑3.26).  \n\nWe found no clear difference in breast‑cancer mortality (risk ratio 0.95, confidence interval crossed 1). The certainty of the evidence was moderate for cancer detection and low for mortality, overdiagnosis, and the other safety outcomes because many studies were non‑randomised and showed variability.\n\nWhat are the limitations?  \nWe are moderately confident in the evidence, but most studies did not randomly assign women to each test, so differences could be due to who received which test. Participants likely knew which test they had, which may influence reporting. Not all studies reported every outcome we wanted. The evidence does not cover all populations, test types, or long‑term outcomes. Studies were relatively small and based on few cancer cases, and they varied in how screening was delivered.\n\nWhat do we conclude?  \nAdding breast ultrasound to mammography modestly improves cancer detection in average‑risk women, especially those with dense breasts. However, it substantially increases false‑positive findings and biopsies, and we have no clear evidence that it reduces death from breast cancer. Decision‑makers should weigh the trade‑off between earlier detection and potential harms. More high‑quality randomised trials with long‑term follow‑up are needed to determine whether the extra cancers found translate into better survival.  \n\nEvidence is current to May 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 868,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 50,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.36,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 27,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 86,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 265,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 59.68303317972354,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.247450691244243,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.38917050691244,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.133640552995384,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.561511520737326,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.507465437788014,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.06,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.767145334803704,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.137553695852535,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 400,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 400.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 187,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 253,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 868,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 868 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:55.119624"
+}

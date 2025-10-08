@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015031.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "## Title\nIs the inverted internal limiting membrane flap technique (a method that flips a thin retinal layer over the hole) better than regular peeling for large macular holes?\n\n## Key messages\n- The inverted flap may help more eyes close the hole and may lead to better vision after a few months, while the regular peeling also works but sometimes less well.\n- No serious eye complications such as retinal detachment were reported for either technique.\n- The evidence comes from a small number of studies, so more research is needed to be sure about the benefits and any hidden risks.\n\n## Introduction to the review topic and aims\n### What is a macular hole?\nA macular hole is a small break in the central part of the retina, the part of the eye that lets us see fine details. When this hole forms, people notice blurry or missing central vision, making reading and recognizing faces difficult.\n\n### What do we want to find out?\nWe wanted to know whether the newer inverted‑flap surgery works better than the traditional peeling surgery for closing large macular holes and improving vision.\n\n## How is a macular hole treated?\nThe usual treatment is a surgery called pars plana vitrectomy. In this operation the surgeon removes the gel‑like fluid inside the eye and then works on the thin membrane on the surface of the retina called the internal limiting membrane (ILM). The traditional method peels this membrane away to let the hole close. The inverted‑flap method instead folds a small piece of the ILM over the hole, hoping it will act like a patch.\n\n## What did we do?\nWe searched medical databases for studies that compared the inverted‑flap technique with regular peeling in people with large macular holes. We looked at how the studies measured vision and whether the holes closed, and we checked how reliable the studies seemed.\n\n## What did we find?\nFour studies involving a total of about 285 eyes compared the two surgeries. All the studies used the same type of eye surgery and followed patients for at least three months.\n\n- **Vision after surgery**: The inverted‑flap method seemed to give better vision after three months or more, while the difference at one month was unclear.\n- **Hole closure**: Eyes that received the inverted flap were more likely to have the hole close completely.\n- **Safety**: No cases of retinal detachment or other serious eye problems were reported in either group.\n\n## Limitations of the evidence\nThe studies were few in number and involved relatively small groups of patients. Some studies did not describe how they measured vision in detail, and a few had unclear methods for checking whether the hole was truly closed. Because of these issues, we cannot be very confident that the results will be the same in all patients.\n\n## How up to date is this evidence?\nThe latest studies we found were published up to December 2022, so the information reflects what was known at that time.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 535,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 28.157894736842106,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.2 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.13099852434827,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.867466797835714,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.571807181505164,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.020635514018686,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.795868175110673,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.84013772749631,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.105263157894737,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.915753074274472,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 187,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 535,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 535 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 8,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:22.980299"
+}

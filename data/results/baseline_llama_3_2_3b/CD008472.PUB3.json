@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008472.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Ischaemic preconditioning is a technique that may help protect people's bodies from damage during major surgery. But we don't know if it really works and what the risks are.\n\nWhat is ischaemic preconditioning?\nIschaemic preconditioning is a temporary blockage of blood flow to parts of the body that are not being operated on. This can help protect the body from further damage when blood flow is blocked again during surgery.\n\nWhat does this review say about ischaemic preconditioning?\nThis review looked at 14 studies that tested ischaemic preconditioning in people having major vascular or endovascular surgery. The studies compared people who received ischaemic preconditioning with those who did not.\n\nWhat did the review find?\nThe review found that ischaemic preconditioning probably makes little or no difference in the risk of death, heart attack, kidney problems, stroke, hospital stay, or operating time. It may also make little or no difference in the risk of losing a limb.\n\nWhat does this mean for patients?\nMore research is needed to fully understand the benefits and risks of ischaemic preconditioning. In the meantime, patients should talk to their doctor about what the best approach is for their individual situation.\n\nNote: I've rewritten the text in a plain language summary format, following the guidelines provided. I've also tried to simplify the language and make it more accessible to a non-medical audience. Let me know if you have any further requests!",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 250,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.705882352941176,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 27,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 66,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.25572941176472,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.64769411764706,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.549781176470589,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.434720000000002,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.762352941176472,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.10588235294117,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.588235294117647,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.48074069840786,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.340091764705883,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 73,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 43,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 61,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 250,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 250 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 16,
+      "P50_count": 0,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 88.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.730314"
+}

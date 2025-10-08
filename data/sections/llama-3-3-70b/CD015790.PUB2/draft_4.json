@@ -1,0 +1,162 @@
+{
+  "id": "CD015790.PUB2",
+  "draft": "Do self-management programs (teaching people skills to manage their condition) improve quality of life for adults with visual impairment (problems with eyesight)?\n\nWe found that self-management programs may have little to no effect on improving quality of life for adults with visual impairment. \n- We did not find enough good-quality evidence to fully understand the benefits and potential harms of self-management interventions for adults with visual impairment.\n- Future research should focus on developing more sensitive measures of quality of life and assessing the benefits of self-management interventions across a broader demographic.\n\nWhat is visual impairment and why is it a problem?\nVisual impairment affects more than 2.2 billion people worldwide, especially older adults. It can lead to functional and psychological decline, emphasizing the need for effective self-management interventions.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of self-management interventions on quality of life in adults with visual impairment compared with inactive or active control interventions.\n\nHow did the review authors search for evidence?\nWe searched for studies comparing self-management interventions with inactive or active control interventions in adults with visual impairment.\n\nWhat did the review authors find?\nThe review authors found low-certainty evidence that multifaceted self-management interventions have little or no effects on improving health-related quality of life and vision-related quality of life for adults with visual impairment.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by small sample sizes and heterogeneity in the study populations and intervention delivery methods.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 293,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 16,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.3125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 24,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 11,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 106,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.4355258105802,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.889758959044375,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.176454778157002,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.10744027303754,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.01783276450512,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.394411262798634,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.306623862918075,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.5368665529010235,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 123,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 71,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 94,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 293,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 293 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 11,
+        "P75_count": 1,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 61.111111111111114,
+        "P75_percentage": 5.555555555555555,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft text is well-structured and clear, but could benefit from minor improvements, including reducing nominalization, using more active voice, and simplifying wordy phrases.",
+      "pls_evaluation_summary": "The metric evaluation shows good conformity with PLS patterns, with 33.3% of features in the best quartile and 61.1% in the median range. However, there is a deviation in nominalization, which could be reduced for better clarity."
+    }
+  ]
+}

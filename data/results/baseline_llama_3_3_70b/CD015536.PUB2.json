@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015536.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of entecavir for children and adults with chronic hepatitis B?\n\n### Key Messages\n- We wanted to find out if entecavir is better than no treatment or placebo for people with chronic hepatitis B. We included 22 studies with 2940 participants and found that we are very uncertain about the effect of entecavir on serious adverse events.\n- The evidence suggests that entecavir may have some benefits, but we are not confident in the results because the studies had some problems and were very small.\n- Further research is needed to determine the effect of entecavir on critical outcomes such as all-cause mortality and serious adverse events.\n\n### Introduction to the review topic and review aims\nWhat is chronic hepatitis B? \nChronic hepatitis B is a major worldwide public health concern. It is a condition where the hepatitis B virus infects the liver and can cause serious health problems. Entecavir is a medicine that is often used to treat chronic hepatitis B. \n\nWhat did we want to find out? \nWe wanted to find out if entecavir is better than no treatment or placebo for people with chronic hepatitis B. We also wanted to know if entecavir has any harmful effects.\n\n### What did we do? \nWe searched for studies that compared entecavir with no treatment or placebo in children and adults with chronic hepatitis B. We combined and summarized the results of these studies and evaluated our confidence in the evidence.\n\n### What did we find? \nWe found 22 studies with 2940 participants. The studies were done in different countries and included people of different ages. We found that we are very uncertain about the effect of entecavir on serious adverse events. This means that we are not confident that entecavir is safe or effective.\n\n### What are the limitations of the evidence? \nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. This means that the results of the studies may not be accurate.\n\n### How up to date is this evidence? \nThe evidence is up to date to July 2024. This means that our search for studies only went up to July 2024, so any studies that have been done after that date are not included in our review.\n\nIn conclusion, we are very uncertain about the effect of entecavir on serious adverse events, and further research is needed to determine the effect of entecavir on critical outcomes such as all-cause mortality and serious adverse events.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 464,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.2,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 107,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.939586206896564,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.801965517241381,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.502176724137932,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.306982758620688,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.314482758620692,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.70862068965517,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.15,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.12403840463596,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.948974310344828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 141,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 70,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 123,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 464,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 464 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 6,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:37.979254"
+}

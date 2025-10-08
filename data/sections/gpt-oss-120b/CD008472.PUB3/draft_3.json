@@ -1,0 +1,162 @@
+{
+  "id": "CD008472.PUB3",
+  "draft": "Does remote ischaemic preconditioning (temporarily blocking blood flow to a part of the body away from the surgery) improve outcomes compared with no preconditioning in major blood‑vessel (vascular) surgery?\n\nKey messages\n- Remote ischaemic preconditioning (RIPC) probably does not change the risk of death around the time of surgery, heart attacks (myocardial infarction), kidney problems (renal impairment), strokes, loss of a limb, length of hospital stay, or the time needed for the operation. No specific harmful effects were reported.\n- The evidence comes from 14 moderate‑size randomised trials that together enrolled 1,295 adults (average age 65–76 years, 84% male). The trials were generally of moderate quality, but the results are imprecise and the way RIPC was delivered varied between studies.\n- Larger, well‑designed randomised trials that focus on important clinical outcomes and patient‑centred measures are needed to determine whether RIPC could provide any real benefit in major vascular surgery.\n\nWhy are major vascular and endovascular surgeries a health concern?\nWe perform elective major vascular surgery (operations on large blood vessels such as the aorta, leg arteries, or carotid arteries) and endovascular procedures (minimally‑invasive techniques that use catheters inside the vessels) to treat serious conditions like aneurysms, blockages, or peripheral artery disease. Even with modern peri‑operative care, these operations carry a high risk of serious complications and death. Patients can experience heart attacks (myocardial infarction), kidney problems (renal impairment), strokes, loss of a limb, or long hospital stays after surgery.\n\nWhat is remote ischaemic preconditioning (RIPC) and how might it help?\nRIPC is a simple technique that briefly blocks blood flow to a part of the body that is not being operated on. We usually inflate a blood pressure cuff on an arm or leg for a few minutes and then release it. This short, repeated interruption is thought to trigger protective mechanisms that make the heart, kidneys, brain and other organs more resistant to the longer periods of reduced blood flow (ischaemia) that can occur during major surgery. Researchers hope that RIPC could lower the chance of complications such as heart attacks, kidney injury, or stroke after vascular surgery.\n\nWhat did the review set out to discover?\nWe wanted to find out whether giving patients RIPC before elective major vascular or endovascular surgery improves outcomes compared with not giving RIPC. Specifically, we examined whether RIPC reduces peri‑operative mortality (death around the time of surgery) and serious complications such as heart attacks (myocardial infarction), kidney problems (renal impairment), stroke, loss of a limb, length of hospital stay, and the time needed for the operation or anaesthesia. We also looked for any potential harms associated with the technique.\n\nHow did we find the evidence?\nWe searched the Cochrane Vascular Specialized Register, CENTRAL, MEDLINE, Embase, CINAHL and trial registries for randomised controlled trials that compared RIPC with no preconditioning in elective major vascular or endovascular surgery. We combined the results and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified 14 randomised trials that enrolled a total of 1,295 participants (average age 64.5–76 years, 84% male). All trials compared RIPC with a control condition of no RIPC. We found that RIPC probably does not change the risk of death around surgery, heart attacks, kidney problems, strokes, length of hospital stay, or the time the operation takes. It may also make little or no difference to the risk of losing a limb. The certainty of the evidence is moderate for most outcomes and low for limb loss.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence, but the studies were small and varied in the types of patients and how the intervention was delivered. Because only a limited number of trials are available, the results may over‑estimate any benefit.\n\nHow current is the evidence?\nThis review updates our previous review and includes studies up to April 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 662,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.6875,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 50,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 202,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 202.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 44.36860743957703,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.210149169184294,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.335683534743204,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.009305135951664,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.123942598187313,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.95638217522659,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.46875,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.328828005937952,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.6092419939577045,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 276,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 276.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 163,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 163.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 207,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 207.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 662,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 8,
+        "P75_count": 4,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks failed: the draft misstates the participants' age as an \"average age 65–76 years\" whereas the source reports an age **range** of 64.5 to 76 years. This is a factual inaccuracy that must be corrected. In addition, the draft shows several readability problems that would confuse patients: (1) excessive noun‑heavy and nominalised phrasing (e.g., \"The evidence suggests that using RIPC probably makes little or no difference…\"), (2) long, complex sentences (e.g., the 30‑word sentence describing the 14 trials and participant characteristics), and (3) technical terms used without plain‑5 definitions (e.g., \"peri‑operative\", \"ischaemia\"). The PLS evaluation confirms these issues – nominalisations (22, well above the median of 13), nouns (202 vs median 116), SMOG index (15.3 vs median 12.1) and complex‑word counts are all beyond the typical PLS range, indicating the text is harder to read than most Cochrane summaries. The most important improvements are: correct the age wording, replace noun‑heavy constructions with active verbs, split long sentences, and simplify jargon. These changes will bring the summary back into compliance with the Master Style Guide and improve patient understanding.",
+      "pls_evaluation_summary": "The draft meets the word‑count limit (662 words) and includes all required sections, but several metrics deviate from typical PLS patterns: nominalisation (22, P90), noun count (202, P90), SMOG index (15.33, BEYOND_P90), complex words (163, BEYOND_P90), long words (207, P90) and complex Dale‑Chall words (276, P90). These indicate the text is more complex and noun‑heavy than most Cochrane PLSs, supporting the 3‑5 clarity and style issues identified."
+    }
+  ]
+}

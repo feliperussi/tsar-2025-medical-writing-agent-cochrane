@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012380.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs hydroxyurea or blood‑pressure medicines (ACE inhibitors) helpful for preventing kidney problems in people with sickle cell disease?\n\nKey Messages  \n- We are unsure whether hydroxyurea or ACE‑inhibitor medicines (such as captopril or lisinopril) improve kidney function or stop kidney damage in people with sickle cell disease; the studies we found did not show clear benefits and did not report serious side‑effects.  \n- No studies looked at blood‑cell transfusions or combinations of treatments for kidney protection, so we have no information about those options.  \n- More well‑designed research with larger numbers of people is needed to find out if any medicine can safely prevent or reduce kidney problems in sickle cell disease.\n\nWhat is sickle cell disease and why does the kidney matter?  \nWhat are the kidney problems that can happen in sickle cell disease?  \nSickle cell disease is a genetic condition that makes red blood cells change shape and break down easily. This can cause painful attacks, damage to many organs, and a shorter life span. One organ that is often affected is the kidney. When the kidneys are damaged, they may start leaking small amounts of protein (called micro‑albuminuria) and later lose the ability to filter waste properly. Over time, this can lead to chronic kidney disease and, in some cases, complete kidney failure.\n\nWhat did the researchers want to find out?  \nThe review team wanted to know whether any medicines—such as hydroxyurea, blood‑pressure medicines called ACE inhibitors, or blood‑cell transfusions—can prevent or slow down kidney damage in people with sickle cell disease.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared these medicines with no treatment or with a placebo. We combined the results of the studies we found and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified three small studies that together included a few hundred people with sickle cell disease. One study looked at hydroxyurea in children, another examined the ACE inhibitor captopril in adults, and a third compared the ACE inhibitor lisinopril with vitamin C in children. The studies were short‑term, involved few participants, and were funded by a mix of sources. None of the studies reported deaths, and they gave little information about quality of life or serious side‑effects.\n\nThe main findings were:  \n\n- Hydroxyurea may help children concentrate urine a bit better, but we are unsure whether it improves overall kidney filtering ability. It seemed to make little or no difference to serious sickle‑cell complications such as chest problems, painful attacks, or hospital stays.  \n\n- The ACE inhibitor captopril showed no clear effect on reducing protein loss in the urine or on preserving kidney filtering function over six months.  \n\n- The ACE inhibitor lisinopril was compared with vitamin C, but the trial did not provide usable data to tell whether it helped reduce protein loss.  \n\nOverall, the certainty of the evidence was low to very low because the studies were small, had some risk of bias, and did not directly answer the long‑term questions we have.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the studies were small, some had design problems that could affect the results, and they did not always measure the outcomes we are most interested in, such as long‑term kidney health.\n\nHow up to date is this evidence?  \nThe evidence is up to date to the latest search reported in the review.  \n\nWhat does this mean for you?  \nAt present, we cannot say for sure whether hydroxyurea, ACE‑inhibitor medicines, or blood‑cell transfusions protect the kidneys of people with sickle cell disease. More large, well‑run studies are needed to find out which, if any, treatments are safe and effective for preventing kidney problems in this condition.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 653,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.78787878787879,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 60.4333045616966,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.745955728804123,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.059253329620862,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.663889739663087,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.408260244094857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.515290732748625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.090909090909091,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.954112784816001,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 247,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 653,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 653 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:00.839961"
+}

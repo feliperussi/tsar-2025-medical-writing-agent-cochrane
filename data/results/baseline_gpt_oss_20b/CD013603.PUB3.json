@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013603.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What do healthcare workers think about putting primary health services together?\n\nKey messages\n– We found that healthcare workers have many different views about combining health services, and the studies show a wide range of experiences. No clear pattern of benefit or harm was found.\n– The evidence comes from many countries and many types of workers, but the studies were very different and many were small, so we are not confident about the overall picture.\n– More research is needed that looks at how the setting, the type of services, and the workers involved affect the experience of integration.\n\nIntroduction\nWhat is primary health care integration?\nPrimary health care integration means putting together different health services that were often run separately. For example, a clinic might combine care for mental health, HIV, and routine check‑ups in one place.\n\nWhy is it important?\nPutting services together can make it easier for people to get the care they need and can help health systems use resources better. But the way it is done and how people feel about it can change how well it works.\n\nWhat did we want to find out?\nWe wanted to map all the stories that healthcare workers have shared about how they feel when services are combined. This helps future researchers and decision‑makers understand what works and what does not.\n\nWhat did we do?\nWe searched many databases for studies that talked about healthcare workers’ views on service integration. We then counted how many studies talked about each topic and described what they found. Finally, we judged how reliable the evidence seemed.\n\nWhat did we find?\nWe included 184 studies that were published in 191 papers. The studies came from 37 countries, about half from high‑income countries and half from low‑ and middle‑income countries. Most studies used interviews or group talks and were done at a single point in time.\n\nThe studies looked at six main groups of services that were combined: mental and behavioural health; HIV, tuberculosis and sexual reproductive health; maternal, women and child health; non‑communicable diseases; general primary health services; and allied and specialised services.\n\nThey also described three ways of combining services: horizontal integration (linking services side by side), service expansion (adding new services to an existing one), and service linkage (connecting services that were separate).\n\nA wide range of workers were involved, from policymakers and senior managers to doctors, nurses, allied health workers, lay workers and support staff. The people who received care also varied widely.\n\nLimitations of the evidence\nWe are not confident about the overall picture because the studies were very different from each other and many were small. The variety in how services were combined, who was involved and where the studies were done makes it hard to say what works best.\n\nHow up to date is this evidence?\nThe evidence is up to date to July 2020.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 499,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.821428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 128,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 61.0833241482966,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.166769968508447,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.529932722588036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.065490981963926,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.022359003721732,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.27433438305182,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.714285714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.055385138137417,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.611377726882337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 181,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 86,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 499,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 499 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:19.870928"
+}

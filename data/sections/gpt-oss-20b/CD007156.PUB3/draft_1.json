@@ -1,0 +1,162 @@
+{
+  "id": "CD007156.PUB3",
+  "draft": "analysisWe need to assemble the plain language summary according to instructions. No markdown, but we need to apply formatting: Title as Heading (maybe just plain line?), main sections as **Bold Headings** (but no markdown? The instruction says apply basic formatting rules: Title as `Heading`. Main sections as `**Bold Headings**`. Key messages as list with dashes. Introduction sections with subheadings. However final output must be only the final validated plain language summary in a single block of text with no markdown. But the formatting rules use markdown-like syntax (**Bold Headings**). However they say no markdown. Possibly they want plain text with the formatting indicated by uppercase or something? The instruction contradictory. Usually they want plain text but with headings indicated by uppercase or maybe just the text as is, no markdown symbols. But they explicitly say Title as Heading, Main sections as **Bold Headings**. That is markdown. But final output says no markdown. Could interpret that we should not wrap the whole block in markdown code fences, but we can still use markdown syntax for headings. Probably they want plain text with bold headings indicated by double asterisks. That's still markdown but not a code block. They said no markdown, but maybe they mean no markdown formatting beyond the specified. The spec: \"Your response must be ONLY the final, validated, and fully compliant Plain Language Summary in a single block of text with no markdown.\" So we must not use markdown at all. Then how to represent headings? Maybe just plain text with headings capitalized. Title as heading: just the title line. Main sections as bold headings: we could just write the heading in uppercase or with surrounding asterisks? But asterisks are markdown for bold. That would be markdown. So maybe we just write the heading text on its own line, maybe preceded by a line break. Since they said no markdown, we should avoid any markdown symbols. So we will just present headings as plain text lines, maybe with line breaks.\n\nThus assemble:\n\nTitle: \"What treatments are effective for improving mouth opening and reducing burning in oral submucous fibrosis (a condition that tightens the mouth)?\"\n\nThen Key messages list each bullet preceded by dash.\n\nThen Introduction/Aims: two subheadings with content.\n\nThen Methods heading and content.\n\nThen Results heading and subheadings.\n\nThen Limitations heading and content.\n\nThen Currency heading and content.\n\nWe need to follow order: Title, Key messages, Introduction/Aims, Methods, Results, Limitations, Currency.\n\nWe need to include subheadings for introduction sections.\n\nLet's assemble.\n\nTitle line.\n\nKey messages:\n\n- Antioxidant medicines taken by mouth probably give a small increase in how wide the mouth can open after a few months (mouth opening is the distance between the upper and lower front teeth when the mouth is fully opened) and probably lessen the burning feeling in the mouth (a painful sensation); other drugs such as pentoxifylline (a medication that improves blood flow) may give a very small improvement, but the overall benefit is modest, and reported side‑effects were generally mild (e.g., stomach upset) with serious harms being rare or not reported.\n\n- For many other treatments that were tested – such as steroid injections into the tissue (medicine that reduces inflammation, given directly into the mouth tissue), physiotherapy (guided exercises), or other vasodilator drugs (medicines that widen blood vessels) – the current studies do not provide reliable evidence of benefit, and information on possible harms is very limited.\n\n- Because most of the available trials were small, had methodological problems (issues with how the study was done) and followed participants for only a short time, better‑designed, larger studies that track mouth opening, burning sensation, quality of life (overall wellbeing) and any side‑effects over longer periods are needed.\n\nIntroduction/Aims:\n\nSubheading: What is oral submucous fibrosis and why is it a problem?\n\nContent: ...\n\nSubheading: What did the review aim to find out?\n\nContent: ...\n\nMethods heading and content.\n\nResults heading and subheadings.\n\nLimitations heading and content.\n\nCurrency heading and content.\n\nMake sure no markdown like **. Use plain text headings maybe all caps.\n\nLet's produce final block.What treatments are effective for improving mouth opening and reducing burning in oral submucous fibrosis (a condition that tightens the mouth)?\n\nKey messages\n- Antioxidant medicines taken by mouth probably give a small increase in how wide the mouth can open after a few months (mouth opening is the distance between the upper and lower front teeth when the mouth is fully opened) and probably lessen the burning feeling in the mouth (a painful sensation); other drugs such as pentoxifylline (a medication that improves blood flow) may give a very small improvement, but the overall benefit is modest, and reported side‑effects were generally mild (e.g., stomach upset) with serious harms being rare or not reported.\n- For many other treatments that were tested – such as steroid injections into the tissue (medicine that reduces inflammation, given directly into the mouth tissue), physiotherapy (guided exercises), or other vasodilator drugs (medicines that widen blood vessels) – the current studies do not provide reliable evidence of benefit, and information on possible harms is very limited.\n- Because most of the available trials were small, had methodological problems (issues with how the study was done) and followed participants for only a short time, better‑designed, larger studies that track mouth opening, burning sensation, quality of life (overall wellbeing) and any side‑effects over longer periods are needed.\n\nIntroduction/Aims\nWhat is oral submucous fibrosis and why is it a problem?\nOral submucous fibrosis (OSF) is a chronic condition that stiffens the lining of the mouth, making it hard to open the mouth, chew, speak, and swallow. It causes painful burning sensations and reduces quality of life. People with OSF also have a higher risk of developing mouth cancer. The main cause is chewing areca nut (often found in betel‑quid). Current care includes stopping this habit and trying many other treatments—medicines, surgery, physiotherapy, ultrasound, and alternative therapies—but it is unclear which are effective and safe.\n\nWhat did the review aim to find out?\nThe review set out to examine all randomised controlled trials that tested any intervention for OSF. It aimed to determine whether these treatments improve key outcomes such as the ability to eat, chew, and speak normally, the mouth‑opening distance, the feeling of burning, and overall quality of life, while also assessing any harmful side effects. In short, the goal was to weigh the benefits and harms of each possible therapy for people living with oral submucous fibrosis.\n\nMethods\nWe searched for randomised controlled trials (studies that randomly assign participants to treatments) evaluating any drug, surgical or other therapy for oral submucous fibrosis versus placebo or no treatment, combined their results, and rated our confidence in the evidence using standard criteria (GRADE).\n\nResults\nWhat did we find?\nThe updated review included 30 randomised controlled trials with a total of 2,176 adult participants who had biopsy‑confirmed oral submucous fibrosis. The trials varied in length, with follow‑up periods of less than three months, three to six months, and longer than six months. No details were given about funding sources or the countries where the studies were conducted. All participants were adults with OSF, but the abstract did not report age, gender or disease severity. A wide range of interventions was tested, including systemic, locally delivered or topical drugs (such as antioxidants, pentoxifylline, vasodilators, intralesional dexamethasone, hydrocortisone plus hyaluronidase), surgical procedures, physiotherapy, ultrasound and other alternative therapies. Most studies compared an active treatment with placebo or no active treatment, and a few compared two active interventions.\n\nMain results: Antioxidants reduce burning sensation\nAntioxidant treatments probably produce a large reduction in the burning sensation that people with oral submucous fibrosis experience. They may also increase mouth opening, but only slightly. Pentoxifylline probably leads to a small increase in mouth opening as well. For other interventions such as intralesional dexamethasone, vasodilators or physiotherapy, the evidence is unclear regarding any benefit for mouth opening or burning sensation, and it is also unclear whether any of the treatments cause adverse effects.\n\nLimitations\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and not all of the studies provided data about everything that we were interested in, and the studies were very small, and there are not enough studies to be certain about the results.\n\nCurrency\nThis review updates our previous review. The evidence is up to date to September 2022 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1464,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 80,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 38,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 71,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 44,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 44.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 407,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 407.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.19000819672132,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.665579234972679,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.257131147540989,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.966448087431694,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.615081967213115,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.65245901639344,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.7375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 19.30950643030009,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.3 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.389776994535519,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 601,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 601.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 267,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 267.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 459,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 459.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 1464,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 1464 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 3,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical checks: (1) Several section headings are not phrased as questions (e.g., \"Methods\", \"Main results: Antioxidants reduce burning sensation\", \"Limitations\", \"Currency\"). The style guide requires all subheadings to be questions. (2) The total word count is 1,464 words, exceeding the 850‑word limit for a Plain Language Summary. (3) The text contains excessive passive constructions (38 instances) and heavy nominalisation (44 instances), making it harder for readers to follow. (4) Many sentences are long and contain complex, multi‑syllable words (e.g., 267 complex words, 459 long words, SMOG index 19.3), which reduces readability. (5) Some jargon is not defined for a lay audience (e.g., \"SMOG index\", \"Gunning Fog\", \"intralesional dexamethasone\").\n\nTop improvements needed:\n1. Subheading format – Quote: \"Methods\". Problem: Not a question, violating the style guide. Rewrite: \"How did we find the evidence?\" Apply similarly to other headings (e.g., change \"Main results: Antioxidants reduce burning sensation\" to \"What did the main results show?\", \"Limitations\" to \"What are the limitations of the evidence?\", \"Currency\" to \"How up to date is this review?\").\n2. Reduce length – Quote: Entire draft (1,464 words). Problem: Exceeds 850‑word limit. Rewrite: Condense each section, remove redundant phrases, and keep only essential information. Aim for ~800 words.\n3. Passive voice – Quote: \"The evidence was very uncertain for all other interventions compared to placebo or no active treatment...\" Problem: Passive construction obscures who performed the action. Rewrite: \"We are very uncertain about the benefits of other interventions compared with placebo or no active treatment...\" Reduce passive sentences to fewer than 13.\n4. Complex vocabulary – Quote: \"intralesional dexamethasone injections\". Problem: Technical term without lay explanation. Rewrite: \"steroid injections placed directly into the mouth tissue (a medicine that reduces inflammation)\". Aim to cut complex words from 267 to under 84 and long words from 459 to under 122.\n5. Long sentences – Quote: \"Antioxidant treatments probably produce a large reduction in the burning sensation that people with oral submucous fibrosis experience, and they may also increase mouth opening, but only slightly.\" Problem: 33 words, hard to follow. Rewrite: \"Antioxidant medicines probably reduce the burning feeling in the mouth. They may also increase how wide the mouth can open, but only a little.\" Keep sentences under 30 words.\n\nThese changes address the major clarity, style, and length issues highlighted by the metrics (high passive voice, nominalisation, noun count, SMOG index, complex and long words).",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is moderately conforming but deviates on 7 key metrics: passive_voice (38, beyond P90), nominalization (44, beyond P90), nouns (407, beyond P90), smog_index (19.3, beyond P90), complex_words_dc (601, beyond P90), complex_words (267, beyond P90), and long_words (459, beyond P90). These indicate excessive passivity, noun‑heavy phrasing, and high lexical complexity, all of which reduce readability for a lay audience."
+    }
+  ]
+}

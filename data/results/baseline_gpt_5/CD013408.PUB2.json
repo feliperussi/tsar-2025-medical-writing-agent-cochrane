@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nWhat are the benefits and harms of organised, team‑based or virtual care for adults with atrial fibrillation (AF, an irregular heartbeat)?\n\nKey Messages\n- Organised AF services, such as nurse‑led team care or app‑supported care, probably reduce deaths and reduce heart‑related hospital stays. They probably make little to no difference to hospital stays for any reason. They may have little to no effect on strokes (blood clots blocking blood flow, like in the brain) and on major bleeding in the brain. None of the studies reported minor brain events.\n- The studies mainly tested nurse‑led clinics and mobile health (mHealth) approaches. They took place in China, the Netherlands, and Australia, and included adults with AF whose average ages were 60 to 73.\n- We need more good‑quality research that compares different service models, including smartphone‑based care, and that measures outcomes important to people with AF, such as symptoms, quality of life, and costs.\n\nIntroduction to the review topic and review aims\n\nWhat is atrial fibrillation (AF) and why does care organisation matter?\nAF is a common irregular heartbeat in adults. It can cause tiredness, palpitations, shortness of breath, and dizziness. AF can also lead to serious problems, such as stroke and heart failure, and often leads to hospital visits.\n\nCaring for AF can be complex. People may need blood thinners (anticoagulants) to prevent harmful clots, medicines or procedures to control heart rate or rhythm, and support to manage other health problems. Because care needs are often complex, how services are organised may affect health outcomes.\n\nWhat is organised, team‑based or virtual care?\nOrganised services aim to coordinate care. They can include:\n- nurse‑led clinics that work closely with heart doctors and primary care\n- multidisciplinary teams (doctors, nurses, pharmacists, and others)\n- virtual care using smartphones or apps (mHealth) to guide care and monitor people remotely\n\nWhat did we want to find out?\nWe wanted to find out if organised AF services work better than usual care for adults with any type of AF. We looked at deaths, hospital stays, strokes and other clots, bleeding in the brain, quality of life, symptoms, emergency visits, costs, and time in hospital.\n\n[Optional] How is AF usually managed?\nAF care often includes:\n- blood thinners (anticoagulants) to lower stroke risk\n- medicines or procedures to control heart rhythm or heart rate\n- treatment for related problems, such as high blood pressure\n- lifestyle advice and regular follow‑up\n\nWhat did we do?\nWe searched for studies where adults with AF were assigned by chance to receive organised, team‑based or virtual care, or usual care. We combined the results and judged how confident we could be in the findings based on study methods and consistency.\n\nWhat did we find?\nWe found 8 studies with 8205 adults with AF. The average age ranged from 60 to 73 years. The studies took place in China, the Netherlands, and Australia. Most tested nurse‑led, team‑based care. Some tested mHealth, such as smartphone‑supported care. All compared these organised services to usual care. The abstract did not say who funded the studies. Some outcomes, like AF‑specific quality of life, were not measured in a standard way, so we could not use them.\n\nMain results:\n- Deaths from any cause: Organised AF services probably reduce deaths by a large amount compared with usual care.\n- Hospital stays for any reason: Organised AF services probably make little to no difference.\n- Deaths from heart and blood vessel problems: Organised AF services may not reduce these deaths.\n- Hospital stays due to heart and blood vessel problems: Organised AF services reduce these hospital stays.\n- Strokes and other clots (thromboembolic complications): Organised AF services may have little to no effect.\n- Major bleeding in or around the brain: Organised AF services may have little to no effect.\n- Minor brain events: No study reported these.\n- Quality of life, symptoms, emergency visits, costs, and length of hospital stay: We found little or unclear information, and AF‑specific quality of life was not measured in a standard way.\n\nWhat does this mean for people with AF?\nOrganised, team‑based or virtual care for AF could help people live longer and may keep some people out of the hospital for heart‑related reasons. These services may not change overall hospital use, strokes, or major brain bleeding. We do not know whether they improve day‑to‑day symptoms or quality of life because this was not measured well.\n\nWhat are the limitations of the evidence?\nOur confidence in the findings varies across outcomes. We are more confident about fewer heart‑related hospital stays, and less confident about effects on strokes and bleeding. Many studies could not hide which type of care people received, which can affect results. There were only a small number of studies for some outcomes, and some were small. Important outcomes, such as AF‑specific quality of life and costs, were not measured or not measured in a standard way. The studies took place in a few countries, so results may not apply everywhere.\n\nHow up to date is this evidence?\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 879,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 49,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.93877551020408,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 256,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 256.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.75888347147735,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.683255554781642,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.828159086160063,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.127007963594991,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.27334865686889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.51215434979453,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.408163265306122,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.656077258480184,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 321,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 321.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 134,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 134.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 216,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 879,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 879 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:42.657238"
+}

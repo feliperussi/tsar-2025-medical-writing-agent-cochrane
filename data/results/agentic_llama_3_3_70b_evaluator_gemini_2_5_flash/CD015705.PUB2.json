@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015705.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "How do healthcare workers use their personal mobile phones and other devices to support their work, and what are the benefits and drawbacks of these informal solutions?\n\nKey Messages\n- Healthcare workers often use their personal mobile phones and other devices for work, which can help them be more flexible and responsive to patients. However, it also has downsides, such as creating unfairness, as junior staff may bear more of the costs for phones and data. It also raises concerns about patient privacy.\n- The use of personal resources by healthcare workers can also lead to unequal access to care. Some workers may have better access to devices, internet, and skills to use them effectively, while others may struggle. This highlights the need for healthcare systems to address these disparities and ensure equitable access to care.\n- Future research should focus on finding ways to retain the benefits of informal solutions, such as increased flexibility and responsiveness, while reducing their negative effects, like unequal access to care and potential breaches of confidentiality.\n\nIntroduction\nWhat is the problem of healthcare workers using personal mobile devices for work purposes?\nHealthcare workers often use their personal phones or other mobile devices for work, especially when their workplace doesn't have good official ways to communicate or share information. This can create new problems, like using devices without rules and worrying about patient data privacy.\n\nWhat did the review authors want to find out?\nWe wanted to understand the views and experiences of healthcare staff who use their own mobile devices for work, including the benefits and problems of this practice.\n\nMethods\nHow did we do the review?\nWe searched for studies about healthcare workers' informal use of mobile devices, summarized the results, and rated our confidence in the evidence.\n\nResults\nWhat did we find?\nWe found 30 studies that were published between 2013 and 2022. The studies were from high-, middle-, and low-income countries and covered a range of healthcare settings and worker roles. Most described mobile phone use as opposed to other mobile devices, such as tablets.\nWhat are the main findings about mobile device use?\nHealthcare workers use their personal mobile phones and other mobile devices in ways that are not regulated by their workplace to support their work. This helps them be more flexible, efficient, and responsive to patient needs. For example, it can give patients direct access to individual healthcare workers rather than to general systems. However, it can also cause problems by creating unfairness among workers. For instance, junior staff or those in low-income countries may have to bear more of the costs for phones and data. \nAlso, workers with poor access to electricity and the internet can't easily use these mobile solutions. Others who lack training may struggle to judge if online information is trustworthy.\n\nLimitations\nWhat are the limitations of this review?\nWe are moderately confident in our findings. The studies we found took place in many different countries and healthcare settings, so the results may not apply to all situations.\n\nCurrency\nHow up to date is this review?\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 547,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.233333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.55632023156613,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.900524680073126,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.470322973796467,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.019890310786106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.509055453991468,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.118159658744666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.266666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.055385138137417,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.168413552711761,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 217,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 158,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 547,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 547 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:30.307738"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007130.PUB5",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Is home‑based heart‑rehab (including online video or phone support) as effective as centre‑based heart‑rehab for people after a heart attack, heart surgery or heart failure?\n\nKey messages\n– Home‑based cardiac rehabilitation – a supervised program of exercise and education delivered at home, often by phone or video – works about as well as centre‑based rehab for people after a heart attack, after procedures that open blocked arteries (revascularisation), or with heart failure. It gives similar benefits for survival, ability to exercise and overall quality of life, and no extra harms were reported.  \n– People finish both types of programmes at similar rates and the costs are alike, although most studies only followed participants for up to 12 months.  \n– Because most evidence is short‑term, we need longer‑term research to confirm whether the benefits of home‑based programmes last and to test safety for other heart conditions.\n\nWhy is cardiac rehabilitation needed after heart problems?  \nHeart disease such as heart attacks, heart failure, or procedures to open blocked arteries is a leading cause of death. After these events people often feel weaker, have trouble exercising, and face a higher risk of further heart problems. Cardiac rehabilitation is a planned programme that helps patients recover, improves their ability to exercise (called “exercise capacity”), and lowers the chance of future heart events. Traditionally the programme is run in hospitals or community centres where patients attend supervised sessions. More recently, programmes that can be done at home – sometimes using video calls or apps (called “digital” or “telehealth” rehabilitation) – have been introduced to make participation easier, especially when face‑to‑face visits are difficult.\n\nWhat did we want to find out?  \nWe compared home‑based cardiac rehabilitation (including any digital or telehealth support) with the usual centre‑based, supervised programmes. We wanted to know whether the two approaches differed in:  \n– total mortality (the number of people who die);  \n– morbidity (the number of people who experience further heart‑related health problems);  \n– exercise capacity (how well a person can perform physical activity);  \n– health‑related quality of life (how a person feels about their overall health and daily life); and  \n– modifiable risk factors such as blood pressure or cholesterol, which can be improved by lifestyle changes or medication.\n\nHow did we find the evidence?  \nWe searched major trial databases for randomised controlled trials that compared home‑based with centre‑based cardiac rehabilitation in adults with heart disease. Two reviewers screened each record, extracted data and assessed risk of bias. We combined the results and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?  \nWe identified 24 trials that together enrolled 3 046 participants who had a heart attack, had undergone revascularisation, or were living with heart failure. Both programmes produced similar results for survival, exercise ability and quality of life up to 12 months. We found little‑to‑no difference in the risk of death between home‑based and centre‑based rehabilitation. Completion rates and costs were also comparable. Only three studies reported outcomes beyond 12 months (up to 24 months for quality of life and exercise capacity).\n\nWhat are the limitations of the evidence?  \nWe have low confidence in the evidence because participants often knew which programme they received, some trials did not report all outcomes, and many studies were small.\n\nHow current is the evidence?  \nThis review updates our previous work and includes studies searched up to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 577,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.37037037037037,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 185,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.147886899030766,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.131619487772003,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.111337698183455,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.34870017331022,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.73878939598177,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.04628024905321,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.555555555555555,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.045361017187261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.284511098273319,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 264,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 264.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 177,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 577,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 577 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:50.001399"
+}

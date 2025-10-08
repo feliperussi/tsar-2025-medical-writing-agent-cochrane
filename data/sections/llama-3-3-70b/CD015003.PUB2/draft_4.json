@@ -1,0 +1,162 @@
+{
+  "id": "CD015003.PUB2",
+  "draft": "Can colchicine help prevent heart attacks and strokes in people who have not had a heart problem before?\n- We found that colchicine may help reduce the risk of death from any cause in people who have not had a heart problem before. However, the evidence is not strong enough to be certain. It may also increase the risk of diarrhea.\n- The current evidence does not clearly show whether colchicine can prevent heart attacks or strokes in people without prior heart problems. This highlights the need for more research to provide clearer answers.\n- Future studies should investigate the effects of colchicine on heart health in a more rigorous and unbiased manner. This includes looking at its potential benefits and harms to help doctors and patients make informed decisions about its use for preventing cardiovascular events.\n\nWhat is atherosclerotic cardiovascular disease?\nIt's a condition where fatty substances clog the arteries, causing inflammation and potentially life-threatening problems. This disease is a major cause of death and disability worldwide, affecting millions of people.\n\nWhat is colchicine and how might it help with ACVD prevention?\nColchicine is a medicine with anti-inflammatory properties that has been used for centuries. Its potential role in preventing ACVD is of interest due to its ability to reduce inflammation, a key factor in the development of the disease.\n\nWhat did the review authors want to find out?\nWe aimed to assess the clinical benefits and harms of using colchicine for the primary prevention of cardiovascular events in the general population. We compared colchicine to placebo, immunomodulating medications, or usual care to determine its effectiveness in reducing the risk of cardiovascular outcomes.\n\nWhat methods did the review authors use?\nWe searched for studies comparing colchicine to other treatments for preventing cardiovascular events. We summarized their results and rated our confidence in the evidence.\n\nWhat did the review authors find?\nWe found 15 studies that involved 1721 people who were randomized and 1412 participants were analyzed. The studies were conducted with follow-up periods ranging from 4 to 728 weeks. The intervention was oral colchicine compared with placebo, immunomodulating drugs, or usual care or no treatment.\n\nWhat are the main results of the review?\nColchicine may reduce the risk of all-cause mortality, but it is unclear if it has an effect on non-fatal myocardial infarction or stroke. Colchicine may increase the incidence of diarrhea. The evidence is very uncertain for all outcomes, and more robust clinical trials are needed to determine the clinical benefits and harms of colchicine for primary prevention of cardiovascular events.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have been aware of their assigned treatment, and the available data do not cover all relevant populations, interventions, comparators, and outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2023.\n\nKey messages:\n- Colchicine may help reduce the risk of death from any cause in people who have not had a heart problem before, but the evidence is not strong enough to be certain, and it may increase the risk of diarrhea.\n- The current evidence does not clearly show whether colchicine can prevent heart attacks or strokes in people without prior heart problems, highlighting the need for more research in this area to provide clearer answers.\n- Future studies should investigate the effects of colchicine on heart health in a more rigorous and unbiased manner, including its potential benefits and harms, to help doctors and patients make informed decisions about its use for preventing cardiovascular events.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 623,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.87878787878788,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 37,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 24,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 165,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.977364171409135,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.978505763899026,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.43087066491561,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.87165329052969,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.962430079284013,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.49997567975096,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.96969696969697,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.135528725660043,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.171283544919501,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 246,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 131,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 131.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 623,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 623 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 3,
+        "P75_count": 3,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text needs improvements in clarity, readability, and structure to better communicate the information to patients. Specific issues include the use of passive voice, long paragraphs, and the need for clearer explanations of technical terms. The PLS evaluation results highlight areas for improvement, particularly in reducing nominalization, noun usage, and complex words. Addressing these issues will enhance the draft's effectiveness.",
+      "pls_evaluation_summary": "The PLS evaluation results show moderate conformity with typical PLS patterns, but there are significant deviations in areas such as nominalization, noun usage, and complex words, indicating a need for reduction to improve clarity. The results also suggest that the draft could benefit from improvements in sentence structure and the use of active voice to enhance readability."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004762.PUB3",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nWhich medicines help reduce myotonia (slow muscle relaxation) in myotonic disorders?\n\nKey Messages\n- Two medicines were studied most: mexiletine (a heart rhythm medicine) and lamotrigine (a seizure medicine). In people with non-dystrophic myotonia, mexiletine probably reduces muscle stiffness and improves some muscle tests. In people with myotonic dystrophy, mexiletine probably shortens the time it takes for the hand to relax after gripping. Lamotrigine may improve how quickly muscles relax and probably improves quality of life in non-dystrophic myotonia. Side effects were reported with both medicines, including stomach upset, tiredness, headache, and rash. Not everyone seems to respond to these medicines.\n- Other medicines, such as phenytoin, imipramine, procainamide, clomipramine, nifedipine, tocainide, diazepam, quinine, diphenylhydantoin, and taurine, were either not helpful or their effects were unclear because the studies were very small.\n- We did not find enough good-quality evidence for many medicines or outcomes that matter to people (like daily stiffness using standard scales). Future research should include larger, well-designed studies, test more medicines, use patient-centered measures, and study options for people who do not respond.\n\nIntroduction to the review topic and review aims\n\nWhat is myotonia?\nMyotonia means muscles take too long to relax after they tighten. This can cause stiffness, cramps, “locking” of muscles, pain, and tiredness. It can make daily activities hard, such as opening your hand after gripping or letting go after closing your eyes.\n\nThere are two main groups of myotonic disorders:\n- Non-dystrophic myotonia: a genetic problem in muscle cell channels (the “electric wiring” of muscle) that mainly causes stiffness.\n- Myotonic dystrophy: a long-lasting muscle and nerve condition that affects the whole body. It causes myotonia as well as weak muscles, heart rhythm problems, and cataracts.\n\nWhy does finding effective treatment matter?\nMyotonia can get in the way of work, school, and self-care. Medicines that reduce stiffness or speed up muscle relaxation may improve daily function and quality of life.\n\nWhat did we want to find out?\nWe wanted to find out which medicines help reduce myotonia symptoms that people feel and report, how they affect muscle relaxation and function, whether they improve quality of life, and what unwanted effects they cause.\n\n[Optional] How is myotonia treated?\nDoctors may try:\n- Mexiletine (a sodium channel blocker; a heart rhythm medicine)\n- Lamotrigine (a seizure medicine)\n- Other medicines, such as phenytoin, imipramine, procainamide, clomipramine, nifedipine, tocainide, diazepam, quinine, diphenylhydantoin, and taurine\n\nWhat did we do?\nWe searched for randomized studies (where people are randomly placed into different treatment groups to make fair comparisons) that compared medicines with placebo (dummy pill), no treatment, or another medicine. We summarized their results and judged how confident we are in the evidence.\n\nWhat did we find?\nWe found 17 studies with 392 people. Of these, 219 had myotonic dystrophy type 1 and 173 had non-dystrophic myotonia. Several newer studies looked at mexiletine or lamotrigine for non-dystrophic myotonia, and others tested mexiletine for myotonic dystrophy. The abstract did not report who funded the studies. Most studies were small.\n\nNon-dystrophic myotonia\n- Mexiletine probably reduces stiffness that people report and probably improves some muscle tests, including hand grip strength and electrical tests of muscle activity. Mexiletine probably makes little to no difference to some relaxation times, such as eyelid closure and hand grip measured in a clinical way. People taking mexiletine reported stomach symptoms, tiredness, and headache more often than those taking placebo. Mexiletine may improve quality of life, but we are not very sure.\n- Lamotrigine may speed up muscle relaxation (for hand grip and eyelid closure). Lamotrigine probably improves quality of life. People taking lamotrigine reported more headaches, fatigue, and rashes than those on placebo.\n\nMyotonic dystrophy\n- Mexiletine probably shortens the time it takes for the hand to relax after gripping, compared with placebo. Mexiletine may make little to no difference to quality of life. People taking mexiletine reported stomach symptoms, tiredness, and headache more often than those taking placebo.\n\nOther medicines\n- For phenytoin, imipramine, procainamide, clomipramine, nifedipine, tocainide, diazepam, quinine, diphenylhydantoin, and taurine, effects were unclear or not helpful. The studies were very small, and methods had problems.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the findings for mexiletine and lamotrigine in non-dystrophic myotonia, but we have less confidence in several other results. Many studies were very small. Not all studies used standard, patient-centered scales to measure daily stiffness. For some outcomes, few studies reported data, and results came from different types of people and tests. Older studies of other medicines had methods that could overstate benefits or hide harms.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 833,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 50,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.66,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 256,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 256.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.60745294117649,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.036811764705881,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.365990396158459,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.966818727490995,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.355476590636256,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.194213685474196,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.92,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.820274961085254,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.631390021608643,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 359,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 359.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 181,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 296,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 296.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 833,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 833 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:31.578152"
+}

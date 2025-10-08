@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "What impact do immune checkpoint inhibitors have on treating glioma?\n\nKey messages\n\n- For people with glioma (an aggressive brain tumour), medicines that help the immune system fight cancer ('immune checkpoint inhibitors') probably do not help them live longer or slow the cancer's growth. We are also uncertain about their serious unwanted effects.\n- We found one small study suggesting that giving an immune checkpoint inhibitor before and after surgery might help people whose brain tumour has returned.\n- Because the evidence is limited and uncertain, we need larger and better-designed studies to find out if immune checkpoint inhibitors can help treat glioma.\n\nWhat is glioma?\n\nGlioma is a type of brain cancer. The most common and aggressive type is called glioblastoma. People diagnosed with it have a very short life expectancy. This cancer is hard to treat because it weakens the body's immune system, which stops it from fighting the cancer well. A type of medicine called an 'immune checkpoint inhibitor' is designed to help the immune system find and attack cancer cells.\n\nWhat did we want to find out?\n\nWe wanted to find out if using immune checkpoint inhibitors to treat adults with glioma is effective and safe. We were interested in whether these treatments helped people live longer, slowed the cancer's growth, and if they caused any serious unwanted effects.\n\nHow did we conduct the review?\n\nWe searched for studies called randomised controlled trials. In these studies, researchers assign people to different treatment groups by chance. We looked for trials that compared immune checkpoint inhibitor medicines against other treatments or a placebo (a dummy treatment) for adults with glioma. We then compared and summarised the results and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 7 studies with a total of 1953 adults with glioblastoma. The number of people in each study ranged from 35 to 716. 4 studies included people whose glioblastoma had returned. 3 studies included people with newly diagnosed glioblastoma, one of which focused on older adults. The studies tested two immune checkpoint inhibitors: nivolumab and pembrolizumab. People in the studies received these medicines either alone or with other cancer treatments. Their results were compared to people who received other treatments or a placebo.\n\nWhat are the main results?\n\nFor people whose glioblastoma has returned, the medicine nivolumab alone probably makes little to no difference to how long they live or to slowing the cancer's growth. This was compared to another medicine for brain tumours. Giving a different immune medicine, pembrolizumab, both before and after surgery may help people live longer, but we are very uncertain about this result. For other combinations of these treatments, it is unclear if they affect how long people live or if they cause serious unwanted effects.\n\nFor people with newly diagnosed glioblastoma, adding the immune medicine nivolumab to standard radiation therapy probably makes little to no difference to how long they live or to slowing the cancer's growth. When nivolumab is added to standard radiation and chemotherapy, it also probably makes little to no difference to how long people live. However, it probably increases serious unwanted effects. It makes little to no difference to less serious unwanted effects.\n\nOverall, the evidence we reviewed does not support using these specific immune-based treatments for glioblastoma. They probably do not help people live longer and may increase serious unwanted effects in some cases. For many results, the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\n\nWe have little confidence in the evidence for a few reasons. In some studies, people may have known which treatment they were receiving. This knowledge can affect the results, because people's expectations about a treatment can influence how they feel or report their symptoms. Also, the studies included different types of people, and we did not find enough studies to be certain about the findings.\n\nHow up to date is this evidence?\n\nThis evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 689,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 44,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 15.659090909090908,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 81,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 47,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.9807905066632,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.201805977041825,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.464189866737033,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.103802612481854,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.288309803404141,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 41.783909486739674,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.090909090909091,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.488088481701515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.803933289352157,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 263,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 263.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 121,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 180,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 689,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 689 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that passes all critical checks for accuracy, completeness, and structure. However, it needs revision to simplify its vocabulary and sentence construction to be more accessible for a lay audience. Here are the top 3 improvements needed:\n\n1. **Replace abstract nouns with active verbs.** The text often uses noun forms of verbs (nominalizations), which can make sentences feel dense and academic.\n   - **Quote:** \"This knowledge can affect the results, because people's expectations about a treatment can influence how they feel or report their symptoms.\"\n   - **Problem:** The nouns \"knowledge\" and \"expectations\" make the sentence less direct. Using verbs would make it clearer and more active.\n   - **Suggested Rewrite:** \"Knowing which treatment they received could affect the results. This is because what people expect from a treatment can change how they feel or the symptoms they report.\"\n\n2. **Simplify complex phrases and long words.** Some phrases, while technically correct, are unnecessarily complex for a plain language summary.\n   - **Quote:** \"We then compared and summarised the results and rated our confidence in the evidence.\"\n   - **Problem:** The phrase \"rated our confidence in the evidence\" is standard for researchers but is jargon to patients. It's better to explain what this means in simpler terms.\n   - **Suggested Rewrite:** \"We then compared and summarised the results of the studies. We also judged how certain the evidence made us about the findings.\"\n\n3. **Use more direct and active language.** Some conclusions are phrased in a slightly passive or academic way, which can weaken the message.\n   - **Quote:** \"Overall, the evidence we reviewed does not support using these specific immune-based treatments for glioblastoma.\"\n   - **Problem:** The phrase \"does not support using\" is indirect. It's clearer to state the finding directly.\n   - **Suggested Rewrite:** \"Overall, the evidence we reviewed suggests these specific immune-based treatments do not work well for glioblastoma.\"",
+      "pls_evaluation_summary": "The evaluation shows the draft has an excellent structure, with short sentences and high readability scores placing it in the best quartile (P25) for most readability indices. However, the summary deviates significantly from typical PLS patterns in its vocabulary. Five metrics fall into the P90 range, indicating high counts of nominalizations (21.0), nouns (176.0), complex words (121.0), and long words (180.0). This contrast suggests the text is structurally simple but uses unnecessarily complex and abstract language, which is the primary area for improvement."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015877",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs a personalised nutrition plan better than a standard diet plan for helping children and teens with obesity?\n\nKey Messages  \n- The few studies we found do not give clear answers about whether a personalised nutrition plan (a computer‑based tool that creates diet advice using each child’s own data) helps lower body‑mass index (BMI) or weight in children aged 0‑9 years or in teens aged 10‑19 years.  No information was reported about side‑effects or other harms.  \n- Because only two small studies were available, we have little confidence that the results reflect the true effect of personalised nutrition.  \n- More well‑designed research is needed, especially studies that look at mental‑well‑being, daily activity and quality of life, and that report how the studies were carried out and how participants followed the diet advice.\n\nWhat is the review about?  \nWhat is “precision nutrition” for children with obesity?  \nPrecision nutrition means creating diet advice that is tailored to each child’s own characteristics – such as their genetics, gut bacteria, usual eating habits, activity level and other personal factors – instead of giving the same advice to everyone. The idea is that a diet that fits a child’s unique profile might work better for losing weight or improving health.\n\nWhy study personalised nutrition for obesity in children and teens?  \nObesity in childhood and adolescence can lead to health problems now and later in life, including diabetes, heart disease and lower quality of life. Traditional diet programmes often use the same recommendations for all children, which may not suit everyone. Understanding whether a personalised approach works could help shape future guidelines and support for families.\n\nWhat did we want to find out?  \nWe wanted to see whether personalised nutrition plans change body weight, BMI, physical activity, mental well‑being, quality of life or cause any unwanted effects compared with standard, one‑size‑fits‑all diet advice or with no special diet plan.\n\nWhat did we do?  \nWe searched many international databases for studies that compared a personalised nutrition approach with a standard diet or no special diet in children and teens with overweight or obesity. We combined the findings from the eligible studies and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified two studies that together included just over one hundred children and teens from Ukraine and Greece. One study involved younger children (0‑9 years) and used a computer‑based Decision Support Tool (DST) that considered each child’s data to give a custom diet plan. The other study involved older children and teens (10‑19 years) and used a similar DST. Both studies compared the personalised plan with a usual, non‑personalised diet approach. No other studies meeting our criteria were found.\n\nThe results were uncertain. For younger children, the personalised diet may have lowered BMI and weight a little, but the evidence is very unclear. For older children and teens, the personalised diet may have increased BMI and weight a little, but again the evidence is very unclear. In other words, we do not know whether these personalised nutrition plans make a real difference in body weight or BMI. The studies did not report any side‑effects or other harms.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the studies were very small and because the way the studies were carried out may have introduced bias (for example, participants and researchers may have known which diet was being used). These factors make it hard to tell whether the findings are reliable.\n\nHow up to date is this evidence?  \nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 629,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.060606060606062,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 169,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 58.3692479645421,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.853175314351788,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.898093173387291,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.859586645468998,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.047135905959436,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.610685551862026,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0606060606060606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.120827364262659,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 246,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 629,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 629 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 5,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:10.284977"
+}

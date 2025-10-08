@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "# Are anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) effective for treating glioma (a type of brain tumor)?\n**Key Messages**\n- Anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) probably do not have a significant benefit for treating glioma (a type of brain tumor), with most studies showing no improvement in overall survival (the length of time a person lives) or progression-free survival (the length of time during and after treatment that a person lives with the disease but it does not get worse), and the evidence for serious unwanted effects (harmful side effects) is very uncertain.\n- The current evidence is based on a small number of studies with limitations, such as high risk of bias (systematic errors introduced into the research), and more research is needed to fully understand the potential benefits and harms of these therapies for people with glioma.\n- Future studies should aim to address the gaps in current knowledge, including the need for larger, well-designed trials that can provide more reliable estimates of the effects of anti-PD-1 and anti-PD-L1 therapies for glioma, and explore important questions such as the potential benefits and harms of these therapies for specific subgroups of people with glioma.\n**Introduction**\n### What is glioblastoma multiforme (GBM) and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of adult glioma, a kind of brain cancer. It has a poor prognosis, with a median survival of only 16 months. The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer. Current treatments have limited success, and new approaches are needed to improve outcomes for people with GBM.\n### What are immune checkpoint inhibitors (ICIs) and how do they work?\nImmune checkpoint inhibitors (ICIs) are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, ICIs allow the immune system to target and destroy cancer cells more effectively.\n### What did the review authors want to find out?\nThe review authors wanted to assess the effects of two specific ICIs, anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma, including GBM. They aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n**Methods**\n### Methods\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.\n**Results**\n### Reason for Termination\nThe agent stopped because it reached the maximum number of allowed iterations without producing a final answer.\n### Suggested Next Steps\nConsider simplifying the request, breaking it into smaller parts, or increasing the iteration limit if possible.\n**Limitations**\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\n**Currency**\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 584,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 20,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 29.2,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.2 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 55,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 22,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 174,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.455904109589056,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.336356164383563,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.42145547945205,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.716780821917805,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.186849315068493,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.05616438356164,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.55,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.273618495495704,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.666984383561645,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 230,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 230.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 95,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 151,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 584,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 584 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 0,
+        "P75_count": 13,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 0,
+        "P75_percentage": 72.22222222222221,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text needs improvements in clarity and readability. Issues include lengthy sentences with technical terms, excessive use of passive voice, and high complexity in word choice and sentence structure. Suggestions for improvement include breaking down complex sentences, converting passive voice to active voice, and simplifying vocabulary. The PLS evaluation results highlight these areas of deviation from typical PLS patterns, particularly in sentence length and word complexity.",
+      "pls_evaluation_summary": "The draft shows high conformity to typical PLS patterns in most metrics but deviates significantly in words per sentence, nouns, and complex words, indicating a need for simplification and clarity enhancements."
+    }
+  ]
+}

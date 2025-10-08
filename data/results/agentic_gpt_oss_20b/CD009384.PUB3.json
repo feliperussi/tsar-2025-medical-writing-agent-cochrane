@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009384.PUB3",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Does giving zinc supplements (zinc tablets or syrup) reduce death, illness, and improve growth in children aged 6 months to 12 years?\n\nWhat are the main findings?\n– Giving zinc tablets or syrup to children 6 months‑12 years probably lowers diarrhoea episodes and adds a small amount of height, but it does not clearly lower overall death rates.  \n– When zinc is taken together with iron, the benefits for diarrhoea and growth become weaker.  \n– Zinc increases the chance of vomiting, so we need to weigh this harm against the benefits.\n\nWhy is zinc deficiency a concern for children’s health?\nMany children, especially in low‑ and middle‑income countries, do not get enough zinc from food. Zinc is a mineral that helps the immune system work, protects against infections, and supports normal growth. Children who lack zinc are more likely to develop diarrhoea, pneumonia (a type of lower‑respiratory‑infection), malaria, and slower linear growth (stunted growth). These problems can lead to death (mortality) or long‑term illness (morbidity). Giving a daily zinc supplement, usually as a syrup containing zinc sulfate, is one way to prevent deficiency.\n\nWhat did the researchers aim to discover about giving zinc to children?\nWe wanted to know whether preventive zinc supplements for healthy children aged 6 months‑12 years can (1) reduce the chance of dying from any cause and specifically from diarrhoea, pneumonia, or malaria; (2) lower the number of illness episodes; (3) help children grow taller; and (4) improve blood levels of zinc and other nutrients. We also looked for any harms, such as vomiting.\n\nHow did we find and evaluate the evidence?\nWe searched several databases for randomised controlled trials (RCTs) that compared zinc supplements with no supplement, placebo, or a waiting‑list control in children 6 months‑12 years. Two reviewers screened each study, extracted the data, and assessed risk of bias. We combined the results in a meta‑analysis and used the GRADE system (a method that rates how confident we are in the evidence) to judge certainty. “Moderate‑certainty evidence” means the evidence is fairly reliable but new research could change the picture.\n\nWhat did we find?\nWe identified 96 RCTs that included 219 584 children, most of whom were under five years old. The trials were carried out in 34 countries; 87 % were in low- or middle-income settings. Most studies gave zinc as a syrup containing zinc sulfate at a daily dose of 10–15 mg and followed children for a median of 26 weeks. No trial examined zinc fortification, sprinkles, therapeutic zinc use, or children who were hospitalised or chronically ill.\n\nHow does zinc affect child mortality and health?\n– Zinc probably lowers deaths from lower‑respiratory‑infections (like pneumonia) and malaria. However, the studies show a wide range of possible effects, so we cannot be sure exactly how much the risk changes.  \n– Zinc makes little or no difference to overall death rates, deaths from diarrhoea, or the overall rate of respiratory illness.  \n– Zinc probably reduces the number of diarrhoea episodes slightly.  \n– Zinc likely adds a small increase in height.  \n– Zinc increases the chance that a child will experience vomiting.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in these results, meaning the evidence is fairly reliable but there are not enough studies to be certain about many outcomes, especially long‑term effects and cause‑specific mortality. Evidence on zinc taken together with iron is limited, and those studies suggest the benefits become weaker.\n\nHow current is the evidence?\nThis review updates our previous work and includes studies searched up to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 621,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.40625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.39272871376815,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.098888385668278,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.289888285024155,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.912206119162644,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.783433977455719,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.654237117552334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.09375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.751487198067634,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 267,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 267.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 621,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 621 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:51.979252"
+}

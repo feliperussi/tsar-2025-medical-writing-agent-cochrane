@@ -1,0 +1,162 @@
+{
+  "id": "CD013619.PUB2",
+  "draft": "Does allowing family members to be present during a patient's resuscitation help reduce stress and anxiety in the family members?\n\nKey messages:\n- We do not have enough evidence to know if allowing family members to be present during resuscitation helps or harms them psychologically.\n- We are also unsure how family presence affects the patient's health and survival.\n- Future studies should investigate how family presence during resuscitation affects family members' psychological well-being and patient care.\n\nWhat is family presence during resuscitation?\nThis means that relatives are allowed to be with the patient while medical staff are trying to save the patient's life. This usually happens in emergency departments or pre-hospital settings. When relatives are present, it can affect the patient, the family, and the healthcare professionals.\n\nWhy is family presence during resuscitation a significant issue?\nWe want to understand how family presence during resuscitation affects the mental and emotional health of family members who witness it. Witnessing a resuscitation can be a traumatic event. Afterwards, family members may experience mental health issues like post-traumatic stress disorder (PTSD - a condition that can cause flashbacks or nightmares), anxiety (a strong feeling of worry or fear), or depression (feeling very sad and losing interest in things you usually enjoy).\n\nWhat did the review authors want to find out?\nWe wanted to find out what happens when staff offer family members the choice to be present during resuscitation. Specifically, we looked at the effects on their mental health, such as PTSD. We also looked at the effects on the patient's health and survival.\n\nHow did the review authors search for evidence?\nWe searched major medical databases for studies that looked at the effects of having family members present during resuscitation. We checked references and citations of eligible studies and searched for relevant systematic reviews.\n\nWhat did the review authors find?\nWe found 2 studies that involved 595 people who were relatives of patients undergoing resuscitation. The studies were conducted in France and the UK. Most participants were between 19 and 78 years old, and between 56% and 64% were women. The studies lasted for around 1 year, with one study being a cluster-randomized trial and the other a small pilot study. \nThe studies compared two approaches. In the first, staff always offered relatives the choice to be present during cardiopulmonary resuscitation (CPR - when medical staff try to restart a patient's heart). In the second, staff followed the usual practice and did not routinely offer this choice. \nThe main study we found suggested that offering family members the choice to be present may reduce their risk of PTSD-related symptoms. However, because of major limitations in the studies, we have very little confidence in this result. Therefore, we cannot be sure if being present helps or harms family members.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have known which treatment they received, and not all studies reported all outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 547,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.09375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 155,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 52.29983460923219,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.211114602376604,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.952194926873858,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.97616087751371,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.857609689213895,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.97857632541133,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.9375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.099504938362077,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.650025502742231,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 201,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 96,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 547,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 547 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "This is an excellent, clear, and accurate summary that meets all critical requirements and is ready for publication. The following are minor suggestions for even greater clarity, but they are not essential changes.\n\n1. **Simplify technical study descriptions in the results:** Mentioning specific study designs isn't necessary for the main message and may be unfamiliar to readers.\n   - **Current text:** \"...with one study being a cluster-randomized trial and the other a small pilot study.\"\n   - **Suggestion:** You could simplify this to \"...one was a large trial and the other was a small, preliminary study,\" or remove the phrase entirely, as the study limitations are well-covered later.\n\n2. **Make the 'Aims' section more concise:** The section explaining the review's goals could be slightly more direct by combining sentences.\n   - **Current text:** \"We wanted to find out what happens when staff offer family members the choice to be present during resuscitation. Specifically, we looked at the effects on their mental health, such as PTSD. We also looked at the effects on the patient's health and survival.\"\n   - **Suggestion:** Consider combining these ideas for a tighter focus: \"We wanted to find out if offering family members the choice to be present during resuscitation affects their mental health (like causing PTSD) or the patient's chances of survival.\"\n\n3. **Streamline the description of the study comparison:** The explanation of the two approaches in the results section could be structured more simply.\n   - **Current text:** \"In the first, staff always offered relatives the choice to be present... In the second, staff followed the usual practice and did not routinely offer this choice.\"\n   - **Suggestion:** A slightly clearer structure might be: \"The studies compared two groups. In one group, staff always offered relatives the choice to be present... In the other group, staff followed their usual practice and did not offer this choice.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows this draft highly conforms to typical PLS patterns, with 94% of metrics falling in the best quartile for readability and clarity. The text is well within the word count limit and uses an appropriate active voice. The only minor deviation is a slightly high use of nominalizations (P90), which can sometimes make sentences less direct. The suggested edits help address this by making the language even more active and concise."
+    }
+  ]
+}

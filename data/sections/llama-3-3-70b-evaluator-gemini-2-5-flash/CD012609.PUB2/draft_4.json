@@ -1,0 +1,162 @@
+{
+  "id": "CD012609.PUB2",
+  "draft": "Is infliximab effective in preventing Crohn's disease relapse?\n- Infliximab probably reduces the risk of clinical relapse in patients with Crohn's disease compared to placebo.\n- Infliximab combined with purine analogues probably reduces the risk of clinical relapse compared to purine analogues alone.\n- There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar.\n\nWhat is Crohn's disease and why is it a problem?\nCrohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation and irritation in the digestive tract. It can lead to symptoms such as abdominal pain, diarrhea, weight loss, and fatigue. The exact cause of Crohn's disease is unknown, but it is believed to be related to a combination of genetic, environmental, and immune system factors. Current treatments for Crohn's disease often involve medications that reduce inflammation and suppress the immune system, as well as surgery in some cases. However, these treatments do not always work and can have significant side effects.\n\nWhat is infliximab and how does it work?\nInfliximab is a type of medicine called a 'biologic'. It works by targeting a protein in the body called tumor necrosis factor-alpha (TNF-alpha). High levels of this protein cause inflammation. Infliximab blocks TNF-alpha to help reduce this inflammation and ease the symptoms of Crohn's disease.\n\nWhat did the review authors want to find out?\nWe aimed to review all the current evidence for using infliximab to manage Crohn's disease. We compared infliximab to placebo, other biologic medications, and conventional therapies, and looked at outcomes such as clinical relapse, loss of clinical response, and adverse events.\n\nHow did we do the review?\nWe searched for studies comparing infliximab to other treatments for Crohn's disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 9 studies that included 1257 people with Crohn's disease. The studies included adults with different levels of symptoms. For some people, this was the first time they had taken a 'biologic' medicine, while others had tried them before.\n\nWhat are the main results for infliximab in Crohn's disease?\nInfliximab probably reduces the risk of a relapse compared to a placebo (a dummy treatment). For every 100 people taking a placebo, studies showed about 75 had a relapse. In comparison, for every 100 people taking infliximab, about 56 had a relapse. Infliximab combined with purine analogues is probably more effective in preventing clinical relapse than purine analogues alone. For every 100 people treated with infliximab and purine analogues, 12 may have a clinical relapse, compared to 59 out of 100 people treated with purine analogues alone. There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar. Infliximab may lead to more loss of clinical response than a biosimilar.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for several reasons:\n- The studies included only a small number of people.\n- Participants may have known which treatment they were getting, which could have biased the results.\n- The studies did not always report on all the outcomes we were interested in.\n\nHow up to date is this evidence?\nThe evidence is up to date to August 2021.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 572,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.34285714285714,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 50,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 54.47287412587417,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.721476523476522,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.949243256743255,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.113216783216782,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.998681318681319,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.41278721278721,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.914285714285715,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.535653752852738,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.7732630569430565,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 216,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 121,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 172,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 572,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 572 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 7,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved due to a critical factual error regarding the search date and several clarity issues that could confuse a patient audience. Please address the following points to improve the summary.\n\n**Critical Issue:**\n\n1. **Incorrect Search Date:** The currency statement is factually incorrect and misleads the reader about how up-to-date the evidence is.\n    - **Original Text:** \"The evidence is up to date to August 2021.\"\n    - **Problem:** The abstract clearly states a more recent search was conducted on 23 June 2023.\n    - **Suggested Rewrite:** \"The evidence is up to date to June 2023.\"\n\n**Top 3 Improvements Needed:**\n\n1. **Correct the Search Date (as above).** This is the most critical change required.\n\n2. **Define the term 'purine analogues':** This technical term is used in the results without any explanation, which will be unfamiliar to most readers.\n    - **Original Text:** \"Infliximab combined with purine analogues is probably more effective in preventing clinical relapse than purine analogues alone.\"\n    - **Problem:** Readers won't know what 'purine analogues' are, making the comparison meaningless.\n    - **Suggested Rewrite:** \"Infliximab combined with another type of medicine for Crohn's disease (called purine analogues) is probably more effective...\"\n\n3. **Define the term 'biosimilar':** Similar to the issue above, this is a key concept in the results that is left unexplained.\n    - **Original Text:** \"There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar.\"\n    - **Problem:** A lay reader needs a simple definition to understand this comparison.\n    - **Suggested Rewrite:** \"There may be little to no difference in the risk of clinical relapse between infliximab and a biosimilar (a medicine that is a near-identical copy of another biologic medicine).\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns in most areas. Readability scores (Flesch-Kincaid Grade: 9.72) and sentence length (16.34 words/sentence) are excellent, falling within the best 25% of our corpus. However, the draft deviates significantly in vocabulary complexity. The metrics for 'complex_words' (121), 'long_words' (172), and 'complex_words_dc' (216) are all in the P90 range, indicating a much higher use of technical or long words than is typical. This supports the editorial recommendation to define key medical terms like 'purine analogues' and 'biosimilar' to improve reader understanding."
+    }
+  ]
+}

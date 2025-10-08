@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the effects of wearing masks, washing hands, and other physical measures to prevent the spread of respiratory viruses like COVID-19 and influenza?\n\nWe looked at the evidence to find out. Here are the key messages:\n- Wearing a mask in the community probably makes little or no difference to the number of people who get a flu-like illness (symptoms like fever, cough, and body aches) or COVID-19-like illness.\n- Washing your hands may slightly reduce your chances of getting a respiratory illness.\n- Future studies should test how well masks and hand washing work for different groups of people in various places.\n\nWhat is the problem of respiratory viruses?\nRespiratory viruses, such as influenza (the flu) and coronavirus, pose a significant threat to global health. These viruses can cause epidemics and pandemics, leading to widespread illness and death. Examples of recent outbreaks include the H1N1 pandemic in 2009, SARS in 2003, and COVID-19 in 2019. While antiviral drugs and vaccines are available, they may not be enough to prevent the spread of these viruses.\n\nWhat are physical interventions and how can they help?\nPhysical measures like wearing masks, washing hands, and keeping a distance from others can help slow the spread of viruses. They can be used along with vaccines and antiviral drugs. It is essential to know how well these measures work so we can use them in the best way.\n\nWhat did the review authors want to find out?\nWe wanted to find out how well physical measures work to stop or slow the spread of viruses that affect breathing. We looked at different types of physical interventions, including masks, hand hygiene, and physical distancing. We also wanted to know which interventions are most effective, how they can be implemented, and what factors influence their success.\n\nHow did the review authors find the evidence?\nWe searched for studies on physical interventions to interrupt or reduce the spread of acute respiratory viruses. We summarized their results and rated our confidence in the evidence.\n\nWhat did the review authors find?\nWe found 78 studies in total. For this update, we added 11 new studies, which included 610,872 people. The studies were conducted in various countries, including Mexico, Denmark, Bangladesh, England, and Norway. The included studies were very different from each other, with participants of different ages and settings. Many of the studies had flaws in their methods, which reduces our confidence in their results. We found that wearing masks in the community probably makes little or no difference to the outcome of influenza-like illness or COVID-19-like illness compared to not wearing masks. Washing your hands may slightly reduce your chances of getting a respiratory illness.\n\nWhat are the limitations of the evidence?\nOur confidence in the results is limited for several reasons. The studies were all very different, and some included only a few people. In many studies, people knew which group they were in (for example, the group asked to wear masks versus the group not wearing masks). This knowledge may have changed their other behaviors, like avoiding crowds more often, which could have influenced the results.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to October 2022.\n\nWe hope this summary helps you understand the effects of physical measures in preventing the spread of respiratory viruses. We will continue to update our review as new evidence becomes available.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 592,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.578947368421053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.83554409672834,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.644235419630157,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.564895981507824,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.021418918918918,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.055903271692745,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.29516358463727,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.473684210526316,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.613948897581793,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 219,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 170,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 592,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 592 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:18.761263"
+}

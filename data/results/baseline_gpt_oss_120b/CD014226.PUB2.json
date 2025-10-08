@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014226.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Is fenestrated endovascular repair (FEVAR) better than open surgery or no operation for complex abdominal aortic aneurysms?\n\nKey Messages  \n- No studies directly compared fenestrated endovascular repair (FEVAR) with open surgical repair or with non‑operative care, so we cannot say whether FEVAR helps or harms people with complex abdominal aortic aneurysms.  \n- Because no eligible research was found, we also have no information about possible side‑effects such as kidney problems or the need for additional procedures.  \n- More high‑quality research is needed; future studies should include enough patients with these rare, complicated aneurysms to determine real benefits and risks.\n\nWhat is a complex abdominal aortic aneurysm?  \nAn abdominal aortic aneurysm (AAA) is a bulging of the main blood vessel that runs through the belly. When the bulge is near the kidneys or other important arteries, the condition is called “complex.” Complex AAAs are harder to fix because the repair must keep blood flowing to the kidneys and other organs.\n\nWhy might fenestrated endovascular repair be used?  \nFenestrated endovascular repair (FEVAR) is a minimally‑invasive technique that uses a special tube (stent‑graft) with small windows or “fenestrations” to keep the side arteries open while sealing the aneurysm. The idea is that FEVAR could avoid the large incision required for open surgical repair (OSR) and might reduce recovery time.\n\nWhat did we want to find out?  \nWe wanted to learn whether FEVAR provides better survival, fewer complications, shorter hospital stays, or better quality of life compared with open surgery or with simply watching the aneurysm without operating.\n\nWhat did we do?  \nWe searched many medical databases for any randomised or quasi‑randomised studies that compared FEVAR with open surgery or with non‑operative care. We combined the results of any studies we found and judged how confident we could be in the evidence.\n\nWhat did we find?  \nOur search identified no studies that met the criteria. That means there were no trials directly comparing FEVAR with open surgery or with conservative management in adults undergoing their first repair of a complex AAA. Consequently, we have no data on how many people were involved, how long they were followed, what settings the studies used, or what outcomes occurred.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because there are no studies that directly compare these treatments. Without any research, we cannot know whether differences in outcomes are due to the treatments themselves or to other factors.\n\nHow up to date is this evidence?  \nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 439,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.56,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 95,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.801577220956744,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.396441002277907,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.794920273348517,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.534760820045555,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.768874715261958,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.26159453302961,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.04,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.769745931662871,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 164,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 126,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 439,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 439 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:05.281968"
+}

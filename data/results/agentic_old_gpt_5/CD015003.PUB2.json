@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Title: Does taking colchicine (a gout medicine that reduces inflammation) help prevent heart attacks and strokes in people without heart disease, and is it safe?\n\nKey messages\n- We found too little reliable evidence to know whether colchicine prevents heart attacks (myocardial infarction: interruption in the blood supply to the heart) or strokes (loss of blood flow to part of the brain) when used for primary prevention (preventing a first event in people without diagnosed heart disease).\n- The evidence came from 15 randomised trials (randomised controlled trials: people were randomly assigned to different treatments to fairly test what works) that included 1,721 adults (1,412 were analysed). Most studies were small, short, or done in people with other illnesses such as liver disease (the large organ that cleans the blood and helps digestion). We are very uncertain about benefits. Colchicine (a drug used to treat gout that reduces inflammation — the body’s response to injury or infection) may cause diarrhoea (frequent, loose, or watery bowel movements).\n- We need well-designed, larger, longer trials in people without prior heart disease. Trials should report heart attacks, strokes, deaths, and a full range of side effects so we can judge benefits and harms.\n\nWhat did we want to find?\nWe wanted to know whether taking colchicine can prevent a first heart attack or stroke and whether it is safe. We compared colchicine with a placebo (an inactive look-alike pill), usual care (the care a provider would normally give), or other immune-modulating drugs (medicines that change how the immune system works). We focused on adults without known cardiovascular disease (disease of the heart and blood vessels).\n\nWhat did we do?\nWe searched databases and trial registries up to 31 May 2023. We included trials that tested oral colchicine (taken by mouth). We combined and summarised results for first-time cardiovascular events (heart attacks and strokes), deaths, and side effects. We rated how certain we are about the evidence using GRADE (a system to rate how sure we are about research findings).\n\nWhat did we find?\n- We found 15 trials that tested oral colchicine and compared it with placebo, usual care, no treatment, or methotrexate (an immune‑modulating drug). No trial compared colchicine with non-steroidal anti-inflammatory drugs (NSAIDs: medicines such as ibuprofen) or steroids.\n- Follow-up (the length of time participants were monitored) ranged from about 1 month to nearly 14 years.\n- Many trials involved people with other conditions, not the general population at risk of heart disease.\n- Trials reported deaths from any cause, heart attacks, strokes, deaths from heart disease, irregular heartbeat after a heart procedure (atrial fibrillation: an irregular, often fast, heartbeat) and side effects such as diarrhoea and neurological symptoms (related to the brain and nervous system). They did not report some outcomes we wanted, such as fluid around the heart (pericardial effusion), blocked leg arteries (peripheral artery disease), heart failure (when the heart cannot pump blood well), or unstable angina (sudden or worsening chest pain).\n- Overall, we are very uncertain whether colchicine prevents deaths, heart attacks, strokes, or deaths from heart disease when used for primary prevention. Results were inconsistent, based on small numbers, and most studies had design problems that could introduce bias (flaws that may favour one conclusion).\n- Colchicine may increase diarrhoea compared with placebo or usual care, but we are very uncertain how large this effect is. We are also very uncertain about effects on seizures (sudden, uncontrolled body movements) or confusion (not thinking clearly), and on irregular heartbeat after a heart procedure.\n\nHow sure are we in the evidence?\nWe rated the certainty of the evidence as very low for all outcomes. This means we have little confidence in the results. Problems included small study size, short follow-up, possible lack of blinding (people knowing what treatment they received), and inconsistent or missing data.\n\nWhat are the main limits?\n- Many studies were small or short.\n- Some studies enrolled people with other conditions, like liver disease, rather than the general population at risk.\n- Not all studies reported the heart or stroke outcomes we wanted.\n- The evidence focused on specific comparisons and groups, while our question was broader.\n\nWhat should happen next?\nWe need well-designed, larger, longer trials in people without prior heart disease. Trials should compare colchicine to placebo or usual care and report heart attacks, strokes, deaths, and a full range of side effects. This will let us judge benefits and harms with more certainty.\n\nEvidence currency\nWe searched to 31 May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 777,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.44736842105263,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 246,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 54.7712685429791,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.699531599268443,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.931483438325543,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.637786357786357,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.592074781548465,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.117896091580306,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.657894736842105,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.40175425099138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.720367079861816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 330,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 330.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 144,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 144.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 215,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 777,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 777 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:43.293463"
+}

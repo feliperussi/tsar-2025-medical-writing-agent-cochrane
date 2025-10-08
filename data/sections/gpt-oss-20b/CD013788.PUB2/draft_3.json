@@ -1,0 +1,162 @@
+{
+  "id": "CD013788.PUB2",
+  "draft": "Is taking out the urinary catheter (tube that drains urine) early (within 5 days) better than taking it out later (after 5 days) for people who have had a kidney transplant (kidney transplantation)?\n\nKey messages  \n– It is not clear whether removing the catheter before five days changes the chance of having bacteria in the urine without symptoms (asymptomatic bacteriuria).  \n– The review did not have enough data to tell whether early or late removal changes the risk of urinary infections or serious kidney‑related problems, and no safety concerns were reported.  \n– The evidence comes from only two small studies with limited information, high or unclear risk of bias, and follow‑up of less than one month, so the overall confidence is low.\n\nWhy is the timing of urinary catheter removal after kidney transplantation important?  \nKidney transplantation is the best treatment for people whose kidneys no longer work. During the operation a thin tube (urinary catheter) is placed in the bladder. The catheter helps protect the tiny link where the bladder meets the tube from the kidney (the ureter) and allows it to heal. At the same time the catheter creates a pathway for bacteria to enter the bladder, which can cause a urinary tract infection (draft truncated due to length)\"",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 217,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 9,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.11111111111111,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 20,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 6,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 6.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 9,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 61,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 51.36867383512549,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.084301075268822,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.439150025601634,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.204608294930875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.833384536610346,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.53507424475166,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.888888888888889,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 8.916079783099615,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.963053968253968,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 93,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 39,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 53,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 217,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 217 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 10,
+        "P50_count": 4,
+        "P75_count": 3,
+        "P90_count": 0,
+        "P10_count": 1,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 55.55555555555556,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 0,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical completeness checks failed: the draft is missing several required sections (Methods, Results, Limitations, Currency). Without these, the summary does not fully inform readers about how the review was conducted, what was found, the confidence in the evidence, and how up‑to‑date it is. Additionally, the draft contains only 6 pronouns, well below the typical range (>13), reducing the sense of authorial voice and engagement. These gaps outweigh the minor style issues identified.\n\nTop improvements needed:\n1. **Missing Methods section** – The draft never explains how studies were identified or analysed. Add a clear, question‑style subheading (e.g., \"How did we find and analyse the studies?\") and a brief paragraph in active voice describing the search dates, databases, inclusion criteria, and analysis approach.\n2. **Missing Results section** – Readers need to know what the review actually found. Insert a subheading (e.g., \"What did we find?\") and summarise the number of studies, participants, outcomes reported, and the main effect estimate (RR 0.89, 95% CI 0.17 to 4.57) with the certainty rating.\n3. **Missing Limitations section** – Explain why the evidence is uncertain (small studies, high/unclear risk of bias, short follow‑up, possible lack of blinding). Use a question‑style subheading (e.g., \"What are the limitations of the evidence?\").\n4. **Missing Currency statement** – Add a subheading (e.g., \"How up to date is this review?\") stating that the search was up to 13 April 2023.\n5. **Increase use of pronouns** – The draft uses only six pronouns (e.g., \"we\"), far below the typical 13‑21 range. Rewrite sentences to include first‑person plural where appropriate (e.g., \"We found two small studies…\", \"Our confidence in the evidence is low.\") to meet the style guide and improve readability.\n\nSupporting evidence: The PLS evaluation shows a pronoun count of 6 (P10), indicating a deviation from typical PLS patterns. While other readability metrics are within acceptable ranges, the missing sections constitute a critical failure of the required structure.",
+      "pls_evaluation_summary": "The draft conforms well to most readability metrics (e.g., Flesch Reading Ease 51.37, words per sentence 24.1) and falls within the typical PLS percentile ranges. However, pronoun usage is low (6, P10), deviating from the norm and signalling insufficient author voice. More importantly, the draft lacks required sections (Methods, Results, Limitations, Currency), which is a critical completeness issue."
+    }
+  ]
+}

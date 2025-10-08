@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011538.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do school support programs (education support services) help children and teens with long‑term illnesses stay engaged in school and improve their grades?\n\nKey messages\n– We cannot be sure that school support programmes improve how often children attend school or their grades, because only four small, low‑quality studies were found and they gave mixed results; no harmful effects were reported.  \n– The programmes may slightly boost mental health, such as self‑esteem (how positively a person feels about themselves), but the evidence is still uncertain.  \n– Larger, well‑designed studies that follow children for longer periods are needed to determine whether education support truly helps school participation and academic achievement.\n\nWhy are chronic health conditions a problem for school life?  \nA chronic health condition is a long‑lasting illness that does not resolve on its own and is rarely cured completely (for example, asthma, diabetes, cancer, ADHD). Up to half of children and adolescents may have such a condition, and about 5 % have severe forms that limit daily activities and make school attendance difficult. Missing school reduces school engagement – the sense of belonging, participation, and enjoyment at school – which is linked to poorer grades, weaker social‑emotional development, and fewer future opportunities. Education support services (such as tutoring, individualized learning plans, or school‑re‑entry programmes) aim to keep these students learning and feeling part of school.\n\nWhat did the review aim to find out?  \nWe set out to (1) describe the types of education support interventions used for children and adolescents with chronic health conditions, and (2) examine whether these interventions improve school engagement and academic achievement. We also looked at mental health, quality of life, and how well children transition back to school after periods of illness.\n\nHow did we find the evidence?  \nWe searched health, education, and social‑science databases for studies that compared an education support intervention with usual care or another approach. Two reviewers independently screened titles, abstracts, and full texts. Because only a few studies reported comparable data, we counted whether each study showed a positive or negative effect (a simple “vote‑counting” method). We judged our confidence in the evidence using a standard system (the GRADE approach).\n\nWhat did we find?  \nWe included four randomised controlled trials involving 359 children aged 4 to 18 years with chronic health conditions – three studies focused on cancer and one on ADHD. All trials compared an education support programme with usual care or no additional support.\n\nWhat were the main results for school engagement and related outcomes?  \n– The studies suggested that education support might increase school engagement, but the result is very uncertain.  \n– The effect on academic achievement was also uncertain, with one study showing a positive direction and another showing a negative direction.  \n– One small study hinted that support could help a smoother transition back to school, but the confidence interval was wide, indicating the effect could be very small or absent.  \n– Two studies measured self‑esteem and both reported a small improvement; however, the overall certainty of this evidence is low.  \nNo studies reported quality of life outcomes or adverse effects.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the findings because participants and researchers often knew which group received the support, the studies were small and varied in how they delivered the intervention, and not all outcomes were reported in every study.\n\nHow current is the evidence?  \nThe searches were last run in February 2021, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 598,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.357142857142858,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 39,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 39.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.37388795986624,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.096810797897756,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.798571428571428,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.214046822742471,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.03784042044912,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.96583850931677,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.964285714285714,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.862780491200215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.082959770664118,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 266,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 266.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 127,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 127.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 195,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 598,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 598 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 8,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:53.568500"
+}

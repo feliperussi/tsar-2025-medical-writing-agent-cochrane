@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007374.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and harms of education programmes for people with chronic kidney disease and diabetes?**\n\n**Key Messages:**\n\n* Education programmes probably decrease glycated haemoglobin (HbA1c) in people with CKD and diabetes, but the effect on other clinical outcomes is unclear.\n* Education programmes may improve knowledge of some areas related to diabetes care and some self-management practices.\n* We need more randomised studies to examine the efficacy of education programmes on important clinical outcomes in people with CKD and diabetes.\n\n**Introduction to the review topic and review aims:**\n\n**What is education for people with CKD and diabetes?**\n\nEducation for people with CKD and diabetes is often poor. Interventions to enhance adherence require intensive education and behavioural counselling. However, whether the existing evidence is scientifically rigorous and can support recommendations for routine use of educational programmes in people with CKD and diabetes is still unknown.\n\n**What did we want to find out?**\n\nWe wanted to find out: which types of educational programmes work best to help people with CKD and diabetes; the benefits and harms of these programmes.\n\n**What did we do?**\n\nWe searched for studies that compared education programmes with routine care in people with CKD and diabetes. We combined the results across these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found eight studies that included 840 randomised participants. Education programmes probably decrease HbA1c and may decrease total cholesterol and low-density lipoprotein (LDL) cholesterol at 18 months of follow-up.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2021.\n\n**Language guidelines:**\n\nWe used short, simple sentences and defined any necessary technical terms immediately. We wrote in active voice when possible and used “we” when referring to the review authors.\n\n**Limitations of the evidence:**\n\nThe evidence is up to date to August 2021. There may be an improvement in the general knowledge of diabetes at the end of the intervention and at the end of the three-month follow-up in people with diabetes and moderately increased albuminuria. There were uncertain effects on death, serious hypoglycaemia, and kidney failure due to very low certainty evidence.\n\n**What should happen next?**\n\nWe need more randomised studies to examine the efficacy of education programmes on important clinical outcomes in people with CKD and diabetes.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 434,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.466666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 120,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.021379416282656,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.736792626728114,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.864969278033797,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.944239631336405,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.464086021505379,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.18556067588326,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.733333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.75703975422427,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 166,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 142,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 434,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 434 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.063939"
+}

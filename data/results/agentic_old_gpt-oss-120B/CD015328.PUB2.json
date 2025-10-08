@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015328.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do diet and activity programmes (like school‑based healthy eating and exercise) prevent obesity (excess).  \n\nKey messages  \n- School‑based programmes that increase physical activity, alone or with healthy‑eating components, may lower children’s BMI (body‑mass‑index, a measure of weight relative to height) and zBMI (a score that shows how a child’s BMI compares with peers of the same age and sex) a little in the short‑ and medium‑term, but the benefit does not last long‑term; diet‑only programmes show little or no effect.  \n- Most studies were done in high‑income countries (nations whose average income per person is high) and in schools. Evidence from home‑ or community‑based programmes is limited, and children with physical or mental disabilities were usually excluded, so the findings may not apply to those groups.  \n- The certainty of the evidence is low for most comparisons. We have moderate‑certainty evidence that activity‑only programmes may reduce BMI or zBMI slightly in the medium term. Serious adverse events (unwanted health problems that could be caused by the programme) were rarely reported and no clear harms were identified.  \n\nWhy is preventing obesity in children aged 5 to 11 important?  \nObesity – having too much body fat – is common among school‑age children worldwide. It can harm. It can affect health, growth, confidence and future risk of serious illnesses such as diabetes, heart disease and some cancers. Because these problems can start early and last a lifetime, stopping obesity before it begins is a top public‑health (everyone’s health, the health of the community as a whole) priority. Researchers have tried many ways to help kids stay at a healthy weight, mainly by encouraging healthier eating, more physical activity (including less sitting and better sleep), or a mix of both. We still do not know which approach works best over the longer term.  \n\nWhat did we want to find out?  \nWe compared diet‑only, activity‑only and combined diet‑and‑activity programmes that aim to prevent obesity in children aged 5‑11. We asked whether these programmes change a child’s BMI or zBMI and whether any serious adverse events occur. We looked at results measured shortly after the programme (about 3 to 9 months), at medium term (9 to 15 months) and at longer term (15 months or more).  \n\nHow did we find the evidence?  \nWe searched for randomised controlled trials (studies where participants are randomly assigned to receive either the programme or a comparison such as usual care, the care that a provider would normally give). Two reviewers independently extracted outcome data and resolved disagreements by consensus. We pooled BMI and zBMI results using a random‑effects meta‑analysis (a statistical method that combines the results of many separate studies). We assessed heterogeneity (differences in results between studies) with I² and explored the impact of study design and intervention type. We graded the certainty of the evidence with the GRADE system (a system that rates how confident we can be that the evidence about a treatment’s effects is correct).  \n\nWhat did we find?  \nWe included 172 randomised controlled trials involving 189,707 children aged roughly 5 to 11 years. Most trials were conducted in high‑income countries and delivered in schools (111 studies). Fewer were done in community venues (15), homes (8), clinical settings (7), via telehealth (delivery of health care from a distance using electronic technology, 1) or across multiple settings (31). Intervention lengths varied from a single visit to up to four years.  \n\n- Diet‑only programmes probably make little or no difference to children’s BMI or zBMI in the short, medium or long term (low‑certainty evidence).  \n- Activity‑only programmes probably make little or no difference in the short and long‑term, but probably reduce BMI or zBMI slightly in the medium term (moderate‑certainty evidence).  \n- Combined diet‑and‑activity programmes may reduce BMI or zBMI slightly in the short term and probably reduce them slightly in the medium term (low‑certainty evidence), and probably make little or no difference in the long term.  \n- Evidence on serious adverse events is very uncertain, so we cannot tell whether these programmes increase, decrease or have no effect on serious harms.  \n\nWhat are the limitations of the evidence?  \nWe have low confidence in the evidence because the studies involved different participants, used varied ways of delivering the programmes, and many were small. The evidence does not cover all populations, settings or outcomes of interest.  \n\nHow current is the evidence?  \nWe updated our previous review and included studies searched up to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 754,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.37837837837838,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 24,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 195,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 60.036357086529506,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.948018495949533,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.060382823141442,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.340053050397877,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.26806222668292,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.699333285540185,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.5675675675675675,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.313708498984761,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.77491876120152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 323,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 323.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 153,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 153.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 206,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 206.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 754,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 754 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:07.374312"
+}

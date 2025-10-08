@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013331.PUB2",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "Can TENS (a device that sends small electrical pulses through the skin) help relieve period pain?\n\nKey messages\n- TENS (a machine that sends small electrical pulses to the body through pads on the skin) may relieve period pain more than a dummy (placebo) device or no treatment, but this is based on limited evidence. The studies provided very little information about unwanted effects.\n- It is not clear if one type of TENS is better than another, or if TENS is more effective than other treatments like painkillers.\n- We need more and better-quality studies to understand the true benefits and potential harms of TENS for period pain, including its effect on daily activities and the need for other pain medicines.\n\nWhat is period pain and TENS?\nPeriod pain (primary dysmenorrhoea or menstrual cramps) is a common problem. While medicines can help, some people look for non-drug options like transcutaneous electrical nerve stimulation (TENS). A TENS machine is a small device that sends mild electrical currents to the body through sticky pads (electrodes) on the skin. The currents aim to reduce pain. TENS can be high-frequency or low-frequency.\n\nWhat did we want to find out?\nWe wanted to find out how effective and safe TENS is for treating period pain. We compared TENS with a dummy (placebo) treatment, no treatment, and other common treatments for period pain.\n\nHow did we identify and assess the evidence?\nWe searched for studies called randomized controlled trials, where people are randomly assigned to a treatment group. These studies compared TENS for period pain against a fake treatment, no treatment, or other treatments. We combined and summarized the results from the studies and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 20 studies with a total of 585 women aged 12 to 49 who have period pain. The studies compared high-frequency and low-frequency TENS with a placebo, no treatment, or other treatments like acupressure or common painkillers. Both high-frequency and low-frequency TENS may reduce pain more than a placebo or no treatment. It is unclear if high-frequency TENS works better than low-frequency TENS. It is also unclear if TENS reduces pain more than other treatments like acupressure or painkillers. TENS may cause a similar number of unwanted effects as non-steroidal anti-inflammatory drugs (NSAIDs; such as ibuprofen). For most other comparisons, the studies did not provide enough information about unwanted effects.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence for two main reasons. First, people in the studies may have known which treatment they were getting, which could have influenced the results. Second, the studies were very small.\n\nHow up to date is this evidence?\nThis review updates a previous version. The evidence is current to April 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 491,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.34375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 37,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.758038760183325,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.178176552953158,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.247455448065171,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.742810590631361,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.817744399185337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.80199847250509,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.90625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.54400374531753,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.485326985743381,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 178,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 82,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 491,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 491 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:35.269139"
+}

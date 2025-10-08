@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests (like serum retinol and retinol‑binding protein) for detecting vitamin A deficiency in people who are at risk?\n\nWhat are the main messages?\n– Blood tests that measure serum retinol (vitamin A in blood) or retinol‑binding protein (the protein that carries vitamin A) often miss many true cases (low sensitivity) but are fairly good at confirming that someone is not deficient (high specificity). No harmful effects were reported, and the evidence is limited because the studies were not designed to evaluate test accuracy.  \n– Test performance varies with the reference standard used – the most accurate methods are liver vitamin A measurement and retinol isotope dilution (a technique that uses a labelled form of vitamin A to measure body stores). Overall, the tests show modest accuracy, and data on other methods such as breast‑milk vitamin A or relative dose response.\n\nWhy is vitamin A deficiency a health problem?\nVitamin A helps children grow, keeps the immune system strong, and protects the eyes. When people do not get enough vitamin A they may experience poor growth, weaker immunity, more infections, eye problems that can lead to blindness, and a higher risk of death for mothers and children. Many low‑resource populations are at risk, so identifying deficiency is an important public‑health task.\n\nHow is vitamin A deficiency currently tested?\nWe use laboratory‑based biomarkers – measurable substances in blood, milk or other tissues – to see if vitamin A stores are low. The most common tests are:\n– Serum or plasma retinol (SR) – measures vitamin A directly in a blood sample.  \n– Retinol‑binding protein (RBP) – a protein that carries vitamin A in the blood; its level gives an indirect clue about vitamin A status.  \n– Relative dose response (RDR) – a test that measures how the body’s vitamin A level changes after a tiny dose of the vitamin.  \nWe compare these tests with reference standards such as retinol isotope dilution (RID) or direct measurement of vitamin A in liver tissue, which are considered the most accurate ways to know a person’s true vitamin A status. Two important performance measures are:\n– Sensitivity – the ability of a test to correctly identify people who truly have deficiency (true positives).  \n– Specificity – the ability of a test to correctly identify people who do not have deficiency (true negatives).\n\nWhat did the review aim to find out?\nWe wanted to know how well the routinely used laboratory tests (SR, RBP, RDR and a few others) detect subclinical vitamin A deficiency (deficiency that does not yet cause obvious symptoms) in at‑risk people. Specifically we aimed to:\n1. Measure the accuracy (sensitivity and specificity) of each test compared with the best‑available reference standards.  \n2. Explore whether factors such as the type of reference standard, the cut‑off values used, or study‑population characteristics explain differences in test performance.\n\nHow did we find and analyse the studies?\nWe searched multiple databases up to 18 August 2022 without language or setting limits. Two reviewers independently screened titles, abstracts and full texts, extracted data and assessed risk of bias using the QUADAS‑2 tool. We pooled sensitivity and specificity with a bivariate random‑effects model, examined heterogeneity with subgroup analyses, and graded confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified 40 eligible studies (reported as 65 records). The studies evaluated serum or plasma retinol, retinol‑binding protein, breast‑milk vitamin A and relative dose response, comparing them with RID or liver vitamin A. No study was designed specifically as a diagnostic‑accuracy investigation, and many did not include enough participants with true deficiency. Risk of bias was often unclear.\n\nHow well does serum retinol testing work?\nIf 100 people truly have vitamin A deficiency, serum retinol detects only about 10 of them (sensitivity ≈10 %). The test correctly rules out deficiency in about 90 of the 100 people who are not deficient (specificity ≈90 %). Sensitivity improves to roughly 50 % when liver vitamin A serves as the reference standard, but specificity then falls to about 80 %.\n\nHow well does retinol‑binding protein testing work?\nRetinol‑binding protein shows sensitivity of roughly 45–50 % against isotope dilution and specificity of 75–80 %. When liver vitamin A is the reference, sensitivity drops to near 0 % while specificity rises to about 98 %, reflecting very few true‑positive cases in those studies.\n\nHow well does relative dose response testing work?\nData on relative dose response are limited. The test correctly rules out deficiency in about 90 % of people (specificity ≈90 %), but we could not estimate sensitivity because the studies lacked participants who were truly deficient.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were not designed as diagnostic‑accuracy investigations, often did not include enough people with true deficiency, and risk of bias was frequently unclear. Consequently, the pooled accuracy estimates should be interpreted with caution.\n\nHow current is the evidence?\nThe search covered studies published up to August 2022, so the evidence reflects research available up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 897,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 47,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.085106382978722,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 19,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 76,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 296,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 296.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 55.423483242012395,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.270136862828817,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.03188429516829,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.764905239687849,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.062136198676438,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.18209634953391,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.553191489361702,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 16.41640786499874,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.759029303351598,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 387,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 387.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 189,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 261,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 261.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 897,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 897 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft exceeds the 850‑word limit (897 words) and therefore fails a critical check. To meet the word‑count requirement and improve readability, the following key changes are needed:\n1. **Reduce overall length** – cut about 50 words by removing redundant phrases and merging short sentences. Example problematic sentence: \"We searched multiple databases up to 18 August 2022 without language or setting limits.\" Rewrite: \"We searched databases up to 18 August 2022 without language or setting limits.\"\n2. **Shorten long sentences** – the sentence \"We identified 40 eligible studies (reported as 65 records) that evaluated laboratory‑based biomarkers for vitamin A deficiency in people at risk, ...\" can be split: \"We identified 40 eligible studies (65 records) that evaluated laboratory‑based biomarkers for vitamin A deficiency in at‑risk people.\"\n3. **Replace noun‑heavy phrasing with active verbs** – the phrase \"The studies evaluated serum or plasma retinol, retinol‑binding protein, breast‑milk vitamin A and relative dose response\" is noun‑dense. Rewrite: \"The studies tested serum retinol, retinol‑binding protein, breast‑milk vitamin A and relative dose response.\"\n4. **Reduce passive voice** – e.g., \"The test correctly rules out deficiency in about 90 of the 100 people who are not deficient\" (passive). Rewrite: \"The test correctly rules out deficiency in about 90 of 100 people without deficiency.\"\n5. **Eliminate unnecessary nominalizations** – change \"We pooled sensitivity and specificity with a bivariate random‑effects model\" to \"We combined sensitivity and specificity using a bivariate random‑effects model.\"\nThese edits will lower the word count, reduce the high noun count (296 nouns, beyond typical PLS range), cut passive constructions (19, above typical), and bring the SMOG index (16.4) and complex‑word counts closer to typical PLS levels, all while preserving factual accuracy.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is over the 850‑word limit and has several metric deviations: high passive voice (19 instances, P90), excessive nominalizations (25, P90), very high noun count (296, beyond P90), SMOG index 16.4 (beyond P90), and large numbers of complex and long words. These indicate the text is noun‑heavy and overly complex, supporting the need to shorten sentences, use active voice, and simplify vocabulary."
+    }
+  ]
+}

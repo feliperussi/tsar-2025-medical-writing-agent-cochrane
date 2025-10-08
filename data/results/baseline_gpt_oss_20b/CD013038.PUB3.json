@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013038.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does smelling and tasting milk during tube feeding help preterm babies start feeding by mouth faster?\n\nKey messages:\n- Giving the smell and taste of milk while babies receive tube feeds does not seem to make a difference in how quickly they start feeding by mouth, and no harmful side effects were reported.\n- We have little confidence in this result because the studies were small, some had design problems, and the findings could change with better research.\n- More research is needed, especially studies that include enough babies, look at different ages and sexes, and test different ways of giving the smell and taste.\n\nIntroduction:\nWhy is feeding a challenge for babies born early?\nBabies who are born before 37 weeks often have trouble coordinating sucking, swallowing, and breathing. Because of this, many need nutrition through a tube that goes directly into their stomach. While tube feeding provides the needed calories, it bypasses the mouth, which means the baby does not get the normal smell and taste of milk that helps prepare the gut and the brain for feeding. Researchers have wondered whether adding the smell and taste of milk to tube feeding might help babies learn to feed by mouth sooner.\n\nWhat did we want to find out?\nWe wanted to know whether giving preterm babies the smell or taste of milk while they receive tube feeds helps them start feeding by mouth faster, and whether this practice is safe.\n\nWhat did we do?\nWe searched many medical databases for studies that compared giving the smell or taste of milk to preterm babies during tube feeding with not giving it.\n\nWhat did we find?\nStudy characteristics: We found eight studies that together included 1277 preterm infants. The babies were born between about 24 and 32 weeks of pregnancy and were receiving tube feeding. In the studies, some babies were given the smell of milk, some were given a small amount of milk to taste, and others received both. The comparison groups received the same tube feeding without any added smell or taste.\nMain results: The combined evidence showed that the time it took for babies to start feeding by mouth was similar whether they received the smell and taste of milk or not. The length of time the babies needed nutrition through a vein was also similar between the two groups. No serious gut infections or later infections were reported more often in either group, and no harmful side effects were noted.\n\nWhat are the limitations of the evidence?\nWe are not very confident in these findings. The studies were relatively small, and some did not describe clearly how they chose which babies got the smell or taste. Because of these issues, the results could change if larger, better‑designed studies are done. Also, the studies did not look at whether the effect might be different for boys versus girls or for babies of different ages, and they did not report on how well the babies tolerated the feeding.\n\nHow up to date is this evidence?\nThe evidence was last checked in August 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 531,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.423076923076923,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 67.88862777053458,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.86388888888889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.114024337244679,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.382297551789076,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.634390844560336,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.89200347674924,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.384615384615385,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.782329983125269,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.830272750977836,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 46,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 531,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 531 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:18.234627"
+}

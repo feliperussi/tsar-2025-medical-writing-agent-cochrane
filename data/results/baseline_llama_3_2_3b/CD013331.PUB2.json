@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013331.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of transcutaneous electrical nerve stimulation (TENS) for pain control in women with primary dysmenorrhoea?**\n\n**Key Messages:**\n\n* High-frequency TENS may reduce pain compared with placebo or no treatment, but the evidence is low certainty due to the risk of bias.\n* Low-frequency TENS may also reduce pain compared with placebo or no treatment, but the evidence is low certainty due to the risk of bias.\n* It is uncertain whether high-frequency TENS has an effect on pain relief compared with low-frequency TENS.\n* High-frequency TENS may have a similar effect on pain relief compared to other treatments like acupressure, acetaminophen, and interferential current therapy.\n* Low-frequency TENS may have a similar effect on pain relief compared to acetaminophen.\n\n**Introduction to the review topic and review aims:**\n\n**What is primary dysmenorrhoea?**\n\nPrimary dysmenorrhoea is a type of menstrual pain or cramps that some women experience during their periods. It can be a painful and uncomfortable symptom for many women.\n\n**Why is this review important?**\n\nThis review aims to evaluate the effectiveness and safety of transcutaneous electrical nerve stimulation (TENS) for pain control in women with primary dysmenorrhoea.\n\n**What did we do?**\n\nWe searched for studies that compared TENS with other treatments for primary dysmenorrhoea. We included 20 randomized controlled trials involving 585 women with high-frequency TENS, low-frequency TENS, placebo or no treatment, or other treatment.\n\n**What did we find?**\n\nHigh-frequency TENS and low-frequency TENS may reduce pain compared with placebo or no treatment. However, the evidence is low certainty due to the risk of bias. It is uncertain whether high-frequency TENS has an effect on pain relief compared with low-frequency TENS. High-frequency TENS may have a similar effect on pain relief compared to other treatments like acupressure, acetaminophen, and interferential current therapy.\n\n**What are the limitations of the evidence?**\n\nThe evidence is low certainty due to the risk of bias. Future RCTs should focus more on secondary outcomes of this review and should be designed to ensure a low risk of bias.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date as of April 2024.\n\nPlease note that this is a simplified version of the original abstract, and some details may have been lost in the translation process.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 433,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.433333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 22,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.567614703618176,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.81544341801386,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.053110084680526,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.946789838337182,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.533148575827562,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.14695919938414,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.258803264049268,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 152,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 433,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 433 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:46.824455"
+}

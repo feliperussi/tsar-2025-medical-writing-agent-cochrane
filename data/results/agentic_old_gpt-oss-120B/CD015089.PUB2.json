@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015089.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "How accurate is the HINTS exam (head‑impulse, eye‑movement and eye‑like test) for detecting a brain (central) cause of sudden severe dizziness?\n\nKey messages  \n- We found that the HINTS exam – a three‑part bedside test that looks at rapid head movements, eye jerks and eye alignment – performed by trained clinicians in emergency settings is good at spotting a brain (central) cause of sudden severe dizziness and reasonably able to rule it out; no harmful effects were reported.  \n- We found that adding a hearing check (HINTS Plus) or using video‑recorded eye movements gives similar detection ability, but the evidence comes from only a few small studies.  \n- We recommend larger, high‑quality studies that compare HINTS with standard imaging (a way to take pictures of the inside of a person’s body with a machine that uses strong magnets and radio waves), test its accuracy across different clinicians and settings, and examine how consistently different examiners obtain the same results.\n\nWhy is dizziness and acute vestibular syndrome a problem?  \nSudden, severe dizziness – often called vertigo – brings many people to doctors. When it starts abruptly and lasts at least a day, we call it acute vestibular syndrome. It can cause intense spinning, nausea, vomiting, eye jerks (involuntary eye movements) and feeling unsteady. The cause may be peripheral (outside the brain and spinal cord) or central (originating in the brain). Knowing whether the problem is central is crucial because a brain cause such as a stroke needs very different treatment and carries a higher risk of serious outcomes.\n\nWhat is the HINTS (Head impulse, Nystagmus, Test of Skew) examination?  \nWe perform HINTS at the bedside in minutes. It has three parts:  \n- Head impulse – we turn the patient’s head rapidly and watch the eyes to see if they stay focused on a target.  \n- Nystagmus – we look at the direction of eye jerks; a change in direction can suggest a central problem.  \n- Test of skew – we check whether the eyes are misaligned when the patient looks straight ahead.  \nWhen we add a hearing test, the exam is called HINTS Plus.\n\nWhat did the review aim to find out?  \nWe wanted to know how well HINTS and HINTS Plus identify a central (brain‑related) cause of acute vestibular syndrome. We examined the accuracy of these tests when done by clinicians in emergency departments or other acute care settings, both with the naked eye and when video‑like recordings are used. We also explored whether performance differed by who performed the test, how soon after symptom onset the patient was seen, and what type of brain problem was present.\n\nHow did we find the studies?  \nWe searched databases for studies that evaluated the diagnostic accuracy of HINTS or HINTS Plus for detecting central causes of acute vestibular syndrome. We combined the results of the identified studies to assess overall diagnostic performance. We rated our confidence in the evidence using standard methodological criteria.\n\nWhat did we find?  \nWe identified 16 studies that together included 2,024 adults (about half women) with a mean age of 60 years who had acute vestibular syndrome. All studies compared bedside HINTS or HINTS Plus with a reference standard (usually MRI or a neurologist’s final diagnosis) to see if the tests correctly identified a central cause. Most research was done in emergency departments, and about half of the examinations were performed by neurologists (doctors who specialize in problems of the nervous system).\n\nWhen clinicians performed the standard HINTS test in the emergency department, it correctly identified a central cause in about 94 % of cases (roughly 9 out of 10 people with a brain problem were spotted). It also correctly ruled out a central cause in about 87 % of people who did not have one. The evidence for these numbers is of low certainty. Adding video recording may improve detection, but the data are uncertain. HINTS Plus showed similar performance – about 95 % sensitivity (how well a test correctly identifies people who have the disease) and 73 % specificity (how well a test correctly identifies people who do not have the disease). Video‑assisted HINTS Plus gave similar sensitivity (85‑94 %) but much lower specificity (around 30‑40 %). Overall, bedside HINTS examinations appear good at finding central causes of acute vestibular syndrome, but the certainty of the evidence is limited.\n\nWhat are the limitations?  \nWe have little confidence in the evidence because many studies were small, some participants may have known which test was being used, not all studies reported every outcome we wanted, and the evidence does not cover all patient groups.\n\nHow current is the evidence?  \nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 807,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.692307692307693,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 84,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 221,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 221.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.09773520160138,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.435885997521687,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.388384329425222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.575613382899625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.464035840244021,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.573348584501005,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.769230769230769,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.532562594670797,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.209287656086169,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 316,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 316.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 145,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 145.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 225,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 807,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 807 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:06.343656"
+}

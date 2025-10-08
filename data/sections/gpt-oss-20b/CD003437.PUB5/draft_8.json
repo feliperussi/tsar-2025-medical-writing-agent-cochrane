@@ -1,0 +1,162 @@
+{
+  "id": "CD003437.PUB5",
+  "draft": "\"Is medication, non‑invasive brain stimulation (using external devices), or talk therapy (psychological therapy), alone or combined, effective for treating depression after a stroke?\"\n\nWhat are the key messages?  \n– Medication and talk therapy each lowered the chance of still being depressed after a stroke.  \n– Adding non‑invasive brain stimulation to medication also helped reduce depression.  \n– Non‑invasive brain stimulation by itself showed little or no benefit, and medication increased side‑effects such as dizziness, headaches, and stomach or bowel problems.  \n– The evidence comes from a small number of weak studies, so we have low confidence in these results and need larger, better‑designed trials.\n\nWhat is depression after stroke and why does it matter?  \nMany people who have a stroke develop depression – a mood disorder that makes them feel sad, lose interest in activities, and have low energy. This depression can slow recovery, limit participation in rehabilitation, and lower overall quality of life. Unfortunately, health professionals often miss it or treat it inadequately. Common treatments include medicines (pharmacological treatment), talking‑based therapies (psychological therapy), and newer techniques that use gentle electrical currents on the scalp to stimulate the brain (non‑invasive brain stimulation).\n\nWhat did we aim to find out?  \nWe wanted to know whether medicines, non‑invasive brain stimulation, psychological therapy, or any combination of these helps reduce depression after stroke. We also examined whether these approaches cause harmful side‑effects. In other words, we compared each treatment (and some combinations) with doing nothing, a placebo, or usual care.\n\nHow did we look for the studies?  \nWe searched specialised registers, CENTRAL, MEDLINE, Embase, five other databases, two clinical‑trial registers, reference lists and conference proceedings for randomised controlled trials (studies that randomly assign participants to treatment groups). The search was last updated in February 2022.\n\nHow did we combine the results?  \nWe pooled data from the identified trials. For continuous outcomes we calculated mean differences; for yes‑or‑no outcomes we calculated risk ratios, each with a 95 % confidence interval. We checked consistency between studies using the I² statistic.\n\nHow confident are we in the evidence?  \nWe rated our confidence using the GRADE approach, which looks at study limitations, consistency, directness, precision and publication bias. Most evidence was judged very low‑certainty because the trials were small, often unblinded, and had methodological weaknesses.\n\nWhat did we find?  \nWe included 65 randomised controlled trials that enrolled 5 831 people who had a stroke and later developed depression.  \n\n– Medication reduced the proportion of people who still met criteria for depression. People who took medication were about 30 % less likely to remain depressed than those who took a placebo (risk ratio 0.70). Medication also cut the number of people with an inadequate response by about half (risk ratio 0.47) but increased side‑effects such as dizziness, headaches, and stomach or bowel problems (risk ratios 1.55 and 1.62).  \n\n– Psychological therapy reduced depression. People who received talk therapy were about 23 % less likely to remain depressed than those who received usual care (risk ratio 0.77). This approach did not increase deaths or other adverse events.  \n\n– Non‑invasive brain stimulation alone showed little or no effect. The chance of still being depressed was similar to that in the control group (risk ratio 0.67), and the intervention did not affect mortality.  \n\n– Adding non‑invasive brain stimulation to medication reduced depression (risk ratio 0.77) but did not improve the inadequate‑response rate.  \n\nWe found no usable evidence for combining psychological therapy with brain stimulation or for other combination strategies.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the results because many studies were very small and participants often knew which treatment they received, increasing the risk of bias.\n\nHow up‑to‑date is the evidence?  \nWe searched for studies up to February 2022, so the evidence reflects research available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 662,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 39,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.974358974358974,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 78,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 39,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 39.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 196,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.71569331474166,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.262930513595169,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.981076768146252,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.074561933534739,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.880378030831203,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.12843752420792,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.948717948717949,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.36931687685298,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.782849655279263,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 291,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 291.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 167,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 193,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 662,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical issues: 1) The draft adds specific side‑effect details (dizziness, headaches, stomach or bowel problems) that are not stated in the source abstract, which only reports CNS and gastrointestinal adverse events – this is a factual inaccuracy. 2) Several sentences use technical statistical language (e.g., “risk ratio 0.70”, “95 % confidence interval”, “I² statistic”) without lay explanations, which can confuse readers. 3) The text is noun‑heavy and contains many complex words (e.g., “inadequate response”, “central nervous system”, “gastrointestinal”), reflected by the metric deviations (nominalizations 39, nouns 196, SMOG... etc.) and reduces readability. Suggested top improvements: • Replace the inaccurate side‑effect description with wording that matches the source, e.g., “Medication was linked to more side‑effects affecting the brain and nervous system and the stomach or intestines.” • Explain risk ratios in plain language, e.g., “People taking medication were about 30 % less likely to remain depressed compared with those taking a placebo.” • Simplify statistical method sentences, e.g., “We combined the results of the studies and looked at how consistent they were.” • Reduce noun‑heavy phrasing by using more verbs, e.g., change “We calculated mean differences for continuous outcomes” to “We measured the average differences for outcomes that gave numbers.” • Replace complex terms with everyday words where possible, e.g., “inadequate response” → “did not get enough improvement”, “central nervous system” → “brain and nerves”. These changes will align the draft with the source, improve clarity for patients, and address the metric‑driven deviations (high nominalizations, long words, and complex‑word counts).",
+      "pls_evaluation_summary": "The draft meets the word‑count limit but shows several metric deviations: nominalizations (39, beyond P90), nouns (196, beyond P90), SMOG index (15.4, beyond P90), complex words (167, beyond P90) and complex Dale‑Chall words (291, beyond P90). These indicate overly noun‑heavy and complex language, supporting the need to simplify wording and reduce technical jargon."
+    }
+  ]
+}

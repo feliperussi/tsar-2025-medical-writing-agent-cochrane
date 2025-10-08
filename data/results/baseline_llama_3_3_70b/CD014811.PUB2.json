@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of continuous infusion versus bolus injection of loop diuretics for acute heart failure? \n\nKey messages:\n* Due to a lack of robust evidence, the benefits and risks of continuous infusion versus bolus injection of loop diuretics for acute heart failure are unclear.\n* Continuous infusion of loop diuretics may result in slightly more weight loss than bolus injection, but the evidence is very uncertain.\n* There may be little to no difference in all-cause mortality, length of hospital stay, readmission, or occurrence of acute kidney injury between continuous infusion and bolus injection of loop diuretics.\n\nIntroduction to the review topic and review aims:\nWhat is acute heart failure? \nAcute heart failure is a sudden worsening of chronic heart failure, characterized by congestion in about 95% of cases or end-organ hypoperfusion in 5% of cases. \nWhat can people do to treat acute heart failure? \nTreatment often requires urgent escalation of diuretic therapy, mainly through hospitalization. \nWhat did we want to find out? \nWe wanted to find out if continuous infusion of loop diuretics is better than bolus injection for treating acute heart failure.\n\nWhat did we do? \nWe searched for studies that compared continuous infusion with bolus injection of loop diuretics for acute heart failure. \nWe summarized and combined the results of these studies and rated our confidence in the evidence.\n\nWhat did we find? \nWe found seven studies that compared continuous infusion with bolus injection of loop diuretics for acute heart failure. \nThe studies involved 681 participants and were conducted in 32 hospitals in seven countries.\n\nWhat are the limitations of the evidence? \nWe have little confidence in the evidence because the studies were small and had some concerns about bias.\n\nHow up to date is this evidence? \nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 325,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.25,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 23,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.10494230769231,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.191807692307695,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.795769230769231,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.969230769230766,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.361538461538462,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.55769230769231,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.927661538461539,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 126,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 92,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 325,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 325 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 6,
+      "P75_count": 1,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:35.727639"
+}

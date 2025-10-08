@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Title\nIs coordinated, team-based care better than usual care for adults with atrial fibrillation (an irregular heartbeat)?\n\nKey messages\n- Compared with usual care (the care a provider would normally give), coordinated, team-based care (organised clinical services: how care is structured and coordinated) for adults with atrial fibrillation (AF) (an irregular heartbeat) probably lowers deaths from any cause (all-cause mortality: deaths from any cause during the study). It also reduces cardiovascular hospitalisation (hospital admissions for heart and blood vessel problems).\n- Coordinated care probably makes little or no difference to overall hospital admissions (all-cause hospitalisation: being admitted to hospital for any reason) and may make little or no difference to strokes (loss of blood flow to part of the brain) or major brain bleeding (cerebrovascular bleeding events: bleeding in or around the brain that causes serious harm).\n- The trials mainly tested nurse-led multidisciplinary care (care led by a nurse who coordinates a team of different health professionals) and digital programs such as mHealth or eHealth (mobile or online tools, phone apps, or wearable devices used to deliver and manage care). These studies were done in China, the Netherlands, and Australia, so results may not apply everywhere. Important patient-centered outcomes, like quality of life (how someone feels and functions day to day) and AF symptom burden (how often and how severely AF symptoms affect daily life), were not measured well.\n\nWhat is atrial fibrillation and why is it a problem?\nAtrial fibrillation (AF) is an irregular and often fast heartbeat caused by chaotic electrical signals in the top chambers of the heart. AF can cause palpitations (a fluttering or pounding feeling), tiredness, and shortness of breath. AF raises the chance of blood clots that can cause stroke (loss of blood flow to part of the brain). AF can also lead to heart failure and more hospital stays. Treatment is often long term and can include medicines, blood thinners, procedures to restore rhythm, and lifestyle changes.\n\nHow might organised, team-based or digital care help people with AF?\nOrganised clinical services (how care is structured and coordinated) aim to follow best-practice guidelines. Multidisciplinary care (a team of health professionals from different specialties) brings doctors, nurses, pharmacists, and others together. Nurse-led multidisciplinary care means a nurse coordinates that team. Digital care (eHealth or mHealth: using phones, apps, or online tools) can help with monitoring, education, and communication. These approaches aim to make care more coordinated, easier to access, and more consistent than usual care.\n\nWhat did we want to find out?\nWe wanted to know whether organised, team-based, or digital services for adults with any type of AF work better than usual care. We looked for evidence on deaths, hospital admissions (overall and for heart problems), strokes and major brain bleeding, AF symptoms, quality of life, emergency department visits (going to hospital for urgent care), costs, and length of hospital stay (number of days in hospital).\n\nHow did we do the review?\nWe searched medical databases and trial registers for randomized controlled trials (studies where people are randomly assigned to different treatments to compare them fairly) that compared organised care with usual care. We combined results where possible and rated how confident we are in the evidence.\n\nWhat did we find?\nWe found 8 randomized controlled trials including 8,205 adults with AF. Average ages were 60 to 73 years. The studies were in China, the Netherlands, and Australia. Interventions included nurse-led multidisciplinary clinics and virtual mHealth programs. Not all studies reported every outcome. Six trials provided data we could pool. Follow-up times went up to 6 years. No trial reported minor brain bleeding. AF-specific quality of life was not measured with a validated tool.\n\nWhat do the results mean?\nOrganised services probably lead to a large reduction in deaths from any cause. Organised care probably makes little or no difference to admissions for any reason but reduces admissions for heart and blood vessel problems. Organised care may make little or no difference to deaths from heart and blood vessel disease, to strokes, and to major brain bleeding.\n\nHow confident are we?\nWe have moderate confidence in the evidence. Some trials had design issues and people may have known which care they received (performance bias: differences in care or behaviour because people knew which group they were in). Not all outcomes were reported, and there were too few trials to be certain.\n\nWhat is needed next?\nWe need more well-designed, adequately sized trials that directly compare different organised care models (for example, nurse-led teams versus digital programs), run longer, include diverse settings, and report consistent outcomes important to patients, such as symptoms and quality of life, and harms like strokes, bleeding, emergency visits, and costs.\n\nCurrency\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 827,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 45,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.377777777777776,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 39,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 39.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 265,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.46619884455194,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.925338170092704,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.445575708719602,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.159999999999997,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.138293698777375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.672820099422275,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.727922061357855,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.307728829772941,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 335,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 335.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 161,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 234,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 234.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 827,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 827 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:36.339411"
+}

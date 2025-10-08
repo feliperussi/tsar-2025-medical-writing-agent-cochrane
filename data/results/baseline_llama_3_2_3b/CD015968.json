@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015968",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there anything else I can help you with?\n\nHere is the transformed Cochrane abstract into a Plain Language Summary (PLS) following all guidelines above:\n\n**What are the benefits and risks of digital health technology for managing obesity in children and adolescents?**\n\n**Key Messages:**\n\n* Digital health technology may help children and adolescents with obesity lose a small amount of weight, but it's unclear how long this effect lasts.\n* Digital health technology alone may not be effective in improving any of the outcomes we looked at.\n* We found no studies that reported any serious side effects from using digital health technology to manage obesity in children and adolescents.\n\n**What is obesity in children and adolescents, and why is it a problem?**\n\nObesity is a serious health problem that affects many children and adolescents around the world. It can increase the risk of chronic diseases like diabetes, heart disease, and some types of cancer. In 2016, more than 340 million children and adolescents aged 5 to 19 years were living with overweight or obesity.\n\n**What did we want to find out?**\n\nWe wanted to find out if digital health technology can help children and adolescents with obesity lose weight and improve their overall health. We also wanted to see if digital health technology alone can be effective in managing obesity.\n\n**What did we do?**\n\nWe searched for studies that compared digital health technology to conventional care in children and adolescents with obesity. We included 15 studies involving 911 participants from the USA, Sweden, Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. We looked at how digital health technology affected weight, body mass index (BMI), physical activity, and other important outcomes.\n\n**What did we find?**\n\nDigital interventions combined with conventional care may have a small, short-term beneficial effect on fat mass in children and adolescents compared to conventional care alone. However, the effect on other important outcomes is unclear. We also found no studies that reported adverse event data.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in the evidence because many of the studies were short-term and had small sample sizes. We also don't know if the results would apply to all children and adolescents with obesity. Additionally, we don't know if digital health technology can be used effectively in combination with conventional care or if it's better used alone.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to April 2025. However, we need more studies to confirm our findings and to see if digital health technology can be used effectively in the long term.\n\n**What should happen next?**\n\nFuture studies should report their results by age, gender, and race/ethnicity. They should also report full data to better enable data extraction and analysis. Additionally, studies should assess other important outcomes, particularly adverse events, and control for both diet and physical activity in their analyses.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 511,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.194444444444445,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.69691481843881,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.435461513372474,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.08350402261361,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.099334637964777,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.349010654490108,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.961567732115675,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.083333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.246950765959598,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.142478886714504,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 176,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 98,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 511,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 511 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:52.888873"
+}

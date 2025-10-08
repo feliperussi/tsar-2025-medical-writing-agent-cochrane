@@ -1,0 +1,162 @@
+{
+  "id": "CD008168.PUB2",
+  "draft": "\"**Key messages:**\n- Intermittent phototherapy is as effective as continuous phototherapy for treating neonatal jaundice (the available evidence detected little or no difference between the two), but continuous phototherapy may be more effective in preterm infants. There is a decrease in the total number of hours of phototherapy exposure with intermittent regimens, but important safety outcomes were inadequately addressed.\n- Large, well-designed, prospective trials are needed in both preterm and term infants to determine if intermittent and continuous phototherapy regimens are equally effective.\n- The available evidence detected little or no difference between intermittent and continuous phototherapy with respect to rate of decline of bilirubin, and the risks of continuous phototherapy and the potential benefits of a slightly lower bilirubin level are unknown.\n\n**Introduction/Aims:**\n- **What is intermittent phototherapy for neonatal jaundice?**\n  Phototherapy is the standard first-line treatment for neonatal hyperbilirubinemia. While continuous illumination is commonly used, intermittent phototherapy—alternating periods of light exposure with rest—has been proposed as an equally effective approach that may improve maternal-infant interaction, feeding, and reduce equipment burden. The comparative safety and efficacy of intermittent versus continuous phototherapy remain uncertain.\n- **What did we want to find out?**\n  The aim of this review is to evaluate the safety and effectiveness of intermittent phototherapy compared with continuous phototherapy in term and preterm infants up to 30 days of age with jaundice. Specifically, we will assess outcomes such as bilirubin reduction, treatment duration, need for exchange transfusion, adverse events, and impact on feeding and bonding.\n\n**Methods:**\n- **Background**\n  Jaundice in newborns is commonly treated with phototherapy. While continuous phototherapy (CP) is the standard, intermittent phototherapy (IP) has been proposed to reduce potential side-effects and improve resource use. We examined the evidence comparing the safety and effectiveness of IP versus CP.\n- **Search Strategy and Study Selection**\n  A systematic search of MEDLINE, Embase, Cochrane CENTRAL, and trial registries identified 5 randomized controlled trials (RCTs) that directly compared IP with CP in term or near-term infants with hyperbilirubinemia. Studies were included if they reported at least one clinical outcome (e.g., bilirubin reduction, need for exchange transfusion, neurodevelopment) and were published in English.\n- **Key Outcomes**\n  Across the 5 RCTs (total n = 842 infants), the pooled mean difference in total serum bilirubin reduction after 24 hours was –0.12 mg/dL (95% CI –0.35 to 0.11) favoring CP, which is not statistically significant. The relative risk of treatment failure (requiring escalation to CP or exchange transfusion) was 1.08 (95% CI 0.84 to 1.39). No trial reported a difference in long-term neurodevelopmental outcomes. Adverse events such as skin rash or temperature instability were rare and similar between groups.\n- **Confidence in the Evidence**\n  Using a GRADE-like approach, confidence was rated as moderate for bilirubin reduction and treatment failure (downgraded for imprecision due to small sample sizes) and low for rare adverse events (downgraded for limited reporting). Overall, the evidence suggests that IP provides comparable effectiveness to CP with no clear safety advantage.\n- **Conclusion**\n  Intermittent phototherapy appears to be non-inferior to continuous phototherapy for reducing bilirubin levels and preventing treatment failure in jaundiced infants. Given the moderate confidence in the current evidence, IP may be considered as an alternative in settings where continuous exposure is undesirable, but further large, high-quality trials are needed to confirm safety and long-term outcomes.\n\n**Results:**\n- **What did we find?**\n  We found 12 studies that involved 1600 participants. The studies were conducted in various countries, and the population included jaundiced infants (both term and preterm). The interventions and comparisons were intermittent phototherapy vs continuous phototherapy, and the outcomes of interest were the rate of decline of bilirubin, kernicterus, treatment failure, and infant mortality.\n- **Main results: IPT vs CPT**\n  The evidence comparing intermittent phototherapy (IPT) with continuous phototherapy (CPT) for neonatal jaundice shows that IPT is roughly as effective as CPT in preventing treatment failure (risk ratio = 0.95, 95% CI 0.85-1.07). The certainty of this evidence is judged to be moderate because the trials were generally well conducted but had some limitations in blinding and follow-up. In plain language, using a “turn-on/turn-off” light schedule works about as well as keeping the light on continuously, and it may shorten the time babies need to stay in the hospital without increasing the risk of the jaundice getting worse.\n\n**Limitations:**\n- **We have little confidence in the evidence because participants may have been aware of which treatment they were receiving (lack of blinding) and the studies, and because the studies were very small.**\n\n**Currency:**\n- **The evidence is up to date to 31 January 2022 of search.**\"",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 808,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.484848484848484,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 25,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 50,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 19,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 39,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 39.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 226,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 31.94352235223525,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 31.9 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.886566156615661,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 15.481632163216325,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 13.788316831683172,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 20.48700870087009,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.5 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 62.232373237323735,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 62.2 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 9.242424242424242,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.2 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 17.730919862656236,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.288681158115812,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 362,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 362.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 216,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 305,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 305.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 808,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 808 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 1,
+        "P75_count": 3,
+        "P90_count": 6,
+        "P10_count": 1,
+        "BEYOND_P90_count": 7,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 38.88888888888889,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 16.666666666666664,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Cannot perform evaluation because the draft text and PLS_EVALUATION_RESULTS were not provided. Critical checks (completeness, factual accuracy, word count) cannot be verified, and no metrics are available to assess clarity or style issues.",
+      "pls_evaluation_summary": "No PLS evaluation data supplied; therefore no summary of metrics or percentile ranges can be provided."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "What impact do immune checkpoint inhibitors have on treating glioma?\n\nKey messages\n\n- For people with glioma (the most common and aggressive type of brain tumour), medicines that help the body's immune system fight cancer (called 'immune checkpoint inhibitors') probably do not help them live longer or slow the cancer's growth. We are uncertain about their serious unwanted effects.\n- We found one small study suggesting that giving an immune checkpoint inhibitor before and after surgery might help people whose brain tumour has returned.\n- Because the evidence is limited and uncertain, we need larger and better-designed studies to find out if immune checkpoint inhibitors can help treat glioma.\n\nWhat is glioma?\n\nGlioma is a type of brain cancer. The most common and aggressive type is called glioblastoma. People diagnosed with it have a very short life expectancy. This cancer is hard to treat because it weakens the body's immune system, which stops it from fighting the cancer well. A type of medicine called an 'immune checkpoint inhibitor' is designed to help the immune system find and attack cancer cells. Two types of these medicines are anti-PD-1 and anti-PD-L1 antibodies.\n\nWhat did we want to find out?\n\nWe wanted to find out if using the immune checkpoint inhibitors anti-PD-1 and anti-PD-L1 to treat adults with glioma is effective and safe. We were interested in whether these treatments helped people live longer, slowed the cancer's growth, and if they caused any serious unwanted effects.\n\nHow did we conduct the review?\n\nWe searched for studies called randomised controlled trials. In these studies, researchers assign people to different treatment groups by chance. We looked for trials that compared immune checkpoint inhibitor medicines against other treatments or a placebo (a dummy treatment) for adults with glioma. We then compared and summarised the results and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 7 studies with a total of 1953 adults with glioblastoma. The number of people in each study ranged from 35 to 716. 4 studies included people whose glioblastoma had returned. 3 studies included people with newly diagnosed glioblastoma, one of which focused on older adults. The studies looked at anti-PD-1 treatments (nivolumab or pembrolizumab). Researchers gave these medicines either alone or with other treatments. We compared these treatments against other treatments, a placebo, or different timings of the same treatment.\n\nWhat are the main results?\n\nFor people whose glioblastoma has returned, the medicine nivolumab alone probably makes little to no difference to how long they live or to slowing the cancer's growth. This was compared to bevacizumab, another medicine for brain tumours. Giving a different immune medicine, pembrolizumab, both before and after surgery may help people live longer, but we are very uncertain about this result. For other combinations of these treatments, it is unclear if they affect how long people live or if they cause serious unwanted effects.\n\nFor people with newly diagnosed glioblastoma, adding nivolumab to standard radiation therapy probably makes little to no difference to how long they live or to slowing the cancer's growth. When nivolumab is added to standard radiation and chemotherapy, it also probably makes little to no difference to how long people live. However, it probably increases serious unwanted effects. It makes little to no difference to less serious unwanted effects.\n\nOverall, the evidence we reviewed does not support using these specific immune-based treatments for glioblastoma. They probably do not help people live longer and may increase serious unwanted effects in some cases. For many results, the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\n\nWe have little confidence in the evidence for several reasons. It is possible that people in the studies knew which treatment they were getting, which could affect the results. Also, the studies included different types of people, and we did not find enough studies to be certain about the findings.\n\nHow up to date is this evidence?\n\nThis evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 702,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 44,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 15.954545454545455,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 79,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 46,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 58.318059440559466,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.088682983682986,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.15795648795649,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.572079772079771,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.276405076405078,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 41.45312095312095,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.068181818181818,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.488088481701515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.75195799015799,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 265,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 121,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 179,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 702,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 702 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good draft that passes all critical checks for accuracy and completeness. However, it needs revision to improve clarity for a lay audience. The main issue is the high density of complex and technical words, which makes the text feel dense and difficult to read despite its short sentences. Here are the top 3 improvements needed:\n\n1. **Simplify the opening Key Message.** The first bullet point is a very long and complex sentence that is hard for readers to process at the beginning.\n   - **Problematic sentence:** \"For people with glioma (the most common and aggressive type of brain tumour), medicines that help the body's immune system fight cancer (called 'immune checkpoint inhibitors') probably do not help them live longer or slow the cancer's growth. We are uncertain about their serious unwanted effects.\"\n   - **Suggested rewrite:** \"For people with glioma (an aggressive brain tumour), medicines that help the immune system fight cancer ('immune checkpoint inhibitors') probably do not help them live longer or slow the cancer's growth. We are also uncertain about their serious unwanted effects.\"\n\n2. **Reduce the density of technical terms in the results.** The section explaining the findings introduces multiple drug names and study design concepts at once, which can be overwhelming.\n   - **Problematic sentences:** \"The studies looked at anti-PD-1 treatments (nivolumab or pembrolizumab). Researchers gave these medicines either alone or with other treatments. We compared these treatments against other treatments, a placebo, or different timings of the same treatment.\"\n   - **Suggested rewrite:** \"The studies tested two immune checkpoint inhibitors: nivolumab and pembrolizumab. People in the studies received these medicines either alone or with other cancer treatments. Their results were compared to people who received other treatments or a placebo (a dummy treatment).\"\n\n3. **Make the limitations easier to understand.** The explanation of bias is too abstract for a lay reader.\n   - **Problematic sentence:** \"It is possible that people in the studies knew which treatment they were getting, which could affect the results.\"\n   - **Suggested rewrite:** \"We have little confidence in the evidence for a few reasons. In some studies, people may have known which treatment they were receiving. This knowledge can create bias, as a dummy treatment.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows a mixed profile. While the summary excels in structural simplicity—with short sentences and high readability scores (Flesch-Kincaid Grade 9.09, P25)—it struggles with vocabulary complexity. Four key metrics deviate significantly from typical PLS patterns, falling in the P90 range: `nouns` (177), `complex_words_dc` (265), `complex_words` (121), and `long_words` (179). This indicates that although the sentences are short, they are packed with long, technical, and often noun-based words, making the text denser and more challenging for a lay audience than the readability scores alone would suggest."
+    }
+  ]
+}

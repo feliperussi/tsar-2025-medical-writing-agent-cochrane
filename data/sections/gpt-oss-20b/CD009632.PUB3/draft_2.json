@@ -1,0 +1,162 @@
+{
+  "id": "CD009632.PUB3",
+  "draft": "Is adding breast ultrasound (sound imaging) to a mammogram (breast X‑ray) better than a mammogram alone for finding breast cancer in women at average risk?\n\nKey messages\n- Adding ultrasound to mammography finds about two extra cancers per 1,000 women screened and reduces missed cancers, but it also causes roughly 37 more false‑positive results and 27 more biopsies per 1,000 women without cancer.  \n- The benefit of detecting more cancers is clearer in women with dense breast tissue (about three extra cancers per 1,000), while in women with non‑dense breasts the difference is small or none.  \n- All the evidence comes from one large, well‑designed trial and several smaller cohort studies; none of the studies measured whether the extra cancers lead to lower death rates.\n\nWhy is breast cancer screening important?\nBreast cancer is one of the most common cancers in women worldwide. Finding the disease early, before it spreads, gives the best chance of successful treatment and survival. For this reason health organisations recommend regular screening for women roughly between ages 40 and 75. Early detection through screening can reduce the number of women who die from breast cancer.\n\nWhat are mammography and breast ultrasonography, and how are they used for screening?\nMammography (a low‑dose X‑ray picture of the breast) is the standard screening tool. In some women, especially those whose breast tissue is “dense” (the tissue looks white on a mammogram, making hidden tumours harder to see), the mammogram can miss cancers – this is called a false‑negative result. Breast ultrasonography (ultrasound, which uses sound waves to create images of the breast) can be added to a mammogram to try to spot cancers that the X‑ray missed. However, adding ultrasound can also produce more false‑positive results, meaning the test suggests cancer when there is none, leading to unnecessary follow‑up procedures such as biopsies (taking a small piece of tissue to check for cancer).\n\nWhat did the review authors want to find out?\nWe compared two screening strategies for women at average risk of breast cancer: (1) mammography alone and (2) mammography together with breast ultrasonography. We wanted to know whether adding ultrasound detects more cancers, whether it changes the type or stage of cancers found, and whether it leads to more false‑positive results and biopsies. In short, we aimed to assess the overall benefits and harms of combining ultrasound with the standard mammogram.\n\nHow did we find and assess the evidence?\nWe searched databases up to May 2021 for studies that enrolled women aged 40‑75 at average risk and compared mammography alone with mammography plus ultrasonography. Two reviewers screened each record, extracted data, assessed risk of bias, and applied the GRADE approach to rate confidence in the evidence. We combined the results in a random‑effects meta‑analysis.\n\nWhat did we find?\nWe identified eight studies involving 209,207 women. The evidence came from one randomised controlled trial, two prospective cohort studies and five retrospective cohort studies, with follow‑up ranging from one to three years. The proportion of women with dense breasts varied from 48 % to 100 %.\n\nWhat are the main results of adding ultrasound to mammography?\nAdding ultrasound probably increases the number of cancers detected slightly – about two extra cancers per 1,000 women screened (high‑certainty evidence). It probably reduces the proportion of cancers with positive lymph nodes, lowers interval cancers, and cuts false‑negative results. In women with dense breasts, the increase is a little larger – about three extra cancers per 1,000 screened. In women with non‑dense breasts, the difference is probably little or none. At the same time, adding ultrasound probably raises false‑positive results by roughly 37 per 1,000 women without cancer and increases biopsies by about 27 per 1,000 screened (both high‑certainty evidence).\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence because most studies did not randomly assign women to screening groups, participants may have known which test they received, the evidence does not cover all outcomes we wanted (such as mortality), and the total number of cancer cases is relatively small.\n\nHow up to date is this review?\nWe searched for relevant studies up to May 2021, so the evidence reflects research published up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 717,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.727272727272727,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 75,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 208,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 208.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 57.350855838721955,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.65769494104222,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.413636363636364,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.277656903765692,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.385469760365158,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.64498541904399,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.848484848484849,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.198039027185569,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.190880537593507,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 323,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 323.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 120,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 120.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 193,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 717,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 717 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 1,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the required style check: not all subheadings are phrased as questions. The subheading \"Why is breast cancer screening important?\" is a statement, not a question, violating the Master Style Guide. Additionally, several clarity issues could confuse readers:\n1. **Jargon in key messages** – terms like “false‑negative” and “false‑positive” appear without brief explanations, leaving patients unsure what they mean. Suggested rewrite: add a short parenthetical definition (e.g., “false‑negative (a cancer that the test missed)”).\n2. **Long, dense sentence in the results section** – the paragraph under \"What are the main results of adding ultrasound to mammography?\" contains multiple ideas in one long sentence, making it hard to follow. Suggested split: \"Adding ultrasound probably increases the number of cancers detected – about two extra cancers per 1,000 women screened (high‑certainty evidence). It also reduces the proportion of cancers with positive lymph nodes, lowers interval cancers, and cuts false‑negative results. In women with dense breasts the increase is a little larger – about three extra cancers per 1,000 screened. In women with non‑dense breasts the difference is probably little or none. At the same time, adding ultrasound probably raises false‑positive results by roughly 37 per 1,000 women without cancer and increases biopsies by about 27 per 1,000 screened (both high‑certainty evidence).\"\n3. **Complex terminology** – phrases such as “prospective cohort studies”, “retrospective cohort studies”, “interval cancers”, and “lymph node status” are technical and contribute to the high Dale‑Chall readability score (8.19) and high complex‑word counts (120 complex words, 323 Dale‑Chall unfamiliar words). Simplify: use “observational studies” instead of “prospective/retrospective cohort studies”, “cancers that appear between regular screenings” for “interval cancers”, and “cancers that have spread to lymph nodes” for “positive lymph node status”.\n4. **Use of “high‑certainty evidence”** – the phrase may be unclear to lay readers. Replace with “strong evidence”.\n5. **Missing pronoun usage in some sections** – the draft sometimes describes actions without “we”. For consistency with the style guide, rewrite sentences like \"The evidence came from one randomised controlled trial…\" to \"We found that one large trial…\".\nThese issues, together with the subheading format problem, mean the draft does not meet the required standards.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is within the word limit and generally conforms to typical PLS patterns, but several metrics deviate: nouns (208, beyond P90), Dale‑Chall readability (8.19, P90), complex words (120, P90), complex Dale‑Chall words (323, beyond P90), and long words (193, P90). These indicate the text is noun‑heavy and uses many unfamiliar or long words, supporting the suggested simplifications and reduction of technical jargon."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015253.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Does autoinflation help children with fluid in the middle ear?\n\nKey messages:\n- Autoinflation may improve hearing in children with fluid‑filled ears, but the benefit is uncertain.\n- The evidence does not show a clear reduction in ear pain or a lower chance of needing surgery.\n- The overall confidence in these findings is low, meaning future research could change the conclusions.\n\nWhat is the problem?\nChildren often develop fluid behind the eardrum, a condition known as otitis media with effusion (OME). This fluid can cause hearing problems, affect speech development, and sometimes lead to ear pain. Parents and clinicians wonder whether simple techniques, such as blowing air into the nose using a special balloon (autoinflation), can help clear the fluid and improve outcomes.\n\nWhy did we do this review?\nWe wanted to find out if autoinflation works better than doing nothing, using a placebo, or other standard treatments for OME in children. Specifically, we looked at whether it improves hearing, reduces ear pain, prevents the need for surgery, and whether it causes any harms.\n\nWhat did we do?\nWe searched medical databases for studies that compared autoinflation with no treatment, a placebo, or other interventions in children with OME. We included studies that reported on hearing, ear pain, need for surgery, and any side effects. Two reviewers independently checked each study for relevance and quality, and we summarised the findings in a narrative format.\n\nWhat did we find?\nWe identified a small number of studies involving children aged roughly two to ten years. The studies used a balloon device that the child blows into through the nose, usually several times a day for a few weeks.\n\nHearing: Most children who performed autoinflation showed improvement in hearing compared with those who did not use the technique. The improvement was described as a noticeable change in the ability to hear normal conversation sounds.\n\nEar pain: The evidence did not show a clear difference in the amount of ear pain experienced by children using autoinflation versus those who did not. Some children reported less discomfort, but the overall picture was mixed.\n\nSurgery: There was no convincing evidence that autoinflation reduced the number of children who later needed ear‑tube surgery. The rates of surgery were similar between groups.\n\nHarms: Few side effects were reported. Some children found the balloon uncomfortable or had brief nosebleeds, but serious problems were not observed.\n\nWhat are the limitations of the evidence?\nThe studies we found were few in number and varied in how they taught children to use the balloon, how long they used it, and how outcomes were measured. Many studies had small groups of participants, and some did not clearly describe how they selected children. Because of these issues, the certainty of the evidence is low. This means that the true effect of autoinflation could be different from what the studies suggest.\n\nHow up to date is this evidence?\nThe most recent study included in our review was published a few years ago. Since then, no new large trials have been reported, so the evidence base has not changed substantially. However, ongoing research may provide clearer answers in the future.\n\nBottom line: Autoinflation might help some children with fluid‑filled ears hear better, but the current evidence is limited and uncertain. Parents should discuss the option with their healthcare provider, considering the low risk of harm and the modest potential benefit.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 584,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.685714285714287,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 163,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 163.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.20447945205481,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.425647749510766,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.817651663405087,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.020547945205482,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.523600782778866,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.65146771037182,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.3973717025440315,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 206,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 584,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 584 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:23.719297"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can community health workers help prevent mental health problems and improve well-being in low- and middle-income countries?\n\n- Community health workers may help prevent mental health problems and improve well-being. They can slightly reduce symptoms of anxiety, depression, and distress. However, the quality of this evidence is not strong.\n- No major harmful effects were reported. But the evidence did not provide clear answers to all questions, particularly regarding long-term effects and the best ways to deliver these interventions.\n- Future research should focus on addressing the limitations of current studies. This includes exploring the long-term impacts of community health worker interventions, reducing the risk of bias in studies, and examining the cost-effectiveness of these programs.\n\nWhat is the problem of mental disorders in low- and middle-income countries?\nMental disorders are a major health problem, especially in low- and middle-income countries. These countries face unique challenges, including a scarcity of skilled human resources, large inequities in resource distribution and utilization, and stigma surrounding mental health. This contributes to a significant research gap in the field of mental health promotion and prevention. Many people in these countries lack access to effective interventions for preventing mental disorders and promoting well-being.\n\nWhat are primary-level and community worker interventions for mental health?\nPrimary-level and community worker interventions involve trained primary care health workers or community workers delivering interventions to promote mental health and prevent mental disorders. These interventions can be universal (targeting the general population), selective (targeting people at risk), or indicated (targeting people with symptoms). The goal is to provide accessible and effective support for mental health in low- and middle-income countries, where resources may be limited.\n\nWhat did the review authors want to find out?\nThe review authors aimed to assess the effectiveness of primary-level and community worker interventions in promoting mental health and preventing mental disorders in low- and middle-income countries. They wanted to examine the impact of these interventions on resource use and costs, as well as their effects on various mental health outcomes, such as anxiety, depression, and distress.\n\nMethods\nWe searched for studies on primary-level and community worker interventions for mental health promotion and disorder prevention in low- and middle-income countries. We summarized their results and evaluated our confidence in the evidence.\n\nResults\nWe found 113 studies that involved 32,992 participants. Most studies included adults, with 83 studies focusing on this population, while 30 studies focused on children. The interventions were delivered by primary-level workers, including primary care health workers, community workers, or both. The studies examined universal prevention, selective prevention, and indicated prevention interventions. The evidence suggests that interventions delivered by primary workers may improve mental health outcomes, probably reducing symptoms of anxiety and depression in adults, and may improve quality of life in children.\n\nLimitations\nMany studies were not blinded, which limits the evidence and may lead to bias. Several studies did not report all outcomes of interest. The populations, interventions, and delivery methods varied across studies, reducing comparability. The sample sizes were generally small, limiting statistical power.\n\nCurrency\nThe evidence is up to date to November 2021.\n\nKey messages:\n- Community health workers may help prevent mental health problems and improve well-being in low- and middle-income countries, with some evidence suggesting they can slightly reduce symptoms of anxiety, depression, and distress, although the quality of this evidence is not strong.\n- No major harmful effects were reported in the studies, but the evidence did not provide clear answers to all questions, particularly regarding long-term effects and the best ways to deliver these interventions.\n- Future research should focus on addressing the limitations of current studies, such as exploring the long-term impacts of community health worker interventions, reducing the risk of bias in studies, and examining the cost-effectiveness of these programs to better understand their potential benefits and challenges.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 670,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.9375,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 237,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 35.45000466417912,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.516222014925372,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.859391791044779,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 15.020955223880591,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 17.986940298507463,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 59.44496268656716,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.4 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.0625,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.649110640673518,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.532858208955226,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 318,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 318.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 161,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 258,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 258.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 670,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 670 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:13.052906"
+}

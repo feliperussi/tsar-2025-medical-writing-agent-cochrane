@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013619.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**Is family presence during resuscitation better for relatives than no presence?**\n\n**What are the benefits and risks of family presence during resuscitation for relatives?**\n\n* For relatives who witnessed a resuscitation attempt, offering the option to be present during resuscitation may reduce PTSD-related symptoms and anxiety/depression after 1 year.\n* However, the evidence is very uncertain due to high risk of bias and limited studies.\n* We could not find enough good-quality evidence to draw firm conclusions on the effects of family presence on relatives' psychological outcomes.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain due to high risk of bias and limited studies. There was insufficient evidence to draw firm conclusions on the effects of family presence on relatives' psychological outcomes.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to 22 March 2022. This review updates our previous review.\n\n**What did we do?**\n\nWe searched electronic databases from inception to 22 March 2022 without any language limits and checked references and citations of eligible studies using Scopus, and searched for relevant systematic reviews using Epistomonikos. We included 2 trials involving a total of 595 participants and synthesized data narratively.\n\n**What did we find?**\n\nThe included studies found that offering relatives the option to be present during resuscitation of patients may reduce PTSD-related symptoms and anxiety/depression after 1 year. However, the evidence is very uncertain due to high risk of bias and limited studies. There was insufficient evidence to draw firm conclusions on the effects of family presence on relatives' psychological outcomes.\n\nPlease note that this is a manual transformation and may not be perfect. If you need any further assistance, feel free to ask.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 326,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.583333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 85,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.79883691206547,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.687868098159509,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.261513292433541,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.60920245398773,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.267689161554195,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.09867075664622,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.416666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.831760866327848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.776616768916156,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 126,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 326,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 326 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 6,
+      "P75_count": 1,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:47.606487"
+}

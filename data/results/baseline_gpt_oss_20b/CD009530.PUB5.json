@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009530.PUB5",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What is the benefit of using bronchoscopy to guide antibiotic treatment for cystic fibrosis?\n\nKey messages\n– The evidence shows that using bronchoscopy to guide antibiotic treatment probably makes little or no difference to lung function, chest scans, nutrition, infections, hospital stays, costs, or quality of life compared with standard care based on throat swabs and symptoms.\n– The evidence comes from only two well‑designed studies that followed children for up to five years; there is no evidence for adults.\n– More research is needed, especially in older children and adults, to confirm whether bronchoscopy offers any advantage.\n\nWhat is cystic fibrosis and why is lung infection a problem?\nCystic fibrosis is a genetic condition that makes the lungs produce thick mucus. The mucus can trap germs, leading to lung infections that can damage the lungs over time.\n\nWhy do doctors need to find the right germs to treat?\nTreating a lung infection with the right medicines is important. If the wrong medicine is used, the infection can worsen and the lungs can become scarred.\n\nWhat is bronchoscopy and how does it help?\nBronchoscopy is a procedure where a thin tube with a camera is inserted into the lungs. A small sample of fluid can be taken from the lower airways. This sample can be tested for germs.\n\nWhat did we want to find out?\nWe wanted to know whether using the results from bronchoscopy to decide which medicines to give makes a real difference in how children with cystic fibrosis feel and how their lungs work, compared with the usual way of using throat swabs and symptoms.\n\nWhat did we do?\nWe searched for studies that compared bronchoscopy‑guided treatment with other sampling methods, we summarised their results, and we rated our confidence in the evidence.\n\nWhat did we find?\nWe found two studies that met our criteria. One study followed 170 infants from birth to five years old, and the other followed 30 children aged five to 18 years. The studies compared the outcomes of treatment guided by bronchoscopy fluid with treatment guided by throat swabs and symptoms.\n\nThe main results were:\n– Lung function, measured by tests that look at how well air moves in and out of the lungs, was about the same whether bronchoscopy was used or not. The evidence is uncertain.\n– Chest scans that show the structure of the lungs were also similar between the two groups. The evidence is moderately uncertain.\n– Nutrition, the number of germs found each year, and the number of serious lung flare‑ups were similar. The evidence is uncertain.\n– Hospital stays were slightly higher in the bronchoscopy group, but the evidence is uncertain.\n– The cost of care was about the same for both groups. The evidence is moderately uncertain.\n– Quality of life, how people feel about their health, did not differ between the groups. The evidence is uncertain.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence for most outcomes because the studies were small and had some uncertainty about how the participants were chosen and how the results were reported. We are moderately confident about the evidence for chest scans and costs because the studies were a bit larger and more consistent. The evidence only covers children, so we do not know if the findings apply to adults.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to November 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 598,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.085714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 158,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.71507357859532,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.477441949354994,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.512639751552797,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.183210702341139,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.921242236024847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.66430960344004,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.0285714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.841314304825611,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 227,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 227.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 91,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 598,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 598 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:15.556583"
+}

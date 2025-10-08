@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006586.PUB5",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can birth control pills containing drospirenone (a type of hormone) help women with premenstrual syndrome (a condition that causes symptoms like mood swings and bloating before a woman's period)?\n\nKey messages:\n- Birth control pills with drospirenone may help improve symptoms of premenstrual syndrome, including problems with productivity, social activities, and relationships. However, they may also cause more side effects, such as breast pain and nausea.\n- We are not sure if drospirenone helps with mood symptoms or if it works better than other birth control pills.\n- More research is needed to understand the long-term effects of drospirenone and how it compares to other treatments.\n\nWhat is premenstrual syndrome and why is it a problem?\nPremenstrual syndrome (PMS) is a common problem that affects many women. It causes physical and emotional symptoms before a woman's period and can interfere with daily life. A more severe form of PMS is premenstrual dysphoric disorder (PMDD). While there are treatments available, including lifestyle changes and medication, some women may not find relief from their symptoms. Combined oral contraceptives (COCs), which contain both progestin (a type of hormone) and oestrogen (a type of hormone), have been studied as a potential treatment option for PMS.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the effectiveness and safety of COCs containing drospirenone in women with PMS. They aimed to investigate whether these contraceptives can improve premenstrual symptoms, functional impairment, and mood symptoms, as well as assess their potential side effects and compare them to other treatment options.\n\nWhat did we find?\nWe found 5 studies that involved 858 women with premenstrual syndrome, most of whom were diagnosed with premenstrual dysphoric disorder. The studies were conducted to evaluate the effectiveness and safety of combined oral contraceptives containing drospirenone. The total number of people who took part in the studies was 858. The combined oral contraceptive containing drospirenone may improve symptoms of premenstrual syndrome, but it may also lead to more side effects, such as breast pain and nausea. For every 100 women taking this contraceptive, 10 to 16 may stop using it due to side effects, compared to 3 out of 100 women taking a placebo.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because many studies were not blinded, leading to potential bias; some studies lacked data on outcomes of interest; there was heterogeneity in the populations studied and the ways the interventions were delivered; and the sample sizes were very small.\n\nIs the evidence up to date?\nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 446,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.272727272727273,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.06356298410114,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.312776192417449,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.171879331430901,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.034439461883405,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.732409294741132,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.86913982878109,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.342769425193641,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 179,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 446,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 446 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 7,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:05.181539"
+}

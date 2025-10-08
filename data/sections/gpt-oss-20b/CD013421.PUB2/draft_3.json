@@ -1,0 +1,162 @@
+{
+  "id": "CD013421.PUB2",
+  "draft": "Do glue‑like sealants help stop bleeding faster at blood‑vessel connections than usual methods during vascular surgery?\n\nWhat are the main findings?\n– Sealants (glue‑like materials applied to the surgical connection) may stop bleeding about four minutes sooner and may lower the chance that bleeding control fails, but the evidence is uncertain because the studies had many limitations.  \n– Compared with standard care (manual pressure, gauze, oxidized cellulose or gelatin sponge), sealants did not show clear differences in total blood loss, overall operating time, postoperative bleeding, or the need to‑return to the operating room.  \n– No harmful effects were reported, and higher‑quality research is needed to confirm benefits, identify any harms, and assess cost‑effectiveness.\n\nWhy is bleeding at the site where blood vessels are joined a problem in vascular surgery?\nDuring operations on arteries, veins or artificial grafts, surgeons create a link called an anastomosis. The tiny needle holes in the anastomosis can leak, causing bleeding. Excess bleeding can lengthen the operation, increase the need for blood transfusions, and raise the risk of complications after surgery.\n\nWhat are sealants and how might they help stop this bleeding?\nSealants are special medical glues that surgeons apply directly to the bleeding tissue. They act as an extra tool (an adjunct) when traditional methods – such as pressing the tissue together, using gauze, or reversing blood‑thinning medication – do not stop the bleed quickly enough. Sealants are made from proteins (for example fibrin) or from synthetic materials, and they form a rapid, waterproof barrier over the needle holes.\n\nWhat did the review aim to find out?\nWe wanted to know whether using sealants during vascular surgery improves patient outcomes. Specifically we examined whether sealants reduce the time needed to achieve hemostasis (stop bleeding), lower the chance that bleeding control fails, and affect other outcomes such as total blood loss, operating time, postoperative bleeding, return to the operating room, and any harms.\n\nWhat did we do?\nWe searched major medical databases for randomized controlled trials that compared fibrin‑based or synthetic sealants with standard techniques for achieving anastomotic hemostasis. We pooled the results and assessed the certainty of the evidence using established criteria.\n\nWhat did we find?\nWe identified 24 trials involving 2,376 participants who underwent vascular anastomoses. All trials compared sealants with standard‑care methods such as oxidized cellulose, gelatin sponge, or manual compression. Researchers did not report follow‑up length, funding sources, participant details, or trial locations, and no trial recorded deaths from bleeding or quality‑of‑life outcomes.\n\nAcross roughly 500 participants in seven studies, sealants reduced the time to stop bleeding by about four minutes (mean difference ≈ 230 seconds). The certainty of this evidence is low. Sealants may also reduce the chance that bleeding control fails (risk ratio ≈ 0.46), but this evidence is very uncertain. We found no clear differences between sealants and standard care for intra‑operative blood loss, the total length of surgery, postoperative bleeding, or unplanned return to the operating room. No harmful effects were reported.\n\nWhat are the limitations of the evidence?\nAll trials were at high risk of bias because participants and clinicians often knew which treatment was used. The studies were small, varied in participants and methods, and provided incomplete data. These weaknesses mean the results may over‑estimate benefits.\n\nHow current is the evidence?\nThe evidence is up to date with searches completed in March 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 576,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 33,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.454545454545453,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 77,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 21,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.49676136363638,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.41275883838384,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.904512310606059,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.975624999999997,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.315151515151516,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.961489898989896,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.848484848484849,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.488088481701515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.651092676767679,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.7 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 284,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 284.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 120,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 120.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 193,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 576,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 576 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 3,
+        "P75_count": 5,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft meets all critical checks (complete sections, question‑style headings, factual accuracy, <850 words). Metric-wise, readability scores are good (Flesch‑Reading‑Ease 51.5, FKGL 10.4). The main deviations are higher counts of nouns, complex words, long words, and Dale‑Chall unfamiliar words, reflecting a noun‑heavy, technically worded style, but these do not impede overall understanding for the target audience."
+    }
+  ]
+}

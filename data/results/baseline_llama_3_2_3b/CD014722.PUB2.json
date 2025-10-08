@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "## Plain Language Summary\n\n**What are the benefits and risks of primary-level and community worker interventions for preventing mental disorders and promoting well-being in low- and middle-income countries?**\n\n**Key Messages:**\n\n*   **Primary-level and community worker interventions may improve mental health outcomes**, but the evidence is not always clear.\n*   **These interventions may reduce anxiety symptoms, depressive symptoms, and distress/PTSD symptoms in adults and children**, but the evidence is not always strong.\n*   **The interventions may also reduce functional impairment and improve quality of life in children**, but the evidence is not always consistent.\n\n**What did we do?**\n\nWe searched for studies that compared primary-level and community worker interventions with usual care in adults and children in low- and middle-income countries.\n\n**What did we find?**\n\nWe found 113 studies with 32,992 participants. The studies were conducted in different countries and settings. The interventions were universal prevention/promotion, selective, and indicated prevention.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not always clear due to the risk of bias and substantial levels of heterogeneity. A supportive network of infrastructure and research would enhance and reinforce this delivery modality across low- and middle-income countries.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to November 2021.\n\n**What should happen next?**\n\nFuture research should focus on options and effects that are important to decision-makers, such as:\n\n*   Task-shifting interventions\n*   Infrastructure and research support\n*   Universal, selective, and indicated prevention interventions\n*   Effects on resource use and costs\n\n**Conclusion:**\n\nPrimary-level and community worker interventions may improve mental health outcomes, but the evidence is not always clear. A supportive network of infrastructure and research would enhance and reinforce this delivery modality across low- and middle-income countries.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 330,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.347826086956522,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 20,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 10,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 101,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.706501976284585,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.635349143610018,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.737276679841898,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.842060606060606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.73913043478261,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.46903820816865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.608695652173913,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.306623862918075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.979803689064559,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 131,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 66,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 330,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 330 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 5,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:49.089764"
+}

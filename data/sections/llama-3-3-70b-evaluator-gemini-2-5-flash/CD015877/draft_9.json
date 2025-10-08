@@ -1,0 +1,162 @@
+{
+  "id": "CD015877",
+  "draft": "Can personalized nutrition plans (tailored diets based on individual characteristics such as genetics, eating habits, and health status) help children and teenagers with obesity lose weight or improve their health compared to standard one-size-fits-all diets?\n\nKey messages:\n- We did not find enough good-quality evidence to determine whether personalized nutrition plans are better than standard one-size-fits-all diets for helping children and teenagers with obesity lose weight or improve their health, and no harmful effects were reported.\n- Due to the limited number of studies and participants, it is unclear if precision nutrition-based interventions have any benefits or harms for children and adolescents with obesity, highlighting the need for more research in this area.\n- Future research should focus on conducting well-designed studies that report participant outcome data, including physical and mental well-being, and that explore the effects of precision nutrition-based interventions in different age groups and populations, to provide clearer answers to this question.\n\nWhat is obesity in children and adolescents, and why is it a problem?\nObesity in children and adolescents is a serious health condition where a young person has an excessive amount of body fat. It's a problem because it can lead to various health issues, such as diabetes, heart disease, and mental health problems. Common treatments for obesity in children and adolescents often focus on lifestyle changes, including diet and exercise. However, these 'one-size-fits-all' approaches may not be effective for everyone, as people's responses to the same diet can vary greatly due to factors like genetics, dietary habits, and physical activity.\n\nWhat are precision nutrition-based interventions, and how might they help?\nPrecision nutrition-based interventions involve tailored approaches that take into account individual characteristics, such as genetics, dietary habits, and physical activity, to develop personalized diet recommendations. These interventions aim to address the unique needs of each child or adolescent, which may lead to more effective weight management and improved overall health. Precision nutrition-based interventions can include the use of artificial intelligence, machine learning methods, and other technologies to provide personalized support.\n\nWhat did the review authors want to find out?\nThe review authors wanted to examine the impact of precision nutrition-based interventions on the management of obesity in children and adolescents. They aimed to investigate whether these tailored approaches are more effective than traditional 'one-size-fits-all' interventions in improving physical and mental well-being, reducing obesity-associated disability, and promoting healthy weight change. The authors also sought to identify the most effective methods for delivering precision nutrition-based interventions and to determine the potential benefits and harms of these approaches.\n\nWhat did we find?\nWe found 2 studies that involved 105 participants with overweight or obesity. Based on this limited evidence, we are very uncertain if personalized nutrition plans affect weight or body mass index (BMI). The studies took place in Ukraine and Greece. One study reported nonprofit funding sources, whilst the other did not report funding.\n\nHow certain is the evidence?\nThe evidence from these small studies is very uncertain. This means we don't know if personalized nutrition has an effect on body weight or BMI in children and adolescents.\n\nHow up to date is this evidence?\nThe evidence is up to date to July 2024. Future research should focus on conducting well-designed studies that report participant outcome data, including physical and mental well-being, and that explore the effects of precision nutrition-based interventions in different age groups and populations, to provide clearer answers to this question.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 612,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.666666666666668,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 24,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 34.6724509803922,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.054248366013073,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.884803921568626,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.081176470588233,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 18.870588235294118,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 58.287581699346404,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 8.074074074074074,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.12435565298214,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.806635947712419,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 259,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 259.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 150,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 150.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 218,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 612,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 612 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 9,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 50,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it needs revisions to improve clarity and readability for a patient audience. The main issues are overly complex vocabulary, long sentences, and a passive, formal writing style. Additionally, the draft is missing a brief section explaining how the review was conducted.\n\nHere are the top 3 improvements needed:\n\n1. **Simplify Complex Language and Reduce Jargon:** The text frequently uses technical terms and formal phrasing that can be difficult for readers to understand. This is supported by the linguistic analysis, which shows the number of complex and long words is significantly higher than in a typical Plain Language Summary.\n   - **Problematic sentence:** \"Precision nutrition-based interventions involve tailored approaches that take into account individual characteristics, such as genetics, dietary habits, and physical activity, to develop personalized diet recommendations.\"\n   - **Why it's a problem:** This sentence is dense and uses abstract terms like 'interventions', 'tailored approaches', and 'individual characteristics'.\n   - **Suggested rewrite:** \"Personalized nutrition plans are created specifically for an individual. They look at things like a person's genes, eating habits, and activity levels to create a diet plan that fits their unique needs.\"\n\n2. **Shorten Long Sentences and Avoid Repetition:** Several sentences are too long and complex, making them hard to follow. The same 46-word sentence is also repeated in two different sections.\n   - **Problematic sentence:** \"Future research should focus on conducting well-designed studies that report participant outcome data, including physical and mental well-being, and that explore the effects of precision nutrition-based interventions in different age groups and populations, to provide clearer answers to this question.\"\n   - **Why it's a problem:** At 46 words, this sentence is very long and contains multiple complex ideas. It appears verbatim in both the 'Key messages' and the 'How up to date is this evidence?' sections.\n   - **Suggested rewrite (for use in one section):** \"Future studies should be larger and better designed. Researchers should report on how these diets affect both the physical and mental health of children in different age groups.\"\n\n3. **Use More Active Voice and Direct Verbs:** The draft often uses passive voice and nominalizations (turning verbs into nouns), which makes the text feel indirect and less engaging. The metrics confirm a high number of passive constructions and noun-heavy phrases.\n   - **Problematic sentence:** \"Due to the limited number of studies and participants, it is unclear if precision nutrition-based interventions have any benefits or harms for children and adolescents with obesity, highlighting the need for more research in this area.\"\n   - **Why it's a problem:** The phrasing \"it is unclear\" is passive and wordy. The sentence structure is complex.\n   - **Suggested rewrite:** \"We found only a few small studies. Because of this, we cannot be sure if personalized nutrition plans help or harm children and teenagers with obesity. More research is needed to answer this question.\"",
+      "pls_evaluation_summary": "The evaluation shows the draft has moderate conformity with typical PLS patterns, with 55.6% of features falling within the best quartile. However, it deviates significantly in key areas related to complexity and readability. Metrics for vocabulary complexity (SMOG Index, complex_words, long_words) are beyond the 90th percentile, indicating the language is much more difficult than a typical PLS. Additionally, high scores for passive voice, nominalizations, and nouns suggest the writing style is overly formal and indirect, which can be a barrier to reader understanding."
+    }
+  ]
+}

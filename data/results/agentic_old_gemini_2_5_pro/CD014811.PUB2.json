@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "agentic_old_gemini_2_5_pro",
+  "text": "For people with acute heart failure, is it better to receive diuretics (medicines that help the body get rid of excess fluid) as a continuous drip or as single injections?\n\nKey messages\n- For people with acute heart failure (a sudden worsening of the condition), we do not have enough reliable evidence to know if giving diuretics (medicines to remove excess fluid) as a continuous drip is better or worse than giving them as single injections.\n- Although some previous studies suggested a continuous drip might be better, our review included only the most reliable studies and found that we cannot be certain of any benefits.\n- We found little to no difference between the two methods for important outcomes like death, how long people stayed in the hospital, returning to the hospital after leaving, or the risk of kidney problems.\n- More high-quality research is needed to give a definite answer on the best way to give these medicines.\n\nIntroduction\nWhat is acute heart failure and how is it treated?\nHeart failure is a condition where the heart does not pump blood around the body as well as it should. In acute heart failure, symptoms start suddenly or get much worse, often meaning the person needs to go to the hospital. A common problem is fluid overload (congestion), where the body holds onto too much fluid. This can cause swelling and make it hard to breathe. To treat this, doctors give medicines called loop diuretics ('water pills') to help the body get rid of the extra fluid. In the hospital, doctors usually give these medicines directly into a vein (intravenously). They can do this in two common ways: as a slow, steady drip over a long time (a continuous infusion), or as single, scheduled doses (a bolus injection).\n\nWhat did we want to find out?\nWe wanted to find out if one way of giving intravenous loop diuretics is better than the other for adults with acute heart failure. We compared giving the medicine as a continuous infusion versus giving it as bolus injections. We looked for differences in effects like weight loss, how long people stayed in the hospital, hospital readmissions, and unwanted side effects such as kidney problems.\n\nMethods\nWhat did we do?\nWe searched for studies that compared giving diuretics as a continuous drip with giving them in single doses for adults with acute heart failure. We then combined the results from the studies and rated our confidence in the evidence.\n\nResults\nWhat did we find?\nOur review included 7 studies with a total of 681 people. The studies took place in 32 hospitals across 7 countries. The participants were adults with severe acute heart failure. Doctors graded the heart failure severity using the New York Heart Association classification (a system based on how symptoms limit physical activity).\n\nCompared to giving loop diuretics as separate injections, giving them as a continuous infusion may make little to no difference to:\n- the number of people who die from any cause;\n- how many people are readmitted to the hospital; or\n- the risk of a sudden kidney injury.\n\nFor other outcomes, such as weight loss and how long a person stays in the hospital, the evidence is very uncertain, but it suggests there may be little to no effect. We are also unclear if the way the diuretic is given affects the body's daily fluid balance. Overall, we do not have enough evidence to know if one way of giving these medicines is better than the other.\n\nLimitations of the evidence\nWe have little confidence in the evidence. This is because not enough studies have been done to be certain about the results. It is also possible that people in the studies knew which treatment they were getting, which could have influenced the results. Finally, the studies included different types of people.\n\nCurrency of the evidence\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 680,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.25,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 59.61036764705884,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.223970588235293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.438485294117648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.327588235294115,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.382352941176471,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.044117647058826,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.84375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.899494936611665,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.907102941176472,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 209,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 680,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 680 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:17.721088"
+}

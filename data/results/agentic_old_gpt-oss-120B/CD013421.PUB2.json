@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013421.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do sealants (medical glues) improve stopping bleeding at vessel connections (anastomoses) compared with standard methods in vascular surgery?\n\nKey messages  \n- Sealants may shorten the time needed to stop bleeding (hemostasis) and may reduce the chance that the bleeding‑control method fails, but the evidence is low‑certainty and no serious harms were reported.  \n- The review found no clear differences between sealants and standard care for blood lost during surgery, total operating time, bleeding after surgery, or the need for an unplanned return to the operating room. No data on death or quality of life were available.  \n- All 24 trials had important risks of bias, so we need larger, well‑designed randomised controlled trials (RCTs) to confirm benefits, assess harms, and evaluate cost‑effectiveness.\n\nWhat did we want to find out?  \nWe wanted to know whether using sealants during vascular surgery helps patients. Specifically, we examined if sealants reduce the time to achieve hemostasis, lower the risk that the bleeding‑control method fails, and affect the amount of blood lost during surgery. We also looked at overall operating time, postoperative bleeding, and the need for an unplanned return to the operating room.\n\nHow did we look for evidence?  \nWe performed a systematic (planned, orderly) search of MEDLINE, Embase and the Cochrane Library on 6 March 2023. We placed no limits on date or language and hand‑searched reference lists. Two reviewers independently screened titles, abstracts and full texts and resolved disagreements by discussion. We included only randomised controlled trials that enrolled adult patients undergoing vascular anastomosis and reported at least one hemostasis outcome. Two reviewers extracted data on study characteristics, patient details, type of sealant (fibrin sealant – a glue made from a protein that helps blood clot, or synthetic sealant – a man‑made glue), comparator technique (e.g., manual compression – pressing on the bleeding site with the hands), and outcomes. We combined results with a random‑effects meta‑analysis, reporting risk ratios for dichotomous outcomes and mean differences for continuous outcomes. We assessed heterogeneity with the I² statistic and rated certainty with GRADE (a system that judges how confident we can be in the evidence).\n\nWhat did we find?  \nWe identified 24 RCTs enrolling 2 376 participants undergoing vascular anastomoses. All trials compared fibrin or synthetic sealants applied directly to the anastomotic site with standard care controls such as oxidised cellulose (a plant‑based material treated to help clot blood), gelatin sponge (a soft absorbent sponge made from animal gelatin) or manual compression. The trials did not report participant ages, sexes, settings or funding sources, and none examined sealant use in non‑vascular surgery. No study reported death from bleeding or quality‑of‑life outcomes.\n\nMain results  \n- Sealants may reduce the time to achieve hemostasis by about 200 seconds per 100 patients (low‑certainty evidence).  \n- It is unclear whether sealants change the risk of hemostatic failure (very low‑certainty evidence).  \n- Sealants may make little or no difference to intra‑operative blood loss (low‑certainty evidence).  \n- Sealants may make little or no difference to total operating time (low‑certainty evidence).  \n- Sealants may reduce postoperative bleeding slightly (low‑certainty evidence).  \n- Sealants may reduce the likelihood of an unplanned return to the operating room for bleeding (low‑certainty evidence).  \n- No trial reported adverse events or other complications.\n\nWhat are the limitations?  \nWe have little confidence in the evidence because many trials had performance bias (participants or researchers knew which treatment was given) and detection bias (outcome measurement differed between groups). Sample sizes were small and reporting of outcomes was incomplete. Study populations and interventions varied, which may exaggerate benefits.\n\nWhat does this mean for patients and clinicians?  \nCurrent evidence suggests sealants could speed up bleeding control, but the benefit is uncertain. Standard methods such as manual compression remain effective, and sealants do not clearly reduce blood loss, operating time or postoperative bleeding. Clinicians should weigh possible time savings against the extra cost of sealants and the limited certainty of the data. Researchers should conduct larger, well‑designed RCTs that use blinding, report all relevant outcomes, include patient‑reported quality‑of‑life measures, and assess cost‑effectiveness.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 682,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.487179487179485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 219,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.65677381758027,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.677507331378301,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.022431385818486,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.105630498533728,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.84824422888939,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.504774795097376,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.948717948717949,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.041594578792296,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.345619234528913,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 323,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 323.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 168,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 232,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 232.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 682,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 682 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 3,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:00.615153"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012718.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs silver diamine fluoride (SDF) a useful and safe way to stop cavities in children and adults compared with other treatments?\n\nKey Messages  \n- SDF may help stop new cavities on the roots of adult teeth and may slow the growth of existing cavities in baby teeth, but the evidence is not strong and we are not sure about side‑effects such as tooth staining.  \n- When SDF is compared with fluoride varnish, it probably makes little or no difference in preventing new cavities in baby teeth, and we do not know if it works better or worse for other outcomes.  \n- Because most of the studies had problems such as small size or unclear methods, we need better research to know whether SDF really helps, how it should be applied, and what it does to the look of teeth.\n\nWhat is the problem that the review looks at?  \nWhy do cavities matter?  \nCavities (dental caries) are the most people’s most common disease. If they are not treated they can cause pain, make eating difficult, and affect confidence and overall health. Finding a cheap, easy way to stop cavities from forming or getting worse is an important goal for families and health services.\n\nWhat treatments are already used?  \nThe usual ways to protect teeth include brushing with fluoride toothpaste, applying fluoride varnish, sealing pits in teeth, or doing small fillings. A newer option is silver diamine fluoride (SDF), a liquid that contains silver and fluoride and can be painted on a tooth.\n\nWhat did the reviewers want to find out?  \nThe review team wanted to know whether putting SDF on teeth prevents new cavities or stops existing cavities from getting worse, and how SDF compares with doing nothing, with fluoride varnish, or with other common treatments. They also looked at any side‑effects such as pain, sensitivity, or staining of the teeth.\n\nWhat did we do?  \nWe searched several medical databases for studies that compared SDF with other approaches or with no treatment. We combined the findings from those studies and judged how confident we could be in the results based on how the studies were done.\n\nWhat did we find?  \nWe found 29 studies that together included about 13,000 people, and most of the participants were children. The studies were carried out in many countries and looked at both baby (primary) teeth and adult (permanent) teeth. Different studies used different strengths of SDF, applied it at different times, and compared it with a range of other treatments.\n\nOverall results:  \n- Compared with doing nothing, SDF probably prevents new cavities on the roots of adult teeth.  \n- SDF may reduce the growth of cavities in baby teeth, but the evidence is weak.  \n- When SDF is compared with fluoride varnish, it probably makes little or no difference in stopping new cavities in baby teeth.  \n- We do not have clear evidence about whether SDF works better or worse than sealants, resin infiltration, or small fillings (ART).  \n- There is very little reliable information about side‑effects such as tooth staining, pain, or sensitivity; the studies reported these outcomes inconsistently.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies did not randomly assign people to the different groups, which means the results could be affected by other differences between participants. In addition, the studies were often small and sometimes did not report all the outcomes we were interested in the same way. Because of these problems, we cannot be sure how well SDF works or whether it causes any unwanted effects.\n\nHow up to date is this evidence?  \nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 646,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.533333333333335,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.97185552115583,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.686018575851396,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.327518059855521,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.030526315789473,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.690732714138287,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.7655314757482,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.433333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.396567265221879,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 218,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 82,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 646,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 646 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:01.709024"
+}

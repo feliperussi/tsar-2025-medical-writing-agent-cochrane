@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "# Does tighter blood pressure control help people with diabetes keep their sight?\n\n**Key messages**\n- Intensive blood pressure control probably leads to a large reduction in the chance of developing diabetic eye disease, but it may raise the risk of low‑blood‑pressure episodes.\n- The evidence suggests a modest benefit in slowing the worsening of existing eye disease, and a slight benefit in preventing severe eye damage, yet the certainty around these findings is limited.\n- While tighter control appears to lower the risk of death, we remain uncertain about its effect on vision loss and on serious eye bleeding, and we cannot rule out a possible increase in low‑blood‑pressure events.\n\n**Plain language summary**\nPeople with diabetes often worry about losing their vision because high blood sugar can damage the tiny blood vessels in the eye. One way doctors try to protect the eyes is by lowering blood pressure more aggressively than usual. A large review looked at many studies that compared a tighter blood‑pressure target (for example, aiming for a lower number on the blood‑pressure cuff) with a more relaxed target in adults who have diabetes.\n\nThe review found that aiming for a lower blood‑pressure target probably results in a large reduction in the number of people who develop new eye disease over several years. In other words, tighter control seems to keep many eyes healthier and may prevent the first signs of damage. However, this benefit comes with a trade‑off: the same approach may increase the chance that a person experiences low‑blood‑pressure symptoms, such as dizziness or fainting. This side effect was noted in the studies, and the evidence suggests it could happen more often when blood pressure is pushed down aggressively.\n\nWhen it comes to people who already have some eye changes, the tighter blood‑pressure strategy appears to reduce the likelihood that those changes get worse. This benefit is modest but still meaningful, indicating that tighter control can help slow the progression of existing damage. The evidence for this effect is fairly reliable, though not as strong as for preventing new disease.\n\nThe review also looked at more serious eye outcomes, such as severe bleeding inside the eye or a large loss of vision. The data suggest that tighter blood‑pressure control may lead to a slight reduction in these severe events, but the confidence in this finding is limited. In plain terms, there might be a small protective effect, but we cannot be sure.\n\nRegarding overall health, the tighter blood‑pressure approach appears to lower the risk of death. This suggests that, beyond protecting the eyes, stricter blood‑pressure control may have broader benefits for people with diabetes. On the other hand, the evidence about whether tighter control helps preserve the ability to read letters on an eye chart (a measure of visual acuity) is very uncertain. The studies did not show a clear benefit or harm, and we remain unsure about this outcome.\n\nIn summary, for adults with diabetes, aiming for a lower blood‑pressure target is likely to protect the eyes from developing new disease and may help keep existing damage from getting worse. The approach also seems to reduce the risk of death. However, it can increase the chance of low‑blood‑pressure symptoms, and the evidence about its impact on severe eye bleeding, major vision loss, and subtle changes in visual sharpness is less certain. People considering tighter blood‑pressure control should discuss these potential benefits and harms with their healthcare providers to decide what target is best for their individual situation.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 593,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.72,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.930532209106275,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.350850590219228,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.391467116357504,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.368971332209103,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.76118718381113,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.35237774030354,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.08,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.48528137423857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.64695044856661,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 243,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 93,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 593,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 593 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 6,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:12.593764"
+}

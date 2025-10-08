@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015514.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Does face-down positioning after eye surgery for retinal detachment help prevent vision problems compared to other positions?\n\nWe looked at the evidence to find out if face-down positioning after eye surgery for retinal detachment is better than other positions. \n\n- Face-down positioning may help prevent vision problems by reducing complications, but the evidence is not strong enough to be certain.\n- The current evidence does not provide clear answers to whether face-down positioning is better than other positions after this type of surgery.\n- More research is needed to give a definitive answer about the benefits and harms of different positioning strategies after eye surgery for retinal detachment.\n\nWhat is a macula-involving rhegmatogenous retinal detachment?\nA macula-involving rhegmatogenous retinal detachment (RRD) is a serious eye condition where the retina separates from the underlying tissue. This can cause significant visual problems and is considered a medical emergency. \n\nWhat is face-down positioning, and why is it used after surgery?\nFace-down positioning is a technique used after surgery to help the retina reattach to the underlying tissue. The idea behind this technique is that by keeping the patient in a face-down position, the gas bubble used to fill the eye can help push the retina back into place.\n\nWhat did the review authors want to find out?\nThe review authors wanted to determine whether face-down positioning reduces the risk of complications in patients with primary macula-involving RRDs. They also aimed to investigate the effects of face-down positioning on visual acuity, quality of life, and adverse events.\n\nHow did the review authors search for evidence?\nWe performed a systematic search of databases for randomized controlled trials and observational studies that compared face-down positioning with alternative postoperative positioning after retinal detachment surgery.\n\nWhat did the review authors find?\nWe found three studies that involved 368 participants with macula-involving rhegmatogenous retinal detachments. Immediate face-down positioning after surgery may result in a reduction in complications, but may increase the chance of raised pressure inside the eye.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, and participants may have been aware of their assigned treatment. The evidence does not encompass all relevant populations, interventions, comparators, or outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to November 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 415,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.863636363636363,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 39.48551752464405,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.438143483023001,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.096589266155533,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.710939759036144,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.629791894852136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.911829134720705,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.045454545454546,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.365780941949617,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 169,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 415,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 415 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 8,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:15.935094"
+}

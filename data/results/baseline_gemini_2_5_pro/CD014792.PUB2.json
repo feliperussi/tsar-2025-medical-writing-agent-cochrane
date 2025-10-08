@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014792.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "What is the best way to feed people after major surgery on the pancreas (pancreaticoduodenectomy)?\n\n**Key messages**\n\n– Compared to feeding through a drip into a vein, feeding through a tube directly into the intestine probably shortens the time people spend in the hospital. However, it is unclear if this method affects the risk of other complications.\n\n– For other comparisons, such as feeding through a tube versus eating and drinking normally, there was not enough good-quality evidence to know which method is better for recovery or causes fewer unwanted effects.\n\n– More and better-quality research is needed to help doctors and patients decide on the best way to provide nutrition after this major surgery.\n\n**What is a pancreaticoduodenectomy?**\n\nA pancreaticoduodenectomy, also known as a Whipple procedure, is a major and complex operation to remove the head of the pancreas. It is most often done to treat cancer, but can also be used for other conditions like non-cancerous tumours or long-term swelling of the pancreas (chronic pancreatitis). For people with cancer, this surgery offers the best chance of long-term survival.\n\n**Why is nutrition important after this surgery?**\n\nThe Whipple procedure changes the digestive system, which can make it difficult for people to eat and absorb nutrients. After such a big operation, good nutrition is very important to help the body heal and recover.\n\nWithout proper nutrition, people are at risk of becoming malnourished (not getting enough nutrients), which can lead to more complications and a longer hospital stay. Doctors use several different methods to feed people after surgery:\n\n– **Oral feeding:** eating and drinking normally, starting with liquids and moving to solid food.\n– **Enteral feeding:** giving liquid food through a thin tube that goes directly into the stomach or intestine. The tube can be placed through the nose or through a small cut in the belly.\n– **Parenteral nutrition:** giving liquid nutrients directly into the bloodstream through a drip in a vein.\n\n**What did we want to find out?**\n\nWe wanted to find out which way of feeding people after a Whipple procedure is best for recovery. We looked at how different feeding methods affected:\n\n– how long people stayed in the hospital\n– complications after surgery, such as infections, bleeding, or leakage of digestive fluids from the pancreas.\n\n**What did we do?**\n\nWe searched for studies that compared different ways of feeding adults while they were in the hospital recovering from a Whipple procedure. We compared and summarized the results of these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 17 studies that included a total of 1897 people. The studies compared different types of enteral feeding, parenteral nutrition, and normal oral feeding.\n\nOur main findings were:\n\n**Tube feeding into the intestine versus feeding into a vein**\nCompared to feeding into a vein, feeding through a tube placed into the intestine during surgery:\n– probably shortens the time people spend in the hospital by about 1 to 2 days.\n– may make little to no difference to the risk of complications like leakage of digestive fluids, bleeding, or the stomach emptying too slowly. However, we are uncertain about these results.\n\n**Tube feeding through the nose versus feeding into a vein**\nCompared to feeding into a vein, feeding through a tube that goes through the nose into the intestine:\n– may make little to no difference to the length of hospital stay or the risk of most complications.\n– may slightly increase the risk of leakage of digestive fluids from the pancreas.\n\n**Tube feeding into the intestine versus eating and drinking normally**\nWe do not know if there is a difference between these two feeding methods for length of hospital stay or the risk of complications. The evidence is very uncertain.\n\nFor all comparisons, we found no clear difference in the number of deaths, but the evidence was very uncertain.\n\n**What are the limitations of the evidence?**\n\nWe have little confidence in most of the evidence we found. This is because many of the studies were very small, and there were some concerns about how the studies were carried out. This means that future research could change our conclusions.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 748,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 44,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 82,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 183,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 62.11449197860965,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.818877005347591,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.831711229946524,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.626310160427803,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.468449197860963,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.67379679144385,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.704545454545454,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.35281229946524,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 261.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 106,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 207,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 207.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 748,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 748 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:23.859909"
+}

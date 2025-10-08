@@ -1,0 +1,162 @@
+{
+  "id": "CD012940.PUB3",
+  "draft": "Is re-feeding gastric residuals (the food that comes back up into the tube) better than discarding them for improving growth in premature babies?\n\n- Re-feeding gastric residuals in premature babies may have little or no effect on important clinical outcomes such as time to regain birth weight, risk of necrotising enterocolitis (a serious condition where a portion of the bowel dies), and all-cause mortality before hospital discharge, with no reported harmful effects.\n- Because of limited evidence, the benefits and risks of re-feeding gastric residuals in premature babies are unclear, showing that more research is needed to help guide treatment decisions.\n- Future research should focus on conducting large, well-designed studies to assess the efficacy and safety of re-feeding gastric residuals in premature babies, which would provide more certain evidence to guide healthcare decisions and improve outcomes for these vulnerable babies.\n\nWhat is the problem of gastric residuals in premature babies?\nPremature babies often have trouble digesting food, and as a result, they may have leftover food in their stomachs, known as gastric residuals. This can be a problem because it may cause vomiting, necrotising enterocolitis (a serious infection of the intestine), or sepsis (a life-threatening infection). To manage this issue, healthcare providers regularly check the amount of gastric residuals in premature babies who are being fed through a tube. However, there is no clear consensus on whether to re-feed these gastric residuals to the baby or discard them.\n\nWhat did the review authors want to find out?\nThe review authors aimed to determine whether re-feeding gastric residuals to premature babies is more effective and safer than discarding them. They wanted to find out if re-feeding gastric residuals can improve growth and reduce the risk of complications such as necrotising enterocolitis, sepsis, and death. They also wanted to know if re-feeding gastric residuals can help premature babies regain their birth weight faster, establish full tube feeding sooner, and reduce the need for total parenteral nutrition (intravenous feeding).\n\nHow did we do the review?\nWe searched for studies comparing re-feeding and discarding gastric residuals in premature babies, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found one study that involved 72 premature babies. Re-feeding gastric residuals to premature babies may make little to no difference to several important clinical outcomes, including the risk of necrotising enterocolitis, all-cause mortality before hospital discharge, time to establish full tube feeding, and in-hospital weight gain. However, it is unclear if re-feeding gastric residuals has an effect on the number of episodes of feed interruption lasting for 12 hours or more.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the study was very small, and because it is possible that people in the studies were aware of which treatment they were getting.\n\nHow up to date is this review?\nThe evidence is up to date to February 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 525,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 25,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 78,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 138,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 45.777714285714296,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.084952380952384,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.144514285714287,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.822399999999995,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.228571428571428,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 56.80952380952381,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.9523809523809526,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.9498743710662,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.616152380952381,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 212,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 108,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 167,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 525,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 525 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 4,
+        "P75_count": 11,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 61.111111111111114,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that passes all critical checks for accuracy and completeness. However, several sentences are too long and complex for a lay audience, which could make the key findings difficult to understand. To improve clarity, please focus on the following 3 areas:\n\n1. **Break up long sentences in the key messages.** Long sentences can be hard for readers to follow.\n   - **Original:** 'Future research should focus on conducting large, well-designed studies to assess the efficacy and safety of re-feeding gastric residuals in premature babies, which would provide more certain evidence to guide healthcare decisions and improve outcomes for these vulnerable babies.' (41 words)\n   - **Suggestion:** 'Future research should focus on large, well-designed studies to assess the safety and benefits of re-feeding gastric residuals in premature babies. This would provide more certain evidence to guide healthcare decisions and improve outcomes for this vulnerable group.'\n\n2. **Simplify the main finding in the 'What did we find?' section.** Presenting multiple outcomes in one sentence can be overwhelming.\n   - **Original:** 'Re-feeding gastric residuals to premature babies may make little to no difference to several important clinical outcomes, including the risk of necrotising enterocolitis, all-cause mortality before hospital discharge, time to establish full tube feeding, and in-hospital weight gain.' (40 words)\n   - **Suggestion:** 'Re-feeding gastric residuals to premature babies may make little to no difference to several important outcomes. These include the risk of necrotising enterocolitis, death before hospital discharge, the time needed to establish full tube feeding, and weight gain in the hospital.'\n\n3. **Make the list of goals in the 'What did the review authors want to find out?' section easier to read.**\n   - **Original:** 'They also wanted to know if re-feeding gastric residuals can help premature babies regain their birth weight faster, establish full tube feeding sooner, and reduce the need for total parenteral nutrition (intravenous feeding).' (35 words)\n   - **Suggestion:** Consider breaking this into a list to improve scannability: 'They also wanted to know if re-feeding gastric residuals helps premature babies: - regain their birth weight faster; - establish full tube feeding sooner; and - reduce the need for intravenous feeding.'\n\nThese changes will help address the high average sentence length (25 words) noted in the linguistic analysis and make the summary much easier for patients and their families to read and understand.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical PLS patterns, with 12 of 18 metrics (66.7%) falling in the best quartile. However, the analysis identified two key areas for improvement. The average 'words_per_sentence' (25.0) and the count of 'long_words' (167.0) are both in the P90 range, indicating that sentences are longer and use more complex vocabulary than is typical for a Plain Language Summary. Addressing these two areas would significantly improve readability."
+    }
+  ]
+}

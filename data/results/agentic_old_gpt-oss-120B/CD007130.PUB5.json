@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007130.PUB5",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is home‑based cardiac rehabilitation (exercise and education program that patients can do at home, often using apps or video calls) as effective as centre‑based cardiac rehabilitation (exercise program delivered in a hospital, gym or community centre) for people recovering from a heart attack, heart surgery or heart failure?  \n\nKey messages  \n- We found that home‑based cardiac rehabilitation works about as well as centre‑based rehabilitation for survival, exercise capacity (how much physical work a person can do) and health‑related quality of life (how health affects daily life and wellbeing). No extra harms were reported, but the evidence is limited and not very strong.  \n- Completion rates and costs are similar for both approaches, so we can let patients choose the option that fits their preferences and local circumstances.  \n- We need more research to confirm long‑term effects, to test other heart conditions, and to explore hybrid models that combine home‑based and centre‑based elements.  \n\nWhy is cardiac rehabilitation needed?  \nCardiovascular disease (disease of the heart and blood vessels) is the leading cause of death worldwide. When someone experiences a myocardial infarction (a heart attack caused by blocked blood vessels), heart failure (the heart cannot pump enough blood), angina (chest pain) or undergoes revascularisation (procedures that restore blood flow, such as angioplasty or bypass surgery), they often feel weak, lose fitness and face a high risk of another event. Cardiac rehabilitation is a process that helps them recover, stay active and lower future risk. Traditionally this programme is centre‑based, with supervised exercise classes and advice on diet, medication and lifestyle. More recently, home‑based programmes that use digital or telehealth (health care delivered from a distance using technology) have been developed to reach people who cannot travel easily, for example during the COVID‑19 pandemic.  \n\nWhat did we want to find out?  \nWe aimed to compare two ways of delivering cardiac rehabilitation:  \n- programmes run in a centre with staff supervision (centre‑based), and  \n- programmes that patients can do at home, which may include digital or tele‑health support (home‑based).  \n\nWe asked whether the home‑based approach is as good as the centre‑based one for:  \n- mortality (death rate),  \n- morbidity (rate of further heart problems),  \n- exercise capacity,  \n- health‑related quality of life, and  \n- modifiable cardiac risk factors (changeable factors such as smoking, diet, physical activity, blood pressure or cholesterol).  \n\nHow did we look for evidence?  \nWe performed a systematic (planned, comprehensive) search for randomised controlled trials that compared home‑based with centre‑based cardiac rehabilitation in adults with heart disease. We included trials that reported at least one of the outcomes above. We extracted data on all‑cause mortality, exercise capacity, health‑related quality of life and cardiovascular risk‑factor levels, and we pooled the results using meta‑analysis. We assessed the certainty of the evidence with the GRADE framework (a system that rates how certain we are about research results).  \n\nWhat did we find?  \nThe 2022 update added three new trials, giving a total of 24 trials with 3,046 participants who had experienced a myocardial infarction, revascularisation or heart failure.  \n\n- Mortality and major morbidity showed no clear difference between home‑based and centre‑based programmes.  \n- exercise capacity improved similarly in both groups.  \n- Health‑related quality of life improved to a comparable extent in both settings.  \n- Most modifiable risk factors (blood pressure, cholesterol, smoking, physical activity) changed similarly with either approach.  \n- Completion rates and costs were alike for the two models.  \n\nMany trials were small and had methodological limitations such as lack of allocation concealment and blinding. Because of these issues, the certainty of the evidence ranged from moderate to low. Ongoing trials (14 registrations) may provide clearer answers in the future.  \n\nWhat are the limitations?  \nWe have little confidence in the current evidence because participants often knew which programme they were receiving, and most studies were small. Reporting of trial methods was frequently incomplete, which reduces certainty.  \n\nHow current is the evidence?  \nWe updated our previous review and included studies published up to September 2022.  \n\nIn summary, home‑based cardiac rehabilitation appears to work as well as centre‑based rehabilitation for the main outcomes we examined, but the evidence is not strong. Decisions about which model to use should consider patient preference, local resources and the need for further high‑quality research.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 722,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.62857142857143,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 37,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 37.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 233,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.396722991689785,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.773148397309061,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.9841610605461,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.603157894736839,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.334531064503363,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.20751879699248,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.514285714285714,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.165525060596439,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.327692378314207,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 334,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 334.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 182,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 228,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 722,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 722 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:52.230009"
+}

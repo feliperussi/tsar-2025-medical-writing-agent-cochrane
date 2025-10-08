@@ -1,0 +1,162 @@
+{
+  "id": "CD015089.PUB2",
+  "draft": "How accurate are the head impulse, nystagmus, and test of skew examinations (tests that check how the eyes move and are aligned) for diagnosing the cause of severe dizziness?\nWe looked at how well these tests can identify the cause of severe dizziness. \n- The HINTS (head impulse, nystagmus, and test of skew examinations) and HINTS Plus examinations seem to be good at identifying a central cause (a cause related to the central nervous system, such as a stroke) for acute vestibular syndrome (AVS, a condition characterized by severe dizziness), especially when performed by trained clinicians in the emergency department, but the evidence is of low certainty, which means we are not very confident in these findings.\n- No harmful effects of using these examinations were reported in the studies, but more research is needed to confirm their benefits and potential harms.\n- Future research should focus on conducting high-quality studies to better understand the accuracy and usefulness of the HINTS and HINTS Plus examinations in various situations.\n\nWhat is acute vestibular syndrome and why is it a problem?\nAcute vestibular syndrome (AVS) is a type of dizziness that can include severe vertigo (a spinning sensation), nausea and vomiting, nystagmus (involuntary eye movements), or unsteadiness. It's a common reason for people to seek medical care. AVS can be caused by either peripheral (related to the inner ear) or central (related to the brain) problems. Determining the cause is crucial because the treatment and outcomes differ significantly depending on whether the cause is peripheral or central.\n\nWhat are the challenges in diagnosing the cause of acute vestibular syndrome?\nDiagnosing the cause of AVS can be challenging. Clinicians use various methods, including risk factors, patient history, examination findings, and advanced imaging like magnetic resonance imaging (MRI), to determine the cause. One examination technique used is the head impulse, nystagmus, and test of skew (HINTS) examination, which includes assessing eye movements in response to head turns, the direction of involuntary eye movements, and whether the eyes are aligned or misaligned.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out how accurately the HINTS and HINTS Plus examinations can identify a central cause of AVS. They wanted to determine how well these examinations can correctly identify patients with a central cause of AVS, which is essential for appropriate treatment and management.\n\nWhat methods did the review authors use?\nWe searched for studies on the HINTS and HINTS Plus examinations for diagnosing central causes of acute vestibular syndrome, summarized their results, and evaluated our confidence in the evidence.\n\nWhat did we find?\nWe found 16 studies that involved 2024 participants with acute vestibular syndrome. The mean age of the participants was 60 years, with 981 women and 1043 men. Most studies were conducted in the emergency department, with half performed by neurologists. The studies assessed the diagnostic accuracy of the HINTS and HINTS Plus examinations, with or without video assistance, for identifying a central etiology for AVS. \n- The main test, called the clinical HINTS examination, gave an accurate result for most people.\n- It correctly identified a central cause (like a stroke) in about 94 out of 100 people who had one.\n- It correctly ruled out a central cause in about 87 out of 100 people who did not have one.\nAdding a hearing test (HINTS Plus) or using video goggles gave similar, but more varied, results. However, we have less confidence in the evidence for these other tests.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sample sizes, potential lack of blinding (participants may have known which treatment they received), and incomplete reporting of outcomes across the studies.\n\nIs the evidence up to date?\nThe evidence is up to date to September 2022.\n\nFuture research should include more high-quality studies of the HINTS and HINTS Plus examination, assessment of inter-rater reliability across users, accuracy across different providers, specialties, and experience, and direct comparison with no HINTS or MRI to assess the effect on clinical care.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 699,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.84375,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 57,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 204,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 204.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 44.389774007510766,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.494441613018598,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.765608905579398,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.900028612303288,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.492864806866955,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.745037553648075,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.75,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.165525060596439,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.431075178826896,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 281,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 281.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 153,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 153.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 216,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 699,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 699 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 9,
+        "P75_count": 3,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 50,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 16.666666666666664,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks for accuracy and completeness have passed. However, the draft is not approved because its language is too complex and technical for a lay audience, which would significantly hinder reader understanding. The vocabulary and sentence structure are more suited to a scientific abstract than a plain language summary.\n\nHere are the top 3 improvements needed:\n\n1. **Simplify Key Messages and Reduce Jargon:** The first key message is a 69-word sentence packed with technical terms and acronyms. This is overwhelming for a reader's first introduction to the topic.\n   - **Problematic text:** \"The HINTS (head impulse, nystagmus, and test of skew examinations) and HINTS Plus examinations seem to be good at identifying a central cause (a cause related to the central nervous system, such as a stroke) for acute vestibular syndrome (AVS, a condition ...).\"\n   - **Suggested rewrite:** \"We looked at tests that check eye movements to find the cause of severe dizziness (acute vestibular syndrome, or AVS). These tests are called HINTS and HINTS Plus. We found the tests seem to be good at finding serious causes, like a stroke, when done by trained staff in an emergency room. However, the evidence for this is not very strong, so we are not very confident in the results.\"\n\n2. **Use Active Verbs Instead of Noun-Heavy Phrases (Nominalizations):** The text often uses abstract nouns instead of direct verbs, making it dense and difficult to read. This is most evident in the final paragraph.\n   - **Problematic text:** \"Future research should include more high-quality studies of the HINTS and HINTS Plus examination, assessment of inter-rater reliability across users, accuracy across different providers, specialties, and experience, and direct comparison with no HINTS or MRI to assess the effect on clinical care.\"\n   - **Suggested rewrite:** First, add a question-based subheading like \"What research is still needed?\". Then, rewrite the sentence using a bulleted list with active verbs: \"In the future, researchers should:\\n- Run more high-quality studies on the HINTS and HINTS Plus tests.\\n- Check if different healthcare workers get the same results when using the tests.\\n- Directly compare the tests against using an MRI scan to see how they affect patient care.\"\n\n3. **Remove Redundancy and Improve Flow:** Some sections repeat information unnecessarily, making the text longer and harder to follow.\n   - **Problematic text:** \"The review authors wanted to find out how accurately the HINTS and HINTS Plus examinations can identify a central cause of AVS. They wanted to determine how well these examinations can correctly identify patients with a central cause of AVS, which is essential for appropriate treatment and management.\"\n   - **Suggested rewrite:** \"We wanted to find out how well the HINTS and HINTS Plus tests can identify serious causes of AVS (like a stroke). Finding the correct cause is important for giving patients the right treatment.\"\n\n**Supporting Evidence:** These editorial suggestions are strongly supported by the linguistic analysis, which found the draft's vocabulary is significantly more complex than is typical for a PLS. Five metrics related to word complexity (smog_index ... ) were rated 'BEYOND_P90', and the use of noun-heavy phrases (nominalization) was also high (P90).",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft has moderate conformity with typical PLS patterns. While sentence length and structure are within the median range, the vocabulary is significantly more complex than is typical. Five key metrics—noun count, SMOG index, complex words (both general and Dale-Chall), and long words—are rated 'BEYOND_P90', indicating the text is much denser and uses more difficult vocabulary than most plain language summaries. Nominalization (the use of noun forms of verbs) is also high (P90)."
+    }
+  ]
+}

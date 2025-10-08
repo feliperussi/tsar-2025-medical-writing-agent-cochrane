@@ -1,0 +1,162 @@
+{
+  "id": "CD013474.PUB2",
+  "draft": "What are the benefits and harms of maintenance therapy (treatment to prevent cancer from coming back) for people with chronic lymphocytic leukaemia (a type of blood cancer)?\n\nWhat is chronic lymphocytic leukaemia?\nChronic lymphocytic leukaemia (CLL) is a type of cancer that affects the blood and bone marrow. It is the most common type of leukaemia in adults and is currently incurable. CLL can cause a range of problems, including an increased risk of infections, anaemia (a condition where the body has a lower than normal number of red blood cells), and bleeding.\n\nWhat are the current treatment options for chronic lymphocytic leukaemia?\nThe current treatment options for CLL include chemotherapy (drugs that kill cancer cells), targeted therapy (drugs that attack specific cancer cells), and immunotherapy (using the body's immune system to fight cancer). Maintenance therapy is another approach that involves giving treatment to prevent the disease from coming back after it has been controlled. This can include drugs such as monoclonal antibodies (a type of protein that attaches to specific cells, including cancer cells), immunomodulatory agents (medicines that modify the immune system), and targeted therapies.\n\nWhat did we want to find out?\nWe wanted to find out the benefits and harms of maintenance therapy for people with CLL. We looked at treatments like monoclonal antibodies and immunomodulatory drugs to see if they helped people live longer, stopped the cancer from returning, and improved quality of life. We also looked for harms, like side effects and infections.\n\nWhat did we find?\nWe found 11 studies that involved 2393 people with chronic lymphocytic leukaemia. The median age of participants was 54.1 to 71.7 years, and 59.5% were males. The studies compared different maintenance therapies, including monoclonal antibodies and immunomodulatory drugs, with either a placebo (a dummy treatment) or observation (no active treatment). Maintenance therapy for chronic lymphocytic leukaemia probably stops the cancer from getting worse for longer. However, it is not clear if it helps people live longer overall. The therapy may also cause more harmful or unwanted side effects.\n\nWhat are the key messages of this review?\n- Maintenance therapy for chronic lymphocytic leukaemia may improve progression-free survival (the length of time during and after treatment that a patient lives with the disease but it does not get worse). However, its effects on overall survival (how long people live) are unclear, and it may increase unwanted effects such as serious adverse events (harmful or unwanted effects of treatment).\n- The benefits and harms of different types of maintenance therapy, such as anti-CD20 monoclonal antibodies and immunomodulatory drugs, vary, and more research is needed to understand their effects, especially in the long term.\n- Future studies should investigate the effects of maintenance therapy on health-related quality of life (how well or poorly people feel and function in their daily lives), and compare the benefits and harms of different maintenance therapies, to help people with chronic lymphocytic leukaemia and their healthcare providers make informed decisions about treatment.\n\nThe evidence is limited because the studies were very small, participants may have known which treatment they received, and not all studies reported data on all outcomes of interest. The evidence is up to date to January 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 549,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.96,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 24,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 42.15871475409838,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.83450928961749,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.640491803278692,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.926848816029146,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.944291438979963,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 54.01828779599271,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.04,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.770329614269007,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.193277930783243,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 247,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 549,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 549 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 6,
+        "P75_count": 5,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a solid draft that passes all critical checks for accuracy and completeness. However, it needs revisions to improve clarity for a lay audience. The language is often too technical and noun-heavy, making key concepts difficult to grasp. The feedback below focuses on simplifying complex sentences, defining jargon more clearly, and making the main findings more direct.\n\n### Top 3 Improvements Needed:\n\n**1. Simplify complex sentences and reduce noun-heavy phrasing.**\nSome sentences, especially in the key messages, are long and use abstract nouns instead of direct verbs. This makes them hard to follow.\n\n- **Problematic sentence:** \"Maintenance therapy for chronic lymphocytic leukaemia may improve progression-free survival (the length of time during and after treatment that a patient lives with the disease but it does not get worse).\"\n- **Why it's a problem:** This single sentence tries to introduce a finding and define a complex term at the same time. Using the noun phrase \"improve progression-free survival\" is less direct than using a verb.\n- **Suggested rewrite:** \"Maintenance therapy may stop the cancer from getting worse for a longer time. This is known as 'progression-free survival'.\"\n\n**2. Make definitions of technical terms simpler and more concrete.**\nThe definitions provided for different drug types are technically correct but could be clearer for someone without a medical background.\n\n- **Problematic phrase:** \"...immunomodulatory agents (medicines that modify the immune system)...\"\n- **Why it's a problem:** The word \"modify\" is vague. A simpler, more active verb would help readers understand what the medicine actually does.\n- **Suggested rewrite:** \"...immunomodulatory agents (medicines that change how your immune system works)...\"\n\n**3. Rephrase the limitations section to remove jargon.**\nThe final paragraph explaining the limitations of the evidence uses terms that may not be familiar to all readers.\n\n- **Problematic phrase:** \"...and not all studies reported data on all outcomes of interest.\"\n- **Why it's a problem:** The term \"outcomes of interest\" is research jargon. It's better to be specific and use plain language.\n- **Suggested rewrite:** \"...and not all studies reported on the important effects we were looking for, such as side effects or quality of life.\"\n\nBy addressing these points, you will make the summary significantly easier for patients and their families to read and understand.",
+      "pls_evaluation_summary": "The PLS evaluation shows moderate conformity with typical patterns. While the draft performs well on structural metrics like sentence length and active voice, it deviates significantly on vocabulary complexity and word choice. Six metrics, including the SMOG index, Dale-Chall readability, and counts for nominalizations, nouns, and complex words, fall into the P90 range. This indicates that the text's vocabulary is more complex and its sentence structure is more noun-heavy than is typical for a Plain Language Summary, supporting the need for simplification."
+    }
+  ]
+}

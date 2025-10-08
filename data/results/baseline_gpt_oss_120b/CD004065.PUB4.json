@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004065.PUB4",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "What are the benefits and harms of steroids and biologic medicines for eosinophilic esophagitis (EoE)?\n\nKey messages  \n- Steroids cause a large reduction in the eosinophil inflammation that characterises EoE and may slightly improve symptoms; biologic medicines probably also cause a large reduction in inflammation and probably improve symptoms a little. Both treatments may make little or no difference to the appearance of the esophagus on endoscopy and do not clearly change how often people stop treatment because of side‑effects.  \n- The evidence is strong for the big reduction in inflammation with steroids, moderate for the big reduction with biologics, but low for most other effects because many studies were small or did not keep participants blind to the treatment.  \n- More large, well‑designed studies are needed, especially to see whether these medicines improve the look of the esophagus, quality of life, and long‑term safety.\n\nWhat is eosinophilic esophagitis?  \nEosinophilic esophagitis (EoE) is a chronic condition where the lining of the food pipe (esophagus) becomes inflamed because many white blood cells called eosinophils gather there. People with EoE often have trouble swallowing, food getting stuck, or pain when eating. The disease does not go away on its own, so long‑term treatment is needed.\n\nWhy do we need medicines for EoE?  \nCurrent treatment goals are to ease swallowing problems, clear the eosinophils from the esophagus, improve the look of the esophagus when doctors look inside it, keep quality of life good, and avoid side‑effects or future complications. Medicines that have been used include steroids (anti‑inflammatory drugs), newer biologic medicines (lab‑made proteins that target specific parts of the immune system), and acid‑reducing drugs.\n\nWhat did we want to find out?  \nWe wanted to know how well steroids and biologic medicines work compared with doing nothing (placebo) and whether they cause any important harms.\n\nWhat did we do?  \nWe searched major medical databases for studies that compared steroids or biologic medicines with placebo in people with EoE. We combined the results of those studies and judged how confident we could be in the findings.\n\nWhat did we find?  \nWe identified 41 studies that together included 3 253 people with EoE, both children and adults. Most studies looked at people whose disease was active at the start. The studies compared many different medicines, but the main results focused on steroids versus placebo and biologics versus placebo.\n\nSteroids versus placebo  \n- Steroids probably cause a large reduction in the eosinophil inflammation in the esophagus.  \n- Steroids may reduce swallowing‑related symptoms slightly.  \n- Steroids may make little or no difference to how the esophagus looks when examined with a camera.  \n- Steroids may reduce the number of people who stop treatment because of side‑effects slightly.\n\nBiologics versus placebo  \n- Biologics probably cause a large reduction in eosinophil inflammation in the esophagus.  \n- Biologics probably reduce swallowing‑related symptoms slightly.  \n- Biologics may make little or no difference to the endoscopic appearance of the esophagus.  \n- Biologics may make little or no difference to the number of people who stop treatment because of side‑effects.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in many of the results because the studies were small and because some people may have known which treatment they were receiving, which can affect outcomes. Our confidence is moderate for the evidence that biologic medicines reduce tissue inflammation because those studies were a bit larger and better conducted, but still not perfect.\n\nHow up to date is this evidence?  \nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 604,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 33,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.49343129139072,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.487144039735103,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.777698675496687,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.058278145695365,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.430794701986756,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.66970198675497,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.8125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.816653826391969,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.582954966887417,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 216,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 119,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 119.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 604,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 604 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:55.401888"
+}

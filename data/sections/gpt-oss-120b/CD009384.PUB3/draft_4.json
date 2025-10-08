@@ -1,0 +1,162 @@
+{
+  "id": "CD009384.PUB3",
+  "draft": "Is giving zinc supplements (a mineral) effective at reducing death, illness, and poor growth in children aged 6 months to 12 years?\n\nWhat are the key messages?\n- Zinc supplements do not lower overall death rates (high‑certainty evidence – we are very confident the result is correct).\n- They probably do not change death from diarrhoea (moderate‑certainty evidence – we are fairly confident).\n- They probably reduce deaths from lower‑respiratory infections and malaria, but the confidence intervals are wide (moderate‑certainty evidence).\n- Zinc probably reduces the number of diarrhoea episodes (moderate‑certainty evidence).\n- Zinc probably leads to a small increase in height (moderate‑certainty evidence).\n- Zinc increases the chance that a child will experience vomiting (high‑certainty evidence).\n- When zinc is taken together with iron, the benefits for diarrhoea reduction and growth appear weaker, suggesting iron may lessen zinc’s positive effects.\n- More research that follows children for longer periods and includes larger numbers is needed, especially to clarify any impact on death from specific illnesses and to better understand the balance of benefits and side effects such as vomiting.\n\nWhy is zinc important for children’s health?\nMany children, especially in low‑ and middle‑income countries, do not get enough zinc in their diet. Zinc is a mineral that helps the immune system work, protects against infections, and supports normal growth of the body and bones. When children lack zinc, they are more likely to become sick with diarrhoea (watery stools), pneumonia (a type of lower‑respiratory‑tract infection), and malaria, and they may grow more slowly or become shorter than expected. These problems can lead to higher rates of death (mortality) and illness (morbidity).\n\nWhat did the researchers want to find out about zinc supplementation?\nWe wanted to know whether giving zinc supplements to healthy children aged 6 months to 12 years can reduce the risk of death and illness and help them grow better. Specifically, we asked if daily preventive zinc (usually 10–15 mg as a syrup) lowers overall mortality, reduces deaths caused by diarrhoea, pneumonia, or malaria, decreases the number of illness episodes, and improves growth measures such as height. We also looked for any unwanted side effects.\n\nHow did we find the evidence?\nWe searched several databases for randomised controlled trials that compared giving zinc with no zinc, a placebo, or a waiting‑list control in children aged 6 months to 12 years. We excluded hospitalised children, children with chronic diseases, and studies that used zinc fortification, sprinkles, or therapeutic zinc. Two reviewers screened studies, extracted data, and assessed risk of bias. We used the GRADE approach to rate our confidence in the evidence.\n\nWhat did we find?\nWe looked at 96 trials involving 219,584 children. Most participants were under five years old. The trials were conducted in 34 countries, 87 % of which were low‑ or middle‑income. Zinc was usually given as a syrup containing zinc sulfate at a daily dose of 10–15 mg. The median follow‑up time was 26 weeks.\n\nWhat are the effects of giving zinc?\n- Overall death rates: little or no difference (high‑certainty evidence).\n- Death from diarrhoea: probably no change (moderate‑certainty evidence).\n- Death from lower‑respiratory infections and malaria: probably reduced, but confidence intervals are wide (moderate‑certainty evidence).\n- Diarrhoea episodes: probably reduced (moderate‑certainty evidence).\n- Respiratory infections overall: little or no difference (high‑certainty evidence).\n- Height: probably a small increase (moderate‑certainty evidence).\n- Vomiting: more children experienced at least one episode (high‑certainty evidence).\n\nWhat are the limitations of the evidence?\nOur confidence in many outcomes is only moderate because there are not enough studies to be certain about the results. Some outcomes have wide confidence intervals, meaning the true effect could be larger or smaller than we estimate.\n\nHow up‑to‑date is this review?\nWe updated the review with evidence that was available up to February 2022.\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 657,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 38,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.289473684210527,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 60,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 35,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 61.677965032444135,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.951677080829931,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.778937755347272,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.408888888888885,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.291740767443724,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.752182968837616,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.921052631578948,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.445523142259598,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.586933846030601,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 280,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 280.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 154,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 154.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 187,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 657,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 657 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft passes the required structural checks, but several clarity problems would likely confuse a lay reader. 1) **Jargon not explained** – terms such as “randomised controlled trials”, “GRADE approach”, “confidence intervals”, and “high‑certainty evidence” appear without plain‑language definitions. 2) **Overly long sentence** – the sentence \"When children lack zinc, they are more likely to become sick with diarrhoea (watery stools), pneumonia (a type of lower‑respiratory‑tract infection), and malaria, and they may grow more slowly or become shorter than expected.\" contains 34 words and packs multiple ideas together. 3) **Passive, noun‑heavy phrasing** – e.g., \"The trials were conducted in 34 countries, 87 % of which were low‑ or middle‑income.\" This uses passive voice and many nouns, making the information harder to follow. 4) **Technical certainty language** – phrases like “high‑certainty evidence” and “moderate‑certainty evidence” are repeated in the bullet list and may be unclear to non‑experts. 5) **Bullet‑point wording** – the list items could be phrased more directly for a patient audience.\n\n**Suggested rewrites**:\n- Jargon: Replace \"We searched several databases for randomised controlled trials… We used the GRADE approach to rate our confidence in the evidence.\" with \"We looked for studies where children were randomly assigned to receive zinc or not (these are called randomised trials). We checked how reliable each study was using a system called GRADE, which tells us how confident we can be in the results. When we talk about ‘confidence intervals’, we mean the range where the true effect is likely to be.\"\n- Long sentence: Split into two sentences – \"When children do not get enough zinc, they are more likely to get sick with diarrhoea (watery stools) or pneumonia (a type of lower‑respiratory‑tract infection). They are also at higher risk of malaria and may grow more slowly or become shorter than expected.\"\n- Passive phrasing: Change \"The trials were conducted in 34 countries, 87 % of which were low‑ or middle‑income.\" to \"Researchers carried out the trials in 34 countries, and 87 % of them were low‑ or middle‑income.\"\n- Certainty language: Replace \"(high‑certainty evidence)\" with \"(we are very sure about this result)\" and \"(moderate‑certainty evidence)\" with \"(we are fairly sure about this result)\".\n- Bullet list: Rephrase as \"Overall death rates: little to no difference – we are very sure of this. Death from diarrhoea: probably no change – we are fairly sure. Death from lower‑respiratory infections and malaria: probably reduced, but the range of possible effects is wide – we are fairly sure. Diarrhoea episodes: probably reduced – we are fairly sure. Respiratory infections overall: little to no difference – we are very sure. Height: probably a small increase – we are fairly sure. Vomiting: more children had at least one episode – we are very sure.\"\n\n**Metric support**: The evaluation shows 15 passive‑voice constructions (P75) and 30 nominalizations (beyond P90), indicating a noun‑heavy, passive style. Complex‑word counts (154) and long‑word counts (187) are also well above typical PLS ranges, confirming the need to simplify wording and shorten sentences. These metric signals align with the editorial observations above.",
+      "pls_evaluation_summary": "The draft meets word‑count limits (657 words) and most readability indices are in the good range (e.g., Flesch‑Kincaid Grade 8.9, Flesch Reading Ease 61.7). However, several metrics deviate markedly: nominalizations (30, beyond P90), nouns (197, P90), SMOG index (14.4, P90), complex words (154, beyond P90), and long words (187, P90). Passive voice count is high (15, P75). These deviations indicate a noun‑heavy, passive style with many complex words, supporting the recommended simplifications."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011344.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**Is Automated Mandatory Bolus (AMB) Versus Basal Infusion (BI) for Maintenance of Epidural Analgesia in Labour Effective?**\n\n**What are the benefits and harms of AMB versus BI for maintaining labour epidural analgesia in women at term?**\n\nWe looked at 18 studies that compared AMB with BI in women who had labour epidural analgesia. We found that AMB was associated with lower incidence of breakthrough pain compared to BI. AMB was also associated with lower hourly LA consumption in bupivacaine equivalents. However, there were no significant differences between AMB and BI in the incidence of caesarean delivery, instrumental delivery, duration of labour analgesia, and Apgar scores.\n\n**What does this mean for patients?**\n\nAutomated mandatory bolus (AMB) may be a better option for maintaining labour epidural analgesia in women at term. It may reduce the incidence of breakthrough pain and lower hourly LA consumption. However, more research is needed to confirm these findings.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to 31 December 2022.\n\n**What are the limitations of the evidence?**\n\nThe evidence is of moderate certainty, and there may be differences in the initiation of epidural analgesia such as combined spinal-epidural (CSE) compared to epidural only, and medications used.\n\n**Key Messages**\n\n* Automated mandatory bolus (AMB) is associated with lower incidence of breakthrough pain compared to basal infusion (BI) for maintaining labour epidural analgesia in women at term.\n* There were no significant differences between AMB and BI in the incidence of caesarean delivery, instrumental delivery, duration of labour analgesia, and Apgar scores.\n* AMB may improve maternal satisfaction.\n\nNote: I have followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. I have used simple language, defined technical terms, and focused on what the findings mean for patients.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 334,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.916666666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 19,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 19.0 to >29.0 (median)"
+      },
+      "pronouns": {
+        "value": 16,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 73,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 40.22694860279441,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.105763473053894,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.233453093812372,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.666706586826344,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.668463073852294,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.44960079840319,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.486832980505138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.930625948103792,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 132,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 76,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 112,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 334,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 334 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 5,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 1,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.387474"
+}

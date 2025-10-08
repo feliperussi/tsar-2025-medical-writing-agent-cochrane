@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012532.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Are anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) effective for treating glioma (a type of brain tumor)? \n- For people with glioma, treatments that help the immune system fight cancer (called anti-PD-1 and anti-PD-L1 therapies) may not be effective. Most studies found these treatments did not help people live longer or stop the cancer from getting worse. However, this is based on low-quality evidence, so we cannot be certain of these results.\n- We have low-quality evidence about how effective these therapies are for treating glioma. We need more research to be sure about the benefits and harms of these treatments, especially for different groups, like people who were just diagnosed or whose cancer has returned.\n- Future studies should aim to provide higher-quality evidence about these treatments. We need to be more certain about their effects on a person’s quality of life (overall well-being) and their risk of serious side effects.\n\nWhat is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme is the most common and aggressive type of adult glioma (a kind of brain tumor). It has a poor prognosis, with a median survival of only 16 months. The tumor’s environment weakens the immune system, making it hard for the body to fight the cancer. Today’s treatments don’t work as well as we’d like, so we need to find new ways to help people live longer and feel better.\n\nWhat are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, immune checkpoint inhibitors allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effects of immune checkpoint inhibitors, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. We aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nHow did we find this information?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 7 studies that involved 1953 people with diffuse glioma. Most studies looked at an anti-PD-1 treatment for people with grade 4 glioma (the most aggressive type). Some people in the studies had just been diagnosed with the cancer, while for others it had come back after treatment. The studies compared anti-PD-1/PD-L1 antibodies to placebo or other therapies used alone or with other immune checkpoint inhibitors. Our main findings were:\n- For people whose cancer has returned: A drug called nivolumab probably offers no benefit. Combining another drug (pembrolizumab) with bevacizumab may also be ineffective. One very small study suggested giving pembrolizumab before and after surgery might help people live longer, but the evidence was very uncertain.\n- For people who are newly diagnosed: Adding nivolumab to radiotherapy probably has no benefit.\n- For older people: Adding nivolumab after initial treatment probably offers no benefit.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and the studies did not always report on the results we were looking for. These limitations are important. They make the results less reliable, so we cannot be certain about how well these therapies work for glioma.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 674,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.736842105263158,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 184,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.93210526315791,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.027368421052635,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.038732625331875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.497151335311571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.148149305013277,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.585506793690456,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.052631578947368,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.783426893643605,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 252,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 252.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 674,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 674 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:22.925394"
+}

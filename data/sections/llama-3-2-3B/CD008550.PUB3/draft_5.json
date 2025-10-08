@@ -1,0 +1,162 @@
+{
+  "id": "CD008550.PUB3",
+  "draft": "Pharmacological treatment of gastro-oesophageal reflux in children shows that omeprazole may or may not provide symptomatic benefit for infants, and proton pump inhibitors at various doses provide little to no symptomatic and endoscopic benefit for children; further studies are needed to determine effectiveness.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 44,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 1,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 44,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 44.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 4,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 4.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 14,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": -12.793181818181807,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from -12.8 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 25.97454545454546,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 29.15113636363636,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.2 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 19.208181818181817,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.2 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 27.6,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.6 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 89.45454545454545,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 89.5 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 20,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 6.3166247903554,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 10.0774,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.1 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 22,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 11,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 20,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 44,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 44 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 0,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 8,
+        "BELOW_P10_count": 3,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 0,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 44.44444444444444,
+        "BELOW_P10_percentage": 16.666666666666664,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The evaluation accurately pinpoints the main content gaps and readability problems in the draft PLS. The suggested changes are clear, actionable, and address jargon, sentence length, missing context, wordiness, and numeral consistency. Implementing these recommendations will make the summary more accessible to a lay audience while preserving the essential scientific information.",
+      "pls_evaluation_summary": "The draft PLS is complete and within the word limit, but it lacks a concise introductory summary, question‑style headings, and clear explanations of low‑certainty evidence. Long, technical sentences and insufficient methodological context reduce readability. Simplifying phrasing, breaking up complex sentences, adding brief methodological explanations, and using numerals consistently will improve clarity and adherence to plain‑language standards."
+    }
+  ]
+}

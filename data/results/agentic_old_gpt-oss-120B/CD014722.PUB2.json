@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do primary‑level (front‑line) health workers and community workers help prevent mental illness and improve well‑being in low‑ and middle‑income countries?\n\nKey messages\n- Front‑line health staff and community workers who deliver mental‑health programmes in low‑ and middle‑income countries can reduce anxiety, depression, distress and improve quality of life (how someone feels and functions day to day) for adults and children, and may lessen functional impairment (a loss of part or all of a physical or mental ability). The review found no important harmful effects.\n- Our confidence in these findings is limited because many trials had methodological weaknesses (flaws in the way a study is designed, done, or analysed that favour one result) and the results varied between studies. We therefore interpret the benefits cautiously.\n- Larger, well‑designed trials with longer follow‑up are needed to confirm the benefits, explore any harms and assess whether the approach is cost‑effective (whether the benefits are worth the resources used).\n\nWhy is preventing mental‑health problems important in low‑ and middle‑income countries?\nMental disorders such as depression, anxiety and post‑traumatic stress affect millions of people worldwide. In low‑ and middle‑income countries the burden is especially high because few trained mental‑health professionals are available, resources are unevenly distributed and stigma often stops people from seeking help. Many people never receive usual care (the care that a provider would normally give to their patients). Preventing problems before they start, or stopping them from getting worse, could reduce this burden. Prevention can be:\n- universal – offered to everyone, regardless of risk;\n- selective – targeted at groups with a higher chance of developing a problem (for example, people living in poverty);\n- indicated – aimed at individuals who already show early signs of a mental illness. Using community health workers or primary‑care staff to deliver these programmes is called task‑shifting and may help reach more people when specialists are scarce.\n\nWhat did the review aim to find out?\nWe wanted to know whether mental‑health promotion and prevention programmes delivered by primary‑level health workers or community workers improve mental‑health outcomes in low‑ and middle‑income countries. Specifically we examined:\n- how effective these worker‑delivered interventions (treatments, procedures or other actions taken to prevent or treat disease) are for universal, selective and indicated prevention in adults and children;\n- whether using these workers changes resource use and costs compared with usual care.\n\nHow did we find the evidence?\nWe searched databases for randomised trials that tested primary‑level or community‑worker programmes to promote mental health or prevent mental disorders in low‑ and middle‑income countries. We combined results across follow‑up periods and rated our confidence in the evidence using a standard assessment.\n\nWhat did we find?\nWe identified 113 randomised trials involving almost 33 000 participants from low‑, lower‑middle‑ and upper‑middle‑income nations. The programmes were delivered by nurses, doctors, community health workers or a mix of both. They fell into three groups: universal promotion, selective prevention and indicated prevention. All were compared with usual care or another control condition, and outcomes were measured up to two years after the intervention.\n\nOverall, the evidence suggests small but consistent benefits. For adults, universal programmes probably reduce anxiety slightly and may lower distress (emotional, social, spiritual or physical pain) or PTSD symptoms. Selective programmes probably reduce depressive symptoms by a moderate amount (medium‑sized improvement) and indicated programmes probably lessen functional impairment a little. For children, universal programmes may improve quality of life and lower depressive and anxiety symptoms modestly. Selective programmes probably reduce depressive symptoms and may lower distress or PTSD symptoms, while indicated programmes probably reduce functional impairment and depressive symptoms a little. The size of the benefits is generally small to moderate, and the certainty of the evidence ranges from moderate for most outcomes to low for a few.\n\nWhat are the limitations of the evidence?\nWe have limited confidence because participants often knew which treatment they received (performance bias), not all trials reported every outcome we wanted, and the studies varied in populations and delivery methods (clinical heterogeneity). These factors reduce the reliability of the pooled results.\n\nHow current is the evidence?\nThe evidence is up to date to November 2021.\n\nIn summary, delivering mental‑health promotion and prevention activities through front‑line health workers or community workers in low‑ and middle‑income countries can modestly improve mental‑health outcomes for both adults and children. More robust research is needed to confirm these findings and to determine whether the approach offers good value for money.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 749,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.029411764705884,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 84,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 227,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 227.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 43.17394545668736,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.710148825885494,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.449125107987122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.64886515353805,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.38586350428022,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 57.81045315322391,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.882352941176471,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.07669683062202,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.061443870258383,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.1 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 378,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 378.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 198,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 198.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 268,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 268.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 749,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 749 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 8,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 44.44444444444444,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:03.541073"
+}

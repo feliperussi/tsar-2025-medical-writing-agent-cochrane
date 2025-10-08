@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007491.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Is admission avoidance hospital at home a good alternative to staying in a hospital for older people?\n\n**Key messages**\n– We are moderately confident that admission avoidance hospital at home probably makes little or no difference to death rates, readmission rates, or how people feel about their health, but it probably reduces the chance of moving into residential care and probably lowers health‑service costs.\n– Older people with certain conditions may receive care at home for a short time, and they may be happier with the care they get.\n– More research is needed to see if the benefits seen in the studies apply to all older people and to understand the impact on caregivers and families.\n\n**What is admission avoidance hospital at home?**\nAdmission avoidance hospital at home is a way of giving people the same active treatment that would normally be provided in a hospital, but in their own home. Health professionals visit the home, give medicines, monitor the condition, and can move the person to a hospital if it becomes necessary. The care is always for a limited period, usually a few days to a brief stay.\n\n**Why is it important for older people?**\nOlder people often need hospital care for sudden illnesses or after a serious event such as a stroke. Hospital stays can be stressful, increase the risk of infections, and sometimes lead to a move into a residential care home. If the same care can be safely given at home, it might keep people in familiar surroundings and reduce the chance of moving into a care home.\n\n**What did we want to find out?**\nWe wanted to know whether giving older people care at home instead of in a hospital changes important outcomes such as death, readmission to hospital, living in a residential care home, how people feel about their health, satisfaction with care, length of stay, and costs.\n\n**How is admission avoidance hospital at home delivered?**\n– Health professionals visit the home and give medicines.\n– They monitor the condition and can bring the person to a hospital if needed.\n– The care lasts for a short, fixed period.\n\n**What did we do?**\nWe searched for studies that compared admission avoidance hospital at home with usual hospital care, combined the results, and judged how confident we were in the evidence.\n\n**What did we find?**\nWe included 20 studies that together involved about 3,100 participants aged 18 years or older. Four studies focused on chronic obstructive pulmonary disease, two on stroke recovery, seven on older adults with an acute medical problem, and the remaining studies included a mix of conditions. Most trials were well designed and had a low risk of bias.\n\n*Mortality* – Admission avoidance hospital at home probably makes little or no difference to death rates at six months.\n\n*Readmission* – The chance of being readmitted to hospital after the initial care probably makes little or no difference between home and hospital settings.\n\n*Residential care* – Admission avoidance hospital at home probably reduces the likelihood of moving into a residential care home at six months.\n\n*Self‑reported health* – People’s own reports of their health probably make little or no difference between the two settings.\n\n*Satisfaction* – People may feel more satisfied with the care they receive at home.\n\n*Length of stay* – The average time spent in a hospital setting is probably shorter when care is given at home.\n\n*Costs* – Admission avoidance hospital at home probably reduces the cost to the health service and may also lower overall societal costs.\n\n**What are the limitations of the evidence?**\nWe are moderately confident in the findings because the studies were generally well designed, but some uncertainty remains because not all trials reported every outcome and a few had small sample sizes. The evidence mainly comes from short‑term programmes and may not reflect long‑term effects.\n\n**How up to date is this evidence?**\nThe evidence is current up to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 675,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.285714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 32,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.28933333333336,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.05972486772487,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.885834920634917,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.72189629629629,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.773544973544972,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.21164021164021,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.704699910719626,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.570793650793651,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 240,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 240.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 136,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 136.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 675,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 675 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:13.953317"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007156.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: What treatments work best to improve mouth opening and reduce burning sensation in people with oral submucous fibrosis (a long‑lasting condition that tightens the mouth)?\n\nKey messages  \n- Antioxidant medicines (substances that protect cells from damage) taken systemically (affecting the whole body) probably reduce the burning feeling and may open the mouth a little more after a few months; mild side‑effects such as upset stomach have been reported, while serious side‑effects are rare and not well studied.  \n- Other options – pentoxifylline (a drug that improves blood flow), intralesional steroids (injections given directly into the tissue), physiotherapy (exercise‑based therapy) and similar drugs – show little or uncertain benefit for mouth opening or burning, and we have limited information on harms.  \n- We need larger, well‑designed randomised controlled trials (studies where participants are randomly assigned to treatment or comparison) that follow people longer, report outcomes that matter to patients’ daily lives, and clarify safety.\n\nWhat is oral submucous fibrosis and why does it matter?  \nOral submucous fibrosis (OSF) is a chronic disease (a condition that can be controlled but not cured) of the mouth lining. The cheeks and floor of the mouth become stiff and scarred, so the mouth narrows. People with OSF often feel severe pain, a burning sensation, and cannot open their mouth wide enough to chew, swallow or speak. This lowers quality of life (how someone feels and functions day to day). The main cause is chewing areca nut (the seed of the betel palm). OSF also raises the risk of oral cancer.\n\nWhat did we aim to find out?  \nWe wanted to know which treatments help people with OSF and are safe. We compared any intervention – medicines taken by mouth, injections, topical creams, surgery, physiotherapy, ultrasound or other alternative approaches – with placebo (something that looks like the treatment but contains no medicine) or no active treatment (no therapeutic intervention). We focused on outcomes that matter to patients: improvement in mouth opening measured as interincisal distance (the gap between the upper and lower front teeth when the mouth is open), reduction in burning measured with a visual analogue scale (a straight line where a person marks how strong a feeling is), ability to eat, chew and speak, quality of life and any side‑effects.\n\nHow did we look for evidence?  \nWe searched major databases for randomised controlled trials that compared a treatment with placebo or no active care. We included only trials that reported mouth opening, burning sensation or related clinical measures. We pooled results for each outcome using meta‑analysis and judged the certainty of the evidence with GRADE (a method to rate how confident we are that the evidence reflects the true effect).\n\nWhat did we find?  \nWe identified 30 randomised trials involving 2,176 adults with biopsy‑confirmed OSF. The trials tested antioxidants, pentoxifylline, other vasodilators, steroids, surgery, physiotherapy, ultrasound and various alternative approaches. Most trials were judged to be at high risk of bias (a judgment that a study’s design likely introduced errors). None reported whether participants returned to normal eating, chewing or speaking.\n\nWhat are the main results?  \n- Antioxidants probably reduce the burning feeling and may increase mouth opening by less than 10 mm after three to six months; the benefit is modest and based on moderate certainty evidence (research findings that are a reasonable but not perfect reflection of the true effect).  \n- Pentoxifylline may give a small increase in mouth opening.  \n- Intralesional steroids, hydrocortisone with hyaluronidase (a steroid combined with an enzyme that helps drugs spread), physiotherapy and other vasodilators show very uncertain effects; we cannot tell if they help or cause harms.  \n- Information on side‑effects for all treatments is also very uncertain, so we cannot be sure whether any cause serious adverse effects (unwanted or harmful effects).\n\nWhat are the limitations of the evidence?  \nWe have low confidence in many findings because most studies were small, may have been aware of the treatment they received, used different participants or delivery methods, and did not report all outcomes we wanted. These issues create high risk of bias and low‑certainty evidence (findings that are not very reliable because studies may be small or flawed).\n\nHow current is the evidence?  \nWe updated our previous review and included studies published up to September 2022.  \n\nWe conclude that antioxidants show the most promise, but the evidence is still modest. Larger, well‑designed trials that measure real‑world outcomes such as eating ability and quality of life are needed to confirm which treatments truly help and are safe.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 771,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.416666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 26,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 215,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.815371271076515,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.77106031128405,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.28463683527886,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.539143968871599,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.556290531776916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.210440985732816,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.166666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.025431387808041,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 340,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 340.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 154,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 154.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 222,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 222.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 771,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 771 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:52.450740"
+}

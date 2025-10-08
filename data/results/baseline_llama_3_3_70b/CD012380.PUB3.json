@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012380.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of interventions for chronic kidney disease in people with sickle cell disease?\n\nKey messages:\n* Due to a lack of robust evidence, the benefits and risks of most interventions for chronic kidney disease in people with sickle cell disease are unclear.\n* Hydroxyurea may improve the ability to concentrate urine and may make little or no difference to serious adverse events in children.\n* We are unsure if angiotensin-converting enzyme inhibitors have any effect on preventing or reducing kidney complications.\n* Future research should focus on determining the effects of interventions such as hydroxyurea, angiotensin-converting enzyme inhibitors, and red blood cell transfusions on kidney complications in people with sickle cell disease.\n\nIntroduction:\nWhat is sickle cell disease? Sickle cell disease is a genetic disorder that can cause severe pain, organ damage, and premature death. What are the kidney complications of sickle cell disease? Kidney disease is a common complication of sickle cell disease, which can lead to end-stage renal disease. What did we want to find out? We wanted to find out if any interventions can prevent or reduce kidney complications in people with sickle cell disease.\n\nWhat did we do? We searched for studies that compared interventions to prevent or reduce kidney complications in people with sickle cell disease. What did we find? We found three studies with 385 participants. Hydroxyurea may improve the ability to concentrate urine and may make little or no difference to serious adverse events in children. We are unsure if angiotensin-converting enzyme inhibitors have any effect on preventing or reducing kidney complications.\n\nWhat are the limitations of the evidence? We have little confidence in the evidence because the studies were small and had concerns about bias. How up to date is this evidence? The evidence is up to date to the search date of the review.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 317,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.095238095238095,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.93983175604629,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.206922036953582,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.756767312603273,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.750410094637221,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.230524260177257,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.22457563467027,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.095238095238095,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.21110255092798,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.8256323268739685,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 57,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 86,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 317,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 317 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 6,
+      "P75_count": 1,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:31.158906"
+}

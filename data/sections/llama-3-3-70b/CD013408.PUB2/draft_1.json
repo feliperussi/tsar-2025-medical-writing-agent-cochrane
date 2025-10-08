@@ -1,0 +1,162 @@
+{
+  "id": "CD013408.PUB2",
+  "draft": "# Do organised care services (where a team of healthcare professionals work together) reduce deaths and hospital stays for people with atrial fibrillation (a type of irregular heartbeat) compared to usual care?\n\n**Key Messages**\n- Organised care services (where a team of healthcare professionals work together) for people with atrial fibrillation (a type of irregular heartbeat) probably reduce deaths (all-cause mortality) compared to usual care, but may make little to no difference to hospital stays (all-cause hospitalisation), with no reported harmful effects.\n- The quality of the evidence is not strong, and more research is needed to confirm these findings and to compare different models of care organisation, including the use of digital health technologies (mHealth).\n- Future studies should investigate the long-term effects of organised care services on people with atrial fibrillation and explore the impact of different care models on patient outcomes, to provide more definitive answers to the question of how best to deliver care for this condition.\n\n**Introduction**\n### What is atrial fibrillation and why is it a problem?\nAtrial fibrillation, also known as AF, is a common heart rhythm condition in adults. It occurs when the upper chambers of the heart beat too quickly and irregularly, which can lead to symptoms such as palpitations, shortness of breath, and fatigue. AF can increase the risk of stroke, heart failure, and other heart-related problems. As the prevalence of AF is increasing, it is essential to find effective ways to manage and treat this condition.\n### What are the current approaches to managing atrial fibrillation?\nCurrent approaches to managing AF include collaborative, organised multidisciplinary, and virtual (or eHealth/mHealth) models of care. These approaches aim to provide evidence-based care for people with AF, but it is unclear which approach is most effective. The increasing prevalence and complexity of AF management highlight the need to adapt and innovate in the delivery of care for people living with AF.\n### What did the review authors want to find out?\nThe review authors wanted to assess the effects of clinical service organisation for AF compared to usual care for people with all types of AF. They aimed to determine whether organised AF clinical services can reduce all-cause mortality, all-cause hospitalisation, and other cardiovascular outcomes, and whether these services can improve quality of life and reduce healthcare costs.\n\n**Methods**\n### Search Strategy\nWe searched for studies comparing organized clinical service models for adults with atrial fibrillation to usual care.\n### Study Selection\nWe included studies that compared organized clinical service models for adults with atrial fibrillation against usual care.\n### Data Synthesis\nWe summarized and combined the results of the included studies.\n### Confidence Assessment\nWe evaluated our confidence in the evidence.\n\n**Results**\n### What did we find?\nWe found 8 studies that involved 8205 people with atrial fibrillation. The average age of participants ranged from 60 to 73 years. The studies were conducted in China, the Netherlands, and Australia. The included studies involved either a nurse-led multidisciplinary approach or management using mHealth compared to usual care. Organised clinical services for adults with atrial fibrillation probably cause a large reduction in all-cause mortality. Organised clinical services probably make little to no difference to all-cause hospitalisation. Organised clinical services may not reduce cardiovascular mortality, but probably reduce cardiovascular hospitalisation. Organised clinical services may make little to no difference to thromboembolic complications and major cerebrovascular events.\n\n**Limitations**\nThe evidence is limited by possible lack of blinding (participants may have known which treatment they received) and by the very small sample sizes of the studies, which reduce precision and increase the risk of bias and random error.\n\n**Currency**\nThe evidence is up to date to October 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 665,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.75,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 28,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 61,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 22,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 39,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 39.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 184,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 41.516719924812065,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.368740601503763,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 14.009165413533829,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.37136842105263,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.462406015037597,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.930451127819545,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.642857142857143,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.206555615733702,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.588977443609023,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 270,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 270.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 149,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 214,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 214.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 665,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 665 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 3,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text contains technical terms without clear explanations, lengthy sentences, and high rates of passive voice, nominalization, and complex words, which reduce clarity and readability. Improvements are needed to simplify language, use active voice, and break down long sentences.",
+      "pls_evaluation_summary": "The PLS evaluation results show significant deviations from typical patterns, including high rates of passive voice (28 instances), nominalization (39 instances), and complex words (149 instances), contributing to clarity issues. The text also has a high smog index (15.21) and a large number of nouns (184), which can make it difficult to follow. Improvements in these areas will enhance readability and understanding for patients."
+    }
+  ]
+}

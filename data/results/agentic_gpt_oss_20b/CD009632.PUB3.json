@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "\"? Adding breast ultrasound (sound imaging) to a mammogram (breast X‑ray) better than a mammogram alone for finding breast cancer in women at average risk?\n\nKey messages\n– Adding ultrasound to mammography probably finds a few more cancers – about 2 extra cases per 1,000 women screened (about 3 extra per 1,000 women with dense breasts). We are fairly sure (moderate certainty) about this benefit.  \n– Adding ultrasound also raises false‑positive results – roughly 37 more per 1,000 women who do not have cancer – and leads to about 27 more biopsies (small tissue samples) per 1,000 screened. We are very sure (high certainty) about these harms.  \n– The studies did not examine whether finding these extra cancers reduces death rates.\n\nWhy is breast cancer screening important?  \nBreast cancer is one of the most common cancers in women worldwide. Detecting the disease early, before it spreads, gives the best chance of successful treatment and survival. For this reason health organisations recommend regular screening for women roughly between ages 40 and 75. Early detection can lower the number of women who die from breast cancer.\n\nWhat are mammography and breast ultrasonography, and how are they used for screening?  \nMammography (a low‑dose X‑ray of the breast) is the standard screening test. In some women the first‑time the breast tissue is “dense” (it looks white on a mammogram), which can hide tumours and cause a false‑negative result (a test that misses a cancer that is actually present).  \n\nBreast ultrasonography (ultrasound) uses sound waves to create images of the breast. It can be added to a mammogram to try to spot cancers that the X‑ray missed. However, ultrasound also creates more false‑positive results (tests that suggest cancer when there is none) and can lead to unnecessary follow‑up procedures such as biopsies.\n\nWhat did the review authors want to find out?  \nWe compared two screening strategies for women at average risk of breast cancer: (1) mammography alone and (2) mammography together with breast ultrasonography. We wanted to know whether adding ultrasound detects more cancers, whether it changes the type or stage of cancers found, and whether it leads to more false‑positive results and biopsies. In short, we aimed to assess the overall benefits and harms of combining ultrasound with the standard mammogram.\n\nHow did we find and assess the evidence?  \nWe searched major databases up to May 2021 for studies that enrolled women aged 40‑75 at average risk and compared the two‑test strategy with mammography alone. Two reviewers screened each record, extracted data, assessed risk of bias, and applied the GRADE approach to rate certainty in the evidence. We combined the results in a random‑effects meta‑analysis.\n\nWhat did we find?  \nWe identified eight studies involving a total of 209,207 women. The evidence came from one trial where women were randomly assigned to screening groups and several observational studies that followed women over time. Follow‑up lasted 1‑3 years, and the proportion of women with dense breasts ranged from 48 % to 100 %.\n\nWhat are the main results of adding ultrasound to mammography?  \nBenefits – Adding ultrasound probably finds a few more cancers – about 2 extra cases per 1,000 women screened (about 3 extra per 1,000 women with dense breasts). It also probably reduces missed cancers and lowers the chance that cancer has spread to nearby lymph nodes (which can make treatment harder). We are fairly sure (moderate certainty) about these benefits.  \n\nHarms – Adding ultrasound probably raises false‑positive results by roughly 37 per 1,000 women who do not have cancer and leads to about 27 more biopsies per 1,000 screened. We are very sure (high certainty) about these increases.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the evidence because most studies did not randomly place women into screening groups, participants may have known which test they received, the studies did not measure mortality outcomes, and the total number of cancer cases is relatively small.\n\nHow up to date is this review?  \nWe searched for relevant studies up to May 2021, so the evidence reflects research published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 709,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.17948717948718,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 78,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 189,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 65.00284872156526,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.709026798307477,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.725201981845146,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.870070521861777,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.477718708184154,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.43900763082709,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.410256410256411,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.716568572565189,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 306,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 306.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 110,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 172,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 709,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 709 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:52.624978"
+}

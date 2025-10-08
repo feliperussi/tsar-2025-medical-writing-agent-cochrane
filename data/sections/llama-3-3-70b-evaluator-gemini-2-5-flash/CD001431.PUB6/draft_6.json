@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "# Do patient decision aids (tools that help people make informed health decisions) improve health choices compared to usual care?\n**Key Messages**\n- Patient decision aids (tools that help people make informed health decisions) probably increase the likelihood that adults make informed choices about their healthcare that align with their personal values, compared to usual care, by providing evidence-based information and helping to clarify personal values for different healthcare options (healthcare options refer to the various choices people have for treating or managing their health conditions).\n- Patient decision aids lead to better knowledge about health conditions and treatments, more accurate understanding of the risks and benefits associated with different options, and a more active role in decision-making, without increasing decision regret, which is the feeling of remorse or disappointment after making a decision, although the quality of the evidence supporting these findings is generally high, there is still a need for more research to understand the long-term effects and potential harms of using these aids.\n- Further studies are needed to assess the impact of patient decision aids on adherence to chosen treatments and their effects on healthcare costs, as well as to address the limitations of current research, such as the lack of diverse study populations and the variability in the quality of the decision aids themselves, in order to provide more comprehensive guidance for patients, healthcare providers, and policymakers.\n**Introduction**\n### What is the problem of making health decisions?\nWhen people are faced with health treatment or screening decisions, they often need support to make informed choices. This is because health decisions can be complex and involve weighing up the benefits and harms of different options. Patient decision aids are tools designed to help people make health decisions by providing evidence-based information and clarifying their personal values.\n### What are patient decision aids?\nPatient decision aids are interventions that make the decision explicit, provide evidence-based information about the options and associated benefits/harms, and help clarify personal values for features of options. They can be used to support people making health decisions, and can be particularly helpful when the decision is complex or involves uncertain outcomes.\n### What did the review authors want to find out?\nThe review authors wanted to assess the effects of patient decision aids in adults considering treatment or screening decisions. They aimed to find out whether patient decision aids can increase the congruence between informed values and care choices, and whether they can improve participants' knowledge, accurate risk perceptions, and participation in decision-making. They also wanted to know if patient decision aids can reduce decisional conflict and adverse outcomes, such as decision regret.\n**Methods**\n### Methods\nWe searched for studies comparing patient decision aids to usual care, summarized and combined their results, and evaluated our confidence in the evidence.\n**Results**\n### What did we find?\nWe found 209 studies that involved 107,698 participants. The studies were conducted on 71 different health decisions, with the most common decisions being about cardiovascular treatments, cancer screening, cancer treatments, mental health treatments, and joint replacement surgery. The studies did not report on the duration of the interventions. There is no information available on the study funding sources. The population characteristics, such as age and gender, were not reported. The study settings, including the countries where they took place, were also not specified. The types of interventions and comparisons were patient decision aids versus usual care, with patient decision aids being interventions designed to support people making health decisions. No studies were found on the impact of patient decision aids on adherence and downstream effects on cost and resource use. Patient decision aids probably help more adults make informed choices that are in line with their personal values. They likely lead to a better understanding of the options and their benefits and harms, and may increase the number of people who take an active role in decision-making. However, they may not affect how long consultations last or how much people regret their decisions.\n**Limitations**\nThe evidence is limited by potential lack of blinding (participants may have known their treatment), incomplete reporting of outcomes across studies, and heterogeneity in participant characteristics and intervention delivery methods.\n**Currency**\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 751,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 25.033333333333335,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <22.1 (median)"
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 78,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 39,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 26,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 260,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 39.71271793164672,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.939178428761654,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 15.853364403018197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 13.936511318242339,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.428779405237464,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 60.85224145583666,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 60.9 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.966666666666667,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 15.569805089976535,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.222052800710165,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 332,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 332.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 158,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 269,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 269.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 751,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 751 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 0,
+        "P75_count": 6,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 5,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 0,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 27.77777777777778,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is NOT APPROVED primarily because several subheadings do not follow the style guide's requirement to be phrased as questions. Additionally, the text suffers from overly long and complex sentences, particularly in the Key Messages, and uses vocabulary that is too technical for a plain language summary. These issues significantly hinder readability and understanding for a patient audience.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate that the draft deviates significantly from typical PLS patterns across multiple metrics. Sentence length (`words_per_sentence` at P90) is too high, suggesting sentences are generally too long. All vocabulary complexity metrics (`smog_index`, `complex_words_dc`, `complex_words`, `long_words`, `automated_readability_index`, `lix`, `rix`, `dale_chall_readability`) are in the P90 or BEYOND_P90 range, highlighting that the language used is considerably more complex than typical PLS texts. Furthermore, `nominalization` (P90) and `nouns` (BEYOND_P90) are high, indicating a text that is too noun-heavy and could benefit from more active, verb-based phrasing. These deviations confirm the need for substantial revisions to improve clarity and readability."
+    }
+  ]
+}

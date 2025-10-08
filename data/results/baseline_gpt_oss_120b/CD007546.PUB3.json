@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007546.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs using a “least‑restraint” policy and staff training effective at lowering physical restraints (PR) for older people in care homes?\n\nKey Messages  \n- Organisational programmes that set a “least‑restraint” policy and train staff probably reduce the number of residents who are restrained, especially the use of belts, and no serious harms were reported.  \n- Simple education sessions for staff do not show clear benefits; the evidence is very uncertain, and they probably make little or no difference to how often restraints are used.  \n- The findings come only from care‑home settings, involve a limited number of studies, and many studies had design problems, so more high‑quality research is needed, especially in community settings.\n\nWhat is the problem with physical restraints?  \nPhysical restraints (PR) are things like bed‑rails, belts on chairs or beds, and other devices that limit a person’s movement. They are often used in long‑term care homes for older people, even though they do not improve safety and can cause injury or death. Reducing or stopping their use is a priority for better quality of life and safety.\n\nWhy look at ways to reduce restraints?  \nBecause restraints can cause pain, loss of independence, and even serious injuries, many health organisations recommend that they be avoided whenever possible. Finding effective ways to lower their use could improve daily living for older residents and reduce the risk of harm.\n\nWhat did the review aim to find out?  \nWe wanted to know whether different programmes—such as organisational policies that promote low‑restraint practice, simple staff education, or giving staff information about fall risk—can lower the number of older people who are restrained in long‑term care settings.\n\nWhat did we do?  \nWe searched many databases for studies that compared any of these programmes with usual care. We combined the results of the studies we found and judged how confident we could be in the evidence.\n\nWhat did we find?  \n\nThe review included 11 studies that together involved 19,003 older people, all living in residential care homes. The average age was about 85 years and every study included people with dementia. Four studies tested organisational programmes that tried to put a “least‑restraint” policy in place, six studies tested simple education for staff, and one study gave staff information about each resident’s fall risk. Most studies compared the programme with the usual care that the homes already provided.\n\nOrganisational programmes that introduced a “least‑restraint” policy probably reduced the number of residents who were restrained at all, and they probably caused a large drop in the use of belt restraints. No serious adverse events were reported in the study that looked at safety. These programmes probably did not change how often residents fell, how many fell badly, or how many were given psychotropic medicines, and they made little or no difference to quality of life or agitation.\n\nSimple education sessions for staff gave mixed results. The evidence is very uncertain, so we cannot say whether they reduce the number of residents who are restrained. The studies suggest they probably make little or no difference to how intense the restraint use is, and they probably do not change fall rates, fall‑related injuries, or agitation. There is also uncertainty about any effect on the use of psychotropic medicines.\n\nProviding staff with information about each resident’s fall risk gave low‑confidence evidence that it probably makes little or no difference to how many restraints are used or to fall rates.\n\nWhat are the limitations of the evidence?  \nWe have limited confidence in the findings because many studies did not randomly assign residents to the different programmes, which means differences could be due to other factors. Several studies were small and did not report all outcomes we were interested in, and some had unclear methods, making the overall picture less certain.\n\nHow up to date is this evidence?  \nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 676,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.125,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 72,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 190,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 190.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.611172337278106,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.169164201183435,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.21933431952663,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.372189349112425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.142307692307693,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.864644970414204,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.4375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.135528725660043,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.747149112426037,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 244,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 244.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 130,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 130.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 676,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 676 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:57.489416"
+}

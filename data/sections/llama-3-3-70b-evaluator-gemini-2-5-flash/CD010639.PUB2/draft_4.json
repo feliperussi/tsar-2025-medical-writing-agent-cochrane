@@ -1,0 +1,162 @@
+{
+  "id": "CD010639.PUB2",
+  "draft": "Can changing the schedule of shift work improve sleep quality, sleep duration, and reduce sleepiness in shift workers? \n\nWe found that changing shift work schedules may reduce sleepiness in shift workers, but the evidence is uncertain. It's also unclear if it improves sleep quality or sleep duration. Some studies suggest that faster rotation may actually decrease sleep duration. No harmful effects were reported in the studies. Limiting shift duration to 16 hours may increase sleep duration and reduce sleepiness during shifts. However, the evidence for other shift schedule changes, such as forward rotation or compressed workweeks, is very uncertain and does not show a clear benefit for sleep quality or sleep duration. Future research should focus on high-quality studies to better understand the effects of different shift schedule adaptations on sleep and sleepiness in shift workers.\n\nWhat is shift work and why is it a problem? \nShift work refers to work schedules that fall outside traditional daytime hours, often including night shifts, evening shifts, or rotating shifts. This type of work schedule can disrupt the body's natural sleep-wake cycle, leading to insufficient sleep, fatigue, and decreased alertness. As a result, shift workers may be less safe and healthy at work, and may be more likely to have accidents or make errors.\n\nWhat did the review authors want to find out? \nThe review authors aimed to assess the effects of adapting shift work schedules on sleep quality, sleep duration, and sleepiness among shift workers. They investigated various shift schedule components, such as the permanency of shifts, regularity of shift changes, direction of shift rotation, speed of rotation, shift duration, timing of start of shifts, distribution of shift schedule, time off between shifts, split shifts, protected sleep, and worker participation.\n\nWhat did we find? \nWe found 11 studies that involved 2125 participants. The studies investigated different and often multiple changes to shift schedules. We found that adapting shift work schedules may reduce sleepiness during shifts and make little to no difference to sleep quality, but the evidence is very uncertain. Limiting shift duration to 16 hours may increase sleep duration and reduce sleepiness, but the evidence is of low to moderate certainty. Changes in shift duration and compression of workweeks may have little to no effect on sleep or sleepiness, but the evidence is very uncertain.\n\nIs the evidence up to date? \nThe evidence is up to date to April 2022.\n\nHow did we find this information? \nWe searched for studies on adapting shift work schedules, summarized their results, and rated our confidence in the evidence to assess effects on sleep quality, sleep duration, and sleepiness in shift workers.\n\nWhat are the limitations of the evidence? \nThe evidence is limited because the studies were small and included different types of people. The new schedules were also introduced in different ways, which makes the results harder to compare.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 492,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.571428571428573,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 19,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 32,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 32.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 187,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 187.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 53.50243902439027,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.162044134727061,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.896141114982576,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.903495934959349,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.321254355400697,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.68524970963996,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.642857142857143,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.099504938362077,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.5148965156794425,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 207,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 102,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 492,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 492 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it needs a few key revisions before it's ready. It fails on two critical checks: it is missing the required 'Key Messages' section, and the search date is incorrect according to the source material. Additionally, some sections use technical, noun-heavy language that can be simplified for better clarity.\n\nHere are the top 3 improvements needed:\n\n1. **CRITICAL: Add a 'Key Messages' section and correct the search date.**\n   - **Issue:** The summary is missing a distinct 'Key Messages' section at the beginning, which is essential for reader navigation. The first paragraph currently serves as a summary but should be replaced with a scannable, bulleted list. Additionally, the search date is incorrect.\n   - **Original Text:** \"We found that changing shift work schedules may reduce sleepiness...\" and \"The evidence is up to date to April 2022.\"\n   - **Suggested Rewrite:** Replace the first paragraph with a new section titled \"What are the key messages of this review?\" using bullet points from the source material. Also, correct the date:\n     \"**What are the key messages of this review?**\n     - Changing shift work schedules may help workers feel less sleepy, but the evidence is uncertain.\n     - It is not clear if changing schedules improves how long or how well people sleep. Some changes, like rotating shifts faster, might even reduce sleep time.\n     - Limiting a single shift to 16 hours may help workers sleep longer and feel less sleepy.\"\n\n     And in the currency section:\n     \"The evidence is up to date to December 2020.\"\n\n2. **Simplify the long list of schedule changes.**\n   - **Issue:** The list of schedule components is copied directly from the technical abstract. It is a long, dense list of nouns that is difficult for a lay reader to process.\n   - **Original Text:** \"They investigated various shift schedule components, such as the permanency of shifts, regularity of shift changes, direction of shift rotation, speed of rotation, shift duration, timing of start of shifts, distribution of shift schedule, time off between shifts, split shifts, protected sleep, and worker participation.\"\n   - **Suggested Rewrite:** \"The authors looked at different ways to change work schedules, for example by changing:\n     - how quickly shifts rotate (from day to night shifts)\n     - the length of each shift\n     - the amount of time off between shifts\n     - whether workers had a say in their schedules\"\n\n3. **Use active verbs instead of noun forms (nominalizations).**\n   - **Issue:** The text frequently uses nouns where verbs would be simpler and more direct. This makes sentences feel abstract and less active.\n   - **Original Text:** \"...the evidence for other shift schedule changes, such as forward rotation or compressed workweeks, is very uncertain and does not show a clear benefit for sleep quality or sleep duration.\"\n   - **Suggested Rewrite:** \"...it is very uncertain if other changes, like rotating shifts forward or compressing the workweek, benefit how well or how long people sleep.\"\n\n**Supporting Evidence from Analysis:**\nYour draft is strong on many readability measures. However, the linguistic analysis supports the need for the changes above, showing the draft's use of nouns and nominalizations is much higher than typical for a Plain Language Summary (`nouns` are in the 90th percentile and `nominalization` is beyond the 90th percentile). Addressing the points above will help make the text more direct and easier to understand.",
+      "pls_evaluation_summary": "The analysis shows the draft is generally well-written and conforms to typical PLS patterns in most areas, with 72% of features in the best quartile for readability and sentence structure. However, it deviates significantly in its use of nouns and nominalizations (noun-form verbs), which are much higher than typical. The `nominalization` score is 'BEYOND_P90' and the `noun` score is 'P90', indicating the text is overly dense with nouns, which can make it harder for readers to follow."
+    }
+  ]
+}

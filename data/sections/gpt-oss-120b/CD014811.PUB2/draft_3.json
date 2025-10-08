@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "Is giving water pills (loop diuretics) as a steady drip (continuous infusion) better than giving them as a single dose (bolus injection) for people with sudden worsening of heart failure (acute heart failure)?\n\nKey messages\n- Giving loop diuretics as a continuous infusion does not clearly increase weight loss (fluid removal), survival, or kidney harm compared with a single bolus dose.\n- Hospital stay length and readmission risk are also similar between the two methods. Cardiovascular (heart‑related) mortality was not measured in the included studies, so no comparison is possible.\n- The existing trials are small and of low quality; more robust research is needed.\n\nWhat is acute heart failure and how is it usually treated?\nAcute heart failure (AHF) is a sudden worsening of the heart’s ability to pump blood. In most cases (about 95%) fluid builds up in the lungs and other tissues, causing shortness of breath, leg swelling, and rapid weight gain. In the remaining 5% of cases, blood flow to vital organs falls. Doctors treat AHF quickly by giving medicines that remove excess fluid. The most common medicines are loop diuretics (water pills) that make the kidneys produce more urine. These can be given through an IV (intravenous line) either as a rapid single dose (bolus injection) or as a slow, steady drip (continuous infusion).\n\nWhat did the researchers want to find out?\nWe wanted to compare continuous infusion with bolus injection of IV loop diuretics in adults who have severe acute heart failure (NYHA class III‑IV, meaning they have marked limitation of physical activity). We looked for differences in weight loss (a sign of fluid removal), death, length of hospital stay, readmission after discharge, and kidney damage (acute kidney injury).\n\nHow did we find the evidence?\nWe searched major databases and trial registers up to February 2024 for randomised trials that compared the two delivery methods in adults with AHF. Two reviewers screened each record and extracted data. We combined results where possible and judged the certainty of the evidence based on study quality and consistency.\n\nWhat did we find?\nWe identified seven randomised trials involving 681 adults with severe AHF from 32 hospitals in North America, Europe, and Asia. The evidence shows that continuous infusion does not clearly improve outcomes. It may lead to a small reduction in body weight (about 0.86 kg), but the evidence is very uncertain. Continuous infusion probably makes little or no difference to the chance of dying, how long patients stay in hospital, the risk of being readmitted, or the risk of acute kidney injury.\n\nWhat are the limitations of the evidence?\nWe are not confident in the findings because many trials were small, some participants knew which treatment they received, and the studies used different infusion protocols. Not all trials reported every outcome we wanted.\n\nHow current is the evidence?\nWe searched for studies up to February 2024, so the evidence reflects research available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 509,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.178571428571427,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 45,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 158,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.41439833005896,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.906715548694919,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.886044063991015,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.319764243614927,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.579876508560202,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.30823744035924,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.643650760992955,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.385173842267752,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 209,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 93,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 133,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 509,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 509 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the clarity check because it contains several statements that could confuse a lay reader:\n1. **Ambiguous wording in the first key‑message bullet** – \"does not clearly increase weight loss (fluid removal)\" may be read as the treatment *increases* weight loss, which is the opposite of the intended meaning.\n2. **A long, compound sentence in the results section** – \"Continuous infusion probably makes little or no difference to the chance of dying, how long patients stay in hospital, the risk of being readmitted after discharge, or the risk of developing acute kidney injury.\" This 34‑word sentence overloads the reader with multiple outcomes and should be split.\n3. **Noun‑heavy style throughout the summary** – the draft contains 158 nouns (P90), far above the typical range (<116). This makes sentences feel dense and harder to follow.\nThese issues risk misinterpretation and reduce readability, so the PLS needs revision before it can be approved.",
+      "pls_evaluation_summary": "The PLS evaluation shows strong overall conformity (83% of features in the best quartile). Readability scores are good (Flesch‑Reading‑Ease 56, Grade 9.9). The main deviation is the noun count (158, P90), indicating a noun‑heavy text that should be simplified. Other metrics (active voice, pronouns) are within typical ranges."
+    }
+  ]
+}

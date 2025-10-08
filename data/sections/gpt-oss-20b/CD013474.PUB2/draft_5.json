@@ -1,0 +1,162 @@
+{
+  "id": "CD013474.PUB2",
+  "draft": "Is continued (maintenance) treatment better than just watching (observation) for people with chronic lymphocytic leukaemia (CLL)?\n\nWhat are the key messages?  \n– Maintenance therapy after remission does not appear to increase overall survival, but it does keep the disease from getting worse for a longer time.  \n– Both anti‑CD20 monoclonal‑antibody maintenance (e.g., rituximab or ofatumumab) and lenalidomide maintenance likely extend progression‑free survival, yet each raises the risk of serious side‑effects.  \n– Evidence on newer targeted drugs is very limited, and we have little information about patients’ day‑to‑day wellbeing (health‑related quality of life).\n\nWhat is chronic lymphocytic leukaemia and why is it a problem?  \nChronic lymphocytic leukaemia (CLL) is the most common blood cancer in adults. It occurs when a type of white blood cell called a lymphocyte grows out of control and builds up in the blood, bone‑marrow and sometimes the spleen. Current treatments cannot cure CLL, and each new line of therapy tends to work for a shorter time before the disease returns. After an initial treatment many people enter remission – a period when the disease is not actively growing. Because remission often does not last long, doctors sometimes use maintenance therapy – a lower‑intensity treatment given after remission to deepen or prolong the response. Options include monoclonal antibodies (lab‑made proteins that target specific markers on cancer cells, such as CD20 or CD52), immunomodulatory drugs (medicines that help the immune system, e.g., lenalidomide), and newer targeted drugs that block signals the cancer cells need to survive.\n\nWhat did we want to find out about maintenance therapy for CLL?  \nWe aimed to determine whether maintenance treatments – specifically anti‑CD20 monoclonal antibodies, immunomodulatory drugs, anti‑CD52 antibodies, Bruton tyrosine kinase (BTK) inhibitors, and B‑cell lymphoma‑2 (BCL‑2) inhibitors – improve important outcomes for people with CLL. We looked at overall survival (how long people live), progression‑free survival (how long the disease stays stable), health‑related quality of life (day‑to‑day wellbeing), and the frequency of side‑effects or harms.\n\nWhat did we do?  \nWe searched major databases (CENTRAL, MEDLINE, Embase) and trial registers for randomised controlled trials that compared a maintenance therapy with observation or another maintenance option. We extracted data on survival, disease progression, side‑effects and quality of life, and we rated the certainty of the evidence using the GRADE approach. We searched the literature up to January 2022, so the evidence is current to that date.\n\nWhat did we find?  \nWe identified eleven randomised trials that together enrolled 2,393 participants with CLL. Most participants were men (about 60%) and their ages ranged from 54 to 72 years. The trials tested three types of maintenance:  \n– Anti‑CD20 monoclonal antibodies (rituximab or ofatumumab) versus observation (7 trials, 1,679 participants)  \n– Lenalidomide versus placebo or observation (3 trials, 693 participants)  \n– Alemtuzumab versus observation (1 small trial, 21 participants)  \n\nNo trials evaluated newer targeted agents such as BTK or BCL‑2 inhibitors.\n\nOur analysis shows that anti‑CD20 antibodies and lenalidomide do not appear to improve overall survival. Both treatments likely extend the time before the disease progresses, keeping it stable for a longer period. However, each treatment probably raises the risk of serious side‑effects (grade 3‑4 adverse events) and overall adverse events. Lenalidomide may also slightly increase treatment‑related mortality. Evidence on alemtuzumab’s effect on disease progression remains very uncertain, and we found almost no data on quality of life.\n\nHow certain are we about these findings?  \nWe have moderate confidence in the results. Some trials were small, participants often knew which treatment they received, and the study populations varied. These limitations mean the true effect could differ from our estimates.\n\nIs the evidence up to date?  \nWe last searched the literature in January 2022, so the summary reflects studies published up to that date. Newer trials may have been reported since then.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 644,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.941176470588236,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 28,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 194,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.88672451589335,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.146127146510779,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.042063390573617,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.352484472049685,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.70690537084399,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.53123858238948,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.794117647058823,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.704699910719626,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.515740116916332,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 309,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 309.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 147,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 644,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 644 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 3,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft passes the required checks (all sections are present, subheadings are phrased as questions, facts and word count are correct), but it contains several clarity problems that would likely confuse patients:\n1. **Unexplained jargon** – the phrase \"grade 3‑4 adverse events\" (and \"treatment‑related mortality\") is not defined for a lay audience. Patients may not understand that this means serious side‑effects or deaths caused by the treatment. *Rewrite:* \"serious side‑effects (the most severe type of side‑effects)\" and \"deaths that may be caused by the treatment\".\n2. **Long, dense sentence** – \"We searched major databases (CENTRAL, MEDLINE, Embase) and trial registers for randomised controlled trials that compared a maintenance therapy with observation or another maintenance option.\" This 27‑word sentence packs several ideas and can be hard to follow. *Rewrite:* \"We searched major databases (CENTRAL, MEDLINE, Embase) and trial registers. We looked for randomised trials that compared a maintenance treatment with simply watching the disease, or with another maintenance option.\"\n3. **Noun‑heavy, passive‑style wording** – \"Our analysis shows that anti‑CD20 antibodies and lenalidomide do not appear to improve overall survival.\" The sentence uses abstract nouns and a passive tone, making it less direct. *Rewrite:* \"Our analysis shows that anti‑CD20 antibodies and lenalidomide probably do not help people live longer.\"\n4. **Insufficient plain‑language definition of \"maintenance therapy\"** – The term is introduced but the explanation remains technical. *Rewrite:* \"Maintenance therapy is a gentle, ongoing treatment given after the disease has gone into remission, to try to keep it under control for a longer time.\"\n5. **Over‑use of nouns and nominalisations** – The draft contains many noun‑heavy constructions (e.g., \"the trials tested three types of maintenance\"), contributing to a high noun count (194) and nominalisation score (28), which the PLS evaluation flagged as beyond typical PLS patterns. Re‑phrasing these as actions (using more verbs) will improve readability. *Example rewrite:* Change \"The trials tested three types of maintenance\" to \"The trials looked at three kinds of maintenance treatment.\"\n\nThese issues are supported by the PLS evaluation metrics: the draft shows unusually high counts of nouns (194, beyond the 90th percentile), nominalisations (28, beyond the 90th percentile), complex words (147) and long words (197). Reducing noun‑heavy phrasing and simplifying terminology will bring the text closer to typical PLS patterns and make it easier for patients to understand.",
+      "pls_evaluation_summary": "The draft meets word‑count limits and most readability indices (Flesch‑Reading‑Ease 48.9, FKGL 11.2) are within the 25th‑percentile range, but it deviates on several lexical metrics: nouns (194, P90), nominalisations (28, BEYOND_P90), complex words (147, BEYOND_P90), complex Dale‑Chall words (309, BEYOND_P90), and long words (197, P90). These indicate a noun‑heavy, overly technical style that should be simplified for a lay audience."
+    }
+  ]
+}

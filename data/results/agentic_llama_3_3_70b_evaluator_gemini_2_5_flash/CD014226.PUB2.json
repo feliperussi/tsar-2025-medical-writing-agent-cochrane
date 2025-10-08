@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014226.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Is a minimally invasive stent-graft with holes better than open surgery or no surgery for people with complex abdominal aortic aneurysms?\n\nWe did not find enough good-quality evidence to determine if a minimally invasive stent-graft with holes is better than open surgery or no surgery for people with complex abdominal aortic aneurysms. There is not enough good research because these aneurysms are rare, and they can be very different from person to person. This makes it hard to study them and get clear answers. To get better evidence, future studies should be designed to make it easier for people with these aneurysms to take part in research.\n\nWhat is an abdominal aortic aneurysm and why is it a problem?\nAn abdominal aortic aneurysm (AAA) is an abnormal bulge in the aorta - the main blood vessel that carries blood from the heart to the rest of the body. This bulge can occur in the part of the aorta that is located in the abdomen, and it can be life-threatening if it ruptures. AAAs are more common in older adults and can be caused by a variety of factors, including high blood pressure, smoking, and a family history of the condition. When an AAA is close to or next to the renal arteries, it can be more difficult to repair, and the optimum treatment for these complex AAAs is unknown.\n\nWhat are the common treatments for abdominal aortic aneurysms?\nOne option for treating complex AAAs is fenestrated endovascular aneurysm repair (FEVAR), which involves using a special tube (a graft) with small holes in it. These holes line up with the arteries that supply blood to important organs like the kidneys and intestines, allowing blood to keep flowing to them. Another option is open surgical repair (OSR), which involves surgically removing the aneurysm and replacing it with a graft. Conservative management, or non-operative management, is also an option, but it may not be suitable for all patients.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the benefits and harms of FEVAR compared to OSR or conservative management for people with complex AAAs. They aimed to find out which treatment is most effective in reducing mortality, improving quality of life, and minimizing adverse events, and to determine the best approach for managing complex AAAs.\n\nWhat did the researchers do?\nWe searched for studies that compared the three treatment options for complex abdominal aortic aneurysms: the stent-graft with holes, open surgery, and no surgery.\n\nWhat did the researchers find?\nWe found no studies fulfilling the inclusion criteria.\n\nWhat are the limitations of the evidence?\nBecause we found no suitable studies, we cannot draw any conclusions about the benefits and harms of these treatments. There is a lack of evidence in this area.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 503,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.346153846153847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 124,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.84159619207833,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.276669980119287,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.864130601009329,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.661868787276337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.815996329714023,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.39585563541826,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.846153846153846,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.327379053088816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.641457898761278,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 181,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 126,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 503,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 503 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:26.500379"
+}

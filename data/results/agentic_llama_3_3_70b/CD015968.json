@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015968",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can mobile apps and wearables help kids with obesity lose weight alongside regular care?\n\nWe looked at studies on digital health interventions for managing obesity in children and adolescents. Here are the key messages:\n- Digital interventions, such as mobile apps and wearables, combined with regular care may have a small benefit in helping children and adolescents with obesity lose weight. \n- The quality of the evidence is not strong enough to fully understand the benefits and potential harms of using digital health technology for obesity management in young people. \n- Future studies should investigate the long-term effects of digital interventions, report results separately for different ages and groups of people, and assess important outcomes such as adverse events to better inform decisions about using these technologies to help children and adolescents with obesity.\n\nWhat is childhood obesity and why is it a problem?\nChildhood obesity is a worldwide public health problem that increases the risk of chronic diseases (long-term diseases). In 2016, more than 340 million children and adolescents aged 5 to 19 years were living with overweight or obesity. This condition can lead to various health issues, including an increased risk of developing conditions like diabetes (a disease that affects how your body turns food into energy), heart disease (conditions that affect the heart), and certain types of cancer (a disease caused by abnormal cell growth).\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects and safety of digital health interventions, such as mobile phone applications, telehealth (healthcare provided through phone or video calls), and wearable devices (devices that can be worn on the body to track activity or health), for the management of obesity in children and adolescents. They aimed to compare the effectiveness of these digital interventions when used alone or in combination with conventional care (standard treatment), compared to conventional care alone.\n\nWhat did we find?\nWe found 15 studies that involved 911 participants with obesity. The studies were conducted in several countries around the world, including the USA, Sweden, Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. Most studies involved participants aged 10 to 19 years old, with some also including younger children. The studies lasted for varying durations, with 9 classified as short duration (less than 6 months) and 6 as long duration (6 or more months). Digital interventions combined with conventional care may lead to a slight reduction in fat mass in children and adolescents. However, the effect on other outcomes is unclear.\n\nThe evidence is limited because the studies were very small, participants may have been aware of which treatment they received (risk of bias), and not all studies reported data on every outcome of interest. The evidence is up to date to April 2025.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 473,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.523809523809526,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 40,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 16,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 40.52893587033125,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.201896707943224,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.670678546259943,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.646342494714585,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.719883217557637,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.447699587234474,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.190476190476191,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.493269747306957,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 191,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 103,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 473,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 473 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 7,
+      "P75_count": 11,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:16.676692"
+}

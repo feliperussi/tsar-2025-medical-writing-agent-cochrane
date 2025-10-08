@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014612.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Is stitching up the tissue gaps (mesenteric defects) during weight‑loss stomach surgery (Roux‑en‑Y gastric bypass) effective at preventing internal hernias?\n\nKey messages\n- Closing the tissue gaps (mesenteric defects) during Roux‑en‑Y gastric bypass probably reduces the chance of an internal hernia, and we found no clear increase in early complications or death, although the evidence is limited.\n- The review showed little or no difference between closing and not closing the gaps for overall complications within 30 days, for deaths within 30 days, or for problems during the operation; data on hospital stay are uncertain.\n- Because only three small trials are available, we need larger, high‑quality studies with longer follow‑up to confirm any benefit and to understand possible harms such as longer hospital stays.\n\nWhy can internal hernia be a serious problem after gastric bypass surgery?\nRoux‑en‑Y gastric bypass (RYGB) is a common weight‑loss operation that makes the stomach smaller and reroutes the small intestine. This creates small gaps in the tissue that holds the intestines (mesenteric defects). If a loop of intestine slips through one of these gaps, it can cause an internal hernia – a painful blockage that may cut off blood flow and become life‑threatening. Internal hernias can appear months or years after surgery, so surgeons look for ways to prevent them.\n\nWhat did the review aim to find out about closing the surgical gaps?\nWe wanted to know whether stitching (closing) the mesenteric defects during RYGB reduces the risk of internal hernia without causing other problems, such as a small‑bowel obstruction. We examined randomised trials that compared patients whose defects were closed with those whose defects were left open. We looked at long‑term hernia rates, short‑term complications, deaths after surgery, and length of hospital stay.\n\nHow did we find and analyse the studies?\nWe searched CENTRAL, MEDLINE, Embase, PubMed, OpenGrey, ClinicalTrials.gov and the WHO ICTRP up to August 2024. We screened the results for randomised controlled trials that compared closure versus non‑closure of mesenteric defects in adults with obesity (BMI ≥ 35 kg/m²) undergoing laparoscopic or robotic RYGB. Two reviewers independently extracted data and assessed risk of bias. We combined the results using a random‑effects meta‑analysis and rated our confidence in the evidence with the GRADE approach.\n\nWhat did we find?\nWe identified three randomised controlled trials involving 3,010 adults with severe obesity. All participants underwent laparoscopic or robotic RYGB. One trial used non‑absorbable interrupted sutures for closure and the other two used non‑absorbable running sutures.\nOur review suggests that closing the defects probably reduces the risk of internal hernia with bowel obstruction (risk ratio 0.32). We found little or no difference between closure and non‑closure for overall complications within 30 days (risk ratio 1.13), for deaths within 30 days (risk ratio 2.97, very uncertain), and for intra‑operative complications (risk ratio 0.87). Evidence about length of hospital stay is very uncertain, and we could not assess postoperative pain because data were lacking.\n\nWhat are the limitations of the evidence?\nWe have low confidence in the evidence because only three small trials are available and they differ in participants and surgical techniques. This limits our certainty about the true effects.\n\nHow up‑to‑date is this review?\nThe evidence we summarised is current to August 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 566,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.517241379310345,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.58401060070673,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.076141099061779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.230952845132208,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.026431095406359,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.358133300840745,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.3158279517485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.620689655172414,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.899494936611665,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.026129377360789,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 253,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 121,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 566,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 566 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:57.453451"
+}

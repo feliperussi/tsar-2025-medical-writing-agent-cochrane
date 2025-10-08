@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Is giving water pills (loop diuretics) as a steady drip (continuous infusion) better than giving them as a single dose (bolus injection) for people with sudden worsening of heart failure (acute heart failure)?\n\nKey messages\n- For people with acute heart failure, giving loop diuretics as a continuous infusion does not show a clear advantage over a bolus injection for fluid loss, survival, or kidney harm.\n- Length of hospital stay, chance of readmission, and heart‑related death are also similar between the two methods.\n- The existing studies are small and of low quality, so more robust research is needed.\n\nWhat is acute heart failure and how is it usually treated?\nAcute heart failure (AHF) is a sudden worsening of the heart’s ability to pump blood. In about 95% of cases fluid builds up in the lungs and other tissues, causing shortness of breath, leg swelling, and rapid weight gain. In the remaining 5% blood flow to vital organs falls. Doctors treat AHF quickly by giving medicines that remove excess fluid. The most common medicines are loop diuretics (water pills that make the kidneys excrete more urine). These can be given through an IV line either as a rapid single dose (bolus injection) or as a steady slow drip over several hours (continuous infusion).\n\nWhat did the researchers want to find out?\nWe compared continuous infusion with bolus injection of IV loop diuretics in adults who have severe acute heart failure (NYHA class III‑IV, meaning marked limitation of physical activity). We looked for differences in weight loss (a sign of fluid removal), death, length of hospital stay, readmission after discharge, and acute kidney injury (sudden kidney damage).\n\nHow did we find the evidence?\nWe searched major databases and trial registers up to February 2024 for randomised trials that compared the two delivery methods in adults with AHF. Two reviewers screened each record and extracted data. We combined results where possible and judged the certainty of the evidence based on study quality and consistency.\n\nWhat did we find?\nWe identified seven randomised trials involving 681 adults with severe AHF from 32 hospitals in North America, Europe, and Asia. The evidence shows that continuous infusion does not clearly improve outcomes. It may lead to a small reduction in body weight (about 0.86 kg), but the evidence is very uncertain. Continuous infusion probably makes little or no difference to the chance of dying. It also probably makes little or no difference to how long patients stay in hospital, the risk of being readmitted after discharge, or the risk of developing acute kidney injury.\n\nWhat are the limitations of the evidence?\nWe are not confident in the findings because many trials were small, some participants knew which treatment they received, and the studies used different infusion protocols. Not all trials reported every outcome we wanted.\n\nHow current is the evidence?\nWe searched for studies up to February 2024, so the evidence reflects research available at that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 513,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.321428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 161,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.13348684210527,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.841906850459484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.784164578111948,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.116101364522418,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.813951545530495,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.66255917571707,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.642857142857143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.218586911723754,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 205,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 513,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 513 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:58.611397"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD015968",
+  "draft": "Can digital health tools, such as mobile apps or wearable devices, help children and teenagers with obesity lose weight when used with standard care?\n\n- Digital health tools, like mobile apps or wearable devices, used with standard care may have a small, short-term beneficial effect on fat mass in children and adolescents with obesity. However, the effect on other outcomes like weight loss is unclear, and no harmful effects were reported in the studies.\n- The quality of the evidence is not strong enough to fully understand the benefits and potential harms of digital health tools for obesity management in young people. This is partly because the studies were small and did not last very long.\n- Future studies should investigate the long-term effects of digital health tools, report results for different ages and groups of people, and look at important outcomes like adverse events. This will help us better understand how these tools can be used to help children and teenagers with obesity.\n\nWhat is childhood obesity and why is it a problem?\nChildhood obesity is a worldwide public health problem that increases the risk of chronic diseases (long-term health issues). In 2016, more than 340 million children and adolescents aged 5 to 19 years were living with overweight or obesity. This condition can lead to various health issues, including an increased risk of heart disease, diabetes, and other health problems later in life. Common treatments for childhood obesity often involve a combination of diet, physical activity, and behavioral changes.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects and safety of digital health interventions, such as mobile phone applications, text messages, and telehealth, for the management of obesity in children and adolescents. They aimed to compare the effectiveness of digital interventions combined with conventional care versus conventional care alone, as well as digital interventions alone compared to conventional care alone. The authors also wanted to evaluate the impact of digital interventions on various outcomes, including body mass index (a measure of body fat), physical activity, and mental well-being.\n\nHow did the review authors search for evidence?\nWe searched for studies on digital health interventions for managing obesity in children and adolescents. We looked at studies from around the world, including the USA, Sweden, Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand.\n\nWhat did the review authors find?\nWe found 15 studies that involved 911 participants with obesity. Most studies involved participants aged 10 to 19 years old, with some also including younger children. The studies lasted for varying durations, with nine classified as short duration (less than six months) and six as long duration (six or more months). Digital interventions combined with conventional care may have a small beneficial effect on fat mass in children and adolescents compared to conventional care alone. However, the effect on other outcome measures is unclear.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have known which treatment they received, and not all studies reported data on all outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to April 2025.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 549,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.333333333333332,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 40,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 16,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 169,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 45.50486338797816,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.96367941712204,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.269508196721311,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.122841530054647,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.293624772313297,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.11657559198542,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.2592592592592595,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.583005244258363,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.134708196721311,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 213,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 169,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 549,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 549 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 11,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 61.111111111111114,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start but needs a few key improvements for clarity and accuracy before it can be approved. Here are the top 3 issues to address:\n\n1. **Clarify the finding on harmful effects.** The current wording is factually inaccurate and could mislead readers.\n    *   **Problem:** In the first key message, the text says, \"...no harmful effects were reported in the studies.\" This implies that safety was assessed and no harms were found. However, the original review states that studies did not report this data at all, which is a critical distinction.\n    *   **Suggestion:** Change the sentence to be more precise. For example: \"The studies did not report on any potential harmful effects.\"\n\n2. **Use 'we' consistently instead of 'the review authors'.** The draft switches between first-person ('we') and third-person ('the review authors'), which can be confusing for the reader and violates the style guide.\n    *   **Problem:** The section 'What did the review authors want to find out?' uses 'The review authors' multiple times, but the next section switches to 'We searched...'.\n    *   **Suggestion:** Replace all instances of 'the review authors' with 'we'. For example, change the subheading to 'What did we want to find out?' and the first sentence to 'We wanted to assess the effects and safety...'.\n\n3. **Simplify complex sentences and formal language.** Some sentences are long and use formal phrasing, which can make the text harder for a lay audience to understand. This is supported by the linguistic analysis, which found the text has a higher number of long words and nouns than is typical for a Plain Language Summary.\n    *   **Problem:** A sentence like, 'The review authors wanted to assess the effects and safety of digital health interventions... for the management of obesity in children and adolescents' is long and uses formal terms.\n    *   **Suggestion:** Break it down and use simpler words. For example: 'We wanted to find out if digital health tools are safe and effective for helping children and teenagers manage obesity.'",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity with typical patterns, with most metrics (61.1%) falling in the median range. However, the text deviates from typical patterns in its high use of nouns and long words (both in the 90th percentile), suggesting the vocabulary is more complex and dense than usual for a PLS. The use of passive voice is also slightly elevated (75th percentile)."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012718.PUB2",
+  "draft": "Does applying silver diamine fluoride (a liquid that can stop cavities) prevent or treat tooth decay in children and adults?\n\nKey messages\n- Applying silver diamine fluoride (SDF) may reduce new decay on the roots of teeth (root caries) and may help stop (arrest) existing cavities in primary teeth (baby teeth). However, the overall evidence is uncertain and we lack clear information about side effects such as tooth staining.\n- When we compare SDF with fluoride varnish (a coating applied to teeth to prevent decay), SDF provides little or no extra benefit for preventing new cavities in primary teeth, and the evidence for other outcomes, including permanent teeth (adult teeth), remains very uncertain.\n- Most studies have study problems, so we need well‑designed research to determine how effective SDF is for different teeth, to assess side effects such as staining, and to compare it: directly with other common treatments.\n\nWhy is dental caries a major health problem?\nDental caries (tooth decay) is the most common disease worldwide. When decay is untreated it can cause pain, make eating difficult, and affect confidence and social life. Decay can affect primary teeth (baby teeth), permanent teeth (adult teeth), and the roots of teeth. Because it is so common, finding simple and affordable ways to stop new decay or to stop existing decay from getting worse is a public‑health priority.\n\nWhat is silver diamine fluoride and how is it used?\nSilver diamine fluoride (SDF) is a liquid that we can paint on a tooth. It contains a small amount of silver, which kills bacteria, and fluoride, which strengthens the tooth surface. The treatment is quick, does not need drilling, and can be applied by a dentist or a trained health worker. A known side effect is that the treated part of the tooth can turn a dark colour, which may be a concern for appearance.\n\nWhat did the review aim to find out?\nWe wanted to know whether applying SDF helps prevent new cavities or stops existing cavities from getting worse in both primary and permanent teeth. We compared SDF with doing nothing, with a placebo, and with other common treatments such as fluoride varnish, sealants, resin infiltration, or atraumatic restorative treatment (ART) with glass‑ionomer cement (a type of filling material). We also looked at side effects, pain, and changes in how the teeth look after treatment.\n\nHow did we find the evidence?\nWe searched for studies up to June 2023 that compared SDF with placebo, no treatment, or other caries interventions. We combined and summarised their findings and assessed our confidence in the evidence using standard Cochrane methods.\n\nWhat did we find?\nWe identified 29 randomised controlled trials that together enrolled 13,036 participants (12,020 children and 1,016 older adults). The trials used parallel‑group or split‑mouth designs and tested SDF applied at different concentrations, frequencies and durations. Comparators included placebo or no treatment, fluoride varnish, sealants, resin infiltration, and ART with glass‑ionomer cement. Participants ranged from children to older adults and could have had existing carious lesions or been lesion‑free.\n\nMain results: Effect of silver diamine fluoride on new root caries\nSDF probably reduces the development of new root caries (decay on the roots of teeth) compared with doing nothing. Evidence for other outcomes, such as caries arrest in primary teeth, side effects, or comparisons with fluoride varnish, sealants, resin infiltration or ART, is very uncertain.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants may have known which treatment they received, and because most studies were small.\n\nHow current is the evidence?\nWe searched for studies up to June 2023, so the evidence reflects research available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 630,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.6875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 70,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 193,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 57.40075892857146,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.143998015873017,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.85727380952381,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.7151746031746,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.22420634920635,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.576388888888886,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.6875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.433981132056603,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.693515873015873,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 268,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 268.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 100,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 630,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 630 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 0,
+        "P75_count": 7,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 0,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks pass, but the draft contains several clarity problems that would likely confuse a lay reader:\n1. **Unexplained jargon** – \"parallel‑group or split‑mouth designs\" and \"caries arrest\" are used without definition, leaving readers unsure what the study designs or outcomes mean.\n2. **Ambiguous wording about blinding** – \"participants may have known which treatment they received\" is vague and uses passive construction; readers need a clearer explanation of why this matters.\n3. **Nominalised, noun‑heavy sentences** – phrases such as \"The evidence is very uncertain\" and \"We identified 29 randomised controlled...\" rely on nouns rather than active verbs, making the text feel abstract.\n4. **Long, dense sentence** – \"We searched for studies up to June 2023 that compared SDF with placebo, no treatment, or other caries interventions; we combined and summarised their findings and assessed our confidence in the evidence using standard Cochrane methods\" (28 words) could be split for easier reading.\n5. **High lexical complexity** – the draft contains many complex and long words (268 complex_words_dc, 182 long_words) and a high noun count (193), which the metrics flag as out‑of‑range and which reduce readability for non‑expert audiences.\n\n**Suggested rewrites**:\n- *Original*: \"The trials used parallel‑group or split‑mouth designs and tested SDF applied at different concentrations, frequencies and durations.\"\n  *Rewrite*: \"We used two simple study designs: (1) parallel‑group, where different participants received different treatments, and (2) split‑mouth, where each participant received two treatments on different sides of the mouth. In each study we tried different amounts of SDF and different schedules.\"\n- *Original*: \"caries arrest\"\n  *Rewrite*: \"stopping a cavity from getting bigger (called ‘caries arrest’)\"\n- *Original*: \"participants may have known which treatment they received\"\n  *Rewrite*: \"Because the treatment can change the colour of a tooth, participants could see which one they got, so the studies were not blinded. This may affect the results.\"\n- *Original*: \"The evidence is very uncertain\"\n  *Rewrite*: \"We are very uncertain about the evidence\"\n- *Original*: \"We searched for studies up to June 2023 that compared SDF with placebo, no treatment, or other caries interventions. We combined and summarised their findings and assessed our confidence in the evidence using standard Cochrane methods.\"\n  *Rewrite*: \"We looked for studies published up to June 2023 that compared SDF with a placebo, no treatment, or other ways of preventing cavities. We then combined the results and judged how confident we could be in the findings, following Cochrane guidelines.\"\n\nThese changes address the most important readability barriers while preserving factual accuracy.\n\n**Metrics support**: The evaluation shows high nominalisation (23 > 13), high noun count (193 > 116), many complex words (268 > 160) and long words (182 > 122). Reducing noun‑heavy phrasing and simplifying vocabulary, as suggested above, will bring the draft closer to typical PLS patterns.",
+      "pls_evaluation_summary": "The draft meets word‑count limits and most readability indices (e.g., FKGL 10, Flesch‑Reading‑Ease 57) are within the best quartile. However, four metrics deviate: nominalisation (23, beyond typical), nouns (193, high), complex_words_dc (268, high) and long_words (182, high). These indicate the text is more noun‑heavy and uses many long/complex words than typical PLS, supporting the need for the suggested simplifications."
+    }
+  ]
+}

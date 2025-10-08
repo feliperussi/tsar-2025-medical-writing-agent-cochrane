@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Is using special dressings or securement devices better than standard dressings for keeping peripheral arterial catheters (ACs) working and safe?\n\n- We do not know if any type of dressing or securement device reduces the chance that an arterial catheter stops working, becomes infected, or causes other problems. The studies did not show clear benefits and reported very few side‑effects, so we cannot say whether any product is safer or more effective.\n- Some low‑certainty evidence suggests that bordered polyurethane dressings (a type of stronger plastic dressing) may make little or no difference compared with standard dressings for infections, catheter movement, or blockages, but the data are limited.\n- More well‑designed, larger studies are needed to find out which dressing or securement method, if any, truly helps keep arterial catheters working and prevents complications.\n\nWhat is an arterial catheter and why does it matter?  \nArterial catheters are thin tubes placed into an artery to take blood samples and monitor blood pressure, especially in surgery or intensive care. They are important for quick testing, but they can fail, move, become blocked, or cause infections, which means they have to be re‑inserted – a painful and risky process.\n\nWhy look at dressings and securement devices?  \nThe dressing and the device that hold the catheter in place are meant to keep the tube stable and protect the insertion site. Different products (standard plastic dressings, stronger bordered dressings, adhesives, or special clips) might reduce failures or infections, but we do not know which works best.\n\nWhat did we want to find out?  \nWe wanted to see whether any specific dressing or securement product lowers the risk of catheter failure, infection, or other harms compared with the usual standard dressing.\n\nWhat did we do?  \nWe searched several medical databases and trial registries for studies that compared different dressings or securement devices for arterial catheters. We combined the results of the studies we found and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified five studies that together included 1,228 people and 1,228 arterial catheters. The studies were carried out in hospitals in different countries and used a variety of dressings, including standard polyurethane (SPU) dressings, SPU with tissue adhesive, bordered polyurethane (BPU) dressings, SPU with sutureless securement clips, and integrated securement dressings. All studies had some problems with how they were done, and many reported very few infection or complication events.\n\nOverall, the evidence does not show a clear advantage for any particular dressing or securement device. For most comparisons we are very uncertain whether the product changes the chance of catheter failure, infection, or other adverse events. In the few cases where evidence was a bit stronger, bordered polyurethane dressings may make little or no difference compared with standard dressings, but the confidence in this finding is low.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the studies were small and some participants may have known which dressing they received, which could affect the results. Additionally, the studies measured outcomes in different ways, making it hard to combine the findings.\n\nHow up to date is this evidence?  \nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 550,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.153846153846153,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 60,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 35,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 27,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.081300699300726,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.947636363636363,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.679795804195798,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.179345454545452,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.97062937062937,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.88111888111888,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.346153846153846,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.853285314685316,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 237,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 117,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 117.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 550,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 550 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 6,
+      "P75_count": 6,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:02.010951"
+}

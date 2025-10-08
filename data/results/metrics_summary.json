@@ -1,0 +1,2426 @@
+{
+  "agentic_gemini_2_5_pro": {
+    "words": {
+      "count": 100,
+      "mean": 567.15,
+      "median": 559.5,
+      "std": 82.79,
+      "min": 387.0,
+      "max": 785.0,
+      "q25": 510.5,
+      "q75": 621.0
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 32.73,
+      "median": 33.0,
+      "std": 5.64,
+      "min": 22.0,
+      "max": 47.0,
+      "q25": 28.0,
+      "q75": 36.25
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 17.48,
+      "median": 17.47,
+      "std": 1.62,
+      "min": 13.77,
+      "max": 22.56,
+      "q25": 16.44,
+      "q75": 18.57
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 12.05,
+      "median": 12.0,
+      "std": 4.04,
+      "min": 4.0,
+      "max": 24.0,
+      "q25": 9.0,
+      "q75": 15.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 59.57,
+      "median": 58.5,
+      "std": 14.78,
+      "min": 34.0,
+      "max": 102.0,
+      "q25": 48.75,
+      "q75": 68.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 35.07,
+      "median": 34.0,
+      "std": 6.86,
+      "min": 21.0,
+      "max": 51.0,
+      "q25": 30.0,
+      "q75": 40.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 17.92,
+      "median": 18.0,
+      "std": 5.25,
+      "min": 6.0,
+      "max": 32.0,
+      "q25": 14.0,
+      "q75": 20.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 153.56,
+      "median": 154.0,
+      "std": 23.92,
+      "min": 100.0,
+      "max": 210.0,
+      "q25": 137.5,
+      "q75": 166.0
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 58.78,
+      "median": 58.55,
+      "std": 5.07,
+      "min": 44.92,
+      "max": 69.75,
+      "q25": 55.49,
+      "q75": 62.41
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 9.4,
+      "median": 9.39,
+      "std": 0.84,
+      "min": 7.7,
+      "max": 11.42,
+      "q25": 8.73,
+      "q75": 10.05
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 9.47,
+      "median": 9.49,
+      "std": 0.96,
+      "min": 7.18,
+      "max": 11.95,
+      "q25": 8.78,
+      "q75": 10.17
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 10.16,
+      "median": 10.24,
+      "std": 0.93,
+      "min": 8.1,
+      "max": 12.62,
+      "q25": 9.43,
+      "q75": 10.78
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 13.54,
+      "median": 13.56,
+      "std": 1.09,
+      "min": 10.93,
+      "max": 16.15,
+      "q25": 12.79,
+      "q75": 14.2
+    },
+    "lix": {
+      "count": 100,
+      "mean": 44.64,
+      "median": 44.45,
+      "std": 3.09,
+      "min": 37.57,
+      "max": 51.7,
+      "q25": 42.52,
+      "q75": 46.58
+    },
+    "rix": {
+      "count": 100,
+      "mean": 4.74,
+      "median": 4.68,
+      "std": 0.61,
+      "min": 3.48,
+      "max": 6.11,
+      "q25": 4.3,
+      "q75": 5.16
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.42,
+      "median": 12.35,
+      "std": 0.8,
+      "min": 10.35,
+      "max": 14.92,
+      "q25": 11.99,
+      "q75": 12.91
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.65,
+      "median": 6.6,
+      "std": 0.41,
+      "min": 5.39,
+      "max": 7.77,
+      "q25": 6.42,
+      "q75": 6.93
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 207.12,
+      "median": 209.0,
+      "std": 28.85,
+      "min": 126.0,
+      "max": 267.0,
+      "q25": 189.0,
+      "q75": 227.5
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 92.02,
+      "median": 91.5,
+      "std": 15.08,
+      "min": 55.0,
+      "max": 140.0,
+      "q25": 85.0,
+      "q75": 101.25
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 152.8,
+      "median": 153.5,
+      "std": 20.39,
+      "min": 106.0,
+      "max": 208.0,
+      "q25": 140.75,
+      "q75": 163.25
+    }
+  },
+  "agentic_gpt_oss_120b": {
+    "words": {
+      "count": 100,
+      "mean": 622.5,
+      "median": 624.5,
+      "std": 82.01,
+      "min": 471.0,
+      "max": 841.0,
+      "q25": 559.5,
+      "q75": 678.25
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 31.62,
+      "median": 31.0,
+      "std": 4.4,
+      "min": 22.0,
+      "max": 42.0,
+      "q25": 29.0,
+      "q75": 34.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 19.8,
+      "median": 19.75,
+      "std": 1.92,
+      "min": 15.31,
+      "max": 25.68,
+      "q25": 18.52,
+      "q75": 20.97
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 14.37,
+      "median": 14.0,
+      "std": 5.29,
+      "min": 4.0,
+      "max": 37.0,
+      "q25": 11.0,
+      "q75": 17.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 64.15,
+      "median": 62.0,
+      "std": 12.62,
+      "min": 45.0,
+      "max": 121.0,
+      "q25": 56.0,
+      "q75": 70.25
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 33.24,
+      "median": 32.0,
+      "std": 6.7,
+      "min": 20.0,
+      "max": 58.0,
+      "q25": 28.0,
+      "q75": 38.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 21.29,
+      "median": 20.0,
+      "std": 7.03,
+      "min": 9.0,
+      "max": 39.0,
+      "q25": 16.0,
+      "q75": 26.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 177.8,
+      "median": 175.5,
+      "std": 29.07,
+      "min": 115.0,
+      "max": 251.0,
+      "q25": 155.75,
+      "q75": 197.75
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 52.66,
+      "median": 52.12,
+      "std": 6.46,
+      "min": 37.1,
+      "max": 68.02,
+      "q25": 48.47,
+      "q75": 56.55
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 10.83,
+      "median": 10.85,
+      "std": 1.08,
+      "min": 7.8,
+      "max": 13.21,
+      "q25": 10.23,
+      "q75": 11.49
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 11.0,
+      "median": 10.93,
+      "std": 1.33,
+      "min": 7.32,
+      "max": 14.31,
+      "q25": 10.19,
+      "q75": 12.09
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 10.82,
+      "median": 10.91,
+      "std": 1.21,
+      "min": 8.06,
+      "max": 13.36,
+      "q25": 10.04,
+      "q75": 11.61
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 16.32,
+      "median": 16.26,
+      "std": 1.28,
+      "min": 13.32,
+      "max": 19.68,
+      "q25": 15.49,
+      "q75": 17.17
+    },
+    "lix": {
+      "count": 100,
+      "mean": 49.21,
+      "median": 49.26,
+      "std": 3.45,
+      "min": 42.27,
+      "max": 59.48,
+      "q25": 46.78,
+      "q75": 51.32
+    },
+    "rix": {
+      "count": 100,
+      "mean": 5.82,
+      "median": 5.8,
+      "std": 0.79,
+      "min": 4.33,
+      "max": 8.43,
+      "q25": 5.28,
+      "q75": 6.33
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 13.87,
+      "median": 13.95,
+      "std": 1.07,
+      "min": 11.19,
+      "max": 16.42,
+      "q25": 13.19,
+      "q75": 14.54
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 7.75,
+      "median": 7.77,
+      "std": 0.46,
+      "min": 6.67,
+      "max": 9.28,
+      "q25": 7.42,
+      "q75": 8.08
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 266.55,
+      "median": 266.0,
+      "std": 38.46,
+      "min": 192.0,
+      "max": 360.0,
+      "q25": 237.5,
+      "q75": 292.5
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 130.59,
+      "median": 129.5,
+      "std": 23.72,
+      "min": 79.0,
+      "max": 187.0,
+      "q25": 115.0,
+      "q75": 149.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 182.99,
+      "median": 181.0,
+      "std": 30.05,
+      "min": 118.0,
+      "max": 263.0,
+      "q25": 160.0,
+      "q75": 200.25
+    }
+  },
+  "agentic_llama_3_3_70b": {
+    "words": {
+      "count": 100,
+      "mean": 497.14,
+      "median": 478.5,
+      "std": 113.81,
+      "min": 262.0,
+      "max": 831.0,
+      "q25": 415.0,
+      "q75": 573.0
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 25.26,
+      "median": 24.0,
+      "std": 5.3,
+      "min": 16.0,
+      "max": 42.0,
+      "q25": 21.0,
+      "q75": 28.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 19.85,
+      "median": 19.98,
+      "std": 3.09,
+      "min": 12.33,
+      "max": 25.33,
+      "q25": 17.82,
+      "q75": 22.53
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 10.89,
+      "median": 9.0,
+      "std": 6.67,
+      "min": 2.0,
+      "max": 42.0,
+      "q25": 6.0,
+      "q75": 14.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 46.97,
+      "median": 45.0,
+      "std": 12.25,
+      "min": 24.0,
+      "max": 84.0,
+      "q25": 38.75,
+      "q75": 54.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 23.49,
+      "median": 23.0,
+      "std": 6.07,
+      "min": 11.0,
+      "max": 42.0,
+      "q25": 18.75,
+      "q75": 26.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 19.93,
+      "median": 19.0,
+      "std": 7.85,
+      "min": 5.0,
+      "max": 45.0,
+      "q25": 14.0,
+      "q75": 25.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 148.66,
+      "median": 145.0,
+      "std": 35.55,
+      "min": 76.0,
+      "max": 237.0,
+      "q25": 123.0,
+      "q75": 171.25
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 42.72,
+      "median": 42.93,
+      "std": 9.22,
+      "min": 12.37,
+      "max": 69.54,
+      "q25": 38.07,
+      "q75": 48.63
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 12.23,
+      "median": 12.28,
+      "std": 1.76,
+      "min": 8.04,
+      "max": 17.63,
+      "q25": 11.02,
+      "q75": 13.36
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 12.46,
+      "median": 12.62,
+      "std": 1.93,
+      "min": 7.78,
+      "max": 17.08,
+      "q25": 11.23,
+      "q75": 13.92
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 12.59,
+      "median": 12.7,
+      "std": 1.47,
+      "min": 7.48,
+      "max": 15.96,
+      "q25": 11.56,
+      "q75": 13.42
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 16.91,
+      "median": 17.02,
+      "std": 1.96,
+      "min": 11.12,
+      "max": 22.19,
+      "q25": 15.7,
+      "q75": 18.24
+    },
+    "lix": {
+      "count": 100,
+      "mean": 53.08,
+      "median": 53.0,
+      "std": 4.87,
+      "min": 42.19,
+      "max": 65.51,
+      "q25": 50.2,
+      "q75": 56.41
+    },
+    "rix": {
+      "count": 100,
+      "mean": 6.6,
+      "median": 6.62,
+      "std": 1.28,
+      "min": 3.69,
+      "max": 9.78,
+      "q25": 5.66,
+      "q75": 7.59
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 13.41,
+      "median": 13.15,
+      "std": 1.62,
+      "min": 9.24,
+      "max": 18.91,
+      "q25": 12.37,
+      "q75": 14.36
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 7.54,
+      "median": 7.54,
+      "std": 0.54,
+      "min": 5.89,
+      "max": 9.08,
+      "q25": 7.19,
+      "q75": 7.87
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 207.16,
+      "median": 192.5,
+      "std": 54.83,
+      "min": 111.0,
+      "max": 390.0,
+      "q25": 173.0,
+      "q75": 233.75
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 112.08,
+      "median": 105.0,
+      "std": 34.51,
+      "min": 37.0,
+      "max": 236.0,
+      "q25": 90.0,
+      "q75": 133.25
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 165.9,
+      "median": 155.0,
+      "std": 46.36,
+      "min": 80.0,
+      "max": 340.0,
+      "q25": 134.5,
+      "q75": 189.5
+    }
+  },
+  "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash": {
+    "words": {
+      "count": 100,
+      "mean": 514.41,
+      "median": 517.5,
+      "std": 72.1,
+      "min": 207.0,
+      "max": 729.0,
+      "q25": 481.25,
+      "q75": 549.25
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 29.37,
+      "median": 30.0,
+      "std": 4.76,
+      "min": 14.0,
+      "max": 42.0,
+      "q25": 26.0,
+      "q75": 32.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 17.62,
+      "median": 17.59,
+      "std": 1.45,
+      "min": 14.34,
+      "max": 21.72,
+      "q25": 16.65,
+      "q75": 18.47
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 9.57,
+      "median": 9.0,
+      "std": 4.26,
+      "min": 3.0,
+      "max": 27.0,
+      "q25": 6.0,
+      "q75": 12.25
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 54.74,
+      "median": 53.0,
+      "std": 12.12,
+      "min": 26.0,
+      "max": 91.0,
+      "q25": 47.75,
+      "q75": 60.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 32.64,
+      "median": 31.0,
+      "std": 7.57,
+      "min": 13.0,
+      "max": 59.0,
+      "q25": 27.75,
+      "q75": 37.25
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 17.86,
+      "median": 17.5,
+      "std": 5.44,
+      "min": 5.0,
+      "max": 35.0,
+      "q25": 14.0,
+      "q75": 20.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 143.63,
+      "median": 145.5,
+      "std": 21.99,
+      "min": 54.0,
+      "max": 212.0,
+      "q25": 128.0,
+      "q75": 154.0
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 54.97,
+      "median": 54.28,
+      "std": 5.52,
+      "min": 36.65,
+      "max": 73.37,
+      "q25": 51.52,
+      "q75": 58.57
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 9.97,
+      "median": 10.05,
+      "std": 0.87,
+      "min": 6.59,
+      "max": 12.73,
+      "q25": 9.49,
+      "q75": 10.52
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 10.13,
+      "median": 10.18,
+      "std": 0.98,
+      "min": 6.81,
+      "max": 12.01,
+      "q25": 9.64,
+      "q75": 10.78
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 10.91,
+      "median": 10.99,
+      "std": 1.04,
+      "min": 8.44,
+      "max": 13.67,
+      "q25": 10.36,
+      "q75": 11.5
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 14.24,
+      "median": 14.22,
+      "std": 1.16,
+      "min": 9.63,
+      "max": 18.22,
+      "q25": 13.52,
+      "q75": 14.97
+    },
+    "lix": {
+      "count": 100,
+      "mean": 46.69,
+      "median": 46.81,
+      "std": 3.06,
+      "min": 38.38,
+      "max": 55.15,
+      "q25": 44.71,
+      "q75": 48.62
+    },
+    "rix": {
+      "count": 100,
+      "mean": 5.11,
+      "median": 5.14,
+      "std": 0.6,
+      "min": 3.45,
+      "max": 6.73,
+      "q25": 4.73,
+      "q75": 5.48
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.48,
+      "median": 12.49,
+      "std": 0.95,
+      "min": 9.48,
+      "max": 15.77,
+      "q25": 12.15,
+      "q75": 13.0
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.84,
+      "median": 6.81,
+      "std": 0.44,
+      "min": 5.67,
+      "max": 8.01,
+      "q25": 6.58,
+      "q75": 7.13
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 194.28,
+      "median": 196.0,
+      "std": 30.28,
+      "min": 83.0,
+      "max": 314.0,
+      "q25": 180.0,
+      "q75": 208.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 92.17,
+      "median": 93.0,
+      "std": 17.84,
+      "min": 41.0,
+      "max": 160.0,
+      "q25": 85.0,
+      "q75": 101.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 148.95,
+      "median": 149.5,
+      "std": 22.46,
+      "min": 65.0,
+      "max": 243.0,
+      "q25": 139.0,
+      "q75": 159.25
+    }
+  },
+  "agentic_old_gemini_2_5_pro": {
+    "words": {
+      "count": 100,
+      "mean": 590.55,
+      "median": 590.5,
+      "std": 83.05,
+      "min": 363.0,
+      "max": 745.0,
+      "q25": 538.0,
+      "q75": 656.75
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 36.1,
+      "median": 36.5,
+      "std": 6.05,
+      "min": 20.0,
+      "max": 50.0,
+      "q25": 32.0,
+      "q75": 40.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 16.53,
+      "median": 16.37,
+      "std": 1.87,
+      "min": 12.53,
+      "max": 21.25,
+      "q25": 15.15,
+      "q75": 17.93
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 11.49,
+      "median": 12.0,
+      "std": 4.48,
+      "min": 1.0,
+      "max": 27.0,
+      "q25": 8.0,
+      "q75": 15.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 63.2,
+      "median": 63.0,
+      "std": 13.09,
+      "min": 34.0,
+      "max": 91.0,
+      "q25": 53.75,
+      "q75": 73.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 40.19,
+      "median": 39.5,
+      "std": 7.24,
+      "min": 27.0,
+      "max": 69.0,
+      "q25": 34.0,
+      "q75": 44.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 17.68,
+      "median": 17.0,
+      "std": 5.79,
+      "min": 7.0,
+      "max": 35.0,
+      "q25": 13.0,
+      "q75": 21.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 159.35,
+      "median": 157.0,
+      "std": 25.02,
+      "min": 98.0,
+      "max": 223.0,
+      "q25": 142.75,
+      "q75": 177.0
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 63.16,
+      "median": 62.5,
+      "std": 6.21,
+      "min": 49.65,
+      "max": 79.68,
+      "q25": 59.35,
+      "q75": 67.01
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 8.56,
+      "median": 8.71,
+      "std": 1.14,
+      "min": 5.5,
+      "max": 11.08,
+      "q25": 7.87,
+      "q75": 9.36
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 8.49,
+      "median": 8.5,
+      "std": 1.25,
+      "min": 4.89,
+      "max": 11.38,
+      "q25": 7.67,
+      "q75": 9.39
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 9.42,
+      "median": 9.42,
+      "std": 1.03,
+      "min": 6.58,
+      "max": 11.98,
+      "q25": 8.85,
+      "q75": 10.02
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 12.51,
+      "median": 12.54,
+      "std": 1.38,
+      "min": 8.41,
+      "max": 15.7,
+      "q25": 11.76,
+      "q75": 13.4
+    },
+    "lix": {
+      "count": 100,
+      "mean": 42.02,
+      "median": 42.77,
+      "std": 3.75,
+      "min": 32.23,
+      "max": 54.1,
+      "q25": 39.32,
+      "q75": 44.12
+    },
+    "rix": {
+      "count": 100,
+      "mean": 4.21,
+      "median": 4.31,
+      "std": 0.71,
+      "min": 2.47,
+      "max": 6.81,
+      "q25": 3.74,
+      "q75": 4.67
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.16,
+      "median": 12.22,
+      "std": 0.9,
+      "min": 10.0,
+      "max": 14.53,
+      "q25": 11.6,
+      "q75": 12.75
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.39,
+      "median": 6.4,
+      "std": 0.43,
+      "min": 4.99,
+      "max": 7.42,
+      "q25": 6.14,
+      "q75": 6.67
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 208.0,
+      "median": 208.0,
+      "std": 30.78,
+      "min": 114.0,
+      "max": 280.0,
+      "q25": 188.75,
+      "q75": 227.75
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 86.35,
+      "median": 88.5,
+      "std": 16.47,
+      "min": 46.0,
+      "max": 122.0,
+      "q25": 77.0,
+      "q75": 96.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 149.57,
+      "median": 149.0,
+      "std": 22.93,
+      "min": 85.0,
+      "max": 208.0,
+      "q25": 135.75,
+      "q75": 164.0
+    }
+  },
+  "agentic_old_gpt_5": {
+    "words": {
+      "count": 100,
+      "mean": 878.68,
+      "median": 863.5,
+      "std": 101.16,
+      "min": 683.0,
+      "max": 1286.0,
+      "q25": 809.25,
+      "q75": 936.0
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 45.6,
+      "median": 46.0,
+      "std": 5.77,
+      "min": 29.0,
+      "max": 62.0,
+      "q25": 41.75,
+      "q75": 49.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 19.49,
+      "median": 19.43,
+      "std": 2.69,
+      "min": 14.17,
+      "max": 29.23,
+      "q25": 17.63,
+      "q75": 20.92
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 21.67,
+      "median": 21.0,
+      "std": 6.64,
+      "min": 7.0,
+      "max": 42.0,
+      "q25": 17.0,
+      "q75": 26.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 92.9,
+      "median": 92.0,
+      "std": 13.68,
+      "min": 62.0,
+      "max": 139.0,
+      "q25": 83.0,
+      "q75": 102.25
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 44.73,
+      "median": 45.0,
+      "std": 7.59,
+      "min": 26.0,
+      "max": 67.0,
+      "q25": 40.0,
+      "q75": 49.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 25.89,
+      "median": 25.0,
+      "std": 9.11,
+      "min": 5.0,
+      "max": 56.0,
+      "q25": 20.0,
+      "q75": 30.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 278.74,
+      "median": 275.0,
+      "std": 42.28,
+      "min": 203.0,
+      "max": 469.0,
+      "q25": 252.5,
+      "q75": 295.5
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 51.14,
+      "median": 51.68,
+      "std": 6.19,
+      "min": 35.2,
+      "max": 69.98,
+      "q25": 46.68,
+      "q75": 55.86
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 10.97,
+      "median": 10.93,
+      "std": 1.31,
+      "min": 7.11,
+      "max": 15.0,
+      "q25": 10.04,
+      "q75": 11.79
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 11.59,
+      "median": 11.51,
+      "std": 1.51,
+      "min": 7.16,
+      "max": 15.77,
+      "q25": 10.74,
+      "q75": 12.44
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 11.71,
+      "median": 11.67,
+      "std": 1.01,
+      "min": 8.78,
+      "max": 14.35,
+      "q25": 11.03,
+      "q75": 12.42
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 15.12,
+      "median": 15.05,
+      "std": 1.41,
+      "min": 10.96,
+      "max": 19.22,
+      "q25": 14.13,
+      "q75": 15.92
+    },
+    "lix": {
+      "count": 100,
+      "mean": 48.34,
+      "median": 48.12,
+      "std": 3.57,
+      "min": 38.74,
+      "max": 58.85,
+      "q25": 45.94,
+      "q75": 50.67
+    },
+    "rix": {
+      "count": 100,
+      "mean": 5.61,
+      "median": 5.62,
+      "std": 0.88,
+      "min": 3.52,
+      "max": 8.66,
+      "q25": 4.98,
+      "q75": 5.93
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 15.5,
+      "median": 15.55,
+      "std": 0.99,
+      "min": 13.1,
+      "max": 18.72,
+      "q25": 14.87,
+      "q75": 16.0
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 7.71,
+      "median": 7.73,
+      "std": 0.43,
+      "min": 6.01,
+      "max": 8.79,
+      "q25": 7.45,
+      "q75": 7.97
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 375.02,
+      "median": 370.0,
+      "std": 47.62,
+      "min": 263.0,
+      "max": 548.0,
+      "q25": 348.75,
+      "q75": 398.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 160.88,
+      "median": 158.0,
+      "std": 25.34,
+      "min": 101.0,
+      "max": 249.0,
+      "q25": 144.75,
+      "q75": 176.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 253.35,
+      "median": 249.5,
+      "std": 36.18,
+      "min": 175.0,
+      "max": 381.0,
+      "q25": 232.5,
+      "q75": 268.0
+    }
+  },
+  "agentic_old_gpt-oss-120B": {
+    "words": {
+      "count": 100,
+      "mean": 742.88,
+      "median": 747.5,
+      "std": 103.2,
+      "min": 369.0,
+      "max": 1071.0,
+      "q25": 678.0,
+      "q75": 804.25
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 37.7,
+      "median": 37.0,
+      "std": 5.16,
+      "min": 23.0,
+      "max": 50.0,
+      "q25": 34.75,
+      "q75": 42.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 19.8,
+      "median": 19.95,
+      "std": 2.05,
+      "min": 15.98,
+      "max": 25.2,
+      "q25": 18.33,
+      "q75": 20.94
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 18.73,
+      "median": 18.0,
+      "std": 7.11,
+      "min": 2.0,
+      "max": 43.0,
+      "q25": 14.0,
+      "q75": 23.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 75.59,
+      "median": 74.0,
+      "std": 14.28,
+      "min": 47.0,
+      "max": 127.0,
+      "q25": 67.0,
+      "q75": 84.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 39.1,
+      "median": 38.0,
+      "std": 7.89,
+      "min": 17.0,
+      "max": 62.0,
+      "q25": 34.0,
+      "q75": 45.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 25.68,
+      "median": 24.0,
+      "std": 8.48,
+      "min": 9.0,
+      "max": 50.0,
+      "q25": 19.0,
+      "q75": 31.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 218.46,
+      "median": 219.0,
+      "std": 35.81,
+      "min": 118.0,
+      "max": 338.0,
+      "q25": 194.5,
+      "q75": 237.25
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 51.08,
+      "median": 50.65,
+      "std": 6.52,
+      "min": 36.52,
+      "max": 72.94,
+      "q25": 45.85,
+      "q75": 55.08
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 11.05,
+      "median": 11.04,
+      "std": 1.2,
+      "min": 7.07,
+      "max": 14.22,
+      "q25": 10.24,
+      "q75": 11.85
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 11.25,
+      "median": 11.24,
+      "std": 1.44,
+      "min": 7.22,
+      "max": 15.23,
+      "q25": 10.3,
+      "q75": 12.2
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 11.12,
+      "median": 11.19,
+      "std": 1.19,
+      "min": 8.11,
+      "max": 14.16,
+      "q25": 10.27,
+      "q75": 12.05
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 16.55,
+      "median": 16.73,
+      "std": 1.26,
+      "min": 13.62,
+      "max": 19.51,
+      "q25": 15.56,
+      "q75": 17.34
+    },
+    "lix": {
+      "count": 100,
+      "mean": 49.62,
+      "median": 49.71,
+      "std": 3.72,
+      "min": 39.89,
+      "max": 59.6,
+      "q25": 47.33,
+      "q75": 52.02
+    },
+    "rix": {
+      "count": 100,
+      "mean": 5.91,
+      "median": 5.89,
+      "std": 0.88,
+      "min": 3.83,
+      "max": 8.63,
+      "q25": 5.39,
+      "q75": 6.39
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 15.03,
+      "median": 15.08,
+      "std": 1.18,
+      "min": 10.48,
+      "max": 18.72,
+      "q25": 14.41,
+      "q75": 15.81
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 8.01,
+      "median": 8.03,
+      "std": 0.42,
+      "min": 7.0,
+      "max": 9.06,
+      "q25": 7.73,
+      "q75": 8.34
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 330.97,
+      "median": 331.5,
+      "std": 52.6,
+      "min": 167.0,
+      "max": 507.0,
+      "q25": 300.75,
+      "q75": 362.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 160.5,
+      "median": 161.5,
+      "std": 29.94,
+      "min": 70.0,
+      "max": 256.0,
+      "q25": 142.5,
+      "q75": 175.25
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 221.94,
+      "median": 222.5,
+      "std": 39.59,
+      "min": 88.0,
+      "max": 389.0,
+      "q25": 199.5,
+      "q75": 248.0
+    }
+  },
+  "baseline_gemini_2_5_pro": {
+    "words": {
+      "count": 100,
+      "mean": 660.65,
+      "median": 662.0,
+      "std": 72.68,
+      "min": 512.0,
+      "max": 818.0,
+      "q25": 612.25,
+      "q75": 715.0
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 41.64,
+      "median": 42.0,
+      "std": 5.74,
+      "min": 28.0,
+      "max": 54.0,
+      "q25": 38.75,
+      "q75": 45.25
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 16.05,
+      "median": 15.72,
+      "std": 2.01,
+      "min": 12.77,
+      "max": 23.83,
+      "q25": 14.65,
+      "q75": 17.06
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 14.75,
+      "median": 14.0,
+      "std": 5.27,
+      "min": 3.0,
+      "max": 31.0,
+      "q25": 11.0,
+      "q75": 18.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 66.43,
+      "median": 64.0,
+      "std": 12.53,
+      "min": 46.0,
+      "max": 109.0,
+      "q25": 58.0,
+      "q75": 72.25
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 45.52,
+      "median": 45.0,
+      "std": 7.7,
+      "min": 33.0,
+      "max": 80.0,
+      "q25": 40.75,
+      "q75": 49.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 19.05,
+      "median": 18.0,
+      "std": 6.98,
+      "min": 4.0,
+      "max": 42.0,
+      "q25": 14.0,
+      "q75": 23.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 171.8,
+      "median": 173.0,
+      "std": 24.69,
+      "min": 126.0,
+      "max": 241.0,
+      "q25": 154.75,
+      "q75": 186.5
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 64.45,
+      "median": 64.72,
+      "std": 4.77,
+      "min": 49.98,
+      "max": 77.53,
+      "q25": 61.78,
+      "q75": 67.63
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 8.26,
+      "median": 8.19,
+      "std": 0.92,
+      "min": 5.69,
+      "max": 11.33,
+      "q25": 7.56,
+      "q75": 8.73
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 8.01,
+      "median": 7.93,
+      "std": 1.07,
+      "min": 5.57,
+      "max": 11.71,
+      "q25": 7.36,
+      "q75": 8.76
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 9.07,
+      "median": 9.03,
+      "std": 0.81,
+      "min": 7.34,
+      "max": 10.93,
+      "q25": 8.53,
+      "q75": 9.66
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 12.38,
+      "median": 12.34,
+      "std": 1.12,
+      "min": 9.39,
+      "max": 16.08,
+      "q25": 11.61,
+      "q75": 12.96
+    },
+    "lix": {
+      "count": 100,
+      "mean": 41.21,
+      "median": 40.97,
+      "std": 3.04,
+      "min": 34.95,
+      "max": 49.19,
+      "q25": 39.41,
+      "q75": 43.09
+    },
+    "rix": {
+      "count": 100,
+      "mean": 4.02,
+      "median": 3.98,
+      "std": 0.58,
+      "min": 2.88,
+      "max": 6.03,
+      "q25": 3.64,
+      "q75": 4.31
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.74,
+      "median": 12.57,
+      "std": 1.01,
+      "min": 10.14,
+      "max": 15.61,
+      "q25": 12.17,
+      "q75": 13.21
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.53,
+      "median": 6.52,
+      "std": 0.37,
+      "min": 5.63,
+      "max": 7.69,
+      "q25": 6.29,
+      "q75": 6.74
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 240.15,
+      "median": 235.0,
+      "std": 34.73,
+      "min": 175.0,
+      "max": 326.0,
+      "q25": 216.0,
+      "q75": 266.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 98.59,
+      "median": 95.0,
+      "std": 20.08,
+      "min": 58.0,
+      "max": 158.0,
+      "q25": 85.75,
+      "q75": 109.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 166.07,
+      "median": 164.0,
+      "std": 25.47,
+      "min": 116.0,
+      "max": 228.0,
+      "q25": 146.5,
+      "q75": 182.25
+    }
+  },
+  "baseline_gpt_5": {
+    "words": {
+      "count": 100,
+      "mean": 866.36,
+      "median": 861.0,
+      "std": 79.5,
+      "min": 684.0,
+      "max": 1120.0,
+      "q25": 813.75,
+      "q75": 916.0
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 48.69,
+      "median": 49.0,
+      "std": 5.21,
+      "min": 36.0,
+      "max": 62.0,
+      "q25": 45.0,
+      "q75": 53.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 17.9,
+      "median": 17.98,
+      "std": 1.62,
+      "min": 12.67,
+      "max": 23.0,
+      "q25": 16.86,
+      "q75": 18.75
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 18.59,
+      "median": 18.0,
+      "std": 7.26,
+      "min": 6.0,
+      "max": 47.0,
+      "q25": 13.75,
+      "q75": 23.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 90.29,
+      "median": 90.0,
+      "std": 14.38,
+      "min": 66.0,
+      "max": 126.0,
+      "q25": 79.0,
+      "q75": 100.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 46.74,
+      "median": 46.0,
+      "std": 7.34,
+      "min": 32.0,
+      "max": 70.0,
+      "q25": 41.0,
+      "q75": 51.25
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 22.09,
+      "median": 20.0,
+      "std": 9.72,
+      "min": 5.0,
+      "max": 52.0,
+      "q25": 15.0,
+      "q75": 28.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 249.45,
+      "median": 249.0,
+      "std": 31.46,
+      "min": 172.0,
+      "max": 319.0,
+      "q25": 229.5,
+      "q75": 269.5
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 57.97,
+      "median": 58.33,
+      "std": 6.27,
+      "min": 42.99,
+      "max": 71.36,
+      "q25": 53.54,
+      "q75": 62.07
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 9.62,
+      "median": 9.57,
+      "std": 1.08,
+      "min": 6.86,
+      "max": 12.59,
+      "q25": 8.79,
+      "q75": 10.39
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 9.89,
+      "median": 9.77,
+      "std": 1.18,
+      "min": 5.74,
+      "max": 13.35,
+      "q25": 9.15,
+      "q75": 10.53
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 10.46,
+      "median": 10.58,
+      "std": 1.06,
+      "min": 7.88,
+      "max": 12.97,
+      "q25": 9.65,
+      "q75": 11.24
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 13.49,
+      "median": 13.37,
+      "std": 1.27,
+      "min": 11.2,
+      "max": 16.25,
+      "q25": 12.45,
+      "q75": 14.35
+    },
+    "lix": {
+      "count": 100,
+      "mean": 45.08,
+      "median": 44.83,
+      "std": 3.69,
+      "min": 37.81,
+      "max": 55.97,
+      "q25": 42.55,
+      "q75": 47.53
+    },
+    "rix": {
+      "count": 100,
+      "mean": 4.87,
+      "median": 4.86,
+      "std": 0.76,
+      "min": 3.19,
+      "max": 7.58,
+      "q25": 4.36,
+      "q75": 5.33
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 14.62,
+      "median": 14.6,
+      "std": 1.1,
+      "min": 12.17,
+      "max": 17.18,
+      "q25": 13.94,
+      "q75": 15.39
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.74,
+      "median": 6.73,
+      "std": 0.44,
+      "min": 5.82,
+      "max": 7.85,
+      "q25": 6.41,
+      "q75": 7.05
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 321.4,
+      "median": 320.0,
+      "std": 39.07,
+      "min": 235.0,
+      "max": 421.0,
+      "q25": 291.0,
+      "q75": 348.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 136.71,
+      "median": 137.0,
+      "std": 23.6,
+      "min": 94.0,
+      "max": 199.0,
+      "q25": 118.0,
+      "q75": 152.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 235.15,
+      "median": 234.0,
+      "std": 31.74,
+      "min": 171.0,
+      "max": 310.0,
+      "q25": 213.5,
+      "q75": 260.25
+    }
+  },
+  "baseline_gpt_oss_120b": {
+    "words": {
+      "count": 100,
+      "mean": 622.57,
+      "median": 623.0,
+      "std": 73.19,
+      "min": 439.0,
+      "max": 845.0,
+      "q25": 578.25,
+      "q75": 653.75
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 32.47,
+      "median": 32.0,
+      "std": 4.67,
+      "min": 23.0,
+      "max": 54.0,
+      "q25": 29.75,
+      "q75": 34.25
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 19.34,
+      "median": 19.07,
+      "std": 2.07,
+      "min": 14.17,
+      "max": 24.85,
+      "q25": 18.1,
+      "q75": 20.43
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 14.17,
+      "median": 13.0,
+      "std": 5.2,
+      "min": 4.0,
+      "max": 33.0,
+      "q25": 11.0,
+      "q75": 17.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 63.93,
+      "median": 63.0,
+      "std": 10.62,
+      "min": 42.0,
+      "max": 113.0,
+      "q25": 57.0,
+      "q75": 69.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 35.52,
+      "median": 35.0,
+      "std": 5.54,
+      "min": 23.0,
+      "max": 50.0,
+      "q25": 32.0,
+      "q75": 39.25
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 19.92,
+      "median": 18.0,
+      "std": 6.81,
+      "min": 7.0,
+      "max": 42.0,
+      "q25": 15.0,
+      "q75": 25.25
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 160.3,
+      "median": 160.0,
+      "std": 26.41,
+      "min": 95.0,
+      "max": 253.0,
+      "q25": 144.0,
+      "q75": 172.0
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 59.1,
+      "median": 59.61,
+      "std": 5.85,
+      "min": 40.58,
+      "max": 72.81,
+      "q25": 55.17,
+      "q75": 62.96
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 9.82,
+      "median": 9.75,
+      "std": 1.08,
+      "min": 7.02,
+      "max": 12.33,
+      "q25": 9.18,
+      "q75": 10.51
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 9.94,
+      "median": 9.94,
+      "std": 1.25,
+      "min": 6.89,
+      "max": 12.88,
+      "q25": 9.27,
+      "q75": 10.72
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 9.74,
+      "median": 9.75,
+      "std": 0.99,
+      "min": 7.34,
+      "max": 12.55,
+      "q25": 9.2,
+      "q75": 10.37
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 14.76,
+      "median": 14.65,
+      "std": 1.3,
+      "min": 12.27,
+      "max": 18.32,
+      "q25": 13.73,
+      "q75": 15.56
+    },
+    "lix": {
+      "count": 100,
+      "mean": 45.98,
+      "median": 45.87,
+      "std": 3.37,
+      "min": 39.37,
+      "max": 55.88,
+      "q25": 43.79,
+      "q75": 47.92
+    },
+    "rix": {
+      "count": 100,
+      "mean": 5.15,
+      "median": 5.08,
+      "std": 0.75,
+      "min": 3.67,
+      "max": 7.35,
+      "q25": 4.62,
+      "q75": 5.57
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.96,
+      "median": 12.9,
+      "std": 0.95,
+      "min": 11.06,
+      "max": 15.96,
+      "q25": 12.31,
+      "q75": 13.59
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.77,
+      "median": 6.81,
+      "std": 0.47,
+      "min": 5.68,
+      "max": 8.15,
+      "q25": 6.41,
+      "q75": 7.07
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 229.3,
+      "median": 227.5,
+      "std": 35.28,
+      "min": 152.0,
+      "max": 341.0,
+      "q25": 205.75,
+      "q75": 247.5
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 109.29,
+      "median": 106.0,
+      "std": 20.33,
+      "min": 71.0,
+      "max": 166.0,
+      "q25": 94.0,
+      "q75": 119.75
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 165.78,
+      "median": 162.5,
+      "std": 25.85,
+      "min": 112.0,
+      "max": 248.0,
+      "q25": 147.0,
+      "q75": 182.25
+    }
+  },
+  "baseline_llama_3_3_70b": {
+    "words": {
+      "count": 100,
+      "mean": 477.08,
+      "median": 492.0,
+      "std": 113.33,
+      "min": 171.0,
+      "max": 805.0,
+      "q25": 398.25,
+      "q75": 549.5
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 21.65,
+      "median": 21.0,
+      "std": 4.19,
+      "min": 11.0,
+      "max": 33.0,
+      "q25": 19.0,
+      "q75": 24.25
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 22.23,
+      "median": 21.63,
+      "std": 4.62,
+      "min": 14.41,
+      "max": 35.29,
+      "q25": 18.66,
+      "q75": 25.7
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 9.51,
+      "median": 9.0,
+      "std": 5.47,
+      "min": 0.0,
+      "max": 26.0,
+      "q25": 5.75,
+      "q75": 13.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 44.43,
+      "median": 43.0,
+      "std": 12.71,
+      "min": 21.0,
+      "max": 71.0,
+      "q25": 34.0,
+      "q75": 54.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 29.26,
+      "median": 29.0,
+      "std": 8.46,
+      "min": 10.0,
+      "max": 55.0,
+      "q25": 24.0,
+      "q75": 33.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 19.56,
+      "median": 19.0,
+      "std": 8.27,
+      "min": 5.0,
+      "max": 44.0,
+      "q25": 13.0,
+      "q75": 25.0
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 130.86,
+      "median": 130.0,
+      "std": 35.44,
+      "min": 43.0,
+      "max": 224.0,
+      "q25": 102.0,
+      "q75": 154.5
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 48.55,
+      "median": 50.38,
+      "std": 10.4,
+      "min": 19.97,
+      "max": 69.43,
+      "q25": 41.39,
+      "q75": 55.07
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 12.01,
+      "median": 11.87,
+      "std": 2.08,
+      "min": 8.71,
+      "max": 18.39,
+      "q25": 10.21,
+      "q75": 13.37
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 12.31,
+      "median": 12.03,
+      "std": 2.46,
+      "min": 8.5,
+      "max": 19.58,
+      "q25": 10.26,
+      "q75": 14.03
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 11.05,
+      "median": 11.18,
+      "std": 1.73,
+      "min": 5.89,
+      "max": 15.89,
+      "q25": 9.86,
+      "q75": 12.1
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 16.89,
+      "median": 16.59,
+      "std": 2.34,
+      "min": 13.0,
+      "max": 23.74,
+      "q25": 15.05,
+      "q75": 18.79
+    },
+    "lix": {
+      "count": 100,
+      "mean": 51.89,
+      "median": 51.5,
+      "std": 5.6,
+      "min": 42.02,
+      "max": 67.96,
+      "q25": 47.68,
+      "q75": 55.47
+    },
+    "rix": {
+      "count": 100,
+      "mean": 6.57,
+      "median": 6.26,
+      "std": 1.53,
+      "min": 4.1,
+      "max": 11.48,
+      "q25": 5.39,
+      "q75": 7.55
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 12.65,
+      "median": 12.54,
+      "std": 1.57,
+      "min": 8.83,
+      "max": 16.49,
+      "q25": 11.59,
+      "q75": 13.61
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 6.87,
+      "median": 6.84,
+      "std": 0.64,
+      "min": 5.24,
+      "max": 8.52,
+      "q25": 6.47,
+      "q75": 7.22
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 173.9,
+      "median": 176.5,
+      "std": 44.99,
+      "min": 63.0,
+      "max": 294.0,
+      "q25": 140.0,
+      "q75": 200.25
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 95.13,
+      "median": 92.0,
+      "std": 30.3,
+      "min": 33.0,
+      "max": 184.0,
+      "q25": 76.0,
+      "q75": 113.0
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 141.06,
+      "median": 139.0,
+      "std": 38.03,
+      "min": 57.0,
+      "max": 252.0,
+      "q25": 111.75,
+      "q75": 163.75
+    }
+  },
+  "original": {
+    "words": {
+      "count": 100,
+      "mean": 868.22,
+      "median": 894.5,
+      "std": 174.77,
+      "min": 376.0,
+      "max": 1266.0,
+      "q25": 762.0,
+      "q75": 1014.5
+    },
+    "sentences": {
+      "count": 100,
+      "mean": 33.82,
+      "median": 33.5,
+      "std": 7.73,
+      "min": 14.0,
+      "max": 57.0,
+      "q25": 28.0,
+      "q75": 39.0
+    },
+    "words_per_sentence": {
+      "count": 100,
+      "mean": 26.04,
+      "median": 25.66,
+      "std": 3.63,
+      "min": 17.82,
+      "max": 37.8,
+      "q25": 24.14,
+      "q75": 27.81
+    },
+    "passive_voice": {
+      "count": 100,
+      "mean": 24.56,
+      "median": 24.0,
+      "std": 9.74,
+      "min": 7.0,
+      "max": 54.0,
+      "q25": 18.0,
+      "q75": 29.0
+    },
+    "active_voice": {
+      "count": 100,
+      "mean": 49.85,
+      "median": 49.0,
+      "std": 14.43,
+      "min": 21.0,
+      "max": 105.0,
+      "q25": 40.0,
+      "q75": 57.0
+    },
+    "pronouns": {
+      "count": 100,
+      "mean": 20.42,
+      "median": 18.5,
+      "std": 8.18,
+      "min": 7.0,
+      "max": 66.0,
+      "q25": 15.0,
+      "q75": 25.0
+    },
+    "nominalization": {
+      "count": 100,
+      "mean": 43.35,
+      "median": 42.5,
+      "std": 15.59,
+      "min": 17.0,
+      "max": 91.0,
+      "q25": 31.0,
+      "q75": 51.25
+    },
+    "nouns": {
+      "count": 100,
+      "mean": 278.62,
+      "median": 281.0,
+      "std": 62.81,
+      "min": 110.0,
+      "max": 402.0,
+      "q25": 241.0,
+      "q75": 324.5
+    },
+    "flesch_reading_ease": {
+      "count": 100,
+      "mean": 42.12,
+      "median": 40.27,
+      "std": 11.45,
+      "min": 19.3,
+      "max": 70.4,
+      "q25": 34.8,
+      "q75": 51.07
+    },
+    "flesch_kincaid_grade": {
+      "count": 100,
+      "mean": 13.85,
+      "median": 14.08,
+      "std": 1.74,
+      "min": 9.92,
+      "max": 18.18,
+      "q25": 12.45,
+      "q75": 15.16
+    },
+    "automated_readability_index": {
+      "count": 100,
+      "mean": 14.07,
+      "median": 14.26,
+      "std": 2.09,
+      "min": 9.0,
+      "max": 19.69,
+      "q25": 12.46,
+      "q75": 15.41
+    },
+    "coleman_liau_index": {
+      "count": 100,
+      "mean": 11.11,
+      "median": 11.54,
+      "std": 2.48,
+      "min": 4.38,
+      "max": 17.37,
+      "q25": 9.72,
+      "q75": 12.66
+    },
+    "gunning_fog_index": {
+      "count": 100,
+      "mean": 20.39,
+      "median": 20.06,
+      "std": 1.83,
+      "min": 16.76,
+      "max": 25.27,
+      "q25": 19.1,
+      "q75": 21.37
+    },
+    "lix": {
+      "count": 100,
+      "mean": 59.26,
+      "median": 59.61,
+      "std": 4.62,
+      "min": 49.09,
+      "max": 72.38,
+      "q25": 55.76,
+      "q75": 62.77
+    },
+    "rix": {
+      "count": 100,
+      "mean": 8.6,
+      "median": 8.6,
+      "std": 1.35,
+      "min": 5.98,
+      "max": 13.07,
+      "q25": 7.61,
+      "q75": 9.38
+    },
+    "smog_index": {
+      "count": 100,
+      "mean": 17.37,
+      "median": 17.49,
+      "std": 1.63,
+      "min": 12.64,
+      "max": 20.52,
+      "q25": 16.37,
+      "q75": 18.53
+    },
+    "dale_chall_readability": {
+      "count": 100,
+      "mean": 8.75,
+      "median": 8.84,
+      "std": 0.56,
+      "min": 7.46,
+      "max": 10.11,
+      "q25": 8.33,
+      "q75": 9.12
+    },
+    "complex_words_dc": {
+      "count": 100,
+      "mean": 411.69,
+      "median": 427.0,
+      "std": 91.59,
+      "min": 160.0,
+      "max": 590.0,
+      "q25": 361.0,
+      "q75": 477.5
+    },
+    "complex_words": {
+      "count": 100,
+      "mean": 215.47,
+      "median": 218.0,
+      "std": 48.02,
+      "min": 87.0,
+      "max": 305.0,
+      "q25": 182.75,
+      "q75": 247.5
+    },
+    "long_words": {
+      "count": 100,
+      "mean": 285.83,
+      "median": 291.5,
+      "std": 59.27,
+      "min": 129.0,
+      "max": 464.0,
+      "q25": 244.75,
+      "q75": 320.0
+    }
+  }
+}

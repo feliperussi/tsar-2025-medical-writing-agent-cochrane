@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015968",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nDo digital health tools (apps, texts, wearables, active video games, telehealth) help children and teens with obesity?\n\nKey Messages\n- When digital health tools are added to usual care, they probably reduce body fat slightly in the short term. We do not know if they help with other important outcomes like weight, mental well‑being, or blood pressure. When digital tools are used on their own, we do not know if they help compared with usual care. None of the studies reported harmful effects or safety problems.\n- Most studies focused on teenagers and used different types of digital tools. Many were short, and they measured outcomes in different ways. This makes it hard to draw firm conclusions beyond short‑term changes in body fat.\n- Future research should include longer follow‑up, report safety outcomes, and share full results. Studies should also report results by age, gender, and race/ethnicity; test both diet and physical activity; and explain the behavior ideas behind the tools.\n\nIntroduction to the review topic and review aims\n\nWhat is childhood and adolescent obesity, and why does it matter?\nObesity means having too much body fat. Childhood and adolescent obesity is common around the world and increases the chance of long‑term health problems, such as diabetes and heart disease. These are chronic conditions, which means they last for a long time. Managing weight early may improve health later in life.\n\nWhat are digital health tools?\nDigital health tools use technology to support health goals. In this review, they included:\n- wearables (devices you wear that track activity)\n- web‑based programs and mobile or tablet apps\n- text messages\n- active video games (“exergaming”) that make you move your body\n- telehealth (remote care by phone or video)\nThese tools may work along with diet and physical activity programs, or they may be used alone.\n\nWhat did we want to find out?\nWe wanted to know if digital health tools help manage obesity in children and adolescents. We looked at two situations:\n- digital tools used together with usual care, compared with usual care alone\n- digital tools used alone, compared with usual care alone\nWe also wanted to know about unwanted effects and safety.\n\n[Optional] How is obesity usually managed?\nCommon approaches include:\n- diet changes (for example, reducing energy‑dense foods and sugary drinks)\n- physical activity programs\n- counseling or coaching to support healthy habits\n- support from families, schools, or health services\n\nWhat did we do?\nWe searched for studies that tested digital health tools for children and adolescents with obesity, compared them with usual care, summarized the results, and judged how confident we are in the findings.\n\nWhat did we find?\nWe found 15 studies with 911 children and adolescents. Studies took place in the USA (5), Sweden (3), and one each in Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. All studies included adolescents aged 10 to 19 years, and 5 also included younger children. Eight studies combined diet and physical activity, 4 focused only on physical activity, and 3 focused only on diet. Nine studies were shorter than 6 months, and 6 lasted 6 months or longer. Many studies did not explain the behavior theory behind the tool. The abstract did not report information about who funded the studies.\n\nWe grouped the results into two comparisons.\n\nDigital tools plus usual care versus usual care alone:\n- Digital tools plus usual care probably reduce body fat slightly at the end of the study. This small change is likely to matter to health in the short term.\n- It is unclear whether digital tools plus usual care improve other outcomes, such as weight, physical activity, mental well‑being, blood pressure, or blood tests. We do not know about safety because no studies reported unwanted effects.\n\nDigital tools alone versus usual care alone:\n- It is unclear whether digital tools used alone help with any outcomes when compared with usual care alone.\n- We do not know about safety because no studies reported unwanted effects.\n\nWhat are the limitations of the evidence?\nWe are moderately confident that adding digital tools to usual care probably reduces body fat slightly in the short term. However, we have little confidence about other outcomes because many studies were small, often short, and used different types of tools and ways of measuring results. Many studies did not report full data or any information about unwanted effects. This makes it hard to understand long‑term benefits and safety.\n\nHow up to date is this evidence?\nThe evidence is up to date to April 2025.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 792,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.41860465116279,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 230,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 230.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.715116279069775,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.784922480620157,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.456006871035946,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.654292929292929,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.983603476626735,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.67112990368804,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.651162790697675,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.014244608879492,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 306,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 306.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 131,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 131.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 792,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 792 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:52.939479"
+}

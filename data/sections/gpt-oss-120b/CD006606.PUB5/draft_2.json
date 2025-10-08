@@ -1,0 +1,162 @@
+{
+  "id": "CD006606.PUB5",
+  "draft": "Is in vitro maturation (IVM) – maturing eggs in the lab – as effective as standard IVF for women with polycystic ovarian syndrome (PCOS) trying to get pregnant?\n\nKey messages\n- The research does not give a clear answer about whether IVM (maturing eggs in the laboratory) provides the same chance of a live birth as standard IVF (fertilising eggs after hormonal stimulation) for women with PCOS. The evidence is very uncertain about overall success, but IVM probably raises the risk of miscarriage and lowers the risk of moderate or severe ovarian hyperstimulation syndrome (OHSS – a potentially serious reaction to fertility drugs).\n- Outcomes such as preterm birth (baby born before full term) and congenital anomalies (birth defects) appear similar between IVM and IVF, although the data are limited.\n- Future research should include larger, high‑quality trials that directly compare IVM with IVF and report long‑term outcomes, so we can clarify the true benefits and harms for women with PCOS.\n\nWhat is polycystic ovarian syndrome (PCOS) and why does it affect fertility?\nPCOS is a hormonal condition that affects about 8 % to 13 % of women of child‑bearing age. Women with PCOS often have irregular periods, higher levels of male‑type hormones, and ovaries that contain many small cysts. These changes make it harder for an egg to mature and be released, which reduces the chance of natural conception. Roughly half of the women who seek fertility help have PCOS.\n\nWhat are the usual assisted‑reproduction techniques and their problems for women with PCOS?\nWhen natural conception is unlikely, many couples use assisted reproductive technologies such as in‑vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI). In IVF/ICSI, doctors give high doses of gonadotrophins (fertility medicines) to stimulate the ovaries, retrieve many eggs, fertilise them in the lab, and transfer embryos back into the uterus. For women with PCOS, this strong stimulation often produces a large number of immature or uneven‑quality eggs and raises the risk of ovarian hyperstimulation syndrome (OHSS), where the ovaries swell and fluid leaks into the body. In‑vitro maturation (IVM) offers an alternative: doctors collect immature eggs (at the germinal‑vesicle stage) and let them mature in the laboratory before fertilisation, potentially reducing the need for high‑dose stimulation and the risk of OHSS.\n\nWhat did the review aim to find out?\nWe wanted to compare the benefits and harms of IVM (followed by IVF or ICSI) with standard IVF/ICSI in women with PCOS. Specifically, we looked at live‑birth rates, miscarriage risk, OHSS risk, preterm birth, and congenital anomalies.\n\nHow did we find the evidence?\nWe searched several databases (Cochrane Gynaecology and Fertility Group Register, CENTRAL, MEDLINE, Embase, Open Grey) and relevant guidelines up to 27 February 2023. We selected randomised controlled trials that compared IVM before IVF/ICSI with conventional IVF/ICSI in sub‑fertile women with PCOS. Two reviewers independently screened studies, assessed risk of bias, and extracted data. We combined results in a meta‑analysis and assessed confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe identified four randomised trials involving 810 women with PCOS. The trials compared IVM of immature eggs followed by IVF/ICSI with conventional IVF/ICSI using a GnRH‑antagonist protocol (a medication regimen that prevents premature hormone surges). The evidence is very uncertain whether IVM changes the chance of a live birth or a clinical pregnancy compared with standard IVF. IVM probably increases miscarriage per clinical pregnancy and probably reduces the risk of moderate or severe OHSS. IVM probably makes little or no difference to preterm birth and may make little or no difference to congenital anomalies.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants likely knew which treatment they received, the trials were small, and the study populations and interventions varied.\n\nHow current is the evidence?\nThis review updates the previous Cochrane review and includes evidence up to February 2023.\n",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 675,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.09375,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 28,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 46.68084375000004,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.9885625,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.696963888888888,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.985896296296296,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.385648148148146,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.42708333333333,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.1875,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.083045973594572,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.502605555555556,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 276,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 276.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 151,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 151.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 198,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 198.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 675,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 675 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 8,
+        "P75_count": 2,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 3,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 16.666666666666664,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft meets the required sections, title/sub‑heading format and word‑count, but several clarity problems would likely confuse patients:\n1. **Unexplained jargon** – the term “GnRH‑antagonist protocol” appears without a simple definition. Patients may not know what this medication regimen does.\n   *Problematic sentence*: \"The trials compared IVM of immature eggs followed by IVF/ICSI with conventional IVF/ICSI using a GnRH‑antagonist protocol (a medication regimen that prevents premature hormone surges).\"\n   *Suggested rewrite*: \"The trials compared IVM of immature eggs followed by IVF/ICSI with conventional IVF/ICSI, using a GnRH‑antagonist protocol – a type of medication that stops the body’s natural hormone surge before egg retrieval.\"\n2. **Long, dense sentences** – several sentences exceed 30 words, making them hard to follow.\n   *Problematic sentence*: \"The research does not give a clear answer about whether IVM (maturing eggs in the laboratory) provides the same chance of a live birth as standard IVF (fertilising eggs after hormonal stimulation) for women with PCOS.\"\n   *Suggested rewrite*: \"We do not yet know if IVM – maturing eggs in the lab – gives the same chance of a live birth as standard IVF – fertilising eggs after hormonal stimulation – for women with PCOS.\"\n3. **Missing definition of “clinical pregnancy”** – the outcome is mentioned without explaining what it means.\n   *Problematic sentence*: \"IVM probably increases miscarriage per clinical pregnancy.\"\n   *Suggested rewrite*: \"IVM probably increases miscarriage per clinical pregnancy – that is, after an ultrasound shows a fetal heartbeat.\"\n4. **Noun‑heavy, passive‑style phrasing** – the draft uses many noun‑based constructions that reduce readability (e.g., \"The evidence is very uncertain whether IVM changes the chance...\").\n   *Problematic sentence*: \"The evidence is very uncertain whether IVM changes the chance of a live birth or a clinical pregnancy compared with standard IVF.\"\n   *Suggested rewrite*: \"We are very uncertain whether IVM changes the chance of a live birth or a clinical pregnancy compared with standard IVF.\"\n5. **Wordy description of limitations** – the sentence is long and contains several clauses.\n   *Problematic sentence*: \"We are not confident in the evidence because participants likely knew which treatment they received, the trials were small, and the study populations and interventions varied.\"\n   *Suggested rewrite*: \"We are not confident in the evidence because participants probably knew which treatment they received, the trials were small, and the study groups and methods differed.\"\nThese changes address the most patient‑impacting clarity issues and also help reduce the high noun count, nominalisations, and complex‑word metrics reported in the evaluation.\n\n**Metrics support**: The evaluation shows unusually high nominalisations (28, beyond P90), nouns (164, beyond P90), complex words (151, beyond P90), long words (198, beyond P90) and a SMOG index of 15.1 (beyond P90). The suggested rewrites replace many noun‑heavy phrases with active verbs and simpler words, directly targeting these metric outliers.",
+      "pls_evaluation_summary": "The draft scores within the word‑limit (675 words) and meets most median‑range readability metrics, but deviates strongly on noun density, nominalisations, complex/long words and SMOG index (all beyond the 90th percentile). These linguistic patterns indicate the text is more noun‑heavy and complex than typical Cochrane PLSs, supporting the need for the active‑voice, simpler‑word revisions outlined above."
+    }
+  ]
+}

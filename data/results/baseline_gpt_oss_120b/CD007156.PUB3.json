@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007156.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs taking antioxidants or other medicines helpful for people with oral submucous fibrosis (OSF), a condition that tightens the mouth?\n\nKey Messages  \n- Antioxidants (a type of medicine that reduces damage from harmful molecules) probably make the mouth open a little more and probably lessen the burning feeling in the mouth, but the improvement is small.  \n- Other medicines such as pentoxifylline may increase mouth opening a little, but the evidence is uncertain, and we do not have clear information about side‑effects for any treatment.  \n- Because most studies were small or had design problems, we need better, larger trials that look at how people feel, how well the mouth works, and any possible harms.\n\nWhat is oral submucous fibrosis and why does it matter?  \nOral submucous fibrosis (OSF) is a long‑lasting disease that makes the cheeks and mouth become stiff, causing pain, trouble chewing, speaking, and swallowing. It also raises the chance of developing mouth cancer. The main cause is chewing areca nut (often found in betel quid). People with OSF usually try to stop the habit, but many also look for medicines or other therapies to improve mouth function.\n\nWhat did the researchers want to find out?  \nThe review team wanted to know whether any medicines, surgeries, physiotherapy, or other treatments help people with OSF feel better, open their mouths wider, reduce burning pain, and whether these treatments cause any harms.\n\nWhat did we do?  \nWe searched for studies that compared a treatment with a placebo or no active care, combined the findings, and judged how confident we could be in the results.\n\nWhat did we find?  \n\nStudy characteristics  \nWe identified 30 studies that together included about 2,200 adults with OSF confirmed by a tissue test. Most studies were done in Asia, where areca‑nut chewing is common. The trials tested many different approaches, including antioxidant tablets, the drug pentoxifylline, steroid injections, physiotherapy, and various surgical methods. Only one study was judged to have a low risk of bias; the rest had unclear or high risk of bias, meaning the results may be less reliable.\n\nMain results  \n\n- **Antioxidants** – The evidence (moderate confidence) suggests antioxidants probably make the mouth open a little more after three to six months and probably reduce the burning sensation in the mouth both in the short term and after several months. The improvement in mouth opening is small and may not be noticeable for everyone.  \n\n- **Pentoxifylline** – The evidence (low confidence) indicates pentoxifylline may increase mouth opening a little, but we are not sure how big the benefit is.  \n\n- **Other treatments** – For steroid injections, physiotherapy, and other medicines, the evidence is very uncertain, so we cannot tell whether they help or not.  \n\n- **Harms** – Fifteen studies looked at side‑effects. Some reported mild stomach upset or nausea with certain medicines, and one study of a surgical graft reported serious problems that kept three people in the hospital longer. Overall, the information on harms is limited, so we cannot say whether any treatment is safe or risky.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many studies did not randomly assign people to treatments, the studies were often small, and some did not report all the outcomes we were interested in. These issues make it hard to know for sure how well the treatments work or whether they cause harm.\n\nHow up to date is this evidence?  \nThis review updates our previous review. The evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 608,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.714285714285715,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 76,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.833815789473704,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.005545112781956,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.582734962406015,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.496052631578944,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.198872180451128,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.53665413533835,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.607142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.920367387218046,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 225.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 157,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 608,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 608 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:56.935327"
+}

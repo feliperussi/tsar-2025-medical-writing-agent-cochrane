@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003437.PUB5",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Are medicines, non‑invasive brain stimulation, or talking therapies effective for treating depression after a stroke, and does combining them help?\n\nKey messages  \n- Medicines (drugs) and psychological therapy (a structured conversation with a trained therapist) may lower depression after stroke, but the evidence is limited and uncertain; medicines also increase side‑effects that affect the central nervous system (brain and spinal cord) and the gastrointestinal system (stomach and intestines).  \n- Adding non‑invasive brain stimulation (uses magnetic or electrical fields on the scalp to gently influence brain activity without surgery) to medicines might give a small extra benefit, but the evidence remains limited and we have no reliable data for combining medicines with psychological therapy or for combining brain stimulation with therapy.  \n- Because the studies are few and of low quality, we need more well‑designed randomised controlled trials (studies where participants are randomly assigned to receive either the treatment being tested or a comparison) to determine the true benefits and harms, especially over longer periods after stroke.\n\nWhat is depression after a stroke and why does it matter?  \nA stroke (a sudden loss of brain function caused by a blockage or bleed) can leave people feeling sad, hopeless, or uninterested in everyday activities. This post‑stroke depression is common. It slows recovery, reduces participation in rehabilitation, and lowers quality of life. When it is missed or untreated, survivors continue to face physical and emotional challenges.\n\nWhat treatments are used to help people with depression after a stroke?  \nWe identified three main approaches.  \n- **Medicines (pharmacological interventions)** are drugs that aim to balance chemicals in the brain.  \n- **Non‑invasive brain stimulation** delivers gentle electrical currents through the scalp to influence brain activity without surgery.  \n- **Psychological therapy** includes talking‑based treatments such as counselling or cognitive‑behavioural therapy that help people change negative thoughts and coping strategies.  \nClinicians sometimes combine these methods, for example a drug plus therapy or a drug plus brain stimulation, hoping the combination improves mood more than any single treatment alone.\n\nWhat did the review aim to find out?  \nWe set out to determine whether medicines, non‑invasive brain stimulation, psychological therapy, or any combination of these can safely reduce depression after stroke. Specifically, we wanted to know which options lower the number of people who meet criteria for depression, how often they cause side‑effects (unwanted problems caused by a treatment), and whether any increase the risk of serious outcomes such as death.\n\nHow did we find the evidence?  \nWe performed a systematic search (a planned, orderly search) for randomised controlled trials that compared any of the listed interventions. We included studies that enrolled participants with a confirmed stroke and depressive symptoms and that directly compared at least two intervention types. We pooled results using meta‑analytic techniques to estimate overall effects on depressive outcomes. We assessed certainty with the GRADE system (a method that grades how confident we can be in the findings) and considered risk of bias, inconsistency, indirectness, imprecision, and publication bias.\n\nWhat did we find?  \nWe identified 65 trials (72 distinct comparisons) that together enrolled 5,831 participants with post‑stroke depression. Trials compared medicines, brain stimulation, and psychological therapy against placebo, sham stimulation (a fake version that looks the same but delivers no active signal), usual care (the standard treatment a patient would normally receive), or attention control (the same amount of staff contact without the active therapy). Data were available for six comparison groups: medicines vs placebo, brain stimulation vs sham, psychological therapy vs usual care, medicines + brain stimulation vs medicines alone, and two other brain‑stimulation combinations. No trials examined three other predefined combinations.\n\nMain results  \n- Medicines may reduce the number of people who are depressed after stroke, but the evidence is very uncertain. Medicines also may increase side‑effects that affect the central nervous system and the gastrointestinal system, though we are very uncertain about the size of these harms.  \n- Non‑invasive brain stimulation probably makes little or no difference to depression, and the evidence is very uncertain.  \n- Psychological therapy may reduce depression, yet the evidence is very uncertain and we saw no clear effect on side‑effects.  \n- Adding brain stimulation to medicines may possibly reduce depression, but the evidence is of low certainty and we cannot tell how it affects other outcomes.  \n- No usable information existed for other combination approaches.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the findings because participants often knew which treatment they received, not all studies reported every outcome, the studies involved different populations and delivery methods, and many trials were very small.\n\nHow current is the evidence?  \nThe evidence is up to date to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 796,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.513513513513512,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 83,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 43,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 43.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 237,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 36.52365815564312,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.509566752682328,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.79982208338992,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.376482412060305,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.50992801847073,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.5 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 55.433111503463266,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.297297297297297,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 17.247806848775006,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.466153184843135,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 373,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 373.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 217,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 270,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 270.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 796,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 796 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:49.927242"
+}

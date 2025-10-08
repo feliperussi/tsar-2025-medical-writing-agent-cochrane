@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006913.PUB3",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can psychological interventions, such as therapy or counseling, help improve quality of life, depression, and anxiety in people with inflammatory bowel disease (a condition where the digestive tract is inflamed)?\n\nWe found that psychological interventions may slightly improve quality of life, depression, and anxiety in people with inflammatory bowel disease. However, the evidence is not strong enough to be certain. Patient education and relaxation techniques may also have small positive effects on quality of life, depression, and anxiety. But more research is needed to confirm this.\n\nWhat is inflammatory bowel disease and why is it a problem?\nInflammatory bowel disease (IBD) is a condition that causes inflammation in the digestive tract. This leads to symptoms like abdominal pain, diarrhea, and weight loss. People with IBD are also at a higher risk of developing psychological problems like depression and anxiety. Treatments like medication and surgery can help manage the physical symptoms of IBD. But they may not address the psychological aspects of the condition. As a result, many people with IBD experience a reduced quality of life.\n\nWhat did the review authors want to find out?\nWe wanted to investigate the effects of psychological interventions on the quality of life, emotional state, and disease activity in people with IBD. We aimed to determine whether these interventions can improve symptoms, reduce stress and anxiety, and enhance overall well-being for individuals with IBD.\n\nWhat did we do?\nWe searched for studies on psychological interventions for inflammatory bowel disease. We summarized their results and rated our confidence in the evidence. This helped us assess their effects on quality of life, emotional state, and disease activity.\n\nWhat did we find?\nWe found 68 studies that involved 6141 people with inflammatory bowel disease. Most studies used multimodular approaches, including psychotherapy, patient education, and relaxation techniques. These interventions were compared to care-as-usual or other active treatments. Psychological interventions in adults are likely to improve quality of life, depression, and anxiety slightly. Psychotherapy is probably also effective for improving quality of life in children and adolescents. The evidence suggests that psychological interventions may have little to no effect on disease activity.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is moderate. The studies were conducted in heterogeneous populations and used varied delivery methods for the intervention. The trials were very small, increasing the risk of random error. Participants were likely aware of their assigned treatment, introducing potential performance bias. Moreover, the evidence does not encompass all relevant populations, interventions, comparators, or outcomes of interest. This limits its generalizability.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2023.\n\nKey messages:\n- Psychological interventions may slightly improve quality of life, depression, and anxiety in people with inflammatory bowel disease.\n- Patient education and relaxation techniques may also have small positive effects on quality of life, depression, and anxiety.\n- Further research is needed to fully understand the effects of psychological interventions on inflammatory bowel disease.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 512,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.222222222222221,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 35.26155381944446,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.87424479166667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.208943142361115,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.987890624999999,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 16.31388888888889,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.52690972222222,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.305555555555555,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.74734012447073,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.891105815972223,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 233,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 136,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 136.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 512,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 512 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 3,
+      "P75_count": 3,
+      "P90_count": 7,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 38.88888888888889,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:05.509773"
+}

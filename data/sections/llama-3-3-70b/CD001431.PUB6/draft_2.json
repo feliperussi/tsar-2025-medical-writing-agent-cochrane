@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "Do patient decision aids (tools that help people make informed choices about their healthcare) improve health decisions compared to usual care?\n\nWe looked at 209 studies that involved 107,698 participants. These studies were about 71 different health decisions, including decisions about cardiovascular treatments, cancer screening, cancer treatments, mental health treatments, and joint replacement surgery.\n\nKey messages:\n- Patient decision aids probably help more adults make informed choices that align with their personal values.\n- They likely lead to a better understanding of the options and their benefits and harms, and may increase the number of people who take an active role in decision-making.\n- However, they may make little to no difference in the length of consultation or the risk of unwanted effects.\n\nWhat is the problem of making health decisions?\nWhen people are faced with health treatment or screening decisions, they often need support to make informed choices. This is because health decisions can be complex and involve weighing up the potential benefits and harms of different options. Patient decision aids are tools designed to help people make health decisions by providing evidence-based information and clarifying their personal values.\n\nWhat are patient decision aids?\nPatient decision aids help people make health choices by providing evidence-based information and clarifying their personal values. They can take many forms, including booklets, videos, and websites, and are designed to help people understand the potential benefits and harms of different health options.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out whether patient decision aids are effective in supporting people to make informed health decisions. They also wanted to know whether patient decision aids can improve people's knowledge and understanding of their health options, and whether they can help people to feel more confident and informed when making health decisions.\n\nHow did the review authors find the information?\nWe searched for studies that compared patient decision aids with usual care. We summarized and combined the results of these studies. We also evaluated our confidence in the evidence to assess the effects of patient decision aids on health decisions.\n\nWhat did we find?\nWe found that patient decision aids probably help more adults make informed choices that align with their personal values. They likely lead to a better understanding of the options and their benefits and harms, and may increase the number of people who take an active role in decision-making. However, they may make little to no difference in the length of consultation or the risk of unwanted effects.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding (participants may have known which treatment they received), incomplete reporting of outcomes (not all studies provided data on all outcomes of interest), and heterogeneity across studies (different participant populations and varied delivery methods for the intervention).\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 516,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.428571428571427,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 37,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 166,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.73697674418605,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.760708748615727,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.891088039867107,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.688914728682171,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.666002214839423,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.79291251384275,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.964285714285714,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.27901838316722,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 208,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 107,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 167,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 516,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 516 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 3,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has some clarity issues, including the use of technical terms without explanation, longer sentences, and higher than typical use of passive voice and noun-heavy sentences. To improve, consider rephrasing for active voice, defining technical terms, and breaking up long sentences. The PLS evaluation results show high conformity to typical patterns but with deviations in noun and long word counts.",
+      "pls_evaluation_summary": "The draft generally conforms to typical PLS patterns, with 72.2% of features in the best quartile. However, it deviates in the use of nouns and long words, with counts higher than the median. Improving these areas can enhance readability and clarity."
+    }
+  ]
+}

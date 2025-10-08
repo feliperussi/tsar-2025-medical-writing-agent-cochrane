@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013388.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can cognitive rehabilitation help people with mild to moderate dementia manage their everyday activities? What are the benefits and limitations of this approach?\n\n### Key Messages\n- Cognitive rehabilitation probably helps people with mild to moderate dementia to manage their everyday activities better, especially for tasks they want to achieve. However, its effects on other areas like anxiety, quality of life, and overall functional ability are less clear.\n- The benefits of cognitive rehabilitation seem to last for several months after the treatment ends, which is a positive sign for people with dementia and their care partners.\n- More research is needed to understand how cognitive rehabilitation works best and to find ways to make it more effective for a wider range of people with dementia.\n\n### Introduction to the review topic and review aims\n#### What is cognitive rehabilitation for people with dementia?\nCognitive rehabilitation is a personalized approach that aims to help people with dementia manage their everyday activities and maintain as much independence as possible. It focuses on finding solutions to the specific challenges faced by each individual.\n\n#### What did we want to find out?\nWe wanted to know if cognitive rehabilitation is effective in helping people with mild to moderate dementia with their everyday functioning and other important outcomes. We also aimed to identify factors that might influence how well cognitive rehabilitation works.\n\n### How is dementia treated?\nDementia is a condition that affects memory, thinking, and behavior, and there are various ways to manage its symptoms. While there are medicines and other treatments available, cognitive rehabilitation offers a different kind of support by focusing on practical, everyday skills.\n\n### What did we do?\nWe searched for studies that compared cognitive rehabilitation with usual care or other interventions for people with mild to moderate dementia. We then combined the results of these studies to see if cognitive rehabilitation made a difference.\n\n### What did we find?\nWe found six studies that included 1702 people with dementia. These studies showed that cognitive rehabilitation can help people achieve their personal goals related to everyday activities, both immediately after treatment and several months later. However, the effects on other aspects of their lives, such as anxiety or overall quality of life, were not as clear.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence for some outcomes because the studies were not perfect, and some results were based on only a few studies. This means we need more and better research to fully understand how cognitive rehabilitation can help people with dementia.\n\n### How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 489,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.736842105263158,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.7 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 121,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 42.99922182757507,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.65554838015284,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.015598966742012,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.235419222903882,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.129092670326123,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.002690776019804,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.7894736842105265,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.583005244258363,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.862784587234959,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 173,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 108,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 489,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 489 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 1,
+      "P75_count": 12,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 66.66666666666666,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:32.988961"
+}

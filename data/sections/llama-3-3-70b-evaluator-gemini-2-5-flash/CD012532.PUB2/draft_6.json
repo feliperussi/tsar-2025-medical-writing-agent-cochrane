@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies effective for treating glioma?\n- Therapies called anti-PD-1 and anti-PD-L1 may not be effective for treating glioma. Most studies showed these treatments did not help people live longer (overall survival) or stop the disease from getting worse (progression-free survival). However, the evidence we have is not strong enough to be certain.\n- The evidence for the effectiveness of these therapies in treating glioma is generally of low quality. We need more research to be sure about the benefits and harms of these treatments. This is especially true for different groups, like people who were just diagnosed or whose cancer has returned.\n- Future studies should aim to provide higher-quality evidence about these treatments. We need to be more certain about their effects on a person's quality of life (overall well-being) and their risk of serious side effects.\n\nWhat is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme is the most common and aggressive type of adult glioma (a kind of brain tumor). It has a poor prognosis, with a median survival of only 16 months. The tumor's environment weakens the immune system, making it hard for the body to fight the cancer. Today's treatments don't work as well as we'd like, so we need to find new ways to help people live longer and feel better.\n\nWhat are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, immune checkpoint inhibitors allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effects of immune checkpoint inhibitors, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. We aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nWhat did we find?\nWe found 7 studies that involved 1953 people with diffuse glioma. Most studies looked at an anti-PD-1 treatment for people with grade 4 glioma (the most aggressive type). Some people in the studies had just been diagnosed with the cancer, while for others it had come back after treatment. The studies compared anti-PD-1/PD-L1 antibodies to placebo or other therapies used alone or with other immune checkpoint inhibitors. Our main findings were:\n- For people whose cancer has returned: A drug called nivolumab probably offers no benefit. Combining other similar drugs with bevacizumab may also be ineffective.\n- For people who are newly diagnosed: Adding nivolumab to radiotherapy probably has no benefit.\n- For older people: Adding nivolumab after initial treatment probably offers no benefit.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and the studies did not always report on the results we were looking for. These limitations matter because they can affect the reliability and accuracy of the findings, making it harder to draw firm conclusions about the effectiveness of anti-PD-1 and anti-PD-L1 therapies for glioma.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.\n\nHow did we find this information?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 648,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.514285714285716,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 66,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 37,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 176,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 176.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 60.35966666666668,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.439830687830689,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.334689153439157,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.45141975308642,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.640282186948856,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 42.27971781305115,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.643650760992955,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.839558571428572,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 243,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 101,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 648,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 648 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 1,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that passes all critical checks for accuracy and completeness. However, it is not approved because of a few key issues that impact clarity and logical flow for the reader. The main improvements needed are: 1) Restoring the helpful in-line definitions to the key messages, as they were in the source material. 2) Re-ordering the sections so that the methods appear before the results. 3) Replacing vague language in the results section with more specific terms. 4) Simplifying some noun-heavy sentences to make them more direct and easier to read. Addressing these points will significantly improve the summary's readability.",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft HIGHLY CONFORMS to typical PLS patterns, with over 83% of metrics falling into the best quartile for readability and plain language. This indicates a very strong foundation. However, two metrics deviate from typical patterns: the count of nouns (P90) and the count of Dale-Chall complex words (P90). This suggests that some sentences are unnecessarily noun-heavy and use less common vocabulary, which supports the editorial recommendations to simplify sentence structures and vocabulary where possible."
+    }
+  ]
+}

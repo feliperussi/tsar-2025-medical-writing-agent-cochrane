@@ -1,0 +1,121 @@
+{
+  "processed_at": "2025-10-07T04:24:18.122599",
+  "test_mode": false,
+  "test_limit": null,
+  "total_processed": 1600,
+  "total_failed": 17,
+  "folders": [
+    {
+      "folder": "agentic_gemini_2_5_pro",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_gpt_oss_120b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_llama_3_3_70b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_llama_3_2_3b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_gpt_oss_20b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_old_gemini_2_5_pro",
+      "processed": 100,
+      "failed": 2,
+      "total": 102,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_old_gpt_5",
+      "processed": 100,
+      "failed": 2,
+      "total": 102,
+      "skipped": false
+    },
+    {
+      "folder": "agentic_old_gpt-oss-120B",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_gemini_2_5_pro",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_gpt_5",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_gpt_oss_120b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_gpt_oss_20b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_llama_3_3_70b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "baseline_llama_3_2_3b",
+      "processed": 100,
+      "failed": 1,
+      "total": 101,
+      "skipped": false
+    },
+    {
+      "folder": "original",
+      "processed": 100,
+      "failed": 0,
+      "total": 100,
+      "skipped": false
+    }
+  ]
+}

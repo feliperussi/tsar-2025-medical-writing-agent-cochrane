@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015313.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Does inhaled hypertonic saline (a thick‑salt mist that helps clear mucus) help children with chronic lung disease?\n\nKey messages\n- We do not have reliable evidence to know whether inhaled hypertonic saline reduces lung attacks or improves breathing in children with chronic suppurative lung disease; the single small study suggested possible benefits, but the evidence is very uncertain and no harmful effects were reported.\n- No other types of mucolytic medicines, no oral forms, and no studies in children with protracted bacterial bronchitis were found, so we cannot say how those might work.\n- More well‑designed, larger studies are needed to find out if any mucolytic medicine truly helps children with this condition.\n\nWhat is chronic suppurative lung disease?\nChronic suppurative lung disease (CSLD) is a group of long‑lasting lung problems that cause a wet, productive cough. It includes conditions such as bronchiectasis and protracted bacterial bronchitis. Children with CSLD often have mucus that is thick and hard to clear, leading to repeated infections and inflammation.\n\nWhy might mucolytic medicines be useful?\nMucolytics are medicines that thin mucus so the tiny hairs in the airways (the cilia) can move it out more easily. By helping clear mucus, they could break the cycle of infection and inflammation that makes children feel sick.\n\nWhat did we want to find out?\nWe wanted to learn whether mucolytic medicines reduce the number of lung attacks, improve lung function, enhance quality of life, or cause any side effects in children with CSLD.\n\nWhat did we do?\nWe searched several medical databases for studies that compared a mucolytic medicine with no medicine or a placebo in children with CSLD. We combined the findings from any eligible studies and judged how much confidence we could have in the results.\n\nWhat did we find?\nWe identified one small study that tested inhaled hypertonic saline (a salty mist) in children with non‑cystic fibrosis bronchiectasis. The study involved about fifty children who each tried the salty mist for eight weeks and then received chest physiotherapy alone for another eight weeks. The researchers reported that the salty‑mist group seemed to have fewer lung attacks and showed better breathing test results than the physiotherapy‑only group. However, because the study was small, unblinded, and had missing data, we cannot be sure these findings are real. No side‑effects leading to stopping the treatment were reported, but the study did not look at quality‑of‑life outcomes.\n\n- It is unclear if inhaled hypertonic saline reduces the number of lung attacks in children with CSLD.\n- It is unclear if inhaled hypertonic saline improves lung function in these children.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because it is possible that people in the study were aware of which treatment they were receiving, and because the study was very small.\n\nHow up to date is this evidence?\nThe evidence is up to date to September 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 503,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.346153846153847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 53,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 56.0097870469491,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.253210735586485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.454051078146506,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.398330019880717,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.372656369475454,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.97438446245603,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.538461538461538,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.018157699954122,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 193,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 144,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 503,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 503 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:08.789596"
+}

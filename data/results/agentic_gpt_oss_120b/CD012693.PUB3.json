@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does adjusting the dose of fertility hormones based on ovarian‑reserve tests improve pregnancy rates or reduce the risk of ovarian hyperstimulation syndrome for women undergoing IVF/ICSI?\n\nWhat are the key messages?\n- Adjusting the hormone dose using ovarian‑reserve tests does not clearly increase the chance of a live birth, and the benefit is uncertain.\n- No specific dose strategy showed a clear advantage for women predicted to be low, normal or high responders, and higher doses add cost without proven benefit.\n- Larger, well‑designed trials are needed to confirm whether personalised dosing improves pregnancy outcomes or safely reduces OHSS, and to identify the most effective testing methods and dosing algorithms.\n\nWhy is choosing the right medication dose important for IVF/ICSI treatment?\nWomen who undergo in‑vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) receive daily injections of follicle‑stimulating hormone (FSH). FSH stimulates the ovaries to produce several eggs at once, which are then collected for fertilisation. If too few eggs develop (a “poor response”), the cycle may be cancelled because the chance of a successful pregnancy is lower. If too many eggs develop (a “hyper‑response”), the woman can develop ovarian hyperstimulation syndrome (OHSS). OHSS causes the ovaries to swell, leading to abdominal pain and, in severe cases, organ problems. Traditionally, doctors set the starting FSH dose mainly based on a woman’s age. Many now also use ovarian‑reserve tests (ORTs) that estimate how many eggs a woman has left. The main ORTs are:\n- Basal FSH (bFSH) – a blood test that measures the natural level of FSH.\n- Antral follicle count (AFC) – an ultrasound count of tiny fluid‑filled sacs (follicles) in the ovary.\n- Anti‑Müllerian hormone (AMH) – a blood test that reflects the size of the egg supply.\nWe wanted to know whether tailoring the FSH dose using these markers leads to better outcomes, such as higher chances of pregnancy and fewer cases of OHSS.\n\nWhat did the review aim to find out?\nWe aimed to determine whether adjusting the FSH dose according to ovarian‑reserve test results improves the chance of a live birth or ongoing pregnancy for women undergoing IVF/ICSI, and whether it reduces the risk of severe OHSS. We compared studies that used individualised dosing strategies (guided by AMH, AFC or bFSH) with studies that used a standard dose for all women or different dosing algorithms.\n\nHow did we find the evidence?\nWe searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase and two trial registers for randomised controlled trials (RCTs) up to February 2023. We combined the results where possible and rated our confidence in the evidence using standard Cochrane methods.\n\nWhat did we find?\nWe identified 26 RCTs that together involved 8,520 women undergoing IVF or ICSI. In these trials, the FSH dose was chosen based on ovarian‑reserve tests (AMH, AFC or bFSH) and compared with a standard dose or with other dosing plans. Overall, we still do not know if adjusting the FSH dose changes a woman’s chance of having a baby or her risk of severe OHSS. An ORT‑based algorithm might raise the live‑birth chance slightly – for example, from 25 % with a standard dose to about 30 % – and it may also lower the chance of moderate or severe OHSS. However, the evidence is very uncertain because the trials were small and often unblinded.\n\nWhat are the limitations of the evidence?\nMany of the trials were small and participants and clinicians often knew which dosing strategy was used, which can bias results. We also lacked details about follow‑up length, study locations and funding in many reports. Because of these limitations, our confidence in the findings ranges from very low to low.\n\nIs the evidence up to date?\nWe searched for studies up to February 2023, so the review includes all relevant trials published before that date.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 659,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.258064516129032,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 75,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.23985510793483,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.696092809241765,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.519108130598656,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.423732928679815,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.301404865632191,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.144255714915076,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.290322580645161,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.523747496206374,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 270,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 270.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 164,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 659,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 659 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:52.519657"
+}

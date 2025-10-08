@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "agentic_gemini_2_5_pro",
+  "text": "Can the anti-inflammatory drug colchicine help prevent heart attacks and strokes in people who have not had them before?\n\nKey messages\n- Due to a lack of good-quality evidence, it is uncertain whether taking colchicine (a medicine that reduces inflammation) helps to prevent heart attacks and strokes in people who have not had them before. The evidence suggests it may increase the risk of diarrhoea.\n- The studies included in this review were not reliable enough to provide a clear answer, and many focused on people with other health conditions. Larger, well-designed studies are needed to understand the true benefits and harms of colchicine for preventing heart problems in the general population.\n\nWhat is cardiovascular disease and how might colchicine help?\nCardiovascular diseases, which affect the heart and blood vessels, are a leading cause of death and illness around the world. One common type is caused by atherosclerosis, a condition where fatty deposits build up in the walls of arteries. This process is often worsened by long-term inflammation. Colchicine is an inexpensive drug that has been used for centuries to reduce inflammation. Because of this property, researchers believe it might help prevent cardiovascular diseases before they start, which is known as 'primary prevention'.\n\nWhat did we want to find out?\nWe wanted to find out the benefits and harms of using colchicine to prevent cardiovascular events in people who did not already have cardiovascular disease. We were interested in whether colchicine could prevent deaths, heart attacks, and strokes, and whether it caused any unwanted effects.\n\nHow did we conduct this review?\nWe searched for studies that compared colchicine against a placebo (a dummy pill), other drugs, or usual care for preventing heart problems in people who did not already have heart disease. We then collected and combined the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nThe review included 15 randomised controlled trials with a total of 1721 people. The participants were adults who did not already have cardiovascular disease. However, many of the included trials focused on people with liver disease. The studies compared oral colchicine against a placebo, immunomodulating drugs, or usual care/no treatment. For people without known cardiovascular disease, the effects of taking colchicine to prevent heart problems are very uncertain because the available research is not strong enough to draw clear conclusions. When compared to a placebo or usual care, colchicine may have little to no effect on the risk of death, heart attack, or stroke. It may, however, increase the chance of having diarrhoea. The review authors are very uncertain about all these results.\n\nHow reliable is this evidence?\nWe are not confident in the evidence for a few reasons. First, it is possible that people in the studies knew which treatment they were receiving. Also, the evidence focused on specific groups of people, such as those with liver disease, rather than the general population. Finally, there were not enough studies to be certain about the results.\n\nHow up-to-date is this evidence?\nWe searched for evidence up to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 534,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.6875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 35,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.39269311797753,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.67879915730337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.040379213483146,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.297677902621722,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.465262172284646,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.2755149812734,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.9375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.643650760992955,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.623280524344571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 104,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 158,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 534,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 534 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:40.213437"
+}

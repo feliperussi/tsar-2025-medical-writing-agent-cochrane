@@ -1,0 +1,162 @@
+{
+  "id": "CD016136",
+  "draft": "Is giving iron through a vein (intravenous iron) safer and more effective than taking iron pills (oral iron) for treating iron‑deficiency anaemia during pregnancy?\n\nKey messages\n– Giving iron through a vein probably raises haemoglobin (the protein that carries oxygen) a little and reduces the chance of anaemia during pregnancy compared with iron pills.  \n– It does not appear to change the risk of heavy bleeding after birth (post‑partum haemorrhage), the need for a blood transfusion, or breastfeeding rates, and serious side‑effects were not clearly increased, although safety evidence is limited.  \n– Important outcomes such as how mothers feel about the treatment and detailed safety data were rarely reported; more well‑designed studies are needed.\n\nWhy is iron‑deficiency anaemia in pregnancy a concern?  \nDuring pregnancy many women develop iron‑deficiency anaemia (IDA), a condition where the blood lacks enough iron to make healthy red blood cells. We measure IDA by a low haemoglobin (Hb) level; the World Health Organization defines anaemia as Hb < 11 g/dL. Low iron can make a mother feel tired, weak, and short‑of‑breath, and it can increase the risk of complications around birth, such as heavy bleeding after delivery (post‑partum haemorrhage) and the need for a blood transfusion.\n\nWhat treatments are used for iron‑deficiency anaemia in pregnancy?  \nThe most common treatment is oral iron tablets (for example, ferrous sulfate). Some women do not absorb enough iron from pills or experience stomach upset. In recent years doctors have started giving iron directly into a vein – called intravenous (IV) iron – using medicines such as iron sucrose or ferric carboxymaltose. IV iron raises iron levels more quickly, but it costs more and requires a clinic visit.\n\nWhat did the review aim to find out?  \nWe wanted to compare IV iron with oral iron to see which works better and is safer for pregnant women with IDA. We looked at effects on haemoglobin, the presence of anaemia before and after birth, the risk of heavy bleeding after delivery, the need for blood transfusion, and any side‑effects or serious health problems for the mother.\n\nHow did we find and evaluate the studies?  \nWe searched four major databases and two trial registries for randomised controlled trials that compared IV and oral iron in pregnant women with Hb < 11 g/dL. Two reviewers independently screened studies, assessed risk of bias, and extracted data. We pooled results using standard Cochrane methods and rated our confidence in the evidence with the GRADE approach.\n\nWhat did we find?  \nWe found 13 trials involving 3,939 pregnant women whose haemoglobin was below 11 g/dL. Women were between 13 and 37 weeks pregnant. Most trials were conducted in India or African countries. The studies compared IV iron preparations (iron sucrose, ferric carboxymaltose, ferric derisomaltose, ferumoxytol) with oral iron salts (ferrous sulfate, ferrous fumarate, ferrous gluconate).\n\n– IV iron probably increases haemoglobin by about 0.5 g/dL three to six weeks after treatment starts and probably reduces the proportion of women who are anaemic at that time.  \n– Around the time of birth, IV iron probably raises haemoglobin by about 0.5 g/dL and probably lowers the risk of anaemia.  \n– After delivery, IV iron may increase haemoglobin slightly and may reduce anaemia, but the evidence is less certain.  \n– There was little or no difference between IV and oral iron for post‑partum haemorrhage, the need for blood transfusion, breastfeeding rates, maternal mortality, severe infections, prolonged hospital stay, intensive‑care admission, or other adverse events.  \n– No trial reported on maternal satisfaction or well‑being.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the findings. Many trials were small, and participants often knew which treatment they received, which could bias results. Not all studies reported every outcome we were interested in, and the studies were conducted in diverse settings and used different iron formulations. Safety data, especially for rare but serious harms, remain limited.\n\nWhat are the implications for future research?  \nWe need larger, well‑designed trials that follow women through pregnancy and after birth. Future studies should standardise outcome definitions, report maternal satisfaction and detailed safety information, and capture rare serious harms such as maternal death or intensive‑care admission.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 721,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.205882352941178,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 66,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 217,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.37344272660522,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.50137594843763,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.39029207799625,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.54047156726768,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.526735742840827,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.52904462755976,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.794117647058823,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.313708498984761,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.3 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.86275489924125,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 311,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 311.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 145,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 145.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 197,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 197.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 721,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 721 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 2,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is missing a required \"Currency\" section that tells readers the review is up‑to‑date (search completed March 2024). This violates the critical completeness check. In addition, the text is noun‑heavy and uses many long, complex words, which pushes the SMOG index (14.3) and complex‑word counts well above typical PLS ranges, making it harder for a lay audience. Key clarity improvements are needed:\n1. **Missing currency statement** – add a short sub‑heading such as \"How up to date is this review?\" and state: \"We searched the literature up to 19 March 2024, so the evidence reflects studies published up to that date.\"\n2. **Noun‑heavy sentence** – original: \"We found 13 trials involving 3,939 pregnant women whose haemoglobin was below 11 g/dL. Women were between 13 and 37 weeks pregnant. Most trials were conducted in India or African countries, and the remaining ones were in other low‑ and middle‑income settings. All participants were women. The trials compared intravenous iron preparations (iron sucrose, ferric carboxymaltose, ferric derisomaltose, ferumoxytol) with oral iron salts (ferrous sulfate, ferrous fumarate, ferrous gluconate).\" – rewrite to use active verbs and fewer nouns: \"We identified 13 trials that enrolled 3,939 pregnant women with haemoglobin < 11 g/dL. The women were 13–37 weeks pregnant, mostly in India or Africa. The studies compared intravenous iron (iron sucrose, ferric carboxymaltose, ferric derisomaltose, ferumoxytol) with oral iron tablets (ferrous sulfate, ferrous fumarate, ferrous gluconate).\"\n3. **Long, complex wording** – original: \"Intravenous iron may increase haemoglobin slightly and may reduce anaemia, but the evidence is less certain.\" – rewrite: \"Intravenous iron might raise haemoglobin a little and may lower anaemia, but the evidence is uncertain.\"\n4. **Sentence length >30 words** – original: \"We searched four major databases and two trial registries for randomised controlled trials that compared IV and oral iron in pregnant women with Hb < 11 g/dL. Two reviewers independently screened studies, assessed risk of bias, and extracted data. We pooled results using standard Cochrane methods and rated our confidence in the evidence with the GRADE approach.\" – split into two sentences: \"We searched four major databases and two trial registries for randomised trials that compared IV and oral iron in pregnant women with Hb < 11 g/dL. Two reviewers independently screened studies, assessed risk of bias, extracted data, pooled the results using standard Cochrane methods, and rated our confidence with the GRADE approach.\"\n5. **Use of passive voice** – original: \"There was little or no difference between IV and oral iron for post‑partum haemorrhage...\" – rewrite actively: \"IV and oral iron showed little or no difference in post‑partum haemorrhage...\"\nThese changes will lower the noun count, reduce complex‑word and long‑word totals, bring the SMOG index closer to the typical PLS range (<12), and improve overall readability while satisfying the style guide.\n\nMetrics support: the draft has 217 nouns (beyond P90), 145 complex words and 197 long words (both beyond P90), and a SMOG index of 14.3 (beyond P90). Reducing noun density and simplifying vocabulary will align the text with typical PLS patterns.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets word‑count limits and overall conforms to many typical PLS patterns, but it deviates on several key metrics: noun count (217, beyond P90), SMOG index (14.3, beyond P90), complex words (145, beyond P90), and long words (197, beyond P90). These indicate the text is more noun‑heavy and uses more complex vocabulary than usual, suggesting a need to simplify language and reduce noun density."
+    }
+  ]
+}

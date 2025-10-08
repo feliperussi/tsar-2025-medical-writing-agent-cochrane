@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies effective for treating glioma, a type of brain tumor?\nWe looked at the evidence to find out.\n\n- Anti-PD-1 and anti-PD-L1 therapies probably do not have a significant benefit for treating glioma. Most studies show no improvement in overall survival or progression-free survival. The evidence for serious unwanted effects is very uncertain.\n- The current evidence is based on a small number of studies with limitations. More research is needed to fully understand the potential benefits and harms of these therapies for people with glioma.\n- Future studies should aim to address the gaps in current knowledge. This includes the need for larger, well-designed trials to provide more reliable estimates of the effects of anti-PD-1 and anti-PD-L1 therapies for glioma.\n\nWhat is glioblastoma multiforme (GBM) and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of adult glioma, a kind of brain cancer. It has a poor prognosis, with a median survival of only 16 months. The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer. Current treatments have limited success, and new approaches are needed to improve outcomes for people with GBM.\n\nWhat are immune checkpoint inhibitors (ICIs) and how do they work?\nImmune checkpoint inhibitors (ICIs) are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, ICIs allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of two specific ICIs, anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma, including GBM. They aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nHow did the review authors search for evidence?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma. We summarized their results and rated our confidence in the evidence.\n\nWhat did the review authors find?\nThe review authors found that anti-PD-1 and anti-PD-L1 therapies probably do not have a significant benefit for treating glioma. Most studies show no improvement in overall survival or progression-free survival. The evidence for serious unwanted effects is very uncertain.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.\n\nWe hope this summary helps you understand the current state of evidence on anti-PD-1 and anti-PD-L1 therapies for treating glioma. More research is needed to fully understand the potential benefits and harms of these therapies for people with glioma.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 545,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.03125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 7,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 21,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 159,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 61.17360235091746,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.9578755733945,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.440505733944953,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.121614678899082,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.44552752293578,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 43.26978211009174,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.46875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.433981132056603,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.102805045871561,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 216,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 143,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 545,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 545 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 88.88888888888889,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has some areas that need improvement for better clarity and readability. Some sentences are too long and contain complex terminology, and there are instances of passive voice that could be rephrased. The metrics also show a high number of nouns and complex words, which could be reduced to improve readability.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the draft text is generally well-structured and clear, but has some areas that need improvement. The metrics indicate a high number of nouns and complex words, which could be reduced to improve readability. The use of active voice is generally good, but there are a few instances of passive voice that could be rephrased for better clarity."
+    }
+  ]
+}

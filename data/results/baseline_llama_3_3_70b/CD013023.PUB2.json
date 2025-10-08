@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013023.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of different dressings and securement devices for preventing complications with peripheral arterial catheters?\n\nKey Messages:\n- Due to a lack of robust evidence, it is unclear whether different dressings and securement devices can prevent complications such as infection or catheter failure in people with peripheral arterial catheters.\n- The current evidence does not show a clear difference in the incidence of catheter failure, bloodstream infections, or adverse events across different dressing and securement products.\n- Further research is needed to determine the best dressing and securement devices for preventing complications with peripheral arterial catheters.\n\nIntroduction:\nWhat are peripheral arterial catheters?\nPeripheral arterial catheters are small tubes inserted into an artery to monitor blood pressure or take blood samples. They are commonly used in hospitals, especially in intensive care units.\n\nWhat are the problems with peripheral arterial catheters?\nOne of the main problems with peripheral arterial catheters is that they can fail or become dislodged, which can lead to complications such as infection or bleeding.\n\nWhat did we want to find out?\nWe wanted to find out which dressings and securement devices are most effective in preventing complications with peripheral arterial catheters.\n\nWhat did we do?\nWe searched for studies that compared different dressings and securement devices for peripheral arterial catheters. We found five studies with a total of 1228 participants.\n\nWhat did we find?\nWe found that the current evidence is limited and does not show a clear difference in the incidence of catheter failure, bloodstream infections, or adverse events across different dressing and securement products.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had a high risk of bias.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 326,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 23,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 83,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.74387423312885,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.928349693251533,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.92015337423313,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.595705521472393,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.440245398773005,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.72331288343558,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.1,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.433981132056603,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.05667018404908,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 129,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 326,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 326 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 8,
+      "P75_count": 2,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:32.015829"
+}

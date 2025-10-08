@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) effective for treating glioma (a type of brain tumor)?\n \n- Anti-PD-1 and anti-PD-L1 therapies may not be effective for treating glioma, with no clear benefits in overall survival (the length of time a person is alive after diagnosis) or progression-free survival (the length of time during and after treatment that a person lives with the disease but it does not get worse), and the evidence for serious unwanted effects (harmful side effects) is uncertain.\n- The current evidence is based on a limited number of studies with significant limitations, and more research is needed to fully understand the potential benefits and harms of these therapies for people with glioma, particularly in terms of long-term effects and outcomes for different subgroups of patients.\n- Future studies should prioritize high-quality research designs, larger sample sizes, and longer follow-up periods to provide more reliable estimates of the effects of anti-PD-1 and anti-PD-L1 therapies for glioma, and to address the remaining uncertainties and unanswered questions in this area.\n\nWhat is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme (GBM) is the most common and aggressive type of adult glioma, a kind of brain tumor. It has a poor prognosis, with a median survival of only 16 months. The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer. Current treatments have limited effectiveness, and new approaches are needed to improve patient outcomes.\n\nWhat are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors (ICIs) are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, ICIs allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of ICIs, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. They aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nWhat methods did the review authors use?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 7 studies that involved 1953 people with diffuse glioma. Most trials had high risk of bias. The studies were conducted in various settings and countries. The interventions used were anti-PD-1 and anti-PD-L1 antibodies, including nivolumab and pembrolizumab, which were compared to placebo or other therapies.\n\nWhat are the main results?\nThe review found that nivolumab alone probably has no benefit in treating recurrent glioblastoma multiforme. Anti-PD1 plus bevacizumab may also be ineffective. Neoadjuvant plus adjuvant pembrolizumab may improve overall survival and progression-free survival, but this is based on very low-certainty evidence. In newly diagnosed glioblastoma multiforme, nivolumab plus radiotherapy probably has no benefit. In older participants, adjuvant nivolumab probably offers no benefit.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have known which treatment they received, and not all studies reported all outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 627,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.9,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 55,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 27,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.01862918660291,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.474875598086125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.555885167464119,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.917703349282295,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.39827751196172,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.44864433811802,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.966666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.677078252031311,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.685061052631578,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 264,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 264.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 126,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 179,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 179.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 627,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 627 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 4,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start and passes all critical checks for completeness and accuracy. However, it is not yet approved because several key areas need improvement to make the summary clear and easy for patients to understand. The main issues are overly complex sentences in the key messages and the use of unexplained technical terms. Our linguistic analysis supports this, showing the vocabulary is more complex than in a typical PLS. Here are the top 3 improvements needed:\n\n1. **Simplify the first key message.** The first bullet point is very long (66 words) and combines too many ideas, making it hard to follow.\n    *   **Current text:** 'Anti-PD-1 and anti-PD-L1 therapies may not be effective for treating glioma, with no clear benefits in overall survival (the length of time a person is alive after diagnosis) or progression-free survival (the length of time during and after treatment that a person lives with the disease but it does not get worse), and the evidence for serious unwanted effects (harmful side effects) is uncertain.'\n    *   **Suggested rewrite:** Break this into two simpler points:\n        - 'For people with glioma, these immune therapies probably do not help them live longer or stop the cancer from getting worse.'\n        - 'We are uncertain about the risk of serious harmful side effects from these therapies.'\n\n2. **Explain medical terms or use simpler language.** The results section uses technical terms like 'neoadjuvant' and 'adjuvant' without defining them, which will confuse readers.\n    *   **Current text:** 'Neoadjuvant plus adjuvant pembrolizumab may improve overall survival and progression-free survival, but this is based on very low-certainty evidence.'\n    *   **Suggested rewrite:** Explain what the terms mean in simple language:\n        - 'One small study looked at giving the drug pembrolizumab both before and after surgery, instead of only after surgery. This approach may help people live longer, but the evidence is very uncertain.'\n\n3. **Use simpler, more direct language throughout.** Some sentences are abstract and use medical jargon, making them difficult to understand.\n    *   **Current text:** 'The tumor's environment suppresses the immune system, making it hard for the body to fight the cancer.'\n    *   **Suggested rewrite:** Use more concrete terms:\n        - 'The area around the tumor stops the body's immune system from working properly, which makes it hard to fight the cancer.'\n\nMaking these changes will significantly improve the clarity and readability of the summary for your audience.",
+      "pls_evaluation_summary": "The linguistic analysis shows good conformity with typical PLS patterns in sentence structure, with acceptable sentence length and use of active voice. However, the draft deviates significantly in vocabulary complexity. Five metrics fall into the P90 range, indicating the text has a higher number of nouns, long words, and complex words than is typical for a Plain Language Summary. This suggests the text may be difficult for a lay audience to understand due to technical or abstract language."
+    }
+  ]
+}

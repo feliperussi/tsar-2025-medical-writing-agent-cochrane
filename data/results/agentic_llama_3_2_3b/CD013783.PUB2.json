@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**What is Peripheral Arterial Disease (PAD)?**\n\nPeripheral arterial disease (PAD) is a condition where the arteries that supply blood to the legs and feet become narrowed or blocked due to atherosclerosis. This reduces blood flow to the lower limbs, leading to symptoms such as claudication pain, rest pain, wounds, gangrene, amputation, and increased cardiovascular morbidity and mortality. PAD is common, affecting an estimated 236 million individuals worldwide, and is associated with advanced age, smoking, hypertension, diabetes, and concomitant cardiovascular disease.\n\n**What did we want to find out about Toe-Brachial Index (TBI) and Toe Systolic Blood Pressure (TSBP)?**\n\nWe wanted to estimate the accuracy of TSBP and TBI for diagnosing PAD in the lower extremities at different cut-off values for test positivity in populations at risk of PAD, and compare the accuracy of TBI and TSBP for diagnosing PAD in the lower extremities.\n\n**What did we find?**\n\nWe found that the evidence base to support the use of TBI and TSBP to identify PAD is limited, and future research is needed to comprehensively determine their diagnostic test accuracy. The current evidence indicates that both TBI and TSBP have very low certainty and only small effect sizes for diagnosing PAD. Consequently, their diagnostic accuracy is uncertain, and clinicians should consider supplementary methods such as imaging when evaluating patients at risk for PAD.\n\n**Why is this important?**\n\nThe synthesized evidence informs clinical practice by highlighting the reliability of TBI and TSBP in PAD detection, aiming to reduce missed diagnoses and related complications. However, we have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n**What does this mean for future research?**\n\nFuture research using robust methods and clear reporting is warranted to comprehensively determine the diagnostic test accuracy of TBI and TSBP for identification of PAD with greater certainty. This may involve investigating the diagnostic performance of TBI and TSBP in different populations, such as those with type 1 or type 2 diabetes, and exploring the effects of various equipment types and positivity thresholds.\n\n**Limitations of the evidence**\n\nThe evidence is up to date to 27 February 2024 of search. We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 411,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.55,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 98,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 41.889158759124115,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.521823600973239,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.761715328467155,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.617420924574208,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.97912408759124,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.91009732360098,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.65,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.050983163017032,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 157,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 411,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 411 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 11,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 61.111111111111114,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:41.663104"
+}

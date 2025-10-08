@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Are combined treatments (drugs, nutrition, and exercise) effective for managing cachexia (severe weight and muscle loss) in people with chronic illnesses?\n\nKey messages?\n– Current research does not show clear benefits of combined drug, nutrition and exercise programmes for people with cachexia, and information on possible side‑effects is limited.  \n– Most studies involved people with cancer, lasted only a few weeks to months, and may not apply to other long‑term illnesses or to longer treatment periods.  \n– Larger, well‑designed randomised trials that follow participants for longer are needed to determine whether combined treatments are safe and effective.\n\nWhat is cachexia and why does it matter?\nCachexia, also called disease‑related wasting, is a serious condition that often develops in people with long‑term illnesses such as cancer, HIV/AIDS, kidney disease, heart disease, and chronic obstructive pulmonary disease (COPD). It causes unintentional loss of body weight and muscle, persistent tiredness, loss of appetite, and a lower quality of life. Because metabolism is disturbed, simply eating more or exercising alone usually does not stop the decline. Traditional care often focuses on a single approach – for example, a drug, a special diet, or an exercise programme – but these single treatments have limited success.\n\nWhat did we aim to find out?\nWe wanted to know whether “multimodal” interventions – programmes that combine two or more treatments such as medication, nutrition support, and exercise – are more effective and safe for people with cachexia than usual care, a single treatment, or a different combination of treatments. We looked at physical function (how well a person can move and perform daily tasks), muscle strength, body weight, quality of life, appetite, fatigue, and other health markers, while also monitoring any unwanted side effects.\n\nWhat did we do?\nWe searched major medical databases and trial registers for randomised controlled trials that tested multimodal interventions in adults with cachexia. We combined the results for outcomes such as physical function, weight and quality of life. We rated our confidence in the evidence using GRADE (Grading of Recommendations, Assessment, Development and Evaluations), a standard system for judging how reliable the findings are.\n\nWhat did we find?\nWe identified nine trials that together included 926 adults (average age about 63 years). Six trials were conducted in Europe, and one each in Turkey, New Zealand and the United States. The participants had cancer (six trials) or, in single trials, COPD, chronic kidney disease, or HIV/AIDS. All interventions combined at least two of medication, nutritional support and exercise, and they were compared with usual care, a different multimodal programme, or a single‑component approach. Follow‑up periods ranged from six weeks to seven months.\n\nThe evidence from these small trials is very uncertain. We do not know whether the combined programmes improve movement, muscle size, weight, appetite, fatigue, quality of life, or the risk of side‑effects compared with usual care or other treatments.\n\nWhat are the limitations of the evidence?\nMany studies were small and participants likely knew which treatment they received, which can bias results. Not all trials reported every outcome we were interested in, and the evidence does not cover all types of chronic illness, interventions or comparators. Because of these issues, we are not confident in the findings.\n\nHow current is the evidence?\nWe searched up to July 2024, so the evidence reflects studies published up to that date.\n\nIn summary, current evidence does not provide clear proof that combined drug, nutrition and exercise programmes help manage cachexia, and data on safety are limited. More large, well‑designed randomised trials that follow participants for longer periods are needed to answer this important question.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 620,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.666666666666668,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.133817204301096,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.540322580645164,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.324188172043009,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.006516129032256,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.169892473118278,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.795698924731184,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.433333333333334,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.224972160321824,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.130566666666667,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 279,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 279.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 138.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 620,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 620 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 6,
+      "P75_count": 5,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:04.055945"
+}

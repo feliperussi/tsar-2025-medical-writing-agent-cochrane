@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015877",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can precision nutrition-based interventions help manage obesity in children and adolescents?\n\nKey Messages:\n- We are very uncertain about the effect of precision nutrition-based interventions on body weight or body mass index in children and adolescents because the evidence is based on only two small studies with a total of 105 participants.\n- Future research should focus on reporting participant outcome data, including outcomes related to mental, emotional, and functional well-being, in addition to biochemical and physical measures, and should be stratified by age groups.\n- More studies are needed to determine the effectiveness of precision nutrition-based interventions for managing obesity in children and adolescents.\n\nWhat is precision nutrition, and how can it help with obesity in children and adolescents?\nPrecision nutrition is an approach that develops tailored interventions and recommendations based on individual characteristics, such as genetics, dietary habits, and health status. This approach is different from the traditional one-size-fits-all method.\n\nWhat did we want to find out?\nWe wanted to examine the impact of precision nutrition-based interventions on obesity in children and adolescents.\n\nWhat did we do?\nWe searched various databases for studies that evaluated precision nutrition-based interventions compared to general or one-size-fits-all interventions or no intervention in children and adolescents with overweight or obesity.\n\nWhat did we find?\nWe found two studies that met our eligibility criteria, but the evidence is very uncertain about the effect of precision nutrition-based interventions on body weight or body mass index in children and adolescents.\n\nWhat are the limitations of the evidence?\nWe have very little confidence in the evidence because it is based on only two small studies, and the certainty of evidence ranged from very low to low across outcomes.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 329,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 16,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.5625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 25,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 102,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 36.0497767857143,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.33940539513678,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.701888297872337,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.535805471124618,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.802507598784196,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.78134498480243,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.0191401215805485,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 125,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 106,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 329,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 329 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 8,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:38.508885"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD004762.PUB3",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Title: Do medicines like mexiletine or lamotrigine help people with myotonia (a muscle‑stiffness condition)?\n\nKey messages:\n- Some medicines, especially mexiletine, probably make muscle stiffness less severe and help people hold objects better.\n- These medicines can also cause side effects such as stomach upset, feeling sleepy, or headaches, and the chance of these side effects is not well known.\n- We are moderately confident about the benefits of mexiletine for certain types of myotonia, but we have little confidence about many other medicines, so more research is needed.\n\nWhat is myotonia and why does it matter?\nMyotonia is a condition where muscles stay tight or stiff after they have been used. This can make everyday tasks like writing, opening a door, or walking difficult and sometimes painful. The condition can appear on its own (non‑dystrophic myotonia) or together with other muscle problems (myotonia dystrophy). Because the stiffness can affect school, work, and quality of life, finding treatments that reduce it is important.\n\nWhat did the researchers want to find out?\nThe review looked at whether medicines that affect nerve signals can reduce muscle stiffness, improve how quickly muscles relax, and make daily life easier for people with myotonia. It also examined whether these medicines cause any harmful side effects.\n\nWhat did we do?\nResearchers searched medical databases for studies that compared a medicine to no medicine or a placebo in people with myotonia. They collected information about how the medicines changed stiffness, muscle relaxation, strength, and side effects, and they judged how reliable each piece of evidence was.\n\nWhat did we find?\nThe review included 15 studies with a total of 442 participants. Most studies tested mexiletine, a drug that blocks certain nerve signals. For people with non‑dystrophic myotonia, mexiletine probably reduces the feeling of stiffness and helps them hold objects more easily. It also probably improves the electrical signals that doctors use to measure muscle stiffness. However, mexiletine did not seem to change how quickly the muscles relax after a squeeze. For people with myotonia dystrophy, mexiletine likely shortens the time it takes for hand muscles to relax, but it did not improve the overall clinical signs of stiffness.\n\nAnother medicine, lamotrigine, was tested in a few small studies. It may help muscles relax a little faster and probably improves quality of life, but the evidence is not strong enough to be sure.\n\nOther medicines such as carbamazepine, phenytoin, and some newer drugs were studied in very small groups. The results were mixed, and there is not enough evidence to say they work well.\n\nSide effects were reported for several medicines. The most common problems were stomach upset, feeling sleepy, headaches, and skin rash. The chance of these side effects happening is uncertain because the studies were small.\n\nOverall, we are moderately confident that mexiletine helps reduce stiffness and improve hand grip in non‑dystrophic myotonia, and that it may help hand relaxation in myotonia dystrophy. For many other medicines, we have little confidence in their benefits or harms because the studies were few or small. More large, well‑designed studies are needed to confirm which medicines work best and are safest for different types of myotonia.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 540,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.0,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 64,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.16833333333335,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.594074074074076,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.884499999999996,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.661555555555552,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.755555555555555,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.925925925925924,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.566666666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.04987562112089,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.1795592592592605,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 540,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 540 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:12.433039"
+}

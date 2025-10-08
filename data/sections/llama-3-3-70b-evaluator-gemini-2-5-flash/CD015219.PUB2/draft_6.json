@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "Is favipiravir (an antiviral drug) effective for treating COVID-19?\n\nKey Messages\n- We are unsure if favipiravir works for COVID-19 because the evidence we have is not strong enough, and it may cause more unwanted or harmful effects.\n- Researchers found that favipiravir may not make a difference in whether people need to go to the hospital, need oxygen therapy, or recover from COVID-19.\n- We need more research to understand the benefits and harms of using favipiravir to treat COVID-19 and to get high-quality evidence to inform decisions.\n\nWhat is COVID-19 and why is it a problem?\nCOVID-19 is an illness caused by a virus called SARS-CoV-2. It has been challenging healthcare systems and societies worldwide since its outbreak. COVID-19 can lead to severe respiratory problems, and its impact has been felt globally. Common treatments for COVID-19 include supportive care, such as rest, hydration, and oxygen therapy, as well as experimental antiviral treatments.\n\nWhat is favipiravir and how is it used in treating COVID-19?\nFavipiravir is an antiviral drug that has been suggested as a potential treatment for COVID-19. Researchers have evaluated it in several randomized controlled trials (RCTs) - a type of scientific study - to assess its effectiveness in treating people with COVID-19. People usually take a high dose on the first day, followed by a lower dose for several days. However, it is still unclear whether favipiravir has a definite role in treating COVID-19.\n\nWhat did the review authors want to find out?\nWe wanted to see how well favipiravir worked for people with COVID-19 compared to no treatment, standard care, or other antiviral drugs. We wanted to find out if favipiravir, compared to other treatments, could:\n- reduce the risk of death\n- prevent people from needing to go to the hospital\n- stop the illness from getting worse and requiring a breathing machine (mechanical ventilation)\n- help people get better faster\n\nWhat methods did we use?\nWe searched for studies comparing favipiravir to other treatments for COVID-19, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 25 studies that involved 5750 adults with COVID-19. Most participants were hospitalized with mild to moderate disease (89%) and were under 60 years of age. The studies were conducted in 13 countries including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA. Most studies compared favipiravir to a placebo (a dummy treatment) or the usual standard of care. A few studies compared it to other antiviral drugs. Treatment usually started with a high dose on the first day, followed by lower doses for one to two weeks.\n\nWhat are the main results of favipiravir for COVID-19?\nFavipiravir may make little to no difference in the need for admission to hospital, the progression to oxygen therapy, or the time to clinical improvement for people with COVID-19. However, it may cause more unwanted or harmful effects overall. We are not sure if favipiravir reduces the risk of dying from any cause, needing a breathing machine, or having other serious harmful effects.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, and in some studies, people knew which treatment they were getting. This can affect the results. Not all studies reported data on all outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to July 2023.\n\nFuture research should explore the benefits and harms of using favipiravir to treat COVID-19. We need high-quality evidence to help people make informed decisions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 618,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.65714285714286,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 65,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 35,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 142,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 58.86445631067963,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.435444290337497,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.75361997226075,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.183430420711971,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.535349052242257,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.16523347202959,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.857142857142857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.394629237170597,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 216,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 100,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 170,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 618,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 618 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 88.88888888888889,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that passes all critical checks for accuracy, completeness, and length. However, it is NOT_APPROVED because there are several key opportunities to improve clarity for a lay audience by simplifying vocabulary and removing unnecessary detail. The main issues are: 1) The Key Messages use slightly wordy and academic phrasing like 'unwanted or harmful effects' instead of more common terms like 'side effects'. 2) The results section includes a long list of 13 countries, which adds length without providing useful information for the reader. 3) The language in the 'Main results' section is repetitive and the distinction between different types of harm could be clearer. Addressing these points will make the summary more direct and easier to understand, aligning it better with the vocabulary metrics typical of high-quality Plain Language Summaries.",
+      "pls_evaluation_summary": "The linguistic analysis shows this draft has an excellent structure, with short sentences and high readability scores placing it in the best quartile for 89% of metrics. However, the analysis also flags two key areas for improvement: the number of long words (P90) and the use of words uncommon in everyday language (complex_words_dc, P90). My feedback focuses on addressing these specific vocabulary issues to improve reader comprehension."
+    }
+  ]
+}

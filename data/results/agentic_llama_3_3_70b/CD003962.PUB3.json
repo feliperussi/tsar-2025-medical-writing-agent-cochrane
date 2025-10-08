@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003962.PUB3",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "How Blood-Pressure Medicines and Tonsil Removal Can Help or Harm People with IgA Nephropathy\n\nWhat are the key messages from this review?\n- We found that blood-pressure medicines - especially those affecting the renin-angiotensin system (a part of the body that controls blood pressure) - may help reduce proteinuria (excess protein in the urine, a sign of kidney damage) without causing significant harm. However, the evidence is not strong enough to be certain.\n- Tonsillectomy (the surgical removal of the tonsils) may help increase remission of proteinuria and haematuria (blood in the urine) in people with IgAN, particularly in Japanese patients. But the evidence is limited, and it's unclear if this applies to other populations or if it's safe in the long term.\n- More research is needed to understand the long-term benefits and harms of these treatments, especially in different populations, and to find the best approach for managing IgA nephropathy.\n\nWhat is IgA Nephropathy and Why is it a Problem?\nIgA nephropathy, also known as IgAN, is a type of kidney disease where the kidneys become inflamed due to an abnormal immune response. It affects approximately 20% to 40% of patients who may progress to kidney failure within 25 years. This condition can lead to serious health issues, including kidney failure, which requires dialysis or a kidney transplant.\n\nWhat are Non-Immunosuppressive Treatments and How Do They Work?\nNon-immunosuppressive treatments for IgAN include therapies like antihypertensives (blood-pressure medicines), anticoagulants (blood thinners), dietary restrictions, and herbal medicines. These treatments aim to manage the disease by improving blood pressure, reducing proteinuria, and minimizing the risks associated with long-term immunosuppressive management.\n\nWhat Did the Review Authors Want to Find Out?\nThe review authors aimed to assess the benefits and harms of non-immunosuppressive treatments for IgAN in adults and children. They examined various non-immunosuppressive therapies to determine their effectiveness in improving kidney function, reducing proteinuria, and minimizing the risk of kidney failure.\n\nHow Did the Authors Search for Evidence?\nThe authors performed a systematic search of PubMed, Embase, and the Cochrane Library for randomized controlled trials and observational studies evaluating non-immunosuppressive therapies for IgA nephropathy up to December 2023.\n\nWhat Did the Authors Find?\nThis review includes 80 studies with a total of 4856 participants. The studies examined a range of non-immunosuppressive therapies, including antihypertensive therapies, anticoagulants, dietary restrictions, tonsillectomy, and herbal medicines. The review found that antihypertensive therapies, particularly renin-angiotensin system inhibition, probably decrease proteinuria and may have little to no difference in kidney failure or doubling of serum creatinine.\n\nWhat are the Limitations of the Evidence?\nThe evidence is limited because the studies were very small, potentially unblinded, did not report all outcomes of interest, involved heterogeneous populations, and did not cover all relevant people, interventions, comparators, or outcomes.\n\nIs the Evidence Up to Date?\nThis review updates our previous review, and the evidence is up to date to December 2023.\n\nWe used the GRADE framework to assess the certainty of the evidence. The certainty of the evidence for each outcome was graded as high, moderate, low, or very low. We found that the evidence for the benefits of antihypertensive therapies, particularly renin-angiotensin system inhibition, was moderate. However, the evidence for the benefits of tonsillectomy was low, and it's unclear if this applies to other populations or if it's safe in the long term.\n\nIn conclusion, while the evidence suggests that blood-pressure medicines and tonsil removal may be beneficial for people with IgA nephropathy, more research is needed to understand the long-term benefits and harms of these treatments, especially in different populations, and to find the best approach for managing IgA nephropathy.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 644,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 33.20677018633543,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.341490683229818,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.63659937888199,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.582173913043476,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.39254658385093,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.22981366459628,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.642857142857143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.288205727444508,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.172383850931677,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 246,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 148,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 148.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 214,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 214.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 644,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 644 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 0,
+      "P75_count": 10,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 0.0,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:04.362017"
+}

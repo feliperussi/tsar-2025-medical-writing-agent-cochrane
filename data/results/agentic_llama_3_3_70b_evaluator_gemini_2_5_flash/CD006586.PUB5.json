@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006586.PUB5",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can birth control pills containing drospirenone help improve symptoms of premenstrual syndrome?\n\nKey Messages\n- Birth control pills with drospirenone may help improve symptoms of premenstrual syndrome, including problems that affect daily life, but they may also cause more unwanted effects like breast pain and nausea compared to a placebo.\n- The evidence for how well these pills work is not strong, and we do not know if they help women with less severe symptoms or if they are better than other birth control pills, which means more research is needed.\n- Future studies should look at the long-term effects of these pills, compare them to other treatments, and focus on things that matter to women with premenstrual syndrome, like quality of life and symptom relief, to give us more reliable information for making decisions.\n\nWhat is premenstrual syndrome and why is it a problem?\nPremenstrual syndrome, or PMS, is a common issue that affects many women. It causes physical and emotional symptoms before a woman's period that can interfere with daily life. A more severe form of PMS is premenstrual dysphoric disorder, or PMDD, which can significantly impact a woman's quality of life. While some women find relief with lifestyle changes or other treatments, others need more targeted help. Researchers have studied birth control pills containing both progestin and estrogen as a possible treatment for PMS.\n\nWhat did the review authors want to find out?\nThe authors of this review wanted to see if birth control pills with drospirenone are effective and safe for women with PMS. They aimed to find out if these pills can improve premenstrual symptoms and what potential risks or side effects they might have. By looking at evidence from randomized controlled trials, the authors wanted to clearly explain the benefits and drawbacks of using these pills for PMS treatment.\n\nHow did we do the review?\nWe searched for studies on birth control pills containing drospirenone for premenstrual syndrome, summarized their results, and evaluated how confident we can be in the evidence.\n\nWhat did we find?\nWe found five studies involving 858 women with premenstrual syndrome, most of whom had premenstrual dysphoric disorder. These studies compared birth control pills with drospirenone to a placebo. The pills may improve overall premenstrual symptoms and problems they cause, but they may also lead to more side effects compared to a placebo. For every 100 women taking these pills, 6 to 16 may stop due to side effects, compared to 3 who would stop a placebo. The pills may also cause more breast pain, nausea, and menstrual issues, but their effect on nervousness, headache, and pain is not clear.\n\nWhat are the limitations of the evidence?\nWe have limited confidence in the evidence for a few reasons. The studies included a small number of women. Also, it was not always clear if steps were taken to prevent women from knowing whether they were receiving the real pill or the placebo, which could influence the results.\n\nHow up to date is this review?\nThe evidence is current up to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 527,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.08,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.38491005692602,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.07370474383302,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.462390891840606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.700721062618594,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.352303605313091,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.07620493358634,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.48,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.426149773176359,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.588547127134724,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 185,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 78,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 137,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 527,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 527 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:19.076294"
+}

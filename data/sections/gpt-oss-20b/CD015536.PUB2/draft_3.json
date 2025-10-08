@@ -1,0 +1,162 @@
+{
+  "id": "CD015536.PUB2",
+  "draft": "Is the antiviral medicine entecavir (a drug that blocks hepatitis B virus) better than no treatment or a dummy pill for children and adults with long‑term hepatitis B?\n\nKey messages\n– Current research does not show a clear benefit of entecavir (a medicine that blocks hepatitis B virus) compared with no treatment or a dummy pill (placebo) for people with chronic hepatitis B; the trials reported no deaths and gave very uncertain information about serious side‑effects.  \n– The studies also did not report how entecavir affects overall well‑being or health‑related quality of life (how health impacts daily life).  \n– Because the evidence is limited and uncertain, we need larger, well‑designed studies that follow patients for longer periods to determine whether entecavir improves survival, reduces serious side‑effects, or enhances quality of life.\n\nWhy is chronic hepatitis B a major health problem?\nHepatitis B is a virus that infects the liver. When the infection lasts a long time (called chronic hepatitis B), it can cause serious liver damage, liver cancer, and even death. Around one‑third of the world’s population has been exposed to the virus, and millions live with chronic infection, making it a major public‑health concern. Many people feel well for years, but the virus can silently damage the liver over time.\n\nWhat is entecavir and how do we use it to treat hepatitis B?\nEntecavir belongs to a group of medicines called nucleos(t)ide analogues – drugs that look like the building blocks of viral DNA and stop the virus from copying itself. Because it works well and is usually safe, many clinical guidelines recommend entecavir as a first‑line (first‑choice) treatment for chronic hepatitis B in both children and adults. Patients take the tablet by mouth to keep the virus at low levels and reduce liver damage.\n\nWhat did the review aim to find out?\nWe wanted to know whether taking entecavir is beneficial and safe compared with receiving no treatment or a placebo. We looked at both children and adults, regardless of whether they were positive or negative for hepatitis B e‑antigen (HBeAg – a marker that shows how active the infection is). We focused on three important outcomes: death from any cause, serious side‑effects, and health‑related quality of life.\n\nHow did we find and assess the studies?\nWe searched several databases and trial registries for randomised trials that compared entecavir with no treatment or placebo in people with chronic hepatitis B. We combined the results where possible and used the GRADE system (a method for rating how confident we are in the evidence) to assess the findings.\n\nWhat did we find?\nWe included 22 randomised trials that together enrolled 2,940 participants with chronic hepatitis B. All trials compared oral entecavir with either no treatment or a placebo for periods ranging from 5 weeks to 228 weeks. Twelve trials used no treatment as the comparator and ten used a placebo. Fourteen trials gave the same additional care to both groups. Most participants were adults; one trial enrolled only children and another enrolled people aged 14‑55 years. No trial reported health‑related quality‑of‑life outcomes. We could not estimate the effect on death because no deaths occurred in either the entecavir group or the no‑treatment/placebo groups. The evidence for serious side‑effects was very uncertain because few events occurred and many trials had risk‑of‑bias concerns.\n\nWhat are the limitations of the evidence?\nWe are not confident in the findings because some participants may have known which treatment they received, many trials were small, and several did not provide data for the outcomes we wanted.\n\nHow up‑to‑date is the evidence?\nOur search covered studies published up to July 2024, so the evidence reflects the literature available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 631,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.35483870967742,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 67,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 170,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 170.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 54.91746945452687,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.656152548438222,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.170081795409232,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.49001584786054,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.699780174837688,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.61315883646031,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.548387096774194,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.535653752852738,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.515780665610143,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 260,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 135,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 135.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 172,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 631,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 631 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft passes the required completeness, factual accuracy, and word‑count checks, but it contains several clarity problems that would likely confuse patients:\n1. **Jargon without plain explanation** – \"nucleos(t)ide analogues\" and \"risk‑of‑bias concerns\" are technical terms that most readers won’t understand.\n   *Rewrite*: \"Entecavir belongs to a group of medicines called nucleos(t)ide analogues – drugs that look like the building blocks of the virus’s DNA and stop it copying itself. We are uncertain about the safety evidence because many studies had problems with how they were carried out (risk‑of‑bias concerns).\"\n2. **Passive‑voice sentence that hides who is uncertain** – \"The evidence for serious side‑effects was very uncertain because few events occurred and many trials had risk‑of‑bias concerns.\"\n   *Rewrite*: \"We are very uncertain about the evidence for serious side‑effects because only a few events happened and many trials had problems with how they were done.\"\n3. **Long, dense key‑message bullet** – \"Current research does not show a clear benefit of entecavir (a medicine that blocks hepatitis B virus) compared with no treatment or a dummy pill (placebo) for people with chronic hepatitis B; the trials reported no deaths and gave very uncertain information about serious side‑effects.\"\n   *Rewrite*: \"Current research does not show a clear benefit of entecavir (a medicine that blocks hepatitis B) compared with no treatment or a dummy pill. The trials reported no deaths and gave very uncertain information about serious side‑effects.\"\n4. **Noun‑heavy phrasing that reduces readability** – \"health‑related quality‑of‑life outcomes\" and \"serious adverse events\" are long noun clusters.\n   *Rewrite*: \"how the treatment affects daily life (quality of life)\" and \"serious side‑effects\".\nThese issues are reflected in the metric analysis, which shows unusually high counts of nouns (170 vs median ≈ 116), complex words (135 vs median ≈ 84), long words (172 vs median ≈ 122), and Dale‑Chall unfamiliar words (260 vs median ≈ 160). Reducing noun density and simplifying vocabulary will improve readability and align the draft with typical PLS patterns. Overall, the draft needs these revisions before it can be approved.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft conforms overall (61% of features in best quartile), but four metrics deviate significantly: nouns (170, P90), complex_words_dc (260, P90), complex_words (135, P90) and long_words (172, P90). These indicate the text is noun‑heavy and uses many complex/long words, supporting the need to simplify language and reduce noun density."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "**Heading**\nAgent stopped due to max iterations.\n\n**Key Messages**\n- The review found that nivolumab alone likely does not improve overall survival or progression-free survival in adults with diffuse glioma, and evidence on serious adverse events is very uncertain.\n- Anti-PD1 therapy combined with bevacizumab also appears ineffective, based on low- to very-low-certainty evidence.\n- Future research should prioritize robust, longer-term studies that assess clinically important outcomes, adverse effects, and costs to inform decision-makers.\n\n**What is glioblastoma multiforme (GBM)?**\nGlioblastoma multiforme (GBM) is the most common and aggressive adult glioma, with a median survival of 16 months. It is characterized by its rapid growth and resistance to current treatments, making it a significant health problem. GBM is often treated with surgery, chemotherapy, and radiotherapy, but these treatments have limited success. The immunosuppressive microenvironment of GBM limits the efficacy of immune checkpoint inhibitors (ICIs), which are a promising new approach to treating the disease.\n\n**What did the authors want to find out?**\nThe authors aimed to assess the effects of ICIs antibodies anti-programmed cell death 1 (anti-PD-1) and anti-programmed cell death ligand 1 (anti-PD-L1) in treating adults with diffuse glioma. They wanted to evaluate the efficacy and safety of these treatments in improving overall survival (OS), progression-free survival (PFS), and quality of life (QoL) in patients with GBM.\n\n**Brief Summary**\nThe review directly addresses the aims, offering an extremely brief summary that outlines the key actions taken by the authors and notes that the results were combined from 7 randomised controlled trials (RCTs) (7 RCTs).\n\n**Study Characteristics**\nThe agent terminated because it reached the maximum allowed number of iterations, suggesting that the task may have caused an infinite loop or exceeded the computational limits set for the process.\n\n**Main results: Treatment of Adults with Diffuse Glioma**\nThe main review results show that anti-PD-1 and anti-PD-L1 antibodies probably have no benefit in treating adults with diffuse glioma. Nivolumab alone probably has no benefit, and anti-PD1 plus bevacizumab may also be ineffective. Neoadjuvant plus adjuvant pembrolizumab may improve overall survival and progression-free survival, but this was based on only one small trial and very low-certainty evidence. In newly diagnosed GBM, nivolumab plus radiotherapy in unmethylated and plus radiotherapy plus temozolomide in methylated GBM probably has no benefit. In older participants, adjuvant nivolumab probably offers no benefit.\n\n**Limitations**\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n**Evidence Currency Statement**\nThe evidence is up to date as of March 8, 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 472,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.153846153846153,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 38,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 14,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 123,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 43.22664276401565,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.740000000000006,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.2069018904824,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.981949152542374,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.329335071707956,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.78096479791395,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.923076923076923,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.392304845413264,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.791829074315515,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 206,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 107,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 472,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 472 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 7,
+        "P75_count": 7,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "...",
+      "pls_evaluation_summary": "..."
+    }
+  ]
+}

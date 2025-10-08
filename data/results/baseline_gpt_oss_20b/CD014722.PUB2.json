@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What can primary workers do to help prevent mental health problems in low‑ and middle‑income countries?\n\nKey Messages\n- Primary workers can probably reduce anxiety, depression, and distress in adults and children, and no harmful effects were reported.\n- The evidence has some problems and varied across studies, so we are only moderately confident in the results.\n- More research is needed to confirm these findings, to understand costs, and to find ways to support these programs.\n\nWhat is mental health prevention?\nMental health prevention means doing things before a problem starts or before it gets worse. It can be for everyone (universal), for people who are at higher risk (selective), or for people who already show symptoms (indicated).\n\nWhy is prevention important in low‑ and middle‑income countries?\nIn many countries with limited resources, mental health problems can be hidden because of stigma, and there are not enough trained doctors. Primary workers, such as community health volunteers or local teachers, are often trusted members of the community and can reach people who might not see a specialist.\n\nWhat did we want to find out?\nWe wanted to know whether programs delivered by primary workers can improve mental health outcomes compared with usual care, and whether any harms were reported.\n\nWhat did we do?\nWe searched many databases for studies that compared primary workers delivering mental health programs with usual care, then we combined the results and judged how confident we were in them.\n\nWhat did we find?\nStudy characteristics: The review included more than one hundred studies from many low‑ and middle‑income countries. Together the studies involved tens of thousands of adults and children. Primary workers were health volunteers, community members, teachers, or other local staff. The programs were delivered in groups, in schools, or in homes, and they focused on universal, selective, or indicated prevention.\n\nMain results for adults:\n- Intervention probably reduces anxiety symptoms slightly.\n- Intervention may reduce distress slightly.\n- Intervention probably reduces depressive symptoms slightly.\n- Intervention may reduce adverse events.\n- Intervention probably reduces functional impairment slightly.\n\nMain results for children and adolescents:\n- Intervention may improve quality of life.\n- Intervention may reduce adverse events.\n- Intervention may reduce depressive symptoms slightly.\n- Intervention may reduce anxiety symptoms slightly.\n- Intervention probably reduces depressive symptoms slightly.\n- Intervention may reduce anxiety slightly.\n- Intervention probably reduces distress slightly.\n- Intervention decreases functional impairment slightly.\n- Intervention decreases depressive symptoms slightly.\n- Intervention may reduce distress slightly.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence because some studies had problems that could affect the results, and the studies were done in different ways and with different people. In addition, for many outcomes only a few studies were available, which makes the overall picture less clear.\n\nHow up to date is this evidence?\nThe evidence is up to date to November 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 497,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.137931034482758,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 27,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.64563380281692,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.871257892180672,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.541883022271556,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.937625754527161,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.857184486227712,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.16610004856726,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.517241379310345,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.246950765959598,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.680725483938112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 189,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 497,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 497 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 3,
+      "P75_count": 8,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.382689"
+}

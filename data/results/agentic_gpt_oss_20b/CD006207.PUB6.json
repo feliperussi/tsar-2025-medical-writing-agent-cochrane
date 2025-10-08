@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006207.PUB6",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "Do things like masks, hand washing, and keeping distance help stop the spread of respiratory viruses?\n\nWhat are the main findings?\n– Current research shows that wearing medical or surgical masks in the community does not clearly prevent flu‑like or COVID‑like illness.  \n– Hand hygiene (washing hands with soap or using sanitizer) probably reduces the overall number of respiratory infections, but its effect on specific flu‑like illness is uncertain.  \n– Comparing tight‑fitting N95/P2 respirators (masks that filter out most particles) with regular medical or surgical masks did not show a consistent advantage, and discomfort from either type was reported only occasionally.  \n– Because many studies had design limitations, low adherence, and limited reporting of harms, we need more well‑designed trials to determine how effectively masks, hand hygiene, and physical distancing prevent respiratory viruses and to understand any unwanted effects.\n\nWhy are acute respiratory virus infections a global health concern?\nAcute respiratory infections (ARIs) such as influenza, severe acute respiratory syndrome (SARS), and COVID‑19 spread quickly through whole communities and across borders. When many people become ill at once, hospitals can become overwhelmed and everyday life is disrupted. Vaccines and antiviral drugs help, but they are not always enough, especially for new viruses or when vaccines are unavailable. Simple, physical measures—like keeping distance, mask‑wearing, and hand washing—are therefore important to explore.\n\nWhat did the review aim to find out?\nWe wanted to know whether non‑drug actions—screening at entry points, isolating sick people, quarantining contacts, keeping physical distance, using personal protective equipment (masks, glasses, gowns), practising hand‑washing or hand‑sanitising, and even gargling—reduce the spread of acute respiratory viruses. To answer this, we examined randomised controlled trials (RCTs) that tested these interventions in settings such as schools, homes, hospitals, and crowded neighbourhoods.\n\nHow did we search for studies?\nWe searched CENTRAL, PubMed, Embase, CINAHL, and two trial registers in October 2022. We also checked references of relevant papers forward and backward. We included RCTs and cluster‑RCTs that evaluated any of the physical measures listed above.\n\nWhat did we find?\nWe identified 78 RCTs (including 11 new trials added during the COVID‑19 pandemic) involving about 610,872 participants from six countries. The studies covered diverse settings—from suburban schools and childcare centres to hospital wards and crowded inner‑city areas. The interventions tested were:\n– Medical or surgical masks versus no mask  \n– N95/P2 respirators versus medical or surgical masks  \n– Hand‑hygiene programmes versus no intervention  \n\nNo trials of gowns, gloves, face shields, or entry‑port screening were found.\n\nThe evidence showed:\n* Wearing medical or surgical masks in the community probably does not reduce the risk of flu‑like illness or laboratory‑confirmed influenza.  \n* Using N95/P2 respirators instead of medical or surgical masks probably does not change the risk of laboratory‑confirmed influenza and may only slightly reduce flu‑like illness, but the evidence is uncertain.  \n* Hand hygiene probably reduces the chance of acquiring any respiratory infection slightly.\n\nHarms were rarely measured; discomfort from mask wearing was mentioned in a few studies.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because participants often knew which intervention they received, the studies varied in the types of people and how the measures were delivered, the evidence does not cover all groups or situations, and many trials were small with few events. Risk of bias was generally high or unclear.\n\nHow up to date is this review?\nThis review updates our previous work and includes evidence searched up to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 604,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.37037037037037,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 161,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 45.883709835663495,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.416894775570274,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.024456708363992,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.926357615894037,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.683247485896494,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.64851606573461,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.444444444444445,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.575836902790225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.455580304145204,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 281,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 281.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 201,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 604,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 604 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:49.199268"
+}

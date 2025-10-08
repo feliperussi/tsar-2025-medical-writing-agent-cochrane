@@ -1,0 +1,162 @@
+{
+  "id": "CD012697.PUB2",
+  "draft": "analysisWe need to output final plain language summary with formatting: Title as Heading (maybe just plain line?), main sections as **Bold Headings**, key messages as list with dashes, introduction sections with subheadings. No markdown? It says no markdown, but they want formatting like Heading, **Bold Headings**. That is markdown style. But they say no markdown. Possibly they mean no code fences, just plain text with those markers. We'll output as plain text with the markers.\n\nStructure:\n\nTitle line: Is magnetic seizure therapy (a brain‑stimulation treatment) as effective and safer than electroconvulsive therapy (electric shock treatment) for people with schizophrenia?\n\nThen **Key messages** heading, then list.\n\nThen **Introduction/Aims** heading, then subheadings: maybe as subheading lines (like \"Why is schizophrenia a challenging health problem?\" etc.) with content.\n\nThen **Methods**, **Results**, **Limitations**, **Currency**.\n\nWe must not add or change content.\n\nLet's assemble.\n\nKey messages list: three items as given.\n\nIntroduction/Aims: three subheadings with content.\n\nMethods: three subheadings.\n\nResults: one subheading.\n\nLimitations: content.\n\nCurrency: statement.\n\nMake sure to keep line breaks.\n\nNo extra punctuation.\n\nProceed.Is magnetic seizure therapy (a brain‑stimulation treatment) as effective and safer than electroconvulsive therapy (electric shock treatment) for people with schizophrenia?\n\n**Key messages**\n- Based on the only available study, magnetic seizure therapy (MST) (a brain‑stimulation treatment that uses magnetic fields to induce seizures) does not appear to be clearly better or worse than electroconvulsive therapy (ECT) (a treatment that uses electric currents to induce seizures) for overall improvement of schizophrenia symptoms; however, MST may lead to fewer problems with delayed memory (trouble remembering things later) and may improve thinking abilities (cognitive function) compared with ECT, though the evidence is very uncertain.\n- The review’s conclusions are limited because they rely on a single small trial that had several methodological problems, so the overall confidence in these findings is very low.\n- More well‑designed, larger randomised trials are needed to determine whether MST truly offers any advantage over ECT in effectiveness or safety for people with schizophrenia.\n\n**Introduction/Aims**\nWhy is schizophrenia a challenging health problem?\nSchizophrenia is a common and serious mental illness that affects how a person thinks, feels, and behaves. It can cause symptoms such such as hearing voices, having strange beliefs, and losing interest in everyday activities. These symptoms often make it hard for people to work, study, or maintain relationships, leading to a high level of disability. The main treatment for schizophrenia is medication called antipsychotics, but about one in five people do not get enough relief from these drugs and need other treatment options.\n\nWhat is magnetic seizure therapy and why might it help?\nMagnetic seizure therapy (MST) is a newer, non‑invasive brain‑stimulation technique. It uses brief, strong magnetic pulses to create a short seizure in the brain, similar to the older method called electroconvulsive therapy (ECT), but without the electrical currents that can cause more side‑effects. Researchers are interested in MST because it might improve symptoms of schizophrenia while causing fewer memory problems and other cognitive side‑effects than ECT.\n\nWhat did the review aim to find out?\nThe authors wanted to determine whether MST is effective and safe for people with schizophrenia. Specifically, they set out to compare MST (alone or added to standard care) with ECT or other treatments, looking at how well it improves overall mental state, positive and negative symptoms, and cognitive function, as well as its side‑effects and how many people stop treatment early.\n\n**Methods**\nSearch Strategy\nWe searched for studies that compared magnetic seizure therapy with other treatments for people with schizophrenia.\n\nData Synthesis\nWe combined the results of eligible studies to estimate the overall effect.\n\nConfidence Assessment\nWe rated our confidence in the evidence using a standard framework.\n\n**Results**\nWhat did we find?\nWe identified a single randomised controlled trial that enrolled 79 adults with acute schizophrenia. The four‑week study compared magnetic seizure therapy (MST) plus standard care with electroconvulsive therapy (ECT) plus standard care. No information was given about where the trial was conducted, who funded it, or details such as the participants’ ages, gender balance or severity beyond the label “acute” schizophrenia. The results were uncertain: it is unclear whether MST makes any difference to the overall state of people with schizophrenia, to overall symptom scores, to positive or negative symptoms, to the chance of delayed memory problems, to overall cognitive decline, to any cognitive improvement, or to the likelihood of participants leaving the study early for any reason, because of adverse effects, or because the treatment was ineffective, when compared with ECT.\n\n**Limitations**\nWe are not confident in the evidence because it is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in, and because studies were very small.\n\n**Currency**\nThe evidence is up to date to March 2022 of search.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 870,
+          "rating": "over_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 54,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.11111111111111,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 79,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 42,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 37,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 37.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 236,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 55.122222222222234,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.573333333333334,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.856141762452111,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.364,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.030651340996167,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.95019157088122,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.12962962962963,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.727922061357855,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.351053639846744,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 361,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 361.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 165,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 277,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 277.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 870,
+        "limit": 850,
+        "status": "over_limit",
+        "message": "Word count: 870 ✗ OVER LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical checks: (1) All section subheadings are not phrased as questions – the style guide requires headings like \"What are the key messages?\", \"Why is schizophrenia a challenging health problem?\", \"How did we search for studies?\" etc. (2) The total word count is 870, exceeding the 850‑word limit. (3) The text contains excessive nominalisation and noun density (236 nouns, 37 nominalisations) and many complex/long words, making it harder for lay readers.\n\nTop improvements needed:\n1. Subheading format – Quote: \"**Key messages**\". Problem: Not a question, violates style guide. Rewrite: \"**What are the key messages?**\".\n2. Subheading format – Quote: \"**Introduction/Aims**\". Problem: Not a question. Rewrite: \"**Why is schizophrenia a challenging health problem?**\".\n3. Word count – The draft is 870 words. Problem: Over the 850‑word limit. Rewrite: Trim redundant phrases and combine sentences to bring the total below 850 words.\n4. Nominalisation and noun density – Quote: \"We performed reference screening, study selection, data extraction and risk of bias and quality assessment in duplicate.\" Problem: Heavy noun‑heavy phrasing; contributes to high nominalisation (37) and noun count (236). Rewrite: \"We screened references, selected studies, extracted data, and assessed risk of bias together.\"\n5. Complex/long words – Quote: \"magnetic seizure therapy (MST) (a brain‑stimulation treatment that uses magnetic fields to induce seizures)\". Problem: Long, technical phrase with many syllables. Rewrite: \"magnetic seizure therapy (MST), a brain‑stimulation treatment that uses magnetic fields to cause a brief seizure.\"\n\nSupporting metrics: The evaluation shows 37 nominalisations (BEYOND_P90), 236 nouns (BEYOND_P90), SMOG index 15.7 (BEYOND_P90), and 165 complex words (BEYOND_P90). These numbers confirm the need to simplify language and reduce noun‑heavy constructions.",
+      "pls_evaluation_summary": "The PLS evaluation flags several metrics far beyond typical ranges: nominalisations (37, BEYOND_P90), nouns (236, BEYOND_P90), SMOG index (15.7, BEYOND_P90), complex words (165, BEYOND_P90) and long words (277, BEYOND_P90). Readability scores are acceptable (Flesch‑Reading Ease 55.12, FKGL 9.57), but word count exceeds the 850‑word limit (870 words). Overall conformity is moderate with 33% of features deviating significantly."
+    }
+  ]
+}

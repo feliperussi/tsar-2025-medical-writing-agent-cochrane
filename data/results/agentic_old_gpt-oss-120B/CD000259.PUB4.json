@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does audit (a systematic check of clinicians’ work) and feedback (information given back to clinicians about their performance) improve how health professionals work?\n\nKey messages  \n- Audit and feedback can lead to modest improvements in professional practice, and no harmful effects were reported; the evidence is of moderate quality (medium confidence).  \n- Improvements are larger when feedback is given to individual clinicians rather than teams, when performance is compared with top‑performing peers (benchmarking), when a trusted local champion (a supportive colleague) is involved, and when feedback is provided both verbally and in writing together with a clear action plan (specific steps to improve practice).  \n- More research is needed to confirm which design features consistently boost effectiveness, to test audit and feedback in a wider range of settings (including low‑ and middle‑the income countries), and to examine longer‑term impacts on practice.\n\nWhy is improving how health professionals work important?  \nWe know patients rely on doctors, nurses and other clinicians to make safe, effective decisions about medicines, tests and treatments. When everyday actions do not match the best evidence – for example, prescribing unnecessary antibiotics or ordering too many lab tests – patients can be harmed, costs rise and overall care quality falls. Closing these gaps is a major goal for health systems worldwide.\n\nWhat is audit and feedback and how is it used?  \nAudit and feedback (A&F) works in two steps. First, an audit measures a clinician’s performance over a set period (for example, how often a drug is prescribed). Second, feedback shares the audit results with the clinician, usually compared with a target or with peers. Seeing concrete data about one’s own practice can prompt change. A&F is often combined with co‑interventions (additional supports such as short educational sessions or reminders).\n\nWhat did the reviewers want to find out?  \nWe asked two questions: (1) How much does audit and feedback improve actual practices such as prescribing or test ordering? (2) Which features of audit and feedback programmes (for example, giving individual‑level data, using a local champions, providing interactive feedback, or offering clear action plans) make them work better? To answer these questions we examined results from hundreds of randomised trials – studies that randomly assign clinicians to receive A&F or not – including cluster‑trials (studies where whole groups such as clinics are randomly assigned).\n\nHow did we find the evidence?  \nWe searched relevant databases for studies that examined audit and feedback aimed at changing health‑professional practice. We screened studies for eligibility, extracted data on intervention characteristics and outcomes, and used meta‑analytic techniques to calculate pooled effect sizes (measures of how big the change is) and assess heterogeneity (differences between study results). We also judged the certainty of the evidence.\n\nWhat did we find?  \nThe pooled analysis shows that A&F produces modest improvements, with effect sizes ranging from small to moderate. Effectiveness is greater when feedback: (a) is delivered by a respected peer or supervisor, (b) includes explicit performance targets, (c) uses both verbal and written formats, and (d) is accompanied by an action plan. Results varied widely across studies, indicating that contextual factors and how feedback is framed matter a lot.\n\nWhat do the results mean for practice?  \nAudit and feedback can positively influence clinical practice, we found no evidence of harm. Designing feedback that is frequent, specific, delivered by a credible source and includes actionable steps is likely to maximise benefit.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the evidence because participants often knew which group they were in, not all studies reported every outcome we wanted, and the studies used different populations and delivery methods.\n\nWhat is the currency of the review?  \nThis review updates our previous Cochrane (an international organisation that produces high‑quality systematic reviews of health research) review. The evidence is current to June 2020.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 652,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.176470588235293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 75,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 190,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 190.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 44.51106640202096,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.81489714904367,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.076655539516423,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.516380368098158,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.93439191627571,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.918801876578854,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.470588235294118,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.532562594670797,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.603975027066042,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 316,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 316.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 151,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 151.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 220,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 652,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 652 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 7,
+      "P75_count": 3,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:48.344101"
+}

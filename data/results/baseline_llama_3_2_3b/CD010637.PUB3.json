@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010637.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the abstract into a Plain Language Summary (PLS) following the Cochrane guidelines.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of physical exercise for treating non-ulcerated chronic venous insufficiency?**\n\n**Key Messages:**\n\n* We found that physical exercise may not have a clear effect on reducing symptoms of chronic venous insufficiency (CVI) in people who do not have ulcers.\n* There is no clear difference in the intensity of CVI disease signs and symptoms between people who exercise and those who do not.\n* We are uncertain if exercise improves ejection fraction, venous refilling time, or quality of life in people with CVI.\n* There is no clear difference in exercise capacity, muscle strength, or ankle mobility between people who exercise and those who do not.\n\n**What did we do?**\n\nWe searched for studies that compared exercise programs with no exercise in people with non-ulcerated CVI. We included five studies involving 146 participants. We assessed the studies for risk of bias and imprecision, and we were unable to combine the data in a meta-analysis.\n\n**What did we find?**\n\nWe found that there is currently insufficient evidence to assess the benefits and harms of physical exercise in people with chronic venous disease. Future research should consider types of exercise protocols, sample size, blinding, and homogeneity according to the severity of disease.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to March 2022.\n\n**What are the limitations of the evidence?**\n\nWe are uncertain if exercise has an effect on reducing symptoms of CVI, improving quality of life, or improving exercise capacity in people with CVI. We are also uncertain if exercise improves muscle strength or ankle mobility in people with CVI. The evidence is very low-certainty due to risk of bias and imprecision.\n\n**What should happen next?**\n\nFuture research should focus on types of exercise protocols, sample size, blinding, and homogeneity according to the severity of disease.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 347,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.458333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 35,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 98,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.79898475024018,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.649902737752164,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.869656580211338,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.705706051873197,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.659414024975986,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.71769932756964,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.660254037844387,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.133242843419789,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 141,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 105,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 347,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 347 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 7,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.143502"
+}

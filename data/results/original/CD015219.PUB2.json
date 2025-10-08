@@ -1,0 +1,159 @@
+{
+  "file_id": "CD015219.PUB2",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Favipiravir for treating COVID‐19\n\nBackground\nThe coronavirus disease 2019 (COVID‐19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) continues to challenge the health workforce and societies worldwide. Favipiravir was suggested by some experts to be effective and safe to use in COVID‐19. Although this drug has been evaluated in randomized controlled trials (RCTs), it is still unclear if it has a definite role in the treatment of COVID‐19.\n\nObjectives\nTo assess the effects of favipiravir compared to no treatment, supportive treatment, or other experimental antiviral treatment in people with acute COVID‐19.\n\nSearch methods\nWe searched the Cochrane COVID‐19 Study Register, MEDLINE, Embase, the World Health Organization (WHO) COVID‐19 Global literature on coronavirus disease, and three other databases, up to 18 July 2023.\n\nSelection criteria\nWe searched for RCTs evaluating the efficacy of favipiravir in treating people with COVID‐19.\n\nData collection and analysis\nWe used standard Cochrane methodological procedures for data collection and analysis. We used the GRADE approach to assess the certainty of evidence for each outcome.\n\nMain results\nWe included 25 trials that randomized 5750 adults (most under 60 years of age). The trials were conducted in Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA. Most participants were hospitalized with mild to moderate disease (89%). Twenty‐two of the 25 trials investigated the role of favipiravir compared to placebo or standard of care, whilst lopinavir/ritonavir was the comparator in two trials, and umifenovir in one trial. Most trials (24 of 25) initiated favipiravir at 1600 mg or 1800 mg twice daily for the first day, followed by 600 mg to 800 mg twice a day. The duration of treatment varied from five to 14 days.\nWe do not know whether favipiravir reduces all‐cause mortality at 28 to 30 days, or in‐hospital (risk ratio (RR) 0.84, 95% confidence interval (CI) 0.49 to 1.46; 11 trials, 3459 participants; very low‐certainty evidence). We do not know if favipiravir reduces the progression to invasive mechanical ventilation (RR 0.86, 95% CI 0.68 to 1.09; 8 trials, 1383 participants; very low‐certainty evidence). Favipiravir may make little to no difference in the need for admission to hospital (if ambulatory) (RR 1.04, 95% CI 0.44 to 2.46; 4 trials, 670 participants; low‐certainty evidence). We do not know if favipiravir reduces the time to clinical improvement (defined as time to a 2‐point reduction in patients’ admission status on the WHO’s ordinal scale) (hazard ratio (HR) 1.13, 95% CI 0.69 to 1.83; 4 trials, 721 participants; very low‐certainty evidence). Favipiravir may make little to no difference to the progression to oxygen therapy (RR 1.20, 95% CI 0.83 to 1.75; 2 trials, 543 participants; low‐certainty evidence). Favipiravir may lead to an overall increased incidence of adverse events (RR 1.27, 95% CI 1.05 to 1.54; 18 trials, 4699 participants; low‐certainty evidence), but may result in little to no difference inserious adverse eventsattributable to the drug (RR 1.04, 95% CI 0.76 to 1.42; 12 trials, 3317 participants; low‐certainty evidence).\n\nAuthors' conclusions\nThe low‐ to very low‐certainty evidence means that we do not know whether favipiravir is efficacious in people with COVID‐19 illness, irrespective of severity or admission status. Treatment with favipiravir may result in an overall increase in the incidence of adverse events but may not result in serious adverse events.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 577,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 24.041666666666668,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 30,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 159,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.84657315135763,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.721431975736568,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.916483246678219,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.343500866551121,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.004881571346044,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.77130271519353,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.666666666666667,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.908712114635714,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.979156441363374,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 248,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 248.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 121,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 577,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 577 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:30.211329"
+}

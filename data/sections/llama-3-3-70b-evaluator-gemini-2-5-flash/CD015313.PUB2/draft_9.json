@@ -1,0 +1,162 @@
+{
+  "id": "CD015313.PUB2",
+  "draft": "Can mucolytics reduce lung infections and improve breathing in children with chronic suppurative lung disease? We looked at whether mucolytics (medicines that help break down mucus) can reduce lung infections and improve breathing in children with chronic suppurative lung disease (CSLD), a condition where the lungs are inflamed and produce excess mucus.\n\nWhat is chronic suppurative lung disease? Chronic suppurative lung disease (CSLD) is a condition that affects the lungs and causes a long-term cough that brings up mucus. It includes several different conditions, such as bronchiectasis (a condition where the airways are damaged) and protracted bacterial bronchitis (PBB, a condition where the airways are infected). These conditions can cause damage to the airways and make it harder for people to breathe.\n\nWhy is it important to find new treatments for chronic suppurative lung disease? Currently, there are limited treatment options for CSLD. Researchers are looking for new ways to help manage the condition. One potential treatment is the use of mucolytic agents, which are medicines that help break down mucus in the lungs. Mucolytic agents could help people with CSLD by improving how their lungs work, causing fewer infections, and improving their quality of life.\n\nWhat did the review authors want to find out? The review authors wanted to find out if mucolytic agents are effective in reducing exacerbations (worsening of symptoms), improving quality of life, and improving lung function in children with CSLD. They also wanted to assess the potential risks of using mucolytic agents, such as adverse events.\n\nWhat did we do? We searched for studies comparing mucolytics with a placebo or no intervention in children with chronic suppurative lung disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find? We found one study that included 63 children, but the results were based on data from only 52 of them. The study compared two groups: one group received 3% hypertonic saline (a type of mucolytic) nebulised before chest physiotherapy, and the other group (the control group) received only chest physiotherapy. On average, children using the saltwater spray had 2.5 lung infections per year, compared to 7.8 infections per year for children who only had physiotherapy. The study also measured breathing, and children using the spray showed more improvement than the other group. However, the results are very uncertain due to major concerns about how the study was done, which makes the results unreliable. For example, it's likely that families knew which treatment their child was getting, some results were missing, and the study was not carried out as the original plan. The study did not report any harmful side effects from the saltwater spray, but it was too small to be certain about safety.\n\nWhat are the limitations of the evidence? We are not confident in the results because of major concerns about how the study was done. For example, it is likely that families knew which treatment their child was getting, which could have affected the results. The study was also very small, which makes it hard to know if the findings would apply to other children.\n\nIs the evidence up to date? The evidence is up to date to September 2022. We found two ongoing studies, and their results may be included when this review is updated in the future.\n\nWhat are the key messages? \n- Using mucolytics regularly may reduce lung infections for children with this lung condition.\n- However, we are very uncertain about this finding because it comes from only one small study that had flaws in its methods.\n- The study found some improvement in lung function with the use of hypertonic saline, but no data were available on quality of life or the use of mucolytics during exacerbations, and there were no reported harmful effects, although the study was too small to fully assess this.\n- More and better studies are needed to understand the true effects of mucolytics for children with this condition. Future research should test different types of mucolytics and also measure their impact on quality of life.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 687,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 36,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.083333333333332,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 75,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 194,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.8837572780204,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.763417030567688,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.195465793304223,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.466899563318773,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.212663755458516,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.46761280931587,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.416666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.63014581273465,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.0372902474526935,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 265,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 265.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 113,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 195,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 687,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 687 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it needs revision due to a critical factual error and several clarity issues that affect readability. The search date is incorrect, the limitations are repeated unnecessarily, and some key sentences are long and use complex vocabulary. Addressing these points will make the summary much clearer for patients and their families.\n\n### Critical Issues\n\n1.  **Factual Error:** The search date is incorrect. The draft states September 2022, but the source material indicates the evidence is up to date to June 2022.\n    *   **Text:** \"The evidence is up to date to September 2022.\"\n    *   **Correction:** This must be changed to \"The evidence is up to date to June 2022.\"\n\n### Top 3 Improvements Needed\n\n1.  **Simplify and Clarify the Key Messages:** One of the key messages is a very long sentence that combines multiple ideas, making it hard to digest. Breaking it up will improve clarity.\n    *   **Problematic text:** \"The study found some improvement in lung function with the use of hypertonic saline, but no data were available on quality of life or the use of mucolytics during exacerbations, and there were no reported harmful effects, although the study was too small to fully assess this.\"\n    *   **Suggested rewrite:** \"- The saltwater spray seemed to improve lung function.\n- The study did not look at quality of life or the use of mucolytics during flare-ups.\n- No harmful effects were reported, but the study was too small to be certain about safety.\"\n\n2.  **Avoid Repetition in the Limitations Section:** The reasons for the evidence being uncertain are explained in the 'What did we find?' section and then repeated almost word-for-word in the 'What are the limitations of the evidence?' section. This makes the summary longer than necessary.\n    *   **Problematic text:** The explanation that \"families knew which treatment their child was getting\" and that results were missing appears in both the results and limitations sections.\n    *   **Suggested rewrite:** Keep the detailed explanation in the 'What did we find?' section. Then, make the 'Limitations' section a brief summary. For example: \"Our confidence in the evidence is very low because it is based on a single, small study with several flaws in its methods, as described above.\"\n\n3.  **Replace Complex and Wordy Phrases:** The text has a high number of long and complex words, which can be a barrier for some readers. Using simpler, more direct language would improve understanding.\n    *   **Problematic text:** \"...a condition where the lungs are inflamed and produce excess mucus.\"\n    *   **Suggested rewrite:** \"...a condition where the lungs are sore and swollen, and produce a lot of thick, sticky fluid (mucus).\"\n    *   **Problematic text:** \"The review authors wanted to find out if mucolytic agents are effective in reducing exacerbations (worsening of symptoms), improving quality of life, and improving lung function...\"\n    *   **Suggested rewrite:** \"We wanted to find out if mucolytics could reduce symptom flare-ups (exacerbations), and improve quality of life and breathing...\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows that while sentence length is good (words_per_sentence in the best 25th percentile), the vocabulary is too complex for a plain language summary. Five metrics deviate significantly from typical PLS patterns, all related to word complexity: 'nominalization', 'nouns', 'smog_index', 'complex_words_dc', and 'long_words' are all in the highest 10th percentile. This indicates the text relies too heavily on technical terms, long words, and noun-based phrases rather than simpler, verb-driven sentences, which supports the editorial recommendation to simplify vocabulary and sentence structure."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016136",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**Is intravenous iron better than oral iron for treating iron deficiency anaemia in pregnancy?**\n\n**What are the benefits and risks of intravenous iron compared to oral iron for treating iron deficiency anaemia in pregnancy?**\n\nIntravenous iron is increasingly used to treat iron deficiency anaemia in pregnancy. But how effective is it compared to oral iron? This review aimed to compare the effects of intravenous iron with oral iron on Hb levels, anaemia status, and other outcomes in pregnant women with iron deficiency anaemia.\n\n**What did we do?**\n\nWe searched for studies that compared intravenous iron with oral iron in pregnant women with iron deficiency anaemia. We included 13 randomised controlled trials that met our eligibility criteria. We pooled data from these trials to compare the effects of intravenous iron with oral iron on Hb levels, anaemia status, and other outcomes.\n\n**What did we find?**\n\nIntravenous iron likely slightly increases Hb levels and reduces anaemia in pregnancy compared to oral iron. Intravenous iron may result in little to no difference in PPH, and blood transfusion rates are likely unaffected by route of administration. However, the effects of intravenous iron on maternal mortality and admissions to the ICU are very uncertain.\n\n**What are the limitations of the evidence?**\n\nThe evidence is of low certainty due to concerns over attrition bias, imprecision, and inconsistency. The effects of intravenous iron on maternal mortality and admissions to the ICU are very uncertain. Individual AEs were inconsistently reported across trials. Data from the ongoing multicentre trials may address some of the identified evidence gaps.\n\n**How up to date is this evidence?**\n\nThis review updates our previous review. The evidence is up to date to 19 March 2024.\n\n**International considerations**\n\nWrite with international readers in mind. Use simple sentence structures. Avoid idioms and cultural references. Choose common words over complex alternatives. Structure information clearly for easy translation.\n\n**Key messages**\n\nIntravenous iron likely slightly increases Hb levels and reduces anaemia in pregnancy compared to oral iron. Intravenous iron may result in little to no difference in PPH, and blood transfusion rates are likely unaffected by route of administration. However, the effects of intravenous iron on maternal mortality and admissions to the ICU are very uncertain.\n\n**Language guidelines**\n\nUse short, simple sentences. Define any necessary technical terms immediately. Use conversational style. Write in active voice when possible. Use “we” when referring to the review authors. Focus on what the findings mean for patients.\n\nPlease note that this is a machine-generated summary and may not be perfect. It's always best to have a human review and edit the summary to ensure accuracy and clarity.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 478,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 44,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 10.863636363636363,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 141,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 41.47535469760365,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.17317801445417,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.975521110688476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.404267782426775,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.634157474324837,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.66279954355268,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.4545454545454546,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.0,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.716095777862306,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 187,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 111,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 478,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 478 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:53.162238"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003437.PUB5",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "What are the best treatments for depression after a stroke, and how well do they work?\n\nWe looked at different treatments for depression after a stroke. These include medications (drugs used to treat depression), therapies (like counseling), and combinations of these. We found that medications, therapies, and combination treatments can reduce depression after a stroke. However, a treatment called non-invasive brain stimulation (a technique that uses magnetic or electrical fields to stimulate brain activity) had little to no effect on depression. Medications can cause side effects, such as problems with the central nervous system (the part of the body that includes the brain and spinal cord) and the gastrointestinal tract (the part of the body that includes the stomach and intestines).\n\nWhat is depression after stroke and why is it a problem?\nDepression after stroke is a common condition that can occur after someone has a stroke. It can impact a person's recovery and quality of life. Depression after stroke can be hard to detect and may not be treated properly. \n\nWhat did the review authors want to find out?\nThe authors of this review wanted to find out which treatments are most effective for depression after stroke. They looked at different types of treatments, including medications, non-invasive brain stimulation, psychological therapies (like counseling), and combinations of these. \n\nWhat did we find?\nWe found 65 studies that involved 5831 people with depression after stroke. The studies compared different types of interventions, including medications with placebo (a dummy treatment), non-invasive brain stimulation with sham stimulation (a fake treatment), and psychological therapy with usual care or attention control. The review found that medications, psychological therapy, and combination therapies may reduce the prevalence of depression, while non-invasive brain stimulation had little to no effect. \n\nWhat are the limitations of the evidence?\nThe studies had some limitations, including small sample sizes and differences in how the treatments were given. This means that we cannot be very confident in the results.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to February 2022.\n\nKey messages:\n- Very low-certainty evidence suggests that medications, psychological therapy, and combination therapies can reduce the prevalence of depression after a stroke, while non-invasive brain stimulation had little to no effect on the prevalence of depression.\n- The current evidence does not allow us to fully understand the benefits and harms of these treatments, and more research is needed to determine their effectiveness and safety, particularly in terms of long-term effects and potential harms.\n- Future research should focus on addressing the limitations of current studies, such as the small number of participants and the short duration of treatment, to provide more reliable estimates of the benefits and potential harms of these therapies, and to inform decision-making for people with depression after a stroke.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 494,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.583333333333332,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.37004217273957,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.905111336032391,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.707233468286098,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.530931174089066,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.73535762483131,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.530701754385966,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.958333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.317755195681512,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 197,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 494,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 494 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 7,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:04.177838"
+}

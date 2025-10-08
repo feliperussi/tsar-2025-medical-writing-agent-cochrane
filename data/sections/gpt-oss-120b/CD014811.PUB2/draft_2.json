@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "Is giving water pills (loop diuretics) as a steady drip (continuous infusion) better than giving them as a single dose (bolus injection) for people with sudden worsening of heart failure (acute heart failure)?\n\nKey messages\n- Giving loop diuretics as a steady drip does not clearly improve fluid loss, survival, or kidney damage compared with a single dose.\n- Hospital stay length, readmission risk, and heart‑related death are also similar between the two methods.\n- Current studies are small and of low quality, so more robust research is needed to determine any real differences.\n\nWhat is acute heart failure and how is it usually treated?\nAcute heart failure (AHF) is a sudden worsening of the heart’s ability to pump blood. In about 95% of cases fluid builds up in the lungs and other tissues, causing shortness of breath, leg swelling, and rapid weight gain. In the remaining 5% blood flow to vital organs falls. Doctors treat AHF quickly by giving medicines that remove excess fluid. The most common medicines are loop diuretics (water pills) that make the kidneys produce more urine. These can be given through an IV (intravenous line) as a rapid single dose (bolus injection) or as a slow, steady drip (continuous infusion).\n\nWhat did the researchers want to find out?\nWe wanted to compare continuous infusion with bolus injection of IV loop diuretics in adults who have severe AHF (NYHA class III‑IV). Specifically, we looked for differences in weight loss (as a sign of fluid removal), death, length of hospital stay, readmission after discharge, and kidney damage (acute kidney injury).\n\nHow did we find the evidence?\nWe searched databases and trial registers up to February 2024 for randomised trials that compared the two delivery methods in adults with AHF. Two reviewers screened each record and extracted data. We combined results where possible and judged the certainty of the evidence based on study quality and consistency.\n\nWhat did we find?\nWe identified seven randomised trials involving 681 adults with severe AHF from 32 hospitals in North America, Europe, and Asia. The trials compared continuous infusion with bolus injection and did not add other treatments.\n- Weight loss: Continuous infusion may lead to a slightly larger loss (about 0.86 kg), but the evidence is very uncertain.\n- Mortality: There is little or no difference in the risk of death between the two methods.\n- Hospital stay: Length of stay appears similar, with very uncertain evidence.\n- Readmission: The chance of being readmitted is comparable.\n- Kidney damage: Rates of acute kidney injury are alike.\nOverall, continuous infusion does not show a clear advantage over bolus injection for any of these outcomes.\n\nWhat are the limitations of the evidence?\nWe are not confident in the findings because many trials were small, some participants knew which treatment they received, and the studies used different infusion protocols. Not all trials reported every outcome we wanted.\n\nHow current is the evidence?\nWe searched for studies up to February 2024, so the evidence reflects research available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 526,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.785714285714285,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 44,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 165,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 165.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 57.329096958174915,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.929964693101578,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.981659424225967,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.11277566539924,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.434437805540467,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.26099945681695,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.785714285714286,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.695359714832659,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.025630744160782,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 203,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 91,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 134,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 526,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 526 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical issue: The draft incorrectly states that heart‑related death (cardiovascular mortality) is similar between the two treatment methods, but the source evidence reports that no trials measured cardiovascular mortality, so no comparison can be made. This factual inaccuracy must be corrected. Additionally, the draft could be clearer for readers by (1) defining the NYHA classification used to describe severe heart failure, (2) replacing the vague phrase “fluid loss” with “weight loss (fluid removal)”, and (3) simplifying the sentence about weight loss to avoid ambiguity. These changes will improve accuracy and readability.\n\nTop improvements needed:\n1. Quote: \"Hospital stay length, readmission risk, and heart‑related death are also similar between the two methods.\"\n   Issue: Claims similarity for heart‑related death despite no data being collected, which misleads readers.\n   Rewrite: \"Hospital stay length and readmission risk are also similar between the two methods. Cardiovascular (heart‑related) mortality was not measured in the included studies, so no comparison is possible.\"\n2. Quote: \"What did the researchers want to find out?\"\n   Issue: The answer mentions \"NYHA class III‑IV\" without explaining what this means, leaving lay readers confused.\n   Rewrite: \"We wanted to compare continuous infusion with bolus injection of IV loop diuretics in adults who have severe acute heart failure (NYHA class III‑IV, meaning they have marked limitation of physical activity).\"\n3. Quote: \"Giving loop diuretics as a steady drip does not clearly improve fluid loss, survival, or kidney damage compared with a single dose.\"\n   Issue: The term “fluid loss” is vague; readers understand weight loss as the measure of fluid removal.\n   Rewrite: \"Giving loop diuretics as a steady drip does not clearly increase weight loss (fluid removal), survival, or kidney damage compared with a single dose.\"\n4. Quote: \"Weight loss: Continuous infusion may lead to a slightly larger loss (about 0.86 kg), but the evidence is very uncertain.\"\n   Issue: Sentence could be clearer and avoid the ambiguous word “loss”.\n   Rewrite: \"Weight loss: Continuous infusion may lead to a slightly larger reduction in body weight (about 0.86 kg), but the evidence is very uncertain.\"\n5. Quote: \"In the remaining 5% blood flow to vital organs falls.\"\n   Issue: Missing comma after “5%” and could be clearer.\n   Rewrite: \"In the remaining 5% of cases, blood flow to vital organs falls.\"\n\nSupporting metrics: The evaluation shows a low noun count deviation (165 nouns, P90) indicating noun‑heavy writing, which aligns with the identified noun‑heavy sentences. Passive voice is low (8, P25) and active voice is high, supporting the overall good style, but the factual inaccuracy and unclear terminology are the primary reasons for rejection.",
+      "pls_evaluation_summary": "The draft conforms well to typical PLS patterns (94.4% of features in best quartile). Most metrics are within the expected range (e.g., words per sentence 18.8, P25; active voice 44, P75). The only notable deviation is the high noun count (165, P90), suggesting the text is noun‑heavy, which aligns with some identified clarity issues. However, the factual inaccuracy regarding cardiovascular mortality and a few unclear terms lead to a NOT_APPROVED grade."
+    }
+  ]
+}

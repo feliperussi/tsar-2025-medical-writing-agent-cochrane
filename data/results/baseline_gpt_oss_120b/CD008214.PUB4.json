@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008214.PUB4",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs giving an anti‑VEGF injection before eye surgery better for people with proliferative diabetic retinopathy (PDR)?\n\nKey Messages  \n- Giving an anti‑VEGF injection (a medicine that shrinks abnormal eye blood vessels) before vitrectomy probably lowers the chance of bleeding during and after the operation and may help vision improve a little; serious side‑effects were not reported.  \n- The injection also probably reduces the chance that surgeons need to make accidental holes in the retina while operating.  \n- Because many of the studies had design problems and were small, we are not very confident about these results; more well‑designed research is needed.\n\nWhat is proliferative diabetic retinopathy?  \nProliferative diabetic retinopathy (PDR) is an eye problem that can happen to people with diabetes. New, fragile blood vessels grow inside the eye and can bleed or pull on the retina, leading to vision loss.  \n\nWhy do people need vitrectomy?  \nVitrectomy is a type of eye surgery that removes the jelly‑like fluid (vitreous) and any scar tissue that blocks vision. While vitrectomy can restore sight, the surgery can cause bleeding, create small holes in the retina, or lead to retinal detachment after the operation.\n\nWhat are anti‑VEGF medicines?  \nAnti‑VEGF medicines are eye drops that are injected directly into the eye. They stop the growth of the abnormal blood vessels that cause bleeding in PDR, making the eye easier to operate on.\n\nWhat did we want to find out?  \nWe wanted to know whether giving an anti‑VEGF injection before or during vitrectomy changes the chances of surgery‑related problems such as bleeding, retinal holes, or the need for extra procedures, and whether it affects how well people can see after the operation.\n\nWhat did we do?  \nWe searched for studies that compared vitrectomy with an anti‑VEGF injection to vitrectomy alone. We combined the results of those studies and judged how confident we could be in the evidence.\n\nWhat did we find?  \n\nWe found 28 studies that together included 1,914 eyes from people with PDR. The studies were carried out in many countries, including China, Iran, Italy, Mexico, South Korea, the UK, Egypt, Brazil, Japan, Canada, the USA, Indonesia and Pakistan. All studies looked at people who needed vitrectomy because of bleeding that would not clear on its own or because of a retinal detachment involving the macula.  \n\nThe evidence shows that anti‑VEGF injections probably cause a large reduction in early bleeding after surgery and a large reduction in bleeding that occurs later. The medicine also probably causes a large reduction in accidental retinal holes made during the operation. Vision may improve a little, although the confidence in this finding is low. For other outcomes such as the need for a second surgery or the use of silicone oil to hold the retina in place, the evidence is uncertain, so we cannot say whether the injection helps or not.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because people in the studies were not always randomly placed into the different treatment groups, which means differences between groups could be due to other factors. In addition, many of the studies were very small, so the results may not be reliable.\n\nHow up to date is this evidence?  \nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 568,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.322580645161292,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 61,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.16715810995004,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.837496592457978,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.316026238073604,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.531056338028165,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.300863243980011,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.02680599727397,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.709677419354839,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.0,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.329662676056339,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 195,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 99,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 146,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 568,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 568 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 94.44444444444444,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:57.835612"
+}

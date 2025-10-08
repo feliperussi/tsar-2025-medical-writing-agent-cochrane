@@ -1,0 +1,162 @@
+{
+  "id": "CD007491.PUB3",
+  "draft": "Is receiving hospital‑level care at home (hospital at home that avoids admission) as safe and less costly as staying in the hospital for older adults?\n\nKey messages\n- Hospital‑at‑home care for older adults is about as safe as staying in the hospital: mortality and readmission rates are similar, and it probably halves the chance of moving into a care home. The evidence is of moderate quality.\n- People cared for at home tend to be more satisfied, report similar overall health, have shorter initial hospital stays, and the approach probably reduces health‑service costs. Evidence for these outcomes is also of moderate quality.\n- Future research should include longer‑term studies, more data on caregiver impacts, and high‑quality cost analyses.\n\nWhat is admission‑avoidance hospital‑at‑home and why is it needed?\nWhen a person becomes seriously ill, the usual response is to admit them to a hospital for acute (short‑term) care. Hospital stays can be expensive, stressful, and may increase the chance that older adults later move into residential care. \"Admission‑avoidance hospital‑at‑home\" is a service where doctors, nurses and other health professionals provide the same active treatment that would normally be given in a hospital, but they do it in the patient’s own home for a limited period. The goal is to treat conditions that would otherwise require a hospital bed—such as flare‑ups of chronic obstructive pulmonary disease (COPD), recovery after a stroke, or other acute medical problems—while keeping patients in a familiar environment.\n\nWhat did the researchers want to find out?\nWe set out to determine whether admission‑avoidance hospital‑at‑home works as well as, or better than, traditional inpatient hospital care. Specifically, we compared the two approaches in terms of health outcomes (such as survival and later hospital readmission), patient‑reported wellbeing and satisfaction, the likelihood of ending up in residential care, length of stay, and overall cost to the health service and society.\n\nHow did we find the evidence?\nWe searched databases for studies that compared admission‑avoidance hospital‑at‑home with usual inpatient care in adults. We combined the results in meta‑analyses. We used the GRADE system, which assesses how confident we can be in the evidence, and rated our confidence based on study quality and size.\n\nWhat did we find?\nWe included 20 randomised controlled trials with a total of 3,100 participants aged 18 years and older. The trials compared admission‑avoidance hospital‑at‑home programmes, where active treatment is delivered at the patient’s home for a limited period, with standard acute hospital inpatient care. Participants included older adults with a range of conditions: four trials focused on COPD, two on post‑stroke recovery, seven on acute medical illnesses primarily affecting older people, and the remaining trials involved mixed clinical populations.\nWe do not have details on the study durations, the countries or settings where they were conducted, or the funding sources for the trials.\nThe main findings were:\n- Mortality within six months was little different (risk ratio 0.88, moderate‑certainty evidence).\n- Readmission to hospital within three to twelve months was also little different (risk ratio 1.14, moderate‑certainty evidence).\n- The chance of living in residential care at six months was probably reduced by about half (risk ratio 0.53, moderate‑certainty evidence).\n- Patients’ self‑reported health status showed little or no difference (moderate‑certainty evidence).\n- Satisfaction with care may be higher with hospital‑at‑home (low‑certainty evidence).\n- Initial hospital length of stay was probably shorter for the home group.\n- Health‑service costs were probably lower for hospital‑at‑home (moderate‑certainty evidence).\n\nWhat are the limitations of the evidence?\nWe are moderately confident in the evidence, but several issues reduce certainty: participants often knew which treatment they received, not all studies provided all needed data, the studies involved different types of people and varied ways of delivering the intervention, and many trials were small.\n\nHow up‑to‑date is this review?\nThis review updates our previous work. The evidence is current to February 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 660,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.41176470588235,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 27,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 195,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 57.412058823529435,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.073921568627455,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.792018716577537,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.536060606060605,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.40106951871658,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.381461675579324,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.235294117647059,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.575836902790225,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.757308377896614,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 284,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 284.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 159,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 660,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 660 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the required subheading format: the section \"Key messages\" is not phrased as a question (e.g., \"What are the key messages?\"). This breaches Step 1 of the critical checks. Additionally, several clarity issues could confuse readers:\n1. **Unexplained jargon** – the term \"risk ratio (RR)\" appears without a plain‑language explanation (e.g., \"a risk ratio of 0.88 means the chance of death was about the same in both groups\").\n2. **Long, noun‑heavy sentence** – \"The trials compared admission‑avoidance hospital‑at‑home programmes, where active treatment is delivered at the patient’s home for a limited period, with standard acute hospital inpatient care.\" This sentence packs several concepts and many nouns, making it hard to follow.\n3. **Nominalisation and noun‑heavy style** – the draft contains many noun‑based constructions (e.g., \"The main findings were:\") and a high noun count (195, P90). Re‑phrasing to use more verbs improves readability.\n4. **Missing plain‑language definition of \"moderate‑certainty evidence\"** – readers may not understand what the certainty level means.\n5. **Passive‑voice‑like phrasing** – \"The main findings were:\" can be changed to active voice.\nSuggested rewrites:\n- Change heading to \"What are the key messages?\".\n- Explain risk ratio: \"A risk ratio of 0.88 means the chance of dying was about the same as in the hospital group (12% lower, but the difference could be due to chance).\"\n- Simplify the long sentence: \"We compared home‑based hospital care, where doctors and nurses treat patients at home for a short time, with usual care in the hospital.\"\n- Replace nominalisations: \"We found that mortality within six months was similar (risk ratio 0.88).\"\n- Add a brief note on certainty: \"We are moderately confident in these results, meaning the evidence is fairly reliable but not perfect.\"\nThese changes, together with the required heading revision, are needed before the PLS can be approved. The PLS evaluation shows high deviations in nominalisation (27, beyond P90), nouns (195, beyond P90), SMOG index (14.6, beyond P90), and complex‑word counts, confirming the need to simplify language and reduce noun‑heavy constructions.",
+      "pls_evaluation_summary": "The draft scores well on word count and overall readability (Flesch reading ease 57.4, P75) but deviates markedly from typical PLS patterns in several metrics: nominalisation (27, beyond P90), noun count (195, beyond P90), SMOG index (14.6, beyond P90), complex words (159, beyond P90) and long words (178, beyond P90). These indicate the text is more noun‑heavy and uses many complex words than usual PLS, supporting the suggested simplifications."
+    }
+  ]
+}

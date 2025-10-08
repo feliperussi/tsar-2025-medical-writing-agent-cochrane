@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009975.PUB4",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is a video‑assisted breathing‑tube tool (videolaryngoscopy – a technique that uses a small camera attached to a laryngoscope to show a video image of the airway on a screen) more effective and safer than a standard breathing‑tube tool (direct laryngoscopy – a traditional method where the clinician looks directly into the throat with a laryngoscope) for inserting tubes in newborn babies?\n\nKey messages  \n- Videolaryngoscopy probably increases the chance that a newborn’s breathing tube is placed correctly on the first try (first‑attempt success) and may slightly reduce the number of attempts needed.  \n- The method does not clearly shorten the overall procedure time, but it likely lowers the risk of injury to the mouth, throat, or windpipe (airway trauma).  \n- Evidence about effects on low oxygen levels (desaturation) or a slow heartbeat (bradycardia) is very uncertain; larger, well‑designed trials are needed.\n\nWhy is securing a newborn’s airway important?  \nWhen a baby is born very small or ill, doctors often need to help it breathe immediately. This usually means performing tracheal intubation (the placement of a flexible tube through the mouth or nose into the windpipe to keep the airway open and allow breathing support). Looking directly at the tiny airway with a laryngoscope can be difficult. Multiple attempts or a long procedure can cause the baby’s oxygen level to drop (desaturation) or its heart rate to slow (bradycardia).\n\nWhat did we want to find out?  \nWe compared videolaryngoscopy with direct laryngoscopy in babies aged 0–28 days. We asked whether the video‑assisted method:  \n- Shortens the time needed to place the tube.  \n- Reduces the number of attempts required.  \n- Increases first‑attempt success.  \n- Lowers the risk of complications such as desaturation, bradycardia, or airway trauma.\n\nHow did we look for evidence?  \nWe searched major medical databases for randomized controlled trials that compared the two methods for neonatal tracheal intubation. We combined the results for success rates, number of attempts, and procedure time. We rated our confidence in the evidence using the GRADE – a systematic system that grades how reliable research findings are.\n\nWhat did we find?  \nWe identified eight trials that together reported 759 attempts to place a breathing tube in newborns of both sexes. The studies used different video‑laryngoscope devices, including C‑MAC, Airtraq, and Glidescope. The reports did not give details on the total number of babies enrolled, trial duration, or funding sources.\n\nWhat are the main results?  \n- Procedure time: Videolaryngoscopy made little or no difference to how long the intubation took.  \n- Number of attempts: The video tool probably reduces the number of attempts slightly (mean difference ‑ 0.08 attempts; confidence interval ‑0.15 to 0.00).  \n- First‑attempt success: About 14 more babies per 100 had the tube placed correctly on the first try with videolaryngoscopy.  \n- Desaturation and bradycardia: We are very uncertain whether the video method changes how often low‑oxygen episodes or slow heartbeats occur.  \n- Lowest oxygen level reached: The video tool likely makes little or no difference.  \n- Airway trauma: Videolaryngoscopy probably reduces injury to the airway during intubation.\n\nWhat are the limitations?  \nWe have low confidence in these findings because the trials were small and participants probably knew which method they received (performance bias). Small sample sizes reduce the reliability of the results.\n\nHow current is the evidence?  \nThis review updates our previous work and includes studies published up to November 2022.\n\nIn summary, videolaryngoscopy may improve first‑attempt success and modestly reduce the number of attempts, while also lowering the risk of airway injury in newborn intubation. Evidence for other safety outcomes remains uncertain. Larger, high‑quality trials are needed to confirm these benefits.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 628,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.972972972972972,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.008069375107596,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.082325701497677,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.473986486486488,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.442229299363053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.305112756068173,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.83921501118953,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.72972972972973,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.770329614269007,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.454550542262008,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 263,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 263.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 118,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 118.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 628,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 628 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 6,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 33.33333333333333,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:55.296950"
+}

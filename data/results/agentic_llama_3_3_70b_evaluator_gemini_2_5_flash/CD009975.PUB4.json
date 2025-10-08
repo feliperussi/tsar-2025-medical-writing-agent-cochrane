@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009975.PUB4",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Is using a special tool with a camera (videolaryngoscopy) better than traditional methods (direct laryngoscopy) for helping newborn babies breathe?\n\nKey Messages\n- Using a videolaryngoscope may help doctors place the breathing tube on the first try and with fewer attempts, but it may not be a faster method.\n- Videolaryngoscopy likely causes slightly less injury to the baby's airway.\n- Future studies should confirm if videolaryngoscopy is effective and safe for intubating newborn babies, which will give doctors better evidence to make decisions.\n\nWhy do some newborn babies need help with breathing?\nNewborn babies often have trouble breathing on their own, and doctors need to help them. If it takes too long to get the breathing tube in place, it can cause serious health problems for the baby. We need to find the best way to help newborns breathe when they are having trouble.\n\nHow do doctors help newborn babies breathe using a breathing tube?\nThere are two common methods for helping newborn babies breathe: direct laryngoscopy and videolaryngoscopy. Direct laryngoscopy involves using a tool to view the vocal cords and guide the breathing tube into the windpipe. Videolaryngoscopy uses a video camera to provide a view of the airway, which can help doctors see the airway better and increase the success rate of intubation.\n\nWhat did the review authors want to find out?\nWe wanted to find out if using a videolaryngoscope is safer and more effective than a direct laryngoscope for intubating newborn babies. We looked at whether it reduced the time and number of tries needed and improved success on the first attempt.\n\nHow did we search for studies?\nWe searched major medical databases and trial registries for studies that compared videolaryngoscopy with direct laryngoscopy in newborn babies.\n\nHow did we analyze the data?\nWe combined the results from the studies we found. We then rated how certain we were about the evidence for the benefits and harms of videolaryngoscopy.\n\nWhat did we find?\nWe found 8 studies that involved 759 intubation attempts in newborn babies. The studies were conducted in international hospitals and included newborn babies of either sex, undergoing endotracheal intubation. Different videolaryngoscopy devices, including C-MAC, Airtraq, and Glidescope, were used in the studies. We found that using a videolaryngoscope may help doctors succeed on the first try and lead to fewer attempts overall (low-certainty evidence). However, it might not make the process faster. It also likely causes slightly less injury to the baby's airway (moderate-certainty evidence).\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were likely unblinded (participants may have known which treatment they received) and the sample sizes were very small. This means we cannot be very certain about the results.\n\nHow up-to-date is this evidence?\nThis review updates our previous review. The evidence is up to date to November 2022. We will continue to update the review as new evidence becomes available.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 512,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.066666666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 72,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 127,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 51.541630208333345,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.310140624999999,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.046184895833335,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.107656249999998,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.373541666666668,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.41041666666666,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.666666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.774964387392123,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.551877760416667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 185,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 71,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 512,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 512 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:21.685208"
+}

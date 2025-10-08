@@ -1,0 +1,162 @@
+{
+  "id": "CD015253.PUB2",
+  "draft": "Can autoinflation (a technique using a nasal balloon to help clear fluid from the middle ear) help children with fluid buildup in their ears (otitis media with effusion)?\n\n \nKey Messages\n- Autoinflation, a technique using a nasal balloon, might improve quality of life for children with otitis media with effusion (fluid buildup in the middle ear, also known as 'glue ear'). It may also slightly reduce how long the condition lasts in the short term. However, we are uncertain if it helps restore normal hearing or if it causes harmful effects like ear pain.\n- The current evidence does not provide clear answers to the question of whether autoinflation is beneficial for children with otitis media with effusion due to the low quality of the evidence. It is essential to consider the potential inconvenience of regularly performing autoinflation and the possible risk of ear pain.\n- Future research should focus on providing higher-quality evidence to address the uncertainties surrounding the benefits and harms of autoinflation for otitis media with effusion, including its long-term effects and potential impact on important outcomes such as hearing loss, language development, and overall well-being.\n\n \n\nIntroduction\nWhat is otitis media with effusion (OME) and why is it a problem?\nOtitis media with effusion (OME) is a condition where fluid accumulates in the middle ear cavity, which can cause hearing loss and lead to behavioral problems and delayed language skills in young children. It is a common condition among children, and its management includes watchful waiting, medical, surgical, and mechanical treatments.\n\nWhat is autoinflation and how does it relate to OME?\nAutoinflation is a self-administered technique. It aims to ventilate the middle ear and help clear fluid by pushing air into the nose and the upper part of the throat behind the nose (nasopharynx).\n\nWhat did the review authors want to find out about autoinflation for OME?\nThe review authors wanted to assess the efficacy (benefits and harms) of autoinflation for the treatment of otitis media with effusion in children, including its effects on hearing, quality of life, and potential adverse effects such as ear pain.\n\nMethods\nHow did we do the review?\nWe searched for studies comparing autoinflation with other treatments for otitis media with effusion in children, summarized their results, and evaluated our confidence in the evidence.\n\nResults\nWhat did we find?\nWe found 11 studies that involved 1036 children with otitis media with effusion. The studies were conducted in Europe or North America, and they were carried out in both hospital and community settings. Most studies included children aged between 3 and 11 years. The studies lasted for between 2 and 12 weeks, with most requiring children to carry out autoinflation two to three times per day. The interventions compared autoinflation (which used various methods and devices) to no treatment. Autoinflation may result in a moderate improvement in quality of life related to otitis media. It may also slightly reduce the persistence of otitis media with effusion. However, it is unclear if autoinflation has an effect on return to normal hearing. Autoinflation may result in an increased risk of ear pain, but the evidence is very uncertain.\n\nLimitations\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\n\nCurrency\nHow up to date is this evidence?\nThe evidence is up to date to January 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 598,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 31,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.29032258064516,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 38,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.46201154385588,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.152623799762651,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.237452260222248,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.406755852842807,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.010443413528968,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.55788110907326,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.838709677419355,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.954451150103322,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.977067558528429,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 228,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 124,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 124.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 181,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 598,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 598 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 3,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good start. The summary is well-structured, factually accurate, and uses questions effectively in headings. However, the language is often too formal and academic for a patient audience, which makes it harder to read than it needs to be. The main issue is the overuse of complex nouns where simpler verbs would be clearer. Focusing on simplifying word choice will significantly improve this summary.\n\nHere are the top 3 improvements needed:\n\n1.  **Replace abstract nouns (nominalizations) with active verbs.** Many sentences are built around complex nouns instead of simple actions, which makes them dense and harder to understand.\n    *   **Example:** \"its management includes watchful waiting, medical, surgical, and mechanical treatments.\"\n    *   **Problem:** The word \"management\" is an abstract noun. It's more direct to state who is doing the action.\n    *   **Suggestion:** Rewrite this as: \"To manage this condition, doctors may use watchful waiting, medicine, surgery, or mechanical treatments.\"\n\n2.  **Simplify technical terms and complex vocabulary.** Some words are unnecessarily complex or are medical jargon that may not be familiar to all readers.\n    *   **Example:** \"Otitis media with effusion (OME) is a condition where fluid accumulates in the middle ear cavity...\"\n    *   **Problem:** \"Accumulates\" and \"cavity\" are formal terms. You use the simpler phrase \"fluid buildup\" elsewhere, which is much better.\n    *   **Suggestion:** Rewrite this as: \"Otitis media with effusion (OME) is a condition where fluid builds up in the space behind the eardrum...\"\n\n3.  **Explain study limitations in simpler, more direct language.** The limitations section uses research jargon that will be unfamiliar to most people.\n    *   **Example:** \"The evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\"\n    *   **Problem:** \"Lack of blinding\" and \"outcomes of interest\" are technical research terms.\n    *   **Suggestion:** Rewrite this as: \"We have less confidence in the evidence because the studies were very small. In some studies, families knew which treatment their child was getting, which could have affected the results. Also, the studies did not always report on all the results we were looking for.\"\n\nBy making these changes, you will make the summary much clearer and more accessible for your target audience.",
+      "pls_evaluation_summary": "The evaluation shows a mixed profile. While sentence structure metrics like length (words_per_sentence: P25) and active voice usage (active_voice: P75) are strong, vocabulary metrics indicate significant deviation from typical PLS patterns. The use of nominalizations (noun-form verbs) is exceptionally high (BEYOND_P90), and the counts for nouns, complex words, and long words are also in the P90 range. This confirms that the primary area for improvement is simplifying word choice and using more direct verbs to make the text more accessible."
+    }
+  ]
+}

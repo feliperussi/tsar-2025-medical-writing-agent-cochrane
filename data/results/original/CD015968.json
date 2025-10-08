@@ -1,0 +1,159 @@
+{
+  "file_id": "CD015968",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Digital health, technology‐driven or technology‐assisted interventions for the management of obesity in children and adolescents\n\nBackground\nChildhood obesity is a worldwide public health problem that increases the risk of chronic diseases. In 2016, more than 340 million children and adolescents aged 5 to 19 years were living with overweight or obesity.\n\nObjectives\nTo assess the effects and safety of interventions using digital technology – that is, interventions applied to achieve health objectives implemented within any digital application, communication, or system – for the integrated management of obesity in children and adolescents.\nSpecifically, to assess the effects of digital interventions in the management of obesity in children and adolescents when used:‐ in combination with conventional care compared to conventional care alone; and‐ alone compared to conventional care alone.\n\nSearch methods\nWe searched CENTRAL, MEDLINE, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), and two major trials registers to identify the studies included in this review. The date of the last search was 14 April 2025. We did not apply any language restrictions.\n\nSelection criteria\nWe included randomized controlled trials conducted in children (0 to 9 years old) and adolescents (10 to 19 years old) living with obesity, as defined by World Health Organization (WHO) Growth References. We included trials using the following digital health interventions for managing obesity: 'wearable' or implantable devices, web‐based interventions, text messages, mobile phone or tablet applications, 'exergaming' or active video gaming, and telehealth. Participants in the comparison groups received conventional care or an intervention without a digital/technological component.\n\nData collection and analysis\nWorking independently, two review authors extracted data, assessed the studies' risk of bias using Cochrane's original risk of bias tool, and evaluated the certainty of the evidence using GRADE criteria. The following outcomes were extracted: anthropometry (body mass index [BMI], weight, skinfolds, waist‐to‐hip ratio, waist circumference), adiposity, physical activity, physical and mental well‐being, quality of life, blood pressure, adverse events associated with the interventions, presence of obesity co‐existing complications, obesity‐associated disability, hyperinsulinemia, insulin resistance, glycemia, lipid metabolism or adipogenesis, lipid hormones, alterations in hunger or satiety, reduced disability in any of the functionality domains, mortality, prevalence of obesity in adulthood, and access to health services.\n\nMain results\nWe included 15 studies involving 911 participants, conducted in the USA (five studies), Sweden (three studies), and one each in Canada, China, Ireland, Italy, South Korea, Switzerland, and Thailand. All studies involved participants aged 10 to 19 years old, with 10 exclusively focusing on this age group. Five studies also included younger children (0 to 9 years). Eight studies included both diet and physical activity components, four studies included only a physical activity component, and three included only a diet component. We classified nine studies as short duration (< six months) and six as long duration (six or more months). Nine trials did not specify the theoretical basis of their intervention.\nWe grouped the studies into two comparisons: (1) digital health technology plus conventional care versus conventional care alone; and (2) digital technology alone versus conventional care alone.\nDigital interventions combined with conventional care versus conventional care alone (8 studies)\nDigital interventions led to a slightly lower, but clinically meaningful, fat mass at the end of the study (mean difference ‐2.63%, 95% confidence interval ‐4.47 to ‐0.78; 3 studies, 203 participants; moderate‐certainty evidence).\nThe effect of digital interventions plus conventional care on other important outcomes reported was unclear. No studies reported adverse event data.\nDigital interventions alone compared to conventional care alone (7 studies)\nThe effect of digital interventions alone on any of the outcomes reported was unclear. No studies reported adverse event data.\n\nAuthors' conclusions\nDigital interventions plus conventional care may have a small, short‐term beneficial effect on fat mass in children and adolescents compared to conventional care alone. The effect on other outcome measures is unclear. The long‐term clinical benefit in children and adolescents is difficult to assess due to the limited number of studies with relatively small sample sizes included in this review.\nFuture studies should: report their results by age, gender, and race/ethnicity; report full data to better enable data extraction and analysis; assess other important outcomes, particularly adverse events; control for both diet and physical activity in their analyses; and report the behavioral theory informing their intervention.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 736,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 26.285714285714285,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.3 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 15,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 246,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 21.989782608695663,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 22.0 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 16.722298136645964,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.7 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 16.952313664596268,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.0 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 14.583043478260866,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 21.981677018633544,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 63.921583850931675,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 63.9 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 9.892857142857142,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.9 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 17.594519519326425,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 17.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.048594798136646,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 361,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 361.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 277,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 277.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 736,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 736 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 1,
+      "P75_count": 1,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 12,
+      "BELOW_P10_count": 1,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 5.555555555555555,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 66.66666666666666,
+      "BELOW_P10_percentage": 5.555555555555555,
+      "best_quartile_rate": 5.555555555555555,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:33.339359"
+}

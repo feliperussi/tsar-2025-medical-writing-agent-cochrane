@@ -1,0 +1,150 @@
+{
+  "id": "CD015877",
+  "draft": "0.1",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 1,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 1,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": -20.93,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": -45.4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 0.4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 15.8396,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.8 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 1,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 1 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 13,
+        "P50_count": 0,
+        "P75_count": 0,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 2,
+        "total_evaluated": 16,
+        "P25_percentage": 81.25,
+        "P50_percentage": 0,
+        "P75_percentage": 0,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 6.25,
+        "BELOW_P10_percentage": 12.5,
+        "best_quartile_rate": 81.25,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical checks: missing Conclusion and Recommendations sections, factual inaccuracies compared to the source, word count of only 1, undefined technical terms, overly long and complex sentences, lack of context, contradictory statements, excessive passive voice, wordy phrasing, noun‑heavy constructions, and no paragraph breaks or proper heading spacing. It needs a complete rewrite to address clarity, style, and structure issues.",
+      "pls_evaluation_summary": "Critical issues: missing sections, factual errors, length problems; style issues: passive voice, long sentences, lack of active voice; structure issues: single block of text, no heading spacing."
+    }
+  ]
+}

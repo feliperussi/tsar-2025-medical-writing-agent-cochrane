@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008214.PUB4",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does giving anti‑VEGF eye injections (medicine that blocks abnormal blood‑vessel growth) before or during vitrectomy (eye surgery that removes the gel inside the eye) improve vision and reduce bleeding in people with advanced diabetic eye disease (proliferative diabetic retinopathy)?\n\n- Giving anti‑VEGF (medicine that blocks abnormal blood‑vessel growth) around the time of vitrectomy probably improves vision after surgery and lowers the risk of bleeding inside the eye and of retinal tears during the operation; side‑effects are few, but the certainty of the evidence is limited.\n- The review did not report data on quality of life, severe visual loss, or on whether anti‑VEGF reduces the need for silicone oil tamponade (silicone oil used to hold the retina in place).\n- Larger, high‑quality trials that follow patients longer and use standard outcomes are needed to confirm benefits and clarify any harms.\n\nWhat is proliferative diabetic retinopathy and why is it a problem?\nProliferative diabetic retinopathy (PDR) is an advanced eye complication of diabetes. In PDR, the retina – the light‑sensing layer at the back of the eye – grows fragile new blood vessels. These vessels can bleed, pull on the retina, and cause persistent vitreous haemorrhage (bleeding into the gel‑like substance inside the eye) or retinal detachment (where the retina separates from its normal position). When vision is threatened, surgeons often perform pars plana vitrectomy, a procedure that removes the cloudy vitreous gel and any blood so they can repair the retina. However, the surgery itself can cause bleeding, create tiny retinal holes, and lead to scar tissue that may need further surgery and delay recovery.\n\nWhat did the review aim to find out?\nWe wanted to know whether giving anti‑vascular endothelial growth factor (anti‑VEGF) medicines – drugs that block a protein (VEGF) that drives abnormal vessel growth – around the time of vitrectomy could improve outcomes. Specifically, we examined whether peri‑operative anti‑VEGF injections reduced surgical complications such as bleeding during or after surgery, retinal holes, and the need for repeat operations, and whether they improved visual acuity (sharpness of vision) and quality of life.\n\nHow did we find the evidence?\nWe searched major medical databases for randomised controlled trials that compared peri‑operative anti‑VEGF plus vitrectomy with vitrectomy alone in people with PDR. We combined the results and assessed our confidence in the evidence using standard Cochrane methods.\n\nWhat did we find?\nWe identified 28 trials that together involved 1,914 eyes undergoing pars plana vitrectomy for PDR complications. The studies were conducted in many countries, most often China. All participants had recognised PDR complications such as non‑clearing vitreous haemorrhage or tractional retinal detachment involving the macula. The trials compared an anti‑VEGF injection given before or during surgery with surgery alone.\n\nWhat are the main results about anti‑VEGF’s effect on bleeding and retinal tears?\nAdding anti‑VEGF around the time of vitrectomy probably reduces early postoperative bleeding. About 12 out of 100 eyes that received anti‑VEGF had early bleeding, compared with about 31 out of 100 without it. It also probably cuts late bleeding roughly in half – about 10 out of 100 versus 23 out of 100. Giving anti‑VEGF before surgery probably lowers the chance of creating retinal tears during the operation (about 12 per 100 surgeries versus 31 per 100 without the drug). Anti‑VEGF probably reduces the need for extra surgery to treat early bleeding and may also lessen the need for further surgery for retinal detachment. Vision may be better six months after surgery when anti‑VEGF is used, but the evidence is uncertain, and it is unclear whether anti‑VEGF reduces the need for silicone oil tamponade.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is moderate. Many studies did not mask participants or investigators, some did not report all outcomes we were interested in, and the trials were generally small.\n\nHow current is the evidence?\nThe evidence is up to date with searches completed in June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 661,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.65625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 180,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.38600156013618,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.781519950832074,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.436294440242058,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.903842662632371,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.702742057488656,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.40057677760968,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.9375,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.083045973594572,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.143188426626324,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 298,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 298.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 156,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 156.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 190,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 190.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 661,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 661 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 5,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:48.792374"
+}

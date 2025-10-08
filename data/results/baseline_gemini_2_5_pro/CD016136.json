@@ -1,0 +1,155 @@
+{
+  "file_id": "CD016136",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Is iron given through a drip better than iron tablets for treating low iron levels in pregnancy?\n\n**Key messages**\n\n– Compared to iron tablets, iron given through a drip (intravenous iron) probably slightly improves iron levels and reduces the number of pregnant people with low iron (a condition called anaemia).\n– Iron given through a drip probably makes little to no difference to the need for a blood transfusion after birth. The effects on other serious problems, like heavy bleeding after birth, were unclear.\n– Future studies need to be better at reporting side effects. They should also measure things that are important to pregnant people, such as how they feel during and after treatment.\n\n**What is iron deficiency anaemia in pregnancy?**\n\nDuring pregnancy, the body needs more iron to make extra blood for the mother and the growing baby. If a person does not have enough iron, they can develop iron deficiency anaemia. This means their body cannot make enough healthy red blood cells to carry oxygen.\n\nAnaemia can make people feel very tired, weak, and short of breath. If it is not treated, it can lead to serious problems for both the mother and baby.\n\n**How is anaemia treated during pregnancy?**\n\nThe most common treatment for anaemia is taking iron tablets or liquids by mouth (oral iron). Another option is to receive iron directly into a vein through a drip. This is called intravenous iron, or IV iron.\n\n**What did we want to find out?**\n\nWe wanted to find out if intravenous iron is better or safer than oral iron for treating iron deficiency anaemia in pregnant people.\n\n**What did we do?**\n\nWe searched for studies that compared intravenous iron with oral iron for pregnant people with iron deficiency anaemia. We then compared and summarized the results of these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 13 studies that included 3939 pregnant people. Most studies took place in India and Africa. The studies compared different types of intravenous iron with different types of oral iron tablets.\n\n**Main results**\n\n**Iron levels during pregnancy**\nCompared to iron tablets, intravenous iron:\n– probably slightly increases iron levels before birth.\n– probably reduces the number of people who still have anaemia before birth.\n\n**Iron levels and other problems after birth**\nCompared to iron tablets, intravenous iron:\n– may slightly increase iron levels after birth.\n– may reduce the number of people with anaemia after birth. We are very uncertain if it helps prevent very severe anaemia.\n– probably makes little to no difference to the need for a blood transfusion.\n– may make little to no difference to the risk of heavy bleeding after birth (called postpartum haemorrhage).\n\n**Side effects and well-being**\nIntravenous iron probably does not increase the risk of side effects overall, or problems like severe infections or needing to stay in the hospital longer. We are very uncertain about its effect on very rare but serious problems.\n\nThe studies did not report on how satisfied people were with their treatment or how it affected their general well-being.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence is only moderate for some findings, and low or very low for others. This is because some of the studies were small, and their results were not always consistent. Also, serious side effects were rare in the studies, which makes it difficult to be certain about the differences between the two types of iron treatment.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 625,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.534883720930232,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 38,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 175,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 62.40721302325585,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.165644651162793,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.315041860465115,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.976319999999994,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 10.997953488372094,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 38.694883720930235,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.511627906976744,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.16515138991168,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.253746232558139,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 219,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 81,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 625,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 625 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:28.832013"
+}

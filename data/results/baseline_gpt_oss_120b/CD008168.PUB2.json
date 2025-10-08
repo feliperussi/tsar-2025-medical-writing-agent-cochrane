@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs intermittent phototherapy as effective as continuous phototherapy for newborn jaundice?\n\nKey Messages  \n- The available research shows that giving babies light treatment in short bursts (intermittent phototherapy) works about the same as keeping the light on all the time (continuous phototherapy) for lowering the yellow colour in the blood. The studies did not find clear differences in serious brain problems, treatment failure, or death, but the evidence is not strong.  \n- Some early data suggest that continuous light might work a little better for very early‑born (pre‑term) babies, yet we do not know enough about possible side‑effects or whether the small benefit matters.  \n- More large, well‑designed studies are needed, especially in both full‑term and pre‑term babies, before we can be sure that intermittent and continuous light treatments are truly equally safe and effective.\n\nWhat is neonatal jaundice and why does it need treatment?  \nNewborn jaundice is a common condition where a baby’s skin and eyes turn yellow because a substance called bilirubin builds up in the blood. High bilirubin can be harmful, especially to the brain. The main way to lower bilirubin is phototherapy – placing the baby under special lights that change bilirubin into a form the body can get rid of.\n\nWhat are the two ways phototherapy can be given?  \n- **Continuous phototherapy** – the baby stays under the lights without a break.  \n- **Intermittent phototherapy** – the lights are turned on and off at set times, giving the baby periods without light. This approach might help mothers feed and bond with their baby more easily and could reduce the total time the baby spends under the lights.\n\nWhat did we want to find out?  \nWe wanted to know whether intermittent phototherapy is as safe and as effective as continuous phototherapy for babies up to 30 days old, including both full‑term and pre‑term infants.\n\nWhat did we do?  \nWe searched several medical databases for studies that compared intermittent and continuous phototherapy in newborns. We combined the findings from the studies we found and judged how confident we could be in the overall evidence.\n\nWhat did we find?  \nWe identified twelve studies that together included about sixteen hundred babies. The studies were carried out in many countries and looked at both full‑term and pre‑term infants. Most of the research compared the two light‑treatment methods using the doctors’ usual doses and schedules. One study was still in progress and four studies had not yet been classified.\n\nThe main findings were:  \n- **Speed of bilirubin reduction** – The evidence, which is not very strong, suggests that intermittent phototherapy makes little or no difference compared with continuous phototherapy in how quickly bilirubin levels fall.  \n- **Serious brain damage (bilirubin‑induced brain dysfunction)** – Only a single small study reported no cases of this problem with either method, and the evidence is very uncertain, so we cannot tell if one method is better.  \n- **Treatment failure (the need to change or add treatment)** – Very limited and uncertain evidence shows little or no difference between the two approaches.  \n- **Infant death** – Low‑certainty evidence also shows little or no difference in mortality between intermittent and continuous phototherapy.  \n- **Overall exposure to light** – Babies who received intermittent phototherapy spent fewer total hours under the lights, which could be a practical advantage for feeding and bonding, although the impact on safety is not well studied.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because many of the studies were small, some did not hide the treatment from the caregivers, and the results varied between studies. These factors make it hard to be sure about the true effects of intermittent versus continuous phototherapy.\n\nHow up to date is this evidence?  \nThe evidence is up to date to January 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 649,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.08823529411765,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 160,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 160.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.93286028278803,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.19986631016043,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.430373425179006,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.509090909090908,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.41495513459621,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.744629747122275,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.088235294117647,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.14889156509222,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.1022001994017945,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 253,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 110,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 649,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 649 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:57.675260"
+}

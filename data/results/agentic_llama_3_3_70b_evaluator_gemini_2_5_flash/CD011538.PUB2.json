@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011538.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can education support services help children and adolescents with long-term illnesses stay engaged in school and improve their academic performance? \nWe found that education support services may help children with long-term illnesses stay in school, but the evidence is not strong enough to be certain. \nThere is some evidence that education support may slightly improve mental health, measured as self-esteem, in children with long-term illnesses. \nFuture research should focus on studying the effects of education support services on school engagement, academic achievement, and mental health in children with long-term illnesses.\n\nWhat are long-term illnesses in children and adolescents, and why are they a problem? \nLong-term illnesses in children and adolescents are illnesses that do not go away and can significantly impact a child's education, well-being, and health. \nChildren with long-term illnesses often experience difficulties attending school, which can lead to them doing less well in school, having problems with social and emotional skills, and having fewer career choices.\n\nWhat did we want to find out? \nWe wanted to find out if education support services can help children with long-term illnesses stay engaged in school and do better academically.\n\nHow did we conduct the review? \nWe searched for studies that looked at education support for children with long-term illnesses. \nWe then summarized their results and rated our confidence in the evidence.\n\nWhat did we find? \nWe found four studies that involved 359 participants with long-term illnesses. \nEach study focused on a specific disease: three on children with cancer and one on children with Attention Deficit Hyperactivity Disorder (ADHD). \nEducation support services may improve school engagement and mental health, but the evidence is uncertain. \nIt is unclear if education support services have an effect on academic achievement or transition back to school.\n\nWhat are the limitations of the evidence? \nThe evidence is limited because the studies were very small, and participants and the researchers may have known which treatment they received, which could have influenced their responses. \nThe studies also involved different types of participants and used varied delivery methods for the intervention.\n\nHow up-to-date is the evidence? \nThe evidence is up to date to January 2021.\n\nWe hope this information helps you understand the potential benefits and limitations of education support services for children and adolescents with long-term illnesses.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 416,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.08695652173913,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 128,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.391642976588656,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.724009197324417,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.118189799331098,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.906923076923075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.407859531772573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.81772575250836,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.739130434782608,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.38083151964686,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.704492851170569,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 153,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 132,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 416,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 416 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:22.340522"
+}

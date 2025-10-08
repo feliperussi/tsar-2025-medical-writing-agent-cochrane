@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015536.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "## Title\nIs entecavir (a medicine that blocks hepatitis B virus) safe and helpful for people with chronic hepatitis B?\n\n## Key messages\n- We could not find clear evidence that entecavir reduces deaths or serious side effects compared with no treatment or a placebo. No deaths were reported in any of the studies we examined.\n- We have no information on how entecavir affects a person’s health‑related quality of life.\n- More research is needed to understand whether entecavir truly helps people with chronic hepatitis B.\n\n## Introduction\n### What is chronic hepatitis B?\nChronic hepatitis B is a long‑lasting infection of the liver caused by the hepatitis B virus. Over time the virus can damage liver cells, lead to scarring, and increase the risk of liver cancer.\n\n### Why is it a problem?\nPeople with chronic hepatitis B often feel well for many years, but the hidden damage can progress silently. When the liver becomes scarred or fails, treatment options become limited and the risk of serious complications rises.\n\n### What did we want to find out?\nWe set out to discover whether entecavir, a drug that stops the virus from multiplying, improves survival, reduces serious side effects, or improves quality of life for people living with chronic hepatitis B.\n\n## How is chronic hepatitis B treated?\nCurrent treatment options include medicines that suppress the virus, such as entecavir, tenofovir, and other antiviral agents. These drugs aim to keep the virus at low levels, reduce liver inflammation, and prevent long‑term damage. Decisions about treatment depend on the amount of virus in the blood, liver health, and the person’s overall condition.\n\n## What did we do?\nWe searched many medical databases for studies that compared entecavir with no treatment or a placebo, and we looked at how the studies were designed, what they measured, and how reliable they seemed.\n\n## What did we find?\nWe identified a large number of studies that examined entecavir in people with chronic hepatitis B. Most of these studies compared the drug with either no treatment or a placebo and reported on outcomes such as death, serious side effects, and quality of life. The studies varied in size and how they were carried out, and many had some concerns about the way participants were selected or how outcomes were recorded. Because the studies were generally small and reported few events, the overall picture remains uncertain.\n\n### Mortality\nNone of the studies reported any deaths among participants taking entecavir or among those receiving no treatment or a placebo. Because no deaths occurred, we cannot determine whether entecavir changes the risk of death.\n\n### Serious adverse events\nThe evidence on serious side effects is limited. We are very uncertain about whether entecavir reduces serious adverse events compared with no treatment or a placebo. The few events that were reported were spread across both groups, and the small number of participants makes it hard to draw firm conclusions.\n\n### Quality of life\nNo study provided data on how entecavir affects a person’s health‑related quality of life. Because this outcome was never measured, we cannot say whether the drug improves, worsens, or has no impact on daily well‑being.\n\nOverall, the evidence we found is limited and uncertain. The studies were small, had few events, and some had methodological concerns, which means we cannot be confident about the true benefits or harms of entecavir for chronic hepatitis B. More well‑designed research that includes clear reporting of survival, serious side effects, and quality‑of‑life outcomes is needed to answer these important questions.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 637,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 33.526315789473685,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 33.5 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 68,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 37,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 43.44880360241265,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 15.527963314880612,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.5 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 16.391368255804345,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.4 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 9.606342229199367,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 20.820259439808314,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.8 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 62.7256878459886,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 62.7 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 9.789473684210526,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.8 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.587253771792119,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 239,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 118,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 118.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 186,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 637,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 637 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 7,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 38.88888888888889,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:24.666894"
+}

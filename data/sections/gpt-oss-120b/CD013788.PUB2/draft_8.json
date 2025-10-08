@@ -1,0 +1,162 @@
+{
+  "id": "CD013788.PUB2",
+  "draft": "Is early removal (within 5 days) of a urinary catheter (a tube placed in the bladder) better than later removal (after 5 days) after a kidney transplant?\n\nWhat are the main messages?\n- We do not have clear evidence that taking the catheter removal out early changes the chance of bacteria in the urine without symptoms (asymptomatic bacteriuria). The review found no reliable data on urinary‑tract infections (UTIs) or serious urinary problems, and no harmful effects were reported.\n- The evidence comes from only two small studies, one of which gave very limited details. Overall confidence in the evidence is low and the findings are uncertain.\n- Larger, well‑designed randomised trials with longer follow‑up are needed to determine whether early or late catheter removal influences infection rates or other important outcomes after kidney transplantation.\n\nWhat is kidney transplantation and why is a urinary catheter used?\nKidney transplantation is the best treatment for people whose kidneys have stopped working. During the operation a thin tube called a urinary catheter (a tube placed in the bladder) is inserted. The catheter helps drain urine and reduces pressure on the new kidney’s connection to the bladder, giving the surgical join time to heal. However, the catheter also creates a pathway for bacteria to enter the bladder, which can cause a urinary‑tract infection (UTI) – an infection that makes urination painful or frequent. The longer the tube stays in, the higher the chance of infection and other problems such as the surgical join breaking down.\n\nWhat did the researchers want to find out?\nWe compared two strategies: removing the urinary catheter early (before five days after the transplant) versus removing it later (five days or more after the transplant). We wanted to see whether early removal reduced the number of infections that show no symptoms (asymptomatic bacteriuria), the number of symptomatic UTIs, and serious urinary problems that need extra treatment.\n\nHow did we look for the evidence?\nWe searched for studies that compared early (≤5 days) with late (≥5 days) catheter removal after kidney transplantation. We combined the results and judged how reliable the evidence was using simple checks for bias and a rating system called GRADE.\n\nWhat did we find?\nWe found two studies with a total of 197 kidney‑transplant patients. One group had the catheter removed before five days, the other after five days. The studies followed patients for up to one month and did not report details such as age, gender, setting, or funding.\nWe are very uncertain whether early removal changes the chance of bacteria in the urine without symptoms. The small studies could show a lower, higher, or unchanged risk, but they are too small to tell us.\nThe studies did not report data on symptomatic UTIs or major urological complications, so we cannot say whether early removal affects those outcomes.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants may have known which timing they received, some outcomes were not reported, the studies used different patient groups and methods, and each study was very small. These factors make the results uncertain.\n\nHow current is the evidence?\nWe updated the evidence using searches completed in April 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 555,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.821428571428573,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 52.11841216216217,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.914050836550839,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.715308880308882,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.464504504504504,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.351994851994853,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.28989703989704,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.642857142857143,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.526746460746461,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 230,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 230.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 103,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 555,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 555 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 2,
+        "P75_count": 8,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft meets the required sections, title/subheading format, factual accuracy and word‑count limits, but it contains several clarity problems that could confuse patients. \n1. **Jargon – “surgical join”** – The phrase is not explained and may be unclear to readers. Suggested rewrite: “the surgical connection (the place where the new kidney is attached to the bladder)”.\n2. **Long, dense sentence in the limitations section** – \"We are not confident in the evidence because participants may have known which timing they received, some outcomes were not reported, the studies used different patient groups and methods, and each study was very small with few participants, so we cannot be certain about the results.\" This exceeds 30 words and packs many ideas. Suggested rewrite: \"We are not confident in the evidence because participants might have known which timing they received, some outcomes were not reported, the studies used different patient groups and methods, and each study was very small. These factors make the results uncertain.\"\n3. **Awkward phrasing of currency statement** – \"How current is the evidence?\" answer: \"The evidence is up to date to April 2023 of search.\" This is clunky. Suggested rewrite: \"The evidence is up to date with searches completed in April 2023.\"\n4. **High nominalisation and unfamiliar words** – The draft contains 23 nominalisations (P90) and 230 Dale‑Chall unfamiliar words (P90), indicating heavy noun‑heavy language and technical terms that may hinder understanding. Rephrase nominalised nouns into verbs where possible (e.g., change “assessment” to “we assessed”, “evaluation” to “we evaluated”).\nThese issues reduce readability despite the overall good metric scores (e.g., Flesch‑Reading‑Ease 52, words per sentence 19.8). Reducing jargon, shortening long sentences, and lowering nominalisation will bring the draft closer to typical PLS patterns and improve patient comprehension.",
+      "pls_evaluation_summary": "The draft conforms well to most PLS metrics (e.g., readability scores in the P25‑P75 range, active voice high, pronouns high). However, two metrics deviate: nominalisation (23, P90) and complex_words_dc (230, P90), indicating excessive noun‑heavy language and many unfamiliar words. These deviations support the need to simplify wording and reduce nominalisations."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012940.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I apologize for the inconvenience. It seems that the tool I was using earlier is not a valid one.\n\nInstead, I can try to transform the Cochrane abstract into a Plain Language Summary (PLS) using a different approach. Here is the result:\n\n**Is refeeding of gastric residuals better than discarding them for preterm infants?**\n\n**What are the benefits and risks of refeeding gastric residuals in preterm infants?**\n\nRefeeding gastric residuals may have little or no effect on time to regain birth weight, risk of necrotising enterocolitis, all-cause mortality before hospital discharge, time to establish enteral feeds, number of total parenteral nutrition days, and risk of extrauterine growth restriction at discharge. The effect of refeeding gastric residual on number of episodes of feed interruption lasting for > 12 hours is uncertain.\n\n**What did we do?**\n\nWe searched for studies that compared refeeding versus discarding gastric residuals in preterm infants.\n\n**What did we find?**\n\nWe found only limited data from one small unmasked trial on the efficacy and safety of refeeding gastric residuals in preterm infants. Low-certainty evidence suggests refeeding gastric residual may have little or no effect on important clinical outcomes such as necrotising enterocolitis, all-cause mortality before hospital discharge, time to establish enteral feeds, number of total parenteral nutrition days, and in-hospital weight gain.\n\n**What are the limitations of the evidence?**\n\nThe current evidence does not support the routine refeeding of gastric residuals in preterm infants. More research is needed to determine the optimal approach to feeding preterm infants.\n\n**How up to date is this evidence?**\n\nThe current evidence is up to date to February 2022.\n\n**What should happen next?**\n\nA large RCT is needed to assess the efficacy and safety of refeeding of gastric residuals in preterm infants with adequate certainty of evidence to inform policy and practice.\n\nPlease note that this is a manual transformation and may not be perfect. If you need a more accurate or formal PLS, I recommend using a specialized tool or consulting with a medical communication specialist.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 353,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.347826086956522,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 37,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 92,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.61786303731989,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.151459539352135,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.60711417662274,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.43818696883853,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.090971794555982,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.908732602537256,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.304347826086956,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.888194417315589,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.918192683828059,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 160,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 79,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 353,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 353 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 8,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:45.753337"
+}

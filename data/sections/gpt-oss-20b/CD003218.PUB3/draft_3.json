@@ -1,0 +1,162 @@
+{
+  "id": "CD003218.PUB3",
+  "draft": "Do stimulant medicines (like modafinil) help reduce excessive daytime sleepiness in people with myotonic dystrophy (a genetic muscle disorder)?\n\nWhat are the key messages?  \n– Modafinil may make people with myotonic dystrophy feel less sleepy during the day. However, the evidence is limited and we are unsure whether it improves objective sleep tests or overall quality of life, and it may also increase side effects.  \n– The studies only looked at short‑term use (up to 4 weeks) in adult out‑patients, so we do not know if benefits or harms continue over longer periods.  \n– Larger, longer‑term randomised trials are needed to confirm whether stimulants truly help daytime sleepiness and to clarify their safety.  \n\nWhat is excessive daytime sleepiness in myotonic dystrophy and why does it matter?  \nMyotonic dystrophy is a genetic muscle disorder that often makes people feel very sleepy during the day. This symptom, called hypersomnia or excessive daytime sleepiness, can make work, driving, studying and other daily activities difficult. It also lowers quality of life. Because the sleepiness is not caused by a lack of nighttime sleep, doctors look for medicines that can keep people awake and alert.  \n\nWhat are psychostimulants and how might they help?  \nPsychostimulants are medicines that increase brain activity and promote wakefulness. Modafinil is a common example. These drugs are already used for conditions such as narcolepsy, and they are being given more often to people with myotonic dystrophy who have daytime sleepiness.  \n\nWhat did the review aim to find out?  \nWe wanted to know whether psychostimulant medicines reduce excessive daytime sleepiness, improve quality of life, and cause any harmful side effects in people with myotonic dystrophy. To answer this, we looked for all randomised trials that compared a psychostimulant with a placebo or no treatment.  \n\nHow did we find the evidence?  \nWe searched the Cochrane Neuromuscular Register, CENTRAL, MEDLINE, Embase, ClinicalTrials.gov and the WHO ICTRP up to 5 January 2023. Two reviewers screened each record, extracted data and assessed risk of bias. We combined results where possible and rated our confidence using the GRADE approach.  \n\nWhat did we find?  \nWe identified six randomised trials that together enrolled 136 adults (aged 18‑70) with genetically or electromyographically confirmed myotonic dystrophy and hypersomnia. All studies were short‑term (up to 4 weeks) and five used a cross‑over design, where participants received both the stimulant and placebo at different times. Only one stimulant, modafinil, was tested.  \n\nSubjective sleepiness  \nFive trials measured how sleepy participants felt using the Epworth Sleepiness Scale, a questionnaire that asks how likely a person is to fall asleep in everyday situations. Modafinil reduced scores by about 2.5 points, indicating participants felt less sleepy.  \n\nObjective sleep tests  \nThree trials reported results from the Maintenance of Wakefulness Test (how long a person can stay awake) and the Multiple Sleep Latency Test (how quickly a person falls asleep). The evidence was very uncertain, with wide confidence intervals and low certainty.  \n\nSide effects  \nPeople taking modafinil were about 1.7 times more likely to experience side effects, but the increase was not statistically clear.  \n\nWhat are the limitations of the evidence?  \nThe trials involved few participants, used different designs, and only examined short‑term outcomes. We could not assess long‑term benefits or harms, and we lacked data on subgroups such as disease severity or gender.  \n\nHow up‑to‑date is this review?  \nThe evidence we summarised is current to the search date of January 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 589,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.82857142857143,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 68,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 35,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 152,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 50.286088285229226,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.426113994664078,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.094472471501334,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.292020373514429,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.948746058695125,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 46.539946640795534,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.40175425099138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.02737965559059,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 231,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 231.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 121,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 175,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 589,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 589 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 1,
+        "P75_count": 4,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft meets all critical checks – it contains every required section, all headings are phrased as questions, the numbers and conclusions match the source, and the word count is well below the 850‑word limit. A few clarity improvements will make the summary even more patient‑friendly:\n1. **Unexplained technical terms** – e.g., \"cross‑over design\", \"Maintenance of Wakefulness Test\" and \"GRADE approach\" are mentioned without plain‑language definitions. Adding a brief lay explanation will prevent confusion.\n   *Rewrite*: \"Five of the studies used a *cross‑over design*, meaning each participant tried both the stimulant and a placebo at different times. The *Maintenance of Wakefulness Test* measures how long a person can stay awake, and the *GRADE* system is a way we rate how confident we are in the evidence.\"\n2. **Result sub‑headings are not questions** – \"Subjective sleepiness\", \"Objective sleep tests\" and \"Side effects\" break the question‑style pattern and may feel abrupt to readers.\n   *Rewrite*: change to \"How did participants describe their sleepiness?\", \"What did the objective sleep tests show?\", and \"Did the medicines cause any side effects?\".\n3. **Long bullet‑point sentences in the key messages** – the first bullet packs several ideas into one long sentence, which can be hard to follow.\n   *Rewrite*: split into two bullets or use shorter sentences, e.g., \"- Modafinil may make people with myotonic dystrophy feel less sleepy during the day. However, the evidence is limited, and we are unsure whether it improves objective sleep tests or quality of life.\\n- It may also increase the chance of side effects.\"\nThese edits address the most likely sources of confusion while preserving the accurate content. The PLS evaluation shows the draft already scores well on readability (Flesch‑Reading‑Ease 50.3, words per sentence 16.8) and active voice, but the metrics flag high counts of complex and long words (complex_words = 121, long_words = 175). The suggested simplifications will bring those numbers closer to typical PLS ranges. Overall, the summary is complete, accurate, and well‑structured; the recommended tweaks will enhance plain‑language clarity without altering the scientific content.",
+      "pls_evaluation_summary": "The draft conforms strongly to typical PLS patterns (72% of features in the best quartile). Readability scores are good (Flesch‑Reading‑Ease 50.3, grade‑level ~10). The only notable deviations are higher than typical counts of complex words, long words, and SMOG index, indicating room to simplify vocabulary, which the feedback addresses."
+    }
+  ]
+}

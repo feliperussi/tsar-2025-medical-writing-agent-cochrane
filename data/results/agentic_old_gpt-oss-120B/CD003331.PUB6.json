@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003331.PUB6",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Does a structured exercise program (exercise‑based cardiac rehabilitation) improve quality of life and reduce hospital admissions for adults with heart failure compared with usual care?\n\nKey messages\n- Exercise‑based cardiac rehabilitation (a structured exercise program that may also include education or counselling) does not change the risk of death, but it probably reduces hospital admissions and improves how patients feel and function day to day (health‑related quality of life); no serious harms were reported.\n- We saw these benefits with centre‑based sessions (exercise done in a clinic or hospital), home‑based activities (exercise done at home), and programmes that combine exercise with education or other support.\n- More research is needed, especially studies that include older people, women, and those with heart failure that has a normal ejection fraction, and that examine longer‑term effects and possible side effects.\n\nWhat is heart failure and why is it a problem?\nHeart failure means the heart cannot pump blood as well as it should. This leads to shortness of breath, tiredness and swelling in the legs. People with heart failure often find it hard to exercise, have a lower quality of life, are more likely to be admitted to hospital, and have a higher risk of dying. The condition also creates big costs for health services.\n\nWhat is exercise‑based cardiac rehabilitation?\nExercise‑based cardiac rehabilitation (ExCR) is a programme that includes supervised physical activity – sometimes together with education, counselling or other support – designed for people with heart problems. We aim to provide safe, supervised exercise that improves heart function, makes everyday tasks easier and boosts overall wellbeing. ExCR can be delivered in a centre (clinic or hospital) or at home, and sometimes uses digital tools.\n\nWhat did we aim to find out?\nWe wanted to know whether taking part in exercise‑based cardiac rehabilitation changes three important outcomes for adults with heart failure: (1) the chance of dying from any cause, (2) the chance of being admitted to hospital (overall and specifically for heart failure), and (3) health‑related quality of life (how someone feels and functions day to day). We also examined whether results differ for reduced versus preserved ejection fraction, for different ages, sexes, and for centre‑based versus home‑based delivery.\n\nHow did we find the evidence?\nWe searched for clinical trials (research programs, conducted with patients to evaluate a new medical treatment, drug, or device) that compared exercise‑based cardiac rehabilitation with usual care (the care that a provider would normally give to their patients) in adults with heart failure. We combined their findings on mortality, hospital admissions and quality of life. We then rated our confidence in the evidence.\n\nWhat did we find?\nWe included 60 randomised controlled trials enrolling 8,728 adults with heart failure. Most participants had reduced ejection fraction and were class II‑III on the New York Heart Association scale. Women, older adults and people with preserved ejection fraction were under‑represented. Trials were mostly centre‑based, with a growing number delivering the programme at home or via digital platforms. The intervention (the exercise programme) was compared with usual care, although some studies also used active comparators such as education, psychological support or additional medical management.\n\nWhat were the main results?\nWe found that exercise‑based cardiac rehabilitation probably makes little or no difference to the risk of death. We also found that it probably reduces hospital admissions: for every 100 people, about 24 would be admitted without rehabilitation compared with about 16 with rehabilitation. The programme probably reduces admissions specifically for heart failure. We observed a probable small improvement in health‑related quality of life. For overall quality of life measured by any questionnaire (a list of questions for study participants to answer as part of the study), the effect remains unclear.\n\nWhat are the limitations?\nWe have low confidence in the evidence because the studies did not include all groups of interest, were often small, and used different ways of delivering the programme.\n\nHow current is the evidence?\nWe updated our previous review and included studies up to December 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 686,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 38,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 209,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 209.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.571903790087475,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.353708454810498,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.480583090379007,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.541224489795916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.044081632653064,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.10728862973761,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.371428571428571,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.0,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.992495276967931,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 305,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 305.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 175,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 223,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 223.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 686,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 686 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:49.463307"
+}

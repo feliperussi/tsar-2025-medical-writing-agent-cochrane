@@ -1,0 +1,162 @@
+{
+  "id": "CD012693.PUB3",
+  "draft": "Does tailoring the dose of follicle-stimulating hormone (a hormone that helps eggs grow in the ovaries) based on a woman's ovarian reserve (the ability of her ovaries to produce eggs) improve the chances of having a baby with in vitro fertilization (IVF, a type of fertility treatment)?\n\nKey messages:\n- We are not sure if tailoring the dose of follicle-stimulating hormone improves the chances of having a baby. It may slightly reduce the risk of moderate ovarian hyperstimulation syndrome (OHSS, a complication from over-stimulated ovaries), but we are uncertain about its effect on severe OHSS.\n- The current evidence does not clearly justify adjusting the dose of follicle-stimulating hormone in women undergoing IVF, especially as increased dose is associated with greater total cost.\n- We need better research to understand if this approach actually helps or harms women undergoing IVF.\n\nWhat is in vitro fertilisation (IVF) and why is it important to get the dose of a fertility medicine just right?\nIn vitro fertilisation (IVF) is a type of fertility treatment where an egg is fertilised with sperm outside the body. Women undergoing IVF often receive daily doses of a medicine called gonadotropin follicle-stimulating hormone (FSH) to stimulate their ovaries to produce multiple eggs. The goal is to retrieve 5 to 15 eggs, as this is considered a normal response to stimulation. However, getting the dose of FSH just right is crucial because too high or too low a dose can lead to problems.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out if tailoring the dose of FSH to individual women, based on markers of their ovarian reserve, improves the chances of pregnancy and reduces the risk of OHSS. Researchers looked at studies that compare different doses of FSH in women with different predicted responses to stimulation, as well as studies that compare individualised dosing strategies with standard dosing approaches.\n\nWhat did we find?\nWe found 26 studies that involved 8520 women undergoing in vitro fertilisation plus intracytoplasmic sperm injection (IVF/ICSI). The studies used two main approaches. Some compared different FSH doses in women who researchers predicted would respond differently to the medicine. Others compared a tailored dose for each woman against giving every woman the same standard dose. It is unclear if individualising the dose of gonadotropin for women undergoing in vitro fertilisation plus intracytoplasmic sperm injection affects the chance of live birth or ongoing pregnancy. However, using an ovarian reserve test-based algorithm may reduce the incidence of ovarian hyperstimulation syndrome.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have been aware of their treatment, and not all studies reported data on all outcomes of interest.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to February 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 497,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.88,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 21,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 133,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 43.16022052313886,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.178089336016097,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.70935613682093,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.673319919517102,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.080772635814892,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.6707444668008,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.32,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.04987562112089,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.594337738430585,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 208,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 101,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 497,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 497 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 8,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it fails on two critical checks and needs a few revisions to improve clarity for the reader. The main issues are a factual omission of a key quantitative result and a missing 'Methods' section. I've outlined the 4 most important improvements below.\n\n**Critical Issues:**\n\n1. **Missing Key Finding on Live Birth:** The results section states that it's 'unclear' if tailored doses affect live birth but omits the crucial numbers that give context to this uncertainty. The original abstract notes that a potential increase from 25% to 31% 'could be important to many women', and this must be included.\n   - **Location:** End of the 'What did we find?' paragraph.\n   - **Suggestion:** Please add this sentence to provide the full context: \"To put this in perspective, our findings suggest that if the chance of having a baby with a standard dose is 25%, the chance with a tailored dose would be between 25% and 31%.\"\n\n2. **Missing 'Methods' Section:** The summary is missing a required section explaining how the review was conducted. This should come before the 'What did we find?' section to help readers understand where the results came from.\n   - **Suggestion:** Please add a new subheading and paragraph:\n   \"**How did we conduct this review?**\n   We searched for studies that compared different tailored doses of gonadotropin medicine for women undergoing IVF. We then summarized their results and rated our confidence in the evidence.\"\n\n**Other Important Improvements:**\n\n3. **Unnecessary Technical Language:** The results section introduces a complex technical term that isn't used elsewhere in the summary, which could confuse readers.\n   - **Quote:** \"...women undergoing in vitro fertilisation plus intracytoplasmic sperm injection (IVF/ICSI).\"\n   - **Problem:** The rest of the summary only defines and uses the simpler term 'IVF'. Adding 'intracytoplasmic sperm injection' here is unnecessary jargon.\n   - **Suggestion:** Simplify this to: \"...women undergoing IVF.\"\n\n4. **Reduce Noun-Heavy Phrases:** Some sentences use noun forms of verbs ('nominalizations'), which can make them less direct and harder to read. Your high nominalization score (21 instances) supports this observation.\n   - **Quote:** \"The goal is to retrieve 5 to 15 eggs, as this is considered a normal response to stimulation.\"\n   - **Problem:** The phrase 'response to stimulation' is indirect. Using a direct verb is clearer.\n   - **Suggestion:** Rewrite as: \"The goal is to retrieve 5 to 15 eggs, as this shows the ovaries have responded normally to the medicine.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows good overall conformity with typical PLS patterns, with 50% of features falling in the best quartile. Readability scores and sentence length are well within the target ranges. However, the analysis identified one significant deviation: the count of 'nominalizations' (noun-form verbs) is 21, placing it in the 90th percentile. This suggests that sentences could be made more direct and easier to understand by converting these noun phrases back into active verbs."
+    }
+  ]
+}

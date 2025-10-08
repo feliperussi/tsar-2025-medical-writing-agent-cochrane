@@ -1,0 +1,162 @@
+{
+  "id": "CD013758.PUB2",
+  "draft": "Is a high-protein baby formula better than a standard-protein baby formula for healthy infants?\n\nWe have three key messages:\n- We are unsure if feeding healthy infants high-protein formula compared to standard-protein formula affects undernutrition (when a person does not get enough nutrients), overweight, or obesity due to a lack of strong evidence.\n- High-protein formula may have little to no effect on side effects like diarrhea (frequent and loose bowel movements) or vomiting compared to standard-protein formula. However, we are not confident in this finding because the evidence is not strong.\n- Future research should focus on the long-term effects of high-protein versus standard-protein formula on infant health, including undernutrition, overweight, obesity, and adverse events, to provide clearer guidance for parents and healthcare providers.\n\nWhy is the amount of protein in baby formula important?\nMany infants are fed infant formulas to promote growth. Some formulas have a high protein content to accelerate weight gain during the first year of life. Undernutrition occurs when a person does not get enough nutrients. Diarrhea refers to frequent and loose bowel movements. We need to understand the effects of different protein levels in infant formula on the health of formula-fed term infants.\n\nWhat did we want to find out?\nWe wanted to find out if using a high-protein formula instead of a standard one affects a healthy infant's risk of undernutrition, overweight, or obesity, and if there is a difference in the risk of side effects like diarrhea or vomiting.\n\nHow did we search for evidence?\nWe searched for studies comparing higher and lower protein intake in formula-fed term infants. We looked at studies from high-income countries that lasted up to 11 years.\n\nWhat did we find?\nOur main findings were:\n- High-protein vs. standard-protein formula: We are not sure if using this formula affects an infant's risk of undernutrition, overweight, or obesity due to a lack of strong evidence. For side effects, high-protein formula may have little to no effect compared to standard-protein formula, but we are not confident in this finding.\n- Standard-protein vs. low-protein formula: We are not sure if using this formula affects an infant's risk of undernutrition because the evidence was not strong enough. There may be little to no difference in the risk of side effects between the two formulas, but again, the evidence is not strong.\n\nWhat are the limitations of the evidence?\nThe evidence is limited for several reasons:\n- The groups of infants in the studies were very different from each other.\n- The studies were small.\n- In many cases, researchers and parents likely knew which formula was being used, which could have biased the results.\nThe studies also did not report on all the health outcomes we were interested in.\n\nIs the evidence up to date?\nThe evidence is up to date to October 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 509,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.576923076923077,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 37,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 22,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 19,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 150,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 57.654403430557664,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.08114931237721,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.0855342300136,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.812259332023572,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.667704397763337,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.83232582741424,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.923076923076923,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.660254037844387,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.834099863986701,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 189,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 87,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 154,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 509,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 509 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 2,
+        "P75_count": 7,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 88.88888888888889,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft with excellent readability scores. However, a few revisions are needed to improve clarity and conciseness for the reader. Here are the top 3 areas for improvement:\\n\\n1. **Avoid Repetition and Add Context to the Results:** The 'What did we find?' section largely repeats the key messages without adding the important context of how many studies and participants the evidence is based on. This makes the section feel redundant.\\n    - **Problem:** \"Our main findings were: - High-protein vs. standard-protein formula: We are not sure if using this formula affects an infant's risk of undernutrition, overweight, or obesity due to a lack of strong evidence...\"\\n    - **Suggestion:** Add the details from the source material to give the findings weight. For example: \"We found 11 studies that involved 1185 infants. Our analysis showed that for high-protein vs. standard-protein formula, we are not sure if it affects an infant's risk of undernutrition, overweight, or obesity...\"\\n\\n2. **Make Key Messages More Direct:** The phrasing in the key messages can be made clearer and more concise for better immediate understanding.\\n    - **Problem:** \"We are unsure if feeding healthy infants high-protein formula compared to standard-protein formula affects undernutrition (when a person does not get enough nutrients), overweight, or obesity due to a lack of strong evidence.\"\\n    - **Suggestion:** Rephrase to put the reason for the uncertainty first, which improves flow. For example: \"Because the evidence is not strong, we are unsure if high-protein formula affects an infant's risk of undernutrition, overweight, or obesity compared to standard-protein formula.\"\\n\\n3. **Clarify Technical Concepts in the Limitations:** The limitations section mentions a key scientific concept (blinding) that may be unfamiliar to readers and should be explained more clearly.\\n    - **Problem:** \"In many cases, researchers and parents likely knew which formula was being used, which could have biased the results.\"\\n    - **Suggestion:** Briefly explain the concept to help the reader understand *why* this is a limitation. For example: \"The studies were not 'blinded', meaning researchers and parents likely knew which formula infants received. This knowledge could have biased the results.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms to typical PLS patterns. All 18 metrics fall within the best quartile or median ranges for the PLS corpus. Readability scores like Flesch-Kincaid Grade Level (10.08) and Words Per Sentence (19.58) are excellent, indicating the text is generally easy to read. The issues identified in the feedback are related to content repetition, word choice, and minor omissions, rather than fundamental readability problems."
+    }
+  ]
+}

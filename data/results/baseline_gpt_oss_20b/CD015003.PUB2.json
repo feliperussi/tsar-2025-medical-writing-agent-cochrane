@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015003.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Key messages\n- We are not confident that colchicine prevents heart attacks, strokes or death in people who have not yet had heart disease.\n- We are not confident that colchicine causes more diarrhoea or other side effects.\n- More well‑designed research is needed before colchicine can be recommended for primary prevention.\n\nWhat is atherosclerotic cardiovascular disease?\nAtherosclerotic cardiovascular disease is a condition where fatty deposits build up in artery walls, narrowing them and increasing the risk of heart attacks and strokes.\nWhy is it a problem?\nWhen arteries narrow, blood flow to the heart and brain can be blocked, leading to serious illness or death. It is a leading cause of illness worldwide.\n\nWhat is colchicine?\nColchicine is a medicine that reduces inflammation. It is commonly used to treat gout, a painful joint condition.\nWhy might colchicine help?\nInflammation contributes to the formation of fatty deposits in arteries. Reducing inflammation could, in theory, slow this process and lower the chance of heart attacks or strokes.\n\nWhat did we want to find out?\nWe wanted to know whether taking colchicine prevents heart attacks, strokes, death or other problems in adults who have never had heart disease.\nHow did we look for the answer?\nWe searched for studies that compared colchicine with no treatment or other medicines in adults without prior heart disease. We combined the results and judged how much confidence we could place in the evidence.\n\nWhat did we find?\nWe identified several studies that together included around a thousand participants. Follow‑up time varied from a few weeks to many years. Many of the studies had problems that make the results less reliable, such as small numbers of participants or designs that did not focus on heart disease.\nMain results\nWe are not confident that colchicine reduces death from any cause. We are not confident that it lowers the risk of heart attacks. We are not confident that it lowers the risk of stroke. We are not confident that it increases diarrhoea or other side effects. In short, the evidence does not give a clear picture of benefit or harm.\n\nLimitations of the evidence\nMany studies were small and had design issues that reduce reliability. Some studies looked at people with liver disease rather than heart disease, making the findings less directly applicable. The overall picture is uncertain because the studies do not consistently show the same effects.\n\nHow up to date is this evidence?\nThe literature search was completed on 31 May 2023. No newer studies were included, so the evidence reflects research available up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 450,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.0625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 119,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 63.781562500000035,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.856597222222224,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.8010499999999965,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.80951111111111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.469444444444445,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 42.951388888888886,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.0625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.366600265340756,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.276633333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 159,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 130,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 450,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 450 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:22.835690"
+}

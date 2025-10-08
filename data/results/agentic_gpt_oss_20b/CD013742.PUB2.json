@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "How accurate are blood tests (like serum retinol and retinol‑binding protein) for detecting vitamin A deficiency in people who are at risk?\n\nKey messages\n- Blood tests such as serum retinol (a direct measure of vitamin A in blood) and retinol‑binding protein (a protein that carries vitamin A) often miss many true cases (low sensitivity) but are fairly good at confirming when someone is not deficient (high specificity). We did not find any harmful effects of the tests, and the evidence is limited because the studies were not designed specifically to evaluate test accuracy.  \n- Test accuracy changed depending on the reference standard used (the best‑available method for confirming deficiency, such as liver vitamin A measurement or isotope dilution). Overall, the tests showed modest performance, and data on other methods like breast‑milk vitamin A or relative dose response are scarce.  \n- Future research should run diagnostic‑accuracy studies that use appropriate reference standards and include enough participants with true deficiency, so we can better understand how reliable these blood tests are.\n\nWhy is vitamin A deficiency a health problem?  \nVitamin A helps children grow, keeps the immune system strong, and protects the eyes. When intake is insufficient, people can experience poor growth, weaker immunity, more infections, eye problems that may lead to blindness, and higher risk of death for mothers and children. Many low‑resource populations are at risk, so identifying deficiency is an important public‑health task.\n\nHow is vitamin A deficiency currently tested?  \nWe use laboratory‑based “biomarkers” – measurable substances in blood, milk, or other tissues – to assess vitamin A stores. The most common tests are:  \n– **Serum or plasma retinol (SR)** – measures vitamin A directly in a blood sample.  \n– **Retinol‑binding protein (RBP)** – a protein that carries vitamin A; its level gives an indirect clue about vitamin A status.  \n– **Relative dose response (RDR)** – looks at how the body’s vitamin A levels change after a small dose of the vitamin.  \n\nWe compare these tests with the most accurate reference standards: retinol isotope dilution (RID) or direct measurement of vitamin A in liver tissue. Two key performance measures are:  \n– **Sensitivity** – the ability of a test to correctly identify people who truly have deficiency (true positives).  \n– **Specificity** – the ability of a test to correctly identify people who do not have deficiency (true negatives).\n\nWhat did the review aim to find out?  \nWe wanted to know how well the routinely used laboratory tests (SR, RBP, RDR, and a few others) detect subclinical vitamin A deficiency in at‑risk people. Specifically we aimed to:  \n1. Measure the accuracy (sensitivity and specificity) of each test compared with the best‑available reference standards.  \n2. Explore whether factors such as the type of reference standard, the cut‑off values used, or study‑population characteristics explain differences in test performance.\n\nHow did we find and analyse the studies?  \nWe searched multiple databases up to 18 August 2022 without language or setting limits. Two reviewers independently screened titles, abstracts and full texts, extracted data, and assessed risk of bias with the QUADAS‑2 tool. When appropriate, we pooled sensitivity and specificity using a bivariate random‑effects model. We examined differences with group and combined analyses and graded confidence with GRADE.\n\nWhat did we find?  \nWe identified 40 eligible studies (reported as 65 records). The studies included anywhere from a few dozen to over a thousand participants. Index tests evaluated were serum or plasma retinol, retinol‑binding protein, breast‑milk vitamin A and relative dose response. All were compared with reference standards of RID or liver vitamin A. No study was designed specifically as a diagnostic‑test‑accuracy investigation.\n\nWhat are the main results for serum retinol testing?  \n**Does serum retinol reliably detect vitamin A deficiency?** No. In a group of 100 people who truly have deficiency, the test would correctly identify only about 10, missing most cases. The test is better at confirming that someone is not deficient, with specificity around 90 % in most analyses.  \n\n**How does retinol‑binding protein perform?** Sensitivity ranged from about 45 % to 50 % against isotope dilution, and specificity was around 75‑80 %. Evidence is of low to moderate certainty.  \n\n**How does relative dose response perform?** Data are limited; specificity was roughly 90 % but we could not estimate sensitivity because studies lacked true‑positive cases.\n\nWhat are the limitations of the evidence?  \nThe studies were not randomised, were often small, and many did not include participants who truly had deficiency. Risk of bias was frequently unclear. Because the studies were not designed to assess diagnostic accuracy, the pooled estimates should be interpreted with caution.\n\nHow current is the evidence?  \nThe search was up to August 2022, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 825,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 56,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.732142857142858,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 260,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.23969318181818,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.935414502164505,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.453635064935064,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.053478787878785,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.71709956709957,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.550324675324674,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.392857142857143,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 16.038404810405297,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.79315064935065,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 369,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 369.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 182,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 246,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 825,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 825 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:57.934792"
+}

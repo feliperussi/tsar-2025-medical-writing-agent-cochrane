@@ -1,0 +1,162 @@
+{
+  "id": "CD010639.PUB2",
+  "draft": "Can changing the schedule of shift work (the times and hours that people work, especially at night) improve sleep quality, sleep duration, and reduce sleepiness in shift workers?\n\nHere are the key messages from this review:\n- Changing the schedule of shift work may help workers feel less sleepy, but the evidence is uncertain - it is not clear if changing schedules improves how long or how well people sleep.\n- Limiting shift duration to 16 hours may increase sleep duration and reduce sleepiness during shifts, but the evidence for other shift schedule changes is very uncertain.\n- Future research should focus on high-quality studies to better understand the effects of different shift schedule adaptations on sleep and sleepiness in shift workers.\n\nWhat is shift work and why is it a problem? \nShift work refers to work schedules that fall outside traditional daytime hours, often including night shifts, evening shifts, or rotating shifts. This type of work schedule can disrupt the body's natural sleep-wake cycle, leading to insufficient sleep, fatigue, and decreased alertness. As a result, shift workers may experience negative effects on their occupational health and safety, including increased risk of accidents and errors. Common treatments for shift work disorders include behavioral therapies, such as cognitive-behavioral therapy for insomnia, and pharmacological interventions, like melatonin or sleep aids.\n\nWhat did the review authors want to find out? \nWe wanted to know if changing shift work schedules can improve how well and how long workers sleep, and make them feel less sleepy. We looked at different types of changes, such as:\n– how quickly shifts rotate \n– the length of each shift \n– the amount of time off between shifts \n– whether workers had a say in their schedules\n\nWhat did we find? \nWe found 11 studies that involved 2125 participants. The studies investigated different and often multiple changes to shift schedules. Here is what we found:\n– Limiting shifts to 16 hours: This may help workers sleep longer and feel less sleepy.\n– Rotating shifts faster: This may reduce sleepiness but might also reduce how long people sleep.\n– Changing shift length or compressing the work week: These changes seemed to have little to no effect on sleep or sleepiness.\nFor most of these findings, the evidence was very uncertain.\n\nHow did we find this information? \nWe searched for studies that changed shift work schedules, then collected and analyzed their results on sleep quality, sleep duration, and sleepiness. We assessed the risk of bias of included studies and rated our confidence in the evidence.\n\nIs the evidence up to date? \nThe evidence is up to date to April 2022.\n\nWhat are the limitations of the evidence? \nOur confidence in the evidence is limited for several reasons. Most studies were small and did not always report all their results. The people in the studies and the schedule changes were very different, which makes it hard to compare findings. In some studies, workers knew which schedule they were on, which might have influenced their answers.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 520,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.8,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 66,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 33,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 162,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 59.79915384615387,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.085846153846159,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.469307692307694,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.865230769230767,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.396923076923077,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.107692307692304,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.68,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.055385138137417,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.226218461538462,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 204,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 79,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 142,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 520,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 520 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 4,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-structured and highly readable, but it is not approved due to a critical factual error and a few areas where clarity can be improved.\n\n**Critical Issue to Fix:**\n\n1.  **Factual Error in Currency Date:** The date in the draft must match the provided `SOURCE_OF_TRUTH`.\n    *   **Problematic Text:** \"The evidence is up to date to April 2022.\"\n    *   **Why it's a problem:** This contradicts the `SOURCE_OF_TRUTH`, which states the evidence is current to December 2020. All information in the PLS must be factually accurate and verifiable against the source documents.\n    *   **Suggested Rewrite:** \"The evidence is up to date to December 2020.\"\n\n**Top 3 Improvements Needed:**\n\n1.  **Make the Key Messages More Complete:** The first key message omits a potentially negative finding that is important for readers to know.\n    *   **Problematic Text:** \"...it is not clear if changing schedules improves how long or how well people sleep.\"\n    *   **Why it's a problem:** This is too vague. The review found that one change (faster rotation) might actually *reduce* sleep time. Omitting this potential harm makes the summary incomplete.\n    *   **Suggested Rewrite:** \"...it is not clear if changing schedules improves how well people sleep, and some changes, like rotating shifts faster, might even reduce how long people sleep.\"\n\n2.  **Simplify Technical Language:** One sentence in the introduction uses jargon that could be simplified for a lay audience.\n    *   **Problematic Text:** \"Common treatments for shift work disorders include behavioral therapies, such as cognitive-behavioral therapy for insomnia, and pharmacological interventions, like melatonin or sleep aids.\"\n    *   **Why it's a problem:** Phrases like \"pharmacological interventions\" are unnecessarily complex. This contributes to a high noun count, making the text feel more academic than it needs to be.\n    *   **Suggested Rewrite:** \"To treat problems from shift work, doctors might suggest therapies to improve sleep habits or prescribe medicines like melatonin or sleep aids.\"\n\n3.  **Use More Direct Phrasing in Results:** The results section uses slightly weak and indirect language.\n    *   **Problematic Text:** \"These changes seemed to have little to no effect on sleep or sleepiness.\"\n    *   **Why it's a problem:** The phrase \"seemed to have\" is less clear and direct than stating the finding confidently. Using the active \"we found\" aligns with Cochrane style and is easier for readers to understand.\n    *   **Suggested Rewrite:** \"We found that these changes had little to no effect on sleep or sleepiness.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft is generally excellent and highly conforms to typical PLS patterns, with 13 of 18 metrics (72%) falling into the best quartile for readability and plain language. Readability scores like the Flesch-Kincaid Grade (10.09) are very good. The one notable deviation is the noun count, which is higher than typical (in the 90th percentile range). This suggests some sentences may be dense or academic, supporting the recommendation to simplify technical language and use more direct verbs."
+    }
+  ]
+}

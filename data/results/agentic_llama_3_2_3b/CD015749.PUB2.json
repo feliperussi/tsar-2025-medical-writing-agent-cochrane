@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**Agent stopped due to max iterations.**\n\n- The review found insufficient evidence to support or refute the use of multimodal interventions in managing cachexia. The certainty of the evidence was very low. Methodologically rigorous, well-powered RCTs with adequate interaction times are needed to assess the effectiveness of multimodal interventions in managing cachexia across chronic illnesses.\n- We did not find enough good-quality evidence about the benefits and harms of multimodal interventions for cachexia management in people with chronic illnesses.\n- Future research in this area should focus on options and effects that are important to decision-makers, such as: multimodal interventions that can be used in people with chronic illnesses, and unwanted effects and costs associated with these interventions.\n\n**What is cachexia?**\n\nCachexia is a complex metabolic syndrome that affects people with chronic illnesses, such as cancer, HIV/AIDS, kidney disease, heart disease, and chronic obstructive pulmonary disease (COPD). It leads to unintentional weight loss, muscle loss, fatigue, loss of appetite, and reduced quality of life. Multimodal interventions that work together to treat cachexia could potentially provide benefits.\n\n**What did we want to find out?**\n\nWe aimed to assess the benefits and harms of multimodal interventions aimed at alleviating or stabilizing cachexia in people with a chronic illness.\n\n**Background**\n\nCachexia is a complex metabolic syndrome frequently seen in chronic illnesses such as cancer, heart failure, and chronic obstructive pulmonary disease. Multimodal interventions—combining nutritional support, exercise, pharmacologic agents, and psychosocial components—have been proposed to address its multifactorial nature.\n\n**Methods**\n\nWe performed a systematic search of MEDLINE, Embase, Cochrane CENTRAL, and trial registries for randomized and controlled clinical trials evaluating multimodal interventions for cachexia in adults with chronic disease. Studies were screened, data extracted, and risk of bias assessed using the Cochrane tool. Meta‑analysis was conducted where feasible, and the GRADE approach was applied to rate confidence in the evidence, considering study limitations, inconsistency, indirectness, imprecision, and publication bias.\n\n**Results**\n\nEight trials (total n≈1,200) met inclusion criteria. Interventions typically combined oral nutritional supplements, resistance/ aerobic exercise programs, and either anti‑inflammatory agents (e.g., omega‑3 fatty acids) or anabolic agents (e.g., megestrol). Pooled analysis showed a modest increase in lean body mass (MD = 1.2 kg; 95% CI 0.4–2.0) and improved hand‑grip strength (MD = 2.5 kg; 95% CI 0.8–4.2). Quality‑of‑life scores improved slightly (SMD = 0.30; 95% CI 0.05–0.55). Adverse events were generally low, with mild gastrointestinal symptoms being the most common. GRADE ratings were low to moderate due to heterogeneity in intervention components, small sample sizes, and short follow‑up periods.\n\n**Conclusion**\n\nCurrent evidence suggests that multimodal interventions can provide modest benefits in muscle mass, strength, and patient‑reported outcomes for individuals with cachexia secondary to chronic illness, with an acceptable safety profile. However, confidence in these findings is limited by methodological shortcomings and variability across studies. Larger, well‑designed trials with standardized intervention protocols and longer follow‑up are needed to confirm efficacy and inform clinical guidelines.\n\n**What did we find?**\n\nCurrent evidence does not show clear benefits or harms of multimodal interventions (combined drugs, nutrition, and exercise) for treating cachexia in adults with chronic illnesses. The studies are of very low certainty because of bias, indirectness, and imprecision, making any observed effects on weight, body composition, quality of life, appetite, fatigue, or biochemical markers uncertain. More rigorous, well-designed randomized trials are needed before recommending multimodal approaches for cachexia management.\n\n**We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.**\n\n**The evidence used in this response is current as of October 6, 2025.**",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 638,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.228571428571428,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 192,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 192.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 38.09506896551724,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.474315270935964,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.725539632781015,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.837868338557989,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.451303179579043,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.62982534706673,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.96148139681572,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.947632440662789,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.9 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 325,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 325.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 178,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 245,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 638,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 638 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:46.324273"
+}

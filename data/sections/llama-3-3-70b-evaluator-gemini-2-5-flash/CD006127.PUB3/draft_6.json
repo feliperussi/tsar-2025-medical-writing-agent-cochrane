@@ -1,0 +1,162 @@
+{
+  "id": "CD006127.PUB3",
+  "draft": "This review looked at whether controlling blood pressure can help people with diabetes avoid or slow down an eye problem called diabetic retinopathy. We found it probably helps prevent the problem from starting, but the evidence did not show it helps slow the problem down if you already have it. Diabetic retinopathy is a common complication of diabetes that can cause visual impairment and blindness. It occurs when high blood sugar levels damage the blood vessels in the retina, leading to vision problems. Diabetes is a condition where the body cannot regulate blood sugar levels properly, and it can lead to various health issues, including diabetic retinopathy. While controlling blood sugar levels is essential, research has also shown that managing blood pressure is vital in preventing the progression of diabetic retinopathy. High blood pressure can make the condition worse. Therefore, controlling blood pressure through lifestyle changes or medication is often recommended alongside blood sugar management. We searched for studies comparing blood pressure control methods in diabetics. We found 29 studies that included 27,185 people with diabetes. The studies were conducted in several countries around the world, including North America, Europe, Australia, Asia, Africa, and the Middle East. The lengths of follow-up ranged from less than one year to nine years. We found that controlling blood pressure probably reduces the risk of developing diabetic retinopathy slightly, especially for people with type 2 diabetes who also have high blood pressure. For every 100 people with diabetes, intense blood pressure control may prevent 2 to 5 cases of diabetic retinopathy over five years. However, the evidence does not show that it slows the progression of existing retinopathy. Our confidence in the evidence is limited because the studies we found were very different from one another. They included different types of people, used various methods to control blood pressure, and some studies were quite small. This makes it difficult to draw strong conclusions, especially for people with diabetes who do not have high blood pressure. The evidence is up to date to September 2021. The key messages of this review are: - Keeping blood pressure under control probably reduces the risk of developing diabetic retinopathy, especially for people with type 2 diabetes who also have high blood pressure. - The evidence does not show that blood pressure control slows the progression of existing retinopathy. - Future studies should investigate the long-term effects of blood pressure control on diabetic retinopathy, focus on diverse populations, and explore the potential benefits and harms of different blood pressure targets and treatment strategies.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 424,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 23,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.434782608695652,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 21,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 136,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 42.268506972928634,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.94343314191961,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.992556398687448,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.060660377358488,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 16.24183757178015,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.57629204265791,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.478260869565218,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.746794344808963,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.394223707957342,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 174,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 94,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 149,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 424,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 424 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 8,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is factually accurate and uses clear language, but it must be revised for structure and formatting before it can be approved. The main issue is that the summary is presented as a single block of text, which makes it difficult for readers to navigate. Here are the top 3 improvements needed:\n\n1. **Add a title and question-based subheadings.**\nThe summary is missing the required structure. Following the style guide, you should add a title and use questions as subheadings to break the text into logical sections. This is the most important change needed.\n\n*   **Suggestion:** Add a title like \"Can controlling blood pressure help with diabetic eye problems?\" and use subheadings such as:\n    *   What is diabetic retinopathy?\n    *   Why we did this review\n    *   What we found\n    *   What are the limitations of the evidence?\n\n2. **Restructure the introduction for better flow.**\nThe first paragraph currently mixes the main findings with background information about the condition, which can confuse the reader.\n\n*   **Problem:** \"This review looked at whether controlling blood pressure can help people with diabetes avoid or slow down an eye problem called diabetic retinopathy. We found it probably helps prevent the problem from starting, but the evidence did not show it helps slow the problem down if you already have it. Diabetic retinopathy is a common complication of diabetes that can cause visual impairment and blindness...\"\n*   **Suggestion:** Separate this information. Place the background definitions under a subheading like \"What is diabetic retinopathy?\" and keep the findings for the \"What we found\" section. Start with the background to give readers context before presenting the results.\n\n3. **Create a distinct 'Key messages' section at the beginning.**\nThe key messages are currently listed at the very end of the summary. To ensure readers see the most important takeaways immediately, this list should be moved to the top, right after the title.\n\n*   **Suggestion:** Create a section titled \"Key messages\" and place the bulleted list there. Per the style guide, please use a dash (-) for bullet points.",
+      "pls_evaluation_summary": "The linguistic analysis shows good conformity with typical PLS patterns. Most metrics, including readability scores, sentence length (18.4 words), and use of passive voice (5 instances), fall within the best quartile or median range for PLS texts. This indicates the core writing is clear and accessible. The primary issues are not with the language itself, but with the overall structure and formatting, which are not captured by these metrics. One minor metric, the Coleman-Liau Index (14.1), deviates slightly from the typical range, suggesting average word length could be reduced, but this is a low-priority issue compared to the structural changes needed."
+    }
+  ]
+}

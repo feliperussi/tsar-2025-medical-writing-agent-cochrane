@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015328.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What do diet and activity programs do to stop children from becoming overweight?\n\nKey messages:\n- Dietary changes alone may not help children keep a healthy weight.\n- Physical activity programs in schools can help children keep a healthy weight for a short time, but the benefit may fade after a few years.\n- More research is needed to see if these programs work for children at home or in community settings, and for children with disabilities.\n\nWhy is it important to keep children from becoming overweight?\nKeeping a healthy weight is important because excess weight can lead to health problems such as diabetes, heart disease, and joint pain later in life. Helping children stay at a healthy weight also supports their confidence, school performance, and overall well‑being.\n\nWhat are diet and activity programs?\nDiet programs teach children and families how to choose foods that are lower in sugar and fat and how to eat regular meals. Activity programs give children chances to move more, such as through sports, games, or structured exercise sessions. Some programs combine both diet advice and activity sessions.\n\nWhat did we want to find out?\nWe wanted to know whether diet, activity, or combined programs can prevent children aged 5‑11 from becoming overweight, and whether these programs cause any serious problems.\n\nWhat did we do?\nWe searched for studies that compared diet or activity programs with no program or usual care and combined the results to see how they affected children’s weight and any serious side effects.\n\nWhat did we find?\nWe identified over 170 studies that included more than 160,000 children from schools, community centres, homes, and health clinics. The studies were funded by governments, charities, and some private groups. The evidence showed:\n- Dietary programs may make little difference to children’s weight in the short and medium term, and probably make little difference in the long term.\n- Physical activity programs may make little difference in the short term, likely produce a small reduction in weight in the medium term, and may make little difference in the long term.\n- Programs that combine diet and activity may make little difference in the short term, likely produce a small reduction in weight in the medium term, and may make little difference in the long term.\n- Serious side effects were rare and the programs probably do not increase the risk of serious problems.\nThe results varied a lot between studies, and we could not find a clear reason for the differences.\n\nLimitations:\nWe have little confidence in many of the findings because the studies were often small, some participants knew which program they were receiving, and the results were not consistent across studies.\n\nHow up to date is this evidence?\nThe evidence is current up to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 482,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.36842105263158,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.4 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.87194474776153,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.489576326708889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.270040401834464,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.51792531120332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.292596636820267,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.0364708451627,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.526315789473684,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.499767460144136,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 160,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 62,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 482,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 482 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:23.999730"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014592.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Is estrogen therapy helpful for treating pelvic organ prolapse in postmenopausal women?\n\nKey Messages\n- We could not find clear evidence that estrogen therapy alone helps or harms women with pelvic organ prolapse. Some small studies suggest that adding estrogen to a vaginal support device or to surgery may reduce certain side effects, but the overall picture is uncertain.\n- Adding estrogen to a pessary (a removable device placed in the vagina) may lower the chance of vaginal irritation, and adding estrogen to surgery may lower the chance of urinary infections, but the evidence is weak and comes from few participants.\n- More well‑designed research that follows women for a longer time and looks at costs is needed before firm recommendations can be made.\n\nIntroduction to the review topic and review aims\n\nWhat is pelvic organ prolapse?\nPelvic organ prolapse is a condition where the uterus, bladder or rectum drops down into the vagina, causing a feeling of heaviness, bulging, or trouble with bladder or bowel control.\n\nWhy is it a problem for postmenopausal women?\nAfter menopause, the body makes less estrogen, a hormone that helps keep the tissues of the pelvic floor strong and flexible. Lower estrogen can make the support structures weaker, increasing the chance of prolapse and making symptoms feel worse.\n\nWhat is estrogen therapy?\nEstrogen therapy is the use of medication that contains the hormone estrogen. It can be given as a pill, a skin patch, a cream applied inside the vagina, or other forms. The goal is to replace the hormone that the body no longer makes after menopause.\n\nWhat did we want to find out?\nWe wanted to know whether giving estrogen, either by itself or together with other treatments, improves the symptoms of pelvic organ prolapse, reduces the need for further surgery, or causes any important side effects.\n\nHow is pelvic organ prolapse treated?\n- Pelvic floor muscle exercises (often called Kegel exercises)\n- Use of a pessary, a device that supports the organs inside the vagina\n- Surgery to repair or support the weakened tissues\n- Hormone therapy, such as estrogen, sometimes added to the above options\n\nWhat did we do?\nWe searched many medical databases for studies that compared estrogen therapy with other treatments or with no extra treatment in postmenopausal women who have pelvic organ prolapse. We combined the findings and judged how reliable the evidence seemed.\n\nWhat did we find?\nWe identified fourteen studies that together included about one thousand women. No study looked at estrogen alone versus no treatment. Three studies compared estrogen cream plus a pessary with a pessary alone. Eleven studies compared estrogen given around the time of surgery with surgery alone.\nIn the pessary studies, women who also used estrogen cream reported fewer problems with vaginal irritation and dryness. In the surgery studies, women who received estrogen around the operation reported fewer urinary infections after the procedure. However, the differences were small, and the studies were short‑term, so we cannot be sure that these benefits last.\nOverall, the evidence does not show a clear overall benefit or harm from estrogen therapy for pelvic organ prolapse, and the small number of participants means we cannot be confident about the size of any effect.\n\nWhat are the limitations of the evidence?\nThe studies we found were generally small and varied a lot in how they gave estrogen, how long they followed the women, and what outcomes they measured. Many studies did not hide the treatment from participants or researchers, which can influence how symptoms are reported. Because of these problems, we have limited confidence in the results and cannot be sure that the observed benefits would happen in a larger group of women.\n\nHow up to date is this evidence?\nThe literature search covered studies published up to June 2022. No newer systematic search has been published since then, so the evidence reflects what was known up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 677,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.91176470588235,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 190,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 190.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.66532691806415,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.418128855678166,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.004479103310452,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.775893648449035,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.5274828395169,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.56759927013641,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.705882352941177,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.180339887498949,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.958435937092711,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 256,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 256.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 128,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 128.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 194,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 194.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 677,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 677 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 5,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.074894"
+}

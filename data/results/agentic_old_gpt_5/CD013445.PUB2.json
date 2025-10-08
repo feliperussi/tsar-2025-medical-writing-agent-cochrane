@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013445.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Title: Is surgery through a small cut in the back into the kidney (percutaneous nephrolithotomy, PCNL) better than using a thin scope up the urinary tract into the kidney (retrograde intrarenal surgery, RIRS) for treating kidney stones in adults?\n\nKey messages\n- PCNL (a surgical procedure that removes kidney stones by making a small cut in the back and using a tube and camera to reach and break or remove stones; percutaneous means through the skin) may clear stones more completely (stone-free rate: the percentage of people with no detectable stone fragments on follow-up imaging) and may reduce the need for another procedure (secondary interventions: extra procedures after the first treatment) compared with RIRS (a procedure that uses a thin flexible scope passed through the urethra and bladder up into the ureter and kidney to break stones, often with a laser; retrograde means moving against the normal flow of urine and intrarenal means inside the kidney).\n- PCNL probably makes little to no difference to serious problems (major complications: serious surgery-related problems that may need major treatment). PCNL may increase hospital stay slightly (mean difference: the average difference between groups; reported here as about 1.04 days). We have low confidence in most results (GRADE criteria: a system for rating how sure we are about study findings).\n\nWhat are kidney stones and how are they usually treated?\nKidney stones are hard deposits that form in the kidneys (kidney: one of a pair of organs that remove waste and extra water from the blood). Stones can cause severe pain, block urine flow (obstruction: a blockage of a passageway), and lead to infection (infection: growth of germs in the body). Small stones may pass with pain relief and fluids. Larger or troublesome stones may need treatments such as shock wave lithotripsy (a non-surgical treatment that uses focused sound waves from outside the body to break stones), RIRS, or PCNL.\n\nWhat are PCNL and RIRS?\n- PCNL (percutaneous nephrolithotomy): The surgeon makes a small cut in the back and creates a tunnel into the kidney to remove or break stones. PCNL access size is measured in French gauge (Fr: unit for instrument width; 1 Fr ≈ 0.33 mm). Standard PCNL uses about ≥24 Fr; mini-PCNL uses about 15–23 Fr; ultra-mini, super-mini, or micro-PCNL use <15 Fr (smaller numbers mean smaller instruments).\n- RIRS (retrograde intrarenal surgery): A thin flexible ureteroscope goes through the urethra and bladder up the ureter (the tube that carries urine from the kidney to the bladder) into the kidney to break stones and remove fragments.\n- Ureteral stricture (a narrowing or scar in the ureter) and ureteral injury (damage such as a tear or burn) are possible harms of these procedures.\n\nWhat did we want to find out?\nWe wanted to know, in adults with kidney stones, whether PCNL or RIRS clears stones better, which is safer, whether people need extra procedures, how long they stay in hospital, and how treatment affects daily life (quality of life: how someone feels and functions day to day). We also looked for unplanned medical visits (unexpected trips to emergency, urgent care, or a clinic after treatment).\n\nHow did we do the review?\nWe searched multiple databases and trial registries for randomized controlled trials (RCTs: people are randomly assigned to different treatments so researchers can fairly compare results). We combined results using standard methods (including random-effects models: a way to pool studies while allowing effects to vary). We assessed consistency across studies (I2: a statistic that shows how much study results disagree) and reported measures such as risk ratio (which compares the chance of an outcome between two groups) and confidence intervals (the range where results are likely to fall). We rated our confidence using GRADE criteria.\n\nWhat did we find?\n- We found 42 RCTs with 4,571 adults. Average stone size ranged from 10.1 mm to 39.1 mm. Most studies that reported access size used PCNL tracts <24 Fr (mini or smaller). Twenty-two reports were full articles and 20 were conference abstracts.\n- PCNL may increase the chance of being stone free after treatment.\n- PCNL probably makes little to no difference to major complications.\n- PCNL may greatly reduce the need for secondary interventions.\n- PCNL may increase hospital stay by about a mean difference of 1.04 days.\n- PCNL may make little to no difference to ureteral stricture or ureteral injury.\n- No studies reported unplanned medical visits or quality of life.\n\nHow sure are we?\nWe have low confidence in most results. Many studies were small. Some had design problems and may not have kept people unaware of which treatment they received. Studies used different techniques and did not report all outcomes. These issues lower our certainty (GRADE criteria). We also noted variability across studies (I2) and limited reporting of key measures.\n\nWhat should happen next?\nWe recommend larger, well-designed RCTs that compare PCNL and RIRS across different stone sizes and locations. Studies should use clear imaging (X-ray, ultrasound, or CT) to assess stone-free status. Trials should report outcomes that matter to patients: pain, time to return to normal activities, unplanned medical visits, quality of life, and harms, with longer follow-up. Researchers should report funding and conflicts of interest.\n\nHow current is the evidence?\nThe searches are up to date to March 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 920,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 46,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 97,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 284,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 284.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.14065217391308,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.397391304347828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.794032608695652,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.464652173913041,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.521739130434781,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.913043478260875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.782608695652174,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.874342087037917,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.256510869565218,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 365,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 365.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 150,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 150.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 220,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 920,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 920 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:36.984901"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD012532.PUB2",
+  "draft": "Are anti-PD-1 and anti-PD-L1 therapies (which help the immune system fight cancer) effective for treating glioma (a type of brain tumor)? \n- Therapies called anti-PD-1 and anti-PD-L1 may not be effective for treating glioma. Most studies showed these treatments did not help people live longer (overall survival) or stop the disease from getting worse (progression-free survival). However, the evidence we have is not strong enough to be certain.\n- The evidence for the effectiveness of these therapies in treating glioma is generally of low quality. We need more research to be sure about the benefits and harms of these treatments. This is especially true for different groups, like people who were just diagnosed or whose cancer has returned.\n- Future studies should aim to provide higher-quality evidence about these treatments. We need to be more certain about their effects on a person’s quality of life (overall well-being) and their risk of serious side effects.\n\nWhat is glioblastoma multiforme and why is it a problem?\nGlioblastoma multiforme is the most common and aggressive type of adult glioma (a kind of brain tumor). It has a poor prognosis, with a median survival of only 16 months. The tumor’s environment weakens the immune system, making it hard for the body to fight the cancer. Today’s treatments don’t work as well as we’d like, so we need to find new ways to help people live longer and feel better.\n\nWhat are immune checkpoint inhibitors and how do they work?\nImmune checkpoint inhibitors are a type of cancer treatment that helps the immune system recognize and attack cancer cells. They work by blocking specific proteins, such as PD-1 and PD-L1, that cancer cells use to evade the immune system. By blocking these proteins, immune checkpoint inhibitors allow the immune system to target and destroy cancer cells more effectively.\n\nWhat did the review authors want to find out?\nWe wanted to assess the effects of immune checkpoint inhibitors, specifically anti-PD-1 and anti-PD-L1 antibodies, in treating adults with diffuse glioma. We aimed to determine whether these treatments can improve overall survival, progression-free survival, and quality of life, while also examining their potential side effects.\n\nWhat did we find?\nWe found 7 studies that involved 1953 people with diffuse glioma. Most studies looked at an anti-PD-1 treatment for people with grade 4 glioma (the most aggressive type). Some people in the studies had just been diagnosed with the cancer, while for others it had come back after treatment. The studies compared anti-PD-1/PD-L1 antibodies to placebo or other therapies used alone or with other immune checkpoint inhibitors. Our main findings were:\n- For people whose cancer has returned: A drug called nivolumab probably offers no benefit. Combining another drug (pembrolizumab) with bevacizumab may also be ineffective. One very small study suggested giving pembrolizumab before and after surgery might help people live longer, but the evidence was very uncertain.\n- For people who are newly diagnosed: Adding nivolumab to radiotherapy probably has no benefit.\n- For older people: Adding nivolumab after initial treatment probably offers no benefit.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and the studies did not always report on the results we were looking for. These limitations are important. They make the results less reliable, so we cannot be certain about how well these therapies work for glioma.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2024.\n\nHow did we find this information?\nWe searched for studies comparing anti-PD-1 and anti-PD-L1 antibodies to other treatments in adults with diffuse glioma, summarized their results, and rated our confidence in the evidence.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 670,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 38,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.63157894736842,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 69,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 39,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 181,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 60.902529457973316,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.144823252160254,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.079908876669286,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.604298507462687,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.321288295365282,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 41.21366849960722,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.157894736842105,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.797958971132712,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.789884524744698,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 251,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 251.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 105,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 158,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 670,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 670 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 1,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 83.33333333333334,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a strong start, but it needs a few revisions to improve clarity and structure for a lay audience before it can be approved. Here are the top 3 improvements needed:\n\n1. **Combine and clarify the key messages for better impact.** The first two key messages are repetitive and the parenthetical definitions interrupt the flow. Combining them would create a stronger, clearer opening.\n    *   **Current text:** '- Therapies called anti-PD-1 and anti-PD-L1 may not be effective for treating glioma. Most studies showed these treatments did not help people live longer (overall survival) or stop the disease from getting worse (progression-free survival). However, the evidence we have is not strong enough to be certain. \\\n- The evidence for the effectiveness of these therapies in treating glioma is generally of low quality.'\n    *   **Suggested rewrite:** '- For people with glioma, treatments that help the immune system fight cancer (called anti-PD-1 and anti-PD-L1 therapies) may not be effective. Most studies found these treatments did not help people live longer or stop the cancer from getting worse. However, this is based on low-quality evidence, so we cannot be certain of these results.'\n\n2. **Replace noun-heavy phrases with more direct, active language.** Some sentences rely heavily on abstract nouns, which can make them harder to understand. This is supported by the linguistic analysis, which found a high noun count (181, placing it in the 90th percentile).\n    *   **Current text:** 'The evidence for the effectiveness of these therapies in treating glioma is generally of low quality.'\n    *   **Suggested rewrite:** 'We have low-quality evidence about how effective these therapies are for treating glioma.' OR 'We are not confident about how well these therapies work for glioma because the evidence is of low quality.'\n\n3. **Restructure the summary to follow a more logical flow.** The methods section, currently titled 'How did we find this information?', appears at the very end of the summary. It should be placed before the 'What did we find?' (Results) section to explain how the results were obtained.\n    *   **Action:** Move the entire 'How did we find this information?' section to be right after 'What did the review authors want to find out?'\n    *   **Suggested new heading:** Consider a more standard heading like 'What we did in this review' or 'How we conducted this review'.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft is highly readable and conforms well to typical patterns, with 83% of metrics falling in the best quartile. However, it deviates from the typical pattern with a high number of nouns (P90) and complex words not on the Dale-Chall list (P90). This suggests that while sentence structure is good, the vocabulary and phrasing could be simplified further to improve clarity."
+    }
+  ]
+}

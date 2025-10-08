@@ -1,0 +1,162 @@
+{
+  "id": "CD009384.PUB3",
+  "draft": "\"Does giving zinc supplements (zinc tablets or syrup) reduce death, illness, and improve growth in children aged 6 months to 12 years?\\n\\nKey messages\\n– Giving zinc tablets or syrup to children 6 months‑12 years probably lowers diarrhoea episodes and adds a small amount of height, but it does not clearly reduce overall death rates.  \\n– When zinc is taken together with iron, the benefits for diarrhoea and growth become weaker.  \\n– Zinc increases the chance of vomiting, so we need to weigh this harm against the benefits.\\n\\nWhy is zinc deficiency a concern for children’s health?  \\nMany children, especially those living in low‑ and middle‑income countries, do not get enough zinc from food. Zinc is a mineral that helps the immune system work, protects against infections, and supports normal growth. Children who lack zinc are more likely to develop diarrhoea, pneumonia (a lower‑respiratory‑infection), malaria, and slower linear growth (stunted growth). These problems can lead to death (mortality) or long‑term illness (morbidity). Giving a daily zinc supplement, often as a syrup containing zinc sulfate, is one way to prevent deficiency.\\n\\nWhat did we aim to discover about giving zinc to children?  \\nWe wanted to know whether preventive zinc supplements for healthy children aged 6 months‑12 years can (1) reduce the chance of dying from any cause and specifically from diarrhoea, pneumonia, or malaria; (2) lower the number of illness episodes; (3) help children grow taller; and (4) improve blood levels of zinc and other nutrients. We also looked for any harms, such as vomiting.\\n\\nHow did we find and evaluate the evidence?  \\nWe searched several databases for randomised controlled trials (RCTs) that compared zinc supplements with no supplement, placebo, or a waiting‑list control in children 6 months‑12 years. Two reviewers screened each study, extracted the data, and assessed the risk of bias. We combined the results in a meta‑analysis and used the GRADE system (a method for rating how confident we are in the evidence) to judge certainty. “Moderate‑certainty evidence” means we are fairly confident in the result but further research could change it.\\n\\nWhat did we find?  \\nWe identified 96 RCTs that included 219 584 children, most of whom were under five years old. The trials were carried out in 34 countries; 87 of the 96 studies were conducted in low‑ or middle‑income settings. Most studies gave zinc as a syrup containing zinc sulfate at a daily dose of 10–15 mg and followed children for a median of 26 weeks. No trial and examined zinc fortification, sprinkles, therapeutic zinc use, or children who were hospitalised or chronically ill.\\n\\nImpact on child mortality and health  \\n– Zinc probably reduces deaths caused by lower‑respiratory‑infections (including pneumonia) and malaria.  \\n– Zinc makes little or no difference to overall death rates, deaths from diarrhoea, or the overall rate of respiratory illness.  \\n– Zinc probably lowers the number of diarrhoea episodes slightly.  \\n– Zinc likely adds a small increase in height.  \\n– Zinc increases the chance that a child will experience vomiting.\\n\\nLimitations of the evidence  \\nWe are moderately confident in the findings, but there are not enough studies to be certain about many outcomes, especially long‑term effects and cause‑specific mortality. Evidence on zinc taken together with iron is limited, and those studies suggest the benefits become weaker.\\n\\nHow current is the evidence?  \\nThis review updates our previous work and includes studies searched up to February 2022.\"",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 579,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.125,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 65,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 62.096311528497424,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.5914615716753,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.123847150259067,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.554611398963733,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.834801381692575,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.68631260794473,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.166666666666667,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.219544457292887,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 8.232558549222798,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 258,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 258.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 104,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 148,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 579,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 579 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 5,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the critical style check: the \"Limitations of the evidence\" subheading is not phrased as a question (e.g., \"What are the limitations of the evidence?\"). This breaches the Master Style Guide requirement that all subheadings be questions. Additionally, several clarity and style issues could confuse readers:\n1. **Unexplained jargon** – terms like \"mortality\", \"morbidity\", \"RR\" and \"GRADE\" appear without plain-language definitions, making the text hard for a lay audience.\n2. **Passive voice and typo** – sentences such as \"No trial and examined zinc fortification\" contain a typo and passive constructions that obscure who did what.\n3. **Noun‑heavy wording** – the draft has a high noun count (186, P90) and many complex words (258 Dale‑Chall unfamiliar words, P90), leading to dense sentences.\n4. **Unclear uncertainty** – statements that zinc \"probably reduces deaths\" do not convey the wide confidence intervals, leaving readers unsure about the strength of the evidence.\n\nSuggested concrete rewrites:\n- Change subheading to: \"What are the limitations of the evidence?\"\n- Define jargon: replace \"mortality\" with \"death rates (how many children die)\" and \"RR\" with \"risk ratio, a way of comparing how often an outcome happens in the zinc group versus the no‑zinc group\"; add a brief note on GRADE.\n- Rewrite passive/typo sentence: \"No trial examined zinc fortification, sprinkles, therapeutic zinc use, or children who were hospitalised or chronically ill.\" (active voice).\n- Reduce noun density: e.g., \"Zinc probably lowers the number of diarrhoea episodes and may increase height a little, but it does not clearly lower overall death rates.\" (shorter, more verb‑focused).\n- Clarify uncertainty: \"The evidence suggests zinc may lower deaths from pneumonia and malaria, but the confidence intervals are wide, so we cannot be sure of the exact effect.\"\n\nMetrics support these suggestions: the high noun count (186, P90) and high Dale‑Chall score (8.23, P90) indicate the text is more noun‑heavy and uses many unfamiliar words than typical PLSs, confirming the need to simplify language and increase active‑voice constructions (currently 65 active vs 11 passive, but the passive instances still affect flow).",
+      "pls_evaluation_summary": "The draft shows good overall conformity (55.6% best‑quartile features). However, three metrics deviate: nouns (186, P90), Dale‑Chall readability (8.23, P90) and complex_words_dc (258, P90), indicating the text is noun‑heavy and uses many difficult words. These deviations align with the identified clarity and style issues."
+    }
+  ]
+}

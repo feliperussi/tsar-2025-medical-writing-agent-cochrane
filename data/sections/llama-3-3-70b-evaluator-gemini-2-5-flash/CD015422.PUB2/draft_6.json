@@ -1,0 +1,162 @@
+{
+  "id": "CD015422.PUB2",
+  "draft": "Do topical repellents help prevent malaria infection in people living in areas where malaria is common? We looked at studies that compared the use of topical repellents with no repellent or with other methods of preventing malaria. Topical repellents may slightly reduce the risk of getting malaria in people living in areas where malaria is common, but the evidence is not strong enough to be certain. The potential benefits of topical repellents are more likely to be seen in people who are at high risk of getting malaria, such as refugees or those who do not have access to other ways of preventing mosquito bites. More research is needed to fully understand the effects of topical repellents, particularly in different groups of people and settings, to determine their role in preventing malaria.\n\nWhat is malaria and why is it a problem? Malaria is a serious disease caused by a parasite (a tiny living thing) that is transmitted through the bite of an infected mosquito. It is a major health problem in many parts of the world, particularly in areas with high mosquito populations. Common treatments for malaria include medications such as antimalarial drugs, as well as preventive measures like insecticide-treated bed nets and indoor residual spraying. However, these measures may not be effective in all situations, such as for people who spend a lot of time outdoors or in areas where mosquitoes are resistant to insecticides.\n\nWhat did the review authors want to find out? The review authors wanted to find out whether topical repellents, which are applied directly to the skin, can help prevent malaria infection in people living in areas where the disease is common. They looked at studies that compared the use of topical repellents with no repellent or with other methods of preventing malaria, and they wanted to know whether these repellents can reduce the number of malaria cases in different populations, including those at high risk of infection such as refugees, military personnel, and forest workers.\n\nWhat did we find? We found 8 relevant trials. Our main results are based on combining the data from 6 of these trials, which included over 61,000 people. Repellents may be most helpful for people at high risk of malaria, like refugees, who cannot use other methods like bed nets or indoor sprays to prevent mosquito bites. The studies we found were conducted around the world and often included high-risk groups like refugees. In the studies, researchers compared people using repellents to people using no repellent or other methods like bed nets. Our analysis showed that using a topical repellent may slightly reduce a person’s chance of getting sick with malaria. Topical repellents are considered safe, with a very low prevalence of adverse events.\n\nHow reliable is the evidence? We have limited confidence in the evidence for a few reasons. In some studies, people knew if they were using a real repellent, which might have changed their behavior. Some studies also didn’t report all their results, and others included too few people to give us a clear answer.\n\nWhat are the implications of the findings? More research is needed to fully understand the effects of topical repellents, particularly in different groups of people and settings, to determine their role in preventing malaria. The potential additional benefits of topical repellents are most likely limited in contexts where other interventions are available.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 571,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.392857142857142,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 55,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 163,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 163.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 47.161118651488636,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.747452464348264,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.011227170377786,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.76749562171629,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.423342506880157,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 50.51544908681511,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.142857142857143,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.090536506409418,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.095198498874155,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 220,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 118,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 118.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 172,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 172.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 571,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 571 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 7,
+        "P75_count": 2,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is not approved because it fails critical structural and completeness checks. \n\n1. **Missing Required Sections & Headings:** The summary is presented as a single block of text. It is missing a main title, a 'Key messages' section, and a currency statement ('How up to date is this review?'). It also fails to use the required question-based subheadings (e.g., 'What did we find?', 'How reliable is the evidence?') to structure the content, making it difficult for readers to navigate.\n\n2. **Complex Vocabulary:** The text uses technical terms without explanation, which can confuse a lay audience. This is the most important clarity issue to address.\n   - **Quote:** \"...with a very low prevalence of adverse events.\"\n   - **Problem:** 'Prevalence' and 'adverse events' are clinical terms. Readers may not understand them.\n   - **Suggestion:** Replace with simpler language. For example: \"Topical repellents are considered safe. Very few people had side effects, and these were mostly mild skin reactions.\"\n\n3. **Wordy and Vague Phrases:** Some sentences could be more concise and direct to improve readability.\n   - **Quote:** \"More research is needed to fully understand the effects of topical repellents, particularly in different groups of people and settings, to determine their role in preventing malaria.\"\n   - **Problem:** This sentence is long and uses a generic, wordy construction.\n   - **Suggestion:** Make it more direct. For example: \"We need more research to know how well topical repellents work for different people and in different places.\"\n\n4. **Inconsistent Detail:** The results section is vague compared to the specific data available.\n   - **Quote:** \"Our analysis showed that using a topical repellent may slightly reduce a person’s chance of getting sick with malaria.\"\n   - **Problem:** This is correct but lacks the important context that the evidence is of low certainty.\n   - **Suggestion:** Add the certainty level from the abstract. For example: \"Based on low-certainty evidence, our analysis showed that using a topical repellent may slightly reduce a person’s chance of getting sick with malaria.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows good conformity in some areas, such as sentence length and use of active voice. However, it flags significant deviations in vocabulary complexity. Five metrics—'nouns', 'smog_index', 'complex_words_dc', 'complex_words', and 'long_words'—are in the P90 range, indicating the text uses more complex and long words than is typical for a Plain Language Summary. The SMOG index of 14.1 suggests the text requires a 14th-grade reading level, which supports the editorial feedback to simplify technical terms like 'prevalence' and 'adverse events' to improve readability for a general audience."
+    }
+  ]
+}

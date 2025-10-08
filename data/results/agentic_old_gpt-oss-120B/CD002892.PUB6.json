@@ -1,0 +1,155 @@
+{
+  "file_id": "CD002892.PUB6",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Are personal stress‑relief programs effective at reducing work‑related stress in health‑care workers?\n\nKey messages  \n- Personal stress‑relief programs such as mindfulness, relaxation training, or exercise may lower self‑reported work‑related stress (physical, mental or emotional tension or strain) for up to a year after the program ends. No harmful effects were reported, but confidence in these findings is limited because many studies had design problems, such as participants knowing which group they were in.  \n- Programs that combine two or more techniques (for example) may produce a larger short‑term reduction (up to three months) in stress, yet the evidence remains uncertain and we have little information about longer‑term effects or about interventions that try to change individual work‑related risk factors.  \n- Future research should use larger, well‑designed randomised controlled trials (RCTs = studies that assign participants to groups by chance) with proper randomisation (assigning participants by chance) and blinding (keeping participants unaware of which group they are in). Trials should follow participants for longer periods and record any possible side effects.\n\nWhy is stress among health‑care workers a concern?  \nPeople who work in hospitals, clinics, and other health‑care settings often face heavy workloads, tight deadlines, and high emotional demands. When job demands exceed a worker’s skills or the support they receive (social support = a network of family, friends, and colleagues), they can develop occupational stress (stress that comes from the demands of a job). Over time, stress can turn into burnout (a state of emotional, mental, and physical exhaustion) and can cause psychosomatic problems (physical symptoms caused or worsened by mental or emotional factors) such as headaches, sleep problems, or stomach upset. Stressed staff may improve less quickly, make more errors, and show reduced compassion for patients.\n\nWhat kinds of help are offered to reduce stress for individual health‑care workers?  \nWe identified several individual‑level interventions (programs that target a single person’s thoughts, behaviours, or skills). Some teach people to notice and work with their thoughts and feelings (for example, mindfulness or cognitive‑behavioural techniques). Others help people shift attention away from stress by relaxing, exercising, or using other distraction methods. A few try to change small work‑related risk factors that an individual can control, such as workload or autonomy. Some programmes combine two or more of these approaches. All of these are stress‑reduction interventions (any program, technique, or activity designed to lower a person’s stress levels).\n\nWhat did the review aim to find out?  \nWe wanted to know whether these individual‑level stress‑reduction programmes actually lower stress symptoms in health‑care workers. We compared each programme with no intervention or a wait‑list (a control group that receives the programme later), with a placebo (something that looks like the treatment but contains no active ingredient), or with a different type of stress‑reduction programme. We examined short‑term effects (up to three months after the programme = the intervention ends), medium‑term effects (more than three months up to twelve months), and long‑term effects (more than twelve months).\n\nHow did we find the evidence?  \nWe performed a systematic search of databases such as CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and Web of Science. We included randomised controlled trials that measured stress using self‑reported questionnaires (surveys that participants fill out themselves). We pooled results with a random‑effects model and expressed differences as a standardised mean difference (SMD = a statistical measure that shows how much two groups differ on average, expressed in units of standard deviation). We assessed certainty of evidence with the GRADE approach, which rates confidence as high, moderate, low, or very low.\n\nWhat did we find?  \nWe included 117 trials involving 11,119 health‑care workers. The trials tested four types of programmes: (1) those that help people focus on the experience of stress (e.g., mindfulness), (2) those that direct attention away from stress (e.g., relaxation or exercise), (3) those that try to change individual work‑related risk factors, and (4) combinations of two or more techniques. All programmes = interventions were compared with no intervention, wait‑list, placebo, or another programme.\n\nOverall, the evidence suggests that individual‑level stress‑reduction programmes probably lower stress symptoms in the short term and may also help in the medium term. This applies to programmes that focus on the experience of stress, those that shift attention away, and combined programmes. However, the certainty of the evidence is low (low‑certainty evidence = findings that are not very reliable because of small sample sizes or design flaws). Interventions that aim to change work‑related risk factors have very uncertain effects, and we have little reliable information about long‑term benefits (beyond a year).\n\nWhat are the limitations of the evidence?  \nMany participants knew which group they were in, which can introduce bias (flaws that favour one conclusion). Most studies were small, which reduces precision (the confidence interval = a range of numbers likely to contain the true effect). Few trials reported side effects, and follow‑up periods were often short.\n\nWhat should future research do?  \nWe recommend larger, well‑designed trials that use proper randomisation and blinding, report all outcomes including possible harms, and follow participants for longer periods. Such studies will increase the certainty = confidence in the evidence and help us understand whether personal stress‑relief programmes provide lasting benefits for health‑care workers.\n\nWhen was the evidence last updated?  \nThe review includes studies published up to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 917,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 44,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.84090909090909,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 104,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 62,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 38,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 38.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 275,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 275.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.3514881778527,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.4374092891841,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.621054327352041,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.031930207197384,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.885981956974323,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.720952711410725,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.2272727272727275,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.806248474865697,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.33464693169426,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 424,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 424.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 196,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 274,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 274.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 917,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 917 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 4,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:49.044395"
+}

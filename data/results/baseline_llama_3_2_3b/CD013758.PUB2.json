@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013758.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of high-protein formula for healthy term infants?**\n\nMany infants are fed infant formulas to promote growth. Some formulas have a high protein content (≥ 2.5 g per 100 kcal) to accelerate weight gain during the first year of life. The risk-benefit balance of these formulas is unclear.\n\n**What did we want to find out?**\n\nWe wanted to evaluate the benefits and harms of higher protein intake versus lower protein intake in healthy, formula-fed term infants. We aimed to find out whether feeding healthy infants high-protein formula compared to standard-protein formula has any effect on undernutrition, overweight, or obesity.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2022.\n\n**Key Messages:**\n\n* We found very low-certainty evidence that feeding healthy term infants high-protein formula compared to standard-protein formula has little or no effect on underweight, stunting, and wasting in the first year of life.\n* We found very low-certainty evidence that feeding healthy infants high-protein formula compared to standard-protein formula has little or no effect on the occurrence of overweight or obesity at five years of follow-up.\n* We are unsure if feeding healthy infants high-protein formula compared to standard-protein formula has an effect on undernutrition, overweight, or obesity.\n* There may be little or no difference in the risk of adverse effects between infants fed with high-protein formula versus those fed with standard-protein formula.\n* We are unsure if feeding healthy infants standard-protein formula compared to low-protein formula has any effect on undernutrition.\n* There may be little or no difference in the risk of adverse effects between infants fed with standard-protein formula versus those fed with low-protein formula.\n\n**What did we do?**\n\nWe searched for studies that compared high-protein formula against standard-protein formula in healthy term infants. We included 11 RCTs (1185 infants) and found very low-certainty evidence that high-protein formula has little or no effect on underweight, stunting, and wasting in the first year of life. We also found very low-certainty evidence that high-protein formula has little or no effect on the occurrence of overweight or obesity at five years of follow-up.\n\n**What are the limitations of the evidence?**\n\nWe are unsure if feeding healthy infants high-protein formula compared to standard-protein formula has an effect on undernutrition, overweight, or obesity. There may be little or no difference in the risk of adverse effects between infants fed with high-protein formula versus those fed with standard-protein formula. We are unsure if feeding healthy infants standard-protein formula compared to low-protein formula has any effect on undernutrition. There may be little or no difference in the risk of adverse effects between infants fed with standard-protein formula versus those fed with low-protein formula.\n\n**How accurate are rapid swab tests for strep throat in children?**\n\n(Note: This question is not relevant to the original abstract, but I added it to demonstrate the PLS format)\n\nThis review evaluated the benefits and harms of higher protein intake versus lower protein intake in healthy, formula-fed term infants. The review found that high-protein formula has little or no effect on underweight, stunting, and wasting in the first year of life, and also has little or no effect on the occurrence of overweight or obesity at five years of follow-up. However, the review is unsure if high-protein formula has an effect on undernutrition, overweight, or obesity, and also unsure if standard-protein formula has any effect on undernutrition. The review also found that there may be little or no difference in the risk of adverse effects between infants fed with high-protein formula versus those fed with standard-protein formula, and also between infants fed with standard-protein formula versus those fed with low-protein formula.\n\nPlease note that this is a manual transformation and may not be perfect. If you need a more accurate transformation, I can try to help you with a different tool or method.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 727,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.64864864864865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 24,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 212,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 212.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.53316219933828,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.673798282464034,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.804076731477004,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.670041265474548,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.892471839101825,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.93613145470091,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.54054054054054,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.63014581273465,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.099442298970222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 282,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 282.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 146,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 146.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 242,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 727,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 727 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:47.934922"
+}

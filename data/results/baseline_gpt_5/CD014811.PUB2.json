@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nContinuous drip or single injections of loop diuretics (strong water tablets given into a vein): which works better for acute heart failure (a sudden worsening of heart failure)?\n\nKey Messages\n- We did not find clear differences between a continuous drip and single injections for adults in hospital with acute heart failure. Both methods seem to work about the same for key outcomes such as chances of dying, going back to hospital, and kidney problems. Side effects were not well reported, but kidney problems happened at similar rates with both methods.\n- We do not know if one method removes more fluid or leads to more weight loss, or if it shortens time in hospital. Results differed between studies, and some outcomes were not measured in the same way.\n- We did not find enough good-quality evidence to be sure about small differences between these methods. Future research should include larger, well-run studies that measure outcomes important to people, report side effects clearly (for example hearing problems, low blood pressure, and salt level changes), and compare clear dosing plans.\n\nIntroduction to the review topic and review aims\n\nWhat is acute heart failure?\nAcute heart failure is an acute condition, which means it develops suddenly and lasts a short time. It is a sudden worsening of heart failure. People often have a build-up of fluid in the lungs and body. This causes breathlessness, swelling, and tiredness. Most people need hospital care to remove the extra fluid and ease symptoms quickly.\n\nHow do loop diuretics help?\nLoop diuretics are strong water tablets. In hospital they are usually given into a vein to work faster. They help your body pass extra salt and water in urine. Doctors can give them as a continuous drip (a slow, steady flow into a vein) or as single injections given one at a time (also called bolus injections).\n\nWhat did we want to find out?\nWe wanted to find out whether a continuous drip or single injections of loop diuretics work better and are safer for adults in hospital with acute heart failure. We looked at benefits such as symptom relief, weight or fluid loss, time in hospital, and whether people needed to come back to hospital. We also looked at unwanted effects, such as kidney injury.\n\nWhat did we do?\nWe searched for studies that compared continuous drips with single injections of loop diuretics in adults with acute heart failure. We combined and summarized the results and judged how much confidence we can have in the evidence.\n\nWhat did we find?\n\nStudy characteristics\nWe found 7 studies from 32 hospitals in 7 countries across North America, Europe, and Asia. In total, 681 adults in hospital with severe symptoms of heart failure took part. All had fluid overload. The studies collected data over periods ranging from months to several years. The treatments compared were continuous drip versus single injections of the same type of medicine given into a vein. The studies took place in hospital settings. The abstract did not report who funded the studies.\n\nMain results\n- Deaths from any cause: Continuous drips may make little to no difference compared with single injections.\n- Readmission to hospital: Continuous drips may make little to no difference to the chance of returning to hospital after discharge.\n- Kidney problems: Continuous drips may make little to no difference to the chance of acute kidney injury (a sudden drop in how well the kidneys work).\n- Weight loss and fluid removal: It is unclear if continuous drips lead to more weight or fluid loss. Some results suggested a benefit in the first day, but findings were mixed and not consistent after that.\n- Time in hospital: It is unclear if continuous drips change how long people stay in hospital.\n- Heart-related deaths: No study measured deaths caused by heart problems.\n- Other side effects: Some studies mentioned hearing problems, low blood pressure, or abnormal blood salts, but they reported these in different ways and not often. We cannot tell if one method is safer for these side effects.\n\nWhat do these findings mean for people?\nFor most important outcomes, both methods appear to work about the same. We do not have enough reliable information to say that one way of giving loop diuretics is better overall. People and clinicians may choose based on comfort, monitoring needs, and local practice, while keeping in mind that clear differences have not been shown.\n\nWhat are the limitations of the evidence?\nWe have little confidence in some results because the studies were small and used different ways to measure outcomes. Some studies had methods that may affect how reliable the results are. Results were not always consistent across studies. Not all outcomes that matter to people, such as heart-related deaths and clear reporting of side effects, were measured or reported.\n\nHow up to date is this evidence?\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 853,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 53,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.09433962264151,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 86,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 252,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 252.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 66.02913977305406,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.047870999137341,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.57692362140282,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.775568581477135,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.111827291026124,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.361631533544205,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.9056603773584904,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.862780491200215,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.055442199562035,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 284,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 284.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 121,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 207,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 207.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 853,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 853 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:47.585000"
+}

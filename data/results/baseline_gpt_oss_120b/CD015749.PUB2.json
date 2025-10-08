@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs a combined program of medicines, nutrition advice, and exercise helpful for people with disease‑related wasting (cachexia)?\n\nKey Messages  \n- We found no clear evidence that a combined program of medicines, nutrition, and exercise improves strength, physical ability, weight, appetite, fatigue, quality of life, or other health measures in people with cachexia, and the studies did not report any consistent harmful effects.  \n- The evidence comes from nine small studies that included about 900 adults with cancer, COPD, kidney disease, or HIV/AIDS; all of these studies had important limitations, so we are not confident in the results.  \n- More large, well‑designed studies are needed to determine whether such combined programs can really help people with cachexia.\n\nWhat is cachexia and why does it matter?  \nCachexia (disease‑related wasting) is a condition where people with long‑term illnesses lose weight and muscle even when they try to eat enough. It often causes fatigue, loss of appetite, and a lower quality of life. Conditions that can lead to cachexia include cancer, HIV/AIDS, kidney disease, heart disease, and chronic lung disease (COPD).  \n\nWhat are multimodal interventions?  \nA multimodal intervention tries to treat cachexia by using two or more approaches together, such as medicines that affect metabolism, nutrition counseling or supplements, and exercise programs. The idea is that the different parts might work together to give a bigger benefit than any one part alone.\n\nWhat did we want to find out?  \nWe wanted to know whether these combined programs help people with cachexia feel stronger, move better, gain or keep weight, eat more, feel less tired, and have a better quality of life, and whether they cause any extra harms.\n\nWhat did we do?  \nWe searched several medical databases and trial registers for studies up to July 2024 that compared a combined program of medicines, nutrition, and/or exercise with usual care, a different version of the program, or a single‑component program. We then combined the findings from the eligible studies and judged how much confidence we could have in the evidence.\n\nWhat did we find?  \nWe found nine studies that together included 926 adults (average age about 63 years). The studies were done in Europe, Turkey, New Zealand, and the United States. Six studies involved people with cancer, and one each involved people with COPD, chronic kidney disease, or HIV/AIDS. The studies varied in how long the programs lasted, from a few weeks to several months, and many had small numbers of participants.\n\nWhen we looked at the results, the evidence was very uncertain. It is unclear whether the combined programs improve physical function, muscle strength, body composition, body weight, appetite, fatigue, quality of life, or laboratory markers of disease. The studies also did not show a clear increase or decrease in side‑effects, and harms were not consistently reported.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because the studies did not randomly assign people to the different groups in a way that prevents bias, because the participants and interventions were not always similar to the broader group of people with cachexia, and because the studies were small and provided limited data.\n\nHow up to date is this evidence?  \nThe evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 569,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.966666666666665,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 58.37926391329822,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.828441124780316,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.939519625073224,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.962249560632689,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.389830111306384,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.1406561218512,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.533333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.04987562112089,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.796089373169303,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 211,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 111,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 166,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 569,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 569 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:09.963710"
+}

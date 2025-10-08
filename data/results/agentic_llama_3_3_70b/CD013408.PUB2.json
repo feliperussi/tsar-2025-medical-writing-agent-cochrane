@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Do organised care services reduce deaths and hospital stays for people with atrial fibrillation compared to usual care?\n\n- Organised care services probably reduce deaths from all causes for people with atrial fibrillation, but may make little to no difference to hospital stays.\n- The quality of the evidence is not strong, and more research is needed to confirm these findings and compare different models of care organisation, including the use of digital health technologies.\n- Future studies should investigate the long-term effects of organised care services on people with atrial fibrillation and explore the impact of different care models on patient outcomes.\n\nWhat is atrial fibrillation and why is it a problem?\nAtrial fibrillation, also known as AF, is a common heart rhythm condition in adults. It occurs when the upper chambers of the heart beat too quickly and irregularly, which can lead to symptoms such as palpitations, shortness of breath, and fatigue. AF can increase the risk of stroke, heart failure, and other heart-related problems.\n\nWhat are the current approaches to managing atrial fibrillation?\nCurrent approaches to managing AF include collaborative, organised multidisciplinary, and virtual models of care. These approaches aim to provide evidence-based care for people with AF, but it is unclear which approach is most effective.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of clinical service organisation for AF compared to usual care for people with all types of AF. They aimed to determine whether organised AF clinical services can reduce all-cause mortality, all-cause hospitalisation, and other cardiovascular outcomes.\n\nHow did the review authors search for evidence?\nWe searched for studies comparing organised clinical service models for adults with atrial fibrillation to usual care. We included studies that compared organised clinical service models for adults with atrial fibrillation against usual care.\n\nWhat did the review authors find?\nWe found 8 studies that involved 8205 people with atrial fibrillation. The average age of participants ranged from 60 to 73 years. The studies were conducted in China, the Netherlands, and Australia. Organised clinical services for adults with atrial fibrillation probably cause a large reduction in all-cause mortality. Organised clinical services probably make little to no difference to all-cause hospitalisation.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding and by the small sample sizes of the studies, which reduce precision and increase the risk of bias and random error.\n\nIs the evidence up to date?\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 444,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 37,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 25,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.67641891891893,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.344819819819822,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.571554054054054,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.251621621621616,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.048648648648648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.45495495495496,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.541666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.486832980505138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.28338828828829,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 179,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 444,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 444 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 5,
+      "P75_count": 6,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:10.867846"
+}

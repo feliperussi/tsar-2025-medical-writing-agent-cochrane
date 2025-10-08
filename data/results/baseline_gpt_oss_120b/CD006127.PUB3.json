@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Is tighter blood pressure control helpful for preventing eye problems in people with diabetes?\n\nKey messages  \n- More intensive blood pressure control probably lowers the chance that people with diabetes develop eye disease (diabetic retinopathy) over about five years, especially for those who already have high blood pressure. It does not clearly stop existing eye disease from getting worse.  \n- The same approach may slightly reduce the risk of death, but it can increase the chance of low blood pressure (hypotension), which can cause dizziness or fainting.  \n- Because the evidence is limited for people with normal blood pressure and for many other eye‑related outcomes, more well‑designed studies are needed to know who benefits most and whether any harms outweigh the benefits.\n\nWhat is diabetic retinopathy and why does it matter?  \nDiabetic retinopathy is damage to the tiny blood vessels in the eye that can happen to people with diabetes. It is a common cause of blurry vision and blindness. Keeping blood sugar under control helps, and doctors have also suggested that controlling blood pressure might protect the eyes, but the research has shown mixed results.\n\nWhat did the researchers want to find out?  \nThe review team wanted to see whether strategies that lower blood pressure better than usual care can prevent new cases of diabetic retinopathy, slow its progression, preserve sharp vision, improve quality of life, and affect safety or costs for people with type 1 or type 2 diabetes.\n\nWhat did we do?  \nWe searched electronic databases and trial registries for studies that compared more intense blood‑pressure control with less intense control or usual care. We combined the findings from the eligible studies and judged how confident we were in the overall evidence.\n\nWhat did we find?  \n\nWe identified 29 studies that together included about 27,000 people with diabetes (both type 1 and type 2). The studies were carried out in many countries across North America, Europe, Asia, Africa, Australia and the Middle East. Follow‑up periods ranged from less than a year to nine years, and the ways blood pressure was lowered varied (different medicines, targets, or treatment plans). Some studies were funded by drug companies, others by mixed or unknown sources.\n\nMain results  \n\n- For people with diabetes, more intensive blood‑pressure control probably reduces the chance of developing diabetic retinopathy over five years.  \n- When looking at both new cases and worsening of the disease together, the evidence suggests the intervention may reduce these outcomes, but we are less certain.  \n- For people who already have diabetic retinopathy, tighter blood‑pressure control probably makes little to no difference in how quickly the disease gets worse.  \n- For serious eye complications such as proliferative retinopathy, macular swelling, or bleeding inside the eye, the intervention may make little to no difference.  \n- For loss of sharp vision (loss of three or more lines on an eye chart), we are not confident that blood‑pressure control has any effect.  \n- Regarding safety, tighter blood‑pressure control probably reduces the chance of death slightly, but it may increase the risk of low blood pressure (hypotension), which can cause dizziness or fainting.\n\nWhat are the limitations of the evidence?  \n\nWe are moderately confident in the finding that intensive blood‑pressure control reduces new eye disease because many studies were fairly well done, though some were small and used different methods. We have little confidence in the combined outcome of incidence and progression because the studies were fewer and varied more. We are not confident about the effect on vision loss because only a few small studies looked at this outcome.\n\nHow up to date is this evidence?  \nThe evidence is up to date to September 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 629,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.29032258064516,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 177,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.12108569670241,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.332764757167038,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.08204523308887,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.6641653418124,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.793394533052975,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.38412226268014,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.903225806451613,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.9498743710662,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.0563046104928455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 241,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 241.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 105,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 183,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 183.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 629,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 629 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:55.766240"
+}

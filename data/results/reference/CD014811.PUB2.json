@@ -1,0 +1,158 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "reference",
+  "source_fields": [
+    "pls"
+  ],
+  "text": "Is the use of continuous infusion of loop diuretics better than bolus injections for acute heart failure?\n\nKey messages\n– The use of continuous infusion over bolus injection of loop diuretics may result in little to no difference in all the outcomes we measured.\n– The use of continuous infusion over bolus injection of loop diuretics may result in little to no difference in harmful side effects.\n– Our research suggests there may be little to no difference between how loop diuretics are delivered. Future studies should focus less on how they are given and more on how they work for patients outside the hospital setting. We should also take into consideration patient preference and quality of life.\nWhat is acute heart failure?\n\nAcute heart failure is a medical condition that impairs the heart's ability to pump blood effectively throughout the body. As a result, the body perceives a lack of blood and compensates by retaining water to increase blood volume. However, this extra volume does not help and it puts additional strain on the heart, leading to breathlessness, fatigue, and swelling of the legs.\nHow is acute heart failure treated?\n\nDiuretic medicines (sometimes called water tablets) help by reducing the extra water in the body. Loop diuretics are a specific type of diuretic that act on a specific part of the kidneys and are often administered directly into the bloodstream using a cannula, which is a thin plastic tube that is inserted into a blood vessel. This process may require several days and several doses of diuretics to eliminate the excess water that has accumulated in the body.\nWhat did we want to find out?\n\nWe wanted to examine and compare two different approaches to administering the loop diuretics: slow administration over an extended period of time (continuous) and administering the loop diuretic in several individual doses (bolus) to assess if one delivery method was better than the other.\nWhat did we do?\n\nWe scrutinised over 3400 journal articles and identified seven trials that met our criteria for analysis. We evaluated these trials for any reported changes in bodyweight, probability of death (mortality), duration of hospitalisation, chance of readmission to hospital after being discharged, and whether one delivery method had any harmful effects on the kidneys compared to the other.\nWhat did we find?\n\nWe identified seven studies involving 681 adults aged over 18 years who received treatment in a hospital. The participants' average age ranged from 57 to 82 years. These studies were conducted across 32 hospitals in the USA, Canada, Spain, Sweden, India, Turkey, and China between 2010 and 2021, with data collection durations spanning from eight months to six years. The largest study involved 308 participants, while the smallest included 40 participants.\nAfter our analysis, we found that intervention with either delivery method, continuous or bolus, may make little to no difference in:\n– change in bodyweight (evidence from 5 studies in 497 people);\n– probability of mortality (evidence from 5 studies in 530 people);\n– duration of hospitalisation (evidence from 4 studies in 211 people);\n– chance of readmission to hospital after being discharged (evidence from 3 studies in 400 people);\n– harmful effects on the kidneys (evidence from 3 studies in 491 people).\nOverall, we have little confidence in the evidence because the numbers of studies and participants were small and it is possible that people in the studies were aware of which treatment they were getting.\nWhat are the limitations of the evidence?\n\nDespite reviewing numerous journal articles, only seven studies met the criteria to answer our question. Some of the included studies had sections that were not described well, and made the evidence less reliable.\nHow up to date is this evidence?\n\nThis evidence is up to date to 29 February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 649,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.178571428571427,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 35,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.69734784283514,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.504188311688313,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.584401276689412,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.91864406779661,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.40702179176756,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.76254677525864,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.857142857142857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.40175425099138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.013124014968084,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 241,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 241.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 132,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 132.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 192,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 192.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 649,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 649 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 6,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:47.566687"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can combined treatments help manage cachexia better than a single treatment or standard care?\n\nKey messages:\n- We do not know if combined treatments are better than single treatments or standard care for managing cachexia, because the evidence is not strong enough.\n- Multimodal interventions may have some effects on symptoms like fatigue, but we are very uncertain about this.\n- More research is needed to find out if multimodal interventions are effective and safe for people with different types of chronic illnesses.\n\nWhat is cachexia and why is it a problem?\nCachexia is a condition where the body wastes away due to chronic illness, such as cancer or HIV/AIDS. It causes unintentional weight loss, muscle loss, fatigue, loss of appetite, and reduced quality of life. Cachexia is a significant problem because it can lead to a decline in physical function, strength, and overall health.\n\nWhat are multimodal interventions and how might they help with cachexia?\nMultimodal interventions combine different treatments, like medication, nutrition, and exercise, to manage a condition. For cachexia, these interventions aim to alleviate or stabilize the condition by addressing its multiple causes and symptoms. They may include a combination of medications, nutritional supplements, physical therapy, and counseling.\n\nWhat did we want to find out?\nWe wanted to assess the benefits and harms of multimodal interventions for managing cachexia in people with chronic illnesses. We aimed to determine whether these interventions can improve physical function, strength, quality of life, and other outcomes.\n\nHow did we find the evidence?\nWe searched for studies on multimodal interventions for cachexia management and rated our confidence in the evidence. We found 9 studies that involved 926 adults with a mean age of 63 years. The studies were conducted in several countries and lasted from 6 weeks to 7 months.\n\nWhat did we find?\nWe found insufficient evidence to support or refute the use of multimodal interventions in managing cachexia. It is unclear if multimodal interventions have an effect on outcomes such as physical function, strength, adverse events, body composition, weight, quality of life, appetite, fatigue, and biochemical markers.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were small and did not cover all relevant groups or outcomes. We need more research to find out if combined treatments are effective and safe for people with different types of chronic illnesses. The current evidence is not strong enough to support or refute the use of multimodal interventions in managing cachexia.\n\nIs the evidence up to date?\nThe evidence is up to date to July 2024. We will continue to monitor new research to update our findings.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 456,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.88888888888889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 121,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.733567251462006,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.378684210526316,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.44049707602339,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.692631578947367,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.702923976608188,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.880116959064324,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.7407407407407405,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.099504938362077,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.209092397660818,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 184,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 456,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 456 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:16.316842"
+}

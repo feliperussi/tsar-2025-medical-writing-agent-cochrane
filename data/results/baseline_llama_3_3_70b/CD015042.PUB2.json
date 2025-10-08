@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015042.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can psychosocial interventions or medications help pregnant women stop or reduce drinking alcohol?\n\nKey messages:\n- Psychosocial interventions, such as brief counseling sessions, may help some pregnant women stop drinking alcohol, but the evidence is not very strong.\n- We did not find any studies that looked at whether medications can help pregnant women stop drinking alcohol.\n- More research is needed to understand what works best to help pregnant women stop drinking alcohol, and to make sure that any treatments used are safe.\n\nWhat is alcohol use during pregnancy?\nAlcohol use during pregnancy is a significant health concern. Despite the known risks, many pregnant women still drink alcohol. The rates of alcohol use during pregnancy vary across different countries, with estimates suggesting that around 10% of pregnant women globally, and up to 25% in Europe, consume alcohol during pregnancy.\n\nWhat did we want to find out?\nWe wanted to know whether psychosocial interventions, such as counseling or behavioral therapy, or medications can help pregnant women stop or reduce their alcohol consumption.\n\nWhat did we do?\nWe searched for studies that compared different interventions, such as psychosocial interventions or medications, to help pregnant women stop or reduce their alcohol use. We also looked at studies that compared these interventions to no treatment or usual care.\n\nWhat did we find?\nWe found eight studies that included a total of 1369 pregnant women who received an intervention to help them stop or reduce their alcohol use. Most of these studies took place in the United States, and the interventions were mainly brief counseling sessions. We found that psychosocial interventions may help some pregnant women stop drinking alcohol, but the evidence is not very strong. We also found that these interventions may have little to no effect on the amount of alcohol consumed per day, but again, the evidence is not very certain.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies we found had some methodological limitations, and the results were not very consistent. Additionally, we did not find any studies that looked at the safety of these interventions, which is an important consideration for pregnant women.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to January 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 400,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 24,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.666666666666668,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 99,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 52.44333333333336,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.085,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.029433333333337,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.294799999999999,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.866666666666669,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.916666666666664,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.708333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.717797887081348,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.313691666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 139,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 72,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 113,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 400,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 400 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:36.670477"
+}

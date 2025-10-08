@@ -1,0 +1,162 @@
+{
+  "id": "CD008550.PUB3",
+  "draft": "What are the effects of medicines in treating gastro-oesophageal reflux (a condition where stomach acid flows back into the throat) in children?\n\nKey Messages\n- We don't know for sure how well medicines work for children with gastro-oesophageal reflux.\n- There is not enough good evidence to know if specific drugs—like omeprazole, esomeprazole, or other proton pump inhibitors (medicines that reduce stomach acid)—are helpful.\n- For children with more severe reflux (called GORD), it's also unclear if these medicines help. GORD is when reflux causes symptoms bad enough to need treatment. More research is needed to know for sure.\n\nWhat is gastro-oesophageal reflux in children?\nGastro-oesophageal reflux (GOR) is a condition where the stomach contents flow back up into the oesophagus, causing symptoms such as regurgitation. It is a common problem in infants, affecting approximately 50% of those under three months old, and can also occur in older children. While GOR often improves with age, some children may experience more persistent symptoms, particularly if they have other medical conditions.\n\nWhy is gastro-oesophageal reflux a problem?\nGOR can be a self-limiting condition, but for some children, it can lead to more severe symptoms and complications. We need to distinguish between GOR and gastro-oesophageal reflux disease (GORD). When reflux causes symptoms bad enough to need treatment, it is called GORD. Guidelines from the National Institute of Health and Care Excellence (NICE) say it is important to treat GORD.\n\nWhat are the common treatments for gastro-oesophageal reflux in children?\nMedicines, such as proton pump inhibitors (PPIs), are often used to manage GOR in children. However, the effectiveness of these treatments can vary, and there is a need to assess their benefits and potential harms.\n\nWhat did we want to find out?\nWe wanted to find out how well different medicines work for treating GOR in children, including their benefits and harms. We looked at which treatments are most effective in improving symptoms and reducing the risk of complications.\n\nHow did we do the review?\nWe searched for studies comparing pharmacological treatments for gastro-oesophageal reflux in children, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 36 studies that involved 2251 children and infants with gastro-oesophageal reflux. These studies were conducted in various countries, though specific locations were not detailed. Most studies lasted around two weeks, with some extending up to several months. The funding sources were not explicitly stated.\n\nThe studies included infants up to 12 months old and children aged 12 months to 16 years old, with some focusing on specific age groups like neonates. Interventions included medicines such as omeprazole, esomeprazole, ranitidine, and proton pump inhibitors, compared to a placebo or other medications.\n\nUnfortunately, there wasn't enough data to assess other medications. More studies with longer follow-up are needed, especially for groups like preterm babies and children with neurodisabilities.\n\nThe review found that medicines may or may not help infants with gastro-oesophageal reflux. There is no clear evidence to support using specific medicines like omeprazole, esomeprazole, or proton pump inhibitors. For older children, proton pump inhibitors may or may not improve symptoms, but the evidence is uncertain. More research is needed to confirm how effective these medicines are.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small and do not cover all of the people, interventions, comparators, and outcomes of interest.\n\nHow up-to-date is this evidence?\nThis review updates our previous review. The evidence is up to date to September 2022.\n\nFuture research should look at the long-term effects of these medicines. We need to understand their benefits and harms for different groups, like premature babies or children with disabilities. This will help families and doctors make better decisions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 664,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 41,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.195121951219512,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 69,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 40,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 180,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.52044519541582,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.096579488686455,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.068600132236263,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.586325301204816,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.164795768439612,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.65897737290626,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.609756097560975,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.862780491200215,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.6769678078166335,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 247,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 111,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 189,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 664,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 664 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 2,
+        "P75_count": 5,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good draft that passes all critical checks for accuracy and completeness. However, it needs revision to improve clarity for a lay audience. The main issues are the use of complex vocabulary and some dense, noun-heavy sentences that make the text harder to read than necessary. Focusing on simpler word choices and more direct phrasing will significantly improve readability.\n\nHere are the top 3 improvements needed:\n\n1. **Replace complex and technical words with simpler alternatives.** The text uses words that are less common in everyday language, which can be a barrier for readers.\n   - **Quote:** \"We searched for studies comparing pharmacological treatments for gastro-oesophageal reflux in children...\"\n   - **Problem:** \"Pharmacological treatments\" is technical jargon.\n   - **Suggestion:** Rewrite as \"We searched for studies that tested medicines for reflux in children...\"\n   - **Another Quote:** \"...some children may experience more persistent symptoms, particularly if they have other medical conditions.\"\n   - **Problem:** \"Persistent\" and \"particularly\" are complex words.\n   - **Suggestion:** Rewrite as \"...symptoms can last longer for some children, especially if they have other health problems.\"\n\n2. **Make sentences more direct by using simpler verbs and fewer nouns.** Some sentences are structured in a way that is grammatically correct but dense and difficult to process quickly.\n   - **Quote:** \"Gastro-oesophageal reflux (GOR) is a condition where the stomach contents flow back up into the oesophagus, causing symptoms such as regurgitation.\"\n   - **Problem:** This sentence is noun-heavy (\"condition\", \"contents\", \"oesophagus\", \"symptoms\", \"regurgitation\") and a bit clinical.\n   - **Suggestion:** Rewrite as \"Gastro-oesophageal reflux (GOR) happens when what's in the stomach comes back up into the food pipe (oesophagus). This can cause symptoms like spitting up (regurgitation).\"\n\n3. **Condense repetitive statements to make the main findings clearer.** The results section restates the core message of uncertainty multiple times in one paragraph, which can dilute its impact.\n   - **Quote:** \"The review found that medicines may or may not help infants with gastro-oesophageal reflux. There is no clear evidence to support using specific medicines... For older children, proton pump inhibitors may or may not improve symptoms, but the evidence is uncertain. More research is needed...\"\n   - **Problem:** This paragraph repeats the same point four times in a row.\n   - **Suggestion:** Combine these ideas into a more concise statement, such as: \"Overall, the evidence was not strong enough to show if medicines help infants or older children with reflux. For specific drugs like omeprazole and other proton pump inhibitors, we could not find clear evidence that they improve symptoms.\"\n\n**Supporting Evidence:** Your own evaluation results support these suggestions. The draft has a high number of long words, complex words, and nouns (all in the P90 range), and a high SMOG index, confirming that the vocabulary is more challenging than is typical for a Plain Language Summary.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft has good structural features, with short sentences (words_per_sentence in the best 25%) and strong use of active voice (in the best 25%). However, it deviates from typical PLS patterns in vocabulary complexity. Four metrics, including the SMOG index, long_words, complex_words_dc, and nouns, are in the P90 range, indicating the vocabulary is more difficult and the phrasing more noun-heavy than is typical for a Plain Language Summary."
+    }
+  ]
+}

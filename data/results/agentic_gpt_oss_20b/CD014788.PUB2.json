@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014788.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "How well do hormone medicines that lower estrogen (GnRH analogues) relieve endometriosis pain, and what effect do they have on bone density?\n\nWhat are the key messages?  \n– GnRH analogues (hormone medicines that lower estrogen) may reduce overall pelvic pain, painful periods, pain during sex and pelvic tenderness after about three months, but the evidence is of low certainty, so the true benefit is unclear.  \n– These medicines can cause hot flushes (sudden feelings of warmth) and may lead to a small loss of bone mineral density (a measure of bone strength), especially when they are not given together with calcium‑regulating agents (substances that help keep calcium levels stable); the evidence for these harms is also low certainty.  \n– Because the existing studies are few, often have design flaws, and give imprecise results, we need more well‑designed, longer‑term research to clarify how effective GnRH analogues are for pain relief, how they affect bone health, and how they compare with other hormonal options.\n\nWhat is endometriosis and why is it a problem?  \nEndometriosis is a common condition that affects about 6 % to 11 % of women of child‑bearing age. Tissue that normally lines the inside of the uterus grows outside the uterus, often on the ovaries, fallopian tubes or the pelvic lining. This misplaced tissue can cause painful periods (dysmenorrhoea), pain during sex (dyspareunia), chronic pelvic pain and infertility. These symptoms reduce quality of life, limit daily activities and cause emotional distress.\n\nWhat did the researchers want to find out?  \nWe set out to answer two questions: (1) How effective and safe are GnRH analogues for reducing the painful symptoms of endometriosis compared with other hormonal treatments, placebo or no treatment? (2) What impact do GnRH analogues have on bone mineral density in women with endometriosis, and how do they compare with other treatments or with GnRH analogues used together with calcium‑regulating agents (add‑back therapy)?\n\nHow did we find the evidence?  \nWe searched the Cochrane Gynaecology and Fertility Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO and trial registries in May 2022. We also checked reference lists and contacted study authors and experts to locate additional trials that compared GnRH analogues with other treatments or placebo in women with endometriosis.\n\nWhat did we find?  \nWe found 72 randomised controlled trials involving 7,355 women of reproductive age who had painful endometriosis symptoms. The trials compared GnRH analogues with placebo, danazol, oral or injectable progestogens, calcium‑regulating agents or other hormonal options, and followed participants for 3 to 12 months.  \n\nCompared with placebo, GnRH analogues may reduce overall pelvic pain, painful periods, pain during sex and pelvic tenderness after about three months. However, the evidence for this benefit is uncertain. When GnRH analogues are used without calcium‑regulating agents, we observed a small decrease in bone mineral density after 12 months, indicating weaker bones.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because participants sometimes knew which treatment they were receiving, not all studies reported every outcome we wanted, and the studies were very small.\n\nHow up‑to‑date is this review?  \nThe evidence is current to the May 2022 search.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 540,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.6,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.82766666666666,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.954370370370373,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.152444444444448,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.271407407407406,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.15851851851852,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.04444444444445,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.36,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.445841481481483,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 218,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 159,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 540,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 540 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 9,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 50.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:59.765099"
+}

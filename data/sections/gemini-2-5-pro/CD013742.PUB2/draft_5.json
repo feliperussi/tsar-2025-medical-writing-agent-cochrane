@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are lab tests for diagnosing vitamin A deficiency?\n\nKey messages\n- Due to a lack of strong evidence, the accuracy of common lab tests for vitamin A deficiency is uncertain. The available studies suggest that these tests often fail to find vitamin A deficiency in people who have it, but are better at correctly identifying people who do not have the condition.\n- The studies we found did not set out to measure the accuracy of these diagnostic tests. Properly designed studies are needed to understand how well different lab tests can diagnose vitamin A deficiency.\n\nWhat is vitamin A deficiency?\nVitamin A is an essential nutrient that helps the body grow, fight infections, and maintain healthy eyesight. A lack of vitamin A, known as vitamin A deficiency, is a serious health problem. It can lead to poor growth, a weakened immune system, vision problems, and can increase the risk of death for mothers and children.\n\nHow is vitamin A deficiency diagnosed?\nHealth professionals can use laboratory tests, known as 'biomarkers', to measure the amount of vitamin A in a person's body. The most accurate tests for vitamin A deficiency can be complex or invasive. Other, simpler tests are more commonly used in practice to check for this condition.\n\nWhat did we want to find out?\nWe wanted to find out how accurate the commonly used laboratory tests are for diagnosing vitamin A deficiency in people at risk. We wanted to compare the results of these simpler tests against the results of the most accurate tests.\n\nWhat methods did we use?\nWe searched for studies that measured the accuracy of common laboratory tests for vitamin A deficiency by comparing them to the most accurate tests. We then combined the results from these studies and rated our confidence in the evidence.\n\nWhat did we find?\nWe included 40 studies. The studies included people at risk for vitamin A deficiency, of any age or sex. We looked at the accuracy of several laboratory tests for diagnosing this condition. These tests included blood tests that measure levels of vitamin A (also called retinol) and a protein that carries it in the blood, as well as breast milk tests. We compared these tests to the most accurate tests available.\n\nMain results: How accurate are laboratory tests for vitamin A deficiency?\nThe tests often fail to find vitamin A deficiency in people who have it, meaning many cases may be missed. However, the tests are better at correctly identifying people who do not have the condition.\n\nFor example, when using a blood test for vitamin A (retinol) compared to the most accurate tests, the test probably correctly identifies most people who do not have vitamin A deficiency. However, this test is not reliable for finding the condition in people who have it, because it misses many cases.\n\nTo put this in perspective, imagine testing 100 people at risk, where 20 of them truly have vitamin A deficiency. The test would likely miss 9 of the people with the condition and wrongly diagnose 14 people who do not have it.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies we found did not set out to measure how well these tests work for diagnosing vitamin A deficiency. Furthermore, there are not enough studies to be certain about the results, and the available studies were very small.\n\nHow up to date is this evidence?\nWe searched for studies published up to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 607,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 37,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.405405405405407,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 69,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 42,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 166,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 166.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 59.86885124003743,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.984384879113051,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.095734004185402,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 9.015551894563426,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.140415868916694,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.082505899639344,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.54054054054054,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.770329614269007,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.45856807515918,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 217,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 217.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 115,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 168,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 607,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 607 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 2,
+        "P75_count": 4,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is clear and factually accurate. However, a few key improvements will make the main results easier for readers to understand. The draft is NOT_APPROVED, and I recommend focusing on these three areas:\n\n1. **Make the results example easier to understand.** The example explaining what the test results mean is a crucial part of the summary, but presenting two different outcomes in one long sentence is hard to follow.\n   - **Original Text:** 'To put this in perspective, imagine testing 100 people at risk, where 20 of them truly have vitamin A deficiency. The test would likely miss 9 of the people with the condition and wrongly diagnose 14 people who do not have it.'\n   - **Suggestion:** Break this down using a list so readers can process one idea at a time. For example: 'To put this in perspective, imagine a group of 100 people at risk, where 20 of them truly have vitamin A deficiency:\n   - Of the 20 people with the deficiency, the test would likely miss 9 cases.\n   - Of the 80 people without the deficiency, the test would wrongly diagnose 14 of them as having it.'\n\n2. **Simplify complex terms and phrasing.** Some phrases are still a bit technical or wordy, which can slow readers down.\n   - **Original Text:** 'The most accurate tests for vitamin A deficiency can be complex or invasive.'\n   - **Suggestion:** Briefly explain what 'invasive' means in this context. For example: '...complex or invasive (meaning they require a tissue sample).'\n   - **Original Text:** 'The studies we found did not set out to measure the accuracy of these diagnostic tests.'\n   - **Suggestion:** Use more direct language. For example: 'The studies we found were not designed to measure how accurate these tests are.'\n\n3. **Standardize the evidence currency statement.** The current phrasing is slightly unconventional and could be more direct.\n   - **Original Text:** 'We searched for studies published up to August 2022.'\n   - **Suggestion:** Use the standard Cochrane format for clarity and consistency: 'The evidence is up to date to August 2022.'\n\n**Supporting Evidence from Metrics:** Your draft is very well-structured, but the linguistic analysis shows a high number of long words (`long_words`: 168) and complex words (`complex_words_dc`: 217), placing it in the 90th percentile for these metrics. The suggestions above will help simplify the vocabulary and bring the text more in line with typical PLS patterns, making it even more accessible to a lay audience.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 12 of 18 metrics (66.7%) in the best quartile. However, four metrics related to vocabulary complexity deviate from the typical range (P90): `nouns` (166), `smog_index` (13.8), `complex_words_dc` (217), and `long_words` (168). This suggests that while overall readability is good, there are opportunities to simplify specific technical terms and reduce word length to improve clarity."
+    }
+  ]
+}

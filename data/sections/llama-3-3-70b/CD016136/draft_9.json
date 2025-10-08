@@ -1,0 +1,162 @@
+{
+  "id": "CD016136",
+  "draft": "Is intravenous iron (given through a vein) better than oral iron (taken by mouth) for treating iron deficiency anemia in pregnant women?\n\nKey messages:\n- We found that intravenous iron likely slightly increases the amount of hemoglobin (a protein in red blood cells that carries oxygen) and reduces anemia in pregnant women compared to oral iron.\n- The current evidence does not clearly show whether intravenous iron increases or decreases the risk of unwanted effects such as severe infections, prolonged hospital stays, or admissions to intensive care units.\n- Future studies should investigate the long-term effects of intravenous versus oral iron, focus on outcomes that are important to patients and healthcare providers, such as the impact on maternal and infant health.\n\nWhat is iron deficiency anemia in pregnancy?\nIron deficiency anemia is a condition where the body does not have enough iron to produce adequate amounts of hemoglobin (a substance in red blood cells that carries oxygen to different parts of the body). In pregnancy, iron deficiency anemia can occur due to the increased demand for iron to support the growth of the baby. This condition can lead to fatigue, shortness of breath, and other complications for both the mother and the baby. Common treatments for iron deficiency anemia include oral iron supplements and intravenous iron therapy.\n\nWhat did the review authors want to find out?\nWe wanted to evaluate the effectiveness and safety of intravenous iron compared to oral iron for treating iron deficiency anemia in pregnancy. We aimed to find out whether intravenous iron is more effective than oral iron in increasing hemoglobin levels, reducing anemia, and improving outcomes for mothers and babies. We also wanted to assess the potential risks and side effects associated with intravenous iron therapy.\n\nWhat did we find?\nWe found 13 studies that involved 3939 people with iron deficiency anemia in pregnancy. The studies were mainly conducted in India and Africa. The gestational age at baseline ranged from 13 to 37 weeks, and hemoglobin levels ranged from 5.0 to just below 11.0 g/dL. The most frequently compared preparations were intravenous iron sucrose versus oral ferrous sulfate. Most RCTs were at low risk of bias. We found that intravenous iron probably slightly increases hemoglobin levels and reduces anemia in pregnancy compared to oral iron. Intravenous iron may slightly increase hemoglobin levels postpartum, but its effect on postpartum severe anemia is very uncertain. Intravenous iron may make little to no difference in postpartum hemorrhage and blood transfusion rates. The effects of intravenous iron on maternal mortality and admissions to the intensive care unit are very uncertain.\n\nLimitations\nWe found that the evidence is limited by small sample sizes, possible lack of blinding, and heterogeneity in participant characteristics and intervention delivery.\n\nCurrency\nThe evidence is up to date to March 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 479,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.958333333333332,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 38,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 16,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 35.568940935977736,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.256380480167014,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.403989213639527,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.49745302713988,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.503166318719554,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.3946590118302,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.875,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.816653826391969,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.8 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.978409324982604,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 212,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 114,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 141,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 479,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 479 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 4,
+        "P50_count": 7,
+        "P75_count": 5,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 22.22222222222222,
+        "P50_percentage": 38.88888888888889,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has some areas that need improvement for better clarity and readability. Some sentences are long and contain complex terminology, and there is use of passive voice in some sections. Additionally, more precise language could be used in some areas, such as the description of study findings and implications of the results. The PLS evaluation results show good conformity with typical PLS patterns, but there are deviations in noun count and smog index that need to be addressed.",
+      "pls_evaluation_summary": "The PLS evaluation results show good conformity with typical PLS patterns, with 50% of features in the best quartile (P25/P75) and 38.9% in the median range (P50). However, there are deviations in noun count (164.0, P90) and smog index (13.8, P90) that need to be addressed to improve readability."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "How accurate are laboratory-based biomarkers for diagnosing vitamin A deficiency in people at risk?\n\n### Key Messages\n* We wanted to find out which biomarkers work best to identify vitamin A deficiency and understand their strengths and limitations. We are moderately confident in the evidence because the studies were not specifically designed to test the accuracy of these biomarkers, and there were some concerns about the quality of the studies.\n* We found that some biomarkers, like serum or plasma retinol, had low sensitivity but high specificity, meaning they may not detect all cases of vitamin A deficiency but are good at confirming when someone does not have the deficiency. Other biomarkers, like retinol-binding protein, had varying levels of sensitivity and specificity.\n* More research is needed to determine the best biomarkers for diagnosing vitamin A deficiency, especially in people who are at high risk. This could involve designing studies that specifically test the accuracy of these biomarkers and exploring new biomarkers that might be more effective.\n\n### Introduction to the review topic and review aims\nWhat is vitamin A deficiency? Vitamin A deficiency is a serious health problem that can cause poor growth, impaired immune responses, increased incidence of disease, and even blindness. It is especially common in people who do not have access to nutritious food or who have certain medical conditions. Reliable diagnostic tests are crucial to identify people with vitamin A deficiency so that they can receive proper treatment.\n\nWhat did we want to find out? We wanted to determine the accuracy of laboratory-based biomarkers that are used to diagnose vitamin A deficiency in people at risk. We were interested in finding out which biomarkers work best and what their strengths and limitations are.\n\n### What did we do?\nWe searched for studies that compared the accuracy of different biomarkers for diagnosing vitamin A deficiency. We evaluated the quality of the studies and combined the results to get an overall picture of how well each biomarker works.\n\n### What did we find?\nWe found 40 studies that reported on the accuracy of different biomarkers for diagnosing vitamin A deficiency. The studies included a total of 65 records and involved people of all ages and backgrounds. We found that some biomarkers, like serum or plasma retinol, had low sensitivity but high specificity. This means that they may not detect all cases of vitamin A deficiency, but they are good at confirming when someone does not have the deficiency. Other biomarkers, like retinol-binding protein, had varying levels of sensitivity and specificity.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were not specifically designed to test the accuracy of these biomarkers, and there were some concerns about the quality of the studies. The studies were also limited by their small size and the fact that they were not well-designed to answer our question.\n\n### How up to date is this evidence?\nThe evidence is up to date to August 2022. This review updates our previous review. The evidence is based on studies that were published up to August 2022, and we are confident that it reflects the current state of knowledge on this topic.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 564,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.56,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 65,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 145,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.98660000000001,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.310173049645389,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.214148936170211,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.807517730496453,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.74740425531915,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.87914893617021,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.045361017187261,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.4103057872340425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 189,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 123,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 123.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 564,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 564 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 8,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:33.929667"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015536.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Does entecavir (an antiviral drug used to treat virus infections) help children and adults with long-term hepatitis B infection compared with no treatment or a dummy pill (placebo, an inactive treatment that looks like the real medicine)?\n\nKey messages\n- We found insufficient (not enough) high-quality evidence from randomized clinical trials (studies where people are assigned by chance to different treatments) to tell whether entecavir helps children or adults with chronic (long-lasting) hepatitis B (a virus that can damage the liver and lead to cirrhosis, liver failure, or liver cancer).\n- No deaths (all-cause mortality; deaths from any cause) were reported during the study periods. No trials reported health-related quality of life (how people feel and function day to day). The evidence about serious adverse events (harmful problems that cause death, are life‑threatening, need hospital care, or cause disability) was uncertain.\n- Future trials should be larger, include both children and adults, run for longer follow-up duration (how long people are monitored in a study), and report outcomes that matter to patients.\n\nWhat is chronic hepatitis B and why does it matter?\nChronic hepatitis B is a long-lasting (more than 6 months) infection of the liver caused by the hepatitis B virus (a virus that can cause serious liver infections and lead to death). Over time, the virus can scar the liver (cirrhosis), cause liver failure, or lead to liver cancer. Many people feel well for years and may not know they are infected, so screening and treatment matter. People can be HBeAg-positive or HBeAg-negative (HBeAg is a protein made by the virus; if the test shows it, the virus is often multiplying more).\n\nWhat is entecavir and how might it help?\nEntecavir is an antiviral (a drug used to treat infections caused by viruses). It is a nucleos(t)ide analogue (a medicine that mimics the DNA building blocks the virus uses, which helps stop the virus from making copies of itself). Entecavir is taken by mouth (oral). Many clinical guidelines (expert recommendations that summarize the best available evidence) list entecavir as a first-line therapy (the treatment doctors usually recommend to try first). In trials, researchers compare entecavir with no treatment (monitoring without antiviral medicine) or with a placebo (a dummy treatment with no active drug). Researchers also record serious adverse events (harmful problems that cause death, are life‑threatening, need hospital care, or cause disability).\n\nWhat did we want to find out?\nWe wanted to know whether entecavir, compared with no treatment or placebo, benefits children and adults with chronic hepatitis B who are HBeAg-positive or HBeAg-negative. We focused on outcomes that matter to patients: deaths (all-cause mortality), health-related quality of life (how people feel and function day to day), and serious adverse events.\n\nHow did we do this?\nWe searched databases and trial registries (online listings where studies are recorded) for randomized clinical trials that compared entecavir with no treatment or placebo. We combined results when possible and judged how certain the evidence was based on study methods, size, and consistency. We noted whether studies used co-interventions (additional treatments given alongside the main treatment) and how long they followed participants.\n\nWhat did we find?\nWe found 22 randomized trials from 2005 to 2022, with 2,940 people. Most trials enrolled adults. One trial included only children. One trial included teenagers and adults. One trial did not report age. Participants took oral entecavir and were compared with no treatment or placebo. In 14 trials, co-interventions were given equally to all groups. Follow-up ranged from 5 to 228 weeks. No deaths were reported in the trials that measured this during follow-up, so we cannot tell whether entecavir affects deaths. It is unclear whether entecavir changes the risk of serious adverse events. None of the trials reported health-related quality of life.\n\nWhat are the main limitations?\nMany trials were small and had problems in design or conduct that could cause bias (flaws that favor one result over another). Some participants may have known which treatment they were getting. Not all studies reported the outcomes we wanted. Short follow-up and few events limit the reliability of the findings. These issues make it hard to judge both benefits and harms.\n\nWhat should happen next?\nWe need larger, well-designed trials that include children and adults, run longer, and report outcomes that matter to patients. Trials should record deaths, health-related quality of life, and serious adverse events. Clear reporting will help patients and doctors choose treatments.\n\nCurrency: The evidence is up to date to July 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 789,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 47,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.78723404255319,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 25,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 95,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 244,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 244.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.51610953806329,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.546881859612224,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.695784321656824,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.815766793409377,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.711091335652455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.403203624302236,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.468085106382978,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.357816691600547,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.436829318016343,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 330,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 330.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 138,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 138.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 210,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 210.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 789,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 789 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 4,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 22.22222222222222,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:46.303322"
+}

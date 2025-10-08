@@ -1,0 +1,40 @@
+{
+  "plain_title": "How accurate are blood tests (like serum retinol and retinol‑binding protein) for detecting vitamin A deficiency in people who are at risk?",
+  "key_messages": [
+    "Blood tests such as serum retinol (a blood measure of vitamin A) and retinol‑binding protein (a protein that carries vitamin A in the blood) have limited ability to detect vitamin A deficiency in at‑risk people: they often miss many true cases (low sensitivity) but are fairly good at confirming those who are not deficient (high specificity); no harmful effects of the tests were reported, and the evidence is limited because the included studies were not specifically designed to evaluate test accuracy.",
+    "The accuracy of these tests varied depending on the reference standard used (the best available method for confirming deficiency, such as liver vitamin A measurement or isotope dilution), but overall the tests showed modest performance, and data on other methods like breast‑milk vitamin A or relative dose response are scarce.",
+    "Future research should include well‑designed diagnostic accuracy studies that use appropriate reference standards and include enough participants with true deficiency, so that we can better understand how reliable these blood tests are for identifying vitamin A deficiency."
+  ],
+  "background": [
+    {
+      "subheading": "Why is vitamin A deficiency a health problem?",
+      "content": "Vitamin A is a nutrient that helps children grow, keeps the immune system strong, and protects the eyes. When people do not get enough vitamin A, they can experience poor growth, weaker immunity, more infections, eye problems that can lead to blindness, and higher risk of death for mothers and children. Because many people in low‑resource settings are at risk, finding those who are deficient is an important public‑health task."
+    },
+    {
+      "subheading": "How is vitamin A deficiency currently tested?",
+      "content": "Doctors and researchers use laboratory‑based \"biomarkers\" – measurable substances in blood, milk, or other tissues – to see if a person’s vitamin A stores are low. The most common tests are:\n\n* **Serum or plasma retinol (SR)** – measuring the amount of vitamin A directly in a blood sample.\n* **Retinol‑binding protein (RBP)** – a protein that carries vitamin A in the blood; its level can give an indirect clue about vitamin A status.\n* **Relative dose response (RDR)** – a test that looks at how the body’s vitamin A levels change after a small dose of the vitamin.\n\nThese tests are compared against \"reference standards\" such as the retinol isotope dilution (RID) method or direct measurement of vitamin A in liver tissue, which are considered the most accurate ways to know a person’s true vitamin A status. Two important performance measures are:\n\n* **Sensitivity** – the ability of a test to correctly identify people who truly have deficiency (true positives).\n* **Specificity** – the ability of a test to correctly identify people who do not have deficiency (true negatives)."
+    },
+    {
+      "subheading": "What did the review aim to find out?",
+      "content": "The authors wanted to know how well the routinely used laboratory tests (SR, RBP, RDR, and a few others) can detect subclinical vitamin A deficiency in people who are at risk. Specifically, they set out to:\n1. Measure the accuracy (sensitivity and specificity) of each index test compared with the best‑available reference standards.\n2. Explore whether factors such as the type of reference standard, the cut‑off values used, or characteristics of the study populations explain differences in test performance."
+    }
+  ],
+  "methods": [
+    {
+      "subheading": "Methods",
+      "content": "We systematically searched multiple bibliographic databases for studies that evaluated vitamin A status using both a reference standard and an index test. Two reviewers independently screened titles, abstracts, and full texts, extracted data on study characteristics, index test results, and reference standard measurements, and assessed risk of bias using a standardized tool. We pooled sensitivity, specificity, and other accuracy metrics using a bivariate random‑effects model, explored heterogeneity through subgroup and meta‑regression analyses, and graded the overall confidence in the evidence with the GRADE approach."
+    }
+  ],
+  "results": [
+    {
+      "subheading": "What did we find?",
+      "content": "We found 40 eligible studies (reported as 65 records) that evaluated laboratory‑based biomarkers for vitamin A deficiency in people at risk. The studies included anywhere from a few dozen up to more than a thousand participants. The index tests examined were serum or plasma retinol, retinol‑binding protein, breast‑milk vitamin A, and relative dose response. These were compared with reference standards of retinol isotope dilution or liver vitamin A concentrations. The populations were broadly defined – any sex, age, pregnancy or breastfeeding status, and various physiological conditions – rather than a narrowly defined severity group. No studies were designed specifically as diagnostic test‑accuracy investigations, and no information on total participants, study duration, funding, or country settings was provided in the abstract."
+    },
+    {
+      "subheading": "Main results: Serum retinol testing",
+      "content": "Testing serum retinol in blood probably does not reliably detect vitamin A deficiency. If 100 people truly have the deficiency, serum retinol testing would correctly identify only about 10 of them, meaning it misses most cases. The test also makes little or no difference in correctly ruling out deficiency in people who are not deficient. Evidence for other tests is uncertain: retinol‑binding protein may slightly increase the chance of identifying deficiency but probably makes little or no difference in confirming that someone does not have the deficiency, and relative dose response probably makes little or no difference in ruling out deficiency, with low certainty of the evidence."
+    }
+  ],
+  "limitations": "We are not confident in the evidence because people in the studies were not randomly placed into the different treatment groups, it is possible that people in the studies were aware of which treatment they were getting and not all data were provided, the studies were very small and based on few cases, and the evidence does not cover all of the people and outcomes we are interested in.",
+  "currency": "The evidence is up to date to August 2022 of search."
+}

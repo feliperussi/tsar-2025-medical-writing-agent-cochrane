@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008550.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs giving medicines that reduce stomach acid helpful for babies and children with reflux?\n\nKey Messages  \n- The medicines that lower stomach acid (such as omeprazole, esomeprazole, rabeprazole and pantoprazole) may or may not make reflux symptoms better in babies and older children, and the evidence is very uncertain; no clear benefit or harm was shown, and studies did not report any side‑effects.  \n- Because the research is based on few, small studies that used different ways of measuring results, we cannot be sure whether any of these medicines really help or not.  \n- More well‑designed, larger studies are needed to find out if acid‑reducing medicines improve reflux symptoms or cause any problems in infants, pre‑term babies and children with special health needs.\n\nWhat is gastro‑oesophageal reflux (GOR) and why does it matter?  \nGastro‑oesophageal reflux means that stomach contents flow back up into the tube that carries food to the lungs (the oesophagus). It is very common in the first few months of life, affecting about half of all babies under three months. For most infants the condition gets better as they grow, but some older children and children with other health problems keep having symptoms for a long time. When reflux causes enough trouble that doctors think treatment is needed, it is called gastro‑oesophageal reflux disease (GORD).\n\nWhat did the researchers want to find out?  \nThe review team wanted to know whether medicines that lower stomach acid help reduce reflux symptoms in babies and children, and whether these medicines cause any unwanted effects.\n\nWhat did we do?  \nWe looked for studies that compared any currently available acid‑reducing medicine with a placebo or another medicine in children up to 16 years old. We combined the findings from the studies we could use and judged how confident we were in the overall evidence.\n\nWhat did we find?  \n\nStudy characteristics  \nWe identified many studies that together involved several thousand babies and children. The studies were carried out in different countries and included infants younger than one year as well as older children up to their teens. Researchers tested several medicines that lower stomach acid, including omeprazole, esomeprazole, rabeprazole and pantoprazole, and compared them with placebo or with other acid‑reducing drugs. Some studies also looked at H₂‑antagonists and alginate preparations, but there was not enough data to draw conclusions about those.\n\nMain results  \n- For babies, taking omeprazole did not show a clear improvement in how much they cried or fussed compared with a placebo. It is unclear if omeprazole helps.  \n- Comparing omeprazole with ranitidine (an older acid‑reducing drug) showed no obvious difference in symptom relief. It is unclear if omeprazole is better.  \n- Giving esomeprazole to newborns did not clearly reduce the number of reflux symptoms compared with a placebo. It is unclear if esomeprazole helps.  \n- In older children, different doses of rabeprazole gave similar improvements in symptoms, but the evidence does not show a clear benefit. It is unclear if rabeprazole helps.  \n- Pantoprazole at low, medium or high doses showed little or no difference in symptom scores, and the evidence is uncertain. It is unclear if pantoprazole helps.  \n- No studies provided clear information about changes seen during endoscopy (a camera look inside the oesophagus) or about side‑effects, so we cannot say whether any medicines cause harm.\n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because the studies were very small and used different ways of measuring symptoms and acid levels. These differences make it hard to know whether any medicine truly works or not.\n\nHow up to date is this evidence?  \nThis review updates our previous review. The evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 639,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.257142857142856,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 169,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.24766197183098,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.088971160295106,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.752280348759221,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.110735524256647,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.750431477755422,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.01770623742455,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.885714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.848857801796104,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.811360232506148,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 239,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 103,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 639,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 639 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:58.357649"
+}

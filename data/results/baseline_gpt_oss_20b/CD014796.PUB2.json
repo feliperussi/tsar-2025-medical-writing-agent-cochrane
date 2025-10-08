@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014796.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What do people, doctors, and managers think about general health checks?\n\nKey messages\n– General health checks are popular and can motivate people to change habits, but some people worry about bad results or costs, and the evidence about why they are offered is weak.\n– Most people who attend feel reassured by professional checks, but those who fear bad news or rely on symptom‑based care are less likely to go.\n– We need more research to understand why health services decide to provide general health checks and how to make them fair and useful for everyone.\n\nWhat are general health checks and why do we need them?\nGeneral health checks are visits where a person who has no symptoms gets a series of screening tests. The goal is to spot problems early and keep people healthier. Many countries offer these checks through national programmes or private providers.\n\nWhat did we want to find out?\nWe wanted to learn how people who run health services, doctors, nurses, and patients feel about general health checks. We also wanted to know what makes it easier or harder for people to get these checks.\n\nWhat did we do?\nWe looked for studies that asked people about their views on general health checks. We then combined the findings and judged how confident we were in each result.\n\nWhat did we find?\nWe found 146 studies that talked about general health checks, and we looked closely at 36 of them. Most of these studies were from wealthy European countries, but about a third were from diverse middle‑income countries in Eastern Europe, South and Southeast Asia, and Latin America. The studies were carried out in hospitals, community clinics, workplaces, and other settings. They included patients, doctors, and managers.\n\nMain results\n– We are moderately confident that general health checks motivate most people to change their habits, such as eating healthier or exercising more. \n– We are moderately confident that people who are afraid of bad results or who prefer to wait until they feel sick are less likely to attend. \n– We are highly confident that people trust professionals to check their health and feel reassured when they get a clear answer. \n– We are moderately confident that doctors and nurses who feel skilled and culturally sensitive can encourage more people to attend. \n– We are moderately confident that time pressure, staff shortages, and cost worries can make it harder for doctors to offer checks. \n– We are low confidence that a one‑size‑fits‑all approach works best; many people prefer a personalised plan that focuses on their own risks.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were often small and came from a limited range of countries. The people who shared their views were not chosen randomly, so their experiences might not represent everyone. The studies also used different ways of asking questions, which makes it hard to compare results.\n\nHow up to date is this evidence?\nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 523,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.678571428571427,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 70,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 58,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 117,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 66.39517925430215,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.638811117181096,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.387966402622233,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.429445506692158,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.519229718656105,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.90228079759628,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.9642857142857144,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.306623862918075,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.028770718382956,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 169,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 66,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 523,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 523 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:21.677747"
+}

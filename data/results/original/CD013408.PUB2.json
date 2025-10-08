@@ -1,0 +1,159 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Clinical service organisation for adults with atrial fibrillation\n\nBackground\nAtrial fibrillation (AF) is an increasingly prevalent heart rhythm condition in adults. It is considered a common cardiovascular condition with complex clinical management. The increasing prevalence and complexity in management underpin the need to adapt and innovate in the delivery of care for people living with AF. There is a need to systematically examine the optimal way in which clinical services are organised to deliver evidence‐based care for people with AF. Recommended approaches include collaborative, organised multidisciplinary, and virtual (or eHealth/mHealth) models of care.\n\nObjectives\nTo assess the effects of clinical service organisation for AF versus usual care for people with all types of AF.\n\nSearch methods\nWe searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and CINAHL to October 2022. We also searched ClinicalTrials.gov and the WHO ICTRP to April 2023. We applied no restrictions on date, publication status, or language.\n\nSelection criteria\nWe included randomised controlled trials (RCTs), published as full texts and as abstract only, involving adults (≥ 18 years) with a diagnosis of any type of AF. We included RCTs comparing organised clinical service, disease‐specific management interventions (including e‐health models of care) for people with AF that were multicomponent and multidisciplinary in nature to usual care.\n\nData collection and analysis\nThree review authors independently selected studies, assessed risk of bias, and extracted data from the included studies. We calculated risk ratio (RR) for dichotomous data and mean difference (MD) or standardised mean difference (SMD) for continuous data with 95% confidence intervals (CIs) using random‐effects analyses. We then calculated the number needed to treat for an additional beneficial outcome (NNTB) using the RR. We performed sensitivity analyses by only including studies with a low risk of selection and attrition bias. We assessed heterogeneity using the I² statistic and the certainty of the evidence according to GRADE.\nThe primary outcomes were all‐cause mortality and all‐cause hospitalisation. The secondary outcomes were cardiovascular mortality, cardiovascular hospitalisation, AF‐related emergency department visits, thromboembolic complications, minor cerebrovascular bleeding events, major cerebrovascular bleeding events, all bleeding events, AF‐related quality of life, AF symptom burden, cost of intervention, and length of hospital stay.\n\nMain results\nWe included 8 studies (8205 participants) of collaborative, multidisciplinary care, or virtual care for people with AF. The average age of participants ranged from 60 to 73 years. The studies were conducted in China, the Netherlands, and Australia. The included studies involved either a nurse‐led multidisciplinary approach (n = 4) or management using mHealth (n = 2) compared to usual care. Only six out of the eight included studies could be included in the meta‐analysis (for all‐cause mortality and all‐cause hospitalisation, cardiovascular mortality, cardiovascular hospitalisation, thromboembolic complications, and major bleeding), as quality of life was not assessed using a validated outcome measure specific for AF. We assessed the overall risk of bias as high, as all studies had at least one domain at unclear or high risk of bias rating for performance bias (blinding) in particular.\nOrganised AF clinical services probably result in a large reduction in all‐cause mortality (RR 0.64, 95% CI 0.46 to 0.89; 5 studies, 4664 participants; moderate certainty evidence; 6‐year NNTB 37) compared to usual care. However, organised AF clinical services probably make little to no difference to all‐cause hospitalisation (RR 0.94, 95% CI 0.88 to 1.02; 2 studies, 1340 participants; moderate certainty evidence; 2‐year NNTB 101) and may not reduce cardiovascular mortality (RR 0.64, 95% CI 0.35 to 1.19; 5 studies, 4564 participants; low certainty evidence; 6‐year NNTB 86) compared to usual care. Organised AF clinical services reduce cardiovascular hospitalisation (RR 0.83, 95% CI 0.71 to 0.96; 3 studies, 3641 participants; high certainty evidence; 6‐year NNTB 28) compared to usual care.\nOrganised AF clinical services may have little to no effect on thromboembolic complications such as stroke (RR 1.14, 95% CI 0.74 to 1.77; 5 studies, 4653 participants; low certainty evidence; 6‐year NNTB 588) and major cerebrovascular bleeding events (RR 1.25, 95% CI 0.79 to 1.97; 3 studies, 2964 participants; low certainty evidence; 6‐year NNTB 556). None of the studies reported minor cerebrovascular events.\n\nAuthors' conclusions\nModerate certainty evidence shows that organisation of clinical services for AF likely results in a large reduction in all‐cause mortality, but probably makes little to no difference to all‐cause hospitalisation compared to usual care. Organised AF clinical services may not reduce cardiovascular mortality, but do reduce cardiovascular hospitalisation compared to usual care. However, organised AF clinical services may make little to no difference to thromboembolic complications and major cerebrovascular events. None of the studies reported minor cerebrovascular events. Due to the limited number of studies, more research is required to compare different models of care organisation, including utilisation of mHealth. Appropriately powered trials are needed to confirm these findings and robustly examine the effect on inconclusive outcomes. The findings of this review underscore the importance of the co‐ordination of care underpinned by collaborative multidisciplinary approaches and augmented by virtual care.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 850,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 24.285714285714285,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 37,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 37.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 16,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 49,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 49.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 260,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 260.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 29.506882352941204,
+        "rating": "P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 29.5 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 15.17695798319328,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 14.877927731092434,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.149035294117649,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 20.678991596638657,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.7 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 59.69747899159664,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 59.7 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 8.6,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.6 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 18.491933384829668,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.5 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.248183193277312,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.2 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 433,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 433.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 233,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 301,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 301.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 850,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 850 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 1,
+      "BEYOND_P90_count": 8,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 5.555555555555555,
+      "BEYOND_P90_percentage": 44.44444444444444,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:23.002036"
+}

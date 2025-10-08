@@ -1,0 +1,162 @@
+{
+  "id": "CD007130.PUB5",
+  "draft": "Is home‑based heart‑rehab (exercise program done at home, sometimes using video or phone support) as effective as centre‑based heart‑rehab for people after a heart attack, heart surgery or heart failure?\n\nKey messages:\n- Home‑based cardiac rehabilitation (a supervised exercise and education program done at home, often with video or phone support) works about as well as centre‑based programmes for people after a heart attack, heart surgery (revascularisation) or heart failure. It provides similar benefits for survival, for how well people can exercise, and for overall quality of life. No extra harms were reported.\n- People finished the programme at similar rates and the cost per patient was about the same for home‑based and centre‑based programmes. When both options are available, patients can choose the one they prefer.\n- More research is needed to see whether these short‑term results continue over longer periods, to test home‑based programmes in other heart conditions, and to evaluate hybrid models that combine home and centre delivery.\n\nWhy is heart disease a major health problem and what is cardiac rehabilitation?\nHeart disease, which includes heart attacks, heart failure and problems with the heart’s blood vessels, is the leading cause of death worldwide. After a heart event, doctors usually recommend cardiac rehabilitation – a supervised set of exercises, education and lifestyle advice designed to help people recover, improve fitness and lower the chance of another heart problem. Traditionally these programmes run in hospitals, gyms or community centres where patients attend regular sessions. More recently, programmes that can be done at home – sometimes using video calls or apps (called telehealth or digital support) – have been created to make rehabilitation easier to access, especially when face‑to‑face visits are limited, such as during the COVID‑19 pandemic.\n\nWhat did the researchers want to find out?\nWe compared home‑based cardiac rehabilitation (including any digital or telehealth tools) with traditional centre‑based programmes. We wanted to know whether the two approaches differ in:\n- total mortality (death rates);\n- morbidity (new heart problems);\n- exercise capacity (how far a person can walk or cycle);\n- health‑related quality of life (how health affects daily wellbeing);\n- modifiable cardiac risk factors (things that can be changed, such as blood pressure, cholesterol, smoking or weight).\nIn short, we wanted to find out if doing cardiac rehab at home works just as well as doing it in a centre.\n\nHow did we find the evidence?\nWe searched major medical databases for randomised controlled trials (studies that randomly assign participants to groups) that compared home‑based (including digital/telehealth) with supervised centre‑based cardiac rehabilitation in adults with heart disease. Two reviewers screened each record, extracted data and assessed risk of bias. We combined the results and rated our confidence in the evidence using standard GRADE criteria.\n\nWhat did we find?\nWe analysed data from 24 trials involving a total of 3,046 people who had a heart attack, had undergone revascularisation, or were living with heart failure. Most trials reported outcomes up to 12 months; only three provided data beyond one year. The chance of death, exercise capacity (up to one year and beyond), health‑related quality of life, programme completion rates and cost per patient were all very similar for home‑based and centre‑based programmes. The certainty of the evidence varied across outcomes, but overall the findings suggest comparable benefits.\n\nWhat are the limitations of the evidence?\nMany participants knew which programme they were receiving, and most trials were small, which reduces our confidence in the results. Some studies did not report enough detail to fully assess risk of bias.\n\nHow current is the evidence?\nThis review updates our previous work and includes studies searched up to September 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 623,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.482758620689655,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 31,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 203,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.91443017656502,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.634182764155643,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.135600819173078,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.3160834670947,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.223922067858528,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.33829634139592,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.413793103448276,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.908712114635714,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.390279980074169,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 289,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 289.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 150,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 150.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 623,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 623 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 5,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 38.88888888888889,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks (sections, title format, factual accuracy, word count) all pass, but the draft contains several clarity problems that would likely confuse patients and the linguistic analysis shows strong deviations from typical PLS patterns (31 passive constructions, 150 complex words, 186 long words, SMOG 13.9 and Dale‑Chall 8.4 – both beyond the P90 range). The most important issues are: (1) unexplained technical term “GRADE criteria”; (2) overly long, dense sentence in the Methods section; (3) frequent passive‑voice and noun‑heavy phrasing that obscures who did what; (4) use of complex, long words that raise reading difficulty; (5) occasional jargon such as “modifiable cardiac risk factors” without plain‑language equivalents. These issues need to be fixed before the summary can be approved.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets the word‑count limit but deviates markedly from typical PLS norms: passive_voice = 31 (BEYOND_P90), nouns = 203 (BEGONE_P90), complex_words = 150 (BEYOND_P90), complex_words_dc = 289 (BEYOND_P90), long_words = 186 (BEYOND_P90), smog_index = 13.9 (P90), dale_chall_readability = 8.4 (P90). Readability scores (Flesch‑Reading‑Ease ≈ 50, FKGL ≈ 12) are higher than the usual Cochrane PLS range, indicating the text is harder to read than typical summaries. These metric alerts support the editorial recommendations to simplify language, reduce passive constructions, and shorten sentences."
+    }
+  ]
+}

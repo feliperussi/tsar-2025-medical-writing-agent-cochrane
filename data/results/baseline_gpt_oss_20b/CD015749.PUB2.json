@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015749.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Can multimodal treatments help people with cachexia from chronic illnesses?\n\nKey Messages:\n- We found no clear evidence that combining medicines, nutrition, and exercise improves muscle strength, weight, appetite, or quality of life for people with cachexia. The studies were small and had design problems, so we are not sure.\n- The evidence is very uncertain, so we cannot say whether these treatments are safe or harmful.\n- More well‑designed studies with enough participants and longer follow‑up are needed to know if multimodal treatments work.\n\nIntroduction\nWhat is cachexia and why is it a problem?\nCachexia is a condition where people lose muscle and often weight because of a long‑term illness such as cancer, heart failure, kidney disease or chronic lung disease. It makes everyday activities harder, reduces quality of life and can shorten survival.\n\nWhat did we want to find out?\nWe wanted to know whether a combination of medicines, special nutrition and exercise programmes works better than usual care or single treatments for people with cachexia.\n\nHow is cachexia treated?\nTypical approaches include medicines that may affect metabolism, dietary supplements or high‑protein meals, and exercise programmes that aim to keep muscles strong. Sometimes these are used together, which is called a multimodal approach.\n\nWhat did we do?\nWe searched many medical databases for studies that compared multimodal treatments with usual care or other single treatments, combined the results and judged how confident we could be in the findings.\n\nWhat did we find?\nThe review included nine studies that together involved about nine hundred adults, most of whom had cancer and a few had other chronic illnesses. The studies were carried out in several European countries and lasted from a few weeks to a few months.\n\nWe do not know if multimodal treatments improve physical function, strength, weight, appetite, fatigue, quality of life, or reduce adverse events. The evidence does not show a clear benefit or clear harm.\n\nWhat are the limitations of the evidence?\nThe studies were small, often did not follow participants for a long time and had some design problems that make it hard to be sure about the results. Because of these issues we cannot be confident that the findings apply to everyday care.\n\nHow up to date is this evidence?\nThe literature search was current to July 2024, so the evidence reflects studies published up to that time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 413,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.666666666666668,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 103,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 57.00311541565779,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.19428571428572,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.573405972558518,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.372203389830506,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.74317998385795,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.20661824051655,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.809523809523809,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.426149773176359,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.9014957223567395,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 155,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 71,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 122,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 413,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 413 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:24.922171"
+}

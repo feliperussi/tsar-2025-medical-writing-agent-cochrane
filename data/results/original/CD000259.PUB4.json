@@ -1,0 +1,159 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "original",
+  "source_fields": [
+    "title",
+    "abstract"
+  ],
+  "text": "Audit and feedback: effects on professional practice\n\nBackground\nAudit and feedback (A&F) is a widely used strategy to improve professional practice. This is supported by prior Cochrane reviews and behavioural theories describing how healthcare professionals are prompted to modify their practice when given data showing that their clinical practice is inconsistent with a desirable target. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact.\n\nObjectives\nTo assess the effects of A&F on the practice of healthcare professionals and to examine factors that may explain variation in the effectiveness of A&F.\n\nSearch methods\nWith the Cochrane Effective Practice and Organisation of Care (EPOC) group information scientist, we updated our search strategy to include studies published from 2010 to June 2020. Search updates were performed on 28 February 2019 and 11 June 2020. We searched MEDLINE (Ovid), Embase (Ovid), CINAHL (EBSCO), the Cochrane Library, clinicaltrials.gov (all dates to June 2020), WHO ICTRP (all dates to February Week 3 2019, no information available in 2020 due to COVID‐19 pandemic). An updated search and duplicate screen was completed on February 14, 2022; studies that met inclusion criteria are included in the 'Studies awaiting classification' section.\n\nSelection criteria\nRandomised trials, including cluster‐trials and cross‐over and factorial designs, featuring A&F (defined as measurement of clinical performance over a specified period of time (audit) and provision of the resulting data to clinicians or clinical teams (feedback)) in any trial arm that reported objectively measured health professional practice outcomes.\n\nData collection and analysis\nFor this updated review, we re‐extracted data for each study arm, including theory‐informed variables regarding how the A&F was conducted and behaviour change techniques for each intervention, as well as study‐level characteristics including risk of bias. For each study, we extracted outcome data for every healthcare professional practice targeted by A&F. All data were extracted by a minimum of two independent review authors.\nFor studies with dichotomous outcomes that included arms with and without A&F, we calculated risk differences (RDs) (absolute difference between arms in proportion of desired practice completed) and also odds ratios (ORs). We synthesised the median RDs and interquartile ranges (IQRs) across all trials. We then conducted meta‐analyses, accounting for multiple outcomes from a given study and weighted by effective sample size, using reported (or imputed, when necessary) intra‐cluster correlation coefficients. Next, we explored the role of baseline performance, co‐interventions, targeted behaviour, and study design factors on the estimated effects of A&F. Finally, we conducted exploratory meta‐regressions to test preselected variables that might be associated with A&F effect size: characteristics of theaudit(number of indicators, aggregation of data); delivery of thefeedback(multi‐modal format, local champion, nature of comparator, repeated delivery); and components supportingaction(facilitation, provision of specific plans for improvement, co‐development of action plans).\n\nMain results\nWe included 292 studies with 678 arms; 133 (46%) had a low risk of bias, 41 (14%) unclear, and 113 (39%) had a high risk of bias. There were 26 (9%) studies conducted in low‐ or middle‐income countries. In most studies (237, 81%), the recipients of A&F were physicians. Professional practices most commonly targeted in the studies were prescribing (138 studies, 47%) and test‐ordering (103 studies, 35%). Most studies featured multifaceted interventions: the most common co‐interventions were clinician education (377 study arms, 56%) and reminders (100 study arms, 15%). Forty‐eight unique behaviour change techniques were identified within the study arms (mean 5.2, standard deviation 2.8, range 1 to 29).\nSynthesis of 558 dichotomous outcomes measuring professional practices from 177 studies testing A&F versus control revealed a median absolute improvement in desired practice of 2.7%, with an IQR of 0.0 to 8.6. Meta‐analyses of these studies, accounting for multiple outcomes from the same study and weighting by effective sample size accounting for clustering, found a mean absolute increase in desired practice of 6.2% (95% confidence interval (CI) 4.1 to 8.2; moderate‐certainty evidence) and an OR of 1.47 (95% CI 1.31 to 1.64; moderate‐certainty evidence). Effects were similar for pre‐planned subgroup analyses focused on prescribing and test‐ordering outcomes. Lower baseline performance and increased number of co‐interventions were both associated with larger intervention effects.\nMeta‐regressions comparing the presence versus absence of specific A&F components to explore heterogeneity, accounting for baseline performance and number of co‐interventions, suggested that A&F effects were greater with individual‐recipient‐level data rather than team‐level data, comparing performance to top‐peers or a benchmark, involving a local champion with whom the recipient had a relationship, using interactive modalities rather than just didactic or just written format, and with facilitation to support engagement, and action plans to improve performance. The meta‐regressions did not find significant effects with the number of indicators in the audit, comparison to average performance of all peers, or co‐development of action plans. Contrary to expectations, repeated delivery was associated with lower effect size. Direct comparisons from head‐to‐head trials support the use of peer‐comparisons versus no comparison at all and the use of design elements in feedback that facilitate the identification and action of high‐priority clinical items.\n\nAuthors' conclusions\nA&F can be effective in improving professional practice, but effects vary in size. A&F is most often delivered along with co‐interventions which can contribute additive effects. A&F may be most effective when designed to help recipients prioritise and take action on high‐priority clinical issues and with the following characteristics:\n1. targets important performance metrics where health professionals have substantial room for improvement (audit);\n2. measures the individual recipient's practice, rather than their team or organisation (audit);\n3. involves a local champion with an existing relationship with the recipient (feedback);\n4. includes multiple, interactive modalities such as verbal and written (feedback);\n5. compares performance to top peers or a benchmark (feedback);\n6. facilitates engagement with the feedback (action);\n7. features an actionable plan with specific advice for improvement (action).\nThese conclusions require further confirmatory research; future research should focus on discerning ways to optimise the effectiveness of A&F interventions.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 1027,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 29.34285714285714,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.3 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 42,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 42.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 83,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 44,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 44.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 330,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 330.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 38.24868938656283,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 15.213986924467939,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 16.309880372791767,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.3 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 11.990068159688413,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 22.759538183335653,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.8 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 64.4937821671999,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 64.5 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 10.314285714285715,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.3 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 19.0,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 9.311968518570039,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 511,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 511.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 283,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 283.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 361,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 361.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 1027,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 1027 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 2,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 12,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 66.66666666666666,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 16.666666666666664,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T23:24:08.469325"
+}

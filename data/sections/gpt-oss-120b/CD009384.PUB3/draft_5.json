@@ -1,0 +1,162 @@
+{
+  "id": "CD009384.PUB3",
+  "draft": "Is giving zinc supplements (a mineral) effective at reducing death, illness, and poor growth in children aged 6 months to 12 years?\n\nKey messages:\n- Giving zinc does not lower overall death rates and probably does not change death from diarrhoea, lung infections or malaria; we are fairly sure of this.\n- Zinc probably reduces how often children get diarrhoea and may lead to a small increase in height, but it also raises the chance of vomiting; we are fairly sure about the benefits and very sure about the side‑effect.\n- When zinc is taken together with iron, the positive effects on diarrhoea reduction and growth appear weaker, suggesting iron may lessen zinc’s benefits.\n\nWhy is zinc important for children’s health?\nMany children, especially in low‑ and middle‑income countries, do not get enough zinc in their diet. Zinc is a mineral that helps the immune system work, protects against infections, and supports normal growth of bones and the body. When children lack zinc, they are more likely to get sick with diarrhoea (watery stools) or pneumonia (a type of lower‑respiratory‑tract infection). They are also at higher risk of malaria and may grow more slowly or become shorter than expected. These problems can increase death (mortality) and illness (morbidity).\n\nWhat did the researchers want to find out about zinc supplementation?\nWe wanted to know whether giving healthy children aged 6 months to 12 years a daily preventive zinc supplement (usually 10–15 mg as syrup) reduces the risk of death, lowers the number of illness episodes, and improves growth such as height. We also looked for any unwanted side effects.\n\nHow did we find the evidence?\nWe looked for studies where children were randomly assigned to receive zinc or not – these are called randomised controlled trials. We combined the results of all eligible trials and rated how reliable each finding was using a system called GRADE, which tells us how confident we can be in the evidence. When we talk about “confidence intervals”, we mean the range where the true effect is likely to lie.\n\nWhat did we find?\nWe identified 96 randomised controlled trials that together included 219,584 children (most under five years old). Researchers carried out the trials in 34 countries, and 87 % of them were low‑ or middle‑income. Zinc was usually given as a syrup containing zinc sulfate at a daily dose of 10–15 mg. The median follow‑up time was 26 weeks.\n\nWhat are the effects of giving zinc?\n- Overall death rates: little or no difference – we are very sure.\n- Death from diarrhoea: probably no change – we are fairly sure.\n- Death from lower‑respiratory infections and malaria: probably reduced, but the possible range of effect is wide – we are fairly sure.\n- Diarrhoea episodes: probably reduced – we are fairly sure.\n- Respiratory infections overall: little or no difference – we are very sure.\n- Height: probably a small increase – we are fairly sure.\n- Vomiting: more children experienced at least one episode – we are very sure.\n\nWhat are the limitations of the evidence?\nOur confidence in many outcomes is only moderate because there are not enough studies to be certain. Some results have wide confidence intervals, meaning the true effect could be larger or smaller than we estimate.\n\nHow up‑to‑date is this review?\nWe searched for studies up to February 2022, so the evidence reflects research published until then.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 584,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.857142857142858,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 40,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 146,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 63.690342465753446,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.557299412915857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.798383072407042,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.747465753424656,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.918199608610568,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.144814090019565,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.857142857142857,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.38083151964686,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.3072540117416835,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 232,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 232.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 96,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 136,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 584,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 584 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 3,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical issue: The first key‑message bullet misstates the evidence on cause‑specific mortality. It says zinc \"probably does not change death from diarrhoea, lung infections or malaria,\" but the review found moderate‑certainty evidence that zinc *probably reduces* deaths from lower‑respiratory infections and malaria (though the confidence intervals are wide). This factual error must be corrected.\n\nAdditional improvements needed:\n1. Problematic sentence: \"Giving zinc does not lower overall death rates and probably does not change death from diarrhoea, lung infections or malaria; we are fairly sure of this.\"\n   - Why problematic: Misrepresents the findings for lung infections and malaria and may mislead readers.\n   - Suggested rewrite: \"Giving zinc does not lower overall death rates and probably does not change death from diarrhoea, but it probably reduces deaths from lung infections and malaria, although the evidence is less certain.\"\n2. Long, dense sentence: \"We identified 96 randomised controlled trials that together included 219,584 children (most under five years old). Researchers carried out the trials in 34 countries, and 87 % of them were low‑ or middle‑income.\"\n   - Why problematic: Two clauses in one sentence can overwhelm a lay reader.\n   - Suggested rewrite: \"We identified 96 randomised trials involving 219,584 children, most of whom were under five years old. The studies were conducted in 34 countries, and 87 % were low‑ or middle‑income settings.\"\n3. Passive voice: \"Zinc was usually given as a syrup containing zinc sulfate at a daily dose of 10–15 mg and was compared with no zinc, a placebo or a waiting‑list control.\"\n   - Why problematic: Passive constructions hide who performed the action, reducing clarity.\n   - Suggested rewrite: \"We usually gave children a syrup containing zinc sulfate (10–15 mg daily) and compared it with no zinc, a placebo, or a waiting‑list control.\"\n4. Jargon without definition: The term \"moderate‑certainty evidence\".\n   - Why problematic: Readers may not understand what the certainty level means.\n   - Suggested rewrite: \"We have moderate‑certainty evidence (meaning we are reasonably confident but some uncertainty remains) that zinc probably reduces deaths from lung infections and malaria.\"\n5. Bullet formatting: The draft uses hyphens correctly, but there is no blank line before the bullet list, making it blend with the preceding paragraph.\n   - Why problematic: Reduces visual separation and readability.\n   - Suggested rewrite: Insert a blank line before the \"Key messages:\" heading and ensure a blank line after each bullet list.\n\nMetrics support: The PLS evaluation shows a very high count of unfamiliar (Dale‑Chall) words (complex_words_dc = 232, P90), indicating many technical terms that could be simplified. Passive voice count is 16 (P75), confirming the need to shift to active constructions. These metric signals align with the clarity and style issues identified above.",
+      "pls_evaluation_summary": "The draft conforms well to most typical PLS patterns (overall high conformity). Readability scores are good (Flesch‑Reading‑Ease 63.7, grade level ~9.6). However, the number of Dale‑Chall unfamiliar words (232) is in the P90 range, suggesting the text uses more complex vocabulary than typical PLS. Passive voice (16 instances) is at the higher end of the typical range (P75). These deviations support the recommendation to simplify wording and increase active voice."
+    }
+  ]
+}

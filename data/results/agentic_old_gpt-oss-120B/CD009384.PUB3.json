@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009384.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is giving zinc supplements to children 6 months‑12 years effective at reducing death, illness, and improving growth?  \n\nKey messages  \n- Zinc does not clearly lower mortality (the number of deaths in a group over time).  \n- Zinc probably reduces diarrhoea (frequent, watery stools) and may add a small height gain, but it increases the chance of vomiting.  \n- When zinc is taken together with iron, the benefits for diarrhoea and growth appear smaller.  \n\nWhy is zinc deficiency a concern?  \nMany children in low‑ and middle‑income countries do not get enough zinc from food. Zinc supports the immune system, helps prevent infections, and promotes normal growth. Deficiency raises morbidity (the number of people who become ill) and mortality, and can cause linear growth failure (height that does not increase as a child ages).  \n\nWhat did we aim to find out?  \nWe asked whether daily zinc (usually 10–15 mg syrup) given to children 6 months‑12 years can:  \n- lower all‑cause death and death from diarrhoea, pneumonia‑type lung infections, or malaria;  \n- reduce how often these illnesses occur;  \n- improve height or weight; and  \n- what side‑effects, such as vomiting, might occur.  \n\nHow did we gather the evidence?  \nWe searched databases to February 2022 and included randomised trials that compared zinc with no zinc, placebo, or a waiting‑list control. We extracted data on death, illness (e.g., diarrhoea, respiratory infections) and growth (height, weight). We pooled results where possible and rated confidence using GRADE (high‑certainty = very reliable; moderate‑certainty = reasonably reliable).  \n\nWhat did we find?  \nWe analysed 96 trials (219 584 children) from 34 countries. High‑certainty evidence shows zinc does not reduce all‑cause death. Moderate‑certainty evidence indicates zinc probably lowers diarrhoea incidence and probably adds a small height increase. Zinc does not change lower‑respiratory infection rates. High‑certainty evidence shows about 29 % more children experienced vomiting when taking zinc.  \n\nWhat are the limitations?  \nEvidence for many outcomes rests on few events, giving moderate overall confidence.  \n\nWhat should future research address?  \nLonger‑term trials should track death, growth and side‑effects, and compare zinc alone with zinc + iron to clarify benefits and safety.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 369,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.043478260869566,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 118,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 72.93623541887595,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.07183457051962,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.218731000353479,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.105907859078584,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.005467185106637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.89171674325439,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.8260869565217392,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.483314773547882,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.941908283256748,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 167,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 70,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 88,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 369,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 369 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:54.415519"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014818.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the best pain relief methods for reducing pain after breast cancer surgery?\n\nKey Messages\n- We looked at four types of 'regional pain blocks' (injections to numb a specific area):\n  - Paravertebral block: an injection near the spine.\n  - Erector spinae plane block: an injection near the back muscles.\n  - Pectoral nerve block: an injection near the chest nerves.\n  - Serratus anterior plane block: an injection near the muscles in the side of the body.\n  Our review suggests these methods are comparable for reducing pain and complications after breast cancer surgery, but the evidence is not strong enough to make firm conclusions.\n- No harmful effects of these regional analgesia techniques were reported in the studies, which is a positive finding, but more research is needed to confirm this.\n- Future research should focus on comparing these techniques directly against each other in larger, well-designed studies to give better estimates of their benefits and potential harms.\n\nPain after breast cancer surgery and how it is treated\nPostoperative pain is a common problem for people who have had breast cancer surgery. It can be severe and affect a person's quality of life. Regional analgesia techniques, which involve injecting pain-relieving medication into specific areas of the body, are often used to manage postoperative pain. These techniques can help reduce pain and discomfort, but they can also have risks and side effects. There are several types of regional analgesia techniques that can be used to manage postoperative pain after breast cancer surgery, including paravertebral block (PVB), erector spinae plane block (ESPB), pectoral nerve block (PEC), and serratus anterior plane block (SAPB). These techniques involve injecting pain-relieving medication into specific areas of the body to block pain signals to the brain.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out which regional analgesia techniques are most effective in reducing postoperative pain after breast cancer surgery, and whether these techniques have any risks or side effects. They also wanted to compare the effectiveness of different techniques, such as PVB, ESPB, PEC, and SAPB, in reducing postoperative pain and improving quality of life for people who have had breast cancer surgery.\n\nHow did we do the review?\nWe searched for studies comparing regional analgesia techniques for postoperative pain after breast cancer surgery, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found that all four regional pain block techniques were comparable for reducing pain after surgery. This means they provided similar levels of pain relief. No harmful effects were reported in the studies we looked at. Our findings are based on 39 studies involving 2348 women who had breast cancer surgery.\n\nWhat are the limitations of the evidence?\nWe have less confidence in the evidence because:\n- the studies included only a small number of people;\n- there were not enough studies to be certain about the results;\n- the studies used different methods and included different types of people.\n\nHow up to date is this review?\nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 533,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.74074074074074,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 53,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 169,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 50.61278229448962,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.104010840108401,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.460163991383503,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.438649155722327,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.551080536446392,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.50809533736363,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.481481481481482,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.392304845413264,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.904093836425544,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 200,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 102,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 533,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 533 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:27.823288"
+}

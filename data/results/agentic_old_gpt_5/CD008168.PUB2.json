@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008168.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Is intermittent (on-and-off) light therapy as effective and safe as continuous light therapy for newborn jaundice?\n\nKey messages:\n- Overall, intermittent phototherapy (light treatment given in planned on-and-off periods) seems to lower bilirubin (the substance formed when red blood cells break down) about as well as continuous phototherapy (nearly nonstop light treatment) for most babies. Continuous phototherapy may work better for babies born early (preterm infants: babies born before 37 completed weeks of pregnancy). Intermittent schedules cut the total phototherapy exposure (total time a baby spends under the treatment lights).\n- Intermittent phototherapy reduced hours under the lights and so could make feeding and parent-baby contact easier. These practical benefits were not measured consistently in the trials (research programs conducted with patients to test treatments).\n- We need more large, well-designed studies to compare specific intermittent and continuous schedules, to measure key safety outcomes (including kernicterus: severe, permanent brain injury from very high bilirubin, also called bilirubin-induced brain dysfunction, meaning the brain is not working normally), and to report results separately for full-term and preterm babies.\n\nWhat is newborn jaundice and why is it important?\nNewborn jaundice makes a baby’s skin and the whites of the eyes look yellow. It happens when bilirubin builds up. Most jaundice is mild and clears on its own. Very high bilirubin can harm the brain and hearing. Very high levels can cause kernicterus (severe, permanent brain injury). Babies born early (preterm infants) are at higher risk. Treating jaundice early helps prevent harm.\n\nWhat is phototherapy and how can it be given?\nPhototherapy is light treatment (the use of certain types of light to treat a condition). The baby lies under blue lights or on a light-emitting pad. Continuous phototherapy means the lights stay on nearly nonstop with short pauses for care. Intermittent phototherapy means the lights are turned on and off in set cycles. Intermittent treatment can allow more time for feeding, sleeping, and parent-baby bonding. It can also lower total phototherapy exposure.\n\nWhat did we want to find out?\nWe wanted to compare intermittent phototherapy with continuous phototherapy for newborns with jaundice. We included both full-term and preterm infants. We focused on how fast bilirubin levels fell and on safety outcomes such as brain injury (kernicterus) and death.\n\nHow did we do this review?\nWe searched for trials that directly compared intermittent and continuous phototherapy. We combined and compared results across studies. We rated our confidence in the evidence using standard methods.\n\nWhat did we find?\nWe included 12 randomized controlled trials (studies where participants are randomly assigned to different treatments) with 1,600 newborn babies with jaundice (term and preterm, up to 30 days old). The trials used different light types, doses, and schedules chosen by the researchers. The most reported outcomes were how fast bilirubin fell (10 trials; 1,225 babies) and death (10 trials; 1,470 babies). Serious brain injury from severe jaundice (kernicterus or bilirubin-induced neurologic dysfunction) was reported in 1 small trial (60 babies). Treatment failure (when the treatment did not work and extra treatment was needed) was reported in 1 trial (75 babies). One trial is ongoing and 4 are awaiting classification.\n\nIntermittent phototherapy may make little to no difference in how quickly jaundice improves compared with continuous phototherapy (low-certainty evidence: research results we are not very confident in). We are unsure whether intermittent phototherapy changes the chance (risk) of brain injury from severe jaundice (very low-certainty evidence: we have very little confidence). We are very uncertain whether intermittent phototherapy affects the need for additional treatment (very low-certainty evidence). Intermittent phototherapy may make little to no difference to the risk of death (low-certainty evidence).\n\nWhat are the limitations of the evidence?\nWe have low confidence in these results. The trials included different types of babies and used different ways to give phototherapy. The evidence did not cover all the groups, treatment schedules, or outcomes we wanted. There were not enough trials to be certain about many results.\n\nHow current is the evidence?\nThe evidence is up to date to January 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 704,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 47,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.97872340425532,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 208,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 208.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 47.787561653771775,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.315054400386845,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.351989543036748,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.550965909090902,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.002852998065766,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.94463249516441,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.638297872340425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.041594578792296,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.5389247944874285,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 303,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 303.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 141,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 141.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 218,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 704,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 704 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:27.365865"
+}

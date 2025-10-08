@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008469.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed summary:\n\n**What are the benefits and risks of home-based educational interventions for children with asthma?**\n\nAsthma is a chronic airway condition that affects millions of people worldwide. Asthma education is an important part of managing the condition, and it can be provided in various settings. However, it's unclear whether education delivered in the home is better than usual care or the same education delivered elsewhere.\n\n**What did we want to find out?**\n\nWe wanted to see if home-based educational interventions for children with asthma are effective in improving their condition and reducing symptoms.\n\n**What did we do?**\n\nWe searched for studies that compared home-based educational interventions with usual care, education delivered outside the home, or less-intensive educational interventions. We included studies that were randomized controlled trials and focused on children and adolescents with asthma, their caregivers, or both.\n\n**What did we find?**\n\nWe found uncertain evidence about the effects of home-based educational interventions. However, our analysis suggests that home-based education may improve quality of life and reduce the odds of hospitalization compared to less-intensive educational interventions.\n\n**What are the limitations of the evidence?**\n\nThe evidence is uncertain about the effects of home-based education on symptom-free days, days missed from school/work, and exacerbations leading to hospitalization. The evidence is also uncertain about the effects of more-intensive versus less-intensive home-based education interventions.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to October 2022.\n\n**How accurate are the results?**\n\nThe results are uncertain, and we cannot make any conclusions about the effectiveness of home-based educational interventions.\n\n**What should happen next?**\n\nFurther studies are needed to determine the optimal content and setting for educational interventions in children with asthma.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 337,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.035714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 25,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 86,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.00391320474779,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.832711954217892,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.65497880457821,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.786231454005932,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.140695209834675,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.86360746078847,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.071428571428571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.203469944891904,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 141,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 337,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 337 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 7,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:42.657864"
+}

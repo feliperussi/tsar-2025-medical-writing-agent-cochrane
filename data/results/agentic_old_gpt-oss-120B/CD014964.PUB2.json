@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014964.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Is using ultrasound (a test that uses high‑energy sound waves to create images of tissues and organs inside the body) instead of feeling for anatomical landmarks (points you feel on the skin) better for giving spinal or epidural anaesthesia (numbing the lower back) to adults?\n\nKey messages  \n- Using ultrasound guidance (seeing the spine on a screen) usually reduces the number of needle insertions and shortens the time needed for neuraxial anaesthesia. It also probably raises the chance of success on the first try.  \n- The evidence shows little or no change in patient satisfaction (how happy patients feel about the procedure) and no clear increase in side‑effects. We are very uncertain about any effect on pain during the procedure or on adverse events (unwanted events that cause harm).  \n- The quality of the evidence varies. Future well‑designed randomised trials should focus on pain, side‑effects and patient‑reported outcomes and test whether the benefits apply to different patient groups (different ages, body types, types of surgery) and settings.\n\nWhy can giving neuraxial anaesthesia be difficult and why does it matter?  \nNeuraxial anaesthesia (a type of pain‑relief that numbs the lower back by inserting a thin needle near the spinal cord) is used for many surgeries and for labour. Doctors often locate the injection point by feeling anatomical landmarks. In people with obesity, spinal changes or previous surgery, the space may be higher or lower than expected. When the needle must be tried several times, the patient may feel more pain, the procedure takes longer, and the risk of complications (harmful outcomes such as bleeding or nerve injury) rises. Fewer attempts and a shorter procedure improve safety and comfort.\n\nWhat did the review aim to find out?  \nWe compared the traditional landmark technique with ultrasound guidance. We asked whether ultrasound helps doctors:  \n- achieve success with fewer needle attempts,  \n- finish the procedure more quickly,  \n- get the block right on the first try,  \n- avoid technical failure (when the procedure cannot be completed),  \n- reduce pain during the procedure,  \n- keep patients satisfied and safe.\n\nHow did we find the evidence?  \nWe searched electronic databases (PubMed, Embase, the Cochrane Library) for studies that compared ultrasound‑guided with landmark‑based neuraxial anaesthesia in adults. We included randomised controlled trials and observational studies that reported at least one relevant outcome (for example success rate, number of attempts, procedural time or complications). Two reviewers extracted data and pooled results using a random‑effects meta‑analysis. We expressed effects as risk ratios for yes/no outcomes and mean differences for measured outcomes, with 95 % confidence intervals. We judged the certainty of each result with the GRADE framework, which looks at risk of bias, inconsistency, indirectness, imprecision and publication bias.\n\nWhat did we find?  \nWe identified 65 randomised trials that enrolled 6 823 adults (aged ≥ 18 years). The trials were conducted on six continents between 2001 and 2023. About half (32 trials, 3 149 participants) involved pregnant women receiving labour epidural or caesarean‑section anaesthesia; the rest involved people having spinal, epidural, combined spinal‑epidural or thoracic epidural anaesthesia. All trials compared ultrasound (either a pre‑procedure scan or real‑time scanning) with the landmark method.  \n\nUsing ultrasound reduced the average number of needle attempts by 0.4 and shortened procedural time by roughly 34 seconds. The evidence for these benefits is strong. Ultrasound also probably increases first‑attempt success by about 40 % (risk ratio ≈ 1.4). It may make little or no difference to patient satisfaction or to the risk of technical failure. We are very uncertain whether ultrasound changes the amount of pain felt during the procedure or the likelihood of any adverse events.\n\nWhat are the limitations of the evidence?  \nMany trials were small and participants likely knew which technique was used, which can bias results. Because of these issues, confidence is limited for outcomes that rely on patients’ own reports, such as pain, satisfaction and adverse events.\n\nHow current is the evidence?  \nOur search was up to date to November 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 690,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 37,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.64864864864865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.121404230317296,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.203842538190365,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.19515041128085,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.453275362318838,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.92322757540149,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.909518213866036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.27027027027027,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.445523142259598,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.996146886016453,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 309,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 309.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 146,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 146.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 195,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 195.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 690,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 690 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 6,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:05.480858"
+}

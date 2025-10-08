@@ -1,0 +1,162 @@
+{
+  "id": "CD006913.PUB3",
+  "draft": "Can psychological interventions, such as therapy or counseling, help improve quality of life, depression, and anxiety in people with inflammatory bowel disease (a condition where the digestive tract is inflamed)?\n\n- Psychological interventions, such as therapy or counseling (talking treatments that help people understand and manage their thoughts and feelings), may slightly improve quality of life (overall well-being), depression (a mental health condition characterized by persistent sadness), and anxiety (a feeling of worry or fear) in people with inflammatory bowel disease (a condition where the digestive tract is inflamed), but the evidence is not strong enough to be certain.\n- Patient education (teaching patients about their condition and how to manage it) and relaxation techniques (methods to reduce stress and promote relaxation) may also have small positive effects on quality of life, depression, and anxiety, although the evidence is limited and more research is needed to confirm this.\n- Further research is needed to fully understand the effects of psychological interventions on inflammatory bowel disease, particularly to address the limitations of current studies, such as the variability in the types of interventions used and the lack of long-term follow-up, and to explore the potential benefits and harms of these interventions in different populations.\n\nWhat is inflammatory bowel disease and why is it a problem?\nInflammatory bowel disease (IBD) is a condition that causes inflammation in the digestive tract, leading to symptoms such as abdominal pain, diarrhea, and weight loss. People with IBD are also at a higher risk of developing psychological problems like depression and anxiety. While treatments like medication and surgery can help manage the physical symptoms of IBD, they may not address the psychological aspects of the condition. As a result, many people with IBD experience a reduced quality of life.\n\nWhat did the review authors want to find out?\nWe wanted to investigate the effects of psychological interventions, such as psychotherapy and relaxation techniques, on the quality of life, emotional state, and disease activity in people with IBD. We aimed to determine whether these interventions can improve symptoms, reduce stress and anxiety, and enhance overall well-being for individuals with IBD.\n\nWhat did we do?\nWe searched for studies on psychological interventions for inflammatory bowel disease, summarized their results, and rated our confidence in the evidence to assess their effects on quality of life, emotional state, and disease activity.\n\nWhat did we find?\nWe found 68 studies that involved 6141 people with inflammatory bowel disease. Most studies used multimodular approaches, including psychotherapy, patient education, and relaxation techniques, and compared these interventions to care-as-usual or other active treatments. Psychological interventions in adults are likely to improve quality of life, depression, and anxiety slightly. Psychotherapy is probably also effective for improving quality of life in children and adolescents. The evidence suggests that psychological interventions may have little to no effect on disease activity.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is moderate because the studies were conducted in heterogeneous populations and used varied delivery methods for the intervention. The trials were very small, increasing the risk of random error, and participants were likely aware of their assigned treatment, introducing potential performance bias. Moreover, the evidence does not encompass all relevant populations, interventions, comparators, or outcomes of interest, limiting its generalizability.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 578,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.083333333333332,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 185,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 185.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 26.36342704728952,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 26.4 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 15.565129757785467,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 16.133673587081894,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 16.1 to <13.6 (median)"
+        },
+        "coleman_liau_index": {
+          "value": 14.83280276816609,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 19.94475201845444,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.9 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 61.28056516724337,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.3 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 8.958333333333334,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.0 to <7.0 (median)"
+        },
+        "smog_index": {
+          "value": 15.24744871391589,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.515848212226068,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.5 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 268,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 268.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 149,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 215,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 215.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 578,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 578 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 1,
+        "P75_count": 3,
+        "P90_count": 9,
+        "P10_count": 1,
+        "BEYOND_P90_count": 4,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 50,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 22.22222222222222,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 16.666666666666664,
+        "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several issues that need to be addressed to improve its clarity and readability. Firstly, the text contains some technical terms without definitions, such as 'inflammatory bowel disease' and 'psychotherapy', which may confuse readers who are not familiar with these terms. For example, the sentence 'Inflammatory bowel disease (IBD) is a condition that causes inflammation in the digestive tract, leading to symptoms such as abdominal pain, diarrhea, and weight loss.' could be rewritten to provide a clearer definition of IBD. Secondly, some sentences are too long and convoluted, making them hard to follow. For instance, the sentence 'We searched for studies on psychological interventions for inflammatory bowel disease, summarized their results, and rated our confidence in the evidence to assess their effects on quality of life, emotional state, and disease activity.' could be broken up into shorter sentences for better clarity. Thirdly, the text could benefit from more active voice constructions, as the current draft has a high number of passive voice instances, which can make the text seem less engaging and more difficult to read. The PLS evaluation results show that the draft has a high number of nouns, complex words, and long words, which contribute to its low readability score. To improve the draft, it is suggested to reduce the number of nouns, complex words, and long words, and to use more active voice constructions and shorter sentences. Additionally, providing clearer definitions for technical terms and breaking up long sentences can also enhance the clarity and readability of the text.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the draft has a high number of nouns, complex words, and long words, which contribute to its low readability score. The results also indicate that the draft has a high number of passive voice instances, which can make the text seem less engaging and more difficult to read. The percentile ranges for the metrics are: words_per_sentence (P75), active_voice (P75), pronouns (P75), passive_voice (P50), nouns (P90), flesch_kincaid_grade (P90), automated_readability_index (P90), coleman_liau_index (P90), gunning_fog_index (P90), lix (P90), rix (P90), dale_chall_readability (P90), complex_words_dc (P90), flesch_reading_ease (P10), nominalization (BEYOND_P90), smog_index (BEYOND_P90), complex_words (BEYOND_P90), long_words (BEYOND_P90)."
+    }
+  ]
+}

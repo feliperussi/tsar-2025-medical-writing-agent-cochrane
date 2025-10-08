@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "How accurate are toe-brachial index (a test that compares blood pressure in the toes and arms) and toe systolic blood pressure (the pressure of blood in the toes) for diagnosing peripheral arterial disease (a condition where blood flow to the legs is reduced)?\n\nKey messages:\n- The accuracy of toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease is uncertain due to a lack of robust evidence.\n- Future studies should use stronger methods and report their results clearly to find out how accurate these tests really are.\n- Further studies are needed to comprehensively assess the benefits and potential harms of these diagnostic tests, particularly in different populations and settings.\n\nWhat is peripheral arterial disease?\nPeripheral arterial disease (PAD) is a condition where the arteries that supply blood to the legs become narrow. This is caused by a buildup of fatty material called plaque. Reduced blood flow can lead to problems like pain when walking, pain even at rest, and wounds that don't heal. In severe cases, it can lead to amputation. PAD also increases the risk of serious heart problems and death.\n\nWhy is it important to diagnose peripheral arterial disease accurately?\nFinding PAD early and accurately helps doctors choose the right treatments. This can prevent problems from getting worse, slow the disease down, or show when other action is needed.\n\nWhat did the review authors want to find out?\nThe review authors aimed to estimate the accuracy of toe systolic blood pressure and toe-brachial index for diagnosing PAD in the lower extremities, compare the accuracy of these two tests, and investigate possible sources of differences in test accuracy.\n\nHow did we search for evidence?\nWe looked for studies that compared the toe-brachial index or toe systolic blood pressure tests against a reliable, standard method for diagnosing PAD (like an ultrasound). To be included, studies needed to provide enough data for us to judge the accuracy of the tests.\n\nWhat were the inclusion criteria for the studies?\nWe included studies that compared these tests to a standard method for diagnosing PAD. These studies had to give us enough information to understand how well the tests worked.\n\nWhat did we find?\nWe found 18 studies that involved 2631 participants with peripheral arterial disease. Most studies used colour duplex ultrasound as a standard method for diagnosing PAD. The evidence base to support the use of toe-brachial index and toe systolic blood pressure to identify PAD is limited. While both tests are used extensively in clinics, their overall performance remains uncertain.\n\nWhat are the limitations of the evidence?\nThe evidence is limited due to the low quality of the studies, poor reporting of how participants were chosen, and very small study sizes.\n\nIs the evidence up to date?\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 492,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.571428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 49,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 23,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 139,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 55.05000000000001,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.946190476190477,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.900531358885019,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.660569105691053,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.670847851335658,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.44947735191637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.25,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.273618495495704,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.258148548199768,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 199,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 94,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 492,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 492 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:26.098248"
+}

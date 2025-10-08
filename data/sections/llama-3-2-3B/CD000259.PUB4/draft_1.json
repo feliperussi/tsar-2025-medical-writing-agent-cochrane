@@ -1,0 +1,162 @@
+{
+  "id": "CD000259.PUB4",
+  "draft": "**Does giving doctors feedback on their performance improve their practice?**\n\n- Giving doctors feedback on their performance can improve their practice, with moderate-certainty evidence that feedback leads to a mean absolute increase in desired practice of 6.2% (95% CI 4.1 to 8.2). However, effects vary in size and are influenced by factors such as the type of feedback, the level of individualisation, and the presence of a local champion. The quality of evidence is moderate-certainty due to the large number of studies included in the review.\n- A&F may be most effective when designed to help recipients prioritise and take action on high-priority clinical issues and with certain characteristics, such as targeting important performance metrics, measuring individual practice, involving a local champion, and facilitating engagement with the feedback.\n- Future research should focus on discerning ways to optimise the effectiveness of A&F interventions, particularly in terms of the design and delivery of feedback, and on exploring the long-term effects of A&F on healthcare professional practice.\n\n**What is the problem with healthcare professionals' practice?**\n\nAudit and feedback (A&F) is a widely used strategy to improve professional practice. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. Healthcare professionals may use medicines to help them stop smoking, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one. We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support (including the best people to give it); and what aspects of behavioural support help someone to stop smoking. We also wanted to know if behavioural support can cause any unwanted effects.\n\n**What did the researchers want to find out?**\n\nAudit and feedback (A&F) is a widely used strategy to improve professional practice. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. Healthcare professionals may use medicines to help them stop smoking, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking. Sometimes behavioural support can be combined with nicotine replacement or other medicines to help people stop smoking. Types of behavioural support can include: advice and counselling on ways to make it easier to stop smoking; information about why or how to stop; or a combination of these. Behavioural support can be given in group sessions or one-to-one. We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support (including the best people to give it); and what aspects of behavioural support help someone to stop smoking. We also wanted to know if behavioural support can cause any unwanted effects.\n\n**What did we find?**\n\nAudit and feedback interventions produce modest improvements in professional practice (median absolute increase 2.7%, mean 6.2%). Effectiveness is greater when feedback is individualized, compares performance to top‑peer benchmarks, involves a local champion, uses interactive multimodal delivery, and includes facilitation with actionable improvement plans. Lower baseline performance and a higher number of co‑interventions also amplify effects. Overall, A&F can improve practice, but the magnitude of benefit varies with these design features.\n\n**While the studies provide valuable insights, they are limited by small sample sizes, short follow‑up periods, and potential selection bias, which may affect the generalizability of the findings.**\n\n**The evidence is up to date to June 2020.**",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 687,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.62857142857143,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 11,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 113,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 184,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 44.68055895196508,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.903570804741111,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.338783530879603,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.596972343522562,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.769914743189853,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 53.54414639218133,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.6571428571428575,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.489125293076057,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.6159497775005205,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 289,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 289.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 136,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 136.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 233,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 687,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 687 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 8,
+        "P75_count": 3,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 27.77777777777778,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The plain language summary contains several clarity, style, and structure issues. Sentences are overly long, include jargon (e.g., \"A&F\"), and use passive constructions. The suggested rewrites improve readability, but the summary still needs more active voice, clearer context, and better use of bullet points to break up complex information. Further revision is required before approval.",
+      "pls_evaluation_summary": "The summary exceeds typical plain language standards due to long, jargon‑heavy sentences and insufficient active voice. Recommended actions: simplify terminology, split long sentences, add contextual framing, and use bullet points for lists."
+    }
+  ]
+}

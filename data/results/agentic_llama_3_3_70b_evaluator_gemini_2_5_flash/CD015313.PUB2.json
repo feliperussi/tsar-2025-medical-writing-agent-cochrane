@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015313.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can mucolytics reduce lung infections and improve breathing in children with chronic suppurative lung disease?\n\nWe looked at whether mucolytics (medicines that help break down mucus) can reduce lung infections and improve breathing in children with chronic suppurative lung disease (CSLD), a condition where the lungs are inflamed and produce excess mucus.\n\nWhat is chronic suppurative lung disease?\nChronic suppurative lung disease (CSLD) is a condition that affects the lungs and causes a long-term cough that brings up mucus. It includes several different conditions, such as bronchiectasis (a condition where the airways are damaged) and protracted bacterial bronchitis (PBB, a condition where the airways are infected).\n\nWhy is it important to find new treatments for chronic suppurative lung disease?\nCurrently, there are limited treatment options for CSLD. Researchers are looking for new ways to help manage the condition. One potential treatment is the use of mucolytic agents, which are medicines that help break down mucus in the lungs.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out if mucolytic agents are effective in reducing exacerbations (worsening of symptoms), improving quality of life, and improving lung function in children with CSLD.\n\nWhat did we do?\nWe searched for studies comparing mucolytics with a placebo or no intervention in children with chronic suppurative lung disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found one study that included 63 children, but the results were based on data from only 52 of them. The study compared two groups. One group received 3% hypertonic saline (a type of mucolytic) nebulised before chest physiotherapy. The other group (the control group) received only chest physiotherapy. We found no studies on oral mucolytics, other inhaled mucolytics, or mucolytic use during an exacerbation.\n\nWhat are the limitations of the evidence?\nWe judged the study to have a high risk of bias. This means there were flaws in how the study was done that could make the results unreliable. For example, people in the study likely knew which treatment they were getting, some data was missing, and there were issues with how the results were reported.\n\nIs the evidence up to date?\nThe evidence is up to date to September 2024.\n\nKey messages:\n- Regular use of mucolytics in children with chronic suppurative lung disease may reduce the number of lung infections, but the current evidence is uncertain and based on a single small study with limitations.\n- The study found some improvement in lung function with the use of hypertonic saline, but no data were available on quality of life or the use of mucolytics during exacerbations.\n- Further research is needed, including larger, well-designed studies that investigate different types of mucolytics and their effects on various outcomes, such as quality of life and long-term lung function.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 493,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.96153846153846,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.82189850210645,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.881267748478702,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.123081603994386,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.44259634888438,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.211390232485565,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.18466219378998,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.730769230769231,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.591663046625438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.346171820876893,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 200,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 94,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 149,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 493,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 493 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:29.427510"
+}

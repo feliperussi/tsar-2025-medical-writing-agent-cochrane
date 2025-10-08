@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011344.PUB3",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**Agent stopped due to max iterations.**\n\n- The review found that automated mandatory bolus (AMB) is associated with a lower incidence of breakthrough pain compared to basal infusion (BI), with moderate certainty. AMB was also associated with reduced hourly local anaesthetic (LA) consumption in bupivacaine equivalents, with moderate certainty. However, there were no significant differences in the incidence of caesarean delivery, instrumental delivery, duration of labour analgesia, and Apgar scores between AMB and BI, with moderate certainty. The quality of evidence for these findings is limited by the heterogeneity of the included studies and the lack of long-term data.\n- Future research should focus on assessing the incidence of caesarean and instrumental delivery in larger studies, as well as exploring the effects of AMB and BI on maternal satisfaction and neonatal outcomes.\n- The review suggests that AMB may be a useful option for maintaining labour epidural analgesia, but more research is needed to fully understand its benefits and harms, particularly in relation to longer-term outcomes and differences between subgroups of women.\n\n**What is the health problem?**\n\nEpidural analgesia is often used for pain relief during labour and childbirth, and involves administration of local anaesthetics (LA) into the epidural space resulting in sensory blockade of the abdomen, pelvis, and perineum. Epidural opioids are often co-administered to improve analgesia. Administration of epidural medications can be accomplished by basal infusion (BI) or automated mandatory bolus (AMB). With BI, medications are administered continuously, while AMB involves injecting medications at set time intervals. Patient-controlled epidural analgesia (PCEA) on top of AMB or BI enables patients to initiate additional boluses of epidural medications. The superior method of delivering epidural medications would result in lower incidence of pain requiring anaesthesiologist intervention (breakthrough pain). Also, it should be associated with lower incidence of epidural-related adverse effects including caesarean delivery, instrumental delivery (use of forceps or vacuum devices), prolonged duration of labour analgesia, and LA consumption. However, clear evidence of the superiority of one technique over the other is lacking. Also, differences in the initiation of epidural analgesia such as combined spinal-epidural (CSE) (medications given into the intrathecal space in addition to the epidural space) compared to epidural only, and medications used (types and doses of LA or opioids) may not have been accounted for in previous reviews. Our prior systematic review suggested that AMB reduces the incidence of breakthrough pain compared to BI with no significant difference in the incidence of caesarean delivery or instrumental delivery, duration of labour analgesia, and LA consumption. However, several studies comparing AMB and BI have been performed since then, and inclusion of their data may improve the precision of our effect estimates.\n\n**What did the researchers aim to discover?**\n\nThe review aimed to assess the effectiveness of X interventions on Y outcomes.\n\n**Research Aims**\n\nA systematic review of randomized controlled trials was conducted, following PRISMA guidelines.\n\n**Study Design**\n\nAuthors screened titles, extracted data, performed meta‑analysis, and evaluated risk of bias.\n\n**Core Actions**\n\nThe included studies were 18 studies of 4590 women, of which 13 enrolled healthy nulliparous women and five included healthy nulli- and multiparous women. All studies excluded women with preterm or complicated pregnancies. Techniques used to initiate epidural analgesia differed between the studies: seven used combined spinal epidural, 10 used epidural, and one used dural puncture epidural (DPE). There was also variation in analgesics used. Eight studies utilised ropivacaine with fentanyl, three used ropivacaine with sufentanil, two utilised levobupivacaine with sufentanil, one used levobupivacaine with fentanyl, and four utilised bupivacaine with fentanyl. Most of the studies were assessed to have low risk of randomisation, blinding, attrition, and reporting biases, except for allocation concealment where eight studies were assessed to have uncertain risk and three with high risk.\n\n**Main results**\n\nAutomated mandatory bolus (AMB) for epidural labour analgesia reduces breakthrough pain and local anaesthetic consumption compared with basal infusion (BI), and may improve maternal satisfaction. No significant differences were observed between AMB and BI in caesarean or instrumental delivery rates, duration of analgesia, or Apgar scores. Larger trials are needed to confirm effects on delivery outcomes.\n\n**Limitations**\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n**evidence_currency_statement:** The evidence is up to date to December 31, 2022 of search.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 745,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 40,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 49,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 49.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 22.250893456375877,
+        "rating": "BELOW_P10",
+        "direction": "higher_better",
+        "feedback": "Deviates from typical PLS patterns. Consider increasing from 22.3 to >40.5 (median)"
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.782743288590606,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 13.689506711409393,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 14.828402684563752,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 19.745302013422823,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.7 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 57.68540268456376,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.275,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 18.198684153570664,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 18.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.363115436241612,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 351,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 351.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 229,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 229.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 291,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 291.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 745,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 745 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 1,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 7,
+      "BELOW_P10_count": 1,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 38.88888888888889,
+      "BELOW_P10_percentage": 5.555555555555555,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "DEVIATES FROM TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:37.419833"
+}

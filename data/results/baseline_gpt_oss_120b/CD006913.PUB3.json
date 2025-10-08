@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006913.PUB3",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs psychotherapy or other psychological help useful for improving quality of life, mood and disease activity in people with inflammatory bowel disease (IBD)?\n\nKey Messages  \n- Psychotherapy, patient education and relaxation techniques each gave a small improvement in quality of life, depression and anxiety for adults with IBD; no harmful effects were reported.  \n- For children and teenagers, psychotherapy showed a moderate improvement in quality of life, while evidence for mood changes and disease activity was unclear.  \n- Because the studies were different from each other, often small, and sometimes had design problems, we are only moderately confident in these findings and more research is needed.\n\nWhat is inflammatory bowel disease and why does it matter?  \nInflammatory bowel disease (IBD) is a group of conditions that cause long‑lasting inflammation of the gut, leading to pain, diarrhea and fatigue. People with IBD often also experience anxiety, depression or other emotional problems, and these mental health issues can make the gut symptoms feel worse.\n\nWhy might psychological help be important?  \nTreatments that focus on thoughts, feelings, education or relaxation aim to reduce stress and improve coping. If people feel better mentally, they may also feel better physically and enjoy a higher quality of life.\n\nWhat did the review want to find out?  \nWe wanted to know whether psychological interventions—such as psychotherapy, education programmes or relaxation exercises—actually improve quality of life, emotional wellbeing (depression and anxiety) and the activity of IBD compared with usual care or no psychological support.\n\nWhat did we do?  \nWe searched many medical databases and conference records for studies that compared a psychological approach with usual care, a sham treatment or another active approach. We combined the results of the eligible studies and judged how much confidence we could place in the overall evidence.\n\nWhat did we find?  \n\nStudy characteristics  \nWe found 68 studies that together included about 6,400 people with IBD (roughly 6,100 adults and 300 children or teenagers). Most studies used a mix of several psychological components, such as talking therapy together with education or relaxation. The research was carried out in many countries and the follow‑up periods were at least two months. Some studies were funded by health organisations, while others received support from universities or charities.\n\nMain results for adults  \n- Psychotherapy probably improves quality of life slightly.  \n- Psychotherapy probably reduces depression and anxiety slightly.  \n- Patient education probably improves quality of life and reduces depression and anxiety slightly.  \n- Relaxation techniques probably improve quality of life and reduce depression and anxiety slightly.  \n- The studies did not show a clear effect of any psychological approach on the activity of the disease itself.\n\nMain results for children and teenagers  \n- Psychotherapy probably improves quality of life moderately.  \n- Evidence about its effect on depression, anxiety or disease activity was very uncertain, so we cannot tell if it helps or not.  \n- Education showed a possible small benefit for quality of life, but the evidence was weak.  \n- Relaxation techniques gave unclear results because the evidence was very uncertain.\n\nWhat are the limitations of the evidence?  \nWe are moderately confident in the evidence because the studies were somewhat different from each other, many were small, and some had problems such as participants knowing which treatment they received or outcomes being measured in ways that could be biased.\n\nHow up to date is this evidence?  \nThe evidence is up to date to May 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 594,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.5625,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 29,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 29.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 40.584971590909106,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.209981060606061,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.837361111111115,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.54983164983165,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.583249158249156,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 54.08438552188552,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.59375,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.874342087037917,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.380245454545456,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 243,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 243.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 136,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 136.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 211,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 211.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 594,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 594 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 7,
+      "P75_count": 2,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 27.77777777777778,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:56.585740"
+}

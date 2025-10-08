@@ -1,0 +1,162 @@
+{
+  "id": "CD013619.PUB2",
+  "draft": "Does having family members present during CPR affect relatives? The review found that offering relatives the option to be present during resuscitation of patients may reduce the occurrence of post-traumatic stress disorder (PTSD)-related symptoms in the relatives, anxiety, depression, and complicated grief after 1 year. However, the evidence for all outcomes except one was assessed as very low certainty. There was insufficient evidence to draw any firm conclusions on the effects of family presence during resuscitation (FPDR) on relatives.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 81,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 4,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.25,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 7,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 7.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 1,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 1.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 27,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 26.481250000000017,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 26.5 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 14.596388888888892,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <13.2 (median)"
+        },
+        "automated_readability_index": {
+          "value": 14.280185185185182,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.679012345679016,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 19.458024691358027,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.5 to <17.8 (median)"
+        },
+        "lix": {
+          "value": 54.8179012345679,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 7.795831523312719,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.632301234567901,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 34,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 23,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 28,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 81,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 81 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 3,
+        "P75_count": 2,
+        "P90_count": 3,
+        "P10_count": 1,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 2,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 11.11111111111111,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 5.555555555555555,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 11.11111111111111,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The evaluation finds the draft complete, within the word limit, and factually accurate, but notes several clarity, style, and structure issues. The recommendation is to approve the draft while implementing the suggested rewrites to improve readability and reduce passive constructions.",
+      "pls_evaluation_summary": "The draft meets all critical checks (completeness, format, factual accuracy, word count). Readability metrics indicate high sentence length, many passive constructions, and a Flesch‑Kincaid grade of 14.60. Specific issues include long sentences and wordy phrasing, with concrete rewrite suggestions provided."
+    }
+  ]
+}

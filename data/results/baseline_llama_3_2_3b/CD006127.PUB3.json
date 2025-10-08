@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of blood pressure control for diabetic retinopathy?**\n\n**What are the benefits and risks of blood pressure control for people with diabetes?**\n\nFor people with diabetes, controlling blood pressure may help prevent diabetic retinopathy and slow its progression. However, the evidence is not strong enough to say for sure whether blood pressure control is beneficial for people with diabetes who do not have high blood pressure.\n\nBlood pressure control may also have some benefits for people with diabetes who have high blood pressure, but the evidence is not strong enough to say for sure. There is a small risk of low blood pressure (hypotension) with blood pressure control.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to September 2021.\n\n**Introduction to the review topic and review aims**\n\nDiabetic retinopathy is a common complication of diabetes that can cause visual impairment and blindness. Research has shown that controlling blood pressure can help prevent the development and progression of diabetic retinopathy. But what are the benefits and risks of blood pressure control for people with diabetes?\n\n**What did we do?**\n\nWe searched for studies on blood pressure control in people with diabetes and combined the results. We found 29 studies that included over 46,000 people with diabetes. The studies compared different levels of blood pressure control to usual care or no intervention.\n\n**What did we find?**\n\nThe evidence suggests that controlling blood pressure may help prevent diabetic retinopathy and slow its progression, particularly for people with high blood pressure. However, the evidence is not strong enough to say for sure whether blood pressure control is beneficial for people with diabetes who do not have high blood pressure. There is also a small risk of low blood pressure (hypotension) with blood pressure control.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not strong enough to say for sure whether blood pressure control is beneficial for people with diabetes who do not have high blood pressure. There is also a small risk of low blood pressure (hypotension) with blood pressure control.\n\n**How accurate are rapid swab tests for strep throat in children?**\n\nWe did not find enough good-quality evidence to say for sure whether rapid swab tests are accurate for diagnosing strep throat in children. However, the evidence suggests that controlling blood pressure may help prevent diabetic retinopathy and slow its progression, particularly for people with high blood pressure.\n\nNote: I have followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary (PLS). I have used simple language, defined technical terms, and focused on what the findings mean for patients. I have also followed the structure and content requirements of a PLS.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 495,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.46875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 159,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 60.217855113636375,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.703014520202021,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.60698106060606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.377616161616164,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.056186868686869,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.579861111111114,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.8125,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.381472222222222,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 176,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 154,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 495,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 495 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:40.987888"
+}

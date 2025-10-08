@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015313.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can mucus-thinning medicines lower infections and improve breathing in children with chronic lung disease?\n\nWe looked at whether mucus-thinning medicines (mucolytics) can help children with chronic lung disease. \n\n- Mucolytics, like hypertonic saline, may reduce lung infections in children with chronic lung disease, but the evidence is not strong.\n- The current evidence comes from a single small study with methodological flaws, so the results should be interpreted with caution.\n- More research is needed to understand the benefits and harms of mucolytics for children with chronic lung disease.\n\nWhat is chronic suppurative lung disease?\nChronic suppurative lung disease (CSLD) is a term used to describe a group of lung conditions that cause a long-term cough with mucus or pus. This includes conditions like bronchiectasis and protracted bacterial bronchitis (PBB). CSLD can lead to frequent lung infections, inflammation, and damage to the airways, making it hard for children to breathe.\n\nWhy is it important to find new treatments for chronic suppurative lung disease?\nCurrently, there are limited treatment options for CSLD, and researchers are looking for new ways to help children with this condition. Mucolytic agents, which help break down mucus, are one potential treatment option. They work by improving the clearance of mucus from the airways and reducing the risk of infection and inflammation.\n\nWhat did the review authors want to find out?\nThe authors of this review wanted to determine whether mucolytic agents are effective in reducing the frequency of lung infections, improving lung function, and enhancing the quality of life for children with CSLD. They also aimed to assess the potential risks and side effects of using mucolytic agents in this population.\n\nHow did the authors search for evidence?\nWe searched for studies comparing mucolytics to a control in children with chronic suppurative lung disease. We summarized their results and rated our confidence in the evidence.\n\nWhat did the authors find?\nThe sole included study was a small cross-over study of 63 children with non-cystic fibrosis bronchiectasis. The study compared 3% hypertonic saline nebulised before chest physiotherapy with a control arm (physiotherapy alone). Children in the hypertonic saline arm had fewer lung infections than those in the control arm. However, the study had methodological flaws, and the evidence is not strong.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the study was small and had methodological flaws. More research is needed to fully understand the potential benefits and harms of mucolytics for children with chronic lung disease.\n\nIs the evidence up to date?\nThe evidence is up to date to June 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 452,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.74074074074074,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 18,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.02323664372338,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.022517207472962,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.417427892494263,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.740796460176988,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.660898066207801,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.59914782038676,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.333333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.1882610947230425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 182,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 90,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 144,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 452,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 452 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:15.408940"
+}

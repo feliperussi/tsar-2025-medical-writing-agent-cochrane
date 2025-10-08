@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of individualised gonadotropin dose selection using markers of ovarian reserve for women undergoing in vitro fertilisation plus intracytoplasmic sperm injection (IVF/ICSI)?**\n\n**Key Messages:**\n\n* We compared different ways of giving gonadotropin to women having IVF/ICSI to see if it helps them have more babies or reduces the risk of a serious health problem called ovarian hyperstimulation syndrome (OHSS).\n* We looked at 26 studies involving 8520 women.\n* The evidence is not very clear because the studies were not all the same and some were very small.\n* We found that it's unclear if giving a higher dose of gonadotropin to women who are predicted to have a good response to treatment (based on their age and other factors) helps them have more babies or reduces the risk of OHSS.\n* We also found that giving a lower dose to women who are predicted to have a poor response to treatment might reduce the risk of OHSS, but we're not sure if it helps them have more babies.\n* Some studies found that using a special algorithm to decide how much gonadotropin to give based on the woman's age and other factors might reduce the risk of OHSS, but we're not sure if it helps them have more babies.\n\n**What did we do?**\n\nWe searched for studies that compared different ways of giving gonadotropin to women having IVF/ICSI and combined the results of the studies.\n\n**What did we find?**\n\nWe found that it's unclear if individualising the dose of gonadotropin based on ovarian reserve improves clinical outcomes. Low-certainty evidence suggests that it is unclear if ORT-based individualisation leads to an increase in live birth/ongoing pregnancy rates compared to a policy of giving all women 150 IU. The confidence interval is consistent with an increase of up to around six percentage points with ORT-based dosing (e.g. from 25% to 31%) or a very small decrease (< 1%). A difference of this magnitude could be important to many women. It is unclear if this is driven by improved outcomes in a particular subgroup. Further, ORT algorithms reduced the incidence of OHSS compared to standard dosing of 150 IU. However, the size of the effect is also unclear.\n\n**What are the limitations of the evidence?**\n\nThe evidence is not very clear because the studies were not all the same and some were very small. We also found that the studies were not all well-designed, which makes it harder to interpret the results. Additionally, we're not sure if the findings apply to all women or just to those who are predicted to have a good or poor response to treatment.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2023. However, we're not sure if there have been any new studies published since then that might change our findings.\n\nPlease note that this is a manual transformation and may not be perfect. If you need any further assistance, feel free to ask.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 555,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.903225806451612,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 46,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 104,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 66.2599825632084,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.465050857308928,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.643072362685267,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.666450450450451,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.990119151409473,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.52484742807323,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.870967741935484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.48528137423857,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.639225225225225,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 167,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 67,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 555,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 555 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:45.434381"
+}

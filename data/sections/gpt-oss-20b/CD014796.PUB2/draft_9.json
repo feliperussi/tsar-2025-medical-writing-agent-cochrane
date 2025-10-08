@@ -1,0 +1,162 @@
+{
+  "id": "CD014796.PUB2",
+  "draft": "What do patients, healthcare providers, and policymakers think influences the planning, delivery, and use of general health checks (comprehensive health screenings)?\n\nKey messages\n– Patients say health checks motivate them to adopt healthier habits and give reassurance, but fear bad results, worry about treatment costs, or wait for symptoms, which can lower attendance.  \n– Providers say skilled, culturally competent staff and clear invitation and information systems boost attendance, yet they face barriers such as competing curative duties, staff shortages, limited resources, and reimbursement problems.  \n– Policymakers say a supportive political climate and backing from multiple stakeholders are needed to establish health‑check services, and no direct harmful effects of the checks themselves were reported.\n\nWhy are general health checks offered and what is the problem?  \nGeneral health checks are routine appointments for people who feel well. During a check we measure blood pressure, cholesterol, blood sugar and perform cancer screens (tests that look for early signs of disease). The hope is that early detection and advice will help people change risky habits and reduce illness and death in the whole population. However, a 2019 Cochrane review found that these checks have little or no effect on the most important outcomes, such as overall mortality, cancer rates or heart‑disease rates. In other words, despite their popularity, the evidence suggests they do not deliver the big health benefits they promise.\n\nWhat do we need to learn about planning (commissioning), delivering, and using health checks?  \nWe want to hear from three groups:  \n– those who decide whether to fund or organise the checks (commissioning),  \n– the health‑care professionals who run the checks (delivery), and  \n– members of the public who choose to attend or not attend (uptake).  \nBy analysing qualitative studies – research that records opinions, feelings and lived experiences – we aim to identify what helps or hinders each step. This human‑focused insight can complement the earlier finding that the checks have limited clinical impact.\n\nHow did we gather the evidence?  \nWe searched MEDLINE, CINAHL and citation lists for qualitative studies that explored stakeholder views of commissioning, delivery and uptake of general health checks. We combined the findings using a framework synthesis and we rated our confidence in each finding with the GRADE‑CERQual approach, a method that assesses how much we can trust the evidence. Our searches covered studies published up to August 2022.\n\nWhat did we find?  \nWe identified 146 qualitative studies and selected 36 that offered a rich variety of perspectives for detailed analysis. Most studies came from high‑income European countries; about one‑third were from middle‑income regions in Eastern Europe, South and Southeast Asia, and Latin America. The studies were carried out in 16 primary or community health‑care centres, four workplaces and four community settings. They explored three stakeholder groups: clients or potential clients (25 studies), health‑care providers (15 studies) and health‑care managers or commissioners (9 studies). All studies examined health checks that screened for at least two diseases or risk factors.\n\nWhat are the main results about motivation, reassurance and barriers?  \n– Clients said health checks increase motivation to adopt healthier lifestyles and give reassurance about their health status.  \n– Clients who fear negative results or who rely on symptom‑based care are less likely to attend.  \n– Skilled and culturally competent providers increase client participation.  \n– Time pressures, staff shortages and limited resources reduce the delivery of health checks.  \n– Clear information, invitation systems and education raise awareness and improve uptake.  \nOverall, health checks shape how people view prevention and influence their decision to attend.\n\nWhat are the limitations of the evidence?  \nWe are not very confident in many findings because the original studies were small, used different methods, and participants often knew which check they were receiving. These factors limit how strongly we can rely on the results.\n\nHow current is the evidence?  \nWe searched studies up to August 2022, so the evidence is current as of that date.\n\nWhat does this mean for practice?  \nQuantitative studies show little impact on mortality, yet patients, providers and policymakers still find health checks popular and useful, especially when they offer a comprehensive set of tests and clear explanations of results. If we want to change or reduce these services, we will need alternatives that address the motivations and concerns we identified. We also need more research on how culture, society and policy affect whether people use health checks and how they are planned.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 750,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 40,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.75,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 100,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 28,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 231,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 231.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.09015000000002,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.791300000000003,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.834119999999999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.44469333333333,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.446666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 51.016666666666666,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.05,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.041594578792296,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.709173333333334,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 322,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 322.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 149,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 149.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 242,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 750,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 750 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 3,
+        "P75_count": 4,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 6,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 33.33333333333333,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the clarity check because it contains several statements that would likely confuse a lay reader. \n1. **Unexplained technical terms** – \"framework synthesis\" and \"GRADE‑CERQual\" appear without any plain‑language explanation, leaving readers unsure what these methods mean. \n   *Rewrite:* \"We combined the findings using a simple step‑by‑step approach (called a framework synthesis) and checked how much we could trust each result with a standard method (called GRADE‑CERQual).\"\n2. **Overly long, noun‑heavy sentence** – \"We searched MEDLINE, CINAHL and citation lists for qualitative studies that explored stakeholder views of commissioning, delivery and uptake of general health checks.\" This 24‑word sentence packs several ideas and uses the noun‑heavy phrase \"stakeholder views of commissioning, delivery and uptake\". \n   *Rewrite:* \"We searched MEDLINE, CINAHL and citation lists. We looked for studies that asked people – such as policymakers, providers and patients – what they think about planning, running and using health checks.\"\n3. **Noun‑heavy description of study selection** – \"We identified 146 qualitative studies and selected 36 that offered a rich variety of perspectives for detailed analysis.\" The sentence relies on abstract nouns (\"identification\", \"selection\", \"variety of perspectives\"). \n   *Rewrite:* \"We found 146 studies and chose 36 that gave us a wide range of viewpoints to examine in detail.\"\n4. **Passive‑voice, unclear phrasing** – \"The evidence is up to date to August 2022 of search.\" This passive construction and awkward wording can be hard to follow. \n   *Rewrite:* \"We searched for studies published up to August 2022, so the evidence reflects research up to that date.\"\nThese issues are supported by the metric report, which shows unusually high counts of nominalisations (28), nouns (231), complex words (149) and long words (242). Reducing noun‑heavy phrasing and replacing nominalisations with active verbs will improve readability and align the draft with typical PLS patterns.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft meets word‑count limits and has good sentence length (words_per_sentence 18.75, P25) and active voice (100% active, P75). However, it deviates markedly in noun‑heavy and complex language: nominalisations, nouns, SMOG index, complex words, and long words are all beyond the 90th percentile, indicating the text is more dense than typical PLS. These metric deviations corroborate the identified clarity issues."
+    }
+  ]
+}

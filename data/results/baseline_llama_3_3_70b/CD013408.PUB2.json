@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013408.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of organised clinical services for adults with atrial fibrillation?\n\nKey Messages:\n- Organised clinical services for adults with atrial fibrillation probably result in a large reduction in all-cause mortality compared to usual care.\n- However, organised clinical services probably make little to no difference to all-cause hospitalisation and may not reduce cardiovascular mortality compared to usual care.\n- Organised clinical services reduce cardiovascular hospitalisation compared to usual care.\n- Due to the limited number of studies, more research is required to compare different models of care organisation, including utilisation of mHealth.\n\nIntroduction to the review topic and review aims:\nWhat is atrial fibrillation? \nAtrial fibrillation is a common heart condition that can be complex to manage. The condition can increase the risk of stroke, heart failure, and other heart-related problems. Organised clinical services for atrial fibrillation involve a team of healthcare professionals working together to provide care. This can include doctors, nurses, and other specialists. The team works together to develop a plan to manage the condition and prevent complications. Organised clinical services can be provided in different ways, including in-person care, virtual care, or a combination of both.\n\nWhat did we want to find out?\nWe wanted to find out if organised clinical services are effective in reducing the risk of complications and improving outcomes for adults with atrial fibrillation.\n\nWhat did we do?\nWe searched for studies that compared organised clinical services with usual care for adults with atrial fibrillation. We compared and summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found eight studies that involved over 8,000 participants. The studies showed that organised clinical services probably result in a large reduction in all-cause mortality compared to usual care. However, organised clinical services probably make little to no difference to all-cause hospitalisation and may not reduce cardiovascular mortality compared to usual care. Organised clinical services reduce cardiovascular hospitalisation compared to usual care.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were not perfect. \n\nHow up to date is this evidence?\nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 401,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.04,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 104,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 37.38831521197011,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.029191022443893,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.220598503740653,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.10364089775561,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.48831920199501,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.95271820448878,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.535653752852738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.883364548628429,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 180,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 111,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 140,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 401,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 401 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 5,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:33.100426"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011538.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "What do education support services do for children with chronic health conditions?\n\nKey messages\n– It is unclear if education support improves school engagement or academic achievement for children with chronic health conditions.\n– Education support may help improve children’s mental health, but the evidence is limited.\n– More high‑quality research is needed to know whether these services truly help children stay in school and learn.\n\nWhat is a chronic health condition?\nChronic health conditions are long‑lasting illnesses that do not go away on their own. They can make it hard for children to go to school and keep up with classmates.\n\nWhy is staying in school important?\nGoing to school helps children learn, make friends, and feel good about themselves. When children miss school because of illness, they can feel left out and may find it harder to keep up.\n\nWhat are education support services?\nEducation support services are extra help that schools or health teams give to children with chronic illnesses. They can include tutoring, special lessons, or help with catching up after a sickness.\n\nWhat did we want to find out?\nWe wanted to see if these extra help services actually make children more engaged in school and do better in their studies.\n\nWhat did we do?\nWe searched many databases for studies that compared education support with no support for children with chronic health conditions, we counted how the studies reported outcomes, and we judged how confident we were in the evidence.\n\nWhat did we find?\nWe found four studies that met our criteria. Together they included 359 children, most of whom had cancer or attention‑deficit/hyperactivity disorder (ADHD). All studies were designed to give children either extra education help or the usual care.\n\nSchool engagement\nThree of the four studies suggested that extra education help might keep children more engaged in school, but the evidence is very uncertain.\n\nAcademic achievement\nTwo studies looked at grades or test scores. One study showed a small improvement, while the other showed a small decline. The overall evidence is unclear.\n\nTransition back to school\nOne small study looked at how well children returned to school after illness. The result was uncertain because the study had only 30 children.\n\nMental health\nTwo studies measured children’s self‑esteem. Both found that extra education help seemed to boost self‑esteem, but the evidence is limited.\n\nQuality of life and adverse effects\nNo studies reported on children’s overall quality of life or any negative effects of the support.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and many had problems that could affect the results. The researchers may have known which children were getting extra help, which can influence how they behave. Because of these issues, we cannot be sure whether the support truly helps.\n\nHow up to date is this evidence?\nThe evidence is up to date to January 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 519,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.727272727272727,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 63,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 36,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 28,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 137,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 66.98742511823438,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.823019793308813,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.941728849185498,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.168786127167632,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.994184620774217,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.24365037659835,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.484848484848484,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.660254037844387,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.739167139604134,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 74,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 519,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 519 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:16.698580"
+}

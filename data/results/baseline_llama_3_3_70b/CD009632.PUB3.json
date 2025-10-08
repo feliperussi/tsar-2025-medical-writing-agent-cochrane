@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009632.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of adding ultrasonography to mammography for breast cancer screening in women at average risk?\n\n### Key Messages\n* Adding ultrasonography to mammography can detect more breast cancers, especially in women with dense breasts, but it also leads to more false-positive results and unnecessary biopsies. \n* We are moderately confident in the evidence because the studies had some limitations. \n* Future research should focus on whether adding ultrasonography to mammography can reduce the risk of dying from breast cancer and improve quality of life for women with breast cancer.\n\n### Introduction to the review topic and review aims\nWhat is breast cancer screening? \nBreast cancer screening is a way to detect breast cancer at an early stage, when it is easier to treat. Mammography, which uses low-energy X-rays to examine the breast, is a common screening method. However, mammography may not detect all breast cancers, especially in women with dense breasts. \n\nWhat did we want to find out? \nWe wanted to find out if using ultrasonography in addition to mammography can help detect more breast cancers and reduce the risk of false-negative results, and what the potential harms of this approach might be.\n\n### What did we do? \nWe searched for studies that compared mammography alone with mammography plus ultrasonography for breast cancer screening in women at average risk. We then summarized and evaluated the results of these studies.\n\n### What did we find? \nWe found eight studies that included over 209,000 women. The studies showed that adding ultrasonography to mammography can detect more breast cancers, especially in women with dense breasts. However, it also leads to more false-positive results and unnecessary biopsies. For every 1000 women screened, 37 more will have a false-positive result and 27 more will have a biopsy if they receive both mammography and ultrasonography compared to mammography alone.\n\n### What are the limitations of the evidence? \nWe have moderate confidence in the evidence because the studies had some limitations. The studies were not all randomized controlled trials, and some had methodological limitations. Additionally, none of the studies analyzed whether the higher number of screen-detected cancers in the intervention group resulted in a lower mortality rate compared to mammography alone.\n\n### How up to date is this evidence? \nThe evidence is up to date to May 2021. \n\nIn conclusion, adding ultrasonography to mammography can detect more breast cancers, especially in women with dense breasts, but it also leads to more false-positive results and unnecessary biopsies. Future research should focus on whether adding ultrasonography to mammography can reduce the risk of dying from breast cancer and improve quality of life for women with breast cancer.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 479,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.80952380952381,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 52,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 26,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 48.9238343771747,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.101956456904265,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.443133512277562,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.951983298538622,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.637379461179046,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.861715876329654,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.714285714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.831760866327848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.933106034397058,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 176,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 78,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 479,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 479 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 6,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:29.959526"
+}

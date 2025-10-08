@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "Do patient decision aids (tools that help people make informed health decisions) improve health choices compared to usual care?\n\nWe looked at 209 studies that involved over 107,000 participants. These studies compared patient decision aids to usual care for 71 different health decisions. The most common decisions were about treatments for heart disease, cancer screening, cancer treatments, mental health treatments, and joint replacement surgery.\n\nKey messages:\n- Patient decision aids probably help people make health choices that align with their values. They do this by improving knowledge, helping people understand the risks and benefits, and encouraging involvement in decision-making.\n- Decision aids seem to help people feel more informed and clearer about their personal values, without causing more regret about their final choice. They may also help more people take an active part in decisions.\n- However, we need more research to understand the long-term effects of decision aids on whether people stick to their chosen option, their overall health, and healthcare costs.\n\nWhat is the problem of making health decisions?\nWhen people face health treatment or screening decisions, they often need support to make informed choices. Health decisions can be complex and involve weighing the benefits and harms of different options. Patient decision aids are tools designed to help people make health decisions by providing evidence-based information and clarifying their personal values.\n\nWhat are patient decision aids?\nPatient decision aids are tools like booklets, videos, or websites. They help you understand your health choices by:\n- Clearly explaining the decision you need to make\n- Giving reliable information about the good and bad points of each option\n- Helping you think about what is most important to you\n\nWhat did we want to find out?\nWe wanted to know if these aids help people make choices that match their personal values. We also looked at whether the aids improved people's knowledge, helped them understand risks correctly, and encouraged them to take part in the decision.\n\nHow did we conduct the review?\nWe searched for studies comparing patient decision aids to usual care, summarized and combined their results, and rated our confidence in the evidence to assess the effects of patient decision aids on health decisions.\n\nWhat did we find?\nPatient decision aids probably help more adults make informed choices that are in line with their personal values. People who used them were more likely to understand their options, including the benefits and harms. The aids may have also helped more people take an active part in making the decision.\n\nWhat are the limitations of the evidence?\nThe evidence has some limitations:\n- It was not always possible to 'blind' participants (meaning they knew which treatment they were getting).\n- Some studies did not report all their results.\n- The studies included many different types of people and used the aids in various ways, which makes it harder to compare the results.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 523,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.433333333333334,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 79,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 158,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 61.0269735500319,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 9.078216061185469,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.341351179094964,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.28374760994264,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.7802166985341,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.54040790312301,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.219544457292887,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.842551841937541,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 198,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 89,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 147,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 523,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 523 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 1,
+        "P75_count": 7,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 88.88888888888889,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns, with 89% of its linguistic features falling within the best quartile for readability and clarity. All readability scores, such as the Flesch-Kincaid Grade Level (9.08), are excellent. The only minor deviation is a high noun count (158, in the 90th percentile? Actually 90th percentile), which suggests some sentences could be more verb-focused, but this does not significantly impact the overall high quality of the summary."
+    }
+  ]
+}

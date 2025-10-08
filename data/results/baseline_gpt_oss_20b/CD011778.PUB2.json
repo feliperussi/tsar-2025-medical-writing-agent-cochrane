@@ -1,0 +1,155 @@
+{
+  "file_id": "CD011778.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Does adding antimicrobial photodynamic therapy (aPDT) to cleaning help people with gum disease?\n\nKey messages\n- We are not sure if adding aPDT to the usual cleaning of gums or implants improves gum health after six months. Any small differences seen were not big enough to matter for people.\n- We found no serious side effects from aPDT, and most people did not experience problems.\n- More large, well‑designed studies are needed to know whether aPDT can really help people with gum disease or with implants.\n\nWhat is gum disease and why is it a problem?\nGum disease, also called periodontitis, is a long‑term inflammation that can damage the tissues and bone that hold teeth in place. If it is not treated, the damage can get worse and teeth may fall out. People with dental implants can also develop a similar problem around the implant, called peri‑implant disease.\n\nWhat is antimicrobial photodynamic therapy (aPDT)?\naPDT is a light‑based treatment that kills bacteria. First a special medicine that absorbs light is applied to the gum area. Then a low‑power light is turned on. The light activates the medicine and produces a reaction that destroys the bacteria that cause gum disease.\n\nWhat did we want to find out?\nWe wanted to know whether adding aPDT to the standard cleaning of gums or implants gives people better results after six months compared with cleaning alone or cleaning plus a fake light treatment.\n\nHow is gum disease treated?\n– Cleaning of the gum pockets with hand or power tools (scaling and root planing)\n– Improving oral hygiene at home\n– Stopping smoking or other risk factors\n– Surgery when needed\n\nWhat did we do?\nWe searched many medical databases for studies that compared cleaning with or without aPDT, combined the results, and judged how confident we were in the findings.\n\nWhat did we find?\nWe found 50 studies that included 1,407 people. Most studies were small, with only a few people in each group, and many used a split‑mouth design where one side of the mouth received aPDT and the other did not. The studies were carried out in many countries and used different types of cleaning tools.\n\nMain results\nWe are very uncertain whether adding aPDT improves any of the measured outcomes after six months. The small differences that were seen were not big enough to matter for people. We found no serious side effects from aPDT, and most people did not experience problems. No studies reported improvement in pocket closure, patient satisfaction or quality of life.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small, many had unclear methods, and the results were inconsistent. It is also possible that differences between groups were due to people rather than the treatment. Because of these issues, we cannot be sure whether aPDT really helps.\n\nHow up to date is this evidence?\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 515,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.166666666666668,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 51,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 133,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 69.9852022653722,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.762475728155341,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.032809061488678,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.541825242718446,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.449190938511329,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 41.43851132686085,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.166666666666667,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.071067811865476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.431622006472493,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 182,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 59,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 515,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 515 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 0,
+      "P75_count": 8,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 0.0,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 100.0,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:16.838305"
+}

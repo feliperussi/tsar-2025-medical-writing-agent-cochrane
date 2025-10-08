@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014788.PUB2",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can hormone treatments help reduce pain in women with endometriosis, and are they safe?\n\nKey Messages\n- Hormone treatments, called gonadotropin-releasing hormone analogues (GnRHas), may help reduce pain in women with endometriosis, but the evidence is not very strong.\n- We are uncertain about the effects of GnRHas on bone health, but there may be a slight decrease in bone density when using GnRHas.\n- Future research should focus on studying the long-term effects of GnRHas on pain relief and bone health in women with endometriosis.\n\nWhat is endometriosis and why is it a problem?\nEndometriosis is a common condition that affects 6 to 11% of women of reproductive age. It can cause painful symptoms like pain during sex, painful periods, and difficulty getting pregnant. Endometriosis occurs when tissue similar to the lining of the uterus (womb) grows outside the uterus, leading to inflammation, scarring, and areas where organs stick together.\n\nWhat did the review authors want to find out about GnRHas for endometriosis?\nWe wanted to find out how well GnRHas work for endometriosis pain and if they are safe. We also aimed to determine the effects of GnRHas on bone mineral density in women with endometriosis.\n\nHow did we find the evidence?\nWe searched for studies comparing GnRH analogues with other treatments and rated our confidence in the evidence.\n\nWhat are the main results of the review?\nSeventy-two studies involving 7355 patients were included. The evidence was very low to low quality.\n- GnRHas may help reduce overall pain in women with endometriosis, but we are not certain about the size of the benefit.\n- We are uncertain about the effect of GnRHas on bone health, but there may be a slight decrease in bone density when using GnRHas.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is limited for several reasons:\n- In some studies, people knew which treatment they were getting, which could have influenced the results.\n- Not all studies reported on all the outcomes we were interested in.\n- Many studies were very small, which makes their results less reliable.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 382,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.1,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 5,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 32,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 105,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 60.991431937172806,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.497219895287962,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.635575916230366,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.510471204188477,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.980314136125656,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.18376963350785,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.348469228349535,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.9075694240837695,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 120,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 51,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 92,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 382,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 382 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 11,
+      "P50_count": 5,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 61.111111111111114,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:27.139201"
+}

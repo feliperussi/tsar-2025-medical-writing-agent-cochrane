@@ -1,0 +1,162 @@
+{
+  "id": "CD013408.PUB2",
+  "draft": "\"Does organised (team‑based or digital) care for adults with atrial fibrillation (irregular heartbeat) reduce death and hospital visits compared with usual care?\"\n\nKey messages\n– We found that care programmes that bring together several health professionals (multidisciplinary care) or use digital tools (mHealth) probably lower the chance of dying from any cause; the evidence is of moderate certainty and we did not see a clear increase in serious bleeding.  \n– We found that these programmes probably reduce hospital stays caused by heart problems (cardiovascular hospitalisations) but make little or no difference to overall hospital admissions, deaths from heart causes, stroke, or major bleeding.  \n– The studies were small, varied, and did not examine all possible harms, so we need larger, longer trials to compare different models, assess costs and quality of life, and confirm these findings.\n\nWhat is atrial fibrillation and why does it matter?  \nAtrial fibrillation (AF) is a common heart‑rhythm problem where the upper chambers of the heart beat irregularly and often very fast. This can make the heart work less efficiently and raises the risk of stroke, heart failure, and early death. As people get older, more adults develop AF, so health services see a growing number of patients who need careful, ongoing care. Traditional care often involves a single doctor, but AF can affect many parts of the body. Experts therefore suggest a team‑based approach—called multidisciplinary care—where nurses, pharmacists, and other specialists work together, and the use of digital tools (eHealth or mobile health, called mHealth, which are health services delivered through computers or smartphones) might improve outcomes.\n\nWhat did we want to find out?  \nWe aimed to compare organised, team‑based or technology‑supported models of care for adults with any type of AF against the usual way care is delivered (usual care). Specifically, we wanted to know whether these organised services could reduce deaths, hospital admissions, and other important health events, and whether they might improve quality of life or lower costs.\n\nWhat did we do?  \nWe searched major medical databases for randomised controlled trials that compared organised multidisciplinary or virtual AF services with usual care. We pooled the results and assessed our confidence in the evidence using the GRADE approach.\n\nWhat did we find?  \nWe included eight randomised controlled trials involving 8,205 adults with AF. Participants were on average 60–73 years old and the studies were conducted in China, the Netherlands, and Australia. Four trials tested a nurse‑led multidisciplinary model and two trials tested mHealth management; all were compared with usual care.  \n\nOverall death: Organised care probably leads to a large reduction in all‑cause mortality. Roughly three fewer people out of every 100 died over a six‑year period when they received the organised‑care interventions compared with usual care.  \n\nHospital admissions: Organised care probably makes little or no difference to the total number of hospital admissions, but it probably reduces cardiovascular hospitalisations (hospital stays directly related to heart problems).  \n\nBleeding and stroke: We did not see a clear increase in serious bleeding, and the programmes probably have little or no effect on stroke or major bleeding.\n\nWhat are the limitations?  \nOur confidence in the evidence is only moderate because many participants knew which treatment they received, not all studies reported every outcome we were interested in, the trials were small, and the interventions varied. These factors make it harder to be certain about the findings.\n\nHow up to date is the evidence?  \nWe searched the literature up to April 2023, so the evidence reflects studies published up to that date.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 604,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21.571428571428573,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 62,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 37,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 161,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 161.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 46.27443708609272,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.163916745506153,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.812138126773888,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.110993377483439,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.972942289498583,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.88268684957427,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.107142857142857,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.954451150103322,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.631681267738884,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 251,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 251.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 126,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 171,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 604,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 604 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 8,
+        "P75_count": 3,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks (completeness, subheading format, factual accuracy, word count) all pass, but the draft contains several clarity problems that would likely confuse patients. 1) Excessive passive constructions (e.g., \"The studies were conducted in China, the Netherlands, and Australia.\") – 23 passive instances (P90) far above typical PLS levels. 2) Long, compound sentences that overload the reader (e.g., \"Our confidence in the evidence is only moderate because many participants knew which treatment they received, not all studies reported every outcome we were interested in, the trials were small, and the interventions varied.\") – 31 words, reducing readability. 3) Unexplained technical jargon – the term \"GRADE approach\" appears without lay explanation, which can be confusing. 4) Bulky key‑message bullet that packs several ideas into one long sentence, making it hard to scan. 5) Awkward? awkward phrasing in the currency statement (\"The evidence is up to date to April 2023 of search.\") which is unclear. These issues exceed the acceptable threshold for patient‑focused plain language, so the PLS cannot be approved in its current form.",
+      "pls_evaluation_summary": "The PLS is within the 850‑word limit (604 words) and shows median‑range scores for most readability indices. However, several metrics deviate markedly: passive_voice (23, P90), nouns (161, P90), smog_index (13.95, P90), complex_words_dc (251, P90), complex_words (126, P90), and long_words (171, P90). These indicate a high density of passive constructions, noun‑heavy sentences, and complex vocabulary, supporting the editorial concerns above."
+    }
+  ]
+}

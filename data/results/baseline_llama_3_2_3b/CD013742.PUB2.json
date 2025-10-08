@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I apologize for the limitation. Here is a rewritten version of the Plain Language Summary in a simpler and more accessible format:\n\n**What are the benefits and risks of using different tests to diagnose vitamin A deficiency?**\n\n**What is vitamin A deficiency?**\nVitamin A is an important nutrient that helps our bodies grow and stay healthy. Without enough vitamin A, we can get sick more easily and have problems with our eyes and immune system.\n\n**What tests can be used to diagnose vitamin A deficiency?**\nThere are several tests that can be used to check if we have vitamin A deficiency. These tests include:\n\n* Blood tests to measure the level of vitamin A in our blood\n* Tests to measure the level of vitamin A in our liver\n* Tests to measure the level of vitamin A in our breast milk (if we are breastfeeding)\n* Tests to measure the level of vitamin A in our stool\n\n**How accurate are these tests?**\nThe accuracy of these tests varies. Some tests are very accurate, while others are not. For example:\n\n* One test that measures vitamin A in our blood is only about 10% accurate.\n* Another test that measures vitamin A in our liver is about 53% accurate.\n* A test that measures vitamin A in our breast milk is about 76% accurate.\n\n**What are the limitations of these tests?**\nThere are several limitations to these tests. For example:\n\n* Some tests are not very accurate, so they may not give us the right answer.\n* Some tests are only accurate for certain people, such as pregnant women or children.\n* Some tests are not very reliable, so they may give different results each time they are done.\n\n**What should we do next?**\nMore research is needed to improve the accuracy and reliability of these tests. We also need to learn more about how to use these tests to diagnose vitamin A deficiency in different populations, such as pregnant women and children.\n\nNote: I've rewritten the summary in a simpler and more accessible format, using shorter sentences and avoiding technical jargon. I've also tried to focus on the main points of the original abstract, while omitting some of the more technical details.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 390,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 1,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 101,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 69.9579230769231,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.377076923076924,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 6.22446153846154,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.089025641025639,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.701538461538462,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 38.16410256410256,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.52,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.681145747868609,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.55124717948718,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 118,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 88,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 390,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 390 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 12,
+      "P50_count": 4,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 66.66666666666666,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:47.722436"
+}

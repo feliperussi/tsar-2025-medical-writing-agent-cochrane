@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010637.PUB3",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can exercise help people with chronic venous insufficiency (a condition where veins have problems returning blood to the heart) manage their symptoms?\n\nWe looked at studies that compared exercise programs with no exercise in people with non-ulcerated chronic venous insufficiency. Here are the key messages:\n- Due to a lack of robust evidence, it is unclear whether exercise can help people with chronic venous insufficiency manage their symptoms.\n- The current evidence does not provide a clear answer to whether exercise improves symptoms or quality of life for people with chronic venous insufficiency.\n- Future research should focus on investigating the effects of different types of exercise on chronic venous insufficiency symptoms.\n\nWhat is chronic venous insufficiency?\nChronic venous insufficiency (CVI) is a condition where the veins in the legs do not work properly. This can lead to symptoms such as pain, swelling, and skin changes. CVI can also increase the risk of developing venous leg ulcers. It is a common problem that can affect people's quality of life.\n\nWhy is it important to find effective treatments for chronic venous insufficiency?\nCVI can have a significant impact on a person's daily life, causing discomfort, pain, and mobility problems. Common treatments for CVI include compression stockings, elevation of the legs, and in some cases, surgery. However, these treatments may not be effective for everyone, and some people may experience side effects or complications.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out whether physical exercise programs can help improve symptoms and quality of life for people with non-ulcerated chronic venous insufficiency. They also wanted to investigate the potential benefits and harms of physical exercise for this condition.\n\nHow did the review authors search for evidence?\nWe performed a systematic search for studies that compared exercise programs with no exercise in individuals with non-ulcerated chronic venous insufficiency.\n\nWhat did the review authors find?\nWe found five studies that involved 146 people with non-ulcerated chronic venous insufficiency. The studies compared a physical exercise group with a control group that did not perform a structured exercise program. The exercise protocols differed between studies. It is unclear if physical exercise has an effect on the intensity of signs and symptoms of chronic venous insufficiency. We do not know if physical exercise has an effect on ejection fraction. It is unclear if physical exercise improves venous refilling time. We are uncertain if physical exercise alters health-related quality of life. It is unclear if physical exercise has an effect on exercise capacity. We do not know if physical exercise increases muscle strength. It is unclear if physical exercise has an effect on ankle mobility.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding, and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 512,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.516129032258064,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 48,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 48.6305040322581,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.579415322580648,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.322869203629033,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.738906249999996,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.122076612903227,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.500504032258064,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.612903225806452,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.7890046875,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 226,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 174,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 512,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 512 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:08.129623"
+}

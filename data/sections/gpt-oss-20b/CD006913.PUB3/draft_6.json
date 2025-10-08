@@ -1,0 +1,162 @@
+{
+  "id": "CD006913.PUB3",
+  "draft": "Do psychological therapies (counselling, education or relaxation) improve quality of life, mood and disease activity in people with inflammatory bowel disease (IBD) compared with usual care?\n\nKey messages  \n– Psychological therapies – counselling, education and relaxation – probably give small improvements in quality of life and in mood (depression and anxiety) for adults, and probably improve quality of life for children; the evidence is of moderate certainty.  \n– Similar modest benefits appear when programmes focus mainly on patient education or on relaxation techniques, but results vary because the studies used many different approaches.  \n– No harmful effects were reported. Larger, well‑designed trials that follow participants for longer are needed, especially to find out whether these therapies affect disease activity and to confirm benefits in children.\n\nWhat is inflammatory bowel disease and why does it matter?  \nInflammatory bowel disease (IBD) is a group of long‑lasting conditions, such as Crohn’s disease and ulcerative colitis, that cause the lining of the gut to become inflamed. This inflammation leads to painful symptoms like diarrhoea, a\n\n... (truncated for brevity) ...",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 177,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 9,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.666666666666668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 15,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 15.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 5,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 5.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 61,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 30.578418079096053,
+          "rating": "P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 30.6 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.880000000000003,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.656384180790965,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 14.221016949152538,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.7 (median)"
+        },
+        "gunning_fog_index": {
+          "value": 18.714124293785314,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 58.64971751412429,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 58.6 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 7.666666666666667,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 9.928203230275509,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 9.093489265536725,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.1 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 91,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 48,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 69,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 177,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 177 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 4,
+        "P90_count": 2,
+        "P10_count": 3,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 16.666666666666664,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical checks failed: the draft is missing several required sections (Methods, Results, Limitations, Currency) that must be present in a Cochrane Plain Language Summary. Without these sections the summary is incomplete and cannot be approved. In addition, the draft does not use enough first‑person plural pronouns or active‑voice constructions, leading to a low readability score (Flesch Reading Ease 30.6, Dale‑Chall 9.1) and making the text harder for patients to follow. Key clarity issues include: (1) jargon such as “multimodular approaches” is not explained; (2) long, dense sentences (e.g., “Similar modest benefits appear when programmes focus mainly on patient education or on relaxation techniques, but results vary because the studies used many different approaches.”) exceed 30 words and confuse readers; (3) the key‑message bullets lack personal pronouns and active verbs, reducing engagement. Suggested rewrites and additions are provided below. Metrics support these observations: active_voice = 15 (well below the median >29), pronouns = 5 (well below typical 13‑21), flesch_reading_ease = 30.6 (far below typical 40‑45 for PLS), and dale_chall_readability = 9.1 (higher than the typical 7‑9). These metric deviations confirm the need for more active, pronoun‑rich, and simpler language.",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft conforms to many typical patterns but deviates on six key metrics: active_voice (15, far below median >29), pronouns (5, far below typical 13‑21), flesch_reading_ease (30.6, well below typical 40‑45), coleman_liau_index (14.2, above typical <12.7), lix (58.6, above typical <54.3), and dale_chall_readability (9.1, above typical <7.7). These indicate the text is more complex, uses fewer personal pronouns, and contains fewer active‑voice constructions than is usual for patient‑focused summaries."
+    }
+  ]
+}

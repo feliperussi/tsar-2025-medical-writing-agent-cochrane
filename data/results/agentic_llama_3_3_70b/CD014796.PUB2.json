@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014796.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "What influences people's decisions to get general health checks, and how do different stakeholders, such as healthcare providers and clients, perceive and experience them?\n\nKey messages:\n- General health checks are valued by clients, healthcare providers, and policymakers, despite a lack of evidence showing they reduce deaths from all causes, cancer, or heart disease, or prevent heart disease (a condition where the heart or blood vessels are not functioning normally). They help motivate lifestyle changes and provide reassurance about health.\n- The perceptions and experiences of general health checks vary among different stakeholders, including clients, healthcare providers, and policymakers. Factors such as the skill and cultural competence (ability to understand and respond to diverse cultural needs) of healthcare providers, accessibility, and awareness systems influence uptake (the extent to which people participate in general health checks).\n- Future research should focus on understanding the reasons behind the commissioning of general health checks, exploring the impact of contextual factors such as cultural background, social norms, and language on uptake, and investigating alternative approaches that address the needs and wants of different stakeholders.\n\nWhat are general health checks and why are they important?\nGeneral health checks are tests for people without symptoms. These checks aim to reduce the population's morbidity (the condition of being diseased) and mortality (death rate) by identifying potential health issues early on. Despite their widespread use, a 2019 Cochrane review found that general health checks have little or no effect on all-cause mortality, cancer, or cardiovascular mortality or morbidity.\n\nWhat do we want to find out about general health checks?\nWe wanted to explore how healthcare managers, policymakers, healthcare providers, and clients perceive and experience general health checks. We also aimed to identify the factors that influence the commissioning, delivery, and uptake of these checks. By examining the perspectives and experiences of various stakeholders, we seek to supplement and contextualize the findings of the 2019 Cochrane effectiveness review and provide a more comprehensive understanding of general health checks.\n\nHow did we find the information?\nWe performed a systematic search for qualitative studies that explored stakeholders' perceptions of general health checks across multiple databases. We used relevant keywords and Boolean operators, and screened titles, abstracts, and full texts according to predefined inclusion criteria. We summarized the included studies narratively, extracting key themes related to perceptions, barriers, and facilitators of general health checks. We applied the GRADE-CERQual approach to rate our confidence in each synthesized finding.\n\nWhat did we find?\nWe found 146 studies that involved stakeholders’ perceptions and experiences of factors influencing the commissioning, delivery, and uptake of general health checks. The studies were conducted in various countries, with most set in high-income countries in Europe and nearly a third in culturally diverse middle-income countries. General health checks are valued by clients, healthcare providers, managers, and policymakers across different countries and settings, despite a lack of effectiveness in reducing mortality or morbidity. Clients trust general health checks to assess their health objectively and find reassurance through professional confirmation. However, some clients are reluctant to attend due to fear of negative results or reliance on symptom-based care (treating symptoms as they appear).\n\nWhat are the limitations of the evidence?\nWe found that the studies were very small and participants may have known which treatment they received, which limits the evidence.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2022.\n\nWe hope this information helps you understand general health checks and their importance. Remember, general health checks are tests that assess your overall health, and they can help motivate lifestyle changes and provide reassurance about your health. If you have any concerns or questions, be sure to talk to your healthcare provider.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 639,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.3,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 73,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 216,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 37.86057042253523,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.270051643192492,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.22450704225352,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 15.274553990610329,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 18.222660406885762,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 57.919718309859164,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.8,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.328828005937952,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.802442441314554,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 273,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 273.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 155,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 155.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 234,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 234.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 639,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 639 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 1,
+      "P75_count": 8,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:13.517484"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD001431.PUB6",
+  "draft": "Do patient decision aids improve health decisions compared to usual care?\n\nWe looked at 209 studies with 107,698 participants. These studies involved 71 different health decisions, including cardiovascular treatments, cancer screening, and joint replacement surgery.\n\nKey messages:\n- Patient decision aids probably help adults make informed choices that align with their personal values.\n- They likely lead to better understanding of options and their benefits and harms.\n- They may increase the number of people who take an active role in decision-making.\n\nWhat is the problem of making health decisions?\nPeople often need support to make informed health choices. Health decisions can be complex, involving weighing benefits and harms of different options. Patient decision aids provide evidence-based information and clarify personal values.\n\nWhat are patient decision aids?\nPatient decision aids are tools that help people make health choices. They provide evidence-based information and clarify personal values. Aids can be booklets, videos, or websites, and help people understand benefits and harms of health options.\n\nWhat did the review authors want to find out?\nThe authors wanted to know if patient decision aids support informed health decisions. They also wanted to know if aids improve knowledge and understanding of health options, and if they help people feel confident and informed.\n\nHow did the authors find the information?\nWe searched for studies comparing patient decision aids to usual care. We summarized and combined the results, and evaluated our confidence in the evidence.\n\nWhat did we find?\nWe found that patient decision aids probably help adults make informed choices. They lead to better understanding of options and their benefits and harms. Aids may increase the number of people who take an active role in decision-making. However, they may make little difference in consultation length or risk of unwanted effects.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by possible lack of blinding, incomplete reporting of outcomes, and heterogeneity across studies.\n\nIs the evidence up to date?\nThis review updates our previous review, and the evidence is up to date to March 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 361,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 12.448275862068966,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 5,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 123,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 58.27756232686983,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.2232763396695,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 8.461561753749166,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.36875346260388,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 13.28955965230681,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.41226478173656,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.103448275862069,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.660254037844387,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.178376311013468,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 150,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 75,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 119,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 361,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 361 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 5,
+        "P75_count": 5,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 72.22222222222221,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft shows high conformity to typical PLS patterns, with a high rate of active voice and appropriate use of pronouns, indicating good clarity and readability. Most metrics fall within expected ranges, suggesting the draft is well-structured and accessible."
+    }
+  ]
+}

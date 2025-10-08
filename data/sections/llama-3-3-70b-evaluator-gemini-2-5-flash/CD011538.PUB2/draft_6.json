@@ -1,0 +1,162 @@
+{
+  "id": "CD011538.PUB2",
+  "draft": "Can education support services help children and adolescents with long-term illnesses stay engaged in school and improve their academic performance?\n- Education support services may help children with long-term illnesses stay in school, but the evidence is not strong enough to be certain.\n- There is some evidence that education support may slightly improve mental health, measured as self-esteem, in children with long-term illnesses.\n- Future research should focus on studying the effects of education support services on school engagement, academic achievement, and mental health in children with long-term illnesses.\n\nWhat are long-term illnesses in children and adolescents, and why are they a problem?\nLong-term illnesses in children and adolescents are illnesses that do not go away and can significantly impact a child's education, well-being, and health. Children with long-term illnesses often experience difficulties attending school, which can lead to them doing less well in school, having problems with social and emotional skills, and having fewer career choices.\n\nWhat did we want to find out?\nWe wanted to find out if education support services can help children with long-term illnesses stay engaged in school and do better academically.\n\nHow did we conduct the review?\nWe searched for studies that looked at education support for children with long-term illnesses. We then summarized their results and rated our confidence in the evidence.\n\nWhat did we find?\nWe found four studies that involved 359 participants with long-term illnesses. Each study focused on a specific disease: three on children with cancer and one on children with Attention Deficit Hyperactivity Disorder (ADHD). We found some evidence that education support may slightly improve mental health, measured as self-esteem. For other outcomes, like school engagement, the evidence was very uncertain. It is unclear if education support services have an effect on academic achievement or transition back to school.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, and participants may have known which treatment they received, which could have influenced their responses. The studies also included different types of children, and the support was provided in different ways.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to January 2021.\n\nWe hope this information helps you understand the potential benefits and limitations of education support services for children and adolescents with long-term illnesses.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 416,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 21,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.80952380952381,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 42,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 28,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 30,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 129,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 47.4230448717949,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.56600274725275,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.239882097069597,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.374326923076922,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.193040293040294,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.02106227106228,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.380952380952381,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.38083151964686,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.865845650183151,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 155,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 86,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 134,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 416,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 416 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 8,
+        "P75_count": 6,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 44.44444444444444,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 50,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good draft that is clear and well-structured. However, it can be made more direct and readable for a patient audience by addressing a few key areas. Here are the top 3 improvements needed:\\n\\n1. **Use more direct verbs instead of noun phrases.** The draft often uses noun forms of verbs (e.g., 'experience difficulties' instead of 'find it difficult'), which can make sentences feel abstract and wordy. Changing these to action verbs will make the text more engaging.\\n    - **Problematic sentence:** \\\"Children with long-term illnesses often experience difficulties attending school, which can lead to them doing less well in school, having problems with social and emotional skills, and having fewer career choices.\\\"\\n    - **Suggested rewrite:** \\\"When children with long-term illnesses miss school, they may fall behind academically, struggle with social and emotional skills, and have fewer career choices later on.\\\"\\n\\n2. **Ensure key messages are complete.** The key messages are the most important part of the summary, and they are missing a few details from the source material that provide important context for the reader.\\n    - **Problematic sentence:** \\\"- Education support services may help children with long-term illnesses stay in school, but the evidence is not strong enough to be certain.\\\"\\n    - **Suggested rewrite:** \\\"- Education support services may help children with long-term illnesses stay in school, but the evidence is not strong enough to be certain. We did not find any information about harmful effects.\\\"\\n    - **Problematic sentence:** \\\"- There is some evidence that education support may slightly improve mental health, measured as self-esteem, in children with long-term illnesses.\\\"\\n    - **Suggested rewrite:** \\\"- There is some evidence that education support may slightly improve mental health (measured as self-esteem) in children with long-term illnesses, but more research is needed to confirm this.\\\"\\n\\n3. **Simplify wordy explanations.** Some phrases could be more concise to improve clarity, especially when explaining research concepts.\\n    - **Problematic sentence:** \\\"...participants may have known which treatment they received, which could have influenced their responses.\\\"\\n    - **Suggested rewrite:** \\\"...people in the studies knew which treatment they were getting, which could have influenced their answers.\\\"",
+      "pls_evaluation_summary": "The linguistic analysis shows good overall conformity with typical PLS patterns. Most metrics, including readability scores and sentence length, fall within the ideal ranges (50% in the best quartile, 44% in the median). However, the analysis identified one significant deviation: the use of nominalizations (noun-form verbs) is exceptionally high, falling 'Beyond the 90th percentile'. This metric supports the editorial feedback to replace noun phrases with more direct verbs to improve clarity and readability."
+    }
+  ]
+}

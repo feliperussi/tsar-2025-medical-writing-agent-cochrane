@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013388.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nIs cognitive rehabilitation (personalised brain‑training) helpful for people with mild to moderate dementia?\n\nKey Messages  \n- Cognitive rehabilitation leads to a large improvement in people’s ability to reach personal daily‑life goals and feel satisfied with their performance, and it also gives a small boost to confidence and to short‑term memory. Some studies showed a small worsening in overall functional ability, memory and anxiety, so a few unwanted effects were reported.  \n- For family members or other care partners, the training may improve social aspects of quality of life, but it might also increase feelings of depression or reduce psychological wellbeing in some cases.  \n- More high‑quality research is needed because many findings rely on a single large study and some outcomes were measured in only a few people, making our confidence in the overall picture only moderate.\n\nWhat is dementia and why does everyday functioning matter?  \nDementia is a condition that slowly reduces thinking skills and memory, making everyday tasks harder. When the condition is mild to moderate, people can still do many activities, but they often need help to stay independent. Losing the ability to manage daily chores, shopping, or personal care can lower confidence and quality of life for both the person with dementia and their care partners.\n\nWhat does cognitive rehabilitation involve?  \nCognitive rehabilitation (CR) is a personalised, solution‑focused programme that works with the person to set realistic goals for daily activities and practice strategies to achieve them. It aims to keep independence as long as possible by teaching ways to cope with memory or thinking problems.\n\nWhat did the review authors want to find out?  \nWe wanted to know whether CR helps people with mild to moderate dementia improve everyday functioning and other important outcomes, and whether it also affects the wellbeing of their care partners. We also looked for any factors that might change how well CR works.\n\nWhat did we do?  \nWe searched many medical databases for studies that compared cognitive rehabilitation with usual care or other inactive approaches. We combined the results of the eligible studies and judged how confident we could be in the evidence.\n\nWhat did we find?  \n\nThe review included six studies that together involved about 1700 people with dementia, most of whom were in their late 70s. About half of the participants had Alzheimer’s disease. The studies were carried out in several countries and lasted from a few weeks up to a year. Most studies were funded by public or academic sources, with a few receiving industry support.\n\nThe main findings were:  \n\n- Cognitive rehabilitation causes a large improvement in people’s ability to reach the personal goals they set for daily activities and makes them feel more satisfied with their performance.  \n- The training also makes a small improvement in confidence (self‑efficacy) and in recalling information immediately after hearing it.  \n- It probably improves the ability to focus on sounds (auditory selective attention).  \n- It probably reduces overall functional ability, meaning that in some cases people may find it a little harder to do everyday tasks after the programme.  \n- It may cause a small worsening in memory, sustained attention and anxiety, although the evidence for these negative effects is uncertain.  \n\nFor care partners, the programme probably improves the social part of their quality of life and may improve the psychological part of quality of life, but it may also increase feelings of depression or lower psychological wellbeing in some situations. Overall, many of these effects on care partners were small and the certainty of the evidence varied.\n\nWhat are the limitations of the evidence?  \nOur confidence in the evidence is only moderate because it is possible that people knew which treatment they were receiving, and because some outcomes were measured in only a few participants, making the results less certain.\n\nHow up to date is this evidence?  \nThe evidence is up to date to October 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 673,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 32,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.03125,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 71,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 31,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 31.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.20626044762261,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.039230590638933,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.9497706166419,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.336344725111438,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.971192421991084,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.491874071322435,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.40625,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.885215378900447,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 249,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 249.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 144,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 144.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 205,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 205.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 673,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 673 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 6,
+      "P75_count": 2,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 33.33333333333333,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:03.282202"
+}

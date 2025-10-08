@@ -1,0 +1,162 @@
+{
+  "id": "CD015328.PUB2",
+  "draft": "What are effective strategies to prevent overweight and obesity in children aged 5-11?\n\nKey messages:\n- School-based activity programs, either alone or combined with diet changes, may have a small benefit for children's weight in the short and medium term. Importantly, these programs did not appear to cause any serious harmful effects.\n- Dietary and activity programs may lead to a small reduction in body mass index (BMI), a measure of body fat based on height and weight, and zBMI score, which adjusts BMI for a child's age and sex, at short- and medium-term follow-up, but the evidence is not strong enough to be certain of the effects.\n- Future research should focus on studying the long-term effects of these interventions, as well as their impact on children with disabilities and from different socioeconomic backgrounds.\n\nWhat is childhood obesity and why is it a problem?\nChildhood obesity is a condition where a child's weight is well above what is considered healthy for their height and age. It's a major public health concern because obesity can lead to various health problems, such as diabetes, heart disease, and mental health issues, and can also affect a child's development and well-being.\n\nWhat are the common approaches to preventing childhood obesity?\nTo prevent childhood obesity, common approaches are to help children eat healthier and be more active. This can mean eating less sugar and fat, and encouraging more physical activity, such as playing sports or simply playing outside.\n\nWhat did the review authors want to find out?\nWe wanted to find out which interventions, such as dietary changes or physical activity programs, are most effective in preventing obesity in children aged 5 to 11 years old. We also wanted to know whether these interventions have any adverse effects and whether they can help reduce health inequalities.\n\nHow did we search for studies?\nWe conducted systematic searches of electronic databases for studies evaluating interventions aimed at preventing obesity in children. Search terms combined concepts of \"obesity\", \"children\", \"prevention\", \"dietary\", and \"physical activity\".\n\nWhat are the limitations of this review?\nThe evidence is limited because the studies included a wide mix of children and used many different ways to run the programs, making them hard to compare. Also, many studies were small, and the people involved often knew which program they were in, which can affect the results.\n\nWhat did we find?\nThis review includes 172 studies with a total of 189,707 participants. The studies were conducted in various settings, with the majority taking place in schools, followed by community, home, and clinical settings. The duration of the interventions varied, with 86 studies lasting less than nine months, and the longest study lasting four years. Non-industry funding was declared by 132 studies, while 24 studies were funded in part or wholly by industry. The studies focused on children aged 5 to 11 years, with 146 studies based in high-income countries. The interventions involved dietary changes, activity levels, or a combination of both, aiming to prevent obesity in children. The review found that school-based activity interventions, alone or in combination with dietary interventions, may have a modest beneficial effect on obesity in childhood at short- and medium-term, but not at long-term follow-up. Dietary interventions alone may result in little to no difference. The evidence suggests that these interventions may reduce the risk of obesity in children, but the effects are generally small and the results are not consistent across all studies.\n\nIs the evidence up to date?\nThe evidence is up to date to February 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 624,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.8,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 17,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 178,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 178.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 52.8576153846154,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.054051282051287,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.29721153846154,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.65038461538461,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.178974358974358,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.96666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.066666666666666,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.899494936611665,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.95293,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 234,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 234.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 107,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 624,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 624 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a good draft that is factually accurate and well-structured. However, it needs revisions to improve clarity for a lay audience. The main issues are an overly complex key message and a long, dense paragraph in the results section that makes it difficult to understand the main findings. Simplifying these key areas will significantly improve the summary.\n\nHere are the top 3 improvements needed:\n\n1. **Simplify the second key message.** This sentence is 51 words long and tries to define two technical terms while also explaining a complex finding. This makes it very difficult to understand.\n   - **Problematic text:** \"Dietary and activity programs may lead to a small reduction in body mass index (BMI), a measure of body fat based on height and weight, and zBMI score, which adjusts BMI for a child's age and sex, at short- and medium-term follow-up, but the evidence is not strong enough to be certain of the effects.\"\n   - **Suggested rewrite:** \"Programs combining diet and activity may slightly reduce two measures of body fat: BMI and zBMI. (BMI is based on height and weight, while zBMI also accounts for a child's age and sex). This small reduction was seen in the short and medium term. However, the evidence is not strong enough for us to be certain about this effect.\"\n\n2. **Break up the 'What did we find?' paragraph.** This section presents the most important information, but it's a dense wall of text. It mixes details about the studies (like funding and location) with the actual results, which can be confusing.\n   - **Problematic text:** The entire 11-sentence paragraph under \"What did we find?\"\n   - **Suggested rewrite:** Split the paragraph into two smaller ones, separating the study characteristics from the findings:\n     - **Paragraph 1 (About the studies):** \"We found 172 studies that included a total of 189,707 children. Most studies took place in schools in high-income countries. The programs varied in length from a single session to four years. Most were funded by non-industry sources.\"\n     - **Paragraph 2 (What the studies found):** \"Our review found that school-based activity programs, either by themselves or with diet changes, may have a small benefit on children's weight in the short and medium term. However, we did not see this benefit in the long term. Programs that focused only on diet changes seemed to make little to no difference.\"\n\n3. **Avoid lifting long sentences directly from the technical abstract.** Some sentences are too long and complex for a plain language summary.\n   - **Problematic text:** \"The review found that school-based activity interventions, alone or in combination with dietary interventions, may have a modest beneficial effect on obesity in childhood at short- and medium-term, but not at long-term follow-up.\"\n   - **Suggested rewrite:** \"The review found that school-based activity programs, either alone or with diet changes, may have a small beneficial effect on children's weight. This benefit was seen in the short and medium term, but not in the long term.\"\n",
+      "pls_evaluation_summary": "The PLS evaluation shows the draft highly conforms to typical patterns, with 67% of features in the best quartile for readability and structure. However, it deviates significantly in vocabulary complexity, with higher than typical counts for nouns (P90), Dale-Chall complex words (P90), and long words (P90). These metrics support the editorial feedback that simplifying word choice and shortening complex sentences would improve readability for a lay audience."
+    }
+  ]
+}

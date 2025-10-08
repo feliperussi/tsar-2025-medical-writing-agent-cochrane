@@ -1,0 +1,162 @@
+{
+  "id": "CD011344.PUB3",
+  "draft": "Is an automated timed dose (automated mandatory bolus) better than a continuous drip (basal infusion) for epidural pain relief (medication placed in the back) during labor?\n\nKey messages\n- Automated mandatory bolus (AMB) dosing probably reduces breakthrough pain and uses slightly less local anaesthetic than continuous basal infusion (BI), without increasing the risk of caesarean or instrumental delivery.\n- Some women report higher satisfaction with AMB, but the evidence is inconsistent and not pooled.\n- Current evidence comes from 18 trials with 4,590 women; larger, well‑designed studies are needed to confirm these findings.\n\nWhat is epidural analgesia and why is it used during labour?\nDuring labour many women feel strong pain in the abdomen, pelvis and around the baby. An epidural delivers medication into the epidural space (the area just outside the spinal cord) through a thin tube. Local anaesthetic (a drug that numbs nerves) blocks pain signals, and an opioid (a pain‑relieving drug) often adds extra relief. The goal is to keep the mother comfortable while she stays awake and can participate in birth.\n\nWe can give the medication in two main ways. A basal infusion (BI) provides a steady, continuous drip of drug. An automated mandatory bolus (AMB) gives a larger dose at set intervals (for example, every hour), even if the mother has not asked for extra medication. Many women can also give themselves an extra dose when needed – this is called patient‑controlled epidural analgesia (PCEA). Researchers want to know which method gives the best pain control with the fewest side‑effects.\n\nWhat did the review aim to find out?\nWe compared AMB with BI for maintaining epidural pain relief in women at term (full‑term pregnancy). We focused on whether one method reduced breakthrough pain (pain that requires an anaesthetist’s help) and how it affected caesarean delivery, instrumental delivery (use of forceps or vacuum), total local anaesthetic use, length of labour, maternal satisfaction after birth, and the baby’s Apgar score (a quick test of newborn health).\n\nHow did we find and evaluate the evidence?\nWe searched major databases up to 31 December 2022 for randomised trials that compared AMB with BI during labour. Two reviewers extracted data and assessed risk of bias. We combined results using meta‑analysis where possible and rated confidence in each outcome with the GRADE approach.\n\nWhat did the studies show?\nWe identified 18 trials involving 4,590 women. Thirteen trials enrolled only first‑time mothers; five included both first‑time and the experienced mothers. All trials excluded pre‑term or complicated pregnancies. Researchers started the epidural using combined spinal‑epidural, standard epidural, or dural puncture epidural techniques, and drug mixtures varied (ropivacaine, levobupivacaine or bupivacaine combined with fentanyl or sufentanil).\n\nCompared with BI, AMB probably reduces the need for extra pain relief. In a group of 100 women, about 20 needed breakthrough pain relief with AMB versus 30 with BI. AMB also probably lowers local anaesthetic consumption by roughly 0.8 mg per hour. The method makes little or no difference to the chance of caesarean delivery, instrumental delivery, or the overall duration of epidural effectiveness (about nine minutes difference). Maternal satisfaction appeared higher in some trials but not in others, and Apgar scores were similar across groups.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in these findings. Some trials were not blinded, and not all reported every outcome we wanted. Study populations, epidural techniques and drug regimens differed, which adds uncertainty. The evidence does not cover all possible women or settings.\n\nHow current is the evidence?\nWe searched for studies up to 31 December 2022, so the review reflects evidence available at that time.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 621,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 36,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.25,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 60,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 47.781322463768134,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.8801731078905,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.039637681159423,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.003478260869567,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.595652173913045,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 44.464170692431566,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.694444444444445,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.489125293076057,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 8.178498550724639,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.2 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 288,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 288.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 135,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 135.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 169,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 621,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 621 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft meets all critical checks: it includes all required sections, uses question‑style subheadings, is factually accurate, and stays under the 850‑word limit. Metrics show strong overall conformity (61% in best quartile). The only notable deviations are higher noun count and complex‑word measures, reflecting a slightly noun‑heavy style, but these do not impede reader understanding."
+    }
+  ]
+}

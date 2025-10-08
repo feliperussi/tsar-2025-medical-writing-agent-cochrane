@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013293.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "What are the best treatments for blocked dialysis access (arteriovenous fistula or graft) in people with kidney disease?\n\n- Due to a lack of robust evidence, it is unclear which treatment is best for blocked dialysis access in terms of benefits and unwanted effects.\n- The review suggests that surgical procedures may have some benefits over mechanical methods for clearing blockages, but the evidence is not strong enough to be certain.\n- Future studies should investigate the best ways to treat blocked dialysis access, including comparing different techniques and considering the potential harms and benefits.\n\nWhat is the problem of thrombosed haemodialysis arteriovenous fistulas and grafts?\nWe need a way for the dialysis machine to access the bloodstream for haemodialysis. This is typically done through an arteriovenous fistula (AVF) or arteriovenous graft (AVG), which are surgically created connections between an artery and a vein. However, these connections can sometimes become blocked, or 'thrombosed', which prevents haemodialysis from working properly. Thrombosis can lead to serious complications, including infections, central venous occlusions, and recurrent hospitalizations.\n\nWhat did the review authors want to find out?\nThe authors of this review wanted to determine the effectiveness and safety of different interventions for treating thrombosed arteriovenous fistulas and grafts in patients undergoing haemodialysis. They aimed to establish which interventions are most effective in restoring the function of the AVF or AVG, and which have the fewest adverse effects.\n\nWhat did we find?\nWe found 14 studies that involved 1176 people with thrombosed haemodialysis arteriovenous fistulas and grafts. Most of the included studies had a high risk of bias due to poor study design, low number of patients, and industry involvement. The studies compared different types of interventions, including thrombectomy (removing the blockage) and thrombolysis (dissolving the blockage), as well as surgical procedures. It is unclear if interventions for thrombosed haemodialysis arteriovenous fistulas and grafts have an effect on outcomes such as failure, primary patency at 30 days, technical success, and adverse events. Surgical procedures may improve primary patency at 30 days compared to mechanical thrombectomy, but the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes, possible lack of blinding (participants may have known their treatment), and incomplete reporting of outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to January 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 404,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.2,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 35,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 117,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 33.67506930693071,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.580574257425745,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.131980198019804,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 14.521584158415838,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.7 (median)"
+      },
+      "gunning_fog_index": {
+        "value": 19.16910891089109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 58.07128712871287,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.65,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.488088481701515,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.958900198019803,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 178,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 404,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 404 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 5,
+      "P75_count": 11,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:10.353350"
+}

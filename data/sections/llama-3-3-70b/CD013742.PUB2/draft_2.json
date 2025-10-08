@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests for diagnosing vitamin A deficiency?\nWe looked at how well blood tests can diagnose vitamin A deficiency. Vitamin A deficiency is a condition where the body lacks enough vitamin A, which is important for growth and immune function.\n\nKey messages:\n- Blood tests for diagnosing vitamin A deficiency have low sensitivity (the ability of a test to correctly identify those with the disease) and high specificity (the ability of a test to correctly identify those without the disease), but the evidence is not strong enough to be certain about these findings.\n- The available data do not provide clear information on the potential harmful effects of these blood tests, and more research is needed to fully understand their benefits and risks.\n- Future studies should focus on designing and conducting high-quality research to determine the accuracy of blood tests for vitamin A deficiency, including assessing their sensitivity and specificity in different populations and settings, to help inform clinical decisions and improve patient outcomes.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition caused by a lack of vitamin A, which is crucial for growth, immune function, and eye health. It can lead to poor growth, impaired immune responses, increased risk of disease, and even blindness or death. Vitamin A deficiency is particularly common in individuals with limited access to nutrient-rich foods, such as those living in poverty or with certain medical conditions.\n\nWhat are the common methods for assessing vitamin A deficiency?\nAssessing vitamin A status is crucial for its clinical management. Several methods have been developed to measure vitamin A levels in the body, including direct index measures and dose-response biomarkers. These methods aim to provide accurate assessments of vitamin A status, which is essential for diagnosing and treating vitamin A deficiency.\n\nWhat did the review authors want to find out?\nThe review authors aimed to determine the accuracy of index tests used to diagnose subclinical vitamin A deficiency in individuals at risk. They also wanted to assess how different factors, such as the reference standard used and the cutoff values, affect the accuracy of these index tests. By evaluating the performance of these tests, the authors hoped to provide valuable information for healthcare professionals and researchers working to address vitamin A deficiency.\n\nMethods\nWe searched for studies on vitamin A deficiency tests, combined their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 40 studies that involved a total of 65 records. The studies were conducted in various countries around the world. The review found that methods to determine vitamin A deficiency had generally low sensitivity and high specificity in individuals at risk for vitamin A deficiency. It is unclear if these methods have an effect on outcome.\n\nLimitations\nThe studies were not designed to assess diagnostic accuracy, had very small sample sizes, and were likely unblinded, allowing participants to know their treatment allocation.\n\nCurrency\nThe evidence is up to date to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 525,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 25,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 21,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 55,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 38.5577142857143,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.098285714285712,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.727657142857147,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.324876190476193,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.152380952380952,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.66666666666667,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.28,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.180339887498949,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.718514285714286,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 222,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 222.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 128,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 128.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 182,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 525,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 525 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 1,
+        "P50_count": 5,
+        "P75_count": 7,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 5.555555555555555,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has several issues that need to be addressed to improve its clarity and readability. Firstly, the sentence 'Vitamin A deficiency is a serious health condition caused by a lack of vitamin A, which is crucial for growth, immune function, and eye health.' is too long and contains technical terms without definitions. A suggested rewrite could be 'What is vitamin A deficiency? It is a serious health condition where the body lacks enough vitamin A, which is important for growth, immune function, and eye health.' Secondly, the use of passive voice in sentences like 'The review authors aimed to determine the accuracy of index tests used to diagnose subclinical vitamin A deficiency in individuals at risk.' should be replaced with active voice, e.g., 'We aimed to determine the accuracy of index tests used to diagnose subclinical vitamin A deficiency in individuals at risk.' Lastly, the draft text exceeds the recommended number of nouns per sentence, which can make it difficult to follow. For instance, the sentence 'The studies were conducted in various countries around the world, with no specific information on the number of participants in each study.' contains multiple nouns and could be simplified to 'We conducted studies in various countries, but we do not have specific information on the number of participants in each study.' The PLS evaluation results show that the draft text has a high number of nouns, complex words, and long words, which contributes to its low readability. To improve this, the writer should focus on using simpler language, shorter sentences, and more active voice constructions.",
+      "pls_evaluation_summary": "The PLS evaluation results indicate that the draft text has a high number of nouns (164.0), complex words (128.0), and long words (182.0), which are above the recommended ranges. The text also has a high smog index (14.18) and a high number of complex words according to the Dale-Chall readability test (222.0). These metrics suggest that the text may be difficult for readers to understand and that simplification is needed to improve its clarity and readability."
+    }
+  ]
+}

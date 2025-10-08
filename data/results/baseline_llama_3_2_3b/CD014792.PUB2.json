@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014792.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I apologize for the issue. It seems that the provided tool is not a valid Plain Language Summary (PLS) transformation tool.\n\nInstead, I can provide a rewritten version of the Cochrane abstract in Plain Language Summary format, following the guidelines you provided. Please note that this is a manual rewriting process, and the output may not be as polished as a commercial tool.\n\nHere is the rewritten Plain Language Summary:\n\n**What are the benefits and risks of postoperative nutritional support after pancreaticoduodenectomy in adults?**\n\n**What are the benefits and risks of postoperative nutritional support after pancreaticoduodenectomy in adults?**\n\n**What are the benefits and risks of postoperative nutritional support after pancreaticoduodenectomy in adults?**\n\n**Key Messages:**\n\n* Enteral nutrition by jejunostomy likely results in a reduced length of hospital stay and may lead to no difference in the incidence of postoperative complications.\n* Enteral feeding by nasojejunal tube may result in no difference in the incidence of postoperative complications or length of hospital stay.\n* Oral nutrition may have little to no effect on postoperative complications or length of hospital stay.\n\n**What did we do?**\n\nWe searched for studies on postoperative nutritional support after pancreaticoduodenectomy in adults. We included randomised controlled trials of postoperative nutritional interventions in an inpatient setting. We evaluated the evidence using GRADE to assess the certainty of the findings.\n\n**What did we find?**\n\nWe found 17 studies involving 1897 participants. The evidence is of low to very low certainty due to risk of bias, imprecision, and indirectness. Enteral feeding by jejunostomy likely results in a reduced length of hospital stay and may lead to no difference in the incidence of postoperative complications. Enteral feeding by nasojejunal tube may result in no difference in the incidence of postoperative complications or length of hospital stay. Oral nutrition may have little to no effect on postoperative complications or length of hospital stay.\n\n**What are the limitations of the evidence?**\n\nThe evidence is of low to very low certainty due to risk of bias, imprecision, and indirectness. The studies varied widely in terms of the route, timing, and target of nutritional support. There were no data for major and minor complications defined by the Clavien-Dindo classification. The evidence is uncertain regarding the effects of enteral feeding by jejunostomy, nasojejunal tube, and oral nutrition on postoperative complications and length of hospital stay.\n\n**How up to date is this evidence?**\n\nThis review is based on studies up to October 2022. Further research is needed to determine if the findings have changed since then.\n\nPlease note that this is a manual rewriting process, and the output may not be as polished as a commercial tool. If you need further assistance or have any questions, feel free to ask.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 471,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.083333333333334,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 21,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 21.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 126,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 43.03567144373673,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.50697983014862,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.131666666666668,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.924331210191081,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.98067940552017,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.50583864118896,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.111111111111111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.723805294763608,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.716852653927814,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 181,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 103,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 471,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 471 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:49.388259"
+}

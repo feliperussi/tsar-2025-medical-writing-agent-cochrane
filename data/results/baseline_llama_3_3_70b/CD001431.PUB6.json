@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of using patient decision aids for people facing health treatment or screening decisions?\n\n### Key Messages\n- Patient decision aids probably help adults make informed decisions that align with their personal values when considering treatment or screening options. They lead to large increases in knowledge, accurate risk perceptions, and an active role in decision-making, without increasing decision regret.\n- The use of patient decision aids results in improved participants' knowledge, accuracy of risk perceptions, and decreased decisional conflict related to feeling uninformed, indecision about personal values, and proportion of people who were passive in decision-making.\n- Further studies are needed to assess the impact of patient decision aids on adherence and downstream effects on cost and resource use, as the current evidence does not provide clear answers to these questions.\n\n### Introduction to the review topic and review aims\n#### What are patient decision aids?\nPatient decision aids are tools designed to support people making health decisions. They provide evidence-based information about the options and associated benefits and harms, and help clarify personal values for features of options. Patient decision aids can be used for various health decisions, including treatment or screening options.\n\n#### What did we want to find out?\nThe review authors wanted to find out if patient decision aids help adults make informed decisions that align with their personal values when considering treatment or screening options. They also wanted to assess the effects of patient decision aids on the decision-making process, including knowledge, accurate risk perceptions, and participation in decision-making.\n\n### What did we do?\nWe searched for studies that compared patient decision aids to usual care, which might include general information or no intervention. We then summarized and combined the results of these studies to assess the effects of patient decision aids.\n\n### What did we find?\nThe review included 209 studies involving over 107,000 participants. The patient decision aids focused on 71 different health decisions, including cardiovascular treatments, cancer screening, cancer treatments, mental health treatments, and joint replacement surgery. We found that patient decision aids probably increase the likelihood of making informed decisions that align with personal values. They also result in improved knowledge, more accurate risk perceptions, and a more active role in decision-making, without increasing decision regret.\n\n### What are the limitations of the evidence?\nWe have moderate confidence in the evidence that patient decision aids increase the likelihood of making informed decisions that align with personal values. However, the evidence is not as strong for some outcomes, such as adherence to the chosen option and impact on the healthcare system. This is because some studies did not provide clear information about these outcomes, and the results of the studies that did were not always consistent.\n\n### How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 521,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 20,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 26.05,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.1 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 60,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 43.020737523992324,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.730344529750482,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.25348368522073,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.599155470249517,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.09562380038388,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 60.98282149712092,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 61.0 to <54.3 (median)"
+      },
+      "rix": {
+        "value": 9.1,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 9.1 to <7.0 (median)"
+      },
+      "smog_index": {
+        "value": 13.488088481701515,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 8.444556007677544,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.4 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 236,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 236.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 113,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 182,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 182.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 521,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 521 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 1,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 8,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 5.555555555555555,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 44.44444444444444,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:26.014528"
+}

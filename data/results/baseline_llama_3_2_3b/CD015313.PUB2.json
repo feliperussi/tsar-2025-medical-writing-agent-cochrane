@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015313.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of using mucolytics for children with chronic suppurative lung disease?**\n\n**Key Messages:**\n\n* Mucolytics may help reduce the number of respiratory exacerbations in children with chronic suppurative lung disease, but the evidence is very uncertain due to a small number of studies and high risk of bias.\n* The study found that children who received hypertonic saline nebulised before chest physiotherapy had better lung function and fewer respiratory exacerbations than those who received physiotherapy alone.\n* However, the study was small and had a high risk of bias, so more research is needed to confirm these findings.\n* There is no evidence to suggest that mucolytics are effective in improving quality of life or reducing adverse events in children with chronic suppurative lung disease.\n* More research is needed to determine whether regular nebulised hypertonic saline during a stable state reduces exacerbations or improves lung function in children with chronic suppurative lung disease.\n* The study also found that the percentage point improvement in mean % predicted FEV1 and FVC from baseline to week eight was better with hypertonic saline compared to control.\n* However, the study was small and had a high risk of bias, so more research is needed to confirm these findings.\n* The included study assessed mucolytic use during a stable state, and we found no studies of mucolytic use during an exacerbation.\n* We also found no studies assessing oral mucolytics, other inhaled mucolytics, use in PBB, or in settings other than hospital outpatients.\n* We also found two ongoing studies, one using hypertonic saline and one using an oral mucolytic agent erdosteine, which will potentially be included in future updates of this review.\n\n**What is chronic suppurative lung disease and why is it a problem?**\n\nChronic suppurative lung disease (CSLD) is a condition that causes chronic wet or productive cough. It can be caused by bronchiectasis or protracted bacterial bronchitis (PBB). Research has identified mucolytic agents as a potential therapeutic option for children with CSLD.\n\n**What did we want to find out?**\n\nWe wanted to find out whether mucolytics are effective in reducing respiratory exacerbations and improving lung function in children with CSLD.\n\n**What did we do?**\n\nWe searched for studies that compared mucolytics with a placebo or no intervention control group in children with CSLD.\n\n**What did we find?**\n\nWe found one small study that compared hypertonic saline nebulised before chest physiotherapy with a control arm (physiotherapy alone). The study found that children who received hypertonic saline nebulised before chest physiotherapy had better lung function and fewer respiratory exacerbations than those who received physiotherapy alone.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to June 2022.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain due to a small number of studies and high risk of bias. We also found no studies assessing oral mucolytics, other inhaled mucolytics, use in PBB, or in settings other than hospital outpatients.\n\n**How can this information help patients?**\n\nThis information can help patients and their families understand the potential benefits and risks of mucolytics for children with CSLD. However, more research is needed to confirm these findings and to determine whether regular nebulised hypertonic saline during a stable state reduces exacerbations or improves lung function in children with CSLD.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 598,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 38,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.736842105263158,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.419630346769935,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.694191163527549,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.098688611160007,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.856722408026755,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.722830487590214,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.676641436366836,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.026315789473684,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.180339887498949,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.038457067417708,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 237,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 237.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 126,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 126.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 598,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 598 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 4,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:51.581883"
+}

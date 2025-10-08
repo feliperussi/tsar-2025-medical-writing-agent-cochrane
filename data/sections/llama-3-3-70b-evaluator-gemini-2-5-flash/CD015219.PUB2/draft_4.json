@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "Is favipiravir (an antiviral drug) effective for treating COVID-19?\n\nKey Messages\n- We are unsure if favipiravir works for COVID-19 because the evidence we have is not strong enough, and it may cause more unwanted or harmful effects.\n- Researchers found that favipiravir may not make a difference in whether people need to go to the hospital, need oxygen therapy, or recover from COVID-19.\n- We need more research to understand the benefits and harms of using favipiravir to treat COVID-19 and to get high-quality evidence to inform decisions.\n\nWhat is COVID-19 and why is it a problem?\nCOVID-19 is a disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (a type of virus). It has been challenging healthcare systems and societies worldwide since its outbreak. COVID-19 can lead to severe respiratory problems, and its impact has been felt globally. Common treatments for COVID-19 include supportive care, such as rest, hydration, and oxygen therapy, as well as experimental antiviral treatments.\n\nWhat is favipiravir and how is it used in treating COVID-19?\nSome experts have suggested the antiviral drug favipiravir as a potential treatment for COVID-19. Researchers have evaluated it in several randomized controlled trials (RCTs) (a type of scientific study) to assess its effectiveness in treating people with COVID-19. People usually take a high dose on the first day, followed by a lower dose for several days. However, it is still unclear whether favipiravir has a definite role in treating COVID-19.\n\nWhat did the review authors want to find out?\nThe review authors aimed to assess the effects of favipiravir compared to no treatment, supportive treatment, or other experimental antiviral treatments in people with acute COVID-19. They wanted to determine whether favipiravir reduces the risk of death, the need for hospital admission, the progression to invasive mechanical ventilation (a life-support treatment), and the time to clinical improvement. They also sought to evaluate the safety of favipiravir and its potential to cause adverse events (unwanted or harmful effects).\n\nWhat methods did we use?\nWe searched for studies comparing favipiravir to other treatments for COVID-19, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find?\nWe found 25 studies that involved 5750 adults with COVID-19. Most participants were hospitalized with mild to moderate disease (89%) and were under 60 years of age. The studies were conducted in 13 countries including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA. Most studies compared favipiravir to a placebo (a dummy treatment) or the usual standard of care. A few studies compared it to other antiviral drugs. Treatment usually started with a high dose on the first day, followed by lower doses for one to two weeks.\n\nWhat are the main results of favipiravir for COVID-19?\nFavipiravir may make little to no difference in the need for admission to hospital, the progression to oxygen therapy, or the time to clinical improvement for people with COVID-19. However, it may cause more adverse events overall. The evidence is uncertain, and it is unclear if favipiravir has an effect on all-cause mortality (death from any cause), the progression to invasive mechanical ventilation, or serious adverse events.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were very small, participants may have known which treatment they received (lack of blinding), and not all studies reported data on all outcomes of interest.\n\nIs the evidence up to date?\nThe evidence is up to date to July 2023.\n\nFuture research should explore the benefits and harms of using favipiravir to treat COVID-19. We need high-quality evidence to help people make informed decisions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 634,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 35,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.114285714285714,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 56,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 34,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 24,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 159,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 159.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.94142902208205,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.51463452005408,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.75819963947724,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.19451104100946,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.942875168995045,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 47.76728255971158,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.371428571428571,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.357816691600547,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.050093177106805,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 247,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 122,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 122.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 188,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 634,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 634 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 0,
+        "P75_count": 4,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 0,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a solid draft that passes all critical checks for accuracy and completeness. However, it needs revisions to improve clarity for a lay audience. The main issue is the use of overly technical and formal language, which makes key sections difficult to understand. The draft relies too heavily on noun phrases where simpler verbs would be clearer. I've outlined the top 3 areas for improvement below.\n\n1. **Simplify complex, noun-heavy descriptions of what the review measured.** The list of outcomes is dense and uses formal phrasing. Breaking this down with simpler, more active language will significantly improve readability.\n   - **Problematic text:** \"They wanted to determine whether favipiravir reduces the risk of death, the need to go to the hospital, the progression to invasive mechanical ventilation (a life-support treatment), and the time to clinical improvement.\"\n   - **Suggested rewrite:** \"We wanted to find out if favipiravir, compared to other treatments, could:\n     - reduce the risk of death;\n     - prevent people from needing to go to the hospital;\n     - stop the illness from getting worse and requiring a breathing machine (mechanical ventilation);\n     - help people get better faster.\"\n\n2. **Replace technical jargon with more common terms, even when defined.** While terms are defined, using simpler language from the start is more effective.\n   - **Problematic text:** \"The evidence is uncertain, and it is unclear if favipiravir has an effect on all-cause mortality (death from any cause), the progression to invasive mechanical ventilation, or serious adverse events.\"\n   - **Suggested rewrite:** \"We are not sure if favipiravir reduces the risk of dying from any cause, needing a breathing machine, or having other serious harmful effects.\"\n\n3. **Make the language more direct and less formal.** Some sentences can be shortened and simplified to feel less like a scientific paper.\n\n   - **Problematic text:** \"The review authors aimed to assess the effects of favipiravir compared to no treatment, supportive treatment, or other experimental antiviral treatments in people with acute COVID-19.\"\n   - **Suggested rewrite:** \"We wanted to see how well favipiravir worked for people with COVID-19 compared to no treatment, standard care, or other antiviral drugs.\"\n\nAddressing these vocabulary and phrasing issues will make the summary much more accessible to patients and the public.",
+      "pls_evaluation_summary": "The evaluation results show that while the summary has good sentence structure (words_per_sentence in the best quartile), its vocabulary is significantly more complex than a typical PLS. Six different metrics related to word complexity fall into the P90 range, indicating a high number of long words (long_words: 188), complex words (complex_words: 122), and noun-form verbs (nominalization: 24). This confirms that the main barrier to readability is word choice, not sentence length."
+    }
+  ]
+}

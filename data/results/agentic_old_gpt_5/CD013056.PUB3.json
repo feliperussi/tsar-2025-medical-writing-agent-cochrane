@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013056.PUB3",
+  "folder": "agentic_old_gpt_5",
+  "text": "Title: Are antibiotic ear drops or pills better than antiseptic ear drops (non-antibiotic germ-killing drops) for long-term runny ear infection (chronic suppurative otitis media, CSOM)?\n\nKey messages:\n- For people with long-term runny ear infection through a hole in the eardrum (tympanic membrane: the thin tissue that separates the ear canal from the middle ear), quinolone antibiotic ear drops (quinolones: a group of antibiotics used as ear drops, e.g., ciprofloxacin or ofloxacin) probably clear ear discharge (otorrhoea: pus-like fluid draining from the ear) better than boric acid antiseptic drops (boric acid: a mild non-antibiotic germ-killing drop) at about 2 weeks. Quinolone drops may cause less ear pain (otalgia: ear pain) or irritation.\n- For other antiseptic drops (acetic acid: vinegar-based drops; povidone-iodine: an iodine-based antiseptic) and for other antibiotic drops (aminoglycosides: a class of antibiotic ear drops that can harm hearing or balance if they reach the inner ear) or systemic antibiotics (antibiotics taken by mouth or by injection that affect the whole body), the evidence is uncertain. Harms, including ear damage (ototoxicity: damage to hearing or balance from a medicine), were rarely measured.\n\nWhat is CSOM and why does it matter?\nChronic suppurative otitis media (CSOM) is a long-lasting middle ear infection (otitis media: middle ear infection) that usually causes ongoing discharge (otorrhoea) through a hole in the eardrum (tympanic membrane). CSOM often reduces hearing. Hearing loss can affect learning, communication, work, and daily life.\n\nHow is CSOM usually treated?\nWe aim to stop discharge, clear infection, and improve hearing. Antibiotics (medicines that kill or stop bacteria) can be given as ear drops (topical: on the surface of the body) or taken by mouth or injection (systemic: affecting the whole body). Antiseptics (substances applied directly to the ear to kill or slow germs) include acetic acid, povidone-iodine, boric acid, and aluminium acetate (an astringent antiseptic). Clinicians often clean the ear (aural toileting: careful removal of discharge and debris) so drops reach the infected area.\n\nWhat did we want to find out?\nWe compared antibiotics versus antiseptics for people with CSOM. We wanted to know which treatment stops discharge (gets a dry ear), which improves hearing, which causes unwanted effects (including ear pain and ototoxicity), and whether treatment affects quality of life (how treatment affects day-to-day well-being).\n\nHow did we do the review?\nWe searched for randomized controlled trials (RCTs: studies where people are randomly assigned to different treatments). We combined results when appropriate and rated how certain the evidence was.\n\nWhat did we find?\nWe found 15 RCTs with 2,371 adults and children who had ear discharge for more than 2 weeks. All studies followed people for at least 1 week. Most studies reported results at about 1 to <2 weeks and 2 to <4 weeks. Trials compared quinolone or aminoglycoside antibiotic drops, systemic antibiotics, and topical antiseptics (acetic acid, boric acid, povidone-iodine, aluminium acetate). Some trials used the same ear cleaning (aural toileting) in both groups. No trial reported health-related quality of life. Reports of harms, including possible ototoxicity, were limited.\n\nWhat were the main results?\n- Quinolone ear drops probably clear discharge better than boric acid drops at about 2 weeks. About 1 extra person in 4 treated with quinolones (instead of boric acid) may have a dry ear at 2 weeks.\n- Quinolone drops may cause less ear pain (otalgia) or irritation than boric acid drops.\n- Quinolone drops may give a small hearing improvement versus boric acid, but the change is small (decibel, dB: a unit that measures hearing levels) and may not matter to most people.\n- Evidence comparing antibiotics with acetic acid was mixed and uncertain. Acetic acid may clear discharge better than aminoglycoside drops at 1–2 weeks. It is unclear whether acetic acid and quinolone drops differ.\n- Comparisons with povidone-iodine or aluminium acetate had limited or very uncertain results.\n- No trial reported serious complications or day-to-day wellbeing. Harms, including measures of ototoxicity (damage to hearing or balance from a medicine), were rarely measured or were very uncertain.\n\nHow sure are we about the evidence?\nWe have low confidence. Many trials were small. People in the trials may have known which treatment they got. Trials used different types of patients and different ways to deliver treatment. Follow-up was short. Many outcomes that matter to patients were not reported.\n\nWhat should happen next?\nWe need larger, well-designed trials that directly compare different antibiotic drops, systemic antibiotics, and different antiseptic drops. Trials should use standard ear cleaning (aural toileting) when needed, follow people for longer, and report unwanted effects clearly, including ototoxicity and any serious complications. We should measure quality of life and longer-term hearing.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 815,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 50,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.3,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 271,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 271.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 49.84411963190186,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.356447852760738,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.189092024539882,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.683042944785274,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.912638036809819,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.01165644171779,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.68,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.922847983320086,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.628210061349694,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 352,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 352.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 171,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 234,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 234.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 815,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 815 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:34.753261"
+}

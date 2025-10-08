@@ -1,0 +1,162 @@
+{
+  "id": "CD013758.PUB2",
+  "draft": "Is feeding healthy full‑term babies formula with higher protein (more protein per calorie) better than formula with lower protein?\n\nKey messages:\n- Feeding a higher‑protein formula does not clearly improve growth (weight‑for‑age, height‑for‑age, weight‑for‑height), prevent overweight or obesity, or increase side‑effects such as diarrhea, vomiting, or milk allergy. The evidence is limited and not clear.\n- Comparing regular‑protein formula with low‑protein formula shows little evidence of any effect on growth or side‑effects.\n- The studies were few, small and of low quality, so more well‑designed, longer‑term research is needed.\n\nWhy is the amount of protein in infant formula a health concern for babies?\nMany newborns who are not breast‑fed receive infant formula to support growth. Protein (the building blocks of the body) can be present in different amounts. Some formulas contain a high protein level (at least 2.5 g per 100 kcal) because manufacturers think it may help babies gain weight faster. Too much protein might affect growth patterns, leading to underweight (too light for age), stunted (shorter than expected), or wasted (thin for height). It could also influence the risk of becoming overweight or obese later in childhood. Because the balance of benefits and harms is unclear, we need to compare higher‑protein and lower‑protein formulas.\n\nWhat did the researchers want to find out?\nWe aimed to compare feeding healthy, full‑term infants a higher‑protein formula with feeding them a lower‑protein formula. Specifically, we wanted to know whether the higher‑protein formula improves or harms growth, changes the chance of overweight or obesity, and affects adverse events such as diarrhea, vomiting, or milk‑protein allergy.\n\nHow did we find the studies?\nWe searched databases and trial registries up to October 2022 for randomised trials that compared high‑protein with lower‑protein formula in healthy term babies. We included 11 trials involving 1,185 infants from high‑income countries. Two groups of comparisons were examined: high‑protein versus regular‑protein, and regular‑protein versus low‑protein. Most outcomes were reported at one year and at five years of age.\n\nWhat did we find?\nWe could not tell if a higher‑protein formula changes growth in the first year or the risk of overweight or obesity by age five. We also could not tell whether side‑effects such as diarrhea, vomiting or milk allergy differ between the two formulas. The same uncertainty applies when comparing regular‑protein with low‑protein formula; there is little evidence of any effect on growth or side‑effects. Overall, the evidence is very uncertain.\n\nWhat are the limitations of the evidence?\nThe studies involved different populations and used varied formula delivery methods, and they were all small. Because of these differences and the limited number of participants, confidence in the results is low.\n\nHow up‑to‑date is the evidence?\nWe searched for studies up to October 2022, so the evidence reflects research available at that time. Ongoing and upcoming trials may change these conclusions.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 486,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 48,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 20,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 10,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 133,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 68.01792592592594,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 7.7967242798353915,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 7.322283950617283,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.155308641975306,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.204279835390947,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 45.82962962962962,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 4.8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.831760866327848,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.886277201646091,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 218,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 218.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 106,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 144,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 486,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 486 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 8,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 44.44444444444444,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 77.77777777777779,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft meets all mandatory checks (complete sections, question‑style headings, factual accuracy, word‑count). A few clarity tweaks will make it even smoother for readers:\n1. **Inconsistent terminology** – the draft switches between “regular‑protein” and “standard‑protein”. Use one term consistently (e.g., “standard‑protein”) and add a brief note in the background section: “Standard‑protein formulas contain about 1.8 g protein per 100 kcal.”\n2. **Bulky key‑message bullet** – the first bullet packs three ideas into one long sentence. Split it for easier scanning:\n   - *Original*: “Feeding a higher‑protein formula does not clearly improve growth (weight‑for‑age, height‑for‑age, weight‑for‑height), prevent overweight or obesity, or increase side‑effects such as diarrhea, vomiting, or milk allergy. The evidence is limited and not clear.”\n   - *Rewrite*: “Feeding a higher‑protein formula does not clearly improve growth (weight‑for‑age, height‑for‑age, weight‑for‑height). It also does not clearly prevent overweight or obesity, nor does it increase common side‑effects such as diarrhea, vomiting, or milk allergy. The evidence is limited and uncertain.”\n3. **Passive‑voice phrasing** – the sentence “The evidence is very uncertain.” can be made active to keep the tone consistent: “We are very uncertain about the evidence.”\n4. **Complex word density** – the metric shows a high count of Dale‑Chall unfamiliar words (complex_words_dc = 218). Replace a few less‑common terms (e.g., “hypersensitivity”) with simpler alternatives (“allergy”) where possible.\n5. **Clarify outcome wording** – replace “We could not tell if …” with a more direct statement: “We do not know whether a higher‑protein formula changes growth in the first year or the risk of overweight or obesity by age five.”\nThese edits preserve the scientific content while improving readability for a lay audience.",
+      "pls_evaluation_summary": "The draft conforms strongly to typical PLS patterns (77.8% of features in the best quartile). Readability scores are excellent (Flesch‑Reading‑Ease 68, FK‑grade 7.8). The only notable deviation is a high Dale‑Chall unfamiliar‑word count (complex_words_dc = 218, beyond the typical range), suggesting a modest reduction in jargon would align the text even more closely with standard PLS style."
+    }
+  ]
+}

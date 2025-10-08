@@ -1,0 +1,32 @@
+{
+  "plain_title": "Does extra educational support help children and young people with long-term health conditions to stay involved with school and keep up with their schoolwork?",
+  "key_messages": [
+    "Your response must be a JSON object matching the provided schema.",
+    "The top-level object must contain an \"output\" property with a \"key_messages\" array of strings.",
+    "No extra properties or trailing commas are allowed; wrap the JSON in a markdown code block."
+  ],
+  "background": [
+    {
+      "subheading": "How do long-term health conditions affect children's schooling?",
+      "content": "Chronic (long-term) health conditions are illnesses that last for a long time and are often not cured completely. When children and adolescents have a chronic health condition, it can affect their well-being and make it hard to attend school regularly. Missing school can cause students to fall behind in their schoolwork and feel disconnected from their learning, an issue known as 'school disengagement'. Education support services aim to help these students stay connected to school and keep up with their learning, especially during periods of absence due to their illness."
+    },
+    {
+      "subheading": "What did we want to find out?",
+      "content": "We wanted to find out if education support services are effective for children and adolescents with chronic health conditions. We wanted to know if these services help improve students' engagement with school and their academic achievement (schoolwork and grades)."
+    }
+  ],
+  "methods": [
+    {
+      "subheading": "Methods",
+      "content": "We searched for studies that looked at the effects of educational support services on school engagement and academic achievement for children and adolescents with chronic health conditions. We summarized the results of these studies and rated our confidence in the evidence."
+    }
+  ],
+  "results": [
+    {
+      "subheading": "What did we find?",
+      "content": "The review included four randomised controlled studies with a total of 359 children and adolescents aged four to 18 years with chronic health conditions (cancer or Attention Deficit Hyperactivity Disorder (ADHD)). The studies assessed educational support services. We are uncertain whether education support improves school engagement, academic achievement, or a child's transition back to school. However, education support may slightly improve mental health. The review did not find any studies that measured quality of life or adverse effects."
+    }
+  ],
+  "limitations": "We are not confident in the evidence because there are not enough studies to be certain about the results, and the studies that do exist were very small. It is also possible that people in the studies were aware of which treatment they were getting. Finally, the evidence focused on specific groups of children with certain health conditions, whereas the question we wanted to answer was broader.",
+  "currency": "The evidence is up to date to February 2021 of search."
+}

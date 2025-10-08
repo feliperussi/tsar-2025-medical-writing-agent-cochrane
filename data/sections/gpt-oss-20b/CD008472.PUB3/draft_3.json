@@ -1,0 +1,162 @@
+{
+  "id": "CD008472.PUB3",
+  "draft": "Is temporary blockage ...",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 3,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 1,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 3,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >29.0 (median)"
+        },
+        "pronouns": {
+          "value": 0,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 0.0 to >13.0 (median)"
+        },
+        "nominalization": {
+          "value": 0,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 6.390000000000015,
+          "rating": "BELOW_P10",
+          "direction": "higher_better",
+          "feedback": "Deviates from typical PLS patterns. Consider increasing from 6.4 to >40.5 (median)"
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.113333333333333,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.899999999999999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.573333333333327,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 14.533333333333331,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 69.66666666666666,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 69.7 to <54.3 (median)"
+        },
+        "rix": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 10.675466666666665,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 10.7 to <7.7 (median)"
+        },
+        "complex_words_dc": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 1,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 3,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 3 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 11,
+        "P50_count": 2,
+        "P75_count": 0,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 3,
+        "total_evaluated": 18,
+        "P25_percentage": 61.111111111111114,
+        "P50_percentage": 11.11111111111111,
+        "P75_percentage": 0,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 16.666666666666664,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails the mandatory completeness check – it only contains a single opening sentence and does not include any of the required sections (Title, Key messages, Background/Aims, Methods, Results, Limitations, Currency). The title and sub‑headings are missing, and the existing sentence is not phrased as a question, does not use first‑person plural pronouns, and is written in passive style. Because the PLS must guide patients through the review, the current draft provides no usable information.\n\n**Critical issues**\n1. **Missing sections** – The draft does not contain the seven mandatory sections outlined in the Master Style Guide.\n2. **Title/sub‑headings not in question form** – No title is present, and no sub‑headings are phrased as questions.\n3. **Lack of active voice and pronouns** – The draft contains 0 active‑voice constructions and 0 pronouns, far below the typical PLS range (active voice >29, pronouns >13). This makes the text feel impersonal and harder to follow.\n4. **Very low readability** – Flesch Reading Ease is 6.4 (should be >40), LIX is 69.7 (should be <54), and Dale‑Chall score is 10.7 (should be <7.7). The single sentence is overly dense for a patient audience.\n5. **No patient‑focused language** – No explanation of key terms (e.g., “remote ischaemic preconditioning”) and no context about why the review matters to patients.\n\n**Top improvements needed**\n- **Add the missing sections** – Insert a title, key messages, background/aims, methods, results, limitations, and currency sections as separate headings.\n- **Rewrite the opening sentence as a question and in active voice** – Original: \"Is temporary blockage ...\" → Suggested: \"What is remote ischaemic preconditioning and does it help people undergoing major blood‑vessel surgery?\"\n- **Introduce first‑person plural pronouns** – Replace impersonal phrasing with \"We searched…\", \"We found…\" to meet the style guide.\n- **Break the text into short paragraphs and bullet points** – Use dashes for list items and leave blank lines between headings and paragraphs.\n- **Simplify language and define jargon** – Replace terms like \"ischaemia\" with \"reduced blood flow\" and explain \"remote\" as \"a different part of the body\".\n\n**Supporting metrics** – The evaluation shows 0 active‑voice sentences and 0 pronouns (both below the P10 threshold), a Flesch Reading Ease of 6.4 (far below the typical median >40), and a LIX of 69.7 (beyond the P90 limit). These metric deviations confirm the readability and style problems identified above.",
+      "pls_evaluation_summary": "The PLS evaluation indicates the draft is extremely short (1 sentence) with very low active‑voice (0) and pronoun use (0), resulting in a Flesch Reading Ease of 6.4 (far below the typical 40‑50 range) and a LIX of 69.7 (well above the typical 50‑62). These deviations highlight the need for more active, patient‑friendly language, additional content, and proper structure."
+    }
+  ]
+}

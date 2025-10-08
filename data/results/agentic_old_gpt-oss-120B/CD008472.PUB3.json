@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008472.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Does temporary blood‑flow restriction (remote ischaemic preconditioning) improve outcomes for people undergoing major blood‑vessel (vascular) surgery compared with no restriction?\n\nKey messages\n- Remote ischaemic preconditioning (RIPC) – a short, controlled interruption of blood flow to a limb far from the surgical site, done before surgery to try to protect organs – probably does not change the risk of death, heart attack, kidney problems, stroke, loss of a limb, length of hospital stay, or length of the operation for people having major vascular surgery, and no extra harms were reported.\n- The trials were small and sometimes unclear, so the certainty of the evidence is moderate (fairly reliable but with some limitations). Larger, well‑designed studies are needed to see if RIPC has any real benefit or risk.\n\nWhat health problem does this review focus on?\nWe looked at people who need major vascular surgery – a large‑scale operation on major blood vessels such as the aorta or large arteries – to repair blockages or aneurysms. These operations can cause death (mortality) or serious complications (morbidity) such as heart attacks, kidney damage, strokes, loss of a limb, or long hospital stays. Because many of these surgeries are elective (planned, not emergency) and involve older adults, we need ways to be safer.\n\nWhat is remote ischaemic preconditioning and how might it protect patients?\nRemote ischaemic preconditioning (RIPC) is a simple technique. We place a cuff or tourniquet on an arm or leg and briefly stop blood flow. The short, controlled lack of blood “trains” cells to cope better with the longer periods of reduced blood flow that can occur during the main operation. In theory, this could reduce damage to the heart, kidneys, brain, or other tissues.\n\nWhat did we want to find out?\nWe compared people who received RIPC before their major vascular or endovascular (inside‑the‑vessel) operation with people who did not receive it. We wanted to know whether RIPC lowers the risk of death around the time of surgery and reduces serious complications such as heart attack, kidney problems, stroke, loss of a limb, longer hospital stays, or longer time under anaesthetic (medicine that prevents feeling pain).\n\nHow did we find the evidence?\nWe searched databases for randomised controlled trials (studies where participants are assigned by chance to RIPC or control) that enrolled adults undergoing elective major vascular or endovascular surgery. We included 14 trials with a total of 1,295 participants (average age 65‑​76 years, 84 % men). We pooled the results using a random‑effects meta‑analysis, a statistical method that assumes the true effect may vary between studies. We assessed confidence in the evidence with the GRADE system (a framework that rates how sure we are that the evidence reflects the true effect).\n\nWhat did we find?\n- Mortality (death around the time of surgery) was about the same with or without RIPC.  \n- The risk of heart attack, kidney problems (renal impairment), and stroke showed little or no difference.  \n- Length of hospital stay and total anaesthetic time were similar between groups.  \n- For loss of a limb, the evidence was less certain, but RIPC still probably makes little or no difference.  \n\nOverall, adding RIPC to standard care does not clearly improve or worsen these key outcomes.\n\nWhat are the limitations of the evidence?\nWe are moderately confident because the studies were small, used different ways to deliver RIPC, and involved varied patient groups. The limited number of trials may over‑estimate any benefit.\n\nHow current is the evidence?\nThis review updates our previous work and includes studies published up to April 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 606,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.548387096774192,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 55,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 18,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 180,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 180.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 55.06764452251679,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.43486106675184,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.65062919195146,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.533333333333335,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.806153518577663,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.290961354199936,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.032258064516129,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.44030650891055,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.327289768976898,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 244,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 244.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 121,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 121.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 156,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 606,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 606 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:53.875469"
+}

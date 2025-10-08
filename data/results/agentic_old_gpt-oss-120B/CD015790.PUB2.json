@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015790.PUB2",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do self‑management programs improve quality of life for adults with visual impairment?  \n\nKey messages  \n- Self‑management programs (programs that teach people how to care for themselves and manage daily tasks) make little or no difference to overall quality of life (how someone feels and functions day to day) or vision‑related quality of life (how vision influences daily life) for adults with visual impairment.  \n- The programs do not increase unwanted side effects (adverse events), and most studies reported no treatment‑related harms.  \n- Evidence is low‑certainty because the studies were small, varied in participants and interventions, and did not include people with dual sensory impairment (loss of both vision and hearing). More robust research is needed.  \n\nWhat is visual impairment and why does it matter?  \nVisual impairment means a person’s eyesight is reduced enough to make everyday tasks harder. It is common in older adults because age‑related macular degeneration (a slow breakdown of cells in the centre of the retina that blurs central vision) becomes more frequent with age. About 2.2 billion people worldwide live with some level of visual impairment. Reduced vision can make reading, moving safely and doing daily activities difficult, and it can affect mood and mental well‑being.  \n\nWhat are self‑management programs and how might they help?  \nSelf‑management programs are structured teaching sessions that give people skills to cope with their vision loss. They may include training on low‑vision aids (devices such as glasses, magnifiers or special lenses), strategies for daily tasks, and goal‑setting to keep people active. The idea is that by learning to manage their condition, adults can maintain independence and possibly feel better about their quality of life.  \n\nWhat did we aim to find out?  \nWe wanted to know whether self‑management programs improve quality of life for adults with visual impairment. Specifically, we compared people who received these programs with those who received usual care (the standard services patients normally receive) or no treatment. Our main outcomes were health‑related quality of life (HRQoL – how health affects overall well‑being) and vision‑related quality of life (VRQoL).  \n\nHow did we find the evidence?  \nWe searched electronic databases up to May 2024 for randomised or controlled studies that compared self‑management programs with usual care or no treatment in adults with visual impairment. We included parallel‑group randomised controlled trials (studies where participants are randomly split into groups that run at the same time). Two reviewers checked eligibility, extracted data and assessed risk of bias. Where results were similar enough, we pooled data using random‑effects meta‑analysis and reported standardized mean differences (SMD – a way of expressing the size of an effect across different scales) with 95 % confidence intervals (the range where the true effect is likely to lie). We rated the certainty of the evidence with GRADE (a system that grades confidence from very low to high).  \n\nWhat did we find?  \nWe identified 20 trials involving 3,151 adults (average age 60‑84 years) with mild to moderate visual loss (logMAR 0.15‑1.11; lower numbers mean better vision). Most participants had age‑related macular degeneration; none had dual sensory impairment. Studies were conducted in Asia (2), Australia (2), Europe (6) and North America (10) in settings such as hospitals, low‑vision clinics and rehabilitation centres. Interventions were multifaceted (included several components such as education, exercises and assistive devices). Comparators were wait‑list controls (participants who received the program later), usual care, provision of optical aids or standard low‑vision rehabilitation.  \n\nThe pooled results show:  \n- HRQoL change scores SMD ‑0.09 (95 % CI ‑0.33 to 0.15); final scores SMD ‑0.15 (95 % CI ‑0.38 to 0.08).  \n- VRQoL change scores SMD ‑0.12 (95 % CI ‑0.33 to 0.10); final scores (6‑24 months) SMD ‑0.01 (95 % CI ‑0.14 to 0.13).  \n\nThese numbers mean that, on average, participants receiving self‑management programs did not feel noticeably better than those receiving usual care or no treatment.  \n\nFor safety, the risk ratio for adverse events was 1.14 (95 % CI 0.78 to 1.66). This indicates no clear increase in harms; for example, if 10 % of people in usual care experience an adverse event, a similar 10 % would be expected with a self‑management program.  \n\nWhat are the limitations?  \nWe have low confidence in these findings because most trials were small, used different participants, and delivered varied interventions. The evidence does not include people with dual sensory impairment or those with severe vision loss, and follow‑up periods were often short.  \n\nHow current is the evidence?  \nOur search covered studies published up to May 2024, so the summary reflects the most recent evidence available at that time.  \n\nOverall, self‑management programs for adults with visual impairment probably make little or no difference to quality of life and do not increase harms. Better‑designed, larger trials that include a broader range of participants and use more sensitive outcome measures are needed to determine whether any specific program components can provide meaningful benefits.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 859,
+        "rating": "over_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 43,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.976744186046513,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 79,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 43,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 43.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 247,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 247.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 64.13974551262963,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.275901128949293,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.498407017353877,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.859976717112918,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.534353087689851,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.93716327801391,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.186046511627907,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.041594578792296,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.306818572163413,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 8.3 to <7.7 (median)"
+      },
+      "complex_words_dc": {
+        "value": 398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 398.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 162,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 223,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 223.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 859,
+      "limit": 850,
+      "status": "over_limit",
+      "message": "Word count: 859 ✗ OVER LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 1,
+      "P75_count": 3,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:08.892705"
+}

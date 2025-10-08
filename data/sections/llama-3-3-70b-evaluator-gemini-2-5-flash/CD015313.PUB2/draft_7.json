@@ -1,0 +1,162 @@
+{
+  "id": "CD015313.PUB2",
+  "draft": "Can mucolytics reduce lung infections and improve breathing in children with chronic suppurative lung disease? We looked at whether mucolytics (medicines that help break down mucus) can reduce lung infections and improve breathing in children with chronic suppurative lung disease (CSLD), a condition where the lungs are inflamed and produce excess mucus.\n\nWhat is chronic suppurative lung disease? Chronic suppurative lung disease (CSLD) is a condition that affects the lungs and causes a long-term cough that brings up mucus. It includes several different conditions, such as bronchiectasis (a condition where the airways are damaged) and protracted bacterial bronchitis (PBB, a condition where the airways are infected). These conditions can cause damage to the airways and make it harder for people to breathe.\n\nWhy is it important to find new treatments for chronic suppurative lung disease? Currently, there are limited treatment options for CSLD. Researchers are looking for new ways to help manage the condition. One potential treatment is the use of mucolytic agents, which are medicines that help break down mucus in the lungs. Mucolytic agents could help people with CSLD by improving how their lungs work, causing fewer infections, and improving their quality of life.\n\nWhat did the review authors want to find out? The review authors wanted to find out if mucolytic agents are effective in reducing exacerbations (worsening of symptoms), improving quality of life, and improving lung function in children with CSLD. They also wanted to assess the potential risks of using mucolytic agents, such as adverse events.\n\nWhat did we do? We searched for studies comparing mucolytics with a placebo or no intervention in children with chronic suppurative lung disease, summarized their results, and rated our confidence in the evidence.\n\nWhat did we find? We found one study that included 63 children, but the results were based on data from only 52 of them. The study compared two groups: one group received 3% hypertonic saline (a type of mucolytic) nebulised before chest physiotherapy, and the other group (the control group) received only chest physiotherapy. On average, children using the saltwater spray had about 2 to 3 lung infections per year, compared to about 7 to 8 for children who only had physiotherapy. The study also measured breathing, and children using the spray showed more improvement than the other group. However, the results are very uncertain due to major concerns about how the study was done, which makes the results unreliable. For example, it's likely that families knew which treatment their child was getting, some results were missing, and the study was not carried out as the original plan. Flaws like these are known as 'bias'.\n\nWhat are the limitations of the evidence? We had major concerns about how the study was done, which makes the results unreliable.\n\nIs the evidence up to date? The evidence is up to date to June 2022.\n\nKey messages: \n- Regular use of mucolytics in children with chronic suppurative lung disease may reduce the number of lung infections, but the current evidence is uncertain and based on a single small study with limitations.\n- The study found some improvement in lung function with the use of hypertonic saline, but no data were available on quality of life or the use of mucolytics during exacerbations.\n- Further research is needed, including larger, well-designed studies that investigate different types of mucolytics and their effects on various outcomes, such as quality of life and long-term lung function.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 586,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 30,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.533333333333335,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 13,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 36,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 20,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 175,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 175.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.714127417519904,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.177829351535841,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.669653014789532,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.813720136518771,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.04882821387941,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.22616609783845,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.246950765959598,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.46269292377702,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 241,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 241.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 106,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 174,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 174.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 586,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 586 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 6,
+        "P50_count": 3,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 33.33333333333333,
+        "P50_percentage": 16.666666666666664,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-structured and factually accurate, but it is not approved because it omits key information and could be clearer for a lay audience. Here are the top 3 improvements needed:\n\n1. **Add missing information about side effects and future research.**\n   - **Problem:** The summary doesn't mention what the study found about side effects or that more research is already underway. This information is crucial for patients and families.\n   - **Suggestion:**\n     - In the 'What did we find?' section, add a sentence like: \"The study did not report any harmful side effects from the saltwater spray, but it was too small to be certain about safety.\"\n     - In the 'Is the evidence up to date?' section, add: \"We found two ongoing studies, and their results may be included when this review is updated in the future.\"\n\n2. **Simplify complex sentences, especially in the key messages.**\n   - **Quote:** \"Regular use of mucolytics in children with chronic suppurative lung disease may reduce the number of lung infections, but the current evidence is uncertain and based on a single small study with limitations.\"\n   - **Problem:** This key message is a single, 33-word sentence that is dense and hard to digest. Our analysis shows the draft uses more long and uncommon words than is typical for a Plain Language Summary.\n   - **Suggestion:** Break it into two simpler sentences. For example: \"Using mucolytics regularly may reduce lung infections for children with this lung condition. However, we are very uncertain about this finding because it comes from only one small study that had flaws in its methods.\"\n\n3. **Use more precise numbers in the results.**\n   - **Quote:** \"On average, children using the saltwater spray had about 2 to 3 lung infections per year, compared to about 7 to 8 for children who only had physiotherapy.\"\n   - **Problem:** Using a range like \"2 to 3\" is vague. The actual numbers from the study (2.5 and 7.8) are more accurate and still easy for readers to understand.\n   - **Suggestion:** State the numbers directly: \"On average, children using the saltwater spray had 2.5 lung infections per year, compared to 7.8 infections per year for children who only had physiotherapy.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows the draft highly conforms with typical PLS patterns, with 12 of 18 metrics (66.7%) falling in the best quartile for readability, sentence length, and use of active voice. However, three vocabulary metrics deviate significantly from the typical pattern, indicating the text is denser than it needs to be: 'nouns' (P90), 'complex_words_dc' (P90), and 'long_words' (P90). This supports the editorial recommendation to simplify word choices and sentence structures to improve clarity for a lay audience."
+    }
+  ]
+}

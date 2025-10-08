@@ -3,35 +3,24 @@
   "nodes": [
     {
       "parameters": {
-        "public": true,
-        "options": {}
-      },
-      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
-      "typeVersion": 1.3,
-      "position": [
-        0,
-        0
-      ],
-      "id": "7a057798-57a2-4880-949e-7b1b8a75c20f",
-      "name": "When chat message received",
-      "webhookId": "5b10d534-d14a-41dc-ab7e-cc38adeb8706"
-    },
-    {
-      "parameters": {
         "promptType": "define",
-        "text": "=## Task\nTransform the provided Cochrane medical abstract into a Plain Language Summary (PLS) following Cochrane guidelines. The summary must be accessible to readers without medical knowledge, using simple conversational language that can be understood by someone with an 11-year-old reading level.\n\n## Structure Requirements\nCreate a summary with 400-850 words total, using these sections:\n\n### 1. **Plain Language Summary Title**\n- Rewrite the review question in plain language\n- Use formats like:\n  - \"What are the benefits and risks of [intervention] for [condition]?\"\n  - \"[Intervention A] or [Intervention B]: which works better to treat [condition]?\"\n\n### 2. **Key Messages** (2-3 bullet points)\n- Summarize the main findings and implications\n- Define ALL technical terms within the key messages themselves\n- Make no treatment recommendations\n- These may be the only part some readers see\n\n### 3. **What is [condition]?** (Tailored heading)\n- Briefly explain the condition\n- Describe what causes it\n- List common symptoms\n- Avoid acronyms and jargon\n\n### 4. **[Optional section if needed]**\n- Example: \"How is [condition] treated?\"\n- List treatment options in simple terms\n\n### 5. **What did we want to find out?**\n- State the review aims simply\n- List the main outcomes studied using bullet points\n- Mention if unwanted effects were investigated\n\n### 6. **What did we do?**\n- Briefly describe the review methods\n- Example text: \"We searched for studies that looked at [intervention A] compared with [intervention B] in [population]. We compared and summarized the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes.\"\n\n### 7. **What did we find?**\n- Report number of studies and participants\n- State study duration\n- Present main results WITHOUT:\n  - Statistical data (no p-values, confidence intervals, risk ratios)\n  - Technical certainty language (avoid \"low/moderate/high-certainty evidence\")\n- Focus on practical implications\n\n### 8. **What are the limitations of the evidence?**\n- Explain evidence limitations in plain language\n- Instead of \"risk of bias,\" say things like \"problems with how the studies were done\"\n- Instead of \"low-certainty evidence,\" say \"we are not confident in these results\"\n\n### 9. **How up to date is this evidence?**\n- State: \"The evidence is up to date to [month and year of search]\"\n\n## Language Guidelines\n\n**DO:**\n- Use short, simple sentences\n- Define any necessary technical terms immediately\n- Use conversational style\n- Write in active voice when possible\n- Use \"we\" when referring to the review authors\n- Focus on what the findings mean for patients\n\n**DON'T:**\n- Use medical jargon or acronyms\n- Include statistics, confidence intervals, or p-values\n- Use phrases like \"statistically significant\"\n- Make treatment recommendations\n- Use technical review terminology (\"heterogeneity,\" \"meta-analysis,\" \"systematic review\")\n\n## Translation Considerations\nWrite with international readers in mind:\n- Use simple sentence structures\n- Avoid idioms and cultural references\n- Choose common words over complex alternatives\n- Structure information clearly for easy translation\n\n## Input Format\nWhen you receive the abstract, transform it according to these guidelines. The abstract will contain technical information that you must simplify while maintaining accuracy.\n\n## Output Format\nGenerate a complete Plain Language Summary following the template structure provided in the task prompt, applying all these writing principles throughout. Write simple plain text without markdown or other formatting. Maintain scientific accuracy while prioritizing accessibility and clarity.\n\n**Example transformation:**\n- Abstract: \"The pooled risk ratio was 0.75 (95% CI 0.60-0.90, p<0.05)\"\n- PLS: \"People who received the treatment were less likely to experience the problem\"\n\nPlease transform the following Cochrane abstract into a Plain Language Summary following all guidelines above:\n\n{{ $json.chatInput }}",
+        "text": "=## Task\nTransform the provided Cochrane medical abstract into a Plain Language Summary (PLS) following Cochrane guidelines. The summary must be accessible to readers without medical knowledge, using simple conversational language that can be understood by someone with an 11-year-old reading level.\n\n## Structure Requirements\nCreate a summary with 400-850 words total, using these sections:\n\n### 1. **Plain Language Summary Title**\n**Critical Requirements:**\n- MUST be phrased as a question (e.g., start with \"Is...\", \"What are...\", \"How accurate are...\")\n- Use simple words that a non-expert would recognize and search for\n- If a technical term is essential, you MUST include a brief, simple explanation in parentheses right after it\n- Focus on the core question: clearly state the main comparison or question the review is trying to answer\n\n**Title Format Examples:**\n- \"What are the benefits and risks of [intervention] for [condition]?\"\n- \"[Intervention A] or [Intervention B]: which works better to treat [condition]?\"\n- \"How accurate are rapid swab tests for strep throat in children?\"\n- \"Is surgery with a high-pressure water jet (hydrosurgery) better than conventional surgery for treating severe burns?\"\n\n### 2. **Key Messages** (2-3 bullet points)\n**Structure (STRICTLY ENFORCED):**\n- Create NO LESS than 2 and NO MORE than 3 bullet points\n- **First Key Message:** MUST directly answer the review question. Must include the most important findings on benefits AND unwanted/harmful effects\n  - If harmful effects were NOT reported, you MUST state that explicitly\n  - If the review could not answer the question (e.g., no studies found), state this and the reason why\n- **Second Key Message (Optional):** May include a second message if there is another significant finding or important secondary objective to report\n- **Final Key Message:** MUST state what should happen next (key limitations, important unanswered questions, or needs for future research)\n\n**Content Rules:**\n- Explain ALL jargon within the key messages themselves (CRITICAL - readers may only see this section)\n- Be neutral and nuanced - do not exaggerate benefits or harms\n- Mention if a finding applies only to a specific subgroup\n- Give readers a sense of evidence quality in simple terms (e.g., \"Due to a lack of robust evidence...\", \"We did not find enough good-quality evidence...\")\n\n**Prohibitions:**\n- DO NOT make any recommendations for or against a treatment\n- DO NOT include statistics, numbers, confidence intervals, or GRADE jargon\n\n**Examples:**\n- \"Due to a lack of robust evidence, the benefits and risks of most types of beds, mattresses and mattress toppers for treating pressure ulcers are unclear.\"\n- \"Beds with an air-filled surface that applies constant pressure to the skin may be better than mattresses and toppers made of foam for ulcer healing, but may cost more.\"\n- \"Future research in this area should focus on options and effects that are important to decision-makers, such as: foam or air-filled surfaces that redistribute pressure under the body; and unwanted effects and costs.\"\n\n### 3. **Introduction to the review topic and review aims**\n**Structure:**\n- Break into AT LEAST two separate parts with tailored subheadings\n- All subheadings MUST be phrased as questions (e.g., \"What is...?\", \"Why is...?\", \"How is...?\")\n- You can create more than one background section if the topic is complex\n\n**Part 1 (Background - one or more sections):**\n- Explain what the review is about\n- Describe the health condition and why it's a problem\n- Mention common treatments if applicable\n- For diagnostic test reviews, explain why improving diagnosis is important\n\n**Part 2 (Aims):**\n- Explain what the review authors wanted to find out\n- Clear statement of the research objectives\n\n**Examples of high-quality structure:**\n\n*Intervention Review Example:*\n- Subheading: \"What can people do to stop smoking?\"\n- Content: \"Most people who smoke want to stop, but many find it difficult. People who smoke may use medicines to help them stop. Behavioural support provides an alternative – or additional – way to help people stop smoking...\"\n- Subheading: \"What did we want to find out?\"\n- Content: \"We wanted to find out: which types of behavioural support work best to help people stop smoking; the best ways to give behavioural support...\"\n\n*Diagnostic Test Review Example:*\n- Subheading: \"Why is improving the diagnosis of bacterial throat infection important?\"\n- Content: \"Sore throat is very common in children. It can be caused by viruses or bacteria. Antibiotic treatment is only useful for sore throat caused by bacteria...\"\n- Subheading: \"What are rapid tests for strep throat?\"\n- Content: \"Rapid tests require a simple throat swab from the patient. This gives an immediate result...\"\n- Subheading: \"What did we want to find out?\"\n- Content: \"We wanted to find out how accurate rapid tests are for diagnosing bacterial infection in children with sore throat.\"\n\n### 4. **[Optional section if needed]**\n- Example: \"How is [condition] treated?\"\n- List treatment options in simple terms\n\n### 5. **What did we do?**\n**Requirements:**\n- Be EXTREMELY brief - one or two sentences maximum\n- Summarize the three main things the review authors did:\n  1. They SEARCHED for studies with specific characteristics\n  2. They SUMMARIZED or COMBINED the results\n  3. They EVALUATED or RATED their confidence in the evidence\n- Link directly to the research aims stated earlier\n\n**Study Design Handling (CRITICAL RULE):**\n- AVOID mentioning specific study designs (like \"Randomized controlled trials\") by default\n- EXCEPTION: If the abstract heavily emphasizes a specific design, you may mention it, but you MUST provide a simple explanation in parentheses\n  - Example for retrospective studies: \"studies that looked back at treatments already given to people\"\n  - Example for RCTs: \"a study in which participants are assigned randomly to 2 or more treatment groups to ensure the groups are similar\"\n\n**Examples:**\n- \"We searched for studies that compared: hair removal against no removal; or different methods and times of hair removal. We compared and summarized their results, and rated our confidence in the evidence, based on factors such as study methods and sizes.\"\n- \"We searched for studies that had investigated the accuracy of rapid tests for diagnosing bacterial infection in children and we combined the results across these studies.\"\n\n### 6. **What did we find?**\n\n**Study Characteristics:**\nPresent study characteristics as a natural flowing paragraph (not a list). You MUST report on the following points if available:\n- Total number of included studies\n- Total number of people who took part\n- How long the studies lasted (for intervention reviews)\n- Overview of study funding sources\n- Population characteristics (e.g., age, gender, severity of condition)\n- Study settings (countries where they took place)\n- Types of interventions and comparisons\n- If you found NO studies on a particular intervention, outcome or population of interest\n\n**Example:**\n\"We found 81 studies that involved 4674 people with painful bladder. The biggest study was in 369 people and the smallest study was in 10 people. The studies were conducted in countries around the world; most were done in the USA (25). Most studies lasted for around 3 months; only 6 studies lasted for 12 months or more. Pharmaceutical companies funded 24 of the studies.\"\n\n**Main Results:**\nUse the NARRATIVE STATEMENTS GUIDE below to translate technical findings into plain language.\n\n**NARRATIVE STATEMENTS GUIDE (STRICTLY ENFORCED):**\n\nFor each finding:\n1. Identify the \"Level of certainty\" (High, Moderate, Low, Very low)\n2. Identify the \"Effect size\" (Large, Moderate, Small/important, Trivial/no effect)\n3. Use the corresponding narrative statement from this table:\n\n| Effect Size | High Certainty | Moderate Certainty | Low Certainty | Very Low Certainty |\n|------------|---------------|-------------------|--------------|-------------------|\n| Large effect | \"Intervention causes a large reduction/increase in outcome\" | \"Intervention probably causes a large reduction/increase in outcome\" | \"Intervention may cause a large reduction/increase in outcome\" | \"It is unclear if intervention has an effect on outcome\" OR \"We do not know if intervention has an effect on outcome\" |\n| Moderate effect | \"Intervention reduces/increases outcome\" | \"Intervention probably reduces/increases outcome\" | \"Intervention may reduce/increase outcome\" | \"It is unclear if intervention has an effect on outcome\" OR \"We do not know if intervention has an effect on outcome\" |\n| Small, important | \"Intervention reduces/increases outcome slightly\" | \"Intervention probably reduces/increases outcome slightly\" | \"Intervention may reduce/increase outcome slightly\" | \"Intervention may reduce/increase/have little to no effect on outcome but we are very uncertain about the results\" |\n| Trivial/no effect | \"Intervention makes little to no difference to outcome\" | \"Intervention probably makes little to no difference to outcome\" | \"Intervention may make little to no difference to outcome\" | \"Intervention may reduce/increase/have little to no effect on outcome but we are very uncertain about the results\" |\n\n**Presenting Results with Numbers (when possible):**\nPresent results in simple, understandable ways:\n- \"For every 100 people...\"\n- \"If [baseline scenario], then [intervention scenario]...\"\n- Use concrete examples that relate to real people\n\n**Examples:**\n- \"If transfer solutions with low concentrations or no hyaluronic acid have a 33% chance of resulting in a live birth, solutions with high concentrations increase the chance of a live birth to between 37% and 44%. There would probably be 1 additional live birth for every 14 embryos transferred in a high concentration hyaluronic acid solution.\"\n- \"For every 100 people using nicotine e-cigarettes to stop smoking, 10 might stop successfully, compared with only 6 of 100 people using nicotine-replacement therapy or nicotine-free e-cigarettes, or 4 of 100 people having no support or behavioural support only.\"\n\n**PROHIBITIONS:**\n- DO NOT invent results\n- DO NOT use summary statistics (e.g., RR 0.80, 95% CI 0.61 to 1.05)\n- DO NOT use GRADE jargon (e.g., 'low-certainty evidence', 'indirectness')\n\n### 7. **What are the limitations of the evidence?**\n\n**Two-Step Translation Process:**\n\n**Step 1: Identify Technical Clues**\nFrom the abstract, identify:\n1. The overall level of certainty in the evidence (e.g., \"moderate certainty,\" \"low certainty\")\n2. The specific technical reasons given for that certainty level\n\n**Step 2: Translate using these guides:**\n\n**CERTAINTY LEVEL WORDING:**\n| GRADE Judgement | Plain Language Opening |\n|-----------------|----------------------|\n| High certainty | \"We are confident that...\" |\n| Moderate certainty | \"We are moderately confident in the evidence because...\" OR \"Our confidence in the evidence is only moderate because of concerns about...\" |\n| Low certainty | \"We have little confidence in the evidence because...\" |\n| Very low certainty | \"We are not confident in the evidence because...\" |\n\n**REASON TRANSLATION GUIDE:**\n| Technical Reason | Plain Language Version |\n|-----------------|----------------------|\n| Study design (non-RCTs) | \"People in the studies were not randomly placed into the different treatment groups. This means that differences between the groups could be due to differences between people rather than between the treatments.\" |\n| Risk of bias | \"It is possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in.\" |\n| Inconsistency | \"The studies were done in different types of people/used different ways of delivering intervention.\" |\n| Indirectness | \"The evidence does not cover all of the people/intervention/comparators/outcomes we were interested in.\" OR \"The evidence focused on specific population/intervention/comparators/outcomes whereas the question we wanted to answer was broader.\" |\n| Imprecision | \"Studies were very small.\" OR \"The evidence is based on few cases of condition/type of event.\" OR \"There are not enough studies to be certain about the results of our outcomes.\" |\n| Publication bias | \"The studies that provide results for our review are likely to exaggerate the benefits of the intervention because they represent only a small set of the studies on intervention.\" |\n\n**Combine the opening phrase with the plain language reasons to create a single, concise paragraph.**\n\n**STRICTLY FORBIDDEN WORDS:**\n- DO NOT use: \"downgrading\", \"very low/low/moderate/high certainty evidence\", \"risk of bias\", \"indirectness\", \"imprecision\", \"inconsistency\", \"publication bias\"\n\n**Example:**\nIf abstract says: \"The evidence was of low certainty due to risk of bias and imprecision.\"\nCORRECT OUTPUT: \"We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\"\n\n### 8. **How up to date is this evidence?**\n\n**Critical Date Identification Process:**\n\n**Step 1: Identify All Search Dates**\nScan the abstract to find all mentioned search dates.\n\n**Step 2: Determine the Main Analysis Date**\nIdentify the cutoff date for the search that provided the studies for the MAIN analysis and results presented in the abstract. This is the date for the evidence that has been synthesized.\n\n**Step 3: Handle Pending Studies (CRITICAL)**\nIf the abstract mentions a more recent search date BUT indicates that studies from that search are:\n- Pending inclusion\n- Not yet analyzed\n- Will be incorporated in a future version\n- Listed as 'awaiting classification' or 'to be assessed'\n\nYou MUST use the earlier, definitive search date from Step 2. The goal is to report the currency of the evidence that is actually presented in the \"Main results\".\n\n**Step 4: Check for Updates**\nDetermine if the abstract states the review is an 'update' to a previous version.\n\n**Step 5: Construct the Sentence**\nUse EXACTLY this template:\n`[This review updates our previous review.] The evidence is up to date to [month and year of search].`\n\nThe \"This review updates our previous review.\" sentence is ONLY included if the review mentions any previous review or update.\n\n**Example:**\n- If a review's main analysis is based on searches up to \"August 2021\", but a later search in \"February 2024\" found studies that are still \"awaiting classification\", the correct date for the current evidence is **August 2021**.\n- CORRECT OUTPUT: \"The evidence is up to date to August 2021.\"\n- If it's an update: \"This review updates our previous review. The evidence is up to date to August 2021.\"\n\n## Language Guidelines\n\n**DO:**\n- Use short, simple sentences\n- Define any necessary technical terms immediately\n- Use conversational style\n- Write in active voice when possible\n- Use \"we\" when referring to the review authors\n- Focus on what the findings mean for patients\n\n**DON'T:**\n- Use medical jargon or acronyms\n- Include statistics, confidence intervals, or p-values\n- Use phrases like \"statistically significant\"\n- Make treatment recommendations\n- Use technical review terminology (\"heterogeneity,\" \"meta-analysis,\" \"systematic review\")\n\n## Translation Considerations\nWrite with international readers in mind:\n- Use simple sentence structures\n- Avoid idioms and cultural references\n- Choose common words over complex alternatives\n- Structure information clearly for easy translation\n\n## Final Quality Checks\n\nBefore finalizing, verify:\n- Could an 11-year-old understand this?\n- Are all medical terms explained?\n- Is the tone conversational and friendly?\n- Would this translate well?\n- Does it focus on what matters to patients?\n- Is the word count under 850?\n- Do readability metrics fall within typical PLS ranges?\n- Have you used the correct narrative statements from the guide?\n- Have you properly translated GRADE terminology?\n- Have you identified the correct evidence currency date?\n\n## Output Format\nGenerate a complete Plain Language Summary following the template structure provided in the task prompt, applying all these writing principles throughout. Write simple plain text without markdown or other formatting. Maintain scientific accuracy while prioritizing accessibility and clarity.\n\nPlease transform the following Cochrane abstract into a Plain Language Summary following all guidelines above:\n\n\"{{ $('Input').last().json.body.title}}\n{{ $('Input').last().json.body.abstract}}\"",
+        "hasOutputParser": true,
         "options": {
-          "systemMessage": "=You are a medical communication specialist trained to transform complex Cochrane systematic review abstracts into Plain Language Summaries (PLS). Your primary goal is to make health evidence accessible to people without medical knowledge, including patients, caregivers, and the general public. You write at an 11-year-old reading level while maintaining scientific accuracy.\n\n## Core Writing Principles\n\n### Language Requirements\n\n**Use Everyday Language:**\n- Write \"people\" instead of \"study participants\"\n- Use \"study\" instead of \"trial\"\n- Write \"people with [condition]\" instead of \"participants\"\n- Use actual intervention names instead of \"intervention\"\n- Use actual comparison names instead of \"control\" or \"comparison\"\n- Write \"medicines\" instead of \"drugs\"\n- Say \"blood thinners\" before introducing \"anticoagulants\"\n\n**Explain Medical Terms:**\n- Define common medical words:\n  - \"acute condition\" = a condition that develops suddenly and lasts a short time\n  - \"chronic condition\" = a condition that lasts for a long time\n- Include technical terms with explanations when patients might know them\n- Format: \"blood thinners (anticoagulants)\" or \"Anticoagulants are medicines that stop harmful blood clots forming\"\n\n**Avoid or Explain:**\n- No acronyms unless defined: \"nicotine replacement therapy (NRT)\"\n- Write \"for example\" not \"e.g.\"\n- Write \"in other words\" not \"i.e.\"\n- Write \"and so on\" not \"etc.\"\n- Use \"hospital emergency care\" not \"A&E\" or \"ER\"\n\n### Style Requirements\n\n**Sentence Structure:**\n- Average 20 words per sentence\n- Vary sentence length for engagement\n- Break complex sentences into simpler ones\n- Example: Instead of \"Most people who smoke want to stop, however many find it difficult to do so, even though they may use medicines that are designed to help them stop\"\n- Write: \"Most people who smoke want to stop, but many find it difficult. People who smoke may use medicines to help them stop.\"\n\n**Voice and Perspective:**\n- Use active voice: \"We compared the studies\" not \"The studies were compared\"\n- Use first-person plural: \"we assessed\" not \"the review authors assessed\"\n- Address readers directly with \"you\" when appropriate\n- Use verbs not noun phrases: \"we analyzed\" not \"we carried out an analysis\"\n\n**Numbers:**\n- Write as numerals (1, 2, 3) not words\n- Never start sentences with numerals - rewrite if needed\n- \"The studies included 3260 people\" not \"3260 people took part\"\n\n**Conciseness:**\n- Maximum 850 words, but shorter is better\n- Replace wordy phrases:\n  - \"during\" not \"during the course of\"\n  - \"often\" not \"it was often the case that\"\n  - \"some/many\" not \"a number of\"\n  - \"because\" not \"due to the fact that\"\n\n### Structure Requirements\n\n**Formatting:**\n- Use question-format subheadings for conversational tone\n- Use bullet points with dashes for lists:\n  - – antibiotics (medicines that fight bacterial infections)\n  - – light therapy\n  - – surgery\n- Keep paragraphs short (2-4 sentences)\n- Use white space to improve readability\n- Start new paragraphs when topics shift\n\n## Translation and International Considerations\n- Avoid idioms and cultural references\n- Use globally understood terms\n- Write simple sentence structures for easy translation\n- Remember the summary will be translated into 14 languages\n\n## Critical Rules\n1. **Never include:** statistics, confidence intervals, p-values, risk ratios, or \"statistically significant\"\n2. **Never use:** \"low/moderate/high-certainty evidence\" - instead describe confidence in practical terms\n3. **Never make:** treatment recommendations or tell people what to do\n4. **Always explain:** what findings mean for real people in practical terms\n5. **Always check:** that someone without medical knowledge could understand every sentence\n\n## Quality Checks\nBefore finalizing, verify:\n- Could an 11-year-old understand this?\n- Are all medical terms explained?\n- Is the tone conversational and friendly?\n- Would this translate well?\n- Does it focus on what matters to patients?"
+          "systemMessage": "=You are a medical communication specialist trained to transform complex Cochrane systematic review abstracts into Plain Language Summaries (PLS). Your primary goal is to make health evidence accessible to people without medical knowledge, including patients, caregivers, and the general public. You write at an 11-year-old reading level while maintaining scientific accuracy.\n\n## Core Writing Principles\n\n### Language Requirements\n\n**Use Everyday Language:**\n- Write \"people\" instead of \"study participants\"\n- Use \"study\" instead of \"trial\"\n- Write \"people with [condition]\" instead of \"participants\"\n- Use actual intervention names instead of \"intervention\"\n- Use actual comparison names instead of \"control\" or \"comparison\"\n- Write \"medicines\" instead of \"drugs\"\n- Say \"blood thinners\" before introducing \"anticoagulants\"\n\n**Explain Medical Terms:**\n- Define common medical words:\n  - \"acute condition\" = a condition that develops suddenly and lasts a short time\n  - \"chronic condition\" = a condition that lasts for a long time\n- Include technical terms with explanations when patients might know them\n- Format: \"blood thinners (anticoagulants)\" or \"Anticoagulants are medicines that stop harmful blood clots forming\"\n\n**Avoid or Explain:**\n- No acronyms unless defined: \"nicotine replacement therapy (NRT)\"\n- Write \"for example\" not \"e.g.\"\n- Write \"in other words\" not \"i.e.\"\n- Write \"and so on\" not \"etc.\"\n- Use \"hospital emergency care\" not \"A&E\" or \"ER\"\n\n### Style Requirements\n\n**Sentence Structure:**\n- Average 20 words per sentence\n- Vary sentence length for engagement\n- Break complex sentences into simpler ones\n- Example: Instead of \"Most people who smoke want to stop, however many find it difficult to do so, even though they may use medicines that are designed to help them stop\"\n- Write: \"Most people who smoke want to stop, but many find it difficult. People who smoke may use medicines to help them stop.\"\n\n**Voice and Perspective:**\n- Use active voice: \"We compared the studies\" not \"The studies were compared\"\n- Use first-person plural: \"we assessed\" not \"the review authors assessed\"\n- Address readers directly with \"you\" when appropriate\n- Use verbs not noun phrases: \"we analyzed\" not \"we carried out an analysis\"\n\n**Numbers:**\n- Write as numerals (1, 2, 3) not words\n- Never start sentences with numerals - rewrite if needed\n- \"The studies included 3260 people\" not \"3260 people took part\"\n\n**Conciseness:**\n- Maximum 850 words, but shorter is better\n- Replace wordy phrases:\n  - \"during\" not \"during the course of\"\n  - \"often\" not \"it was often the case that\"\n  - \"some/many\" not \"a number of\"\n  - \"because\" not \"due to the fact that\"\n\n### Structure Requirements\n\n**Formatting:**\n- Use question-format subheadings for conversational tone\n- Use bullet points with dashes for lists:\n  - – antibiotics (medicines that fight bacterial infections)\n  - – light therapy\n  - – surgery\n- Keep paragraphs short (2-4 sentences)\n- Use white space to improve readability\n- Start new paragraphs when topics shift\n\n## Translation and International Considerations\n- Avoid idioms and cultural references\n- Use globally understood terms\n- Write simple sentence structures for easy translation\n- Remember the summary will be translated into 14 languages\n\n## Critical Rules\n1. **Never include:** statistics, confidence intervals, p-values, risk ratios, or \"statistically significant\"\n2. **Never use:** \"low/moderate/high-certainty evidence\" - instead describe confidence in practical terms\n3. **Never make:** treatment recommendations or tell people what to do\n4. **Always explain:** what findings mean for real people in practical terms\n5. **Always check:** that someone without medical knowledge could understand every sentence\n\n## Quality Checks for Accessible Writing\n\nBefore finalizing, verify your summary follows these accessibility principles:\n\n**Keep Sentences Short and Simple:**\n- Aim for 15-20 words per sentence on average\n- Break any sentence longer than 25 words into two sentences\n- Vary sentence length to maintain reader interest\n\n**Use Active Voice:**\n- Start sentences with who is doing the action: \"We found...\" not \"It was found...\"\n- Use \"researchers discovered\" not \"it was discovered by researchers\"\n- Check that most sentences have a clear subject performing an action\n\n**Choose Simple, Everyday Words:**\n- Use common words: \"use\" not \"utilize\", \"help\" not \"facilitate\", \"about\" not \"approximately\"\n- Avoid words with many syllables when shorter alternatives exist\n- Replace long words (7+ letters) with shorter ones when possible\n\n**Use Verbs Instead of Noun Forms:**\n- Say \"decide\" not \"make a decision\"\n- Say \"assess\" not \"carry out an assessment\"\n- Say \"conclude\" not \"reach a conclusion\"\n\n**Make It Personal:**\n- Use \"we\" when referring to the research team\n- Use \"people\" when referring to study participants\n- Address the reader with \"you\" when appropriate\n\n**Minimize Passive Constructions:**\n- Too much passive: \"The treatment was given to patients\"\n- Better active: \"Patients received the treatment\"\n- Too much passive: \"Studies were examined by the review team\"\n- Better active: \"The review team examined the studies\"\n"
         }
       },
       "type": "@n8n/n8n-nodes-langchain.agent",
       "typeVersion": 2.2,
       "position": [
-        208,
-        0
+        -96,
+        16
       ],
       "id": "caf98afa-c5cd-4f1e-82da-196a60ff78bd",
-      "name": "AI Agent"
+      "name": "AI Agent",
+      "retryOnFail": true,
+      "maxTries": 5,
+      "waitBetweenTries": 500
     },
     {
       "parameters": {
@@ -43,8 +32,8 @@
       "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
       "typeVersion": 1,
       "position": [
-        176,
-        216.5
+        -320,
+        352
       ],
       "id": "a391d216-ea82-43c8-8c7e-94368c5ece8c",
       "name": "Google Gemini Chat Model",
@@ -54,11 +43,197 @@
           "name": "Google Gemini(PaLM) API ARIAS"
         }
       }
+    },
+    {
+      "parameters": {
+        "model": "gpt-5-grande",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatAzureOpenAi",
+      "typeVersion": 1,
+      "position": [
+        -320,
+        768
+      ],
+      "id": "dd9f889e-2fac-4928-bade-03759cc20b9d",
+      "name": "Azure OpenAI Chat Model2",
+      "credentials": {
+        "azureOpenAiApi": {
+          "id": "BHYmAws887ArZmFP",
+          "name": "GPT-5-Grande"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "b38ce007-17ed-4b4a-b8a8-f1bf8bd71262",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -320,
+        16
+      ],
+      "id": "72aa1d84-fcbd-4d84-a8dd-a37ab84faad2",
+      "name": "Input",
+      "webhookId": "b38ce007-17ed-4b4a-b8a8-f1bf8bd71262"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "meta-llama/Llama-3.2-3B-Instruct-Turbo",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        -320,
+        560
+      ],
+      "id": "a15b55ef-7e7c-4645-9481-d5e3165b6816",
+      "name": "Together AI - LLama 3.3 70B8",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-20b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        -192,
+        240
+      ],
+      "id": "4c1deea0-6d42-4088-b5e9-f7b184b8a676",
+      "name": "Together AI - GPT-OSS-20B",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsonSchemaExample": "{\n\t\"pls\": \"Plain Language Summary Text without the thinking part\"\n}",
+        "autoFix": true
+      },
+      "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+      "typeVersion": 1.3,
+      "position": [
+        96,
+        240
+      ],
+      "id": "2abbd1e2-1ca2-4865-bd6a-fc5c6a2a8d66",
+      "name": "Structured Output Parser"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "openai/gpt-oss-120b",
+          "mode": "id"
+        },
+        "options": {
+          "temperature": 0
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        96,
+        400
+      ],
+      "id": "bb4131ec-4922-4e21-bbe1-c936956c8089",
+      "name": "Together AI - GPT-OSS-20B1",
+      "credentials": {
+        "openAiApi": {
+          "id": "vDorphtbyBFF36xI",
+          "name": "Together AI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $('AI Agent').last().json.output.pls\n\nreturn [\n  {\n    output: input\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        256,
+        16
+      ],
+      "id": "808f3ceb-9a55-47b5-8458-97ea71100e82",
+      "name": "Return Answer"
     }
   ],
-  "pinData": {},
+  "pinData": {
+    "Input": [
+      {
+        "json": {
+          "headers": {
+            "host": "localhost:5678",
+            "accept": "*/*",
+            "accept-encoding": "gzip, deflate",
+            "user-agent": "Python/3.12 aiohttp/3.12.14",
+            "content-length": "6241",
+            "content-type": "application/json"
+          },
+          "params": {},
+          "query": {},
+          "body": {
+            "model": "baseline-gpt-oss-20b",
+            "cochrane_review_id": "CD015089.PUB2",
+            "title": "Head impulse, nystagmus, and test of skew examination for diagnosing central causes of acute vestibular syndrome",
+            "abstract": "Background\nDizziness is a common reason for people to seek medical care. Acute vestibular syndrome (AVS) is a specific type of dizziness, which can include severe vertigo, nausea and vomiting, nystagmus, or unsteadiness. Acute vestibular syndrome can be due to peripheral or central causes. It is important to determine the cause, as the intervention and outcomes differ if it is from a peripheral or central cause. Clinicians can assess for the cause using risk factors, patient history, examination findings, or advanced imaging, such as a magnetic resonance imaging (MRI). The head impulse, nystagmus, test of skew (HINTS) examination is a three‐part examination performed by clinicians to determine if AVS is due to a peripheral or central cause. This includes assessing how the eyes move in response to rapidly turning a person's head (head impulse), assessing the direction of involuntary eye movements (nystagmus), and assessing whether the eyes are aligned or misaligned (test of skew). The HINTS Plus examination includes an additional assessment of auditory function. Objectives\nTo assess the diagnostic accuracy of the HINTS and HINTS Plus examinations, with or without video assistance, for identifying a central etiology for AVS. Search methods\nWe searched CENTRAL, MEDLINE, Embase, Google Scholar, the International HTA database, and two trials registers to September 2022. Selection criteria\nWe included all retrospective and prospective diagnostic test accuracy studies that evaluated the HINTS or HINTS Plus test used in a primary care clinic, an urgent care clinic, the emergency department, or during inpatient hospitalization against a final diagnosis of a central etiology of AVS, as defined by the reference standard of advanced imaging or final diagnosis by a neurologist. Data collection and analysis\nTwo review authors independently determined eligibility of each study according to eligibility criteria, extracted data, assessed the risk of bias, and determined the certainty of evidence. Disagreements were adjudicated by consensus or a third review author if needed. The primary outcome was the diagnostic accuracy of the HINTS and HINTS Plus examinations for identifying a central etiology for AVS, conducted clinically (clinician visual assessment) or with video assistance (e.g. video recording with goggles); we independently assessed the clinical and video‐assisted examinations. Subgroup analyses were performed by provider type (e.g. physicians, non‐physicians), time from symptom onset to presentation (e.g. less than 24 hours, longer than 24 hours), reference standard (e.g. advanced imaging, discharge diagnosis), underlying etiology (e.g. ischemic stroke, alternative etiologies [hemorrhagic stroke, intracranial mass]), study setting (e.g. outpatient [outpatient clinic, urgent care clinic, emergency department], inpatient), physician level of training (e.g. resident, fellow/attending), physician specialty (e.g. otolaryngology, emergency medicine, neurology, and neurologic subspecialist [e.g. neuro‐ophthalmology, neuro‐otology]), and individual diagnostic accuracy of each component of the examination (e.g. head impulse, direction‐changing nystagmus, test of skew). We created 2 x 2 tables of the true positives, true negatives, false positives, and false negatives and used these data to calculate the sensitivity, specificity, positive likelihood ratio, and negative likelihood ratio with 95% confidence intervals (95% CI) for each outcome. Main results\nWe included 16 studies with a total of 2024 participants (981 women and 1043 men) with a mean age of 60 years. Twelve studies assessed the HINTS examination; five assessed the HINTS Plus examination. Thirteen studies were performed in the emergency department; half were performed by neurologists. The clinical HINTS examination (12 studies, 1890 participants) was 94.0% (95% confidence interval [CI] 82.0% to 98.2%) sensitive, and 86.9% (95% CI 75.3% to 93.6%) specific (low‐certainty evidence). The video‐assisted HINTS examination (3 studies, 199 participants) was 85.0% to 100% sensitive (low‐certainty evidence), and 38.9% to 100% specific (very low‐certainty evidence). The clinical HINTS Plus examination (5 studies, 451 participants) was 95.3% (95% CI 78.4% to 99.1%) sensitive, and 72.9% (95% CI 44.4% to 90.1%) specific (low‐certainty evidence). The video‐assisted HINTS Plus examination (2 studies, 163 participants) was 85.0% to 93.8% sensitive, and 28.6% to 38.9% specific (moderate‐certainty evidence). Subgroup analyses were limited, as most studies were conducted in the emergency department, by physicians, and with MRI as a reference standard. Time from symptom onset to presentation varied across studies. Three studies were at high risk of bias and three studies were at unclear risk of bias for participant selection. Three studies were at unclear risk of bias for the index test. Four studies were at unclear risk of bias for the reference standard. Two studies were at unclear risk of bias for flow and timing. One study had unclear applicability concerns for participant selection. Two studies had high applicability concerns for the index test and two studies had unclear applicability concerns for the index test. No studies had applicability concerns for the reference standard. Authors' conclusions\nThe HINTS and HINTS Plus examinations had good sensitivity and reasonable specificity for diagnosing a central cause for AVS in the emergency department when performed by trained clinicians. Overall, the evidence was of low certainty. There were limited data for the role of video‐assistance or specific subgroups. Future research should include more high‐quality studies of the HINTS and HINTS Plus examination; assessment of inter‐rater reliability across users; accuracy across different providers, specialties, and experience; and direct comparison with no HINTS or MRI to assess the effect on clinical care."
+          },
+          "webhookUrl": "http://localhost:5678/webhook-test/b38ce007-17ed-4b4a-b8a8-f1bf8bd71262",
+          "executionMode": "test"
+        }
+      }
+    ],
+    "AI Agent": [
+      {
+        "json": {
+          "output": {
+            "pls": "Is a combined mechanical and oral antibiotic bowel preparation better than mechanical alone for preventing complications after colorectal surgery?\n\n- The combined preparation probably reduces the chance of surgical site infections and leaks compared with mechanical preparation alone, but we are only moderately confident because the studies had some concerns about how they were carried out.\n- Few studies looked at side effects, and none reported serious problems, so we do not know whether the combined preparation might cause dehydration or other issues.\n- More research is needed to see if the combined preparation works as well as oral antibiotics alone or if skipping bowel preparation altogether is safe.\n\nWhat is colorectal surgery and why is it risky?\nColorectal surgery involves removing part of the colon or rectum, often for cancer or other diseases. The surgery can lead to infections at the incision site, leaks where the bowel is reconnected, and other complications that can make recovery harder.\n\nWhat is bowel preparation and why might it help?\nBowel preparation is a process that cleans the intestine before surgery. Mechanical preparation uses a liquid or pills to empty the bowel, while oral antibiotics are taken by mouth to reduce bacteria. The idea is that a cleaner, less bacterial bowel might lower the risk of infection and leaks after the operation.\n\nWhat did we want to find out?\nWe wanted to know whether using both mechanical cleaning and oral antibiotics together is better at preventing infections, leaks, and other problems than using mechanical cleaning alone, oral antibiotics alone, or no preparation at all.\n\nWhat did we do?\nWe searched for randomised controlled trials that compared combined mechanical and oral antibiotic preparation with mechanical preparation alone, oral antibiotics alone, or no preparation. We summarised the results and judged how confident we were in the evidence.\n\nWhat did we find?\nWe identified 21 trials that included about 5,200 adults undergoing colon or rectal surgery, mostly for cancer. The studies used different types and amounts of mechanical cleaning and oral antibiotics, and some included both colon and rectal operations.\n\nMain findings:\n- Compared with mechanical preparation alone, the combined approach probably reduces the chance of surgical site infections and the chance of a leak where the bowel is reconnected.\n- When compared with oral antibiotics alone, the combined approach does not appear to be clearly better or worse for infections, leaks, death, or other complications.\n- Compared with doing no bowel preparation, the combined approach does not show a clear advantage for most outcomes.\n- No differences were seen in overall death rates, the need for a repeat operation, or how long people stayed in the hospital.\n- Only four trials reported on side effects such as dehydration or kidney problems, and none found serious issues, so we have limited information about possible harms.\n\nWhat are the limitations of the evidence?\nMany of the trials had some concerns about how they were conducted, such as unclear methods for assigning participants to groups or incomplete reporting of outcomes. The way the bowel preparations were given varied a lot between studies, making it harder to compare results. Very few studies looked at side effects, so we cannot be sure the combined preparation is free of harm. Because of these issues, our confidence in the findings is moderate for the comparison with mechanical preparation alone and lower for the other comparisons.\n\nHow up to date is this evidence?\nThe literature search was completed on 15 December 2021, so the evidence reflects studies published up to that date. No newer systematic review on this specific question has been identified."
+          }
+        }
+      }
+    ]
+  },
   "connections": {
-    "When chat message received": {
+    "Google Gemini Chat Model": {
+      "ai_languageModel": [
+        []
+      ]
+    },
+    "Azure OpenAI Chat Model2": {
+      "ai_languageModel": [
+        []
+      ]
+    },
+    "Input": {
       "main": [
         [
           {
@@ -69,7 +244,12 @@
         ]
       ]
     },
-    "Google Gemini Chat Model": {
+    "Together AI - LLama 3.3 70B8": {
+      "ai_languageModel": [
+        []
+      ]
+    },
+    "Together AI - GPT-OSS-20B": {
       "ai_languageModel": [
         [
           {
@@ -79,13 +259,46 @@
           }
         ]
       ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Return Answer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Structured Output Parser": {
+      "ai_outputParser": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_outputParser",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Together AI - GPT-OSS-20B1": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Structured Output Parser",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "a28fb99f-c77f-4b37-b97e-428fbbf682d6",
+  "versionId": "6f1fd389-696b-4728-8e5d-e92293b45267",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "68a343dc4fdc0a1aa994538b185d46372a7bfdf2d53434d01cca623f8b5c815a"

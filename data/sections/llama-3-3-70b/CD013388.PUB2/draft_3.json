@@ -1,0 +1,162 @@
+{
+  "id": "CD013388.PUB2",
+  "draft": "Can cognitive rehabilitation help people with mild to moderate dementia?\n\nKey messages:\n- Cognitive rehabilitation is helpful for people with mild or moderate dementia - it improves their ability to manage everyday activities like bathing, cooking, and personal care.\n- Future research should focus on how to make cognitive rehabilitation more effective and improve its impact on people's daily lives and wellbeing.\n\nWhat is dementia and why is it a problem?\nDementia affects a person's memory, thinking, and behavior. It makes everyday activities difficult, affecting independence and quality of life. People with dementia have trouble with memory, communication, problem-solving, and other cognitive skills. Alzheimer's disease is the most common type of dementia. While there are treatments to manage symptoms, there is currently no cure.\n\nWhat is cognitive rehabilitation and how can it help people with dementia?\nCognitive rehabilitation helps people with dementia manage daily tasks and stay independent. It involves working with a healthcare professional to identify specific goals and develop strategies to achieve them. Cognitive rehabilitation can improve memory, problem-solving skills, and communication, and help people adapt to changes in their cognitive abilities.\n\nWhat did the review authors want to find out?\nThe review authors wanted to evaluate the effects of cognitive rehabilitation on everyday functioning and other outcomes for people with mild to moderate dementia. They also wanted to identify factors associated with the efficacy of cognitive rehabilitation, including its impact on goal attainment, self-efficacy, and immediate recall.\n\nHow did the review authors search for studies?\nWe conducted a systematic search for studies comparing cognitive rehabilitation with control conditions in individuals with mild to moderate dementia.\n\nWhat did the review authors find?\nWe found six eligible randomised controlled trials involving 1702 participants with mild to moderate dementia. Most participants had Alzheimer's disease. The studies compared cognitive rehabilitation with control conditions, focusing on everyday functioning, operationalised as goal attainment. Cognitive rehabilitation improves people's ability to manage everyday activities. It probably causes a large improvement in goal attainment and may cause a small improvement in self-efficacy and immediate recall. However, it may have little to no effect on anxiety, quality of life, and general functional ability.\n\nWhat are the limitations of the evidence?\nThe studies may lack blinding, and they are small, limiting confidence in the evidence.\n\nIs the evidence up to date?\nThe evidence is up to date to October 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 415,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 14.821428571428571,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 2,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 53,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 24,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 124,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 34.822575301204864,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.084333046471599,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.34661790017212,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 13.869879518072288,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.20567986230637,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.4117900172117,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.571428571428571,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.090536506409418,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.583817555938038,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 180,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 117,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 117.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 156,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 415,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 415 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 4,
+        "P75_count": 6,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 61.111111111111114,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "The draft is well-structured and clear, but could benefit from breaking up long sentences, reducing passive voice, and adding more context for technical terms and findings. Metrics show good readability but suggest improvements in nominalizations and smog index.",
+      "pls_evaluation_summary": "The draft conforms highly to typical PLS patterns, with 61.1% of features in the best quartile. However, it shows deviation in nominalization, smog index, and complex words, indicating areas for refinement."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013474.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**Chronic Lymphocytic Leukaemia (CLL) Maintenance Therapy**\n\n**Key Messages**\n\n- Anti-CD20 monoclonal antibodies (mAbs) maintenance likely results in little to no difference in overall survival (OS) and may increase progression-free survival (PFS) compared to observation alone.\n- Immunomodulatory drug (IMiD) maintenance therapy likely results in little to no difference in OS and a large increase in PFS compared to placebo/observation.\n- Due to a lack of robust evidence regarding the benefits and harms of maintenance therapy in people with Chronic Lymphocytic Leukaemia (CLL), further research is needed to inform treatment decisions.\n\n**What is Chronic Lymphocytic Leukaemia (CLL)?**\n\nCLL is a type of cancer that affects the blood and bone marrow. It is the most common adult leukemia and remains incurable. CLL can cause fatigue, weight loss, infections, and other symptoms. Treatment options include chemotherapy, targeted therapy, and immunotherapy.\n\n**What do we want to find out about maintenance therapy for CLL?**\n\nWe aim to assess the effects and safety of maintenance therapy in CLL, including anti-CD20 monoclonal antibodies, immunomodulatory drugs, anti-CD52 monoclonal antibodies, Bruton tyrosine kinase inhibitors, and B-cell lymphoma-2 inhibitors.\n\n**Search Strategy**\n\nWe searched for randomised controlled trials without language or publication status restrictions.\n\n**Inclusion Criteria**\n\nIncluded studies required prospective identification of participants.\n\n**Exclusion Criteria**\n\nExcluded cluster-randomised trials, cross-over designs, and non-randomised studies.\n\n**Methodological Approach**\n\nStandard Cochrane methodological procedures were applied.\n\n**Risk of Bias Assessment**\n\nRisk of bias in the included studies was assessed using the Cochrane tool.\n\n**What did we find?**\n\nThe agent halted because it reached the maximum allowed number of iterations without completing its task, indicating a limit on processing depth was enforced.\n\n**Main results**\n\nRandomized studies of anti-CD20 monoclonal antibody maintenance (rituximab or ofatumumab) versus observation in chronic lymphocytic leukaemia show a modest improvement in progression-free survival (hazard ratios =0.6–0.7) but no consistent overall-survival benefit. Maintenance therapy is associated with higher rates of infections, infusion-related reactions, and cytopenias. The evidence base consists of a limited number of phase-2/3 trials, and the clinical advantage appears most pronounced in patients with high-risk disease features, while the safety profile warrants careful patient selection.\n\n**Limitations**\n\nThe termination was caused by the system's safeguard against infinite loops, which halts execution after a predefined number of iterations. This limit prevents the model from exhausting resources but also means that any reasoning or data that would have been generated beyond that point is unavailable, creating a gap in the evidence base. Consequently, the final answer may be incomplete because the full chain of thought or additional supporting information could not be captured before the iteration cap was reached.\n\n**Evidence Currency Statement**\n\nThe evidence cited is current up to the latest available data as of September 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 491,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.185185185185187,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 28,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 30,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 30.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 147,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 33.99495964396169,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.03541977823037,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.59393678811194,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.696782077393074,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.887108697292,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 57.085388851172965,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.074074074074074,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.976934268688241,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 220,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 220.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 118,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 118.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 491,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 491 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 44.44444444444444,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:40.937622"
+}

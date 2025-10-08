@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012718.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of using silver diamine fluoride for preventing and managing dental caries in children and adults?\n\n### Key Messages\n- Silver diamine fluoride (SDF) may help prevent new cavities in baby teeth and permanent teeth, but the evidence is not very strong. We are not sure if SDF is better than other treatments like fluoride varnish or sealants for preventing new cavities.\n- SDF probably helps stop cavities from getting worse in baby teeth and permanent teeth, but we are not sure if it is better than other treatments for this purpose.\n- More research is needed to find out how well SDF works compared to other treatments, and to learn more about its side effects, like tooth staining.\n\n### Introduction to the review topic and review aims\nWhat is dental caries? Dental caries, also known as tooth decay, is a common health problem that can cause pain and affect a person's quality of life. It is important to find effective and easy-to-use treatments to prevent or stop tooth decay.\n\nWhat did we want to find out? We wanted to find out how well silver diamine fluoride (SDF) works to prevent or manage tooth decay in children and adults, compared to other treatments or no treatment at all.\n\n### How is tooth decay treated?\nTooth decay can be treated in several ways, including fluoride varnish, sealants, and fillings. We compared SDF to these treatments to see if it is effective.\n\n### What did we do?\nWe searched for studies that compared SDF to other treatments or no treatment at all. We looked at 29 studies that involved over 13,000 people, including children and adults.\n\n### What did we find?\nWe found that SDF may help prevent new cavities in baby teeth and permanent teeth, but the evidence is not very strong. SDF probably helps stop cavities from getting worse in baby teeth and permanent teeth. However, we are not sure if SDF is better than other treatments like fluoride varnish or sealants. We also do not know if one way of applying SDF is better than another. The studies did not provide enough information about the side effects of SDF, like tooth staining.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies had some problems, like small sample sizes, and some findings were not consistent. More research is needed to answer our questions.\n\n### How up to date is this evidence?\nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 455,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 18,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 25.27777777777778,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 25.3 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 11,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 115,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 68.1301434676435,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.036245421245422,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.980537240537238,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 7.712087912087913,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.891330891330893,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.5964590964591,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.388888888888889,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 9.403124237432849,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.112239316239316,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 140,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 43,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 97,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 455,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 455 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 10,
+      "P50_count": 4,
+      "P75_count": 3,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 55.55555555555556,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:31.794304"
+}

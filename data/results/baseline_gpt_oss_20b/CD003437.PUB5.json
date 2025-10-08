@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003437.PUB5",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "## Title\nDoes antidepressant medication help people with depression after stroke?\n\n## Key messages\n- Antidepressants may reduce feelings of low mood after a stroke, but the benefit is modest and not guaranteed for everyone.\n- The evidence on whether antidepressants improve everyday functioning or quality of life after stroke is uncertain.\n- Side‑effects and the need for ongoing medication should be weighed against the possible mood benefits.\n\n## Introduction to the review topic and review aims\n### What is the problem?\nDepression is common after a stroke and can hinder recovery, affect relationships, and reduce overall wellbeing. People who have had a stroke often wonder whether taking medication for depression will help them feel better and regain independence.\n\n### Why is this review needed?\nMany studies have examined antidepressants in this setting, but the results have been mixed. Clinicians and patients need a clear, plain‑language summary of what the research shows, how confident we can be in those findings, and what the practical implications are.\n\n## What did we do?\nWe searched for controlled studies that compared antidepressant medication with a placebo or no medication in adults who had experienced a stroke and were also dealing with depression. We looked at how these studies measured mood, daily functioning, quality of life, and any side‑effects. The review followed standard systematic methods, including independent screening and data extraction.\n\n## What did we find?\n### Study characteristics\nThe review included many randomized trials that enrolled adults after a stroke and gave them either an antidepressant or a placebo. The studies varied in the type of medication used, the length of treatment, and the tools used to assess mood and daily living.\n\n### Main results\n- **Mood symptoms**: Across the studies, people who took antidepressants generally reported a small improvement in depressive feelings compared with those who did not take medication. The improvement was not large, and some people did not notice any change.\n- **Daily functioning**: Evidence on whether antidepressants helped people perform everyday tasks better was mixed. Some trials suggested a slight benefit, while others found no clear difference.\n- **Quality of life**: The impact of medication on overall quality of life was uncertain. The data did not consistently show a meaningful improvement.\n- **Side‑effects**: A few participants experienced common medication side‑effects such as nausea, sleep disturbances, or mild dizziness. Serious adverse events were rare, but the information was limited.\n\n## What are the limitations of the evidence?\nThe studies we examined had several weaknesses that affect how much we can trust the findings. Many trials were small, which makes it harder to detect true differences. Some studies did not clearly describe how they measured outcomes, and a few had incomplete follow‑up, meaning we do not know what happened to all participants. The variety of antidepressants and treatment durations also makes it difficult to draw firm conclusions about any one medication. Because of these issues, we have only modest confidence that antidepressants provide a reliable benefit for mood after stroke, and we are even less certain about their effect on daily functioning or quality of life.\n\n## How up to date is this evidence?\nThe literature search was completed in early 2024, so the review reflects research published up to that time. New studies published after that date may add further information.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 584,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 21,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 27.80952380952381,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.8 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 43.740867579908695,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 14.0670156555773,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 15.097279028049577,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.377739726027396,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 18.932028701891717,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 55.206784083496416,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.619047619047619,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.583005244258363,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.381715394651011,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 222,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 222.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 114,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 584,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 584 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 3,
+      "P75_count": 11,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:11.926457"
+}

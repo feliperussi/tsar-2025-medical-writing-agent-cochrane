@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests for diagnosing vitamin A deficiency in people who are at risk of having low levels of vitamin A?\n\n- We found that blood tests for vitamin A deficiency might not be very accurate. This means they might not always give the correct result. Most tests have 'low sensitivity,' meaning they often miss people who actually have the deficiency. They also have 'high specificity,' meaning they are good at correctly identifying people who do not have the deficiency.\n- The available evidence does not report any harmful effects of using these blood tests for diagnosis, but it is crucial to interpret the results with caution due to the limited quality of the evidence and the lack of studies specifically designed to evaluate the accuracy of these tests.\n- Future research should focus on conducting high-quality studies that directly compare the accuracy of different blood tests for vitamin A deficiency, including assessing their benefits and potential harms, to provide clearer guidance for healthcare providers and patients.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition that occurs when the body does not have enough vitamin A (a vitamin important for good health). Vitamin A is crucial for maintaining good health, and its deficiency can lead to poor growth, impaired immune responses, increased incidence of disease, ocular impairments, and even maternal and child mortality. It is essential to diagnose and manage vitamin A deficiency effectively to prevent these complications.\n\nWhat did the review authors want to find out?\nThe review authors wanted to find out how accurate certain blood tests are at diagnosing vitamin A deficiency in people who are at risk, especially when the deficiency is not yet causing obvious symptoms. They also explored the sources of heterogeneity that might affect the accuracy of these tests.\n\nHow did we search for studies?\nWe conducted a systematic search of electronic databases for studies evaluating vitamin A deficiency tests, using predefined keywords and inclusion criteria.\n\nHow did we combine the study data?\nWe extracted relevant data from the identified studies and combined them using meta-analysis to estimate how accurately the tests diagnose the condition.\n\nHow confident are we in the evidence?\nThe overall confidence in the evidence was appraised with the GRADE framework, considering risk of bias, consistency, directness, precision, and publication bias.\n\nWhat did we find?\nWe found 40 studies that involved a total of 385 to 1295 participants. The studies were conducted in various countries around the world, without any restriction on age, sex, pregnancy status, breastfeeding status, physiological condition, or living location. Most studies were cross-sectional or cohort-accuracy studies, and some were longitudinal or interventional studies. The studies evaluated the accuracy of different index tests, including serum or plasma retinol, retinol-binding protein, and relative dose response, against reference standards such as retinol isotope dilution and liver vitamin A. The review found that methods to determine vitamin A deficiency had generally low sensitivity and high specificity in individuals at risk for vitamin A deficiency.\n\nWhat are the limitations of the evidence?\nThe studies were not designed to accurately measure the intervention effect, they had very small sample sizes, and the evidence does not cover all relevant populations or outcomes, limiting confidence in the findings.\n\nIs the evidence up to date?\nThe evidence is up to date to August 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 584,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 20.857142857142858,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 64,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 35,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 184,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 37.90472602739729,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 13.153874755381612,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.871174168297458,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.583561643835612,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.822309197651663,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.274951076320946,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.178571428571429,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 15.165525060596439,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.2 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.658743737769081,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 245,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 245.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 153,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 153.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 201,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 584,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 584 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. While it is factually accurate and well-structured, the language is too technical and academic for a lay audience. The evaluation metrics confirm this, showing very high scores for complex words (SMOG Index: 15.2, Complex Words: 153) and a noun-heavy style (Nominalizations: 22). To improve clarity, please focus on the following 4 areas:\n\n1. **Simplify the Methods section.** The current descriptions use jargon that patients won't understand.\n    *   **Problem:** 'We extracted relevant data from the identified studies and combined them using meta-analysis to estimate how accurately the tests diagnose the condition.'\n    *   **Reason:** 'Meta-analysis' is a technical term. The goal is to explain what you did in simple terms.\n    *   **Suggestion:** 'When studies were similar enough, we combined their results to get a more reliable overall picture of the tests' accuracy.'\n\n2. **Explain technical terms in the Results.** The 'What did we find?' section lists many test names without explaining what they are, making it impossible to understand the findings.\n    *   **Problem:** 'The studies evaluated the accuracy of different index tests, including serum or plasma retinol, retinol-binding protein, and relative dose response, against reference standards such as retinol isotope dilution and liver vitamin A.'\n    *   **Reason:** 'Index tests', 'reference standards', and the specific test names are unexplained jargon.\n    *   **Suggestion:** 'The studies looked at several common blood tests (like serum retinol) and compared their results to more accurate 'gold standard' tests (like measuring vitamin A directly in the liver). This helps us see how well the common tests perform.'\n\n3. **Replace complex words and academic phrasing throughout the text.** Many sentences use noun forms instead of simple verbs, making them dense and hard to read.\n    *   **Problem:** 'Vitamin A is crucial for maintaining good health, and its deficiency can lead to poor growth, impaired immune responses, increased incidence of disease, ocular impairments, and even maternal and child mortality.'\n    *   **Reason:** This list is full of abstract nouns ('deficiency', 'responses', 'incidence', 'impairments', 'mortality'). Using simple verbs makes it more direct.\n    *   **Suggestion:** 'Without enough vitamin A, children may not grow properly, the body can't fight infections well, people get sick more often, and it can cause eye problems. In severe cases, it can be fatal for mothers and children.'\n\n4. **Make the Key Messages clearer and more direct.** One key message is a single, 42-word sentence that is difficult to follow.\n    *   **Problem:** 'The available evidence does not report any harmful effects of using these blood tests for diagnosis, but it is crucial to interpret the results with caution due to the limited quality of the evidence and the lack of studies specifically designed to evaluate the accuracy of these tests.'\n    *   **Reason:** This sentence is too long and complex for a key message. The main point gets lost.\n    *   **Suggestion:** Break it into two sentences: 'The studies we found did not report on any harms from these blood tests. However, the evidence was not high quality, so the results should be interpreted with caution.'",
+      "pls_evaluation_summary": "The PLS evaluation shows moderate conformity with typical PLS patterns, with 44% of features in the best quartile. However, there is significant deviation in vocabulary complexity. Six metrics are outside the typical range, with `smog_index` (15.2) and `complex_words` (153) falling beyond the 90th percentile. This indicates the text uses a high number of multi-syllable and uncommon words, making it difficult for a lay audience to read. Additionally, high scores for `nominalization` (22) and `nouns` (184) point to an academic, noun-heavy style that should be revised to use more direct verbs."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007130.PUB5",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of home-based versus centre-based cardiac rehabilitation for people with heart disease?\n\n### Key Messages\n* Home-based and centre-based cardiac rehabilitation seem to be similarly effective in improving clinical and health-related quality of life outcomes for people with heart disease, but the evidence is not very strong due to limitations in the studies.\n* There is no clear difference in how well home-based and centre-based cardiac rehabilitation work for people with heart disease, but more research is needed to confirm this.\n* Further research is needed to determine the long-term effects of home-based and centre-based cardiac rehabilitation and to explore the use of hybrid models that combine elements of both.\n\n### Introduction to the review topic and review aims\nWhat is cardiac rehabilitation? \nCardiac rehabilitation is a programme that helps people recover from heart disease and reduce their risk of further heart problems. It usually includes exercise, education, and support to help people make lifestyle changes.\n\nWhat did we want to find out? \nWe wanted to compare the effects of home-based and centre-based cardiac rehabilitation on mortality, morbidity, exercise capacity, health-related quality of life, and modifiable cardiac risk factors in people with heart disease.\n\n### What did we do?\nWe searched for studies that compared home-based and centre-based cardiac rehabilitation and found 24 trials with 3046 participants. We compared and summarized their results and rated our confidence in the evidence.\n\n### What did we find?\nWe found that home-based and centre-based cardiac rehabilitation seem to be similarly effective in improving clinical and health-related quality of life outcomes for people with heart disease. However, the evidence is of low certainty due to risk of bias and imprecision. We have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. The evidence does not cover all of the people, interventions, and outcomes we were interested in.\n\n### How up to date is this evidence?\nThe evidence is up to date to September 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 429,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 15,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 28.6,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 28.6 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 20,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 33,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 26,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.610195804195826,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.305258741258744,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.553566433566438,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.234965034965033,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 20.01808857808858,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 20.0 to <17.8 (median)"
+      },
+      "lix": {
+        "value": 55.639627039627044,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.733333333333333,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.18535277187245,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.718699860139861,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 144,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 92,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 429,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 429 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 4,
+      "P75_count": 8,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:28.185374"
+}

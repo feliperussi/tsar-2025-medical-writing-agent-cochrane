@@ -1,0 +1,155 @@
+{
+  "file_id": "CD006127.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "Can keeping blood pressure under control reduce the risk of diabetic retinopathy? \nWe found that controlling blood pressure probably reduces the risk of diabetic retinopathy slightly. \nFor every 100 people with diabetes, intense blood pressure control may prevent 2 to 5 cases of diabetic retinopathy over five years. \nHowever, the evidence does not show that it slows the progression of existing retinopathy.\n\nWhat is diabetic retinopathy and why is it a problem? \nDiabetic retinopathy is a common complication of diabetes that can cause visual impairment and blindness. \nIt occurs when high blood sugar levels damage the blood vessels in the retina, leading to vision problems.\n\nWhat are the current treatments for diabetic retinopathy and how does blood pressure control fit in? \nWhile controlling blood sugar levels is essential, research has also shown that managing blood pressure is vital in preventing the progression of diabetic retinopathy. \nHigh blood pressure can make the condition worse. \nTherefore, controlling blood pressure through lifestyle changes or medication is often recommended alongside blood sugar management.\n\nHow did we conduct this review? \nWe searched for studies comparing blood pressure control methods in diabetics. \nWe found 29 studies that included 27,185 people with diabetes. \nThe studies were conducted in several countries around the world, including North America, Europe, Australia, Asia, Africa, and the Middle East. \nThe lengths of follow-up ranged from less than one year to nine years.\n\nWhat did we find? \nWe found that controlling blood pressure probably reduces the risk of developing diabetic retinopathy slightly. \nFor every 100 people with diabetes, intense blood pressure control may prevent 2 to 5 cases of diabetic retinopathy over five years. \nHowever, we are uncertain if this intervention slows the progression of existing retinopathy or affects other outcomes like vision loss.\n\nWhat are the limitations of the evidence? \nOur confidence in the evidence is limited because the studies we found were very different from one another. \nThey included different types of people with diabetes and used various methods to control blood pressure. \nThis makes it difficult to compare their results directly.\n\nIs the evidence up to date? \nThe evidence is up to date to September 2021.\n\nKey messages:\n- Keeping blood pressure under control probably reduces the risk of developing diabetic retinopathy. \n- The evidence does not show that blood pressure control slows the progression of existing retinopathy.\n- Future studies should investigate the long-term effects of blood pressure control on diabetic retinopathy, focus on diverse populations, and explore the potential benefits and harms of different blood pressure targets and treatment strategies.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 450,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 28,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.071428571428573,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 4,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 50,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 136,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.89850000000001,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.292079365079367,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.438314285714284,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.111022222222218,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.961904761904766,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.62698412698413,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.714285714285714,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.04987562112089,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.253498412698414,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 184,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 96,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 160,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 450,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 450 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 9,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 50.0,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:18.597555"
+}

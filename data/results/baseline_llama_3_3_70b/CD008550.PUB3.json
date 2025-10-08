@@ -1,0 +1,155 @@
+{
+  "file_id": "CD008550.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "## Plain Language Summary Title\nWhat are the benefits and risks of pharmacological treatments for gastro-oesophageal reflux in children?\n\n## Key Messages\n- Due to a lack of robust evidence, the benefits and risks of most pharmacological treatments for gastro-oesophageal reflux in children are unclear. \n- For infants, some studies suggest that medications like omeprazole may or may not provide symptomatic benefits, but the evidence is not strong enough to be certain. \n- Further research is needed to understand which treatments work best for children with gastro-oesophageal reflux, especially for those with ongoing symptoms despite non-medical interventions.\n\n## Introduction to the review topic and review aims\n### What is gastro-oesophageal reflux in children?\nGastro-oesophageal reflux (GOR) is a condition where stomach contents flow back up into the oesophagus, causing symptoms like regurgitation. It's common in infants, affecting about 50% of those under three months old, and usually improves with age. However, older children and those with other medical conditions might have longer-lasting symptoms.\n\n### What did we want to find out?\nWe wanted to assess the effects of pharmacological treatments for GOR in infants and children. This includes understanding which medications might help reduce symptoms and improve outcomes for children with this condition.\n\n## What did we do?\nWe searched for studies that compared any pharmacological treatment for GOR in children with a placebo or another medication. We looked at studies involving infants and children up to 16 years old.\n\n## What did we find?\nWe included 36 studies involving 2251 children and infants. However, we could only extract useful data from 14 of these studies. The results were mixed and often not strong enough to draw clear conclusions. For infants, omeprazole, a type of medication, may or may not reduce symptoms compared to a placebo. Similarly, when comparing omeprazole to another medication called ranitidine, it was unclear if one was better than the other. For older children, medications like proton pump inhibitors (PPIs) might provide some benefit, but again, the evidence was not strong.\n\n## What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small, and there were concerns about how the studies were conducted. The evidence does not cover all the aspects we were interested in, such as how these medications affect children with other medical conditions. More research is needed to provide clear answers.\n\n## How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to September 2022.\n\nIn summary, while there are some pharmacological treatments available for gastro-oesophageal reflux in children, the evidence on their benefits and risks is not strong enough to make clear recommendations. More research, especially studies that follow children for longer periods, is necessary to understand which treatments work best for this condition.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 507,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.045454545454547,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 27,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 128,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.61901156535771,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.063604984758832,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.908821947283485,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.39936883629191,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.687609826071366,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 53.617446655908196,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.045454545454546,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.327379053088816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.686683736776045,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 178,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 82,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 155,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 507,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 507 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 5,
+      "P75_count": 10,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 55.55555555555556,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:29.236397"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009508.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of pelvic floor muscle training for urinary incontinence in women?**\n\nPelvic floor muscle training (PFMT) is a recommended treatment for female stress, urgency, and mixed urinary incontinence. Training varies in exercise type (pelvic floor muscles contracting with and without other muscles), dose, and delivery (e.g. amount and type of supervision).\n\n**What did we want to find out?**\n\nWe wanted to find out: which types of pelvic floor muscle training are best for women with urinary incontinence; the best ways to give pelvic floor muscle training; and what should happen next (key limitations, important unanswered questions, or needs for future research).\n\n**What is pelvic floor muscle training?**\n\nPelvic floor muscle training is a type of exercise that helps strengthen the muscles in the pelvic floor. These muscles support the bladder, uterus, and bowels.\n\n**What did we do?**\n\nWe searched for studies that compared different approaches to PFMT. We combined the results of the included studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 63 trials with 4920 women. The studies were conducted in countries around the world. Most studies lasted for around 3 months. Pharmaceutical companies funded 24 of the studies. The evidence is up to date to August 2021.\n\n**What are the benefits of pelvic floor muscle training?**\n\nPelvic floor muscle training may slightly improve quality of life for women with urinary incontinence. Direct pelvic floor muscle training may result in a small improvement in incontinence quality of life compared to indirect training. The benefits of pelvic floor muscle training may vary depending on the approach used.\n\n**What are the limitations of the evidence?**\n\nThe evidence is influenced by factors such as selection bias, data sparsity, inconsistent results, and small sample sizes. Many comparisons have low- or very low-certainty evidence. The evidence is not strong enough to make firm recommendations for women with urinary incontinence.\n\n**What should happen next?**\n\nMore, better-designed and reported trials are needed, especially trials investigating exercise dose. Future research should focus on options and effects that are important to decision-makers, such as: foam or air-filled surfaces that redistribute pressure under the body; and unwanted effects and costs.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 405,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 11.571428571428571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 59.73000000000002,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.802857142857146,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.801047619047619,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.911308641975307,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 11.443386243386243,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.71957671957672,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.257142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.366600265340756,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.7476712522045865,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 184,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 69,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 405,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 405 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 5,
+      "P75_count": 6,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:43.224474"
+}

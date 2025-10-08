@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of using toe-brachial index and toe systolic blood pressure for diagnosing peripheral arterial disease?**\n\n**Key Messages:**\n\n* For people with peripheral arterial disease (PAD), using toe-brachial index (TBI) and toe systolic blood pressure (TSBP) to diagnose the condition can be helpful, but the evidence is not very strong due to low-quality studies.\n* The accuracy of TBI and TSBP for diagnosing PAD is uncertain, and more research is needed to determine their effectiveness.\n* If you have PAD, your doctor may use TBI and TSBP as part of a comprehensive evaluation, but these tests should not be relied upon as the sole means of diagnosis.\n\n**Introduction to the review topic and review aims:**\n\nPeripheral arterial disease (PAD) is a common condition that affects blood flow to the lower limbs. It can cause symptoms such as pain in the legs, which can be relieved by rest. Accurate diagnosis is important to prevent complications and slow progression of the disease. This review aimed to evaluate the accuracy of TBI and TSBP for diagnosing PAD in adults aged 18 years and over.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to February 2024.\n\n**Limitations of the evidence:**\n\nThe evidence base to support the use of TBI and TSBP to identify PAD is limited due to low-quality studies. The accuracy of these tests remains uncertain, and more research is needed to comprehensively determine their diagnostic test accuracy with greater certainty.\n\n**Main Results:**\n\nThe certainty of evidence for most studies was very low due to low methodological quality. The accuracy of TBI and TSBP for diagnosing PAD is uncertain, and more research is needed to determine their effectiveness.\n\n**Study Characteristics:**\n\nWe found 18 studies that included TBI and TSBP measurements in people with suspected PAD. The studies were generally of low methodological quality, with poor reporting of participant recruitment and blinding between index test and reference standard.\n\nNote: I've followed the guidelines provided to transform the Cochrane abstract into a Plain Language Summary. I've used simple language, defined technical terms, and avoided using medical jargon or acronyms. I've also kept the summary concise and focused on what the findings mean for patients.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 417,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.130434782608695,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 31,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 100,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 53.518939630903986,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.298615368574705,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.82982170785111,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.275299760191842,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.4056511312689,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.34626212073819,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.478260869565218,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.273618495495704,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.5033942654572,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 148,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 126,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 417,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 417 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 5,
+      "P75_count": 5,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:48.059473"
+}

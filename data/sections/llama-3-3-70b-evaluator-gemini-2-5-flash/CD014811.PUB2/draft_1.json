@@ -1,0 +1,162 @@
+{
+  "id": "CD014811.PUB2",
+  "draft": "# Is continuous infusion of loop diuretics (a type of medicine that helps remove fluid from the body) more effective than bolus injection (a single large dose of medicine) for treating acute heart failure?\n\n**Key Messages**\n- Continuous infusion of loop diuretics (a type of medicine that helps remove fluid from the body) may result in slightly more weight loss compared to bolus injection (a single large dose of medicine) for treating acute heart failure (a condition where the heart suddenly cannot pump enough blood), but the evidence is not strong enough to be certain, and there may be little to no difference in benefits or harmful effects between the two methods.\n- The current evidence does not show a clear difference in outcomes such as death, length of hospital stay, readmission to hospital, or kidney injury between continuous infusion and bolus injection of loop diuretics, and more research is needed to understand the effects of these treatments.\n- Future studies should investigate the long-term effects of continuous infusion versus bolus injection of loop diuretics in people with acute heart failure, and consider factors such as the severity of heart failure, the presence of other health conditions, and the quality of care provided in different hospital settings.\n\n**Introduction**\n### What is acute heart failure and why is it a problem?\nAcute heart failure (AHF) is a condition where the heart suddenly stops working properly, leading to a buildup of fluid in the body. This can cause symptoms such as shortness of breath, fatigue, and swelling in the legs. AHF is a serious condition that requires urgent medical attention. Treatment for AHF often involves the use of diuretics, which are medicines that help remove excess fluid from the body.\n### What are loop diuretics and how are they used to treat acute heart failure?\nLoop diuretics are a type of diuretic that are commonly used to treat AHF. They work by helping the kidneys remove excess fluid from the body. Loop diuretics can be given either as a continuous infusion or as a bolus injection. A continuous infusion involves giving the medicine slowly over a period of time, while a bolus injection involves giving the medicine all at once.\n### What did the review authors want to find out?\nThe review authors wanted to find out whether giving loop diuretics as a continuous infusion or as a bolus injection is more effective for treating AHF. They looked at the effects of these two different methods on outcomes such as weight loss, mortality, length of hospital stay, and readmission to hospital.\n\n**Methods**\n### Methods\nWe searched for studies comparing continuous infusion and bolus injection of loop diuretics for acute heart failure, summarized their results, and rated our confidence in the evidence.\n\n**Results**\n### What did we find?\nWe found 7 studies that involved 681 people with acute heart failure. The studies were conducted in 32 hospitals across 7 countries in North America, Europe, and Asia. The duration of the studies ranged from 8 months to 6 years. The population characteristics included adults with New York Heart Association (NYHA) classification III or IV and fluid overload. The studies compared intravenous continuous infusion of loop diuretics with intermittent bolus injection in acute heart failure. No information was available on the funding sources of the studies. Continuous infusion of loop diuretics may result in a bit more weight loss than bolus injection, but it is unclear if this treatment has an effect on outcome. There may be little to no difference in all-cause mortality, length of hospital stay, readmission to hospital, and occurrence of acute kidney injury between continuous infusion and bolus injection of loop diuretics.\n\n**Limitations**\nThe evidence is limited because the studies had very small sample sizes, participants may have been aware of their treatment (lack of blinding), and the studies involved heterogeneous populations and varied methods of delivering the intervention.\n\n**Currency**\nThe evidence is up to date to February 2024.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 690,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 24.642857142857142,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 52,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 25,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 36,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 232,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 232.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 49.28250000000003,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.507380952380952,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.362906832298137,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.052405797101446,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 18.03105590062112,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 54.20807453416149,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 7.285714285714286,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.661903789690601,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.7 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.3552132505175996,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 268,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 268.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 141,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 141.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 204,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 204.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 690,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 690 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 6,
+        "P90_count": 4,
+        "P10_count": 0,
+        "BEYOND_P90_count": 2,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 33.33333333333333,
+        "P90_percentage": 22.22222222222222,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 11.11111111111111,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 44.44444444444444,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft is \"NOT_APPROVED\" primarily due to critical issues with subheading formatting and several clarity and style issues that hinder readability for a patient audience.\n\n**Critical Issues:**\n1.  **Subheading Format:** The subheadings for \"Methods\", \"Limitations\", and \"Currency\" are not phrased as questions, which violates the Master Style Guide.\n    *   **Quote:** \"### Methods\"\n    *   **Problem:** The style guide requires all subheadings to be questions to engage the reader.\n    *   **Suggested Rewrite:** \"### How did we conduct this review?\"\n    *   **Quote:** \"### Limitations\"\n    *   **Problem:** The style guide requires all subheadings to be questions.\n    *   **Suggested Rewrite:** \"### What are the limitations of this evidence?\"\n    *   **Quote:** \"### Currency\"\n    *   **Problem:** The style guide requires all subheadings to be questions.\n    *   **Suggested Rewrite:** \"### How up to date is this evidence?\"\n\n**Top 3-5 Improvements Needed:**\n\n1.  **Reduce Noun-Heavy and Wordy Sentences:** The text frequently uses noun forms instead of verbs and contains long, complex sentences, especially in the Key Messages. This makes the information harder to digest.\n    *   **Quote:** \"Continuous infusion of loop diuretics (a type of medicine that helps remove fluid from the body) may result in slightly more weight loss compared to bolus injection (a single large dose of medicine) for treating acute heart failure (a condition where the heart suddenly cannot pump enough blood), but the evidence is not strong enough to be certain, and there may be little to no difference in benefits or harmful effects between the two methods.\" (Key Message 1)\n    *   **Problem:** This sentence is 68 words long and contains redundant parenthetical definitions that are already provided in the title and introduction. It is also noun-heavy.\n    *   **Suggested Rewrite:** \"Continuous infusion of loop diuretics might lead to slightly more weight loss than bolus injection for acute heart failure. However, the evidence is not strong, and there may be little to no difference in benefits or harms between the two methods.\"\n\n2.  **Simplify Technical Jargon:** The term \"New York Heart Association (NYHA) classification III or IV\" is used without sufficient explanation for a lay audience.\n    *   **Quote:** \"The population characteristics included adults with New York Heart Association (NYHA) classification III or IV and fluid overload.\" (Results section)\n    *   **Problem:** \"NYHA classification III or IV\" is medical jargon that will likely be unfamiliar to patients.\n    *   **Suggested Rewrite:** \"The studies included adults with severe acute heart failure (NYHA classification III or IV) and fluid overload.\"\n\n3.  **Improve Precision and Conciseness:** Some phrases are informal or could be more concise.\n    *   **Quote:** \"Continuous infusion of loop diuretics may result in a bit more weight loss than bolus injection, but it is unclear if this treatment has an effect on outcome.\" (Results section)\n    *   **Problem:** \"A bit more\" is informal and lacks precision. The key message already uses \"slightly more,\" which is more appropriate.\n    *   **Suggested Rewrite:** \"Continuous infusion of loop diuretics may result in slightly more weight loss than bolus injection, but the evidence is very uncertain about this effect.\"",
+      "pls_evaluation_summary": "The PLS evaluation results indicate moderate conformity with typical PLS patterns, with 44.4% of features in the best quartile and 22.2% in the median range. However, 22.2% of features are in the P90 range and 11.1% are beyond P90, indicating significant deviations. Specifically, `nominalization` (36.0) and `nouns` (232.0) are beyond the 90th percentile, suggesting the text is overly noun-heavy and uses too many noun forms of verbs. Metrics like `smog_index` (14.66), `complex_words_dc` (268.0), `complex_words` (141.0), and `long_words` (204.0) are in the P90 range, highlighting that the vocabulary is generally too complex and the text is difficult to read for the target audience. These deviations suggest a need to simplify vocabulary, reduce sentence length, and convert noun forms to verbs to improve readability."
+    }
+  ]
+}

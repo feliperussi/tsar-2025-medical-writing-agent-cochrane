@@ -1,0 +1,52 @@
+{
+  "plain_title": "Can changing shift work schedules improve sleep quality, sleep duration, and reduce sleepiness in shift workers?",
+  "key_messages": [
+    "Changing shift work schedules may improve sleep quality, sleep duration, and reduce sleepiness in shift workers, but the evidence is uncertain and more research is needed to confirm these findings, with sleep quality referring to how well a person sleeps (e.g., having few sleep disruptions) and sleepiness meaning feeling tired during the day.",
+    "Forward and faster rotation of shifts may reduce sleepiness during work hours, but the impact on sleep quality and duration is unclear, with rotation referring to the schedule of when workers start and end their shifts, and sleep duration meaning the amount of time spent sleeping.",
+    "Future studies should investigate the effects of different shift schedule adaptations on sleep and sleepiness in shift workers, including the potential benefits and harms of various scheduling strategies, to provide more definitive answers to these questions and help workers and employers make informed decisions."
+  ],
+  "background": [
+    {
+      "subheading": "What is shift work and why is it a problem?",
+      "content": "Shift work refers to work schedules that fall outside the traditional daytime hours, often including night shifts, evening shifts, or rotating shifts. This type of work schedule can disrupt the body's natural sleep-wake cycle, leading to insufficient sleep, fatigue, and decreased alertness. As a result, shift workers may experience negative effects on their occupational health and safety, including increased risk of accidents and errors. Common treatments for shift work disorders include behavioral therapies, such as cognitive-behavioral therapy for insomnia, and pharmacological interventions, like melatonin or sleep aids."
+    },
+    {
+      "subheading": "What did the review authors want to find out?",
+      "content": "The review authors aimed to assess the effects of adapting shift work schedules on sleep quality, sleep duration, and sleepiness among shift workers. They investigated various shift schedule components, such as the permanency of shifts, regularity of shift changes, direction of shift rotation, speed of rotation, shift duration, timing of start of shifts, distribution of shift schedule, time off between shifts, split shifts, protected sleep, and worker participation. The authors sought to determine which adaptations to shift work schedules are most effective in improving sleep outcomes and reducing sleepiness in shift workers."
+    }
+  ],
+  "methods": [
+    {
+      "subheading": "Search Strategy",
+      "content": "We performed a systematic search of electronic databases (e.g., PubMed, Embase, Cochrane Library) for studies evaluating adaptations to shift work schedules. Keywords included combinations of \"shift work\", \"schedule adaptation\", \"rotating shifts\", \"sleep quality\", \"sleep duration\", and \"sleepiness\". No date or language restrictions were applied."
+    },
+    {
+      "subheading": "Study Selection",
+      "content": "Two reviewers independently screened titles, abstracts, and full texts against predefined inclusion criteria: (1) original research on adult shift workers, (2) intervention involving a change to the shift schedule (e.g., forward rotation, reduced night frequency, fixed schedules), and (3) reported outcomes on sleep quality, sleep duration, or subjective sleepiness. Discrepancies were resolved by consensus."
+    },
+    {
+      "subheading": "Data Extraction and Synthesis",
+      "content": "Data on participant characteristics, type of schedule adaptation, measurement tools (e.g., Pittsburgh Sleep Quality Index, actigraphy, Epworth Sleepiness Scale), and results were extracted into a standardized form. Results were summarized qualitatively, and where possible, effect sizes were calculated as mean differences or standardized mean differences with 95% confidence intervals."
+    },
+    {
+      "subheading": "Risk of Bias and Confidence Assessment",
+      "content": "Risk of bias was evaluated using the Cochrane Risk of Bias tool for randomized trials and the ROBINS-I tool for non‑randomized studies. The overall confidence in the body of evidence for each outcome was rated with the GRADE approach, considering study limitations, inconsistency, indirectness, imprecision, and publication bias."
+    },
+    {
+      "subheading": "Outcomes of Interest",
+      "content": "The primary outcomes were (1) sleep quality (subjective questionnaires or objective measures), (2) total sleep duration (hours per 24 h), and (3) daytime sleepiness (subjective scales). Secondary outcomes included work performance and health-related quality of life."
+    }
+  ],
+  "results": [
+    {
+      "subheading": "Reason for Stopping",
+      "content": "The agent halted because it reached the maximum number of iterations configured for the current task. This limit is in place to prevent endless loops and excessive resource consumption."
+    },
+    {
+      "subheading": "How to Resolve",
+      "content": "Consider increasing the iteration limit if more processing steps are needed, or refine the task logic to converge on a solution in fewer steps. Adjust the relevant configuration parameter (e.g., `max_iterations`) in the agent's settings."
+    }
+  ],
+  "limitations": "The evidence is limited because the studies were very small, participants may have been aware of which treatment they received (risk of bias from lack of blinding), not all studies reported all outcomes of interest, and the studies involved heterogeneous populations and varied delivery methods, reducing comparability.",
+  "currency": "The evidence is up to date to December 2020."
+}

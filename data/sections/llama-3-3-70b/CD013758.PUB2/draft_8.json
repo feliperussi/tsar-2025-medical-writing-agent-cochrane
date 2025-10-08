@@ -1,0 +1,162 @@
+{
+  "id": "CD013758.PUB2",
+  "draft": "Is a high-protein baby formula better than a standard-protein baby formula for healthy infants?\n\nKey messages:\n- We found that feeding healthy infants high-protein formula compared to standard-protein formula may have little or no effect on undernutrition - a condition where the body gets too few calories or nutrients.\n- The current evidence does not show a clear difference in the risk of adverse effects - unwanted or harmful effects - such as diarrhea, vomiting, or milk hypersensitivity, between infants fed high-protein formula and those fed standard-protein formula.\n- Future research should investigate the long-term effects of different protein levels in infant formula to better understand their impact on infant health and development.\n\nWhat is the health problem that this review addresses?\nMany infants are fed infant formulas to promote growth. Some formulas have a high protein content. We want to know if these high-protein formulas are good or bad for healthy infants.\n\nWhat are the common treatments or interventions for this health problem?\nWe compared the effects of higher protein intake versus lower protein intake in healthy infants. Infant formulas with varying protein contents are used to feed infants.\n\nWhat did the review authors want to find out?\nWe wanted to know if feeding infants high-protein formula is better or worse than feeding them standard-protein or low-protein formula. We looked at undernutrition, overweight, obesity, and adverse effects.\n\nHow did we find the evidence?\nWe searched electronic databases for studies that compared higher versus lower protein intake in formula-fed term infants. We included studies that enrolled healthy term infants and reported outcomes related to growth, metabolic markers, or adverse events.\n\nWhat did we find?\nWe found 11 studies that involved 1185 infants. The studies compared high-protein formula versus standard-protein formula or standard-protein formula versus low-protein formula. Feeding healthy infants high-protein formula may have little to no effect on undernutrition, overweight, or obesity. There may be little to no difference in the risk of adverse effects between infants fed high-protein formula and those fed standard-protein formula.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by heterogeneity - different participant types and delivery methods - small study sizes, potential lack of blinding, and incomplete reporting of outcomes.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to October 2022.\n\nWe are unsure if feeding healthy infants high-protein formula compared to standard-protein formula has an effect on undernutrition, overweight, or obesity. There may be little or no difference in the risk of adverse effects between infants fed with high-protein formula versus those fed with standard-protein formula. Future research should investigate the long-term effects of different protein levels in infant formula.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 479,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.107142857142858,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 39,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 26,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 162,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 48.530122651357004,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.740240829108263,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.899730092454519,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.152066805845507,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.694631673128544,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 55.93804056069192,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.642857142857143,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 12.16515138991168,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.507345183417836,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 202,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 106,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 186,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 186.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 479,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 479 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 4,
+        "P75_count": 7,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 38.88888888888889,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft text has some clarity issues, including long sentences and unexplained technical terms. For example, the sentence 'We found 11 studies that involved 1185 infants with a comparison of high-protein formula versus standard-protein formula or standard-protein formula versus low-protein formula' could be broken up for easier comprehension. Additionally, there are instances where technical terms are not fully explained, which could confuse readers unfamiliar with the topic. The metrics provided in the PLS_EVALUATION_RESULTS support these observations, indicating a high number of nouns and long words, which can make the text denser and harder to follow. To address these issues, it would be beneficial to simplify complex sentences, define technical terms clearly, and consider using more active voice constructions to enhance readability.",
+      "pls_evaluation_summary": "The PLS evaluation results show that the draft text has a high number of nouns (162.0) and long words (186.0), which are above the typical ranges for PLS texts. The results also indicate that the text has a good balance of active and passive voice constructions, with 39.0% of sentences in active voice. However, the text could benefit from simplifying complex sentences and defining technical terms clearly to improve readability."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "CD003437.PUB5",
+  "draft": "What are the benefits and harms of medicines, talking therapies, and non-invasive brain stimulation (using magnetic fields or electrical currents to stimulate the brain), alone or in combination, for treating depression after a stroke?\n\nKey messages\nDue to a lack of strong evidence, the effects of most treatments for depression after a stroke are uncertain. Medicines and talking therapies may help reduce depression, but medicines may cause unwanted effects on the brain, nerves, stomach, and gut.\nBrain stimulation (using magnetic fields or electrical currents) on its own did not appear to have an effect on depression.\nMore and better-quality research is needed to understand the true benefits and harms of these treatments, both alone and in combination.\n\nWhy is treating depression after a stroke important?\nHaving a stroke is a life-changing event, and many people experience depression afterwards. This depression can make it harder for people to recover from their stroke. Unfortunately, depression after a stroke is often not identified or not treated effectively.\n\nWhat did we want to find out?\nIn this Cochrane Review, we wanted to find out about the benefits and harms of different treatments for depression after a stroke. We looked at evidence for medicines (pharmacological treatments), talking therapies (psychological therapy), non-invasive brain stimulation (using electrical currents or magnetic fields to stimulate the brain), and combinations of these treatments.\n\nHow did we conduct this review?\nWe searched for studies that tested different treatments for depression after a stroke. We then compared and combined the study results to assess the benefits and harms of each treatment. We also rated how certain we were about the evidence.\n\nWhat did we find?\nThe review included 65 trials with 5831 people who had depression after a stroke. The studies compared several types of treatments, including drug treatments (compared with a placebo, or dummy pill), non-invasive brain stimulation (compared with a fake stimulation or usual care), and talking therapies (compared with usual care or general support that was not a specific therapy). The review also looked at combinations of these treatments.\n\nWe found that:\n- Drug treatments and talking therapies may reduce the number of people with depression, but we are very uncertain about this evidence.\n- Drug treatments may cause side effects related to the nervous system and stomach, but we are very uncertain about this evidence.\n- Non-invasive brain stimulation on its own may have little to no effect on depression, but we are very uncertain about this evidence.\n\nAdding non-invasive brain stimulation to drug treatment may reduce the number of people with depression compared to using drug treatment alone.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because the studies were very small, and not all of the studies provided data about everything that we were interested in.\n\nHow up to date is this evidence?\nThe evidence is up to date to February 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 512,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 26,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.692307692307693,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 9,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 49,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 29,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 140,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 50.85941706730773,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.057578125000003,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.313009314903844,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.281484374999998,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.689423076923077,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.20793269230769,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.615384615384615,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.099504938362077,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 6.897988461538462,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 192,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 100,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 146,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 512,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 512 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 8,
+        "P90_count": 1,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 5.555555555555555,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This is a strong draft that is factually accurate, complete, and meets most style guidelines. However, a few key revisions are needed to improve clarity for the reader, particularly in the 'What did we find?' section. The feedback below focuses on breaking up a very long sentence and reducing repetitive phrasing to make the main results easier to understand.\n\n### Top 3 Improvements Needed:\n\n**1. Break up the long, complex sentence listing the study comparisons.**\n\n*   **Problematic Sentence:** In the \"What did we find?\" section, this 49-word sentence is difficult to follow because it contains three distinct comparisons, each with its own explanation: \"The studies compared several types of treatments, including drug treatments (compared with a placebo, or dummy pill), non-invasive brain stimulation (compared with a fake stimulation or usual care), and talking therapies (compared with usual care or general support that was not a specific therapy).\"\n*   **Suggested Rewrite:** Using a bulleted list would make this information much clearer for the reader. For example:\n    \"The studies compared several types of treatments:\n    - drug treatments, compared with a placebo (a dummy pill);\n    - non-invasive brain stimulation, compared with a fake stimulation or usual care;\n    - talking therapies, compared with usual care or general support that was not a specific therapy.\"\n\n**2. Reduce repetition when describing the uncertainty of the evidence.**\n\n*   **Problematic Sentences:** The phrase \"but we are very uncertain about this evidence\" is repeated at the end of three consecutive bullet points in the results section. This repetition can make the text feel robotic.\n*   **Suggested Rewrite:** State the uncertainty upfront to frame all the findings. This is more concise and effective:\n    \"We are very uncertain about the evidence we found. It suggests that:\n    - Drug treatments and talking therapies may reduce the number of people with depression.\n    - Drug treatments may cause side effects related to the nervous system and stomach.\n    - Non-invasive brain stimulation on its own may have little to no effect on depression.\"\n\n**3. Simplify formal language in the methods section.**\n\n*   **Problematic Sentence:** The phrase \"to assess the benefits and harms of each treatment\" is quite formal.\n*   **Suggested Rewrite:** A more direct, patient-friendly alternative would be easier to understand. For example:\n    \"...to see how well the treatments worked and what harms they might cause.\"\n\n### Supporting Evidence from Linguistic Analysis:\n\nWhile most readability scores are excellent, the analysis identified a high number of nominalizations (noun-form verbs), which can make text feel more formal and less direct. The suggestions above, particularly replacing \"to assess the benefits and harms\" with a more verb-driven phrase like \"to see how well...\", will help address this.",
+      "pls_evaluation_summary": "The PLS evaluation results show the draft highly conforms to typical PLS patterns, with 94.4% of metrics falling within the best quartile for readability and style. However, the analysis flagged one metric for review: 'nominalization' (the use of noun-form verbs) is in the P90 range, suggesting the text could be made more direct by using more active verbs."
+    }
+  ]
+}

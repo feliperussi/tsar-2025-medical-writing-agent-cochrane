@@ -1,0 +1,162 @@
+{
+  "id": "CD014806",
+  "draft": "Is sucrose effective for pain from a heel prick in newborn babies?\nWe wanted to find out if giving sugar to newborn babies reduces pain from a heel prick. A heel prick is a procedure to collect a small blood sample from a baby’s heel. \nWhat did we want to find out?\nWe compared sucrose to other pain-relieving methods, including water, non-nutritive sucking, glucose, breastfeeding, and skin-to-skin care.\nWhat did we find?\nWe found that sucrose probably helps reduce pain in newborn babies during a heel prick, compared to not giving them anything. However, we are not sure if it is better or worse than other methods of pain relief.\nWhat are the limitations of the evidence?\nThe quality of the evidence about the effectiveness of sucrose for pain relief in newborn babies is not strong, and we need more research to be sure about how well it works and if it is safe. The evidence is limited by very small study sample sizes, potential lack of blinding, and heterogeneity across studies in participant characteristics and methods of delivering the intervention.\nHow up-to-date is this evidence?\nThe evidence is up to date to February 2022. Researchers need to conduct more studies that compare sugar with other pain relief methods and look at how it affects babies in the long term. This will help doctors and parents choose the safest and most effective ways to comfort babies during medical procedures.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 256,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 15,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 17.066666666666666,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 4,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 25,
+          "rating": "P25",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 18,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 72,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 65.58655208333336,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 8.351156249999999,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 7.875169270833332,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 8.397343749999997,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 11.826666666666668,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 39.33229166666666,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 3.8,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 8.65685424949238,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 5.780881666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 80,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 32,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 57,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 256,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 256 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 16,
+        "P50_count": 1,
+        "P75_count": 1,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 88.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 5.555555555555555,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 94.44444444444444,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is well-written at the sentence level, with excellent readability scores. However, it is not approved because it fails a critical check: it is missing the mandatory 'Key Messages' section. Additionally, it needs to define some technical terms for the reader and provide a more specific summary of the findings.\n\n**Critical Issues:**\n\n*   **Missing Section:** The 'Key Messages' section, which is the most important part of a Plain Language Summary, is completely missing. This section should appear at the very top and summarize the main findings in 2-3 bullet points.\n\n**Top 3 Improvements Needed:**\n\n1.  **Add the 'Key Messages' Section:** This is the most important change needed. Readers rely on this section for a quick, scannable overview of the review's conclusions.\n    *   **Suggestion:** Add the following section at the beginning of the summary, based on the source material:\n        **Key messages**\n        - Sucrose (a type of sugar) probably helps reduce pain in newborn babies during a heel prick compared to giving them nothing.\n        - We are not sure if sucrose is better or worse than other pain relief methods like non-nutritive sucking (when a baby sucks on something but does not get any milk) or breastfeeding.\n        - The quality of the evidence is not strong, and we need more research to be sure about how well sucrose works and if it is safe in the long term.\n\n2.  **Define Unfamiliar Terms:** The summary lists several pain-relief methods without explaining what they are, which could confuse readers.\n    *   **Problematic sentence:** \"We compared sucrose to other pain-relieving methods, including water, non-nutritive sucking, glucose, breastfeeding, and skin-to-skin care.\"\n    *   **Why it's a problem:** A lay reader may not know what 'non-nutritive sucking' or 'skin-to-skin care' means in this context.\n    *   **Suggested rewrite:** \"We compared giving sucrose to other pain-relieving methods, such as giving water or another sugar (glucose), non-nutritive sucking (letting a baby suck on a pacifier), breastfeeding, and skin-to-skin care (placing the baby directly on the parent's chest).\"\n\n3.  **Make the Main Finding More Specific:** The summary of findings is a bit too vague. Adding a little more detail from the abstract about how sucrose compares to other active treatments would be more helpful.\n    *   **Problematic sentence:** \"However, we are not sure if it is better or worse than other methods of pain relief.\"\n    *   **Why it's a problem:** The review found more specific results. For example, it found 'little to no difference' compared to some other treatments, which is a more informative finding than just 'we are not sure'.\n    *   **Suggested rewrite:** \"However, the evidence was uncertain when comparing sucrose to other methods like breastfeeding. Sucrose seems to work about as well as giving other sugars (like glucose), expressed breast milk, or providing skin-to-skin care.\"",
+      "pls_evaluation_summary": "The linguistic analysis shows that the draft's prose is excellent and highly conforms to typical PLS patterns. An outstanding 94.4% of metrics fall into the best quartile for readability and clarity, including a Flesch-Kincaid Grade Level of 8.35 and a low average sentence length of 17 words. These strong metrics indicate the text is easy to read at a sentence level. However, the metrics do not capture the critical structural and content omissions, such as the missing 'Key Messages' section, which are the primary reasons for the 'NOT_APPROVED' grade."
+    }
+  ]
+}

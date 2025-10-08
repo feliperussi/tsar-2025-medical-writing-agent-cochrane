@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "How accurate are blood tests for diagnosing vitamin A deficiency?\nWe looked at how well blood tests can diagnose vitamin A deficiency. Vitamin A deficiency is a condition where the body lacks enough vitamin A, which is important for growth and immune function.\n\nKey messages:\n- Blood tests for diagnosing vitamin A deficiency have low sensitivity and high specificity, but the evidence is not strong enough to be certain about these findings.\n- We do not have clear information on the potential harmful effects of these blood tests, and more research is needed to fully understand their benefits and risks.\n- Future studies should focus on designing and conducting high-quality research to determine the accuracy of blood tests for vitamin A deficiency.\n\nWhat is vitamin A deficiency and why is it a problem?\nVitamin A deficiency is a serious health condition. It occurs when the body does not have enough vitamin A, an essential nutrient important for growth, immune function, and eye health. Vitamin A is crucial for our body to function properly. It can lead to poor growth, impaired immune responses, increased risk of disease, and even blindness or death.\n\nWhat are the common methods for assessing vitamin A deficiency?\nWe need to assess vitamin A status for its clinical management. Several methods measure vitamin A levels in the body, including direct index measures and dose-response biomarkers. These methods aim to provide accurate assessments of vitamin A status, which is essential for diagnosing and treating vitamin A deficiency.\n\nWhat did we want to find out?\nWe wanted to determine the accuracy of index tests used to diagnose subclinical vitamin A deficiency in individuals at risk. We also wanted to assess how different factors affect the accuracy of these index tests. By evaluating the performance of these tests, we hoped to provide valuable information for healthcare professionals and researchers working to address vitamin A deficiency.\n\nMethods\nWe searched for studies on vitamin A deficiency tests, combined their results, and rated our confidence in the evidence. We found 40 studies that involved a total of 65 records. The studies were conducted in various countries around the world.\n\nWhat did we find?\nWe found that methods to determine vitamin A deficiency had generally low sensitivity and high specificity in individuals at risk for vitamin A deficiency. It is unclear if these methods have an effect on outcome.\n\nLimitations\nThe studies were not designed to assess diagnostic accuracy, had very small sample sizes, and were likely unblinded. This means that the participants may have known their treatment allocation.\n\nCurrency\nThe evidence is up to date to August 2022. We will continue to update our findings as new evidence becomes available.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 465,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 29,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 16.03448275862069,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 6,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 55,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 32,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 16,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 140,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "flesch_reading_ease": {
+          "value": 48.65032258064517,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.456996662958847,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 9.580144605116796,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.05849462365591,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 15.53207267334075,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.50760103819058,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.206896551724138,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.198039027185569,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.1452673340749,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 187,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 106,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 151,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 465,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 465 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 9,
+        "P50_count": 0,
+        "P75_count": 9,
+        "P90_count": 0,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 50,
+        "P50_percentage": 0,
+        "P75_percentage": 50,
+        "P90_percentage": 0,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 100,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "APPROVED",
+      "feedback": "",
+      "pls_evaluation_summary": "The draft shows high conformity to typical PLS patterns, with all metrics within desirable ranges, indicating a well-structured and clear text."
+    }
+  ]
+}

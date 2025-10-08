@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013078.PUB2",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Is exercise better than other treatments, such as injections, or surgery, for improving pain and function in people with patellar tendinopathy (a condition that causes knee pain due to tendon problems)?\n\nWe are very uncertain whether strengthening exercise reduces pain compared to no treatment, glucocorticoid injection, or surgery for people with patellar tendinopathy. \n- Strengthening exercise may make little or no difference to function compared to no treatment, glucocorticoid injection, or surgery.\n- Future research should focus on comparing exercise to other treatments with longer follow-up periods and in more diverse groups of people, including non-athletes.\n\nWhat is patellar tendinopathy and why is it a problem?\nPatellar tendinopathy is a common condition that affects the tendon (a tissue that connects muscles to bones) at the front of the knee, causing pain. It is a prevalent problem, particularly among athletes, and can impact daily activities and sports performance.\n\nWhat did the review authors want to find out?\nThe review authors aimed to evaluate the benefits and harms of exercise for the treatment of patellar tendinopathy. They wanted to find out whether strengthening exercise reduces pain and improves function compared to no treatment, glucocorticoid injection, or surgery.\n\nWhat did we find?\nWe found 7 studies that involved 211 people with chronic patellar tendinopathy. The studies were conducted in various settings and included athletes with a mean age of 26 years and a mean duration of symptoms of 41.6 months. Most studies compared strengthening exercises with no treatment, glucocorticoid injection, surgery, stretching exercise, or pulsed ultrasound and transverse friction.\n\nWhat are the limitations of the evidence?\nWe found that all trials were small, making the evidence very uncertain. Participants were likely aware of their assigned treatment, introducing performance bias.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to September 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 316,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 19,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.63157894736842,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 34,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 17,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 24,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 100,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 45.65204863424387,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.023530979347104,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.240662891405726,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.825063291139234,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.399467021985345,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.07461692205196,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.894736842105263,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.831760866327848,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.770527581612259,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 139,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 77,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 112,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 316,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 316 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 5,
+      "P50_count": 10,
+      "P75_count": 2,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 27.77777777777778,
+      "P50_percentage": 55.55555555555556,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:10.238887"
+}

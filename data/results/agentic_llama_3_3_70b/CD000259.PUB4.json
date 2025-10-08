@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "agentic_llama_3_3_70b",
+  "text": "Can giving healthcare professionals information about their performance (audit and feedback) improve the quality of care they provide?\n\nKey messages:\n- We found that audit and feedback can improve the quality of care provided by healthcare professionals. This is especially true for areas like prescribing medicines and ordering medical tests. However, the size of the improvement varies.\n- The way feedback is delivered, the involvement of a local champion, and the provision of actionable plans for improvement can all impact the effectiveness of audit and feedback.\n- Further research is needed to confirm these findings and to identify the best ways to design and deliver audit and feedback interventions.\n\nWhat is audit and feedback in healthcare?\nAudit and feedback (A&F) is a strategy used to improve professional practice in healthcare. It involves measuring clinical performance over a specified period (audit) and providing the resulting data to clinicians or clinical teams (feedback). The goal of A&F is to prompt healthcare professionals to modify their practice when it is inconsistent with a desirable target, ultimately leading to better patient care.\n\nWhy is improving professional practice in healthcare important?\nImproving professional practice in healthcare is crucial because it can lead to better patient outcomes, reduced errors, and more efficient use of resources. However, there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact.\n\nWhat did the review authors want to find out?\nThe review authors wanted to assess the effects of A&F on the practice of healthcare professionals and to examine factors that may explain variation in the effectiveness of A&F. They aimed to identify the characteristics of A&F that lead to a greater impact and to determine whether A&F can be effective in improving professional practice.\n\nWhat did we find?\nWe found 292 studies with 678 arms. Most studies targeted physicians as the recipients of audit and feedback. The professional practices most commonly targeted were prescribing and test-ordering. We found that audit and feedback probably causes a moderate increase in desired healthcare practice. For every 100 healthcare professionals, 6 more may improve their practice. Audit and feedback may be most effective when it targets important performance metrics, measures individual practice, involves a local champion, includes multiple interactive modalities, compares performance to top peers or a benchmark, facilitates engagement, and features an actionable plan.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by very small study sizes and heterogeneity in participant populations and intervention delivery methods, which reduce precision and increase indirectness.\n\nHow up-to-date is the evidence?\nThe evidence is up to date to June 2020.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 455,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.782608695652176,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 9,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 39.681806020066915,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 12.639063545150506,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 13.077524128045866,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.434813186813187,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.759197324414718,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 57.36502627806976,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.434782608695652,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.295630140987,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.991283325370283,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 202,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 112,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 455,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 455 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 3,
+      "P75_count": 11,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 61.111111111111114,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:03.256994"
+}

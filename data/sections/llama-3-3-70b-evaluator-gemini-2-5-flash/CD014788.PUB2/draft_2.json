@@ -1,0 +1,162 @@
+{
+  "id": "CD014788.PUB2",
+  "draft": "Can hormone treatments (gonadotropin-releasing hormone analogues) help reduce pain in women with endometriosis (a condition where tissue similar to the lining of the womb grows outside the womb), and are they safe?\n\nKey Messages\n- Hormone treatments, called gonadotropin-releasing hormone analogues (GnRHas), are medicines that affect hormone production. They may help reduce pain in women with endometriosis, a condition where tissue similar to the womb's lining grows outside the womb. However, the evidence is not very strong, and we are uncertain about how much benefit they provide.\n- We did not find enough good-quality evidence to be certain about the effects of GnRHas on bone health (the strength and density of bones), but there may be a slight decrease in bone density when using GnRHas, which could increase the risk of osteoporosis (a condition that makes bones weak and more likely to break) over time.\n- Future research should focus on studying the long-term effects of GnRHas on pain relief and bone health in women with endometriosis, as well as comparing GnRHas to other treatment options, to provide more reliable answers to these important questions.\n\nWhat is endometriosis and why is it a problem?\nEndometriosis is a common gynaecological condition that affects 6 to 11% of women of reproductive age. It can cause painful symptoms such as dyspareunia (painful intercourse), dysmenorrhoea (painful menstruation), and infertility. Endometriosis occurs when tissue similar to the lining of the uterus grows outside the uterus, leading to inflammation, scarring, and adhesions. The exact cause of endometriosis is unknown, but it is thought to be related to hormonal and immune system factors. Common treatments for endometriosis include medical therapy with gonadotropin-releasing hormone analogues (GnRHas), which can help reduce pain by decreasing estrogen production.\n\nWhat did the review authors want to find out about GnRHas for endometriosis?\nThe review authors wanted to find out if GnRHas effectively and safely treat painful symptoms of endometriosis. They also aimed to see how GnRHas affect bone mineral density in women with endometriosis, as these treatments can decrease bone density.\n\nHow did we find the evidence?\nWe searched for studies comparing GnRH analogues with other treatments, summarized their results, and rated our confidence in the evidence to assess the effectiveness and safety of GnRH analogues for endometriosis.\n\nWhat are the main results of the review?\nSeventy-two studies involving 7355 patients were included. The evidence was very low to low quality: the main limitations of all studies were serious risk of bias due to poor reporting of study methods, and serious imprecision. \n- For relief of overall pain, there may be a slight decrease in favour of treatment with GnRHas compared to placebo or oral or injectable progestogens. \n- We are uncertain about the effect when comparing GnRHas with danazol, intra-uterine progestogens or gestrinone. \n- For BMD, there may be a slight decrease when women are treated with GnRHas, compared to gestrinone. \n- There was a bigger decrease of BMD in favour of GnRHas, compared to GnRHas in conjunction with calcium-regulating agents. \n- However, there may be a slight increase in adverse effects when women are treated with GnRHas, compared to placebo or gestrinone.\n\nWhat are the limitations of the evidence?\nThe evidence is limited by potential bias due to lack of blinding (participants may have known which treatment they received), incomplete reporting of outcomes (not all studies provided data on all outcomes of interest), and very small sample sizes, which reduce statistical power and precision.\n\nIs the evidence up to date?\nThe evidence is up to date to May 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 613,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 27,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 22.703703703703702,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 12,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 51,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 31,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 22,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 177,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 177.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.98682556945201,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 12.764281312307414,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 13.41806718627273,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 12.229102773246328,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.455054075282458,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.7200169174068,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.814814814814815,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.954451150103322,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.0 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.282400604193102,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 239,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 113,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 184,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 184.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 613,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 613 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 0,
+        "P50_count": 9,
+        "P75_count": 4,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 0,
+        "P50_percentage": 50,
+        "P75_percentage": 22.22222222222222,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 22.22222222222222,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is not approved. It fails a critical check because the 'Main results' section is a direct copy of the technical conclusions from the original abstract, not a summary written in plain language. This makes the most important section of the summary inaccessible to a general audience. Additionally, the draft uses complex medical terms before explaining them and contains several noun-heavy, wordy sentences that make it difficult to read.\n\nHere are the top 3 improvements needed:\n\n1. **Rewrite the entire results section in plain language.** The current text is copied from the technical abstract and is not suitable for patients.\n   - **Problematic text:** \"There was a bigger decrease of BMD in favour of GnRHas, compared to GnRHas in conjunction with calcium-regulating agents.\"\n   - **Why it's a problem:** Phrases like \"in favour of\" are jargon. The sentence structure is complex and compares multiple treatments without explaining the takeaway: that GnRHas may cause greater bone density loss unless combined with calcium-regulating agents.\n   - **Suggested rewrite:** \"GnRHas may cause a greater loss of bone density compared to some other treatments. For example, women taking GnRHas alone lost more bone density than women who also took calcium-regulating medicines with their GnRHa treatment.\"\n\n2. **Explain complex medical terms using simple language first.** The text introduces technical terms first, which can intimidate or confuse readers.\n   - **Problematic text:** \"It can cause painful symptoms such as dyspareunia (painful intercourse), dysmenorrhoea (painful menstruation), and infertility.\"\n   - **Why it's a problem:** This forces the reader to learn a new, complex word and then immediately process its definition. It's more effective to lead with the familiar concept.\n   - **Suggested rewrite:** \"It can cause symptoms like pain during sex (dyspareunia), painful periods (dysmenorrhoea), and difficulty getting pregnant (infertility).\"\n\n3. **Use simpler phrasing and more direct verbs.** Several sentences are noun‑heavy and wordy, which makes them harder to understand.\n\n   - **Problematic text:** \"Common treatments for endometriosis include medical therapy with gonadotropin-releasing hormone analogues (GnRHas), which can help reduce pain by decreasing estrogen production.\"\n   - **Why it's a problem:** Phrases like \"medical therapy with\" and \"decreasing estrogen production\" are examples of wordiness and nominalization (using a noun instead of a verb). This is supported by the high 'nominalization' score in the evaluation.\n   - **Suggested rewrite:** \"A common treatment is a medicine called a gonadotropin-releasing hormone analogue (GnRHa). These medicines work by lowering the amount of estrogen the body produces, which helps reduce pain.\"\n",
+      "pls_evaluation_summary": "The linguistic analysis shows good conformity with typical PLS patterns in some areas, with 13 of 18 metrics falling within the median or best quartile ranges. However, there is a significant deviation from typical patterns in vocabulary complexity and sentence structure. Five key metrics are in the P90 range, indicating the text is more complex than a typical PLS. These include high counts of nominalizations (noun-form verbs), total nouns, long words, and complex words (Dale-Chall, Dale-Chall), along with a high SMOG index. This pattern supports the editorial finding that the text relies too heavily on technical terms and noun-heavy phrases, reducing overall readability."
+    }
+  ]
+}

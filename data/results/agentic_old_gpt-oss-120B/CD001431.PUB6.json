@@ -1,0 +1,155 @@
+{
+  "file_id": "CD001431.PUB6",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Do decision aids (simple tools such as brochures, videos, or websites that explain options) improve knowledge and help adults make choices that match their values?\n\nKey messages\n- We found that decision aids probably help adults make values‑congruent choices (choices that match what matters most to them), increase knowledge (the amount of correct information they have about the options), improve risk perception (how accurately they understand the chance of benefits and harms), and reduce decisional conflict (feelings of uncertainty). We did not see an increase in decision regret (feeling sorry about the decision later) or other serious harms.\n- Using decision aids does not noticeably change consultation length (how long a doctor visit lasts). When used before the visit they may shorten it a little; when used during the visit they may add about one minute. Overall the impact on appointment time is minimal.\n- Future research should test whether decision aids lead to better follow‑through on the chosen option, improve long‑term health outcomes, and affect health‑system costs.\n\nWhy do many adults need help when choosing health treatments or screening tests?\nEvery day adults must decide whether to start a medication, have surgery, or undergo screening (checking for disease in people who have no symptoms) for conditions such as heart disease (cardiovascular), cancer, mental health (overall psychological and emotional condition), or joint (where two bones connect) problems. Each option has benefits, possible harms, and chances of success. Most people want a decision that fits their own priorities, for example weighing the chance of avoiding a heart attack against the risk of side‑effects. However, medical information is often hard to understand, and patients may not know how options match their personal values. This can leave them feeling uninformed, uncertain, or simply following the clinician’s (health‑care provider’s) recommendation without full consideration.\n\nWhat are patient decision aids and why might they help?\nPatient decision aids are tools that clearly lay out the choices, give evidence‑based information about likely benefits and harms, and include exercises to help people think about what matters most to them. In plain language they turn a complex medical decision into a step‑by‑step process that supports an informed, values‑based choice (a decision that matches the patient’s preferences and understanding). Usual care (the care a provider would normally give) often consists of a brief verbal explanation, a generic information sheet, or no extra help at all.\n\nWhat did we want to find out about decision aids?\nWe aimed to discover whether using patient decision aids improves the way adults make treatment or screening decisions compared with usual care. Specifically we looked at the outcomes of knowledge, risk perception, values clarity (how clear people are about what matters to them), participation (active role in the decision), decisional conflict, and decision regret. We also examined whether decision aids affect consultation length and later outcomes such as sticking with the chosen treatment.\n\nHow did we find the evidence?\nWe searched for randomised controlled trials (studies where participants are randomly assigned to groups) that compared patient decision aids with usual care for adults facing treatment or screening choices. We combined the results to assess effects on knowledge, values‑congruent choices, and related outcomes. We rated our confidence in the evidence using standard criteria.\n\nWhat did we find?\nWe identified 209 randomised controlled trials involving 107,698 adults facing 71 different health decisions. The most common decisions involved cardiovascular treatment, various cancer screenings and treatments, mental‑health treatment, and joint replacement surgery. Compared with usual care, decision aids probably produce a large increase in the proportion of people who make values‑congruent choices. They also probably cause a large increase in knowledge and in accurate risk perception. Decision aids reduce feelings of being uninformed, lower uncertainty about personal values, and decrease the proportion of people who let clinicians make the decision for them. They make little or no‑difference to decision regret. Using decision aids before a consultation makes little or no difference to appointment length, while using them during the visit probably adds a small amount of time.\n\nWhat are the limitations?\nWe are moderately confident in the evidence because participants often knew which intervention they received, and not all trials reported every outcome we examined.\n\nHow current is the evidence?\nThis review updates our previous work and includes evidence up to March 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 733,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 36,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.36111111111111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 101,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 233,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 46.63040946642414,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.813589131423374,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.827458693345463,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.804038199181445,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.548264362589055,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.14828710019706,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.472222222222222,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.958260743101398,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.0 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.097100742761862,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 329,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 329.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 154,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 154.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 233,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 233.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 733,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 733 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 0,
+      "P50_count": 8,
+      "P75_count": 4,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 6,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 0.0,
+      "P50_percentage": 44.44444444444444,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 33.33333333333333,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 22.22222222222222,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:48.553345"
+}

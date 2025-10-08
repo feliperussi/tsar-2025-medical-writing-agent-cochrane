@@ -1,0 +1,23 @@
+{
+  "processed_at": "2025-10-07T23:24:52.082072",
+  "total_processed": 200,
+  "total_failed": 0,
+  "configurations": [
+    {
+      "config": "original",
+      "description": "Title + Abstract",
+      "processed": 100,
+      "failed": 0,
+      "total": 100,
+      "skipped": false
+    },
+    {
+      "config": "reference",
+      "description": "PLS (already includes title)",
+      "processed": 100,
+      "failed": 0,
+      "total": 100,
+      "skipped": false
+    }
+  ]
+}

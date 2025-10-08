@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014818.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of regional analgesia techniques for postoperative pain after breast cancer surgery?\n\n### Key Messages\n* We found that some regional analgesia techniques may be slightly more effective than others in reducing postoperative pain, but the differences are small. The risk of complications is low, but our confidence in the evidence is limited due to the small sample sizes and wide confidence intervals in some studies.\n* The regional analgesia techniques included in our analysis seem comparable in reducing postoperative pain and rates of complications. However, more research is needed to confirm these findings and to understand the potential benefits and harms of each technique.\n* Future research should focus on comparing the effectiveness and safety of different regional analgesia techniques in larger, well-designed studies. This will help to provide more accurate and reliable information for patients and healthcare professionals.\n\n### Introduction to the review topic and review aims\nWhat is postoperative pain after breast cancer surgery? Postoperative pain is a common problem for people who have had breast cancer surgery. It can be severe and affect a person's quality of life. Regional analgesia techniques are used to help manage postoperative pain. These techniques involve injecting pain-relieving medication into specific areas of the body to block pain signals to the brain.\n\nWhat did we want to find out? We wanted to find out which types of regional analgesia techniques work best to help people manage pain after breast cancer surgery, and what the potential harms are. We compared four types of regional analgesia techniques: paravertebral block (PVB), erector spinae plane block (ESPB), pectoral nerve block (PEC), and serratus anterior plane block (SAPB).\n\n### What did we do?\nWe searched for studies that compared different regional analgesia techniques in women undergoing breast cancer surgery. We found 39 studies with a total of 2348 participants. We compared the results of the studies and rated our confidence in the evidence.\n\n### What did we find?\nWe found that some regional analgesia techniques may be slightly more effective than others in reducing postoperative pain, but the differences are small. For example, PEC may be slightly more effective than PVB in reducing postoperative pain at rest at two hours, but the difference is smaller than what is considered clinically important. We also found that the risk of complications is low. However, our confidence in the evidence is limited due to the small sample sizes and wide confidence intervals in some studies.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small. The evidence does not cover all of the people, interventions, and outcomes we were interested in. The studies were done in different types of people and used different ways of delivering the intervention.\n\n### How up to date is this evidence?\nThe evidence is up to date to June 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 527,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.51851851851852,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 31,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 152,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 50.57209080047792,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.05448028673835,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.155331365521121,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.179734345351047,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.68786281537705,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.17126994166842,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.592592592592593,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.908712114635714,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.810718139011877,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 195,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 117,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 117.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 527,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 527 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:35.871173"
+}

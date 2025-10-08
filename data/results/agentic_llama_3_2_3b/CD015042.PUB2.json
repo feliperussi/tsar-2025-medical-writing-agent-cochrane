@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015042.PUB2",
+  "folder": "agentic_llama_3_2_3b",
+  "text": "**Can brief counseling sessions help pregnant women stop drinking alcohol?**\n\n- Brief counseling sessions may help pregnant women stop drinking alcohol, but the evidence is uncertain and more research is needed to fully understand its effects.\n- The quality of the evidence for psychosocial interventions is low due to a lack of robust studies and high risk of bias.\n- Further research should focus on investigating the efficacy and safety of psychosocial interventions and other treatments for women with alcohol use disorder during pregnancy.\n\n**What is alcohol consumption during pregnancy?**\n\nAlcohol consumption is a significant problem during pregnancy, with rates estimated to be 10% globally and up to 25% in Europe. Despite the known harms, alcohol consumption is common, and there is a need for effective interventions to reduce or stop it during pregnancy.\n\n**What did we want to find out?**\n\nWe wanted to assess the efficacy of psychosocial interventions and medications to reduce or stop alcohol consumption during pregnancy. Specifically, we aimed to determine whether these interventions can increase the rate of continuous abstinence among pregnant women who report alcohol use during pregnancy, and whether they can reduce the number of drinks per day and the number of women who completed treatment.\n\n**Search Strategy**\n\nWe searched for studies that compared psychosocial interventions to placebo, no intervention, usual care, or other medications or psychosocial interventions used to reduce or stop alcohol use during pregnancy.\n\n**Evidence Synthesis**\n\nWe combined the results of these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nThe review included 8 studies with a total of 1,369 pregnant participants from the USA, Spain, and the Netherlands, with study durations ranging from 8 to 24 weeks and no reported funding sources. All studies examined brief psychosocial interventions compared with treatment as usual (or similar) and reported outcomes such as abstinence, reduction in alcohol consumption, treatment retention, and adverse events. No studies evaluating medications for the treatment of alcohol use disorder during pregnancy were found.\n\n**Limitations**\n\nWe have little confidence in the evidence because it is possible that people in the studies were aware of which treatment they were getting, and because the studies were very small.\n\n**The evidence is up to date to 8 January 2024 of search.**",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 390,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 23,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.956521739130434,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 38,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 19,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 114,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 46.454899665551864,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.99227424749164,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.996799331103674,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.351897435897435,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.500557413600895,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.546265328874014,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.695652173913044,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.399966555183947,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 162,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 131,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 390,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 390 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 7,
+      "P75_count": 4,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:44.177773"
+}

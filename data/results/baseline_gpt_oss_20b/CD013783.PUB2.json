@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "baseline_gpt_oss_20b",
+  "text": "Can toe blood pressure tests (TBI and TSBP) accurately find blocked leg arteries?\n\nKey Messages\n- We found that the evidence for using toe blood pressure tests to detect blocked leg arteries is very weak. The tests may or may not work well, and we are not confident about their accuracy.\n- No harms or side effects were reported in the studies.\n- More research with better design is needed to know if these tests are reliable.\n\nWhat is peripheral arterial disease and why is it important?\nPeripheral arterial disease (PAD) is a condition where the arteries that bring blood to the legs become narrowed or blocked. When blood flow is reduced, people can feel pain, have trouble walking, or develop wounds that heal slowly. Detecting PAD early can help prevent serious problems such as ulcers or loss of a limb.\n\nWhat are toe blood pressure tests and how are they used?\nToe blood pressure tests measure the pressure of blood in the small arteries at the tip of the toe. Two common ways are the toe‑brachial index (TBI), which compares toe pressure to arm pressure, and toe systolic blood pressure (TSBP), which records the highest pressure in the toe. Doctors use these numbers to guess whether the leg arteries are blocked, especially when other tests are hard to do.\n\nWhat did we want to find out?\nWe wanted to know whether TBI or TSBP can accurately identify people who have blocked leg arteries when compared with a standard imaging test.\n\nWhat did we do?\nWe searched several medical databases for studies that measured TBI or TSBP and also used an imaging test as a reference. We then combined the results and judged how reliable the evidence was.\n\nWhat did we find?\nWe identified 18 studies that looked at TBI (about 1,900 participants) and 5 studies that looked at TSBP (about 700 participants). Most of these studies were small and did not clearly describe how participants or tests were handled. The overall quality of the studies was low.\n\nMain results\nBecause the evidence is very uncertain, we do not know if TBI or TSBP accurately detect blocked leg arteries. The studies did not show a clear pattern of good or poor performance, and no side effects were reported.\n\nLimitations\nWe have little confidence in the findings because the studies were not well designed. Many did not explain how participants were chosen, and it was unclear whether the people measuring the toe pressures knew the results of the imaging test. The small size of the studies also makes the results unstable.\n\nHow up to date is the evidence?\nThe literature search was completed on 27 February 2024, so the evidence reflects studies published up to that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 473,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 27,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.51851851851852,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 28,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 9,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 116,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 67.60888340772064,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.181334272962179,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.17076031634171,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.529048625792807,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.335102967661108,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 43.734163338814504,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.592592592592593,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.874007874011811,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.310292725706679,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 163,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 63,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 124,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 473,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 473 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 4,
+      "P75_count": 5,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:20.486180"
+}

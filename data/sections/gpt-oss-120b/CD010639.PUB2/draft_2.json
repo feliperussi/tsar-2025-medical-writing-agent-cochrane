@@ -1,0 +1,162 @@
+{
+  "id": "CD010639.PUB2",
+  "draft": "Do changes to shift work schedules (the timing and length of work shifts) improve sleep quality, increase sleep duration, or reduce sleepiness in shift workers?\n\nKey messages\n- Changing shift schedules can sometimes make workers feel less sleepy during their shifts, especially when shifts rotate forward (shifts move from morning to evening to night) or rotate more quickly, but the evidence is uncertain and there is no clear benefit for overall sleep quality; no harmful effects were reported.\n- Limiting daily shift length to no more than 16 hours (the maximum number of hours worked in one day) appears to allow workers to get more sleep when off work and to feel less sleepy while on duty, although confidence in this finding is limited and other changes such as shorter shifts or more spread‑out schedules did not show clear effects.\n- More well‑designed, larger studies are needed to determine which schedule changes reliably improve sleep and reduce sleepiness, and to assess any possible negative effects over longer periods.\n\nWhy does working in shifts affect sleep and safety?\nMany jobs require people to work at times that do not match the normal day‑night cycle – for example night shifts, early‑morning shifts, or rotating schedules that change every few days. This “shift work” often leads to not getting enough sleep or getting poor‑quality sleep. When workers are sleepy, they are less alert, which can increase the risk of mistakes, accidents, and long‑term health problems. Employers sometimes try to improve the situation by changing how shifts are organised – for example by altering the length of a shift, the direction in which shifts rotate (forward rotation moves from morning to evening to night, while backward rotation goes the opposite way), how quickly the rotation changes (faster vs. slower rotation), or how much time is given between shifts.\n\nWhat did the review aim to discover?\nWe wanted to find out whether changing shift schedules can improve three outcomes for shift workers: (1) how good their sleep feels (sleep quality), (2) how many hours they actually sleep when they are off‑work (sleep duration), and (3) how sleepy they feel while they are on the job (sleepiness). We looked at studies that compared different schedule designs – such as forward vs. backward rotation, faster vs. slower rotation, limits on daily shift length, shorter vs. longer shifts, and more compressed vs. spread‑out workweeks.\n\nHow did we find the evidence?\nWe searched several databases up to April 2022 for studies that examined how adapting shift schedules influences sleep quality, sleep duration, or sleepiness in shift workers. Two reviewers screened each record, extracted data, and assessed the risk of bias. We combined results where studies were similar and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe included 11 studies with a total of 2,125 shift‑workers. The studies were randomised controlled trials, controlled before‑after studies, and non‑randomised cross‑over designs. They examined a range of schedule changes, including forward vs. backward rotation, faster vs. slower rotation, limiting daily shift length to 16 hours, shorter (8–10 h) vs. longer shifts, and more compressed vs. more spread‑out schedules. One laboratory study was excluded from effectiveness conclusions.\nLimiting daily shift length to 16 hours probably increases the amount of sleep workers obtain and probably reduces sleepiness a little, although the certainty about the increase in sleep is low. This finding is based on low‑certainty evidence (we are not very sure about the result).\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because many studies did not randomly assign workers to different schedules. This means differences between groups could be due to differences between people rather than the schedule changes. Some studies were small, used different methods, or did not report all outcomes we were interested in.\n\nHow current is the evidence?\nThe evidence is up to date to April 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 666,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 28,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 23.785714285714285,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 14,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 71,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 30,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 201,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 56.80871621621621,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.244686829686831,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 12.506505791505795,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.47501501501501,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.42119262119262,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.164092664092664,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.75,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 13.344080432788601,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.96046211926212,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 286,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 286.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 115,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 189,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 189.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 666,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 666 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 2,
+        "P50_count": 4,
+        "P75_count": 8,
+        "P90_count": 3,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 11.11111111111111,
+        "P50_percentage": 22.22222222222222,
+        "P75_percentage": 44.44444444444444,
+        "P90_percentage": 16.666666666666664,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The draft fails critical checks: it is missing a dedicated \"How current is the evidence?\" sub‑heading (currency section) and therefore does not include all required sections. While most sub‑headings are phrased as questions, the overall structure does not fully meet the style guide. Additionally, several clarity issues would confuse readers:\n1. **Unexplained jargon** – terms such as “forward rotation”, “backward rotation”, “faster vs slower rotation”, and “compressed vs spread‑out schedules” appear without simple definitions. *Rewrite*: “Forward rotation means shifts move from morning to evening to night, while backward rotation goes the opposite way.”\n2. **Long, dense sentences** – e.g., “When workers are sleepy, they are less alert, which can increase the risk of mistakes, accidents, and long‑term health problems.” (23 words) can be split for easier reading.\n   *Rewrite*: “When workers are sleepy they are less alert. This can increase the risk of mistakes, accidents, and long‑term health problems.”\n3. **Passive constructions and nominalisations** – sentences like “One laboratory study was identified but excluded from effectiveness conclusions.” use passive voice and noun‑heavy phrasing.\n   *Rewrite*: “We identified one laboratory study, but we excluded it from the effectiveness conclusions.”\n4. **Missing explicit statement of evidence currency** – the draft does not clearly state the date of the latest search.\n   *Add*: “How current is the evidence? The evidence is up to date to April 2022.”\n5. **Over‑use of complex and long words** – the metrics show very high counts of complex_words_dc (286, BEYOND_P90), long_words (189, P90) and nominalisations (23, P90). Simplify wording (e.g., replace “utilise” with “use”, “assessment” with “check”).\nThese changes will also address the metric deviations: reducing nominalisations and long words will bring the draft closer to typical PLS ranges, and converting passive voice to active will improve the active_voice score. Overall, the draft needs structural completion and several clarity‑focused edits before it can be approved.",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity but highlights four out‑of‑range features: nominalisations (23, P90), noun count (201, P90), complex Dale‑Chall words (286, BEYOND_P90) and long words (189, P90). Readability scores are acceptable (Flesch‑Reading Ease 56.8, FKGL 11.2). The identified deviations support the need to simplify language, reduce noun‑heavy phrasing, and add the missing currency sub‑heading. The draft therefore does not meet the required standards."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010639.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) manually.\n\nHere is the transformed PLS:\n\n**What are the benefits and risks of adapting shift work schedules for sleep quality, sleep duration, and sleepiness in shift workers?**\n\n**Key Messages:**\n\n* Adapting shift work schedules may reduce adverse occupational outcomes, but the evidence is very uncertain.\n* Forward and faster rotation may reduce sleepiness during shifts, but may make no difference to sleep quality.\n* Limited shift duration (16 hours) versus unlimited shift duration may increase sleep duration, but the evidence is low-certainty.\n* Shorter versus longer shifts may reduce sleepiness during shifts, but the evidence is very low-certainty.\n* More compressed versus more spread out shift schedules may have no effect on sleep quality or sleep duration.\n\n**Introduction to the review topic and review aims:**\n\n* What is shift work?\nShift work is when people work at times that are not typical for their usual work schedule. This can include night shifts, rotating shifts, and other non-traditional schedules.\n* Why is shift work a problem?\nShift work can disrupt people's sleep patterns, leading to fatigue, decreased productivity, and increased risk of accidents and errors.\n* What do we want to find out?\nWe want to know if adapting shift work schedules can improve sleep quality, sleep duration, and sleepiness in shift workers.\n\n**What did we do?**\n\nWe searched for studies that compared different shift schedule adaptations, including forward and backward rotation, faster and slower rotation, limited and unlimited shift duration, and compressed and spread out shift schedules. We included 11 studies with a total of 2125 participants.\n\n**What did we find?**\n\n* Forward and faster rotation may reduce sleepiness during shifts, but may make no difference to sleep quality.\n* Limited shift duration (16 hours) versus unlimited shift duration may increase sleep duration.\n* Shorter versus longer shifts may reduce sleepiness during shifts.\n* More compressed versus more spread out shift schedules may have no effect on sleep quality or sleep duration.\n\n**What are the limitations of the evidence?**\n\nThe evidence is very uncertain due to the low number of studies and the heterogeneity of the included studies. There is a need for more high-quality studies (preferably RCTs) to draw conclusions on the effects of shift schedule adaptations on sleep and sleepiness in shift workers.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2021, based on the search dates used in the review.\n\nPlease note that this is a manual transformation and may not be perfect. If you need any further assistance, feel free to ask.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 463,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 34,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 13.617647058823529,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 44,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 20,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 27,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 148,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 65.10812063270235,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 7.5610551391182845,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 7.453769533731421,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.58488120950324,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.963257527633084,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 40.615487231609706,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.676470588235294,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.486832980505138,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.882303544657604,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 182,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 87,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 125,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 463,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 463 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 88.88888888888889,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:44.283480"
+}

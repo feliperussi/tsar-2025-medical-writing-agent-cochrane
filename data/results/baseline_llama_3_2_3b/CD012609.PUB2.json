@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012609.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "Is there anything else I can help you with?\n\nHere is the transformed Cochrane abstract into a Plain Language Summary (PLS) following Cochrane guidelines:\n\n**What are the benefits and risks of infliximab for maintaining remission in people with Crohn's disease?**\n\n**Key Messages:**\n\n*   **Infliximab is probably more effective in preventing clinical relapse than placebo (moderate-certainty evidence).**\n*   **Infliximab in combination with purine analogues is probably more effective in preventing clinical and endoscopic relapse than purine analogues alone (moderate-certainty evidence).**\n*   **We cannot draw meaningful conclusions about other comparisons and outcomes related to missing data or very low-certainty evidence due to serious concerns about imprecision and risk of bias.**\n\n**Introduction to the review topic and review aims:**\n\n*   **What is Crohn's disease?**\n    Crohn's disease is a type of inflammatory bowel disease (IBD) that causes chronic inflammation and damage to the digestive tract.\n*   **Why is maintaining remission important?**\n    Maintaining remission is crucial for managing Crohn's disease, as it reduces the risk of complications and improves quality of life.\n*   **What is the purpose of this review?**\n    The purpose of this review is to determine the efficacy and safety of infliximab for maintaining remission in people with Crohn's disease.\n\n**What did we do?**\n\n*   We searched for studies that compared infliximab to placebo or another active comparator for maintaining remission in people with Crohn's disease.\n*   We included 9 randomized controlled trials (RCTs) that met our inclusion criteria.\n*   We assessed the certainty of the evidence using GRADE.\n\n**What did we find?**\n\n*   Infliximab is probably more effective in preventing clinical relapse than placebo (moderate-certainty evidence).\n*   Infliximab in combination with purine analogues is probably more effective in preventing clinical and endoscopic relapse than purine analogues alone (moderate-certainty evidence).\n*   We cannot draw meaningful conclusions about other comparisons and outcomes related to missing data or very low-certainty evidence due to serious concerns about imprecision and risk of bias.\n\n**How up to date is this evidence?**\n\n*   The evidence is up to date to August 2021.\n\n**Authors' conclusions:**\n\n*   Infliximab is probably more effective in preventing clinical relapse than placebo (moderate-certainty evidence).\n*   Infliximab in combination with purine analogues is probably more effective in preventing clinical and endoscopic relapse than purine analogues alone (moderate-certainty evidence).\n*   We cannot draw meaningful conclusions about other comparisons and outcomes related to missing data or very low-certainty evidence due to serious concerns about imprecision and risk of bias.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 451,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 12.885714285714286,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 33,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 121,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 49.3169756097561,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.581770034843206,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.31221412733608,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.989977827051,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.68421919543871,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.91453911941717,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.771428571428571,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.61895003862225,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.361260031675642,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 192,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 130,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 130.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 167,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 451,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 451 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 3,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:45.276130"
+}

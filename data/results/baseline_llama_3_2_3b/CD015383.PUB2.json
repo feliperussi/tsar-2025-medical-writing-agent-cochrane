@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015383.PUB2",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I apologize for the issue. It seems that the tool I was using earlier is not functioning correctly.\n\nHere is a rewritten version of the Cochrane abstract in Plain Language Summary (PLS) format, following the guidelines provided:\n\n**What are the benefits and risks of psychedelic-assisted therapy for treating anxiety, depression, and existential distress in people with life-threatening diseases?**\n\n**What did we do?**\nWe searched for studies that compared psychedelic-assisted therapy with classical psychedelics (psilocybin, LSD) and MDMA to placebo or active comparators. We combined the results of the studies and rated our confidence in the evidence.\n\n**What did we find?**\nWe found six studies that evaluated the effects of psychedelic-assisted therapy on anxiety, depression, and existential distress. The studies showed that psychedelic-assisted therapy with classical psychedelics (psilocybin, LSD) may reduce anxiety and depression, but the evidence is low to very low due to high risk of bias and imprecision.\n\n**What are the benefits and risks of psychedelic-assisted therapy?**\nPsychedelic-assisted therapy with classical psychedelics (psilocybin, LSD) may be effective for treating anxiety, depression, and possibly existential distress in people facing a life-threatening disease. However, the certainty of evidence is low to very low, which means that we cannot be sure about these results, and they might be changed by future research.\n\n**What should happen next?**\nMore studies with larger sample sizes are needed to reduce imprecision. As the US Drug Enforcement Administration (DEA) currently classifies psychedelics as Schedule I substances, research involving these drugs is restricted, but is steadily increasing.\n\n**How accurate are the results?**\nThe results are based on a small number of studies, and the evidence is low to very low due to high risk of bias and imprecision. Therefore, we cannot be sure about the results, and they might be changed by future research.\n\nNote: I have followed the guidelines provided to rewrite the abstract in Plain Language Summary format, but please let me know if you need any further assistance.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 346,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 15.727272727272727,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 29,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 82,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.34522858644246,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.562711508145036,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.21505254860746,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.006820809248556,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.730215449290595,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 50.120336311087755,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.409090909090909,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.219544457292887,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.986546715712033,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 136,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 73,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 119,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 346,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 346 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:51.873343"
+}

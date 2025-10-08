@@ -1,0 +1,155 @@
+{
+  "file_id": "CD015219.PUB2",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of favipiravir for treating COVID-19?\n\nKey Messages:\n- Due to a lack of robust evidence, we do not know whether favipiravir reduces all-cause mortality, or the progression to invasive mechanical ventilation, in people with COVID-19.\n- Favipiravir may make little to no difference in the need for admission to hospital, the time to clinical improvement, or the progression to oxygen therapy.\n- Favipiravir may lead to an overall increased incidence of adverse events, but may result in little to no difference in serious adverse events.\n- Future research should focus on providing high-quality evidence on the effects of favipiravir in people with COVID-19, including its benefits and risks, to inform treatment decisions.\n\nIntroduction to the review topic and review aims:\nWhat is COVID-19?\nCOVID-19 is a respiratory illness caused by a coronavirus. It can cause mild to severe illness, and in some cases, it can be fatal.\nWhat did we want to find out?\nWe wanted to find out whether favipiravir is effective in treating people with COVID-19, and what its benefits and risks are.\n\nWhat did we do?\nWe searched for studies that compared favipiravir with no treatment, supportive treatment, or other experimental antiviral treatments in people with COVID-19. We summarized and combined the results of these studies, and evaluated the certainty of the evidence.\n\nWhat did we find?\nWe found 25 studies that involved 5750 adults with COVID-19. Most participants were hospitalized with mild to moderate disease. The studies were conducted in several countries, including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the UK, and the USA.\nFor every 100 people treated with favipiravir, we do not know how many will have a reduced risk of all-cause mortality, or the progression to invasive mechanical ventilation.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small, and there were concerns about the way the studies were conducted.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to July 2023.\n\nIn conclusion, we do not know whether favipiravir is effective in treating people with COVID-19, and we need more research to provide high-quality evidence on its benefits and risks.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 399,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 22,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.136363636363637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 36,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 90,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.84764354066988,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.11476076555024,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.264046479835955,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.565814536340852,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.873593073593074,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.95591250854409,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.045454545454546,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 11.94427190999916,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.123323034859877,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 132,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 76,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 111,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 399,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 399 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 9,
+      "P50_count": 6,
+      "P75_count": 3,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 50.0,
+      "P50_percentage": 33.33333333333333,
+      "P75_percentage": 16.666666666666664,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:37.021981"
+}

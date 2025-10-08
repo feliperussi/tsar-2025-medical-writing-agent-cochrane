@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013783.PUB2",
+  "folder": "agentic_gpt_oss_20b",
+  "text": "How accurate are toe‑brachial index (toe‑to‑arm blood pressure ratio) and toe systolic blood pressure (pressure measured in a toe) for diagnosing peripheral arterial disease (blocked arteries in the legs)?\n\nKey messages  \n– The review could not determine how well the toe‑brachial index (TBI) or toe systolic blood pressure (TSBP) detect peripheral arterial disease (PAD) because only a few low‑quality studies are available.  \n– Although clinicians often use these bedside tests, the current evidence does not show how reliably they identify PAD and provides no information about possible harms.  \n– Better‑designed studies that compare the tests with reliable imaging of leg arteries are needed to establish their true accuracy and safety.\n\nWhy is peripheral arterial disease (PAD) a health problem?  \nPAD occurs when fatty deposits (atherosclerosis) narrow or block the arteries that supply the legs. Reduced blood flow can cause pain while walking (claudication), pain at rest, slow‑healing wounds, gangrene, or even amputation. PAD also raises the risk of heart attacks and strokes. About 236 million people worldwide have PAD. Risk factors include older age, smoking, high blood pressure, diabetes and other heart diseases. Detecting PAD early helps doctors manage these risks and prevent serious complications.\n\nWhat are toe‑brachial index (TBI) and toe systolic blood pressure (TSBP) and why might they help?  \nBoth tests are simple, non‑invasive measurements that can be done at the bedside.  \n– **Toe‑brachial index (TBI)** compares the blood pressure measured at the toe with the pressure measured in the arm. A lower ratio suggests reduced foot blood flow, which may indicate PAD.  \n– **Toe systolic blood pressure (TSBP)** records the actual pressure in the toe artery. Low toe pressure can also point to PAD.  \nWe like these tests because they do not require surgery or expensive imaging and can be performed quickly in many clinical settings.\n\nWhat did the review aim to find out?  \nWe wanted to see how well TBI and TSBP identify PAD in the lower legs. Specifically we aimed to (1) estimate the accuracy of each test at different cut‑off values for people at risk of PAD, and (2) compare the accuracy of TBI versus TSBP. We also planned to explore whether patient groups, the type of equipment used, the positivity threshold, or the reference imaging method affected test performance.\n\nHow did we find the evidence?  \nWe searched major medical databases up to 27 Feb 2024. We looked for studies that measured TBI or TSBP in adults at risk of PAD and compared the results with a vascular imaging reference. Two reviewers extracted data, built 2 × 2 tables (true/false positives/negatives) and assessed study quality.\n\nWhat did we find?  \nWe identified 18 diagnostic‑accuracy studies. Thirteen evaluated TBI only, one evaluated TSBP only, and four evaluated both tests. In total, TBI was measured in 1 927 participants (2 550 limbs) and TSBP in 701 participants (701 limbs). The studies included people of all ages, both with and without symptoms, and sub‑groups such as diabetes or kidney disease.  \n\nThe index measurements were taken with a range of devices – photoplethysmography (a light‑based method that detects blood flow), laser Doppler (a laser‑based flow sensor), continuous‑wave Doppler (an ultrasound‑based flow sensor), manual or aneroid (hand‑held) sphygmomanometers, and automated digital equipment.  \n\nMost studies used colour‑duplex ultrasound (a scan that shows blood flow in the leg arteries) as the reference, while a few used CT angiography (a CT scan that visualises arteries), multi‑detector row CT, conventional angiography, or combinations of these.  \n\nThe reports omitted important details such as study duration, country, funding source, gender distribution and disease severity. Because of these gaps, we cannot say whether TBI or TSBP reliably detect PAD.\n\nWhat are the limitations of the evidence?  \nMost studies were of low quality. Many did not explain how participants were selected, did not keep test results hidden from investigators, and did not report when the index test and the reference imaging were performed. Some studies also omitted data needed for analysis. These problems give us low confidence in the current evidence.\n\nHow current is the evidence?  \nWe searched the literature up to February 2024, so the evidence reflects studies published before that date.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 716,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 17.047619047619047,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 27,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 219,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 219.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 59.79591247672252,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.154102154828415,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.7032368981112,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.441061452513967,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.919606278265498,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 45.539239159350885,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.857142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.224972160321824,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.2 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.704067491354084,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 311,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 311.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 145,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 145.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 204,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 204.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 716,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 716 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 0,
+      "P75_count": 5,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 0.0,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:58.326459"
+}

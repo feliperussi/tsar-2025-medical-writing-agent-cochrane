@@ -1,0 +1,155 @@
+{
+  "file_id": "CD013742.PUB2",
+  "folder": "baseline_gpt_oss_120b",
+  "text": "Plain Language Summary Title  \nHow accurate are blood‑based tests for vitamin A deficiency in people who are at risk?\n\nKey Messages  \n- The tests that measure vitamin A in blood or related proteins usually miss many people who actually have a deficiency (they have low sensitivity) but are fairly good at confirming when a person does not have a deficiency (they have high specificity). No harmful effects of the tests were reported.  \n- All of the studies we found were small and were not designed specifically to check how well these tests work, so the overall confidence in the results is low. Different tests – such as blood retinol, retinol‑binding protein, and the relative dose‑response test – showed a similar pattern of low ability to detect deficiency and good ability to rule it out.  \n- More research is needed that uses well‑planned studies focused on test accuracy, includes larger numbers of people, and evaluates a wider range of tests (including those that use breast‑milk samples).\n\nWhat is vitamin A deficiency and why does it matter?  \nVitamin A helps the eyes work, supports growth, and keeps the immune system strong. When people do not get enough vitamin A, they can have poor growth, weaker immunity, eye problems, and higher risk of death for mothers and children. Because the condition can be serious, health workers need reliable ways to find out who is deficient.\n\nWhat tests are used to check vitamin A status?  \nThe most common laboratory checks look at the amount of vitamin A (retinol) in blood, the level of a protein that carries vitamin A (retinol‑binding protein), or how the body responds to a small dose of vitamin A (relative dose‑response). Some studies also compare these tests to more exact methods, such as measuring vitamin A directly in the liver or using a special isotope technique.\n\nWhat did we want to find out?  \nWe set out to see how well these routine laboratory tests identify people who have sub‑clinical vitamin A deficiency – that is, deficiency that is not yet causing obvious symptoms. We also wanted to learn whether any factors (like age or pregnancy) changed how accurate the tests were.\n\nWhat did we do?  \nWe searched many medical databases for studies that measured at least one routine test and one reference method at the same time. We combined the results of the eligible studies and judged how confident we could be in the evidence.\n\nWhat did we find?  \nWe identified 40 studies that together reported on 65 separate test comparisons. None of the studies were set up specifically to evaluate test accuracy, which limited how much we could learn. The studies examined:  \n- Blood retinol versus an isotope dilution reference,  \n- Blood retinol versus liver vitamin A,  \n- Retinol‑binding protein versus the same references, and  \n- Relative dose‑response versus the isotope method.  \n\nOverall, the routine tests showed low ability to correctly pick up true vitamin A deficiency (low sensitivity) but generally high ability to correctly identify people who were not deficient (high specificity). Because the studies were small, often lacked true‑positive cases, and did not always report all needed information, the certainty of the evidence ranged from very low to low for most comparisons.\n\nWhat are the limitations of the evidence?  \nWe have little confidence in the evidence because the studies were not designed to test how well the laboratory methods work, and many of them included only a small number of participants. In addition, the risk of bias was often unclear, meaning we cannot be sure that the test results were not influenced by how the studies were carried out.\n\nHow up to date is this evidence?  \nThe evidence is up to date to August 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 647,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 30,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.566666666666666,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 13,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 67,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 164,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.979454662545095,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.530119010819167,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.933194229778465,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.519567233384855,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.921875321998971,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 47.53266357547656,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.6,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.535653752852738,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.97570357547656,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 242,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 242.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 118,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 118.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 168,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 168.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 647,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 647 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 7,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 38.88888888888889,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:04.535475"
+}

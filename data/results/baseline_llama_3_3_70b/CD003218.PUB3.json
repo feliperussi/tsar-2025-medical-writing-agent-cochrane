@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003218.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "Can psychostimulants help people with myotonic dystrophy who experience excessive daytime sleepiness?\n\nKey messages:\n- Psychostimulants may help improve excessive daytime sleepiness in people with myotonic dystrophy, but the evidence is uncertain.\n- The effects of psychostimulants on quality of life and sleepiness are not well understood and more research is needed.\n- Future studies should investigate the long-term effects of psychostimulants in people with myotonic dystrophy.\n\nWhat is myotonic dystrophy?\nMyotonic dystrophy is a genetic disorder that affects the muscles and can cause a range of symptoms, including excessive daytime sleepiness.\n\nWhat did we want to find out?\nWe wanted to find out if psychostimulants, which are drugs that can help increase alertness, can help people with myotonic dystrophy who experience excessive daytime sleepiness.\n\nWhat did we do?\nWe searched for studies that compared psychostimulants with a placebo or no treatment in people with myotonic dystrophy and excessive daytime sleepiness.\n\nWhat did we find?\nWe found six studies that included a total of 136 people with myotonic dystrophy. The studies showed that psychostimulants may improve excessive daytime sleepiness, but the evidence is uncertain.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had limitations in their design.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to January 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 245,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 17,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 14.411764705882353,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 2,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 27,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 21,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 62,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 54.084609843937585,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.295894357743098,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.729596638655462,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 12.05012244897959,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.56062424969988,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.513805522208884,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.0588235294117645,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 10.874007874011811,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.3218847539015615,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 87,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 60,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 86,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 245,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 245 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 13,
+      "P50_count": 3,
+      "P75_count": 2,
+      "P90_count": 0,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 72.22222222222221,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 11.11111111111111,
+      "P90_percentage": 0.0,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:26.321751"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of individualized gonadotropin dose selection using markers of ovarian reserve for women undergoing IVF/ICSI?\n\nKey Messages:\n- Individualizing the dose of a medicine called gonadotropin based on markers of ovarian reserve may not clearly improve the chances of having a baby for women undergoing IVF/ICSI, but it might reduce the risk of a potentially life-threatening condition called ovarian hyperstimulation syndrome (OHSS).\n- The evidence is not strong enough to be certain about the benefits and risks of individualized dosing, and more research is needed to understand how it affects different groups of women.\n- Further studies should investigate which individualized dosing strategies work best for women with different levels of ovarian reserve, and whether these strategies can improve outcomes while minimizing risks.\n\nIntroduction to the review topic and review aims:\nWhat is individualized gonadotropin dose selection, and why is it used in IVF/ICSI?\nIndividualized gonadotropin dose selection involves tailoring the dose of gonadotropin, a medicine that stimulates the ovaries to produce eggs, based on a woman’s unique characteristics, such as her age, the number of follicles in her ovaries, and the level of certain hormones in her blood. This approach aims to optimize the chances of pregnancy while minimizing the risk of OHSS.\n\nWhat did we want to find out?\nWe wanted to determine whether individualized gonadotropin dose selection improves the chances of having a baby and reduces the risk of OHSS for women undergoing IVF/ICSI.\n\nWhat did we do?\nWe searched for studies that compared individualized gonadotropin dosing strategies with standard dosing approaches, and we analyzed the results to see if individualized dosing made a difference in pregnancy rates and OHSS risk.\n\nWhat did we find?\nWe found that individualized gonadotropin dose selection may reduce the risk of OHSS, but the evidence is not strong enough to be certain about its benefits and risks. We also found that different individualized dosing strategies may work better for women with different levels of ovarian reserve.\n\nWhat are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were small and had limitations that affected the quality of the results.\n\nHow up to date is this evidence?\nThis review updates our previous review, and the evidence is up to date to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 406,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 15,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 27.066666666666666,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 27.1 to <22.1 (median)"
+      },
+      "passive_voice": {
+        "value": 7,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 25,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 102,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 33.50026436781613,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 15.310827586206898,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.3 to <13.2 (median)"
+      },
+      "automated_readability_index": {
+        "value": 15.421313628899838,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.4 to <13.6 (median)"
+      },
+      "coleman_liau_index": {
+        "value": 12.216748768472907,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 19.299573070607554,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 56.37701149425287,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 7.933333333333334,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.327379053088816,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.215142134646962,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 151,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 86,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 119,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 406,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 406 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 5,
+      "P75_count": 8,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 27.77777777777778,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:31.497539"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014811.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "For people with sudden heart failure, is it better to receive fluid-reducing medicines as a continuous drip or as a single injection?\n\nKey messages\n\n– We are not sure if giving fluid-reducing medicines (called loop diuretics) as a continuous drip is better than giving them as single injections for people with sudden heart failure.\n– The evidence suggests there may be little to no difference between the two methods in the risk of death, being readmitted to hospital, or developing kidney problems.\n– We need more and better-quality studies to be certain about the benefits and risks of each method. This will help doctors and patients make more confident decisions about the best way to treat sudden heart failure.\n\nWhat is acute heart failure?\n\nAcute heart failure is a condition that happens suddenly. It can be a new problem or a rapid worsening of a long-term heart condition. When a person has heart failure, their heart cannot pump blood around the body properly.\n\nThis causes fluid to build up in the lungs and other parts of the body. This fluid buildup can lead to serious symptoms like severe shortness of breath. People with acute heart failure often need urgent treatment in a hospital.\n\nHow is acute heart failure treated?\n\nA key part of treatment is to remove the extra fluid from the body. Doctors use strong medicines called loop diuretics, which make people urinate more to get rid of the fluid.\n\nThese medicines are given directly into a vein. They can be given in two main ways:\n– as a continuous infusion (a slow, steady drip over several hours)\n– as a bolus injection (one or more single, quick injections)\n\nWhat did we want to find out?\n\nWe wanted to find out if giving loop diuretics as a continuous drip is better or worse than giving them as single injections for adults with acute heart failure. We looked at the effects on:\n– weight loss (a sign of fluid removal)\n– death from any cause\n– length of hospital stay\n– being readmitted to hospital\n– unwanted effects, such as kidney problems\n\nWhat did we do?\n\nWe searched for studies that compared giving loop diuretics as a continuous drip versus as single injections. The studies had to include adults who were in the hospital for acute heart failure. We compared and summarized the results of these studies and rated our confidence in the evidence.\n\nWhat did we find?\n\nWe found 7 studies with a total of 681 people. The studies took place in 32 hospitals across North America, Europe, and Asia. We were very careful to only include studies that directly compared the two ways of giving the medicine, without other treatments that could confuse the results.\n\n**Main results**\n\nCompared to single injections, giving loop diuretics as a continuous drip:\n\n– **Weight loss:** It is unclear if a continuous drip has an effect on weight loss. We are very uncertain about this result.\n– **Death from any cause:** A continuous drip may make little to no difference to the risk of death.\n– **Length of hospital stay:** It is unclear if a continuous drip has an effect on how long people stay in the hospital. We are very uncertain about this result.\n– **Readmission to hospital:** A continuous drip may make little to no difference to the chance of being readmitted to the hospital after going home.\n– **Kidney problems:** A continuous drip may make little to no difference to the risk of developing sudden kidney problems.\n\nNo studies reported on deaths specifically caused by heart problems.\n\nWhat are the limitations of the evidence?\n\nWe have little confidence in the evidence. This is because some of the studies we found had weaknesses in their methods, which means their results might not be reliable. Also, most of the evidence comes from a small number of studies with few people in them. This makes it difficult to be certain about the true effects of the treatments.\n\nHow up to date is this evidence?\n\nThe evidence is up to date to February 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 715,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 39,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.333333333333332,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 59,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 45,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 196,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 69.90498834498838,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.063496503496502,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.15764568764569,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 8.079160839160842,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.75990675990676,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 39.73193473193473,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.923076923076923,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.539392014169456,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 5.900298368298369,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 226,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 97,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 153,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 715,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 715 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:24.433987"
+}

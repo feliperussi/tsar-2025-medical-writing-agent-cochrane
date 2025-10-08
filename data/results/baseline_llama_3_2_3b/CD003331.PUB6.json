@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003331.PUB6",
+  "folder": "baseline_llama_3_2_3b",
+  "text": "I can help you transform the Cochrane abstract into a Plain Language Summary (PLS) following the guidelines provided. Here is the transformed summary:\n\n**What are the benefits and risks of exercise-based cardiac rehabilitation for adults with heart failure?**\n\nPeople with heart failure experience substantial disease burden that includes low exercise tolerance, poor health-related quality of life (HRQoL), increased risk of mortality and hospital admission, and high healthcare costs. The previous 2018 Cochrane review reported that exercise-based cardiac rehabilitation (ExCR) compared to no exercise control shows improvement in HRQoL and hospital admission amongst people with heart failure, as well as possible reduction in mortality over the longer term, and that these reductions appear to be consistent across patient and programme characteristics. Limitations noted by the authors of this previous Cochrane review include the following: most trials were undertaken in patients with heart failure with reduced (< 45%) ejection fraction (HFrEF), and women, older people, and those with heart failure with preserved (≥ 45%) ejection fraction (HFpEF) were under-represented; and most trials were undertaken in a hospital or centre-based setting.\n\n**What did we want to find out?**\n\nTo assess the effects of ExCR on mortality, hospital admission, and health-related quality of life of adults with heart failure.\n\n**What did we do?**\n\nWe searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO and Web of Science without language restriction on 13 December 2021. We also checked the bibliographies of included studies, identified relevant systematic reviews, and two clinical trials registers.\n\n**What did we find?**\n\nWe included 60 trials (8728 participants) with a median of six months' follow-up. For this latest update, we identified 16 new trials (2945 new participants), in addition to the previously identified 44 trials (5783 existing participants). Although the existing evidence base predominantly includes patients with HFrEF, with New York Heart Association (NYHA) classes II and III receiving centre-based ExCR programmes, a growing body of trials includes patients with HFpEF with ExCR undertaken in a home-based setting. All included trials employed a usual care comparator with a formal no-exercise intervention as well as a wide range of active comparators, such as education, psychological intervention, or medical management. The overall risk of bias in the included trials was low or unclear, and we mostly downgraded the certainty of evidence of outcomes upon GRADE assessment.\n\n**Participation in exercise-based cardiac rehabilitation (ExCR) likely reduces the risk of all-cause hospital admissions and heart failure-related hospital admissions, and may result in important improvements in health-related quality of life (HRQoL). However, there is no evidence that ExCR reduces mortality in people with heart failure.**\n\n**What are the limitations of the evidence?**\n\nThe evidence is up to date to August 2021. The overall risk of bias in the included trials was low or unclear, and we mostly downgraded the certainty of evidence of outcomes upon GRADE assessment. There was no evidence of a difference in the short term (up to 12 months' follow-up) in the pooled risk of all-cause mortality when comparing ExCR versus usual care (risk ratio (RR) 0.93, 95% confidence interval (CI) 0.71 to 1.21; absolute effects 5.0% versus 5.8%; 34 trials, 36 comparisons, 3941 participants; low-certainty evidence). Only a few trials reported information on whether participants died due to heart failure.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to August 2021. This review updates our previous review. The evidence is up to date to August 2021.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 601,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 19.387096774193548,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 26,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 26.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 41,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 22,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 36,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 36.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 192,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 192.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.080890451398204,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.369303848424671,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.594114110890452,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.79926788685524,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.871311255434488,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 51.50024153292898,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.225806451612903,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.789826122551595,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.8 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.740002662229617,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 258,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 258.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 152,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 152.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 601,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 601 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 3,
+      "P50_count": 4,
+      "P75_count": 4,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 16.666666666666664,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 38.88888888888889,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:40.059598"
+}

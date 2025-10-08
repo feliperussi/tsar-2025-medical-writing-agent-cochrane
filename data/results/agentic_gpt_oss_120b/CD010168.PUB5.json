@@ -1,0 +1,155 @@
+{
+  "file_id": "CD010168.PUB5",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Does using a drain (a tube that removes fluid) after surgery for severe (complicated) appendicitis lower the chance of an internal belly infection (intraperitoneal abscess)?\n\nKey messages\n- Current research does not show that a drain reduces the chance of an intraperitoneal abscess. The studies are small and give us low confidence in the result, and they suggest the drain may increase the risk of death and lengthen the hospital stay.\n- No trials have compared different drain types (open – a tube left open to the outside – versus closed – a sealed tube) or the best time to remove a drain, so we cannot say which type or timing is best.\n- Because the evidence is limited and of low quality, larger well‑designed studies are needed to clarify the effects of drains on infection risk, mortality, and length of stay.\n\nWhat health problem does this review focus on?\nAppendicitis is inflammation of the appendix, a small pouch attached to the large intestine. When the appendix is dead (gangrenous) or has burst (perforated) we call it complicated appendicitis. People with this condition are at higher risk of serious problems after the appendix is removed (appendectomy). One feared problem is an intraperitoneal abscess – a pocket of pus inside the abdomen that can cause fever, pain, and life‑threatening infection. Surgeons sometimes place an abdominal drain – a thin tube that lets fluid and blood escape from the surgical site – to try to prevent this, but it is unclear whether drainage helps or causes other harms such as wound infection, longer hospital stays, or higher death rates.\n\nWhat did the researchers aim to find out?\nWe asked three questions: (1) Does placing a drain after open or laparoscopic appendectomy for complicated appendicitis lower the risk of an intraperitoneal abscess? (2) If drains are helpful, are there differences between open drains and closed drains? (3) What is the best timing for removing the drain – early or later?\n\nHow did we search for studies?\nWe searched several databases, trial registers, reference lists, and contacted study authors to find randomised trials or trials that used a simple method of assigning participants to groups (called quasi‑randomised trials). We combined results in meta‑analyses where possible and rated our confidence in the evidence using the GRADE approach.\n\nWhat did we find?\nWe looked at eight studies – five randomised trials and three quasi‑randomised trials – that together included 739 participants. Of these, 370 received a drain and 369 did not. The participants were children and adults with perforated appendicitis, most had peritonitis, and all received antibiotics after open or laparoscopic surgery.\nWe are not sure about most outcomes because the studies were small and varied. The best available evidence shows that using a drain may increase the chance of death within 30 days, and we have moderate confidence in this finding. For intraperitoneal abscess, wound infection, overall complications, and length of hospital stay, the evidence is very uncertain and does not show clear differences between drain and no‑drain groups.\n\nWhat are the limitations of the evidence?\nWe are not confident in the evidence because participants and clinicians often knew which treatment was given, the studies were small, and they used different methods and reported outcomes inconsistently. Not all studies provided data for every outcome we wanted.\n\nHow up‑to‑date is this review?\nWe searched the literature up to October 2023, so the review reflects the most recent evidence available.\n",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 581,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 29,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 20.03448275862069,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 54,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 33,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 19,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 162,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 162.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 52.101032702237546,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.969403525431776,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.164435871565075,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.908089500860584,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.518096029437949,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 46.024155736245476,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.206896551724138,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.14889156509222,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.489080396462699,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 239,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 239.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 151,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 581,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 581 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 3,
+      "P75_count": 7,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 72.22222222222221,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:50.671798"
+}

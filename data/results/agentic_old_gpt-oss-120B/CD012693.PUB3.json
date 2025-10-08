@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012693.PUB3",
+  "folder": "agentic_old_gpt-oss-120B",
+  "text": "Title: Is adjusting the dose of fertility‑stimulating hormone (FSH) based on egg‑reserve tests better than using a standard dose for improving pregnancy rates or lowering the risk of ovarian hyperstimulation in IVF/ICSI?\n\nKey messages  \n- Using egg‑reserve tests (measures that estimate a woman’s ovarian reserve – the total number of healthy, immature eggs) to set the starting FSH dose does not clearly increase the chance of a live birth compared with giving all women the same standard dose, and the evidence is uncertain.  \n- Some dosing algorithms that use test results may lower the risk of ovarian hyperstimulation syndrome (OHSS – a condition where the ovaries become swollen and painful after stimulation), but the size of this benefit is unclear because the studies were small and used different methods.  \n- Larger, well‑designed randomised controlled trials (RCTs – studies where participants are randomly assigned to groups) are needed to compare individualised dosing with standard dosing, use the same algorithm, and report both pregnancy outcomes and harms such as OHSS.\n\nWhy does the dose matter?  \nIn IVF (in‑vitro fertilisation – a treatment where eggs are collected, fertilised in the laboratory, and the embryos are placed back into the uterus) or ICSI (intracytoplasmic sperm injection – a laboratory technique that injects a single sperm directly into an egg) a woman receives daily injections of FSH (follicle‑stimulating hormone – a hormone released by the brain that tells the ovaries to grow and mature eggs). Getting 5–15 eggs gives the best chance of a successful pregnancy. If the dose is too high, the ovaries may over‑react, leading to OHSS, which can be dangerous. If the dose is too low, few or poor‑quality eggs may be retrieved and the cycle may be cancelled. Doctors try to predict how a woman will respond by looking at ovarian‑reserve tests such as anti‑Müllerian hormone (AMH – a hormone that gives doctors an idea of how many eggs a woman may have left), antral follicle count (AFC – the number of small fluid‑filled sacs visible on an ultrasound at the start of a cycle), or basal FSH (bFSH – the level of FSH measured early in the menstrual cycle).\n\nWhat did we aim to find out?  \nWe wanted to know whether tailoring the FSH dose using AMH, AFC, or bFSH changes the chance of a live birth or ongoing pregnancy, and whether it influences the risk of severe OHSS, for women undergoing IVF/ICSI. In other words, we compared an individualised dosing strategy with a uniform (standard) dose or with other dosing algorithms.\n\nHow did we look for evidence?  \n- **Search strategy:** We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, and two trial registers for studies that compared ovarian‑reserve‑test‑guided dosing with alternative dosing regimens in IVF/ICSI.  \n- **Eligibility:** We included RCTs that enrolled women undergoing IVF/ICSI, compared an individualised FSH dose based on AMH, AFC, or bFSH with a standard or fixed dose, and reported live‑birth, clinical pregnancy, or OHSS outcomes.  \n- **Data extraction and synthesis:** Two reviewers extracted data and pooled results using meta‑analysis where appropriate. We calculated effect estimates for live‑birth, clinical pregnancy, and total gonadotropin consumption.  \n- **Confidence in the evidence:** We rated the certainty of the evidence with the GRADE framework, considering risk of bias, inconsistency, indirectness, imprecision, and publication bias. We rated the certainty as low because the trials were few, small, and often unblinded.\n\nWhat did we find?  \n- Only a small number of trials met our criteria, and each enrolled few participants.  \n- Individualising the dose did not show a clear benefit for live birth or clinical pregnancy compared with a standard dose.  \n- Some trials suggested a reduction in moderate or severe OHSS, but the effect size varied because the algorithms and study designs differed.  \n- The overall certainty of the evidence is low due to possible bias, small sample sizes, and imprecision.\n\nWhat are the limitations?  \nWe have little confidence in the current evidence. Participants often knew which dosing strategy they received, and the studies were very small. The dosing algorithms differed between trials, making it hard to combine results.\n\nWhat should happen next?  \nWe need larger, well‑designed RCTs that compare individualised dosing with a standard dose, use the same algorithm, and report both benefits (such as higher live‑birth rates) and harms (such as OHSS). Better evidence will help clinicians decide whether test‑guided dosing improves outcomes for women undergoing IVF/ICSI.\n\nCurrency: This review includes studies published up to February 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 783,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 33,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 23.727272727272727,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 22,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 22.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 85,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 29,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 200,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 200.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 53.2046917450366,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.732857308719378,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.93241030999652,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.791724137931034,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.30700104493208,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.65319865319865,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.151515151515151,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.874342087037917,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.710665830721004,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 324,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 324.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 153,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 153.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 203,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 203.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 783,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 783 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 2,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 2,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 11.11111111111111,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:57.739891"
+}

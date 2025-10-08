@@ -1,0 +1,155 @@
+{
+  "file_id": "CD012532.PUB2",
+  "folder": "baseline_gemini_2_5_pro",
+  "text": "Can medicines that help the immune system fight cancer help people with glioma, a type of brain tumour?\n\n**Key messages**\n\n– For people with a serious type of brain tumour called glioma, immunotherapy medicines (called anti-PD-1) probably do not help them live longer or stop the tumour from growing, when compared to other cancer treatments.\n– When used with other cancer treatments for newly diagnosed glioma, one of these medicines probably increases the risk of serious unwanted effects. The evidence on unwanted effects for glioma that has come back is very unclear.\n– More and better-quality studies are needed to be sure about the benefits and risks of these medicines for people with glioma. Future studies should also look at how these treatments affect people's quality of life.\n\n**What is glioma?**\n\nGlioma is a type of brain tumour that starts in the glial cells, which are cells that support the nerve cells in the brain. The most common and aggressive type of glioma in adults is called glioblastoma. People with glioblastoma usually do not live for very long, even with treatment.\n\nCurrent treatments for glioblastoma include surgery, radiotherapy (using high-energy rays to kill cancer cells), and chemotherapy (medicines to kill cancer cells). Researchers are looking for new treatments to help people with this condition.\n\n**How might immunotherapy help?**\n\nImmunotherapy is a type of cancer treatment that helps a person's own immune system fight cancer. Some cancer cells can hide from the immune system. Medicines called anti-PD-1 and anti-PD-L1 are types of immunotherapy that can help the immune system find and attack these cancer cells.\n\n**What did we want to find out?**\n\nWe wanted to find out if using anti-PD-1 or anti-PD-L1 medicines is better than other treatments for adults with glioma. We were interested in whether these medicines could:\n– help people live longer;\n– stop the tumour from growing for longer;\n– cause any serious unwanted effects.\n\n**What did we do?**\n\nWe searched for studies that compared anti-PD-1 or anti-PD-L1 medicines with other treatments or a placebo (a dummy treatment) for adults with glioma. We then compared and summarized the results of these studies and rated our confidence in the evidence.\n\n**What did we find?**\n\nWe found 7 studies that included 1953 people with the most serious type of glioma. Four studies looked at people whose glioma had come back after initial treatment, and three studies looked at people who were newly diagnosed. The medicines studied were nivolumab and pembrolizumab.\n\n**For people with newly diagnosed glioma**\n\nAdding the immunotherapy medicine nivolumab to standard treatments (like radiotherapy and chemotherapy) probably makes little to no difference to how long people live or how long it takes for their tumour to grow back.\n\nHowever, adding nivolumab to chemotherapy and radiotherapy probably increases the risk of serious unwanted effects.\n\n**For people with glioma that has come back**\n\nThe immunotherapy medicine nivolumab, when used on its own, probably makes little to no difference to how long people live or how long it takes for their tumour to grow back compared to another cancer medicine called bevacizumab.\n\nFor other immunotherapy treatments, or when they were combined with other medicines, the evidence was very uncertain. This means we do not know if they have an effect on how long people live, how long it takes for their tumour to grow, or the risk of serious unwanted effects. One very small study suggested that giving an immunotherapy medicine before and after surgery might help, but we are very uncertain about this result.\n\n**What are the limitations of the evidence?**\n\nOur confidence in the evidence is limited. For many of our questions, the evidence came from only one or two studies, and some of these were very small. There were also problems with how some of the studies were carried out, which could affect the reliability of their results. This means we cannot be certain about the findings.\n\n**How up to date is this evidence?**\n\nThe evidence is up to date to March 2024.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 710,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 44,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.136363636363637,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 69,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 47,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 17,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 188,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 61.769266965428955,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 8.652477592829705,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 8.231209987195903,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 9.322535211267606,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 12.59539052496799,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 36.41805377720871,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 3.272727272727273,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.695359714832659,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.782772087067862,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 269,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 269.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 109,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 144,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      }
+    },
+    "word_count_status": {
+      "word_count": 710,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 710 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 7,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 83.33333333333334,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:18.056702"
+}

@@ -1,0 +1,155 @@
+{
+  "file_id": "CD000259.PUB4",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the effects of audit and feedback on professional practice in healthcare?\n\nKey Messages:\n* Audit and feedback can be effective in improving professional practice, but the size of the effect varies. \n* The effectiveness of audit and feedback may depend on several factors, including the way the audit is conducted, the way the feedback is delivered, and the characteristics of the healthcare professionals receiving the feedback. \n* Further research is needed to confirm these findings and to identify the most effective ways to use audit and feedback to improve professional practice.\n\nIntroduction to the review topic and review aims:\nWhat is audit and feedback?\nAudit and feedback is a strategy used to improve professional practice in healthcare. It involves measuring the performance of healthcare professionals over a specified period of time and providing them with feedback on their performance. The goal of audit and feedback is to help healthcare professionals identify areas where they can improve their practice and to provide them with the information they need to make changes.\n\nWhat did we want to find out?\nWe wanted to find out whether audit and feedback is effective in improving professional practice in healthcare. We also wanted to identify the factors that influence the effectiveness of audit and feedback, such as the way the audit is conducted and the way the feedback is delivered.\n\nWhat did we do?\nWe searched for studies that compared the effects of audit and feedback on professional practice in healthcare. We included 292 studies in our review, which involved 678 arms and over 26,000 healthcare professionals. We analyzed the data from these studies to see whether audit and feedback was effective in improving professional practice and to identify the factors that influenced its effectiveness.\n\nWhat did we find?\nOur analysis showed that audit and feedback can be effective in improving professional practice, but the size of the effect varies. We found that the effectiveness of audit and feedback depends on several factors, including the way the audit is conducted, the way the feedback is delivered, and the characteristics of the healthcare professionals receiving the feedback. For example, we found that audit and feedback is more effective when it is tailored to the individual healthcare professional, when it is delivered in a way that is interactive and engaging, and when it includes a clear plan for improvement.\n\nWhat are the limitations of the evidence?\nWe have moderate confidence in the evidence that audit and feedback can be effective in improving professional practice. However, the evidence is not strong enough to confirm the findings, and further research is needed to identify the most effective ways to use audit and feedback. The main limitations of the evidence are the risk of bias in some of the studies and the lack of consistency in the way the audit and feedback was delivered.\n\nHow up to date is this evidence?\nThe evidence is up to date to June 2020. However, we did an updated search in February 2022, and we found some new studies that are awaiting classification. These studies may provide further insights into the effectiveness of audit and feedback, but they are not yet included in our analysis.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 546,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 26,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 21.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 57,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 40,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 14,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 143,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "flesch_reading_ease": {
+        "value": 47.92879120879124,
+        "rating": "P50",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 11.791208791208792,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 12.08516483516484,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.522783882783887,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 15.726007326007327,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.68498168498168,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.653846153846154,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 12.746794344808963,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 7.027918681318682,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 207,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words": {
+        "value": 100,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 173,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 173.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 546,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 546 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 7,
+      "P75_count": 8,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 38.88888888888889,
+      "P75_percentage": 44.44444444444444,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:25.867276"
+}

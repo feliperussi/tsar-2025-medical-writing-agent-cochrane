@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003962.PUB3",
+  "folder": "agentic_llama_3_3_70b_evaluator_gemini_2_5_flash",
+  "text": "What are the benefits and risks of treatments for IgA Nephropathy?\nIgA Nephropathy, or IgAN, is a type of kidney disease. It happens when the kidneys get inflamed due to an abnormal immune response. This disease affects 20% to 40% of patients who may have kidney failure within 25 years. IgAN can cause symptoms like blood in the urine, excess protein in the urine, and high blood pressure.\n\nIf not treated, IgAN can lead to serious problems like kidney failure. People with kidney failure may need dialysis, which uses a machine to clean the blood. Another option is a kidney transplant, where a healthy kidney from a donor is placed in the body.\n\nKey messages:\n- We found that blood-pressure medications may help decrease excess protein in the urine in people with IgA Nephropathy without causing significant harm.\n- Tonsillectomy, or surgical removal of the tonsils, may help the levels of protein and blood in the urine return to normal in people with IgAN. But the evidence is not strong enough to widely recommend this treatment, especially since the studies were mainly conducted in Japanese people with IgAN.\n- Future studies should include people from different backgrounds so we can be more certain about who these treatments help the most.\n\nWhat is IgA Nephropathy and why is it a problem?\nIgA Nephropathy is a type of kidney disease where the kidneys become inflamed. It is the most common disease that directly affects the tiny filters in the kidneys. IgAN affects approximately 20% to 40% of patients who may progress to kidney failure within 25 years. IgAN can cause symptoms like blood in the urine, excess protein in the urine, and high blood pressure.\n\nWhat are the current treatments for IgA Nephropathy?\nCurrently, there are various treatments available for IgAN. These include immunosuppressive therapy, which uses medicines to calm the body's overactive defense system. However, long-term immunosuppressive management can have significant risks. Non-immunosuppressive treatments, like blood-pressure medications, anticoagulants, dietary restrictions, and herbal medicines, help control blood pressure, reduce excess protein in the urine, and minimize the risks associated with long-term immunosuppressive therapy.\n\nWhat did the review authors want to find out?\nWe wanted to find out the benefits and harms of non-immunosuppressive treatments for IgAN in adults and children. We examined various non-immunosuppressive treatments, including anticoagulants, blood-pressure medications, dietary restriction and supplementation, tonsillectomy, and herbal medicines. We aimed to determine their effectiveness in managing IgAN and evaluate the certainty of the evidence for these treatments.\n\nHow did the review authors search for evidence?\nWe performed a systematic search of the literature for studies evaluating non-immunosuppressive treatments for IgA Nephropathy. We searched several medical databases for studies that met our requirements.\n\nWhat did the review authors find?\nThis review includes 80 studies with 4856 participants. Blood-pressure therapies were the most examined non-immunosuppressive therapy, with 37 studies and 1799 participants. Compared to a dummy treatment or no treatment, a type of blood-pressure-lowering treatment probably decreases excess protein in the urine. Tonsillectomy may help the levels of protein and blood in the urine return to normal in people with IgAN, but the evidence is not strong enough to widely recommend this treatment.\n\nWhat are the limitations of the evidence?\nThe evidence is limited because the studies were small, many were likely unblinded, not all studies reported all outcomes of interest, and there were major differences in the people included and how they received the treatments.\n\nIs the evidence up to date?\nThis review updates our previous review, and the evidence is up to date to December 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 633,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 35,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.085714285714285,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 8,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 56,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 30,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 181,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 181.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 48.948142180094806,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.925039945836154,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.088449559918757,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.870458135860982,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.9957391108102,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.259489957120294,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.457142857142857,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.344080432788601,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "dale_chall_readability": {
+        "value": 6.833891870909501,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 238,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 238.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 107,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 191,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 191.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 633,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 633 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 1,
+      "P75_count": 6,
+      "P90_count": 3,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 5.555555555555555,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 16.666666666666664,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 77.77777777777779,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:20:18.190796"
+}

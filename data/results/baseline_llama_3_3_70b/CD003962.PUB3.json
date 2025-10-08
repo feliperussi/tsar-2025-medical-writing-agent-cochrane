@@ -1,0 +1,155 @@
+{
+  "file_id": "CD003962.PUB3",
+  "folder": "baseline_llama_3_3_70b",
+  "text": "What are the benefits and risks of non-immunosuppressive treatment for IgA nephropathy?\n\n### Key Messages\n* Non-immunosuppressive treatments, such as antihypertensive therapies, may help decrease proteinuria in people with IgA nephropathy, but the evidence is not strong enough to be certain about their effects on kidney failure or other important outcomes.\n* Tonsillectomy may increase remission of proteinuria and microscopic haematuria, but the findings are based on low certainty evidence and may not be generalizable to people of other ethnicities.\n* Future research should focus on determining the long-term benefits and harms of non-immunosuppressive treatments for IgA nephropathy, and should include more diverse populations and longer follow-up periods.\n\n### Introduction to the review topic and review aims\nWhat is IgA nephropathy? IgA nephropathy, also known as IgA vasculitis, is a type of kidney disease that occurs when an antibody called immunoglobulin A (IgA) lodges in the kidneys and causes inflammation. This inflammation can damage kidney tissues and lead to kidney failure over time. IgA nephropathy is the most common cause of kidney failure worldwide.\n\nWhat are the common treatments for IgA nephropathy? The main goal of treatment is to reduce proteinuria, slow the progression of kidney disease, and manage related health problems like high blood pressure. Non-immunosuppressive treatments, such as antihypertensive therapies, are often used to manage IgA nephropathy. These treatments can help improve blood pressure management, decrease proteinuria, and avoid the risks of long-term immunosuppressive management.\n\nWhat did we want to find out? We wanted to assess the benefits and harms of non-immunosuppressive treatments for IgA nephropathy in adults and children. We aimed to examine all non-immunosuppressive therapies, such as anticoagulants, antihypertensives, dietary restriction and supplementation, tonsillectomy, and herbal medicines, in the management of IgA nephropathy.\n\n### What did we do?\nWe searched for studies that compared non-immunosuppressive treatments for IgA nephropathy. We found 80 studies that involved 4856 people with IgA nephropathy. The studies were conducted in various countries, and most were done in adults. The studies lasted for different lengths of time, and some were funded by pharmaceutical companies.\n\n### What did we find?\nWe found that antihypertensive therapies, such as renin-angiotensin system inhibition, probably decrease proteinuria, but may result in little or no difference to kidney failure or doubling of serum creatinine. Tonsillectomy may increase remission of proteinuria and microscopic haematuria, but the findings are based on low certainty evidence and may not be generalizable to people of other ethnicities. Other non-immunosuppressive treatments, such as anticoagulant therapy, fish oil, and traditional Chinese medicines, exhibited small benefits to kidney function, but the evidence is not robust enough to demonstrate efficacy.\n\n### What are the limitations of the evidence?\nWe have little confidence in the evidence because the studies were often underpowered, and there were concerns about the risk of bias and imprecision. The studies were often small, and the follow-up periods were short. Additionally, the studies were mostly conducted in adults, and there is limited evidence on the effectiveness of non-immunosuppressive treatments in children.\n\n### How up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to December 2023.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 568,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 25,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.72,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 10,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 42,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 24,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 23,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+      },
+      "nouns": {
+        "value": 169,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 169.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 35.87314366197185,
+        "rating": "P25",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 13.900025352112674,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 14.25117957746479,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 13.259929577464781,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 17.186591549295777,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 52.825633802816895,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.84,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.677078252031311,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.7 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.131559887323943,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 216,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 216.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 115,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "long_words": {
+        "value": 171,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 171.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 568,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 568 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 2,
+      "P50_count": 4,
+      "P75_count": 7,
+      "P90_count": 5,
+      "P10_count": 0,
+      "BEYOND_P90_count": 0,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 11.11111111111111,
+      "P50_percentage": 22.22222222222222,
+      "P75_percentage": 38.88888888888889,
+      "P90_percentage": 27.77777777777778,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 0.0,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 50.0,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:23:26.912087"
+}

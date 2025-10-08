@@ -1,0 +1,162 @@
+{
+  "id": "CD015219.PUB2",
+  "draft": "\"Does the antiviral drug favipiravir (an oral medication) improve recovery or reduce serious illness in people with COVID‑19?\n\nKey messages\n– We do not know whether favipiravir (an oral antiviral medicine) improves recovery or reduces serious illness such as death or the need for a breathing machine (mechanical ventilation). The studies give uncertain evidence, and the drug may cause more mild side‑effects, while serious side‑effects appear similar to other treatments.  \n– Most research involved adults with mild‑to‑moderate disease who were already in hospital, and favipiravir was usually given at a high dose for several days.  \n– Because the evidence is limited and uncertain, we need more well‑designed randomised (participants assigned by chance) trials that enrol larger numbers, include people with different disease severity, and report benefits and harms over longer periods.  \n\nWhy is COVID‑19 a global health challenge and what treatments are being explored?  \nCOVID‑19 is caused by the coronavirus SARS‑CoV‑2. Since it first appeared, it has spread worldwide, leading to many hospitalisations, deaths and huge pressure on health services. Most people develop mild or moderate symptoms, but some become seriously ill and need extra oxygen or a breathing machine (ventilator). Doctors have tried several medicines to help patients recover, such as steroids, the antiviral remdesivir, and supportive care (oxygen, fluids, rest). Favipiravir is a pill originally developed for flu that might stop the coronavirus from multiplying, but it was unclear whether it really helps people with COVID‑19 and whether it is safe.  \n\nWhat did the researchers aim to discover about favipiravir?  \nWe wanted to find out whether giving favipiravir to people with acute COVID‑19 changes important outcomes. We compared favipiravir with no treatment, usual supportive care, or other experimental antivirals. Specifically, we looked at death, the need for a breathing machine, hospital admission, the time it takes to recover, and whether the drug causes any side‑effects (unwanted effects).  \n\nHow did we find and assess the evidence?  \nWe searched the Cochrane COVID‑19 Study Register, MEDLINE, Embase, the WHO COVID‑19 Global literature database and three other sources up to 18 July 2023. We selected randomised controlled trials that compared favipiravir with no treatment, standard care or another antiviral. We combined the results and used the GRADE approach to rate our confidence in each outcome.  \n\nWhat did we find?  \nWe identified 25 trials that randomised 5 750 adults. Most participants were younger than 60 years and 89 % were hospitalised with mild‑to‑moderate COVID‑19. The trials were conducted in many countries, including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the United Kingdom and the United States. In 22 trials favipiravir was compared with a placebo (a harmless pill used for comparison) or standard care; two trials used lopinavir/ritonavir and one used umifenovir as the comparator. Most trials started favipiravir with a loading dose of 1 600 mg or 1 800 mg twice daily on day 1, followed by 600–800 mg twice daily for 5–14 days. The abstracts did not give information on follow‑up beyond the treatment period, on funding sources, or on gender distribution.  \n\nWhat do the results say about mortality and other outcomes?  \nWe do not have evidence that favipiravir reduces death in people with COVID‑19. We also do not have evidence that it reduces the need for a breathing machine. Favipiravir probably makes little or no difference to whether people are admitted to hospital, need extra oxygen, or recover faster. The drug may increase the overall frequency of side‑effects, but it probably does not change the risk of serious side‑effects.  \n\nWhat are the limitations of the evidence?  \nWe are not confident in the evidence because participants in many studies may have known which treatment they received, and because the studies were very small.  \n\nHow up‑to‑date is this review?  \nThe evidence we summarised is current up to July 2023.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 662,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 34,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.470588235294116,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "active_voice": {
+          "value": 63,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 37,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 18,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 158,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 158.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 51.482322729696136,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 10.915614003909724,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 10.354070552692374,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 10.205619335347428,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.24744979562822,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 49.07783899058112,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.764705882352941,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.40175425099138,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.4 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 6.976436040518927,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 252,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 252.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 140,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 140.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 196,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 196.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 662,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 662 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 7,
+        "P50_count": 1,
+        "P75_count": 5,
+        "P90_count": 5,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 38.88888888888889,
+        "P50_percentage": 5.555555555555555,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 27.77777777777778,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 66.66666666666666,
+        "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "Critical check failed: not all subheadings are phrased as questions – the section titled \"Key messages\" is a plain heading, not a question. This breaches the Master Style Guide requirement for question‑style subheadings.\n\nAdditional clarity and style issues that would confuse readers:\n1. \"Key messages\" – not a question and lacks the expected question format. Suggested rewrite: change the heading to \"What are the key messages?\" and keep the bullet points.\n2. Jargon without brief definition: \"randomised controlled trials\" and \"GRADE approach\" appear in the methods paragraph. Readers may not know these terms. Suggested rewrite: \"We looked at randomised controlled trials (studies where participants are randomly assigned to treatments) and used the GRADE system (a method for judging how confident we can be in the results).\"\n3. Long, dense sentence listing many countries: \"The trials were conducted in many countries, including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the United Kingdom and the United States.\" This overwhelms a lay reader. Suggested rewrite: \"The trials were carried out in countries across the world, such as Bahrain, Brazil, China, India, Iran, and the United Kingdom, among others.\"\n4. Complex phrasing about side‑effects: \"The drug may increase the overall frequency of side‑effects, but it probably does not change the risk of serious side‑effects.\" This is wordy and uses the abstract term \"overall frequency of side‑effects\". Suggested rewrite: \"The drug may cause more mild side‑effects, but serious side‑effects are about the same as with other treatments.\"\n5. Unnecessary detail for a lay audience: \"The abstracts did not a question and lacks the expected question format. Suggested rewrite: change the heading to \"What are the key messages?\" and keep the bullet points.\n2. Jargon without brief definition: \"randomised controlled trials\" and \"GRADE approach\" appear in the methods paragraph. Readers may not know these terms. Suggested rewrite: \"We looked at randomised controlled trials (studies where participants are randomly assigned to treatments) and used the GRADE system (a method for judging how confident we can be in the results).\"\n3. Long, dense sentence listing many countries: \"The trials were conducted in many countries, including Bahrain, Brazil, China, India, Iran, Kuwait, Malaysia, Mexico, Russia, Saudi Arabia, Thailand, the United Kingdom and the United States.\" This overwhelms a lay reader. Suggested rewrite: \"The trials were carried out in countries across the world, such as Bahrain, Brazil, China, India, Iran, and the United Kingdom, among others.\"\n4. Complex phrasing about side‑effects: \"The drug may increase the overall frequency of side‑effects, but it probably does not change the risk of serious side‑effects.\" This is wordy and uses the abstract term \"overall frequency of side‑effects\". Suggested rewrite: \"The drug may cause more mild side‑effects, but serious side‑effects are about the same as with other treatments.\"\n5. Unnecessary detail for a lay audience: \"The abstracts did not give information on follow‑up beyond the treatment period, on funding sources, or on gender distribution.\" This sentence adds technical reporting details that do not help a patient understand the findings. Suggested rewrite: remove the sentence or replace with a simpler note, e.g., \"The studies did not report long‑term follow‑up or details about funding and participants' gender.\"\n\nThese issues, combined with the metric findings (high noun count 158, high SMOG 14.4, many complex words 140, and many long words 196) indicate the draft is more noun‑heavy and complex than typical PLS texts, further reducing readability for patients.",
+      "pls_evaluation_summary": "The draft conforms overall to typical PLS patterns but shows deviations in noun count (158, P90), SMOG index (14.4, P90), complex words (140, P90) and long words (196, P90). Readability scores are acceptable (Flesch‑Reading Ease 51.5, Grade 10.9). The main structural issue is a non‑question subheading and several sentences that are long or contain unexplained technical terms."
+    }
+  ]
+}

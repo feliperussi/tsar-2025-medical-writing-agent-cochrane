@@ -1,0 +1,155 @@
+{
+  "file_id": "CD007491.PUB3",
+  "folder": "baseline_gpt_5",
+  "text": "Plain Language Summary Title\nIs hospital at home (admission avoidance hospital at home: short-term urgent care delivered at home) as effective as staying in hospital for adults?\n\nKey Messages\n- For older adults with sudden illnesses (acute conditions), getting hospital care at home probably makes little or no difference to deaths and returns to hospital (readmissions) compared with staying in hospital. It probably lowers the chance of moving into a care home (residential care), and may improve satisfaction. Harmful or unwanted effects were not well reported.\n- People’s own ratings of their health were similar with hospital at home and with hospital care. Hospital at home probably costs less for health services and usually leads to shorter time under care. Effects on family caregivers were rarely studied.\n- We did not find enough good-quality information on harms or caregiver outcomes. Future research should clearly report unwanted effects, caregiver experiences, costs using common methods, and which groups of people benefit most, including younger adults.\n\nWhat is hospital at home?\nHospital at home means trained healthcare staff provide active, short-term treatment in your home. This care is for illnesses that would usually need you to be admitted to hospital. Care is time-limited, and you can be moved to hospital if needed.\n\nWhy is this important?\nStaying in hospital can be hard for many people, especially older adults. Being at home may feel safer and more comfortable. It may help people keep their independence. Health services also want to know if caring for people at home costs less, while still giving safe and effective care.\n\nWhat did we want to find out?\nWe wanted to find out if hospital at home works as well as staying in hospital for adults who need urgent care. We looked at health outcomes, satisfaction, readmissions, moves to care homes, how long care lasted, effects on caregivers, and costs to health services and society.\n\nWhat did we do?\nWe searched for studies that compared hospital at home with staying in hospital for adults. We summarized the results across these studies and judged how confident we are in the findings.\n\nWhat did we find?\nWe found 20 studies that involved 3100 adults. Many people were older. Some studies focused on people with chronic obstructive pulmonary disease (COPD; a long-lasting lung disease that makes breathing hard). Others focused on people recovering from stroke (brain injury from a blocked or burst blood vessel). Seven studies included people with sudden medical problems. The rest included mixed conditions. Follow-up times were commonly around 6 months, and sometimes up to 12 months.\n\nAcross these studies, hospital at home services were time-limited and included the option to transfer people to hospital if needed. The studies were done in different places and used different ways to deliver hospital at home. Some studies reported costs to health services; fewer reported costs to society or caregiver effects.\n\nMain results:\n- Deaths: For older adults, hospital at home probably makes little or no difference to the chance of dying within about 6 months, compared with staying in hospital.\n- Readmissions: Hospital at home probably makes little or no difference to the chance of returning to hospital within 3 to 12 months.\n- Moving to a care home: Hospital at home probably reduces the chance of moving into a care home within about 6 months.\n- Health status: People’s own ratings of their health were similar between hospital at home and hospital care.\n- Satisfaction: People may feel more satisfied with care when they receive hospital at home.\n- Caregiver outcomes: Few studies reported caregiver experiences, so we do not know the effects on family and friends who provide support.\n- Length of care: Hospital at home generally led to shorter time under care than hospital admission.\n- Costs: Hospital at home probably costs less for health services compared with hospital admission. Some evidence suggests overall costs to society may also be lower at about 6 months, but cost methods varied between studies.\n\nWhat are the limitations of the evidence?\nWe are moderately confident in these findings, with some important caveats. People and staff likely knew which type of care they received, which can influence reported outcomes like satisfaction. The hospital at home services and cost methods differed between studies, which makes results harder to compare. Some outcomes were based on small numbers of studies, and caregiver effects were rarely measured. Most people were older adults, so the results may not apply to younger adults or to all types of urgent conditions.\n\nHow up to date is this evidence?\nThis review updates our previous review. The evidence is up to date to February 2022.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 801,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 48,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 16.6875,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 19,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+      },
+      "active_voice": {
+        "value": 83,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 39,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 16,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 250,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 250.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 57.45224367977528,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.391533239700376,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 9.640529026217227,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.798501872659173,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 14.015823970037454,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 44.90223158551811,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 4.708333333333333,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 15.569805089976535,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 15.6 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 6.386726217228466,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 282,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 282.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 147,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 147.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 226,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 226.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 801,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 801 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 8,
+      "P50_count": 0,
+      "P75_count": 4,
+      "P90_count": 1,
+      "P10_count": 0,
+      "BEYOND_P90_count": 5,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 44.44444444444444,
+      "P50_percentage": 0.0,
+      "P75_percentage": 22.22222222222222,
+      "P90_percentage": 5.555555555555555,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 27.77777777777778,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 66.66666666666666,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:22:34.066785"
+}

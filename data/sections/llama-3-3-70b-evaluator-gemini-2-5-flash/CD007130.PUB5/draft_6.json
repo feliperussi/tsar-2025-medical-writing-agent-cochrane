@@ -1,0 +1,162 @@
+{
+  "id": "CD007130.PUB5",
+  "draft": "Is home-based cardiac rehabilitation as effective as centre-based cardiac rehabilitation for people with heart disease?\n\nKey messages:\n- Home-based cardiac rehabilitation seems to be as effective as centre-based cardiac rehabilitation for people with heart disease.\n- Both types of rehabilitation improve clinical and health-related quality of life outcomes.\n- We need more research to determine the long-term effects of home-based and centre-based cardiac rehabilitation.\n\nWhat is cardiovascular disease and why is it a problem?\nCardiovascular disease is the most common cause of death globally. It refers to conditions that affect the heart and blood vessels, such as a heart attack (when a lack of blood flow damages the heart muscle) or a stroke (when a lack of blood flow damages the brain).\n\nWhat are home-based and centre-based cardiac rehabilitation programmes?\nWe define centre-based cardiac rehabilitation programmes as supervised programmes that take place in hospitals, sports centres, or community centres. Home-based cardiac rehabilitation programmes can include digital or telehealth interventions (using technology to deliver healthcare remotely) and are designed to be done at home with support from healthcare staff.\n\nWhat did the review authors want to find out?\nWe wanted to compare the effects of home-based and centre-based cardiac rehabilitation programmes on mortality (death rate), morbidity (disease rate), exercise capacity, health-related quality of life, and risk factors for heart disease, such as high blood pressure or cholesterol, in patients with heart disease.\n\nHow did the review authors find the information?\nWe searched for studies comparing home-based and centre-based cardiac rehabilitation, summarized their results, and rated our confidence in the evidence to find out how well these programs improved people's health and quality of life.\n\nWhat did the review authors find?\nWe found 24 studies that involved 3046 people with heart disease. Most studies lasted for around 12 months or less, with only 3 studies reporting outcomes beyond 12 months. We found that home-based and centre-based cardiac rehabilitation seem to be similarly effective in improving clinical and health-related quality of life outcomes in patients after myocardial infarction (heart attack), or revascularisation (a procedure to restore blood flow to the heart), or with heart failure.\n\nWhat are the limitations of the evidence?\nOur confidence in the evidence is limited for a few reasons. The studies included were very small, and some did not report on all the results we were looking for. Also, in some studies, people may have known which treatment they were getting, which can affect the results.\n\nIs the evidence up to date?\nThis review updates our previous review. The evidence is up to date to September 2022.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 464,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 24,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 19.333333333333332,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 24,
+          "rating": "BEYOND_P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 24.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 37,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 24,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 23,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 23.0 to <13.0 (median)"
+        },
+        "nouns": {
+          "value": 164,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 164.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 50.46597701149426,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.023275862068967,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.573498563218394,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.80284482758621,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 17.129885057471267,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 48.643678160919535,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 5.666666666666667,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 11.888194417315589,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "dale_chall_readability": {
+          "value": 7.390635919540231,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 189,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words": {
+          "value": 109,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "long_words": {
+          "value": 136,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        }
+      },
+      "word_count_status": {
+        "word_count": 464,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 464 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 5,
+        "P50_count": 5,
+        "P75_count": 5,
+        "P90_count": 2,
+        "P10_count": 0,
+        "BEYOND_P90_count": 1,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 27.77777777777778,
+        "P50_percentage": 27.77777777777778,
+        "P75_percentage": 27.77777777777778,
+        "P90_percentage": 11.11111111111111,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 5.555555555555555,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 55.55555555555556,
+        "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "This draft is a good start, but it needs revisions to improve clarity and adopt a more direct, active tone suitable for a lay audience. The main issues are a reliance on passive voice and technical language. Here are the top 3 improvements needed:\n\n1. **Simplify Definitions and Lead with Plain Language:** Some sentences introduce complex medical terms first, which can intimidate readers. Put the simple explanation before the technical term.\n   - **Problem:** '...in patients after myocardial infarction (heart attack), or revascularisation (a procedure to restore blood flow to the heart), or with heart failure.'\n   - **Suggestion:** Rewrite this as: '...for people who have had a heart attack, heart failure, or a procedure to restore blood flow to the heart (revascularisation).'\n\n2. **Use Active Voice for More Direct Sentences:** The summary frequently uses passive voice, which makes the text feel formal and can hide who is performing the action.\n   - **Problem:** 'Home-based cardiac rehabilitation programmes... are designed to be done at home with support from healthcare staff.'\n   - **Suggestion:** Rewrite this in the active voice: 'In home-based programmes, people do their rehabilitation at home with support from healthcare staff...'\n\n3. **Be More Specific About Study Limitations:** The explanation of limitations is a bit vague. Being more direct about the scientific concept helps build reader trust.\n   - **Problem:** 'Also, in some studies, people may have known which treatment they were getting, which can affect the results.'\n   - **Suggestion:** Rewrite this to be more precise: 'Also, some studies were not 'blinded', meaning people knew which type of rehabilitation they were getting. This knowledge could have influenced the results.'\n\n**Supporting Evidence:** Your own evaluation results support this feedback. They show the use of passive voice is unusually high ('BEYOND_P90') and the text has a high number of nouns and nominalizations ('P90'), confirming the need for a more direct, verb-driven style.",
+      "pls_evaluation_summary": "The PLS evaluation shows good overall conformity, with most readability scores falling in the best quartile. However, the draft deviates significantly from typical PLS patterns in sentence structure and vocabulary. Specifically, the use of passive voice is exceptionally high (BEYOND_P90), and the text has a high density of nouns and nominalizations (P90). These metrics suggest the writing style is more academic and less direct than is ideal for a plain language summary."
+    }
+  ]
+}

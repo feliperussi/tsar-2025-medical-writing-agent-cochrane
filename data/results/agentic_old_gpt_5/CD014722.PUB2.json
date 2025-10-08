@@ -1,0 +1,155 @@
+{
+  "file_id": "CD014722.PUB2",
+  "folder": "agentic_old_gpt_5",
+  "text": "Do local clinic staff and community health workers help prevent mental health problems and improve well‑being in low‑ and middle‑income countries (LMICs) (LMICs: countries the World Bank classifies as low, lower‑middle, or upper‑middle income)?\n\nKey messages:\n- Primary care health workers (primary care: health services that meet basic health care needs over time) and community health workers (trained local people who give basic health education and support) may help prevent or reduce common mental health problems (mental health: a person’s overall psychological and emotional condition). Benefits were small and varied. We have low to moderate confidence (how sure we are about the evidence).\n- Results varied by program type: universal prevention (programs offered to everyone), selective prevention (programs for groups with a higher chance of problems), and indicated prevention (programs for people with early or mild symptoms). Most gains were small and seen soon after the program (post‑intervention: the period after an intervention when outcomes are checked).\n- Studies rarely reported harms (adverse events: unwanted events that cause harm) or costs (money, staff time, and resources). Future trials should be larger, run longer, and report harms and costs. Research should test how best to train and support workers and how task‑shifting (moving specific tasks from specialists to trained non‑specialists) can work safely.\n\nWhy did we do this review?\n- We wanted to know if programs run by primary care and community health workers in LMICs help adults and children stay mentally well, lower symptoms such as depression and anxiety (anxiety: feelings of fear or uneasiness), and improve daily functioning (how someone does everyday activities) and quality of life (how someone feels and functions day to day).\n\nWho delivered the programs and what did they do?\n- Primary care workers (first contact health workers, such as local clinic nurses or general doctors) and community health workers (trained community members who link people to clinics) delivered education, stress management, problem solving, parenting support, or group activities to build resilience.\n\nHow did we do the review?\n- We searched for randomized controlled trials (RCTs) (studies where people are assigned by chance to an intervention or control group) from LMICs. We included trials that compared these programs with usual care (the care a provider would normally give). We combined results with meta‑analysis (a method that combines results from many studies) to get overall estimates.\n\nWhat did we find?\n- We included 113 studies with 32,992 people. Ninety‑seven trials with 19,570 people had data we could combine.\n- Studies came from low, lower‑middle, and upper‑middle income countries. Most compared programs with usual care. Follow‑up ranged from immediately after the program to up to 2 years.\n- Overall, programs led to small improvements in mental health outcomes compared with usual care. Our certainty ranged from low to moderate because studies differed in design, quality, and measurement.\n\nKey findings for adults:\n- Programs probably reduce anxiety slightly.\n- Programs may reduce distress or traumatic stress (distress: emotional pain or suffering; PTSD: an anxiety disorder after severe trauma) slightly.\n- For people at higher risk (risk: chance), programs probably reduce depression.\n- For people with early signs, programs may reduce unwanted effects slightly and probably improve daily functioning slightly.\n\nKey findings for children and adolescents:\n- Programs may improve quality of life slightly.\n- Programs may reduce unwanted effects slightly.\n- Programs may reduce depression and anxiety slightly.\n- For those at higher risk, programs probably reduce depression and distress slightly.\n- For those with early signs, programs probably reduce day‑to‑day functioning problems and depression slightly.\n\nWhat limits the evidence?\n- Many studies could not hide which group people were in, causing performance bias (when care or behaviour differs because people know the group). Other risks of bias (flaws in study design, conduct, or analysis) and differences between studies lower our confidence.\n- Not all studies reported harms (adverse events) or costs. Some important data were missing.\n\nWhat should future research do?\n- Run larger, better‑designed trials. Follow people for longer. Report harms and costs. Test how best to train and support workers and how task‑shifting can be used safely in different settings.\n\nHow current is the evidence?\n- We searched up to November 2021.\n\nWhat this means for people and services\n- Training primary care and community workers to deliver prevention and promotion may help reach more people in LMICs at low cost. The gains are small and may not last. We need more strong studies to know how well this works over time.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 758,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 42,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 18.047619047619047,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 12,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 89,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 34,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 253,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 253.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 58.268381706244526,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 9.615589898228425,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 10.795841186078654,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 11.525488126649076,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 13.920894584746828,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 48.12677472044227,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 5.428571428571429,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 13.908712114635714,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 13.9 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 8.144396733257947,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 348,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 348.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 127,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 127.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 228,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 228.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 758,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 758 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 6,
+      "P50_count": 2,
+      "P75_count": 5,
+      "P90_count": 2,
+      "P10_count": 0,
+      "BEYOND_P90_count": 3,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 33.33333333333333,
+      "P50_percentage": 11.11111111111111,
+      "P75_percentage": 27.77777777777778,
+      "P90_percentage": 11.11111111111111,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 16.666666666666664,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 61.111111111111114,
+      "overall_assessment": "HIGHLY CONFORMS TO TYPICAL PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:21:40.556346"
+}

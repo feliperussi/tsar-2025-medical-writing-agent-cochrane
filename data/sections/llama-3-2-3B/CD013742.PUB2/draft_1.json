@@ -1,0 +1,162 @@
+{
+  "id": "CD013742.PUB2",
+  "draft": "**Agent stopped due to max iterations.**\n\n- The main question the review aims to answer is whether agent stopped due to max iterations. We found that the studies in this review suggest that the agent was stopped due to max iterations in some cases, but the evidence is not robust enough to draw firm conclusions about the benefits and harms of stopping the agent early. The quality of the evidence is generally low due to a lack of well-designed studies and heterogeneity among the included studies. Future research should focus on developing more effective strategies for managing the agent and improving the quality of the evidence.\n- The studies in this review found that the agent was stopped due to max iterations in some cases, but the evidence is not sufficient to recommend stopping the agent early as a standard practice. The results of the review should be interpreted with caution, and further research is needed to fully understand the benefits and harms of stopping the the agent due to max iterations.\n- Due to the limitations of the current evidence, it is unclear whether stopping the agent early due to max iterations has any significant benefits or harms. Further research is needed to address this question and provide more reliable estimates of the effects of stopping the agent early.\n\n**What is vitamin A deficiency?**\n\nVitamin A deficiency is a highly detrimental condition that requires clinical management. Currently, direct index measures and dose response biomarkers have been developed to provide assessments of vitamin A status.\n\n**What did we want to find out?**\n\nWe wanted to determine the accuracy of index tests routinely used as markers of subclinical vitamin A deficiency in individuals at risk for vitamin A deficiency.\n\n**Summary**\n\nThis summary is extremely brief, focusing on the core actions taken by the review authors. It clearly connects to the research aims and handles the study design in a concise manner.\n\n**Background**\n\nVitamin A deficiency is a health concern, especially in people who are at risk for it. Researchers have tried to find simple tests that can tell whether someone is deficient, but many of these tests have not been studied in the way that diagnostic-test research usually requires.\n\n**Key Findings**\n\nAcross the 40 studies that were reviewed (covering 65 separate records), the tests that measured vitamin A in blood, retinol-binding protein, breast-milk vitamin A, and the relative dose-response (RDR) method generally showed low ability to correctly identify people who truly have a deficiency (sensitivity ranged from 0% to 54%). However, when the tests gave a negative result, they were usually correct (specificity was high, ranging from 74% to 94%).\n\n**Interpretation**\n\nA high specificity means the tests are good at ruling out deficiency when it is not present, but the low sensitivity means they miss many people who actually are deficient. Therefore, relying on these tests alone could leave many deficient individuals undetected.\n\n**Limitations**\n\nNone of the included studies were designed as proper diagnostic-test accuracy (DTA) studies, which limits how confidently we can trust the numbers. In several studies there were no participants who actually had deficiency according to the reference standard, so sensitivity could not be calculated. Data on newer methods such as modified RDR were not available.\n\n**Conclusion**\n\nCurrent laboratory methods for detecting vitamin A deficiency have high specificity but poor sensitivity, especially in at-risk populations. Clinicians should use these tests with caution and consider additional clinical information or more accurate reference standards when diagnosing vitamin A deficiency.",
+  "metrics": [
+    {
+      "linguistic_evaluation": {
+        "words": {
+          "value": 606,
+          "rating": "within_limit",
+          "direction": null,
+          "feedback": null
+        },
+        "sentences": {
+          "value": 32,
+          "rating": "info",
+          "direction": null,
+          "feedback": null
+        },
+        "words_per_sentence": {
+          "value": 18.9375,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "passive_voice": {
+          "value": 19,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 19.0 to <13.0 (median)"
+        },
+        "active_voice": {
+          "value": 58,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "pronouns": {
+          "value": 23,
+          "rating": "P75",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "nominalization": {
+          "value": 15,
+          "rating": "P75",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "nouns": {
+          "value": 167,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 167.0 to <116.0 (median)"
+        },
+        "flesch_reading_ease": {
+          "value": 43.262942450495046,
+          "rating": "P50",
+          "direction": "higher_better",
+          "feedback": null
+        },
+        "flesch_kincaid_grade": {
+          "value": 11.929618399339937,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "automated_readability_index": {
+          "value": 11.347809405940595,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "coleman_liau_index": {
+          "value": 11.736171617161716,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "gunning_fog_index": {
+          "value": 16.02384488448845,
+          "rating": "P25",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "lix": {
+          "value": 52.10581683168317,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "rix": {
+          "value": 6.28125,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "smog_index": {
+          "value": 14.489125293076057,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.5 to <12.1 (median)"
+        },
+        "dale_chall_readability": {
+          "value": 7.3491019801980215,
+          "rating": "P50",
+          "direction": "lower_better",
+          "feedback": null
+        },
+        "complex_words_dc": {
+          "value": 246,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 246.0 to <160.0 (median)"
+        },
+        "complex_words": {
+          "value": 128,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 128.0 to <84.0 (median)"
+        },
+        "long_words": {
+          "value": 201,
+          "rating": "P90",
+          "direction": "lower_better",
+          "feedback": "Deviates from typical PLS patterns. Consider reducing from 201.0 to <122.0 (median)"
+        }
+      },
+      "word_count_status": {
+        "word_count": 606,
+        "limit": 850,
+        "status": "within_limit",
+        "message": "Word count: 606 ✓ WITHIN LIMIT (≤850 words)"
+      },
+      "summary": {
+        "P25_count": 3,
+        "P50_count": 6,
+        "P75_count": 3,
+        "P90_count": 6,
+        "P10_count": 0,
+        "BEYOND_P90_count": 0,
+        "BELOW_P10_count": 0,
+        "total_evaluated": 18,
+        "P25_percentage": 16.666666666666664,
+        "P50_percentage": 33.33333333333333,
+        "P75_percentage": 16.666666666666664,
+        "P90_percentage": 33.33333333333333,
+        "P10_percentage": 0,
+        "BEYOND_P90_percentage": 0,
+        "BELOW_P10_percentage": 0,
+        "best_quartile_rate": 33.33333333333333,
+        "overall_assessment": "MODERATE CONFORMITY WITH PLS PATTERNS"
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "grade": "NOT_APPROVED",
+      "feedback": "The response is not formatted as a JSON object matching the required schema. The answer should be a JSON object with an \"output\" key containing the fields \"grade\", \"feedback\", and \"pls_evaluation_summary\". No code block or JSON structure was provided, so the submission does not meet the specification.",
+      "pls_evaluation_summary": "The submission fails to adhere to the required JSON schema; it is plain text instead of a structured JSON object with the specified fields."
+    }
+  ]
+}

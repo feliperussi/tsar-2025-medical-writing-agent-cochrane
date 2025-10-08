@@ -1,0 +1,155 @@
+{
+  "file_id": "CD009384.PUB3",
+  "folder": "agentic_gpt_oss_120b",
+  "text": "Is giving zinc supplements (a mineral) effective at reducing death, illness, and poor growth in children aged 6 months to 12 years?\n\nKey messages:\n- Giving zinc supplements to children aged 6 months to 12 years does not lower overall death rates and probably does not change death from diarrhoea, but it probably reduces deaths from lung infections and malaria, although the evidence is less certain. Zinc probably reduces diarrhoea episodes, may increase height slightly, and increases the chance of vomiting; we are fairly sure about the benefits and very sure about the side‑effect.\n- When zinc is taken together with iron, the positive effects on diarrhoea reduction and growth appear weaker, suggesting that iron may diminish zinc’s benefits.\n- More research is needed that follows children for longer periods and includes larger numbers, especially to clarify any impact on death from specific illnesses and to better understand the balance of benefits and unwanted side effects such as vomiting.\n\nWhy is zinc important for children’s health?\nMany children, especially in low‑ and middle‑income countries, do not get enough zinc in their diet. Zinc is a mineral that helps the immune system work, protects against infections, and supports normal growth of the body and bones. When children lack zinc, they are more likely to become sick with diarrhoea (watery stools), pneumonia (a type of lower‑respiratory‑tract infection or lung infection), and malaria, and they may also grow more slowly or become shorter than expected. These problems can lead to higher rates of death (mortality) and illness (morbidity) among young children.\n\nWhat did the researchers want to find out about zinc supplementation?\nWe set out to discover whether giving zinc supplements to healthy children aged 6 months to 12 years can reduce the risk of death and illness and help them grow better. Specifically, we wanted to know if a daily preventive zinc dose (usually 10–15 mg as syrup) lowers overall mortality, reduces deaths caused by diarrhoea, lung infections, or malaria, decreases the number of illness episodes, and improves growth measures such as height. We also examined whether zinc might cause any unwanted side effects.\n\nHow did we find the evidence?\nWe searched for randomised controlled trials that examined preventive zinc supplementation in children aged 6 months to 12 years. We combined the findings on mortality, morbidity and growth, and we rated our confidence in the evidence using the GRADE system. We used active language throughout our review process.\n\nWhat did we find?\nWe identified 96 randomised trials involving 219,584 children, most of whom were under five years old. The studies were conducted in 34 countries, and 87 % were low‑ or middle‑income settings. We usually gave children a syrup containing zinc sulfate (10–15 mg daily) and compared it with no zinc, a placebo, or a waiting‑list control. The median follow‑up time was 26 weeks.\n\nWhat are the effects of giving zinc?\n- Overall death rates: zinc makes little or no difference; we are very sure.\n- Death from diarrhoea: probably no change; we are fairly sure.\n- Death from lung infections and malaria: probably reduced, but the confidence intervals are wide, so we are fairly sure.\n- Diarrhoea episodes: probably reduced; we are fairly sure.\n- Respiratory infections overall: little or no difference; we are very sure.\n- Height: probably a small increase; we are fairly sure.\n- Vomiting: more children experience at least one episode; we are very sure.\nWe have moderate‑certainty evidence (meaning we are reasonably confident but some uncertainty remains) for the likely reduction in deaths from lung infections and malaria.\n\nWhat are the limitations of the evidence?\nOur confidence in many outcomes is only moderate because there are not enough studies to be certain. Some results have wide confidence intervals, meaning the true effect could be larger or smaller than we estimate.\n\nHow up‑to‑date is this review?\nWe searched for studies up to February 2022, so the evidence reflects research published until then.",
+  "metrics": {
+    "linguistic_evaluation": {
+      "words": {
+        "value": 682,
+        "rating": "within_limit",
+        "direction": null,
+        "feedback": null
+      },
+      "sentences": {
+        "value": 31,
+        "rating": "info",
+        "direction": null,
+        "feedback": null
+      },
+      "words_per_sentence": {
+        "value": 22.0,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "passive_voice": {
+        "value": 15,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "active_voice": {
+        "value": 66,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "pronouns": {
+        "value": 43,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "nominalization": {
+        "value": 20,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "nouns": {
+        "value": 193,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 193.0 to <116.0 (median)"
+      },
+      "flesch_reading_ease": {
+        "value": 56.24048387096775,
+        "rating": "P75",
+        "direction": "higher_better",
+        "feedback": null
+      },
+      "flesch_kincaid_grade": {
+        "value": 10.88032258064516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "automated_readability_index": {
+        "value": 11.352023460410557,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "coleman_liau_index": {
+        "value": 10.047390029325516,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "gunning_fog_index": {
+        "value": 16.60058651026393,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "lix": {
+        "value": 49.56598240469208,
+        "rating": "P25",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "rix": {
+        "value": 6.064516129032258,
+        "rating": "P50",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "smog_index": {
+        "value": 14.090536506409418,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 14.1 to <12.1 (median)"
+      },
+      "dale_chall_readability": {
+        "value": 7.712812903225807,
+        "rating": "P75",
+        "direction": "lower_better",
+        "feedback": null
+      },
+      "complex_words_dc": {
+        "value": 286,
+        "rating": "BEYOND_P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 286.0 to <160.0 (median)"
+      },
+      "complex_words": {
+        "value": 133,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 133.0 to <84.0 (median)"
+      },
+      "long_words": {
+        "value": 188,
+        "rating": "P90",
+        "direction": "lower_better",
+        "feedback": "Deviates from typical PLS patterns. Consider reducing from 188.0 to <122.0 (median)"
+      }
+    },
+    "word_count_status": {
+      "word_count": 682,
+      "limit": 850,
+      "status": "within_limit",
+      "message": "Word count: 682 ✓ WITHIN LIMIT (≤850 words)"
+    },
+    "summary": {
+      "P25_count": 4,
+      "P50_count": 3,
+      "P75_count": 6,
+      "P90_count": 4,
+      "P10_count": 0,
+      "BEYOND_P90_count": 1,
+      "BELOW_P10_count": 0,
+      "total_evaluated": 18,
+      "P25_percentage": 22.22222222222222,
+      "P50_percentage": 16.666666666666664,
+      "P75_percentage": 33.33333333333333,
+      "P90_percentage": 22.22222222222222,
+      "P10_percentage": 0.0,
+      "BEYOND_P90_percentage": 5.555555555555555,
+      "BELOW_P10_percentage": 0.0,
+      "best_quartile_rate": 55.55555555555556,
+      "overall_assessment": "GOOD CONFORMITY WITH PLS PATTERNS"
+    }
+  },
+  "processed_at": "2025-10-07T04:19:49.784093"
+}
